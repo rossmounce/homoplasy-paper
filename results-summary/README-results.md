@@ -3,49 +3,49 @@ More studies will be added, their inter-relationships (overlap!) and other metad
 
 Here follows a description of each column of the csv
 
-Column A
+*Column A*
 The filename identifier of the dataset analysed ( located in homoplasy-paper/data-matrices )
 
-Column B
+*Column B*
 The ensemble Consistency Index of the whole dataset, excluding uninformative characters
 
-Column C
+*Column C*
 The ensemble Restriction Index of the whole dataset, excluding uninformative characters
 
-Column D
+*Column D*
 The length of the shortest MPT(s)
 
-Column E
+*Column E*
 The number of MPT(s) found by analysis with TNT ( xmult=level10 + bb )
 
-Column F
+*Column F*
 The shortest possible tree given the characters and their state changes
 
-Column G
+*Column G*
 The Total Support Index of the whole dataset, excluding uninformative characters
 
-Column H
+*Column H*
 The Proportional Support Index of the whole dataset, excluding uninformative characters
 
-Column I
+*Column I*
 The mean of all per character consistency indices, for each informative character in the dataset
 
-Column J
+*Column J*
 The mean of all per character restriction indices, for each informative character in the dataset
 
-Column K
+*Column K*
 The modified homoplasy excess ratio (Mounce, 2014)
 
-Column L
+*Column L*
 The number of informative characters in the dataset
 
-Column M
+*Column M*
 The number of taxa in the dataset
 
-Column N 
+*Column N* 
 (blank)
 
-Columns O-T
+*Columns O-T*
 The first 10 characters of the first 5 or 6 taxon names in the dataset
 
 
