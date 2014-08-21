@@ -1,0 +1,28 @@
+xread
+'File downloaded from graemetlloyd.com'
+36 22
+Arthricocephalus_chauveaui       021600003000100320300???510?50010100
+Changaspis_placenta              021500011000030122202010103000321131
+Lancastria_roddyi                010101111000002122103011103030300032
+Opsiosoryctocephalus_ophis       0213110400011313103130???11140210112
+Oryctocephalites_burgessensis    010601001000211121113100612150220123
+Oryctocephalites_opiki           010301001100220112103100612151210113
+Oryctocephalites_palmeri         020[23]010011011201021031??612140210112
+Oryctocephalites_rasettii        02030103[01]0011101012011??512120110012
+Oryctocephalites_resseri         10030100111012010300?????12130220022
+Oryctocephalites_reynoldsi       010501001000121112103000612151210123
+Oryctocephalites_reynoldsformis  010501001000011132003000612151200113
+Oryctocephalites_runcinatus      0103000110002202111021???11140210122
+Oryctocephalites_salteri         0003010000001102012011??612150200022
+Oryctocephalites_typicalis       10030100100021010110?????11141120111
+Oryctocephalites_walcotti        0105010010002212220031??611151210123
+Oryctocephalops_frischenfeldi    0105010310000112011031??212110200122
+Oryctocephalus_indicus           0300110031100121201021002131[23]0300122
+Oryctocephalus_lancastrioides    020111001010033111302000113020300032
+Oryctocephalus_nyensis           02001100[23]110013121203100103020300132
+Oryctocephalus_orientalis        010101003110011102002000?12120300122
+Oryctocephalus_primus            01011100311010110100?????12140220112
+Protoryctocephalus_wuxunensis    0005010000000301020020??412120200122
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 -[/1 10 -[/1 11 -[/1 12 -[/1 13 -[/1 14 -[/1 15 -[/1 16 -[/1 17 -[/1 18 -[/1 19 -[/1 20 -[/1 21 -[/1 22 -[/1 23 -[/1 24 -[/1 25 -[/1 26 -[/1 27 -[/1 28 -[/1 29 -[/1 30 -[/1 31 -[/1 32 -[/1 33 -[/1 34 -[/1 35 ;
+procedure /;

@@ -1,0 +1,14 @@
+xread
+'File downloaded from graemetlloyd.com'
+10 8
+P_dilectum          0334043010
+P_curionii          2437132102
+F_cornacaldens      2210400132
+P_celebratum        1246031121
+P_marianii          1023221122
+F_gr_brevi_isseli   0001410223
+F_gr_portisi_laevi  0012410234
+P_volubile          0125310133
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 ;
+procedure /;

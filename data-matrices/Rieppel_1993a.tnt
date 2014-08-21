@@ -1,0 +1,17 @@
+xread
+'File downloaded from graemetlloyd.com'
+11 11
+Petrolacosaurus      000000000?0
+Claudiosaurus        00000000000
+Youngina             000000000?0
+Keichousaurus        000110001?0
+Dactylosaurus        10000001000
+Anarosaurus          10?1???1000
+Psilotrachelosaurus  ??0110?11?1
+Serpianosaurus       1[01][01]11101001
+N_pusillus           1[01]111101111
+N_peyeri             2[01]011111111
+N_edwardsii          21011111111
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 -[/1 10 ;
+procedure /;

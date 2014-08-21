@@ -1,0 +1,14 @@
+xread
+'File downloaded from graemetlloyd.com'
+14 8
+Non_avian_theropods  00000000000000
+Archaeopteryx        01000000100?00
+Iberomesornis        11??1000111?01
+Concornis            1111111011110?
+Hesperornithiformes  00??0111111011
+Carinatae            11211111111211
+Ambiortus            ??20?????102??
+Enantiornithes       112?111011?2?1
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 -[/1 10 +[/1 11 -[/1 12 -[/1 13 ;
+procedure /;

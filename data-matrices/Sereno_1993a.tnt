@@ -1,0 +1,13 @@
+xread
+'File downloaded from graemetlloyd.com'
+10 7
+PTEROSAURIA                      0000000000
+Lagosuchus_lilloensis            0000000?0?
+Lesothosaurus_diagnosticus       1000000?1?
+Plateosaurus_engelhardti         0000000011
+Coelophysis_bauri                0000000011
+Staurikosaurus_pricei            0?????????
+Herrerasaurus_ischigualastensis  1111111111
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 ;
+procedure /;

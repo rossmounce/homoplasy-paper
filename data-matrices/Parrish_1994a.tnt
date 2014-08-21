@@ -1,0 +1,16 @@
+xread
+'File downloaded from graemetlloyd.com'
+15 10
+Prestosuchia      000000000000000
+Rauisuchia        110000000000000
+Aetosaurus        111111100000000
+Stagonolepis      111111111110000
+Longosuchus       111111111110000
+Desmatosuchus     111111111101110
+Typothorax        1111111111?1101
+Aetosauroides     11111111?110??0
+Neoaetosauroides  1111111111000?0
+Paratypothorax    ????111??1??1?0
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 -[/1 10 -[/1 11 -[/1 12 -[/1 13 -[/1 14 ;
+procedure /;

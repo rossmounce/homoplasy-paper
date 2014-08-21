@@ -1,0 +1,41 @@
+xread
+'File downloaded from graemetlloyd.com'
+26 35
+Troodon_formosus         10110100010001000100010001
+Deinonychus_antirrhopus  ?0010?10000001000100010001
+Neuquenornis_volans      001100000001101100???11?10
+Struthio_camelus         10110010001001000110011111
+Cryptureilus_soui        11110111010111110110011111
+Diomedea_irrorata        11100011000011110110001111
+Gavia_arctica            11100011000000010110001111
+Podiceps_cristatus       11110010010011110110101111
+Sula_basana              11110011000001110110001111
+Scopus_umbretta          11110011010001110110001111
+Phoenicopterus_sp.       11100011010001110110011111
+Buteo_jamaicensis        11110011010101110110001111
+Aythya_affinis           11110111000011110110001111
+Ortalis_motmot           11110111111111110110001111
+Dendragapus_obscurus     11110111111111110110001111
+Turnix_varia             01110011000111110110001111
+Aramus_guarauna          11110011010011110110001111
+Himantopus_mexicanus     11100011010001110110001111
+Pterocles_quadricinctus  11110111010011110110001111
+Columba_palumba          11110011000001110110001111
+Goura_cristata           11110011011111110110001111
+Nestor_notabilis         11110011010001110110001111
+Tauraco_hartlaubi        01110011010010111110001111
+Coccyzus_erythro         11100011000010110110001111
+Opisthocomus_hoazin      11110011000011110110001111
+Tyto_alba                11110011010011110110001111
+Lithornis_sp.            ?0110011000011110110001111
+Telmatornis_priscus      ?11100100100111101100?????
+Presbyornis_sp.          ?1110011010011110?????????
+Telmabates_antiquus      ?11100110?0111???110001111
+Torotix_clemensi         11110011010011110?????????
+Icthyornis               11110011000011111110001111
+Sandcoleus_copiosus      ?1100011000001100110011111
+Palaeortyx_gallica       ?11101110101111101100?1???
+Piksi_barbaruna          11111111111111111111111111
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 -[/1 10 -[/1 11 -[/1 12 -[/1 13 -[/1 14 -[/1 15 -[/1 16 -[/1 17 -[/1 18 -[/1 19 -[/1 20 -[/1 21 -[/1 22 -[/1 23 -[/1 24 -[/1 25 ;
+procedure /;

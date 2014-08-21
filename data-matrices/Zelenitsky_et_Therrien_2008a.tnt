@@ -1,0 +1,13 @@
+xread
+'File downloaded from graemetlloyd.com'
+12 7
+Maiasaura             000000?00000
+Titanosauridae        000000?00010
+Citipati              101120010111
+Troodon               111131021211
+Parvoolithus          ?11111?21?12
+Numida                111111131212
+Protoceratops_idovum  ?1113?021211
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 -[/1 10 -[/1 11 ;
+procedure /;

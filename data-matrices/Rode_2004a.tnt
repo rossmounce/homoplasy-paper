@@ -1,0 +1,28 @@
+xread
+'File downloaded from graemetlloyd.com'
+27 22
+Leptodesma_spinerigum    000000000000000000000000003
+Leiopteria_accranus      111000?11111011101100110110
+Leiopteria_actuilaris    110011001111111?1?000112100
+Leiopteria_auriculata    110000001111011111111000000
+Leiopteria_ausabelensis  010000001101010000110000002
+Leiopteria_bigsbyi       11[01]10[01]00110[01][01][01]0101[01]00100100
+Leiopteria_conradi       11110[01]1[01]1101110[01]10[01]01[01]11110
+Leiopteria_cornelli      010001001100010111100110100
+Leiopteria_dekayi        1001010011010000?0001110100
+Leiopteria_gabbi         11000000110100111?000001110
+Leiopteria_greeni        111000101101000011[01]01[01]11110
+Leiopteria_laevis        1111001[01]1111111001000010[01][01][12]
+Leiopteria_leai          11[01]100001111010000000100100
+Leiopteria_linguiformis  110211011111000011010001100
+Leiopteria_mitchelli     1112001011011?0[01]01001011110
+Leiopteria_nitida        11[01]100001101[01][01]0001000010100
+Leiopteria_oweni         010211?111000?000?100001112
+Leiopteria_peninsularis  111100101101111000001011110
+Leiopteria_rafinesquii   10[01]100101101[01][01]00000010[01]1[01]10
+Leiopteria_sayi          111100111101000010100001110
+Leiopteria_torrey        110010011101000111000000100
+Leiopteria_troosti       1001110011?100010001011210[23]
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 -[/1 10 -[/1 11 -[/1 12 -[/1 13 -[/1 14 -[/1 15 -[/1 16 -[/1 17 -[/1 18 -[/1 19 -[/1 20 -[/1 21 -[/1 22 -[/1 23 -[/1 24 -[/1 25 -[/1 26 ;
+procedure /;

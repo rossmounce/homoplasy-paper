@@ -1,0 +1,16 @@
+xread
+'File downloaded from graemetlloyd.com'
+17 10
+Protoceratops           0100?0?000000?000
+Zuniceratops            ?0?0010??????????
+Centrosaurus_apertus    0111111111331?101
+C._brinkmani            01112111113423111
+Styracosaurus           01111121112231101
+Achelosaurus            121132?1110131101
+Einiosaurus             01?13121110130101
+Pachyrhinosaurus_n.sp.  22?132?1110332121
+P.canadensis            22?1?2?1110332111
+Chasmosaurine           0100010000121?000
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 -[/1 10 -[/1 11 -[/1 12 -[/1 13 -[/1 14 -[/1 15 -[/1 16 ;
+procedure /;

@@ -1,0 +1,15 @@
+xread
+'File downloaded from graemetlloyd.com'
+8 9
+ANCESTOR            0000?000
+Crocodyliformes     11??1111
+Sphenosuchus        00?1?11?
+UCMP_129740         ??0?1?1?
+Hesperosuchus       ??0?1?1?
+Dibothrosuchus      0?11111?
+Pseudhesperosuchus  ?0?0??0?
+Saltoposuchus       ??001?00
+Terrestrisuchus     ?0001?00
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 ;
+procedure /;

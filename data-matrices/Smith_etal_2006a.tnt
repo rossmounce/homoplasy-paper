@@ -1,0 +1,17 @@
+xread
+'File downloaded from graemetlloyd.com'
+18 11
+Hipposaurus           00?000000000010001
+CGP_slash_1_slash_67  00?000000000010111
+Lycaenodon            00?00?0????0?1??1?
+Ictidorhinus          ?0?1000?000?????1?
+Lemurosaurus          100201?00001010111
+Lobalopex             110101010110011111
+Proburnetia           110201111122001110
+Paraburnetia          010201111122001110
+Bullacephalus         11121?011?2010?00?
+Niuksenitia           ???????1??2???10??
+Burnetia              111211111121101?1?
+;
+ccode -[/1 0 -[/1 1 -[/1 2 +[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 +[/1 10 -[/1 11 -[/1 12 -[/1 13 -[/1 14 -[/1 15 -[/1 16 -[/1 17 ;
+procedure /;

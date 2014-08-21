@@ -1,0 +1,16 @@
+xread
+'File downloaded from graemetlloyd.com'
+15 10
+Brachyuranochampsa  100000000000000
+Crocodylus          000000000000000
+Mekosuchus          121111211?10110
+Trilophosuchus      01?11?211?10210
+Quinkana            1210?1211111?0?
+Baru                1211?1111101001
+Kambara             111111000000000
+Australosuchus      111110000000000
+Pallimnarchus       111110000000001
+Harpacochampsa      ?111000?0000000
+;
+ccode -[/1 0 -[/1 1 +[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 -[/1 10 -[/1 11 +[/1 12 -[/1 13 -[/1 14 ;
+procedure /;

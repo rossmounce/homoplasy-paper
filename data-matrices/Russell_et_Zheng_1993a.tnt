@@ -1,0 +1,15 @@
+xread
+'File downloaded from graemetlloyd.com'
+21 9
+Plateosaurus    000000000000000000000
+Shunosaurus     010000010000001201200
+Mamenchisaurus  010000000020110111?00
+Omeisaurus      01?0?0000120111101200
+Euhelopus       01110?0100101101???11
+Camarasaurus    011001011110001000010
+Brachiosaurus   011001010110011000011
+Dicraeosaurus   ???110?11001001211101
+Apatosaurus     101111111111001211101
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 -[/1 10 -[/1 11 -[/1 12 -[/1 13 -[/1 14 -[/1 15 -[/1 16 -[/1 17 -[/1 18 -[/1 19 -[/1 20 ;
+procedure /;

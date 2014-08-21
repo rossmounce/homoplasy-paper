@@ -1,0 +1,14 @@
+xread
+'File downloaded from graemetlloyd.com'
+15 8
+Notosuchus      00010?000010010
+Sebecus         000?10?0?0000?0
+Baurusuchus     00011?110000011
+cf_Iberosuchus  000110110000010
+Eremosuchus     000??0????001?1
+Peirosauridae   111???10000000[01]
+Trematochampsa  111?0?001?110?[01]
+Neosuchia       111001001111?00
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 -[/1 10 -[/1 11 -[/1 12 -[/1 13 -[/1 14 ;
+procedure /;

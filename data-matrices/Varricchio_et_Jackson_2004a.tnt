@@ -1,0 +1,20 @@
+xread
+'File downloaded from graemetlloyd.com'
+15 14
+Melanochelys_trijuga        000000000020000
+Malacochersus_tornieri      000000000020000
+Rhinoclemmys_areolata       100000001020000
+Alligator_mississippiensis  011211201100010
+Crocodylus_niloticus        011211201100010
+Maiasaura_peeblesorum       11?00000300000?
+Titanosaurian_sauropod      11000000000000?
+Lourinhanosaurus            21212020211100?
+Oviraptorid                 310?0011002010?
+Troodon_formosus            3121202?012110?
+New_Two_Medicine_egg        3121302?02?0101
+Cretaceous_bird             31?1202101?1?01
+Struthio_sp.                310120114121201
+Gallus_gallus               212120210121201
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 -[/1 10 -[/1 11 -[/1 12 -[/1 13 -[/1 14 ;
+procedure /;

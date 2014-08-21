@@ -1,0 +1,19 @@
+xread
+'File downloaded from graemetlloyd.com'
+12 13
+Isorophusella   000000000000
+Isorophus       110000000000
+Hemicystis      01?00000000?
+Curvitriordo    01?01000000?
+Rectitriordo    11?01000000?
+Agelacrinites   211000001000
+Krama           211101000010
+Postibulla      211101100010
+Discocystis     111101111110
+Lispidecodus    01110111111?
+Stalticodisucs  111101110121
+Lepidodiscus    111121111121
+Ulrichodiscus   311121110120
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 -[/1 10 -[/1 11 ;
+procedure /;

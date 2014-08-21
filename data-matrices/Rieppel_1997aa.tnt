@@ -1,0 +1,16 @@
+xread
+'File downloaded from graemetlloyd.com'
+5 10
+All_zero_ancestor           00000
+Cymatosaurus_erythreus      1????
+Cymatosaurus_fridericianus  11100
+Cymatosaurus_gracilis_I     000?1
+Cymatosaurus_gracilis_II    11011
+Cymatosaurus_latifrons      110?0
+Cymatosaurus_latissimus     000??
+Cymatosaurus_silesiacus_I   01010
+Cymatosaurus_SMNS_10977     010??
+Cymatosaurus_BRG_uncat      ?11??
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 ;
+procedure /;

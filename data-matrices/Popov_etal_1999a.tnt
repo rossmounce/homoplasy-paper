@@ -1,0 +1,31 @@
+xread
+'File downloaded from graemetlloyd.com'
+27 25
+Oligorhyncha_subplana      233000102022232000000000000
+Ancistrorhyncha_modesta    241101101012120010000000000
+Cyclospira_bisulcata       120002202012232211112111100
+Rozmanospira_mica          130001202112232000111111100
+Pectenospira_pectenata     130500202012232100112245100
+Manespira_nicoletti        131601231022132100111245100
+Protozyga_definitiva       110001010020002100111????00
+Protozyga_exigua           111601010030001100112353200
+Anazyga_recurvirostra      110101020120001010143352300
+Zygospira_modesta          110101010020001010132354300
+Sulcatospira?_praecursor   1302?12022122100101??????00
+Sulcatospira_asiatica      141211202212220020134235200
+Sulcatospira_prima         141111202212220020133225300
+Schachriomonia_parva       141111201212120020134225300
+Schachriomonia_dichotoma   1411112012121202201?????300
+Qilianotryma_suspectum     042411102212110030134235300
+Eospirigerina_pennata      042211202013120020134235300
+Eospirigerina_porkuniana   042312102013120130134235300
+Webbyspira_principalis     0423?2102101210030134235300
+Australospira_districha    2313?1101103120131134235300
+Antizygospira_liquanensis  1303102020122302101?????200
+Kellerella_ditissima       130001201001120020123235100
+Kellerella_misiusi         130001201001120010122235100
+Nikolaespira_rasilis       130001202101220011123235100
+Eospirifer_praecursor      140702102003220100122235111
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 -[/1 10 -[/1 11 -[/1 12 -[/1 13 -[/1 14 -[/1 15 -[/1 16 -[/1 17 -[/1 18 -[/1 19 -[/1 20 -[/1 21 -[/1 22 -[/1 23 -[/1 24 -[/1 25 -[/1 26 ;
+procedure /;

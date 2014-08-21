@@ -1,0 +1,16 @@
+xread
+'File downloaded from graemetlloyd.com'
+20 10
+Archaeopteryx_lithographica   000000000000?0000?00
+Abchiornis_huxleyi            ????0000000000000?00
+Linhevenator_tani             1?111111121121111??1
+Philovenator                  11112111221120111111
+Sinusonasus                   01001001110010001000
+Sinovenator                   00001001000010000000
+Mei_long                      00?00??100?11?000010
+Sinornithoides_youngi         000?1??1?0?11?000?00
+Troodon_formosus              111011111201?100?111
+Saurornithoides_mongoliensis  101?1?111?011110?0?1
+;
+ccode +[/1 0 +[/1 1 +[/1 2 +[/1 3 +[/1 4 +[/1 5 +[/1 6 +[/1 7 +[/1 8 +[/1 9 +[/1 10 +[/1 11 +[/1 12 +[/1 13 +[/1 14 +[/1 15 +[/1 16 +[/1 17 +[/1 18 +[/1 19 ;
+procedure /;
