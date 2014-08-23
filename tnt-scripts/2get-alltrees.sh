@@ -25,7 +25,7 @@ cd results_$STEM
 sed 's@procedure \/;@log temp12.log; xinact; minmax\*; hold 10000; sect:slack 40; xmult=level10; log\/; bb; taxname=; tsave *'$STEM'-alltrees.tre; save.; tsave/; nelsen*; tsave *'$STEM'-strict.tre; save/; tsave/; quit;@' $1 > tmp2.tnt 
 
 #this will do everything then quit. output hardcoded to output.log
-tnt proc tmp2.tnt 
+tnt mxram 200, proc tmp2.tnt 
 
 #clean up temporary files but leave behind the necessary files
 # rm temp12.log;

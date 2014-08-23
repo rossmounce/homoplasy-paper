@@ -24,7 +24,7 @@ sed 's@procedure \/;@xinact; hold 100000; sect:slack 40; xmult=level10; bb; taxn
 sed 's@xread@mxram 100; xread@' 1TMP.tnt > bremerTMP.tnt
 
 #this will do everything then quit. output hardcoded to output.log
-tnt proc bremerTMP.tnt 
+tnt mxram 200, proc bremerTMP.tnt 
 
 printf "BREMER DONE \n"
 

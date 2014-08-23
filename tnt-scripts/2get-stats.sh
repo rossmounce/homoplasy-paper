@@ -25,7 +25,7 @@ cd results_$STEM
 sed 's@procedure \/;@log temp12.log; xinact; minmax\*; sect:slack 40; xmult=level10; log\/; bb; taxname=; log '$STEM'-CIRI.log; run stats.run ; log\/; log '$STEM'-randomreps.log; mher start ; proc reps.txt; run cstats.run ; quit;@' $1 > tmp2.tnt 
 
 #this will do everything then quit. output hardcoded to output.log
-tnt proc tmp2.tnt 
+tnt mxram 200, proc tmp2.tnt 
 
 printf "MEANNS calculations in TNT are complete \n"
 
