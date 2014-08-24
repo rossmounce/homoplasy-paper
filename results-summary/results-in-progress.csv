@@ -1,511 +1,511 @@
-File / Data,CI,RI,L,#mpts,MinL,TSI,PSI,meanci,meanri,MHER,Chars,Taxa,,1st taxon in matrix (1st 10 chars),2nd taxon,3rd taxon,4th,5th,6th
-Nair_et_Salisbury_2012a.tnt,0.459,0.625,810,26,372,0.108642,0.236693,0.341195,0.276661,0.482875,333,32,,Theropoda,Vulcanodo,Tazoudasa,Spinophor,Shunosaur,Barapasau
-Naish_etal_2012a.tnt,0.313,0.594,3961,4,1240,0.0504923,0.161317,0.285179,0.187353,0.458887,1025,72,,Herrerasa,Tawa     ,Allosauru,Alvarezsa,Anchiorni,
-Naish_etal_2013aa.tnt,0.4,0.636,60,927,24,513.25,1283.12,0.415391,0.472609,0.198397,23,24,,Dimorphod,AMNH_2256,Anhanguer,Anhanguer,Anurognat,
-Naish_etal_2013ab.tnt,0.678,0.813,245,2,166,0.269388,0.397327,0.434271,0.384062,0.709687,129,32,,Ornithosu,Herrerasa,Scleromoc,Anurognat,Rhamphorh,Pterodact
-Naish_et_Martill_2002a.tnt,0.667,0.821,15,195,10,12.9333,19.3903,0.7,0.6125,0.517375,10,20,,Herrerasa,Coelophys,Carnotaur,Noasaurus,Allosauru,Tyrannosa
-Neenan_etal_inpressa.tnt,0.334,0.659,566,3,189,0.120141,0.359705,0.247686,0.302571,0.507054,140,43,,Ancestor,Captorhin,Araeoscel,Claudiosa,Youngina ,Rhynchosa
-Neige_et_Dommergue_1995a.tnt,0.882,0.667,34,9,30,0,0,0.98,0.9,0.109131,10,8,,P_dilectu,P_curioni,F_cornaca,P_celebra,P_mariani,F_gr_brev
-Nesbitt_2003a.tnt,0.694,0.792,36,2,25,0.305556,0.440282,0.586083,0.607708,0.608541,24,9,,Euparkeri,Chatterje,Postosuch,Saurosuch,Arizonasa,Aetosaurs
-Nesbitt_2007a.tnt,0.584,0.836,154,1,90,0.409091,0.700498,0.297,0.321892,0.745507,83,21,,Euparkeri,Proteroch,Parasuchi,Ornithosu,Stagonole,Postosuch
-Nesbitt_2011aa.tnt,0.373,0.779,1282,5400,478,57.5624,154.323,0.2475612648,0.3344466403,0.700629,412,82,,Mesosuchu,Prolacert,Archosaur,Proterosu,Erythrosu,Vancleave
-Nesbitt_2011ab.tnt,0.373,0.778,1280,1800,478,57.4125,153.921,0.214172,0.184502,0.699902,412,80,,Mesosuchu,Prolacert,Archosaur,Proterosu,Erythrosu,Vancleave
-Nesbitt_etal_2009a.tnt,0.425,0.71,869,6,369,0.144994,0.341163,0.318803,0.297222,0.595701,315,41,,Erythrosu,Euparkeri,Revueltos,Aetosauru,Arizonasa,Effigia_o
-Nesbitt_etal_2009b.tnt,0.485,0.752,297,2,144,0.195286,0.402652,0.299669,0.2688,0.625331,130,27,,Euparkeri,Leptosuch,Aetosauru,Riojasuch,Postosuch,Effigia  
-Nesbitt_etal_2009c.tnt,0.636,0.912,22,10000,14,531.455,835.62,0.505857,0.619286,0.717015,14,50,,Euparkeri,Pseudosuc,Ornithisc,Sauropodo,Coelophys,Coelophys
-Nesbitt_etal_2009d.tnt,0.758,0.843,66,1,50,0.545455,0.719597,0.4749,0.332,0.762329,50,12,,Mesosuchu,Prolacert,Proterosu,Erythrosu,Vancleave,Tropidosu
-Nesbitt_etal_2010a.tnt,0.466,0.71,736,9,343,0.191576,0.411107,0.325307,0.224307,0.592957,290,35,,Erythrosu,Euparkeri,Revueltos,Aetosauru,Arizonasa,Effigia_o
-Nesbitt_etal_2011a.tnt,0.355,0.713,873,2700,310,0.0652921,0.183921,0.24466,0.330527,0.578107,256,71,,Allosauru,Sinraptor,Ingenia_y,Citipati_,Rinchenia,Oviraptor
-Nesbitt_etal_inpressaa.tnt,0.368,0.774,1304,6120,480,56.3543,153.137,0.530273,0.572727,0.695052,413,81,,Mesosuchu,Prolacert,Proterosu,Erythrosu,Vancleave,
-Nesbitt_etal_inpressab.tnt,0.368,0.774,1306,1800,480,56.3047,153.002,0.408695,0.349288,0.694348,413,80,,Mesosuchu,Prolacert,Proterosu,Erythrosu,Vancleave,
-Nesbitt_et_Butler_inpressaa.tnt,0.368,0.776,1300,10000,479,56.7638,154.25,0.213808,0.178427,0.696653,412,84,,Mesosuchu,Prolacert,Archosaur,Proterosu,Erythrosu,Vancleave
-Nesbitt_et_Butler_inpressab.tnt,0.369,0.775,1298,8550,479,56.6148,153.428,0.251272,0.221476,0.695587,412,82,,Mesosuchu,Prolacert,Archosaur,Proterosu,Erythrosu,Vancleave
-Norell_etal_2000a.tnt,0.682,0.736,44,1,30,2276.23,3337.58,0.526289,0.434237,0.518735,38,10,,Ornithomi,Oviraptor,Dromaeosa,Avialae  ,Troodon_f,Saurornit
-Norell_etal_2001a.tnt,0.453,0.715,547,30,248,1848.48,4080.54,0.328146,0.34081,0.573387,205,44,,Allosauru,Sinraptor,Ingenia_y,Oviraptor,Oviraptor,Conchorap
-Norell_etal_2006aa.tnt,0.394,0.733,720,288,284,14.0681,35.7057,0.249271,0.257106,0.605501,236,57,,Allosauru,Sinraptor,Ingenia_y,Citipati_,Oviraptor,Oviraptor
-Norell_etal_2006ab.tnt,0.734,0.773,64,2,47,0.171875,0.234162,0.597512,0.439024,0.630836,41,12,,Coelophys,Allosauru,Atrocirap,Bambirapt,Deinonych,Dromaeosa
-Norell_etal_2006ac.tnt,0.44,0.767,252,3757,111,0.420635,0.955988,0.294624,0.420554,0.627506,101,38,,Allosauru,Tyrannosa,Sinosauro,Saurornit,Saurornit,Sinornith
-Norell_et_Clarke_2001a.tnt,0.668,0.804,334,3,223,0.251497,0.376493,0.376856,0.283622,0.715996,201,17,,Dromeosau,Archaeopt,Anas_plat,Chauna_to,Gallus_ga,Crax_paux
-Norell_et_Makovicky_2004a.tnt,0.452,0.747,584,432,264,0.0958904,0.212147,0.254076,0.218616,0.621964,220,50,,Allosauru,Ingenia_y,Oviraptor,Oviraptor,Conchorap,Chirosten
-Norman_2002a.tnt,0.724,0.879,116,7,84,0.267241,0.369118,0.397284,0.38109,0.809297,67,18,,Dryosauru,Camptosau,Iguanodon,Iguanodon,Ouranosau,Lurdusaur
-Norman_2004a.tnt,0.667,0.792,120,2,80,0.266667,0.3998,0.379761,0.305716,0.677445,67,16,,L._diagno,H._foxii ,D._altus ,C._dispar,I._atherf,I._bernis
-Norman_etal_2004a.tnt,0.59,0.605,78,12,46,0.0512821,0.0869187,0.475259,0.327185,0.329562,54,12,,Outgroup,Marginoce,H._tucki ,T._neglec,O._rex   ,P._warren
-Norman_etal_2004b.tnt,0.933,0.955,15,1,14,0.466667,0.500179,0.598111,0.454611,0.901768,32,7,,Outgroup,Lesothosa,Cerapoda ,Scutellos,Emausauru,Scelidosa
-Norman_etal_2011a.tnt,0.578,0.576,244,1,141,0.565574,0.978501,0.290774,0.149991,0.39344,221,14,,Euparkeri,Herrerasa,Abrictosa,Heterodon,NHMUK_RU_,Lesothosa
-Norris_1996a.tnt,0.652,0.814,46,6,30,0.347826,0.533476,0.603161,0.570387,0.685905,31,16,,Outgroup,G_compres,A_straboc,A_nitida ,I_pusilla,I_tadjiki
-Novas_1989a.tnt,0.938,0.958,16,1,15,2.5,2.66525,0.656824,0.558824,0.927378,17,9,,Euparkeri,Riojasuch,Lagosuchi,Herrerasa,Plateosau,Riojasaur
-Novas_1992a.tnt,1,1,8,1,8,1,1,0.438328,0.300852,1,17,5,,Lagosuchu,Pseudolag,Herrerasa,Ornithisc,Saurischi,
-Novas_1993a.tnt,0.712,0.726,59,1,42,0.440678,0.61893,0.611098,0.503275,0.555904,51,8,,Pterosaur,Lagerpeto,Lagosuchu,Ornithisc,Sauropodo,Eoraptor 
-Novas_1996a.tnt,0.725,0.743,102,1,74,0.323529,0.446247,0.189171,0.420829,0.613473,74,8,,Tyrannosa,Ornithomi,Deinonych,Archaeopt,Ornithoth,Mononykus
-Novas_1996b.tnt,0.837,0.865,43,1,36,0.511628,0.611264,0.578667,0.407389,0.770642,37,8,,Crurotars,Pterosaur,Scleromoc,Lagerpeto,Marasuchu,Pseudolag
-Novas_1997a.tnt,0.728,0.745,103,1,75,0.330097,0.45343,0.403982,0.256439,0.616911,75,8,,Tyrannosa,Ornithomi,Deinonych,Archaeopt,Ornithoth,Mononykus
-Novas_etal_2004a.tnt,0.619,0.742,84,1,52,0.22619,0.365413,0.506085,0.415723,0.572193,47,13,,Lesothosa,Scutellos,Marginoce,Heterodon,Talenkaue,Thescelos
-Novas_etal_2005a.tnt,0.575,0.651,226,1,130,0.115044,0.200077,0.463906,0.331736,0.471395,106,15,,Herrerasa,Abelisaur,Acrocanth,Allosauru,Carcharod,Dromaeosa
-Novas_etal_2008a.tnt,0.394,0.723,725,6048,286,0.0675862,0.171539,0.246689,0.256529,0.592847,238,59,,Allosauru,Sinraptor,Ingenia_y,Oviraptor,Oviraptor,Conchorap
-Novas_etal_2009a.tnt,0.35,0.715,874,432,306,11.5847,33.0991,0.225155,0.251833,0.578156,251,70,,Allosauru,Sinraptor,Ingenia_y,Citipati_,Oviraptor,Oviraptor
-Novas_etal_2011a.tnt,0.37,0.678,1197,21,443,16.1161,43.5571,0.262471,0.231645,0.558811,380,56,,Euparkeri,Crurotars,Marasuchu,Agnosphit,Anchisaur,Antetonit
-Novas_etal_2012a.tnt,0.32,0.753,1386,2664,443,14.6421,45.7567,0.282425,0.256289,0.651211,363,100,,Dilophosa,Elaphrosa,Piatnitzk,Allosauru,Sinraptor,Mapusauru
-Novas_etal_inpressaa.tnt,0.381,0.661,905,222,345,0.0375691,0.0986065,0.384865,0.359962,0.508505,287,45,,Ceratosau,Allosauru,Monolopho,Piatnitzk,Sinraptor,Acrocanth
-Novas_etal_inpressab.tnt,0.443,0.638,639,130,283,0.0657277,0.14837,0.534158,0.355368,0.462828,234,45,,Syntarsus,Aerosteon,Australov,Chilantai,Fukuirapt,Megarapto
-Novas_et_Pol_2005a.tnt,0.418,0.743,644,5832,269,0.104037,0.248893,0.247547,0.270534,0.619753,223,57,,Allosauru,Sinraptor,Ingenia_y,Oviraptor,Oviraptor,Conchorap
-OConnor_etal_2009a.tnt,0.485,0.684,582,6,282,9.54811,19.6868,0.332219,0.284376,0.541943,242,29,,Dromaeosa,Archaeopt,Zhongorni,Jeholorni,Sapeornis,Confucius
-OConnor_etal_2010a.tnt,0.485,0.696,582,6,282,9.55155,19.6939,0.342558,0.31338,0.556783,242,30,,Dromaeosa,Archaeopt,Zhongorni,Jeholorni,Sapeornis,Confucius
-OConnor_etal_2010b.tnt,0.326,0.639,867,40,283,0,0,0.255508,0.237775,0.485834,236,54,,Gracilisu,Terrestri,Dibothros,Protosuch,Hemiproto,Orthosuch
-OConnor_etal_2011a.tnt,0.403,0.691,769,1344,310,0.0494148,0.122617,0.289645,0.269151,0.536668,245,54,,Dromaeosa,Archaeopt,Jeholoror,Rahonavis,Shenzhour,
-OConnor_etal_2013a.tnt,0.379,0.671,818,4692,310,0.0550122,0.145151,0.307602,0.34174,0.508433,246,60,,Dromaeo,Archaeo  ,Jeholor  ,Raho     ,Shenzhou ,Jixiang  
-OConnor_et_Zhou_inpressa.tnt,0.372,0.674,854,3060,318,0.0398126,0.107023,0.27798,0.260522,0.511011,245,60,,Dromaeosa,Archaeopt,Jeholorni,Rahonavis,Shenzhour,Jixiangor
-Ohashi_et_Barrett_2009a.tnt,0.5,0.731,478,3780,239,0.307531,0.615063,0.438132,0.422079,0.622272,221,47,,Euparkeri,Marasuchu,Herrerasa,Abrictosa,Agilisaur,
-OLeary_etal_2004aa.tnt,0.507,0.617,416,2,211,0.0745192,0.146981,0.382092,0.302702,0.428189,228,18,,Omeisauru,Alamosaur,Antarctos,Apatosaur,Brachiosa,Camarasau
-OLeary_etal_2004ab.tnt,0.644,0.795,402,16,259,0.079602,0.123606,0.425282,0.293632,0.713042,234,30,,THEROPODA,PROSAUROP,Vulcanodo,Barapasau,Omeisauru,Shunosaur
-Olsen_etal_2000a.tnt,0.732,0.711,41,1,30,0.268293,0.36652,0.565667,0.474758,0.492386,33,7,,Stagonole,Gracilisu,Postosuch,Erpetosuc,Sphenosuc,Protosuch
-Ortega_etal_1996a.tnt,0.846,0.882,13,1,11,0.538462,0.636479,0.633333,0.6,0.746835,15,8,,Notosuchu,Sebecus  ,Baurusuch,cf_Iberos,Eremosuch,Peirosaur
-Ortega_etal_2000a.tnt,0.451,0.743,397,3,179,0.209068,0.463565,0.283478,0.263901,0.631177,182,30,,Postosuch,Sphenosuc,Dibothros,Protosuch,Orthosuch,Sichuanos
-Ortega_etal_2010a.tnt,0.429,0.63,658,1248,282,0.0379939,0.0885639,0.372676,0.275397,0.450606,233,46,,Syntarsus,Aerosteon,Australov,Chilantai,Fukuirapt,Megarapto
-Osi_2005a.tnt,0.485,0.655,132,6,64,0.136364,0.281162,0.501806,0.385194,0.414046,63,17,,Scelidosa,Struthios,Pawpawsau,Hungarosa,Edmontoni,Silvisaur
-Osi_etal_2012aa.tnt,0.529,0.772,155,1,82,0.270968,0.512226,0.283927,0.242677,0.639684,79,19,,Ancestor,Marginoce,Heterodon,Agilisaur,Thescelos,Parksosau
-Osi_etal_2012ab.tnt,0.429,0.698,601,1296,258,0.0798669,0.18617,0.400099,0.223292,0.572905,234,58,,Euparkeri,Marasuchu,Herrerasa,Pisanosau,Abrictosa,
-Osi_et_Makadi_2009a.tnt,0.483,0.672,145,1,70,0.22069,0.456914,0.633294,0.549,0.454228,63,18,,Scelidosa,Struthios,Pawpawsau,Edmontoni,Silvisaur,Sauropelt
-Osmolska_etal_2004a.tnt,0.689,0.709,267,3,184,0.0786517,0.114153,0.533267,0.3222,0.586859,161,12,,Herrerasa,Velocirap,Archaeopt,Avimimus_,Caudipter,Chirosten
-Otero_et_Pol_2013a.tnt,0.321,0.66,1332,10,427,0.0608108,0.189442,0.234813,0.264231,0.53264,364,56,,Euparkeri,Crurotars,Marasuchu,Agnosphit,Anchisaur,Antetonit
-Ott_et_Larson_2010a.tnt,0.839,0.931,62,1,52,0.290323,0.346034,0.320534,0.293644,0.880839,73,16,,Protocera,Zunicerat,Achelousa,Anchicera,Arrhinoce,Avacerato
-Palci_etal_2013aa.tnt,0.475,0.708,617,1,293,0.132901,0.279792,0.332176,0.296395,0.590413,210,27,,Heloderma,Lanthanot,Varanus  ,Mosasauro,Madtsoiid,Dinilysia
-Palci_etal_2013ab.tnt,0.502,0.691,590,6,296,0.122034,0.243095,0.34649,0.242386,0.565436,210,25,,Iguana,Agama    ,Madtsoiid,Dinilysia,Leptotyph,Typhlopid
-Palci_etal_2013ac.tnt,0.476,0.683,617,6,294,0.106969,0.224725,0.333886,0.24191,0.550465,210,26,,Corucia,Amphisbae,Dibamidae,Madtsoiid,Dinilysia,Leptotyph
-Palci_etal_2013b.tnt,0.379,0.69,427,48,162,0.140515,0.370753,0.607548,0.365645,0.522316,131,38,,Outgroup,Aigialosa,Komensaur,Halisauru,Halisauru,Dallasaur
-Park_etal_2002a.tnt,0.516,0.63,91,7,47,0.175824,0.340745,0.418091,0.288955,0.364529,44,19,,Cytheride,Leucocyth,Limnocyth,Gomphocyt,Gomphocyt,Gomphocyt
-Parrish_1991a.tnt,0.742,0.807,62,11,46,2092.85,2820.56,0.354537,0.235074,0.684977,60,13,,Chasmatos,Rutiodon ,Desmatosu,Postosuch,Pseudhesp,Hesperosu
-Parrish_1992a.tnt,0.882,0.9,17,1,15,0.588235,0.666933,0.6875,0.479187,0.809886,16,8,,Proterosu,Other_arc,Fugusuchu,Garjainia,Erythrosu,Shansisuc
-Parrish_1993a.tnt,0.643,0.828,70,1,45,0.4,0.622084,0.42531,0.381286,0.696418,42,24,,Proterosu,Erythrosu,Euparkeri,Chanaresu,Lagosuchu,Plateosau
-Parrish_1994a.tnt,1,1,11,1,11,0.818182,0.818182,0.633333,0.6,1,15,10,,Prestosuc,Rauisuchi,Aetosauru,Stagonole,Longosuch,Desmatosu
-Parsons_et_Parsons_2009a.tnt,0.443,0.716,167,111,74,0.11976,0.27034,0.356429,0.431238,0.513954,63,26,,Huayangos,Scelidosa,Tatankace,Gargoyleo,Cedarpelt,Pawpawsau
-Paton_etal_1999a.tnt,0.446,0.553,327,9,146,0.0611621,0.137135,0.36164,0.241991,0.341794,111,21,,Acanthost,Crassigyr,Greererpe,Balanerpe,Dendrerpe,Eucritta 
-Penkalski_et_Dodson_1999a.tnt,0.929,0.944,28,1,26,25.2857,27.2182,0.505075,0.264813,0.89858,25,11,,Bagacerat,Montanoce,Monocloni,Avacerato,MOR_692  ,Centrosau
-Penkalski_inpressa.tnt,0.793,0.846,29,45,23,1377180,1736670,0.6435,0.498167,0.688797,18,16,,P_granger,CMN_0210 ,ROM_784  ,TMP_1991_,UALVP_31 ,CMN_8530 
-Pereda-Suberbiola_etal_2009a.tnt,0.877,0.96,73,1,64,0.383562,0.437356,0.218389,0.339481,0.929633,57,22,,Bactrosau,Telmatosa,Aralosaur,Tsintaosa,Jaxartosa,Amurosaur
-Perez-Garcia_et_Murelaga_2012a.tnt,0.42,0.775,407,10000,171,0,0,0.236493,0.208895,0.658204,152,80,,Sphenodon,Simosauru,Owenetta_,Anthodon_,Proganoch,Proteroch
-Perez-Moreno_etal_1993a.tnt,0.694,0.725,72,1,50,0.25,0.360231,0.445519,0.309288,0.516271,52,11,,Herrerasa,Montmirat,Allosauru,Eustrepto,Dilophosa,Ceratosau
-Perez-Moreno_etal_1994a.tnt,0.792,0.815,24,1,19,0.333333,0.420875,0.560591,0.363636,0.661934,22,7,,Allosauru,Albertosa,Deinonych,Garudimim,Gallimimu,Pelecanim
-Peterson_et_Eernisse_2001a.tnt,0.585,0.806,265,2,155,0.34717,0.593453,0.302398,0.266875,0.724601,151,40,,Fungi,Choanofla,Hexactine,Demospong,Calcarea ,Placozoa 
-Piras_et_Buscalioni_2006a.tnt,0.52,0.793,246,15,128,0.199187,0.383052,0.211491,0.201844,0.685727,167,41,,Borealosu,Asiatosuc,Leidyosuc,Diplocyno,Diplocyno,Diplocyno
-Pol_2003a.tnt,0.388,0.66,505,8,196,0,0,0.295296,0.319802,0.508963,162,37,,Gracilisu,Terrestri,Dibothros,Protosuch,Hemiproto,Orthosuch
-Pol_etal_2004a.tnt,0.355,0.677,625,2,222,0.1088,0.306479,0.251973,0.231093,0.526206,183,45,,Gracilisu,Terrestri,Dibothros,Protosuch,Hemiproto,Orthosuch
-Pol_etal_2009a.tnt,0.319,0.715,1061,1340,338,0.068803,0.215683,0.378823,0.285608,0.588503,282,77,,Gracilisu,Terrestri,Dibothros,Protosuch,Hemiproto,
-Pol_etal_2011a.tnt,0.513,0.795,612,7452,314,0.0669935,0.130592,0.205672,0.237934,0.706491,277,50,,Lagerpeto,Marasuchu,Pseudolag,Silesauru,Azendhosa,Azendhosa
-Pol_etal_2011b.tnt,0.463,0.716,549,216,254,0.291439,0.629458,0.5566,0.327767,0.598317,230,51,,Euparkeri,Marasuchu,Herrerasa,Pisanosau,Abrictosa,
-Pol_etal_2012a.tnt,0.318,0.716,1281,2880,407,0,0,0.238582,0.206501,0.594657,347,88,,Gracilisu,Terrestri,Dibothros,Protosuch,Hemiproto,Orthosuch
-Pol_et_Norell_2004a.tnt,0.364,0.678,634,2,231,0.105678,0.290325,0.265813,0.228667,0.531406,192,45,,Gracilisu,Terrestri,Dibothros,Protosuch,Hemiproto,Orthosuch
-Pol_et_Norell_2004b.tnt,0.36,0.676,611,6,220,0,0,0.274823,0.245675,0.526508,183,44,,Gracilisu,Terrestri,Dibothros,Protosuch,Hemiproto,Orthosuch
-Pol_et_Powell_2011a.tnt,0.296,0.716,1206,1440,357,0,0,0.514542,0.443125,0.59509,295,89,,Gracilisu,Terrestri,Dibothros,Protosuch,Hemiproto,Orthosuch
-Pol_et_Rauhut_2012a.tnt,0.586,0.725,377,4,221,0.0371353,0.0633708,0.455262,0.377568,0.579084,206,26,,Herrerasa,Syntarsus,Allosauru,Abelisaur,Aucasauru,Berberosa
-Polly_1996a.tnt,0.661,0.801,115,2,76,0.26087,0.394659,0.4687,0.415933,0.676429,60,17,,composit_,Proviverr,Arfia    ,Dissopsal,Prototomu,Gazinocyo
-Popov_etal_1999a.tnt,,,,,71,-nan, -nan,0.337489,0.27233, nan,27,25,,Oligorhyn,Ancistror,Cyclospir,Rozmanosp,Pectenosp,Manespira
-Prieto-Marquez_2005a.tnt,0.738,0.724,61,2,45,0.196721,0.26656,0.411362,0.262447,0.548023,47,10,,I._bernis,P._byrdi ,B._canade,E._annect,Gryposaur,H._stebin
-Prieto-Marquez_2010a.tnt,0.46,0.782,907,192,417,0.0694598,0.150999,0.193465,0.166695,0.697768,370,53,,Iguanodon,Mantellis,Eolambia_,Equijubus,Probactro,Protohadr
-Prieto-Marquez_2010b.tnt,0.426,0.758,963,196,410,0.0706127,0.165757,0.285265,0.225488,0.662825,287,57,,Iguanodon,Eolambia_,Equijubus,Probactro,Protohadr,Bactrosau
-Prieto-Marquez_2011a.tnt,0.47,0.766,855,1,402,0.0830409,0.176683,0.473289,0.31,0.673871,286,48,,Iguanodon,Eolambia_,Equijubus,Probactro,Protohadr,Bactrosau
-Prieto-Marquez_2012a.tnt,0.423,0.757,969,588,410,0.0577915,0.136623,0.3763,0.38855,0.660521,287,57,,Iguanodon,Eolambia_,Equijubus,Probactro,Protohadr,Bactrosau
-Prieto-Marquez_etal_2006a.tnt,0.672,0.764,119,70,80,0.0840336,0.12505,0.365533,0.291844,0.639922,90,14,,Iguanodon,Brachylop,Corythosa,Edmontosa,Gryposaur,Hadrosaur
-Prieto-Marquez_etal_2006b.tnt,0.607,0.799,331,16,201,0.0966767,0.15927,0.332827,0.297205,0.716479,127,24,,I._bernis,I._atherf,O._nigeri,P._gobien,B._johnso,G._mongol
-Prieto-Marquez_etal_2012a.tnt,0.581,0.766,587,2,341,0.0783646,0.134879,0.492696,0.309986,0.672079,286,29,,Iguanodon,Equijubus,Probactro,Protohadr,Tanius_si,Bactrosau
-Prieto-Marquez_etal_2012b.tnt,0.388,0.724,768,1164,298,1316.72,3393.61,0.266319,0.306131,0.594243,251,59,,Allosauru,Sinraptor,Ingenia_y,Citipati_,Oviraptor,Oviraptor
-Prieto-Marquez_etal_2013a.tnt,0.553,0.749,552,3,305,0.106884,0.19328,0.297902,0.260777,0.644574,265,34,,Bactrosau,Eolambia_,Equijubus,Lophorhot,Probactro,Protohadr
-Prieto-Marquez_et_Salinas_2010a.tnt,0.438,0.763,974,180,427,0.063655,0.145331,0.35757,0.207831,0.671448,299,53,,Ouranosau,Iguanodon,Bactrosau,Claosauru,Eolambia_,Equijubus
-Prieto-Marquez_et_Wagner_2009a.tnt,0.439,0.762,972,5,427,0.0977366,0.222635,0.254659,0.250819,0.670929,299,52,,Iguanodon,Eolambia_,Equijubus,Ouranosau,Probactro,
-Prieto-Marquez_et_Wagner_inpressa.tnt,0.468,0.787,899,2,421,0.103448,0.221043,0.263543,0.256017,0.705962,289,51,,Iguanodon,Sauroloph,Amurosaur,Aralosaur,Brachylop,Bactrosau
-Prieto-Marquez_inpressa.tnt,0.558,0.747,588,1,328,0.75,1.34409,0.295928,0.182457,0.649558,265,34,,Equijubus,Bactrosau,Gilmoreos,Hadrosaur,Lophorhot,Probactro
-Pu_etal_2013a.tnt,0.35,0.705,1250,10000,437,0.0656,0.187429,0.22525,0.245391,0.577877,348,77,,Allosauru,Sinraptor,Ingenia_y,Citipati_,Oviraptor,Oviraptor
-Ramirez-Velasco_etal_2012a.tnt,0.414,0.755,996,10000,412,0.0592369,0.143084,0.231111,0.227721,0.658382,287,61,,Iguanodon,Eolambia_,Equijubus,Probactro,Protohadr,Bactrosau
-Ramskold_et_Chatterton_1991a.tnt,0.344,0.797,163,10000,56,0,0,0.195743,0.447143,0.598122,35,64,,A_cincinn,D_scitula,E_bufo   ,E_acaresc,E_coronat,E_deflexa
-Ramskold_et_Werdelin_1991a.tnt,0.289,0.722,301,36,87,0.17608,0.609272,0.183,0.352875,0.506708,32,48,,Hyp_Anc,Podowrine,A_quadril,A_woodbur,A_sufferi,A_sororia
-Ranivoharimanana_etal_2011a.tnt,0.588,0.759,97,6,57,0.175258,0.298057,0.44575,0.49325,0.598273,44,18,,Cynognath,Diademodo,Trirachod,Langbergi,Cricodon ,Andescyno
-Rauhut_2003a.tnt,0.416,0.747,659,10000,274,3.64947,8.77276,0.256719,0.250411,0.628436,224,60,,Euparkeri,Marasuchu,Ornithisc,Eoraptor ,Herrerasa,Staurikos
-Rauhut_2006a.tnt,0.645,0.797,409,16,264,15.1809,23.5363,0.440464,0.325194,0.715614,237,31,,Theropoda,Prosaurop,Vulcanodo,Barapasau,Omeisauru,Shunosaur
-Rauhut_etal_2005a.tnt,0.519,0.673,314,24,163,0.0828025,0.159542,0.41961,0.289039,0.505032,154,27,,Shunosaur,Amargasau,Amazonsau,Amphicoel,Apatosaur,Barosauru
-Rauhut_etal_2010a.tnt,0.443,0.708,557,45,247,0.0897666,0.202633,0.295578,0.250243,0.576318,206,37,,Euparkeri,Marasuchu,Ornithisc,Eoraptor ,Herrerasa,Staurikos
-Rauhut_etal_2012a.tnt,0.465,0.649,187,93,87,0.106952,0.230004,0.4268,0.413786,0.437855,70,22,,Younginia,Squamata ,Gephyrosa,Brachyrhi,Clevosaur,Clevosaur
-Rauhut_etal_inpressaa.tnt,0.458,0.753,911,6,417,204.368,446.218,0.251521,0.212659,0.652002,353,59,,Marasuchu,Silesauru,Herrerasa,Eoraptor ,Saturnali,Plateosau
-Rauhut_etal_inpressab.tnt,0.269,0.636,1903,10000,511,0,0,0.412771,0.321521,0.482437,421,100,,Eoraptor,Herrerasa,Coelophys,Dilophosa,Syntarsus,Abelisaur
-Rauhut_etal_inpressac.tnt,0.429,0.631,657,636,282,0.0517504,0.12063,0.328333,0.338378,0.453353,233,46,,Syntarsus,Aerosteon,Australov,Chilantai,Fukuirapt,Megarapto
-Rauhut_et_Xu_2005a.tnt,0.618,0.713,246,6,152,0.0934959,0.151288,0.446721,0.273868,0.579004,136,17,,Allosauru,Aves     ,Bagaraata,Ceratosau,Coelurus ,Compsogna
-Reisz_etal_1998a.tnt,0.868,0.912,38,1,33,0.578947,0.66699,0.666677,0.575323,0.856363,31,9,,Sauropsid,Caseasaur,Ophiacodo,Mycterosa,Mesenosau,Elliotsmi
-Reisz_etal_2009a.tnt,0.684,0.804,133,1,91,0.330827,0.483665,0.496812,0.428478,0.695365,69,13,,Diadectom,Reptilia ,Cotylorhy,Casea_bro,Casea_rut,Eothyris 
-Reisz_etal_2010a.tnt,0.43,0.717,374,1,161,0.197861,0.460142,0.387532,0.196857,0.584836,113,27,,Tseajaia,Casea    ,Eothyris ,Archaeoth,Ophiacodo,Mycterosa
-Reisz_et_Dilkes_2003a.tnt,0.699,0.825,83,3,58,189.193,270.662,0.414981,0.344962,0.722592,53,13,,Reptilia,Cotylorhy,Eothyris ,Archaeoth,Ophiacodo,Mycterosa
-Remes_2006a.tnt,0.605,0.776,430,2,260,0.15814,0.261388,0.264243,0.232978,0.683344,234,32,,Theropoda,Prosaurop,Vulcanodo,Barapasau,Omeisauru,Shunosaur
-Remes_etal_2009a.tnt,0.507,0.657,491,13,249,0.0855397,0.168717,0.350787,0.252736,0.522777,235,28,,Plateosau,Vulcanodo,Tazoudasa,Barapasau,Omeisauru,Shunosaur
-Reynoso_1996a.tnt,0.69,0.798,71,1,49,0.323944,0.469484,0.53131,0.482167,0.675325,42,16,,Youngina,Squamata ,Gephyrosa,Diphydont,Planoceph,Palaeople
-Reynoso_1997a.tnt,0.644,0.804,87,1,56,0.37931,0.588991,0.431271,0.393417,0.686235,48,20,,Youngina,Squamata ,Gephyrosa,Diphydont,Planoceph,Palaeople
-Reynoso_et_Clark_1998a.tnt,0.55,0.751,109,1,60,0.275229,0.500417,0.394846,0.400192,0.592448,52,22,,Youngina,Squamata ,Gephyrosa,Diphydont,Planoceph,Palaeople
-Rieppel_1989a.tnt,0.667,0.697,30,2,20,0.266667,0.3998,0.219312,0.26792,0.460626,19,9,,Paleothyr,Araeoscel,Petrolaco,Coelurosa,Claudiosa,
-Rieppel_1993a.tnt,0.769,0.889,13,1,10,0.538462,0.70021,0.484818,0.545455,0.729486,11,11,,Petrolaco,Claudiosa,Youngina ,Keichousa,Dactylosa,Anarosaur
-Rieppel_1994a.tnt,0.722,0.815,18,1,13,0.388889,0.538627,0.642857,0.666714,0.616564,14,9,,Neodiapsi,Pachypleu,Corosauru,Simosauru,Cymatosau,Nothosaur
-Rieppel_1997aa.tnt,0.714,0.75,7,97,5,1568.14,2196.28,0.7,0.6334,0.115044,5,10,,All_zero_,Cymatosau,Cymatosau,Cymatosau,Cymatosau,Cymatosau
-Rieppel_1997ab.tnt,0.477,0.709,306,2,146,0.264706,0.554939,0.313521,0.270538,0.575484,119,24,,Ancestor,Captorhin,Testudine,Araeoscel,Younginif,Kuehneosa
-Rieppel_1998a.tnt,0.482,0.713,305,2,147,0.268852,0.557785,0.309387,0.250613,0.581911,119,24,,Ancestor,Captorhin,Testudine,Araeoscel,Younginif,Kuehneosa
-Rieppel_1998b.tnt,0.46,0.762,328,6,151,0.256098,0.556734,0.267787,0.255344,0.649775,122,28,,Ancestor,Captorhin,Testudine,Araeoscel,Younginif,Kuehneosa
-Rieppel_1998ca.tnt,0.431,0.744,353,20,152,0.147309,0.341784,0.267213,0.287311,0.622301,122,30,,Ancestor,Captorhin,Testudine,Araeoscel,Younginif,Kuehneosa
-Rieppel_1998cb.tnt,0.621,0.72,87,1,54,0.172414,0.277639,0.46096,0.34466,0.537232,50,14,,Cymatosau,Lariosaur,Nothosaur,Pistosaur,Simosauru,Hanosauru
-Rieppel_1999a.tnt,0.468,0.715,314,2,147,0.210191,0.449126,0.29785,0.255275,0.580138,120,27,,Ancestor,Captorhin,Testudine,Araeoscel,Younginif,Kuehneosa
-Rieppel_2000a.tnt,0.678,0.709,115,1,78,0.269565,0.397589,0.495,0.302403,0.55341,67,11,,Pachypleu,Simosauru,Nothosaur,Placodus ,Paraplaco,Cyamodus 
-Rieppel_2001a.tnt,0.674,0.684,95,28,64,0.0526316,0.0780884,0.165711,0.246118,0.475643,54,13,,Ancestor,Placodus ,Paraplaco,C_rostrat,C_hlldega,C_kuhnsch
-Rieppel_2001b.tnt,0.6,0.651,55,1,33,0.254545,0.424242,0.6034,0.54604,0.388379,25,12,,Pachypleu,Simosauru,Germanosa,N_edinger,N_gigante,N_juvenil
-Rieppel_etal_2002a.tnt,0.461,0.711,382,26,176,0.204188,0.442925,0.313876,0.277985,0.579111,137,30,,Ancestor,Captorhin,Testudine,Araeoscel,Younginif,Kuehneosa
-Rieppel_etal_2003a.tnt,0.455,0.765,341,2,155,35.0557,77.0455,0.26316,0.265584,0.651783,125,29,,Ancestor,Captorhin,Testudine,Araeoscel,Younginif,Kuehneosa
-Rieppel_et_deBraga_1996a.tnt,0.353,0.697,586,4,207,0.186007,0.526932,0.230994,0.259494,0.564187,168,34,,Ancestor,Captorhin,Paleothyr,Millerett,Acleistor,Lanthanos
-Rieppel_et_Lin_1995a.tnt,0.555,0.682,110,10,61,0.0818182,0.14742,0.4366,0.40166,0.476496,50,15,,outgroup,Anarosaur,Dactylosa,Keichousa,N_pusillu,N_peyeri 
-Rieppel_et_Zanon_1997a.tnt,0.793,0.836,58,2,46,0.206897,0.260904,0.590839,0.481194,0.704579,31,11,,Ancestor,Claudiosa,Youngina ,Pachypleu,Eusauropt,Paraplaco
-Riga_etal_2009a.tnt,0.575,0.678,186,14,107,0.107527,0.187003,0.391069,0.265882,0.484334,102,23,,Camarasau,Brachiosa,Euhelopus,Chubutisa,Phuwiango,Ligabuesa
-Rincon_etal_2013a.tnt,0.583,0.829,120,2,70,0.391667,0.671812,0.34198,0.341176,0.724396,51,29,,S_krabien,M_minimun,M_silistr,A_magnum ,A_mosvial,A_chaiman
-Rode_2004a.tnt,0.315,0.555,89,10,28,0.314607,0.998752,0.327741,0.462556,0.168824,27,22,,Leptodesm,Leiopteri,Leiopteri,Leiopteri,Leiopteri,Leiopteri
-Rode_2005aa.tnt,0.3,0.526,130,307,39,0.0153846,0.0512821,0.238514,0.201493,0.135392,36,25,,S_Rhenosc,S_Eoschiz,S_Eoschiz,S_Eoschiz,S_Schizop,S_Schizop
-Rode_2005ab.tnt,0.413,0.614,104,6,43,0.105769,0.2561,0.420389,0.456806,0.283617,36,18,,Xystostro,Xystostro,Schuchert,Schuchert,Floweria_,Floweria_
-Rode_et_Babcock_2003a.tnt,0.277,0.637,191,1488,53,0.0942408,0.34022,0.222452,0.417032,0.346684,31,47,,Palaeopal,Eryma_fos,Enoplocly,Homarus_a,Hoplopari,Metanephr
-Rode_et_Lieberman_2002a.tnt,0.452,0.835,188,3,85,0.260638,0.576633,0.238796,0.405444,0.73086,54,43,,Ceratioca,Ceratioca,Aristozoe,Carinatac,Dithryoca,Dithryoca
-Rodman_etal_1984a.tnt,0.378,0.604,230,3,87,0.230435,0.609616,0.515442,0.302349,0.406934,79,20,,Berberida,Portulaca,Phytolacc,Nyctagina,Mollugina,Didiereac
-Rogers_2003a.tnt,0.548,0.582,124,3,68,0.0887097,0.161879,0.251018,0.161161,0.319232,112,15,,Protosuch,Notosuchu,Libycosuc,Barusuchu,Sebecus  ,Araripesu
-Roopnarine_2001aa.tnt,0.5,0.696,56,78,28,0.142857,0.285714,0.33013,0.346565,0.449361,23,19,,Chionopsi,Chionopsi,Puberella,Lirophora,Panchione,Mercenari
-Roopnarine_2001ab.tnt,0.523,0.702,65,50,34,0.2,0.382409,0.458333,0.494417,0.450549,24,19,,Panchione,Lirophora,Chione_ch,Chione_ca,Chionopsi,C_amathus
-Rose_2007a.tnt,0.616,0.785,414,1,255,0.219807,0.356829,0.431817,0.3212,0.693423,230,34,,Theropoda,Prosaurop,Vulcanodo,Barapasau,Omeisauru,Shunosaur
-Rougier_etal_2007a.tnt,0.432,0.742,968,2,418,0.0929752,0.21522,0.55666,0.380489,0.632768,288,48,,Probainog,Tritylodo,Ttrithele,Adelobasi,Sinoconod,Morganuco
-Rowe_etal_2011aa.tnt,0.335,0.67,1256,8,421,0.0835987,0.249548,0.249607,0.274471,0.548627,361,51,,Euparkeri,Crurotars,Marasuchu,Aardonyx ,Adeopappo,Agnosphit
-Rowe_etal_2011ab.tnt,0.362,0.639,815,525,295,0.0404908,0.111853,0.389365,0.213086,0.493039,292,38,,Marasuchu,Heterodon,Lesothosa,Eoraptor ,Herrerasa,Guaibasau
-Royo-Torres_etal_2006a.tnt,0.478,0.773,672,10000,321,0.03125,0.0653766,0.294239,0.271152,0.67733,309,51,,Marasuchu,Pseudolag,Ornithisc,Herrerasa,Neotherop,Prosaurop
-Royo-Torres_etal_2009a.tnt,0.618,0.782,421,4,260,0.220903,0.357448,0.553946,0.452703,0.690116,234,32,,Theropoda,Prosaurop,Vulcanodo,Barapasau,Omeisauru,Shunosaur
-Royo-Torres_etal_2012aa.tnt,0.626,0.785,417,18,261,2.6211,4.18707,0.448556,0.362987,0.697581,234,31,,Theropoda,Prosaurop,Vulcanodo,Barapasau,Omeisauru,
-Royo-Torres_etal_2012ab.tnt,0.626,0.783,417,10,261,0.191847,0.306464,0.393316,0.230444,0.696593,234,30,,Theropoda,Prosaurop,Vulcanodo,Barapasau,Omeisauru,Shunosaur
-Royo-Torres_etal_2012ac.tnt,0.478,0.774,671,10000,321,1.56781,3.27994,0.281806,0.247977,0.676642,309,50,,Marasuchu,Pseudolag,Ornithisc,Herrerasa,Neotherop,
-Royo-Torres_etal_2012ad.tnt,0.478,0.773,671,10000,321,0.0268256,0.0561206,0.293421,0.28545,0.674884,309,49,,Marasuchu,Pseudolag,Ornithisc,Herrerasa,Neotherop,Prosaurop
-Royo-Torres_et_Upchurch_2012aa.tnt,0.64,0.79,406,24,260,0.0935961,0.146244,0.429637,0.286624,0.706462,234,30,,Theropoda,Prosaurop,Vulcanodo,Barapasau,Omeisauru,Shunosaur
-Royo-Torres_et_Upchurch_2012ab.tnt,0.492,0.782,651,10000,320,0.0245776,0.0499544,0.303547,0.32132,0.689012,309,49,,Marasuchu,Pseudolag,Ornithisc,Herrerasa,Neotherop,Prosaurop
-Rubidge_etal_2006a.tnt,0.64,0.788,100,1,64,2.02,3.15625,0.441968,0.263226,0.648712,51,17,,Haptodus,Dimetrodo,Syodon   ,Titanopho,Titanosuc,Estemmeno
-Rubilar-Rogers_etal_2012a.tnt,0.645,0.796,403,10,260,0.188586,0.292381,0.405859,0.246393,0.714542,234,30,,Theropoda,Prosaurop,Vulcanodo,Barapasau,Omeisauru,Shunosaur
-Ruiz-Omenaca_etal_1997a.tnt,0.75,0.92,8,3,6,0.625,0.833333,0.583333,0.815,0.570815,3,13,,Baryonyx_,Baryonyx_,cf._Baryo,Baryonyx_,Baryonych,Spinosaur
-Ruiz-Omenaca_etal_2012a.tnt,0.448,0.705,563,10000,252,0.259325,0.578851,0.326855,0.270524,0.583573,227,53,,Euparkeri,Marasuchu,Herrerasa,Pisanosau,Abrictosa,
-Rulleau_etal_2003a.tnt,0.509,0.735,53,4,27,0.226415,0.444823,0.428,0.541737,0.519409,19,17,,Protogram,Hildaites,Tauromeni,Bouleicer,Bouleicer,Nejda_bra
-Russell_et_Dong_1993a.tnt,0.536,0.579,110,1,59,0.236364,0.440977,0.494254,0.322017,0.34816,59,11,,Plateosau,Coelophys,Allosauru,Baryonyx ,Yangchuan,Oviraptor
-Russell_et_Zheng_1993a.tnt,0.564,0.585,39,1,22,0.384615,0.681942,0.611095,0.587333,0.273815,21,9,,Plateosau,Shunosaur,Mamenchis,Omeisauru,Euhelopus,Camarasau
-Ruta_2011a.tnt,0.455,0.722,512,72,233,0.113281,0.24897,0.289764,0.281159,0.588932,157,44,,Onychodus,Acanthost,Archeria ,Asapheste,Balanerpe,Baphetes 
-Ruta_etal_2003a.tnt,0.228,0.677,1578,108,360,0.11597,0.508639,0.18818,0.172628,0.544283,339,102,,Eusthenop,Acanthost,Acheronti,Adelogyri,Adelospon,Albanerpe
-Ruta_et_Bolt_2006a.tnt,0.311,0.627,895,2,278,0.17095,0.549678,0.255367,0.206367,0.481421,245,54,,Panderich,Acanthost,Acheloma_,Acroplous,Adamanter,Amphibamu
-Ruta_et_Clack_2006a.tnt,0.349,0.567,853,1,298,0.109027,0.312398,0.270198,0.30226,0.398015,314,33,,Eusthenop,Acanthost,Adelogyri,Anthracos,Archeria_,Ariekaner
-Ruta_et_Coates_2007a.tnt,0.228,0.677,1578,108,360,0.11597,0.508639,0.18818,0.172628,0.54429,339,102,,Eusthenop,Acanthost,Acheronti,Adelogyri,Adelospon,Albanerpe
-Ruta_et_Theron_1997a.tnt,0.857,0.929,49,1,42,0.55102,0.642964,0.524079,0.465342,0.882294,38,13,,Eumitrocy,Mitrocyst,Mitrocyst,Allancyti,Atelocyst,Australoc
-Ryan_2007aa.tnt,0.818,0.883,66,1,54,0.272727,0.333407,0.591611,0.547222,0.789289,36,14,,Protocera,Centrosau,Styracosa,Albertace,Achelousa,Einiosaur
-Ryan_2007ab.tnt,0.783,0.866,69,1,54,29004,37042.2,0.509722,0.398611,0.753735,36,15,,Protocera,Centrosau,Styracosa,Achelousa,Einiosaur,Pachyrhin
-Ryan_etal_2010a.tnt,0.875,0.833,40,1,35,50069.2,57222,0.780312,0.59375,0.664204,16,11,,Outgroup,C._apertu,C._brinkm,Styracosa,Achelousa,Einiosaur
-Ryan_etal_2012a.tnt,0.62,0.768,279,1,173,0.107527,0.17343,0.413185,0.269656,0.661785,151,26,,Hypsiloph,Stegocera,Archaeoce,Asiacerat,Bagacerat,Chaoyangs
-Ryan_etal_2012ba.tnt,0.67,0.741,115,1,77,0.2,0.298507,0.367713,0.262333,0.589544,108,19,,Protocera,Turanocer,Zunicerat,Diablocer,Albertace,Avacerato
-Ryan_etal_2012bb.tnt,0.661,0.729,112,68,74,0.0803571,0.121569,0.335148,0.219444,0.569356,108,19,,Protocera,Turanocer,Zunicerat,Diablocer,Albertace,Avacerato
-Ryan_et_Russell_2005aa.tnt,0.941,0.909,34,1,32,0.470588,0.500094,0.821588,0.617647,0.831081,17,9,,Outgroup,Centrosau,C._brinkm,Styracosa,Achelosau,Einiosaur
-Ryan_et_Russell_2005ab.tnt,0.943,0.913,35,1,33,0.285714,0.302984,0.757882,0.441176,0.827288,17,10,,Protocera,Zunicerat,Centrosau,C._brinkm,Styracosa,Achelosau
-Sachs_2005a.tnt,0.697,0.744,33,3,23,0.515152,0.739098,0.600895,0.565842,0.509323,19,12,,Muraenosa,Occitanos,Brancasau,Libonecte,Thalassom,Tuarangis
-Sadleir_etal_2008aa.tnt,0.362,0.631,1347,582,487,0.0504826,0.139455,0.27906,0.241422,0.504933,386,47,,allzero,Abelisaur,Acrocanth,Afrovenat,Allosauru,Alvarezsa
-Sadleir_etal_2008ab.tnt,0.326,0.709,2451,192,798,0.0779274,0.239041,0.479468,0.364319,0.615449,638,76,,Herrerasa,Abelisaur,Acrocanth,Afrovenat,Albertosa,Alectrosa
-Salgado_etal_1997a.tnt,0.846,0.945,52,2,44,0.5,0.591017,0.343925,0.261503,0.898206,38,18,,Theropoda,Vulcanodo,Barapasau,Diplodoci,Camarasau,Brachiosa
-Salgado_etal_2004a.tnt,0.787,0.872,47,1,37,0.297872,0.378491,0.576486,0.493243,0.767928,37,14,,Jobaria,CAMARASAU,Haplocant,Zapalasau,Limaysaur,Nigersaur
-Salgado_etal_2006a.tnt,0.787,0.872,47,1,37,0.297872,0.378491,0.576486,0.493243,0.767928,37,14,,Jobaria,CAMARASAU,Haplocant,Zapalasau,Limaysaur,Nigersaur
-Salisbury_etal_2006a.tnt,0.443,0.765,472,1,209,0.230932,0.521292,0.248625,0.264636,0.657333,176,46,,Theriosuc,Goniophol,Bernissar,Susisuchu,Hylaeocha,Isisfordi
-Sampson_1995a.tnt,0.952,0.952,21,1,20,0.619048,0.65026,0.505941,0.446059,0.894737,17,9,,Ancestor,Protocera,Chasmosau,Centrosau,Styracosa,Einiosaur
-Sampson_etal_2010a.tnt,0.66,0.79,256,1,169,0.179688,0.272254,0.419365,0.234297,0.694555,148,25,,Leptocera,Protocera,Zunicerat,Turanocer,Albertace,Centrosau
-Sampson_etal_2013a.tnt,0.719,0.852,139,1,100,0.23741,0.330195,0.480536,0.362814,0.771703,97,24,,Leptocera,Protocera,Magnirost,Bagacerat,Turanocer,Zunicerat
-Sanchez-Hernandez_et_Benton_inpressa.tnt,0.668,0.784,241,12,161,0.0580913,0.086963,0.457974,0.327033,0.663059,151,23,,Herrerasa,Syntarsus,Allosauru,Spinostro,Elaphrosa,Deltadrom
-Sander_2000a.tnt,0.593,0.69,405,4,240,0.160494,0.270647,0.344632,0.407842,0.562415,113,19,,Ancestor ,Petrolaco,Araeoscel,Grippia  ,Utatsusau,
-Sander_etal_2006aa.tnt,0.63,0.787,414,2,261,0.217391,0.345066,0.421791,0.281688,0.704222,234,30,,Theropoda,Prosaurop,Vulcanodo,Barapasau,Omeisauru,Shunosaur
-Sander_etal_2006ab.tnt,0.522,0.724,347,12,181,0.146974,0.28156,0.317091,0.251014,0.587506,219,29,,Ancestor,Alamosaur,Amargasau,Andesauru,Apatosaur,Barapasau
-Sander_etal_2006ac.tnt,0.571,0.521,217,1,124,0.0875576,0.153341,0.250522,0.208079,0.273438,316,13,,Herrerasa,Euhelopus,Omeisauru,Diplodoco,Atlasauru,Camarasau
-Sander_etal_2011a.tnt,0.536,0.798,267,10,143,0.134831,0.251551,0.34127,0.34345,0.683091,111,35,,Petrolaco,Thadeosau,Claudiosa,Hupehsuch,Utatsusau,Grippia  
-Santini_et_Tyler_2003a.tnt,0.53,0.796,657,10000,348,0.0958904,0.180925,0.322502,0.282703,0.70508,219,58,,Antigonia,Cyttus_no,Cretatria,Plectocre,Protriaca,
-Santucci_2008aa.tnt,0.64,0.792,406,29,260,1.48768,2.32451,0.432342,0.303376,0.708501,234,31,,Theropoda,Prosaurop,Vulcanodo,Barapasau,Omeisauru,Shunosaur
-Santucci_2008ab.tnt,0.495,0.784,648,10000,321,0.916667,1.85185,0.293505,0.267563,0.690356,309,50,,Marasuchu,Pseudolag,Ornithisc,Herrerasa,Neotherop,Prosaurop
-Santucci_et_Arruda-Campos_2011a.tnt,0.619,0.796,433,20,268,0.180139,0.291015,0.404178,0.285344,0.705389,241,38,,THEROPODA,PROSAUROP,Vulcanodo,Barapasau,Omeisauru,Shunosaur
-Sanz_etal_1995aa.tnt,0.833,0.873,96,1,80,0.40625,0.487695,0.541607,0.353167,0.809433,84,9,,Dromaeosa,Archaeopt,Iberomeso,Enantiorn,Patagopte,Hesperorn
-Sanz_etal_1995ab.tnt,0.833,0.875,12,1,10,0.5,0.60024,0.75,0.6667,0.709724,10,9,,Mononykus,Patagopte,Yungavolu,Lectavis_,Avisaurus,Soroavisa
-Sanz_etal_1996a.tnt,0.859,0.888,92,1,79,0.423913,0.493496,0.624023,0.375977,0.832063,84,8,,Dromaeosa,Archaeopt,Iberomeso,Enantiorn,Concornis,Hesperorn
-Sanz_etal_1999a.tnt,0.612,0.548,49,1,30,0.183673,0.30012,0.41086,0.329465,0.190456,43,9,,Patagosau,Haplocant,Opishtoco,Andesauru,Saltasaur,Agyrosaur
-Sanz_et_Buscalioni_1992a.tnt,0.714,0.7,21,3,15,0.0952381,0.133387,0.678571,0.535714,0.376299,14,8,,Non_avian,Archaeopt,Iberomeso,Concornis,Hesperorn,Carinatae
-Sato_etal_2010a.tnt,0.44,0.709,10530,18,4628,0.637037,1.44781,0.181906,0.218643,0.574572,137,33,,Ancestor,Captorhin,Testudine,Araeoscel,Younginif,Kuehneosa
-Sato_etal_inpressa.tnt,0.409,0.706,11570,8,4732,0.355056,0.868108,0.373427,0.214603,0.575121,139,37,,Ancestor,Captorhin,Testudine,Araeoscel,Younginif,Kuehneosa
-Schott_etal_2009aa.tnt,0.939,0.966,49,1,46,0.469388,0.49988,0.598612,0.48402,0.93785,49,16,,ORNITHOPO,CERATOPSI,Stenopeli,Wannanosa,Goyocepha,Homalocep
-Schott_etal_2009ab.tnt,0.779,0.86,68,52,53,16695.4,21431.9,0.446849,0.349604,0.735076,53,21,,Psittacos,Stenopeli,Wannanosa,Goyocepha,Homalocep,
-Schram_etal_1999a.tnt,,,,,36,-nan, -nan,0.355653,0.261918, nan,15,18,,Concavica,Concavica,Concavica,Concavica,Concavica,Concavica
-Schultze_1994a.tnt,0.606,0.513,193,1,117,0.186528,0.307803,0.179921,0.203593,0.29025,216,8,,Actinopte,Tetrapoda,Panderich,Osteolepi,Porolepif,Diabolepi
-Schultze_2001a.tnt,0.324,0.627,364,10000,118,0.0357143,0.110229,0.599933,0.3778,0.362793,90,55,,Psarolepi,Diabolepi,Adalolopa,Adelargo ,Andreyevi,Archaeone
-Schultze_2004a.tnt,0.639,0.688,119,10000,76,0,0,0.428429,0.378679,0.465307,56,21,,Conchopom,Aphelodus,Archaeoce,Arganodus,Ariguna  ,Asiatocer
-Schultze_et_Chorn_1997a.tnt,0.557,0.651,115,3,64,0.104348,0.187339,0.478723,0.476511,0.411017,47,18,,Dipterus,Rhinodipt,Scaumenac,Phaneropl,Conchopom,Delatitia
-Schultze_et_Marshall_1993a.tnt,0.41,0.736,429,10000,176,0.018648,0.045483,0.252644,0.292244,0.584967,90,61,,Diabolepi,Uranoloph,Speonesyd,Speonesyd,Dipnorhyn,Dipnorhyn
-Sekiya_2010a.tnt,0.388,0.647,757,87,294,0.173052,0.446009,0.280493,0.240894,0.504118,292,35,,Marasuchu,Heterodon,Lesothosa,Eoraptor ,Herrerasa,Guaibasau
-Sekiya_etal_inpressa.tnt,0.331,0.503,1485,4,491,5.94276,17.954,0.296345,0.26061,0.335162,505,33,,Marasuchu,Eoraptor ,Herrerasa,Guaibasau,Anchisaur,Antetonit
-Senter_2004aa.tnt,0.575,0.756,120,1,69,40.025,69.6087,0.37363,0.322055,0.613666,73,20,,Palaeothy,Megalanco,MCSNB_475,Drepanosa,Dolabrosa,Hypuronec
-Senter_2004ab.tnt,0.566,0.749,122,1,69,39.3525,69.5273,0.37363,0.324342,0.600151,73,20,,Palaeothy,Megalanco,MCSNB_475,Drepanosa,Dolabrosa,Hypuronec
-Senter_2007a.tnt,0.358,0.757,1224,3,438,826.234,2307.92,0.360737,0.282023,0.660447,360,85,,Allosauru,Sinraptor,Dilong_pa,Eotyrannu,Tyrannosa,Gorgosaur
-Senter_2010a.tnt,0.346,0.771,1284,4,444,0.21729,0.628005,0.307586,0.254138,0.681142,364,89,,Dilophosa,Allosauru,Sinraptor,Dilong_pa,Guanlong_,
-Senter_2011a.tnt,0.377,0.812,1284,1,484,15.8294,41.9879,0.18114,0.211286,0.741062,392,104,,Dilophosa,Allosauru,Sinraptor,Dilong_pa,Guanlong_,Raptorex_
-Senter_etal_2004a.tnt,0.448,0.771,248,1803,111,0.427419,0.954061,0.287327,0.389446,0.634647,101,37,,Allosauru,Tyrannosa,Sinosauro,Saurornit,Saurornit,Sinornith
-Senter_etal_2010a.tnt,0.346,0.771,1284,28,444,0,0,0.394073,0.227558,0.681302,364,90,,Dilophosa,Allosauru,Sinraptor,Dilong_pa,Guanlong_,
-Senter_etal_2012a.tnt,0.376,0.812,1304,3,490,15.5353,41.3172,0.172139,0.206331,0.741489,394,109,,Dilophosa,Allosauru,Sinraptor,Dilong   ,Guanlong ,Raptorex 
-Senter_etal_2012b.tnt,0.376,0.814,1303,3,490,15.5449,41.3428,0.18086,0.208239,0.742625,394,110,,Dilophosa,Allosauru,Sinraptor,Dilong   ,Guanlong ,Raptorex 
-Sequeira_et_Coates_2000a.tnt,0.65,0.767,40,3,26,0.325,0.5,0.482565,0.493435,0.556962,23,13,,Mimia,Gutturens,C_wildung,Cobelodus,Helodus  ,Hybodus  
-Sereno_1991a.tnt,0.881,0.912,42,1,37,0.619048,0.702665,0.629611,0.486139,0.859036,36,9,,Euparkeri,Proteroch,Suchia   ,Ornithosu,Riojasuch,Parasuchi
-Sereno_1993a.tnt,1,1,2,3,2,0,0,0.2,0.2,1,10,7,,PTEROSAUR,Lagosuchu,Lesothosa,Plateosau,Coelophys,Staurikos
-Sereno_1999aa.tnt,0.816,0.887,185,1,151,0.227027,0.278219,0.454747,0.243582,0.841684,146,15,,Dinosauro,Marasuchu,Pisanosau,Lesothosa,THYREOPHO,ORNITHOPO
-Sereno_1999ab.tnt,0.852,0.941,142,1,121,0.330986,0.388481,0.391415,0.313331,0.912511,118,19,,Lesothosa,NEORNITHI,Scutellos,Emausauru,Scelidosa,Huayangos
-Sereno_1999ac.tnt,0.943,0.973,174,1,164,0.431034,0.457089,0.488745,0.36443,0.961879,149,14,,THYREOPHO,MARGINOCE,HETERODON,HYPSILOPH,Muttaburr,Tenontosa
-Sereno_1999ad.tnt,0.912,0.959,181,1,165,0.298343,0.32713,0.498729,0.377,0.941003,155,19,,THYREOPHO,ORNITHOPO,Stenopeli,Goyocepha,Homalocep,Stegocera
-Sereno_1999ae.tnt,0.971,0.977,34,2,33,0.529412,0.545223,0.269314,0.255802,0.962406,32,11,,THEROPODA,SAUROPODA,Riojasaur,Griposaur,Ammosauru,Yunnanosa
-Sereno_1999af.tnt,0.803,0.858,157,1,126,0.375796,0.46799,0.26693,0.255606,0.803474,116,13,,THEROPODA,PROSAUROP,Vulcanodo,Shunosaur,Barapasau,Omeisauru
-Sereno_1999ag.tnt,0.913,0.944,69,1,63,0.463768,0.507961,0.598283,0.402783,0.914065,60,13,,HERRERASA,TETANURAE,Elaphrosa,Ceratosau,Abelisaur,Majungath
-Sereno_1999ah.tnt,0.66,0.813,318,2,210,0.371069,0.562226,0.6875,0.375,0.743309,204,19,,HERRERASA,CERATOSAU,TORVOSAUR,SPINOSAUR,ALLOSAURI,SINRAPTOR
-Sereno_1999ai.tnt,0.961,0.968,103,1,99,0.893204,0.929453,0.7166,0.5833,0.952974,99,6,,OVIRAPTOR,DEINONYCH,Archaeopt,Confucius,ENANTIORN,EUORNITHE
-Sereno_2000aa.tnt,0.952,0.974,42,5,40,0.238095,0.2501,0.707293,0.659366,0.949912,41,14,,ORNITHOPO,CERATOPSI,Stenopeli,Wannanosa,Goyocepha,Homalocep
-Sereno_2000ab.tnt,0.855,0.918,83,6,71,0.337349,0.394561,0.521313,0.33196,0.870536,72,13,,ORNITHOPO,PACHYCEPH,Psittacos,Chaoyanga,Archaeoce,Leptocera
-Sereno_2010a.tnt,0.846,0.909,13,3,11,0.461538,0.545554,0.7667,0.7001,0.800399,10,12,,Protocera,Liaocerat,Yinlong  ,P._mongol,P._meiley,P._lujiat
-Sereno_2012a.tnt,0.769,0.871,39,6,30,0.25641,0.333433,0.6166,0.575,0.760511,30,13,,Eoraptor,Eodromaeu,Lesothosa,Neornithi,Thyreopho,Echinodon
-Sereno_etal_1996a.tnt,0.812,0.842,80,4,65,0.25,0.307882,0.719571,0.554254,0.749958,63,15,,Outgroup_,Ceratosau,Afrovenat,Torvosaur,Splnosaur,
-Sereno_etal_1998a.tnt,0.979,0.984,47,1,46,0.531915,0.543325,0.640733,0.407422,0.973911,45,8,,Ceratosau,Neotetanu,Eustrepto,Torvosaur,Baryonyx ,Suchomimu
-Sereno_etal_2001a.tnt,0.477,0.614,174,3,83,1.8908,3.96395,0.392472,0.278181,0.422699,72,20,,PROTOSUCH,Hsisosuch,THALATTOS,Baurusuch,Sebecus  ,Notosuchu
-Sereno_etal_2004a.tnt,0.854,0.935,206,104,176,0.23301,0.272845,0.451414,0.329633,0.905183,169,23,,Eoraptor,Herrerasa,Dilophosa,Lilienste,Procompso,Segisauru
-Sereno_etal_2007a.tnt,0.694,0.773,147,5,102,0.163265,0.235253,0.580833,0.455245,0.64808,102,16,,Omeisauru,Jobaria  ,MACRONARI,Apatosaur,Suuwassea,Diplodocu
-Sereno_etal_2009a.tnt,0.862,0.954,123,8,106,0.243902,0.282949,0.383446,0.363782,0.925206,101,15,,MANIRAPTO,ORNITHOMI,Ornithole,COMPSOGNA,Guanlong ,Dilong   
-Sereno_et_Arcucci_1990a.tnt,0.882,0.902,34,1,30,0.676471,0.766973,0.385727,0.281642,0.847386,34,8,,Ancestor,Euparkeri,Proteroch,Ornithosu,Parasuchi,Suchia   
-Sereno_et_Brusatte_2008aa.tnt,0.83,0.92,212,14,176,0.198113,0.238691,0.453503,0.325467,0.884207,169,22,,Eoraptor,Herrerasa,Dilophosa,Lilienste,Procompso,Segisauru
-Sereno_et_Brusatte_2008ab.tnt,0.738,0.738,84,4,62,0.214286,0.29036,0.65,0.436117,0.565989,60,9,,Sinraptor,Allosauru,Neovenato,Eocarchar,Acrocanth,Tyrannoti
-Sereno_et_Dong_1992a.tnt,1,1,20,1,20,0.8,0.8,0.583318,0.431818,1,22,6,,Scutellos,Scelidosa,Ankylosau,Huayangos,Dacentrus,Other_ste
-Sereno_et_Wild_1992aa.tnt,0.812,0.824,16,1,13,0.75,0.923645,0.55,0.5,0.632353,20,8,,ancestor,Crocodyli,Sphenosuc,Dibrothro,Pseudohes,Saltoposu
-Sereno_et_Wild_1992ab.tnt,0.875,0.909,8,2,7,16217.9,18534.7,0.65,0.65,0.710983,10,8,,ANCESTOR,Crocodyli,Sphenosuc,UCMP_1297,Hesperosu,Dibothros
-Sereno_et_Wild_1992ac.tnt,1,1,2,1,2,64870.5,64870.5,0.256611,0.259291,1,8,9,,ANCESTOR,Crocodyli,Sphenosuc,UCMP_1297,Hesperosu,Dibothros
-Sertich_et_Loewen_2010aa.tnt,0.365,0.678,1150,24,420,0.0686957,0.188207,0.249343,0.215241,0.561583,361,50,,Euparkeri,Crurotars,Marasuchu,Aardonyx ,Adeopappo,Agnosphit
-Sertich_et_Loewen_2010ab.tnt,0.386,0.662,759,48,293,0.057971,0.150184,0.5166,0.47985,0.524606,292,37,,Marasuchu,Heterodon,Lesothosa,Eoraptor ,Herrerasa,Guaibasau
-Shang_etal_2011a.tnt,0.406,0.691,446,12,181,0.284753,0.701363,0.309664,0.330577,0.552644,137,35,,Ancestor,Captorhin,Testudine,Araeoscel,Younginif,Kuehneosa
-Shirai_1996a.tnt,0.594,0.917,261,4,155,0.547893,0.922378,0.201695,0.226781,0.87978,105,53,,OUTGROUP ,Heterodon,parascyll,Brachaelu,Orectolob,
-Shu_etal_2003a.tnt,0.611,0.665,175,8,107,0.125714,0.205752,0.489357,0.303478,0.477686,115,18,,Tunicata,Cephaloch,Haikouich,Hagfish  ,Myxinikel,Lamprey  
-Shultz_2007a.tnt,0.554,0.854,424,18,235,0.271226,0.489578,0.294045,0.231906,0.789478,202,59,,Weinbergi,Limuloide,Euproops ,Limulus  ,Tachypleu,Baltoeury
-Sidor_2003a.tnt,0.332,0.841,316,10000,105,0,0,0.158463,0.261793,0.747945,82,108,,Eothyris_,Cotylorhy,Ennatosau,Casea_rut,Casea_bro,Hamilton_
-Sidor_et_Hopson_1998a.tnt,0.626,0.851,390,1,244,0.335897,0.536577,0.7083,0.6334,0.785858,181,21,,Ophiacodo,Edaphosau,Haptodus ,Sphenacod,Biarmosuc,Eotitanos
-Sidor_et_Rubidge_2006a.tnt,0.647,0.762,102,6,66,0.284314,0.439434,0.527661,0.439589,0.615426,56,15,,Haptodus,Dimetrodo,Patronomo,Suminia  ,Syodon   ,Titanopho
-Skelton_et_Smith_2000a.tnt,0.515,0.81,66,512,34,0.242424,0.470727,0.343719,0.416844,0.658667,32,36,,Pachyrism,Epidicera,Matheroni,Toucasia_,Diceras_a,Valletia_
-Smith_2001a.tnt,0.328,0.734,177,40,58,0.259887,0.792338,0.229878,0.364244,0.542941,41,48,,Nucleolit,Nucleopyg,Pygopiste,Plagiocha,Amblypygu,Catopygus
-Smith_etal_2001a.tnt,0.763,0.759,59,6,45,0.135593,0.177711,0.580357,0.464286,0.583209,56,9,,Camarasau,Brachiosa,Andesauru,Epachthos,Opisthoco,Alamosaur
-Smith_etal_2006a.tnt,0.778,0.87,27,1,21,6.51852,8.37856,0.654778,0.584722,0.727273,18,11,,Hipposaur,CGP_slash,Lycaenodo,Ictidorhi,Lemurosau,Lobalopex
-Smith_etal_2007a.tnt,0.48,0.772,837,24,402,0.142174,0.296197,0.314144,0.281608,0.677151,347,56,,Marasuchu,Silesauru,Herrerasa,Eoraptor ,Saturnali,Plateosau
-Smith_etal_2008a.tnt,0.481,0.772,848,168,408,219.552,456.449,0.292983,0.207428,0.677064,353,58,,Marasuchu,Silesauru,Herrerasa,Eoraptor ,Saturnali,Plateosau
-Smith_etal_2012a.tnt,0.66,0.78,53,1,35,317.585,481.189,0.509515,0.403545,0.623431,33,14,,Pistosaur,Thalassio,Plesiosau,Cryptocli,Kimmerosa,SMNS16812
-Smith_etal_2013a.tnt,0.209,0.688,19424,64,4053,-nan, -nan,0.628231,0.397462,0.626959,2954,189,,Non_Archo,Crocodyli,Ornithisc,Sauropodo,Herrerasa,
-Smith_et_Arbizu_1987a.tnt,0.714,0.85,21,8,15,0,0,0.181313,0.208618,0.667221,12,13,,Isorophus,Isorophus,Hemicysti,Curvitrio,Rectitrio,Agelacrin
-Smith_et_Pol_2007a.tnt,0.376,0.695,1113,12,419,0,0,0.215315,0.179122,0.582883,361,47,,Euparkeri,Crurotars,Marasuchu,Agnosphit,Anchisaur,
-Spaulding_et_Flynn_inpressa.tnt,0.264,0.601,981,8,259,4.05505,15.36,0.216532,0.275944,0.414094,216,51,,Leptictis,Hyaenodon,Thinocyon,Echinosor,Erinaceus,Oodectes_
-Sterli_et_De_La_Fuente_2011a.tnt,0.401,0.787,481,10000,193,0.149688,0.373287,0.415939,0.378697,0.683168,152,84,,Sphenodon,Simosauru,Owenetta_,Anthodon_,Proganoch,Proteroch
-Steyer_2003a.tnt,0.477,0.516,88,6,42,0.147727,0.309701,0.476846,0.408103,0.227021,39,12,,Archegosa,Eryops   ,Benthosuc,Eryosuchu,Mastodons,Parotosuc
-Stocker_2010a.tnt,0.564,0.738,101,600,57,309933,549527,0.436791,0.453163,0.521895,43,24,,Euparkeri,Paleorhin,Paleorhin,Paleorhin,Brachysuc,Angistorh
-Stocker_2012a.tnt,0.564,0.738,101,600,57,309596,548930,0.436791,0.453163,0.521895,43,24,,Euparkeri,Paleorhin,Paleorhin,Paleorhin,Brachysuc,Angistorh
-Stone_et_Telford_1999a.tnt,0.867,0.905,15,3,13,1.6,1.84544,0.645833,0.632,0.772727,12,14,,Megalodon,Chamidae ,Requienii,Heterodic,Diceras  ,Valletia 
-Storrs_1991a.tnt,0.583,0.797,144,6,84,0.472222,0.809987,0.441292,0.363229,0.693393,84,21,,Captorhin,Petrolaco,Younginif,Claudiosa,Pachypleu,Neusticos
-Storrs_1993a.tnt,0.583,0.789,151,2,88,0.397351,0.681563,0.34433,0.269977,0.684084,88,21,,Captorhin,Petrolaco,Younginif,Claudiosa,Neusticos,Serpianos
-Sues_1997a.tnt,0.581,0.581,74,1,43,0.121622,0.209332,0.535426,0.390106,0.335762,47,8,,Coelophys,Allosauru,Dromaeosa,Oviraptor,Tyrannosa,Troodonti
-Sues_2003a.tnt,0.451,0.637,370,5,167,0.210811,0.46743,0.286964,0.251553,0.482578,144,24,,Petrolaco,Youngina ,Gephyrosa,Squamata ,Prolacert,Macrocnem
-Sues_etal_1994a.tnt,0.66,0.784,47,1,31,0.404255,0.612508,0.450941,0.406882,0.640207,34,14,,outgroup,Gephyrosa,Diphydont,Planoceph,Polyspeno,Brachyrhi
-Sues_etal_2003a.tnt,0.619,0.68,63,17,39,242,390.953,0.632324,0.573559,0.410464,34,14,,Stagonole,Gracilisu,Postosuch,BP_slash_,Pseudhesp,Dromicosu
-Sues_etal_2011a.tnt,0.417,0.703,897,3,374,0.139353,0.334181,0.445985,0.271419,0.587328,319,42,,Erythrosu,Euparkeri,Revueltos,Aetosauru,Arizonasa,Effigia_o
-Sues_et_Averianov_2009a.tnt,0.701,0.807,221,2,155,57.7738,82.4162,0.482496,0.342789,0.723537,133,20,,Hypsiloph,Stegocera,Archaeoce,Turanocer,Bagacerat,Chaoyangs
-Sues_et_Averianov_2009b.tnt,0.544,0.861,287,6,156,0.184669,0.339465,0.219652,0.268826,0.795124,138,34,,Hypsiloph,Iguanodon,Ouranosau,Fukuisaur,Altirhinu,Eolambia 
-Sullivan_2003a.tnt,0.922,0.955,51,1,47,0.470588,0.510399,0.595184,0.480265,0.920319,49,16,,ORNITHOPO,CERATOPSI,Stenopeli,Wannanosa,Goyocepha,Homalocep
-Sullivan_etal_2011a.tnt,0.798,0.883,99,13,79,15.6061,19.5565,0.349449,0.224214,0.816531,98,20,,Probactro,Telmatosa,Gryposaur,Aralosaur,Tsintaosa,Jaxartosa
-Sundberg_1999aa.tnt,0.492,0.565,199,11,98,0.211055,0.428974,0.41706,0.36648,0.324595,50,19,,Ptychopar,Eoptychop,Pianaspis,Papyriasp,Amecephal,Amecephal
-Sundberg_1999ab.tnt,0.433,0.548,231,5,100,0.112554,0.25994,0.520244,0.351659,0.322962,50,19,,Ptychopar,Eoptychop,Pianaspis,Papyriasp,Amecephal,Amecephal
-Sundberg_2004a.tnt,0.191,0.582,372745,2,71291,0,0,0.283365,0.248971,0.317275,70,66,,Elrathina,Syspaceph,Pachyaspi,Pachyaspi,Ptychopar,Amecephal
-Sundberg_et_McCollum_1997a.tnt,0.425,0.508,167,43,71,0.0359281,0.0845368,0.352787,0.276653,0.198999,36,22,,Arthricoc,Changaspi,Lancastri,Opsiosory,Oryctocep,Oryctocep
-Surkov_et_Benton_2004a.tnt,0.633,0.845,30,10,19,0.366667,0.579252,0.452882,0.512706,0.681436,17,19,,Eodicynod,Emydops  ,Robertia ,Pristerod,Diictodon,Kingoria 
-Suteethorn_etal_2010a.tnt,0.618,0.784,422,4,261,0.227488,0.368104,0.286112,0.187245,0.695064,234,31,,Theropoda,Prosaurop,Vulcanodo,Barapasau,Omeisauru,Shunosaur
-Suter_1994a.tnt,0.276,0.692,217,10000,60,0.336406,1.21886,0.2573,0.2934,0.438363,40,71,,Hyboclypu,Galeropyg,Clypeus  ,Astrolamp,Bothryopn,Pseudopyg
-Suzuki_etal_2004a.tnt,0.814,0.935,97,2,79,0.505155,0.620583,0.378923,0.386962,0.896724,78,13,,Camptosau,Iguanodon,Iguanodon,Ouranosau,Altirhinu,
-Swartz_2009a.tnt,0.537,0.731,136,2,73,0.272059,0.506627,0.436068,0.397407,0.562287,59,22,,Ohychodus,Miguashai,Uranoloph,Osteolepi,Cheirolep,Cheirolep
-Taylor_2009a.tnt,0.513,0.685,784,98,402,2.71429,5.29101,0.363208,0.226888,0.5671,331,32,,Theropoda,Prosaurop,Vulcanodo,Barapasau,Omeisauru,Shunosaur
-Taylor_etal_1998a.tnt,0.406,0.62,128,1085,52,0.0390625,0.0962131,0.399884,0.279277,0.321489,33,31,,Hypotheti,Lophogast,Gnathopha,Paralopho,Eucopia_u,Chalarasp
-Taylor_etal_2000a.tnt,0.371,0.656,140,132,52,0.107143,0.288795,0.352652,0.399848,0.39759,46,30,,Cuveyella,Bicrisia ,Borgiola ,Cinctipor,Collapora,Crisia   
-Taylor_etal_2011a.tnt,0.517,0.685,782,204,404,0.0383632,0.0742034,0.365631,0.218592,0.566822,331,32,,Theropoda,Prosaurop,Vulcanodo,Barapasau,Omeisauru,Shunosaur
-Taylor_et_Naish_2007a.tnt,0.52,0.687,777,108,404,0.042471,0.0816751,0.392371,0.341914,0.570973,331,31,,Theropoda,Prosaurop,Vulcanodo,Barapasau,Omeisauru,Shunosaur
-Thewissen_1992a.tnt,0.636,0.667,22,4,14,0.227273,0.357347,0.440442,0.305423,0.360512,10,8,,Tetraclae,E_collinu,E_cedrus ,E_mediotu,E_osborni,E_parvus 
-Thewissen_etal_2001a.tnt,0.37,0.663,281,26,104,0.13879,0.375108,0.282248,0.351324,0.483091,105,29,,Arctocyon,Hyopsodus,Phenacodu,Meniscoth,Andrewsar,Eoconodon
-Thompson_etal_2012a.tnt,0.336,0.664,527,3004,177,0.0474383,0.141186,0.575111,0.504,0.475412,170,51,,Lesothosa,Emausauru,Scutellos,Scelidosa,Huayangos,Stegosaur
-Thorne_etal_2011a.tnt,0.585,0.806,205,8,120,0.160976,0.275172,0.32021,0.311895,0.686567,105,32,,Petrolaco,Utatsusau,Grippia  ,Parvinata,Chaohusau,Cymbospon
-Tinn_et_Meidla_2004aa.tnt,0.512,0.787,86,492,44,0.302326,0.59048,0.310841,0.320182,0.605449,44,35,,Hesslando,Nanopsis_,Unisulcop,H_proximu,D_lauta  ,B_angusto
-Tinn_et_Meidla_2004ab.tnt,0.479,0.782,94,112,45,0.180851,0.37756,0.277023,0.288227,0.582659,44,35,,Hesslando,Nanopsis_,Unisulcop,H_proximu,D_lauta  ,B_angusto
-Toljagic_et_Butler_2013a.tnt,0.338,0.556,1085,8,367,0.0497696,0.147247,0.258386,0.298886,0.379719,298,36,,Parasuchu,Smilosuch,Pseudopal,Ornithosu,Riojasuch,Revueltos
-Tomida_et_Tsumura_2006a.tnt,0.551,0.739,305,4,168,0.157377,0.285621,0.322951,0.228932,0.603381,205,28,,Ancestor,Alamosaur,Amargasau,Andesauru,Apatosaur,Barapasau
-Trotteyn_et_Haro_2012a.tnt,0.609,0.731,46,63,28,14.1957,23.3098,0.655542,0.682,0.453054,24,17,,Prolacert,Proterosu,Fugusuchu,Xilousuch,Garjainia,Erythrosu
-Tschopp_et_Mateus_inpressa.tnt,0.607,0.603,303,14,184,0.0561056,0.092431,0.364427,0.194726,0.419739,234,14,,Omeisauru,Camarasau,Limaysaur,Amphicoel,Dicraeosa,Amargasau
-Tsuihiji_etal_2011aa.tnt,0.944,0.964,89,4,84,1009.29,1069.17,0.509589,0.292682,0.940041,84,8,,Embryo,LACM_2847,LACM_2384,CMNH_7541,AMNH_5027,LACM_2384
-Tsuihiji_etal_2011ab.tnt,0.828,0.943,128,8,106,8.66406,10.4638,0.347139,0.332505,0.909275,101,16,,MANIRAPTO,ORNITHOMI,Ornithole,COMPSOGNA,Guanlong ,Dilong   
-Tsuihiji_etal_2012a.tnt,0.641,0.837,557,9,357,1.87971,2.93247,0.346388,0.273254,0.766992,307,24,,Allosauru,Manirapto,Ornithomi,Compsogs ,Kileskus ,Guanlong 
-Turner_etal_2007a.tnt,0.391,0.726,762,552,298,1327.09,3394.09,0.25257,0.255382,0.598439,251,58,,Allosauru,Sinraptor,Ingenia_y,Citipati_,Oviraptor,Oviraptor
-Turner_etal_2007b.tnt,0.353,0.717,866,1296,306,11.6882,33.1111,0.390353,0.210341,0.581384,251,69,,Allosauru,Sinraptor,Ingenia_y,Citipati_,Oviraptor,Oviraptor
-Turner_etal_2011a.tnt,0.314,0.748,1896,6912,596,1061.54,3380.69,0.611083,0.388889,0.654403,477,100,,Allosauru,Sinraptor,Dilong_pa,Procerato,Coelurus_,Ornithole
-Turner_etal_2012a.tnt,0.295,0.743,2021,10000,597,0,0,0.166725,0.199843,0.643486,477,117,,Allosauru,Sinraptor,Ingenia_y,Citipati_,Rinchenia,Oviraptor
-Turner_et_Buckley_2008a.tnt,0.31,0.695,1119,48,347,0,0,0.228079,0.191214,0.563753,290,75,,Gracilisu,Terrestri,Dibothros,Protosuch,Hemiproto,Orthosuch
-Turner_et_Sertich_2010a.tnt,0.271,0.686,1350,480,366,0.0962963,0.355337,0.576923,0.386744,0.554243,301,85,,Gracilisu,Terrestri,Dibothros,Protosuch,Hemiproto,Orthosuch
-Tykoski_etal_2002aa.tnt,0.46,0.653,261,1,120,0.168582,0.366483,0.337429,0.328176,0.467884,119,27,,Notosuchu,Baurusuch,Libycosuc,Sebecus  ,Araripesu,Alligator
-Tykoski_etal_2002ab.tnt,0.46,0.658,261,1,120,0.168582,0.366483,0.354571,0.344345,0.473271,119,27,,Notosuchu,Baurusuch,Libycosuc,Sebecus  ,Araripesu,Alligator
-Tykoski_etal_2002ac.tnt,0.456,0.655,263,8,120,0.13308,0.291842,0.324647,0.291387,0.471564,119,27,,Notosuchu,Baurusuch,Libycosuc,Sebecus  ,Araripesu,Alligator
-Tykoski_et_Rowe_2004a.tnt,0.584,0.741,380,3,222,0.128947,0.2208,0.435686,0.403126,0.622425,175,22,,Ornithisc,Prosaurop,Herrerasa,Allosauru,Torvosaur,Spinosaur
-Unwin_2003a.tnt,0.646,0.824,96,2,62,0.458333,0.709494,0.42715,0.387833,0.726314,60,20,,Outgroup,Preondact,Dimorphod,Anurognat,Campylogn,Scaphogna
-Unwin_2003b.tnt,0.789,0.899,71,1,56,0.492958,0.624788,0.507094,0.436453,0.840119,53,16,,Outgroup,Preondact,Dimorphod,Peteinosa,Anurognat,Batrachog
-Upchurch_1995a.tnt,0.637,0.858,267,84,170,0.11236,0.176389,0.344511,0.302287,0.790021,174,33,,Ancestor,Segnosaur,Thecodont,Anchisaur,Massospon,Plateosau
-Upchurch_1998a.tnt,0.551,0.736,305,4,168,0.15082,0.27372,0.330498,0.246005,0.600769,205,27,,Ancestor,Alamosaur,Amargasau,Andesauru,Apatosaur,Barapasau
-Upchurch_1999a.tnt,0.534,0.727,339,12,181,0.171091,0.320396,0.344387,0.367903,0.590748,219,28,,Ancestor,Alamosaur,Amargasau,Andesauru,Antarctos,Apatosaur
-Upchurch_etal_2004a.tnt,0.557,0.63,61,6,34,1246.18,2237.31,0.703094,0.696875,0.309286,32,16,,Omeisauru,Camarasau,Rayososau,Dicraeosa,Diplodocu,AMNH_460 
-Upchurch_etal_2004b.tnt,0.499,0.785,643,10000,321,0.0357698,0.071683,0.296453,0.280061,0.693473,309,48,,Marasuchu,Pseudolag,Ornithisc,Herrerasa,Neotherop,Prosaurop
-Upchurch_etal_2007a.tnt,0.408,0.664,718,76,293,0.0250696,0.0614452,0.284822,0.245401,0.527668,292,34,,Marasuchu,Heterodon,Lesothosa,Eoraptor ,Herrerasa,Guaibasau
-Upchurch_etal_2007ba.tnt,0.541,0.732,451,10,244,0.124169,0.229517,0.374929,0.300514,0.621254,212,22,,Herrerasa,Neotherop,Saturnali,Thecodont,Efraasia_,Riojasaur
-Upchurch_etal_2007bb.tnt,0.506,0.635,253,2,128,0.0869565,0.171851,0.412818,0.289066,0.444444,137,25,,Ancestor,Ammosauru,Anchisaur,Barapasau,Blikanasa,Camelotia
-Upchurch_et_Mannion_2009aa.tnt,0.648,0.798,401,2,260,0.840399,1.29691,0.434944,0.318521,0.717819,234,30,,Theropoda,Prosaurop,Vulcanodo,Barapasau,Omeisauru,Shunosaur
-Upchurch_et_Mannion_2009ab.tnt,0.498,0.785,644,10000,321,0.444099,0.891766,0.291906,0.263029,0.693106,309,49,,Marasuchu,Pseudolag,Ornithisc,Herrerasa,Neotherop,Prosaurop
-Upchurch_et_Martin_2002aa.tnt,0.544,0.731,327,22,178,0.140673,0.25859,0.357839,0.316613,0.596556,217,27,,Ancestor,Alamosaur,Amargasau,Andesauru,Apatosaur,Barapasau
-Upchurch_et_Martin_2002ab.tnt,0.785,0.842,149,1,117,0.315436,0.40183,0.543972,0.347092,0.773114,109,13,,Prosaurop,Theropoda,Vulcanodo,Shunosaur,Barapasau,Omeisauru
-Varricchio_2002a.tnt,0.438,0.686,48,2547,21,0.1875,0.428082,0.440346,0.447385,0.332674,26,35,,Troodon_f,Deinonych,Neuquenor,Struthio_,Crypturei,Diomedea_
-Varricchio_etal_2007a.tnt,0.463,0.659,376,1,174,0.223404,0.482515,0.358816,0.327304,0.491619,125,21,,Scutellos,Heterodon,Lesothosa,Agilisaur,Yandusaur,Othnielia
-Varricchio_et_Chiappe_1995a.tnt,0.833,0.875,12,1,10,0.416667,0.5002,0.8,0.65,0.714286,10,8,,Mononykus,Patagopte,Yungavolu,Lectavis_,Avisaurus,Soroavisa
-Varricchio_et_Jackson_2004a.tnt,0.778,0.846,36,24,28,0.194444,0.249929,0.716667,0.7178,0.691952,15,14,,Melanoche,Malacoche,Rhinoclem,Alligator,Crocodylu,Maiasaura
-Vasilyan_etal_2013a.tnt,0.7,0.647,20,40,14,0,0,0.269231,0.24359,0.249061,39,9,,Onychodac,Andrias_j,Andrias_d,Andrias_s,Ukrainuru,Zaissanur
-Vickaryous_etal_2001a.tnt,0.403,0.693,124,3828,50,0.0483871,0.120067,0.551757,0.283784,0.468803,41,24,,Lesothosa,Huayangos,Ankylosau,Euoplocep,Saichania,Tarchia  
-Vickaryous_etal_2004a.tnt,0.484,0.744,153,3,74,0.183007,0.378113,0.379698,0.441238,0.572418,63,23,,Lesothosa,Ankylosau,Cedarpelt,Ed._longi,Ed._rugos,Euoplocep
-Wagner_1997a,0.173,0.748,1335,10000,231,0,0,-nan,-nan,0.581099,128,154,,,,,,,
-Waisfeld_etal_2001a,0.233,0.477,424,8,99,0.0636792,0.273301,0.221058,0.328423,0.173407,52,43,,,,,,,
-Wang_etal_2013b,0.636,0.698,269,74,171,0.0185874,0.0292254,0.386081,0.235659,0.556601,185,19,,,,,,,
-Warren_et_Turner_2004a,0.372,0.557,521,1,194,0.0940499,0.252822,0.349174,0.332583,0.351512,144,28,,,,,,,
-Watabe_etal_2011a,0.838,0.885,37,9,31,0.567568,0.677288,0.434,0.329875,0.771254,48,18,,,,,,,
-Weishampel_etal_1993a,0.725,0.864,51,4,37,0.411765,0.567951,0.412919,0.351784,0.793814,37,15,,,,,,,
-Weishampel_etal_2003a,0.534,0.776,146,2,78,0.273973,0.513057,-nan,-nan,0.645649,75,18,,,,,,,
-Weishampel_et_Heinrich_1992a,0.649,0.75,57,1,37,0.333333,0.513611,0.56973,0.454973,0.566912,37,12,,,,,,,
-Wendruff_et_Wilson_2012a,0.419,0.671,260,37,109,0.0807692,0.192767,0.339853,0.337541,0.483743,109,29,,,,,,,
-Wen_etal_2013a,0.407,0.676,275,320,112,0.192727,0.473531,0.307404,0.279514,0.492702,109,32,,,,,,,
-Westrop_etal_1996aa,0.309,0.711,139,1942,43,0.0647482,0.209541,0.205107,0.404786,0.451804,28,44,,,,,,,
-Westrop_etal_1996ab,0.318,0.7,132,10000,42,0.0606061,0.190585,-nan,-nan,0.429658,28,44,,,,,,,
-Wheeler_et_Hayashi_1998a,0.527,0.648,188,9,99,0.132979,0.252332,0.410731,0.364677,0.470143,93,17,,,,,,,
-Whitlock_2011a,0.717,0.845,244,1,175,0.139344,0.194343,0.41218,0.290709,0.766497,189,26,,,,,,,
-Whitlock_2011ba,0.717,0.846,244,1,175,0.139344,0.194343,0.387243,0.249323,0.766868,189,27,,,,,,,
-Whitlock_2011bb,0.717,0.845,244,1,175,0.139344,0.194343,0.428418,0.331058,0.766205,189,27,,,,,,,
-Wickstrom_et_Donoghue_2005a,0.467,0.714,105,8,49,0.238095,0.50984,-nan,-nan,0.496131,49,24,,,,,,,
-Wilkinson_et_Benton_1996a,0.84,0.922,25,22,21,0.52,0.619048,0.476966,0.463207,0.845739,29,15,,,,,,,
-Williamson_etal_2012a,0.191,0.698,476,234,91,0.172269,0.901931,-nan,-nan,0.486728,78,94,,,,,,,
-Williamson_et_Carr_2002a,0.788,0.868,66,52,52,17201.4,21829.1,0.414245,0.309906,0.749104,53,21,,,,,,,
-Willis_1997a,0.783,0.815,23,2,18,0.391304,0.49975,0.8556,0.711133,0.651325,15,10,,,,,,,
-Wills_1998ba,0.598,0.672,107,7,64,0.158879,0.265683,0.389755,0.372755,0.445662,49,19,,,,,,,
-Wills_1998bb,0.561,0.667,114,1,64,0.192982,0.343997,0.361,0.329592,0.42759,49,19,,,,,,,
-Wills_etal_2012a,0.506,0.798,267,416,135,0.213483,0.421903,-nan,-nan,0.67727,88,55,,,,,,,
-Wilson_2002a,0.648,0.797,401,2,260,0.216958,0.334811,0.438919,0.320197,0.716069,234,29,,,,,,,
-Wilson_2005aa,0.773,0.846,181,6,140,0.0718232,0.0929149,-nan,-nan,0.747475,173,17,,,,,,,
-Wilson_2005ab,0.805,0.862,174,1,140,0.149425,0.185621,-nan,-nan,0.78377,173,14,,,,,,,
-Wilson_etal_2003a,0.857,0.935,182,424,156,0.186813,0.217985,0.442289,0.311302,0.904119,149,23,,,,,,,
-Wilson_et_Li_1999a,0.557,0.794,97,4,54,0,0,-nan,-nan,0.675104,54,16,,,,,,,
-Wilson_et_Murray_2008a,0.494,0.754,231,9,114,0.190476,0.385579,-nan,-nan,0.621767,87,29,,,,,,,
-Wilson_et_Sereno_1998a,0.801,0.854,146,1,117,0.335616,0.418997,0.515982,0.294349,0.791036,109,12,,,,,,,
-Wilson_et_Upchurch_2009aa,0.652,0.797,399,2,260,0.218045,0.334425,0.438436,0.311675,0.717864,234,29,,,,,,,
-Wilson_et_Upchurch_2009ab,0.493,0.783,649,10000,320,0.0308166,0.0625084,0.278612,0.236214,0.690026,309,48,,,,,,,
-Winkler_etal_1997a,0.795,0.855,44,2,35,0.454545,0.571755,-nan,-nan,0.756031,30,11,,,,,,,
-Witton_2012a,0.725,0.72,51,20,37,0.0588235,0.0811359,-nan,-nan,0.498028,74,10,,,,,,,
-Wu_1994a,0.673,0.789,49,1,33,0.346939,0.515511,0.481389,0.417139,0.649737,36,12,,,,,,,
-Wu_etal_1994a,0.649,0.692,94,1,61,0.212766,0.327837,0.512056,0.356481,0.519441,54,11,,,,,,,
-Wu_etal_1994b,0.658,0.784,79,1,52,1236.23,1878.77,0.53598,0.492857,0.645343,49,12,,,,,,,
-Wu_etal_1996a,0.564,0.779,78,2,44,0.346154,0.613748,0.45063,0.481283,0.635974,46,20,,,,,,,
-Wu_etal_1997a,0.461,0.734,362,18,167,0.279006,0.605218,0.288508,0.231812,0.615711,128,33,,,,,,,
-Wu_etal_2001a,0.461,0.743,373,33,172,0.324397,0.703681,0.298313,0.240649,0.627094,131,36,,,,,,,
-Wu_etal_2007a,0.846,0.932,65,2,55,0.569231,0.67285,0.293145,0.225868,0.882753,76,16,,,,,,,
-Wu_etal_2011a,0.427,0.699,424,32,181,0.169811,0.397685,-nan,-nan,0.564477,137,33,,,,,,,
-Wu_et_Chatterjee_1993a,0.683,0.748,82,1,56,0.390244,0.571367,0.420215,0.288446,0.612403,65,11,,,,,,,
-Wu_et_Godefroit_2012a,0.707,0.875,188,1,133,0.324468,0.458936,0.377074,0.297907,0.817446,108,25,,,,,,,
-Wu_et_Sues_1996a,0.62,0.769,129,8,80,0.372093,0.60015,0.498483,0.456,0.635254,60,20,,,,,,,
-Xing_etal_2012a,0.516,0.861,932,84,481,0.100858,0.195462,-nan,-nan,0.811481,334,53,,,,,,,
-Xing_etal_inpressa,0.425,0.644,988,15,420,0.0819838,0.192903,-nan,-nan,0.509956,344,38,,,,,,,
-Xu_etal_1999a,0.608,0.694,171,4,104,0.157895,0.259695,0.44067,0.328585,0.542131,106,14,,,,,,,
-Xu_etal_1999b,0.642,0.645,109,1,70,0.229358,0.357255,0.47019,0.273798,0.465387,84,8,,,,,,,
-Xu_etal_2000a,0.579,0.665,164,2,95,0.20122,0.347529,0.475213,0.361461,0.486836,89,13,,,,,,,
-Xu_etal_2000b,0.805,0.778,41,1,33,0.341463,0.424178,0.548156,0.444444,0.635701,45,7,,,,,,,
-Xu_etal_2001a,0.761,0.844,117,4,89,0.111111,0.146007,0.485895,0.394053,0.767152,95,14,,,,,,,
-Xu_etal_2002a,0.693,0.782,199,2,138,0.180905,0.261045,0.50145,0.327625,0.683166,120,17,,,,,,,
-Xu_etal_2002b,0.423,0.704,603,64,255,1676.8,3964.08,0.307659,0.341899,0.555958,208,47,,,,,,,
-Xu_etal_2002c,0.437,0.709,574,336,251,1761.51,4030.91,0.282883,0.258534,0.565638,206,45,,,,,,,
-Xu_etal_2004a,0.634,0.792,123,3,78,0.211382,0.33341,-nan,-nan,0.673487,77,15,,,,,,,
-Xu_etal_2006a,0.402,0.747,681,10000,274,3.53157,8.785,-nan,-nan,0.626979,224,62,,,,,,,
-Xu_etal_2006b,0.534,0.689,204,1,109,0.191176,0.358008,0.385292,0.271651,0.546929,106,14,,,,,,,
-Xu_etal_2007aa,0.386,0.725,772,2024,298,1309.9,3393.52,0.251952,0.267888,0.59482,251,59,,,,,,,
-Xu_etal_2007ab,0.655,0.707,284,7,186,0.0492958,0.0752607,0.49405,0.308149,0.576875,161,14,,,,,,,
-Xu_etal_2009a,0.439,0.746,1071,10000,470,173.834,395.977,-nan,-nan,0.641121,413,65,,,,,,,
-Xu_etal_2009b,0.367,0.728,935,4896,343,0.0663102,0.180682,0.231035,0.256113,0.60588,284,67,,,,,,,
-Xu_etal_2010a,0.875,0.904,88,10,77,1768.65,2021.31,0.585468,0.402584,0.839767,77,13,,,,,,,
-Xu_etal_2010ba,0.625,0.772,264,1,165,0.170455,0.272727,0.431932,0.325741,0.670066,147,23,,,,,,,
-Xu_etal_2010bb,0.624,0.73,218,2,136,4593.37,7361.17,-nan,-nan,0.607468,122,18,,,,,,,
-Xu_etal_2011a,0.648,0.74,71,5,46,0.140845,0.217354,0.611062,0.599313,0.55157,48,14,,,,,,,
-Xu_etal_2011b,0.321,0.739,1401,540,450,0,0,0.180794,0.221781,0.638027,374,89,,,,,,,
-Xu_etal_2011c,0.347,0.75,1270,12,441,804.229,2317.66,-nan,-nan,0.650693,363,87,,,,,,,
-Xu_etal_2011d,0.79,0.865,100,2,79,10.62,13.443,0.600623,0.555429,0.77911,77,14,,,,,,,
-Xu_etal_2012aa,0.271,0.64,1884,10000,510,0,0,-nan,-nan,0.487749,421,100,,,,,,,
-Xu_etal_2012ab,0.571,0.808,627,2,358,24.0303,42.0846,0.334651,0.302811,0.724535,307,27,,,,,,,
-Xu_etal_2012ac,0.576,0.803,621,5,358,0.099839,0.173332,0.344046,0.316638,0.718578,307,25,,,,,,,
-Xu_etal_2012ba,0.346,0.75,1275,36,441,801.074,2315.24,0.194107,0.232003,0.65008,363,88,,,,,,,
-Xu_etal_2012bb,0.8,0.86,30,8,24,0.266667,0.333333,0.7167,0.665,0.734278,20,10,,,,,,,
-Xu_etal_2013a,0.79,0.865,100,2,79,10.62,13.443,0.600623,0.555429,0.77911,77,14,,,,,,,
-Xu_et_Gao_2011a,0.516,0.707,157,4,81,0.286624,0.555473,0.466431,0.443986,0.543872,72,22,,,,,,,
-Xu_et_Han_2010a,0.633,0.699,294,2,186,0.0884354,0.139708,0.484196,0.329018,0.571446,163,16,,,,,,,
-Xu_et_Norell_2004a,0.418,0.743,639,2592,267,0.112676,0.26956,-nan,-nan,0.619398,222,56,,,,,,,
-Xu_et_Wang_2004a,0.422,0.681,747,180,315,0.0776439,0.18399,-nan,-nan,0.534733,257,45,,,,,,,
-Xu_et_Zhang_2005a,0.414,0.685,766,444,317,0.0613577,0.148207,-nan,-nan,0.536851,257,48,,,,,,,
-Yabumoto_2008a,0.451,0.701,235,5,106,0.157447,0.349106,0.331222,0.308917,0.532863,108,27,,,,,,,
-Yates_2003a,0.838,0.9,37,1595,31,37344.7,44564.1,0.736548,0.670968,0.772555,31,18,,,,,,,
-Yates_2003b,0.494,0.668,336,5,166,0.145833,0.295209,-nan,-nan,0.518113,164,21,,,,,,,
-Yates_2004aa,0.522,0.71,435,2,227,0.0988506,0.189369,0.348176,0.262629,0.598122,205,20,,,,,,,
-Yates_2004ab,0.559,0.727,395,2,221,0.118987,0.212857,0.416546,0.374624,0.618111,205,19,,,,,,,
-Yates_2005a,0.467,0.722,493,218,230,0.0446247,0.0955562,-nan,-nan,0.590585,252,39,,,,,,,
-Yates_2007a,0.389,0.698,1044,42,406,0,0,-nan,-nan,0.588214,348,45,,,,,,,
-Yates_2007b,0.376,0.696,1093,60,411,0,0,0.25319,0.226768,0.584283,353,46,,,,,,,
-Yates_2010a,0.375,0.695,1096,60,411,0,0,-nan,-nan,0.582284,353,46,,,,,,,
-Yates_etal_2010aa,0.4,0.663,733,72,293,0.0450205,0.112551,0.275469,0.248185,0.525371,292,35,,,,,,,
-Yates_etal_2010ab,0.363,0.689,1134,88,412,0.0714286,0.196773,-nan,-nan,0.575072,353,47,,,,,,,
-Yates_etal_2011aa,0.375,0.696,1095,360,411,0,0,0.255535,0.224062,0.58365,353,47,,,,,,,
-Yates_etal_2011ab,0.396,0.659,740,408,293,0.0351351,0.0887251,0.284942,0.274055,0.519644,292,36,,,,,,,
-Yates_et_Kitching_2003a,0.543,0.731,449,6,244,0.129176,0.237893,-nan,-nan,0.621177,212,21,,,,,,,
-Yates_et_Warren_2000a,0.326,0.668,451,1,147,0.175166,0.53732,-nan,-nan,0.506638,121,38,,,,,,,
-You_2003a,0.683,0.581,41,1,28,0.195122,0.285684,0.378795,0.25,0.328512,44,7,,,,,,,
-You_etal_2003a,0.709,0.836,110,2,78,0.354545,0.500064,0.504985,0.458667,0.740765,66,15,,,,,,,
-You_etal_2003b,0.737,0.876,114,1,84,0.27193,0.368969,0.399015,0.319925,0.80228,67,17,,,,,,,
-You_etal_2005a,0.608,0.779,301,15,183,69.5781,114.438,-nan,-nan,0.669976,169,26,,,,,,,
-You_etal_2006a,0.644,0.793,407,6,262,0.142506,0.221283,0.38965,0.2353,0.709733,243,30,,,,,,,
-You_etal_2006b,0.517,0.762,491,5,254,0.120163,0.232423,-nan,-nan,0.650442,202,28,,,,,,,
-You_etal_2008a,0.5,0.667,828,2,414,0.0724638,0.144928,0.357967,0.218051,0.544158,331,31,,,,,,,
-You_etal_2008b,0.492,0.592,61,15,30,0.131148,0.26656,0.518742,0.487129,0.287847,31,14,,,,,,,
-You_etal_2010a,0.478,0.677,592,2,283,42.1537,88.1877,0.352413,0.314227,0.524059,242,34,,,,,,,
-You_et_Dodson_2003a,0.721,0.781,233,1,168,0.360515,0.500021,0.529243,0.338939,0.68901,148,12,,,,,,,
-You_et_Dodson_2004a,0.737,0.786,228,1,168,0.337719,0.458235,-nan,-nan,0.694532,148,11,,,,,,,
-You_et_Li_2009a,0.54,0.859,289,6,156,0.16955,0.313982,0.251304,0.380848,0.793138,138,35,,,,,,,
-Young_etal_2011aa,0.625,0.864,403,3,252,0.176179,0.281886,0.305553,0.319063,0.796444,190,50,,,,,,,
-Young_etal_2011ab,0.549,0.854,477,6,262,0.199161,0.362771,-nan,-nan,0.774954,190,50,,,,,,,
-Young_et_Andrade_2009a,0.447,0.865,580,12,259,37.5259,83.9505,0.194193,0.267349,0.793118,166,86,,,,,,,
-Yuan_etal_2006a,0.565,0.714,69,14,39,0.347826,0.615621,0.45428,0.477,0.505359,25,17,,,,,,,
-Zaher_etal_2006a,0.363,0.677,652,4,237,0,0,0.287747,0.264601,0.531671,198,46,,,,,,,
-Zaher_etal_2011a,0.613,0.787,444,2,272,0.202703,0.330673,0.378776,0.213211,0.69674,246,33,,,,,,,
-Zanno_2006a,0.683,0.783,41,9,28,0.146341,0.214263,0.520781,0.466187,0.580916,32,13,,,,,,,
-Zanno_2010a,0.354,0.705,1234,4968,437,0.0664506,0.187713,0.230216,0.246388,0.579044,348,76,,,,,,,
-Zanno_etal_2009a,0.354,0.702,1244,10000,440,8.13907,22.9917,0.229244,0.241626,0.575046,348,76,,,,,,,
-Zanno_etal_2011a,0.784,0.8,37,6,29,271.622,346.456,0.443159,0.344682,0.610895,44,11,,,,,,,
-Zelenitsky_et_Therrien_2008a,1,1,16,1,16,0.4375,0.4375,0.729167,0.666667,1,12,7,,,,,,,
-Zhang_2004a,0.6,0.709,40,2,24,0.35,0.583333,0.524704,0.461111,0.43958,27,14,,,,,,,
-Zhang_etal_2002a,0.605,0.713,215,1,130,0.125581,0.207573,0.438451,0.28846,0.574638,113,14,,,,,,,
-Zhang_etal_2008a,0.352,0.753,1252,6,441,815.793,2317.59,0.192482,0.21714,0.65475,363,86,,,,,,,
-Zhang_etal_2008b,0.596,0.774,307,27,183,0.143322,0.240474,-nan,-nan,0.664057,169,25,,,,,,,
-Zhang_et_Zhou_2000a,0.709,0.803,117,1,83,0.25641,0.361651,0.469826,0.32943,0.705628,86,11,,,,,,,
-Zhao_etal_1999a,0.743,0.743,35,3,26,0.228571,0.307633,0.76,0.64,0.567931,25,7,,,,,,,
-Zheng_etal_2009a,0.498,0.729,484,3780,241,0.301653,0.605729,0.358661,0.281244,0.61844,221,47,,,,,,,
-Zheng_etal_2010a,0.356,0.751,1228,30,437,16.5505,46.4901,0.19775,0.223853,0.652091,360,85,,,,,,,
-Zhou_etal_2008a,0.558,0.804,459,3,256,0.141612,0.253785,0.305659,0.2682,0.711668,205,29,,,,,,,
-Zhou_etal_2009a,0.534,0.792,479,8,256,0.118998,0.222843,-nan,-nan,0.693214,205,30,,,,,,,
-Zhou_etal_2010a,0.542,0.777,467,4,253,0.11349,0.209392,0.349185,0.367629,0.670358,205,30,,,,,,,
-Zhou_etal_2012a,0.489,0.762,530,2,259,0.126415,0.258518,-nan,-nan,0.648996,205,32,,,,,,,
-Zhou_et_Zhang_2002a,0.688,0.825,311,4,214,0.209003,0.303784,0.371542,0.28598,0.742302,201,18,,,,,,,
-Zhou_et_Zhang_2002b,0.701,0.821,301,6,211,0.186047,0.265402,0.367741,0.24694,0.736155,201,17,,,,,,,
-Zhou_et_Zhang_2005a,0.532,0.777,476,10,253,0.151261,0.284324,0.335054,0.313144,0.67144,202,26,,,,,,,
-Zhu_et_Ahlberg_2004a,0.556,0.778,187,3,104,0.508021,0.913708,0.366929,0.314848,0.65256,99,29,,,,,,,
-Zhu_etal_1999aa,0.532,0.798,310,12,165,0.177419,0.333495,0.327034,0.323624,0.700469,149,37,,,,,,,
-Zhu_etal_1999ab,0.534,0.802,307,6,164,0.2443,0.45749,0.310523,0.298329,0.705567,149,37,,,,,,,
-Zhu_etal_2001a,0.568,0.765,317,3,180,320.767,564.73,-nan,-nan,0.659484,158,26,,,,,,,
-Zhu_etal_2006a,0.616,0.781,219,2,135,0.136986,0.22238,0.441912,0.406808,0.662067,125,19,,,,,,,
-Zhu_et_Gai_2006a,0.492,0.801,122,1,60,0,0,-nan,-nan,0.670668,53,39,,,,,,,
-Zhu_et_Schultze_1997a,0.571,0.82,273,6,156,0.278388,0.487545,0.303529,0.260671,0.731386,140,33,,,,,,,
-Zhu_et_Yu_2002a,0.549,0.759,328,8,180,0.185976,0.338753,0.362234,0.288937,0.649862,158,27,,,,,,,
+File / Data,CI,RI,L,#mpts,MinL,TSI,PSI,meanci,meanri,MHER,originalchars,informativechars,Taxa,,1st taxon in matrix (1st 10 chars),2nd taxon,3rd taxon,4th,5th,6th
+Nair_et_Salisbury_2012a.tnt,0.459,0.625,810,26,372,0.108642,0.236693,0.341195,0.276661,0.482875,333,,32,,Theropoda,Vulcanodo,Tazoudasa,Spinophor,Shunosaur,Barapasau
+Naish_etal_2012a.tnt,0.313,0.594,3961,4,1240,0.0504923,0.161317,0.285179,0.187353,0.458887,1025,,72,,Herrerasa,Tawa     ,Allosauru,Alvarezsa,Anchiorni,
+Naish_etal_2013aa.tnt,0.4,0.636,60,927,24,513.25,1283.12,0.415391,0.472609,0.198397,23,,24,,Dimorphod,AMNH_2256,Anhanguer,Anhanguer,Anurognat,
+Naish_etal_2013ab.tnt,0.678,0.813,245,2,166,0.269388,0.397327,0.434271,0.384062,0.709687,129,,32,,Ornithosu,Herrerasa,Scleromoc,Anurognat,Rhamphorh,Pterodact
+Naish_et_Martill_2002a.tnt,0.667,0.821,15,195,10,12.9333,19.3903,0.7,0.6125,0.517375,10,,20,,Herrerasa,Coelophys,Carnotaur,Noasaurus,Allosauru,Tyrannosa
+Neenan_etal_inpressa.tnt,0.334,0.659,566,3,189,0.120141,0.359705,0.247686,0.302571,0.507054,140,,43,,Ancestor,Captorhin,Araeoscel,Claudiosa,Youngina ,Rhynchosa
+Neige_et_Dommergue_1995a.tnt,0.882,0.667,34,9,30,0,0,0.98,0.9,0.109131,10,,8,,P_dilectu,P_curioni,F_cornaca,P_celebra,P_mariani,F_gr_brev
+Nesbitt_2003a.tnt,0.694,0.792,36,2,25,0.305556,0.440282,0.586083,0.607708,0.608541,24,,9,,Euparkeri,Chatterje,Postosuch,Saurosuch,Arizonasa,Aetosaurs
+Nesbitt_2007a.tnt,0.584,0.836,154,1,90,0.409091,0.700498,0.297,0.321892,0.745507,83,,21,,Euparkeri,Proteroch,Parasuchi,Ornithosu,Stagonole,Postosuch
+Nesbitt_2011aa.tnt,0.373,0.779,1282,5400,478,57.5624,154.323,0.2475612648,0.3344466403,0.700629,412,,82,,Mesosuchu,Prolacert,Archosaur,Proterosu,Erythrosu,Vancleave
+Nesbitt_2011ab.tnt,0.373,0.778,1280,1800,478,57.4125,153.921,0.214172,0.184502,0.699902,412,,80,,Mesosuchu,Prolacert,Archosaur,Proterosu,Erythrosu,Vancleave
+Nesbitt_etal_2009a.tnt,0.425,0.71,869,6,369,0.144994,0.341163,0.318803,0.297222,0.595701,315,,41,,Erythrosu,Euparkeri,Revueltos,Aetosauru,Arizonasa,Effigia_o
+Nesbitt_etal_2009b.tnt,0.485,0.752,297,2,144,0.195286,0.402652,0.299669,0.2688,0.625331,130,,27,,Euparkeri,Leptosuch,Aetosauru,Riojasuch,Postosuch,Effigia  
+Nesbitt_etal_2009c.tnt,0.636,0.912,22,10000,14,531.455,835.62,0.505857,0.619286,0.717015,14,,50,,Euparkeri,Pseudosuc,Ornithisc,Sauropodo,Coelophys,Coelophys
+Nesbitt_etal_2009d.tnt,0.758,0.843,66,1,50,0.545455,0.719597,0.4749,0.332,0.762329,50,,12,,Mesosuchu,Prolacert,Proterosu,Erythrosu,Vancleave,Tropidosu
+Nesbitt_etal_2010a.tnt,0.466,0.71,736,9,343,0.191576,0.411107,0.325307,0.224307,0.592957,290,,35,,Erythrosu,Euparkeri,Revueltos,Aetosauru,Arizonasa,Effigia_o
+Nesbitt_etal_2011a.tnt,0.355,0.713,873,2700,310,0.0652921,0.183921,0.24466,0.330527,0.578107,256,,71,,Allosauru,Sinraptor,Ingenia_y,Citipati_,Rinchenia,Oviraptor
+Nesbitt_etal_inpressaa.tnt,0.368,0.774,1304,6120,480,56.3543,153.137,0.530273,0.572727,0.695052,413,,81,,Mesosuchu,Prolacert,Proterosu,Erythrosu,Vancleave,
+Nesbitt_etal_inpressab.tnt,0.368,0.774,1306,1800,480,56.3047,153.002,0.408695,0.349288,0.694348,413,,80,,Mesosuchu,Prolacert,Proterosu,Erythrosu,Vancleave,
+Nesbitt_et_Butler_inpressaa.tnt,0.368,0.776,1300,10000,479,56.7638,154.25,0.213808,0.178427,0.696653,412,,84,,Mesosuchu,Prolacert,Archosaur,Proterosu,Erythrosu,Vancleave
+Nesbitt_et_Butler_inpressab.tnt,0.369,0.775,1298,8550,479,56.6148,153.428,0.251272,0.221476,0.695587,412,,82,,Mesosuchu,Prolacert,Archosaur,Proterosu,Erythrosu,Vancleave
+Norell_etal_2000a.tnt,0.682,0.736,44,1,30,2276.23,3337.58,0.526289,0.434237,0.518735,38,,10,,Ornithomi,Oviraptor,Dromaeosa,Avialae  ,Troodon_f,Saurornit
+Norell_etal_2001a.tnt,0.453,0.715,547,30,248,1848.48,4080.54,0.328146,0.34081,0.573387,205,,44,,Allosauru,Sinraptor,Ingenia_y,Oviraptor,Oviraptor,Conchorap
+Norell_etal_2006aa.tnt,0.394,0.733,720,288,284,14.0681,35.7057,0.249271,0.257106,0.605501,236,,57,,Allosauru,Sinraptor,Ingenia_y,Citipati_,Oviraptor,Oviraptor
+Norell_etal_2006ab.tnt,0.734,0.773,64,2,47,0.171875,0.234162,0.597512,0.439024,0.630836,41,,12,,Coelophys,Allosauru,Atrocirap,Bambirapt,Deinonych,Dromaeosa
+Norell_etal_2006ac.tnt,0.44,0.767,252,3757,111,0.420635,0.955988,0.294624,0.420554,0.627506,101,,38,,Allosauru,Tyrannosa,Sinosauro,Saurornit,Saurornit,Sinornith
+Norell_et_Clarke_2001a.tnt,0.668,0.804,334,3,223,0.251497,0.376493,0.376856,0.283622,0.715996,201,,17,,Dromeosau,Archaeopt,Anas_plat,Chauna_to,Gallus_ga,Crax_paux
+Norell_et_Makovicky_2004a.tnt,0.452,0.747,584,432,264,0.0958904,0.212147,0.254076,0.218616,0.621964,220,,50,,Allosauru,Ingenia_y,Oviraptor,Oviraptor,Conchorap,Chirosten
+Norman_2002a.tnt,0.724,0.879,116,7,84,0.267241,0.369118,0.397284,0.38109,0.809297,67,,18,,Dryosauru,Camptosau,Iguanodon,Iguanodon,Ouranosau,Lurdusaur
+Norman_2004a.tnt,0.667,0.792,120,2,80,0.266667,0.3998,0.379761,0.305716,0.677445,67,,16,,L._diagno,H._foxii ,D._altus ,C._dispar,I._atherf,I._bernis
+Norman_etal_2004a.tnt,0.59,0.605,78,12,46,0.0512821,0.0869187,0.475259,0.327185,0.329562,54,,12,,Outgroup,Marginoce,H._tucki ,T._neglec,O._rex   ,P._warren
+Norman_etal_2004b.tnt,0.933,0.955,15,1,14,0.466667,0.500179,0.598111,0.454611,0.901768,32,,7,,Outgroup,Lesothosa,Cerapoda ,Scutellos,Emausauru,Scelidosa
+Norman_etal_2011a.tnt,0.578,0.576,244,1,141,0.565574,0.978501,0.290774,0.149991,0.39344,221,,14,,Euparkeri,Herrerasa,Abrictosa,Heterodon,NHMUK_RU_,Lesothosa
+Norris_1996a.tnt,0.652,0.814,46,6,30,0.347826,0.533476,0.603161,0.570387,0.685905,31,,16,,Outgroup,G_compres,A_straboc,A_nitida ,I_pusilla,I_tadjiki
+Novas_1989a.tnt,0.938,0.958,16,1,15,2.5,2.66525,0.656824,0.558824,0.927378,17,,9,,Euparkeri,Riojasuch,Lagosuchi,Herrerasa,Plateosau,Riojasaur
+Novas_1992a.tnt,1,1,8,1,8,1,1,0.438328,0.300852,1,17,,5,,Lagosuchu,Pseudolag,Herrerasa,Ornithisc,Saurischi,
+Novas_1993a.tnt,0.712,0.726,59,1,42,0.440678,0.61893,0.611098,0.503275,0.555904,51,,8,,Pterosaur,Lagerpeto,Lagosuchu,Ornithisc,Sauropodo,Eoraptor 
+Novas_1996a.tnt,0.725,0.743,102,1,74,0.323529,0.446247,0.189171,0.420829,0.613473,74,,8,,Tyrannosa,Ornithomi,Deinonych,Archaeopt,Ornithoth,Mononykus
+Novas_1996b.tnt,0.837,0.865,43,1,36,0.511628,0.611264,0.578667,0.407389,0.770642,37,,8,,Crurotars,Pterosaur,Scleromoc,Lagerpeto,Marasuchu,Pseudolag
+Novas_1997a.tnt,0.728,0.745,103,1,75,0.330097,0.45343,0.403982,0.256439,0.616911,75,,8,,Tyrannosa,Ornithomi,Deinonych,Archaeopt,Ornithoth,Mononykus
+Novas_etal_2004a.tnt,0.619,0.742,84,1,52,0.22619,0.365413,0.506085,0.415723,0.572193,47,,13,,Lesothosa,Scutellos,Marginoce,Heterodon,Talenkaue,Thescelos
+Novas_etal_2005a.tnt,0.575,0.651,226,1,130,0.115044,0.200077,0.463906,0.331736,0.471395,106,,15,,Herrerasa,Abelisaur,Acrocanth,Allosauru,Carcharod,Dromaeosa
+Novas_etal_2008a.tnt,0.394,0.723,725,6048,286,0.0675862,0.171539,0.246689,0.256529,0.592847,238,,59,,Allosauru,Sinraptor,Ingenia_y,Oviraptor,Oviraptor,Conchorap
+Novas_etal_2009a.tnt,0.35,0.715,874,432,306,11.5847,33.0991,0.225155,0.251833,0.578156,251,,70,,Allosauru,Sinraptor,Ingenia_y,Citipati_,Oviraptor,Oviraptor
+Novas_etal_2011a.tnt,0.37,0.678,1197,21,443,16.1161,43.5571,0.262471,0.231645,0.558811,380,,56,,Euparkeri,Crurotars,Marasuchu,Agnosphit,Anchisaur,Antetonit
+Novas_etal_2012a.tnt,0.32,0.753,1386,2664,443,14.6421,45.7567,0.282425,0.256289,0.651211,363,,100,,Dilophosa,Elaphrosa,Piatnitzk,Allosauru,Sinraptor,Mapusauru
+Novas_etal_inpressaa.tnt,0.381,0.661,905,222,345,0.0375691,0.0986065,0.384865,0.359962,0.508505,287,,45,,Ceratosau,Allosauru,Monolopho,Piatnitzk,Sinraptor,Acrocanth
+Novas_etal_inpressab.tnt,0.443,0.638,639,130,283,0.0657277,0.14837,0.534158,0.355368,0.462828,234,,45,,Syntarsus,Aerosteon,Australov,Chilantai,Fukuirapt,Megarapto
+Novas_et_Pol_2005a.tnt,0.418,0.743,644,5832,269,0.104037,0.248893,0.247547,0.270534,0.619753,223,,57,,Allosauru,Sinraptor,Ingenia_y,Oviraptor,Oviraptor,Conchorap
+OConnor_etal_2009a.tnt,0.485,0.684,582,6,282,9.54811,19.6868,0.332219,0.284376,0.541943,242,,29,,Dromaeosa,Archaeopt,Zhongorni,Jeholorni,Sapeornis,Confucius
+OConnor_etal_2010a.tnt,0.485,0.696,582,6,282,9.55155,19.6939,0.342558,0.31338,0.556783,242,,30,,Dromaeosa,Archaeopt,Zhongorni,Jeholorni,Sapeornis,Confucius
+OConnor_etal_2010b.tnt,0.326,0.639,867,40,283,0,0,0.255508,0.237775,0.485834,236,,54,,Gracilisu,Terrestri,Dibothros,Protosuch,Hemiproto,Orthosuch
+OConnor_etal_2011a.tnt,0.403,0.691,769,1344,310,0.0494148,0.122617,0.289645,0.269151,0.536668,245,,54,,Dromaeosa,Archaeopt,Jeholoror,Rahonavis,Shenzhour,
+OConnor_etal_2013a.tnt,0.379,0.671,818,4692,310,0.0550122,0.145151,0.307602,0.34174,0.508433,246,,60,,Dromaeo,Archaeo  ,Jeholor  ,Raho     ,Shenzhou ,Jixiang  
+OConnor_et_Zhou_inpressa.tnt,0.372,0.674,854,3060,318,0.0398126,0.107023,0.27798,0.260522,0.511011,245,,60,,Dromaeosa,Archaeopt,Jeholorni,Rahonavis,Shenzhour,Jixiangor
+Ohashi_et_Barrett_2009a.tnt,0.5,0.731,478,3780,239,0.307531,0.615063,0.438132,0.422079,0.622272,221,,47,,Euparkeri,Marasuchu,Herrerasa,Abrictosa,Agilisaur,
+OLeary_etal_2004aa.tnt,0.507,0.617,416,2,211,0.0745192,0.146981,0.382092,0.302702,0.428189,228,,18,,Omeisauru,Alamosaur,Antarctos,Apatosaur,Brachiosa,Camarasau
+OLeary_etal_2004ab.tnt,0.644,0.795,402,16,259,0.079602,0.123606,0.425282,0.293632,0.713042,234,,30,,THEROPODA,PROSAUROP,Vulcanodo,Barapasau,Omeisauru,Shunosaur
+Olsen_etal_2000a.tnt,0.732,0.711,41,1,30,0.268293,0.36652,0.565667,0.474758,0.492386,33,,7,,Stagonole,Gracilisu,Postosuch,Erpetosuc,Sphenosuc,Protosuch
+Ortega_etal_1996a.tnt,0.846,0.882,13,1,11,0.538462,0.636479,0.633333,0.6,0.746835,15,,8,,Notosuchu,Sebecus  ,Baurusuch,cf_Iberos,Eremosuch,Peirosaur
+Ortega_etal_2000a.tnt,0.451,0.743,397,3,179,0.209068,0.463565,0.283478,0.263901,0.631177,182,,30,,Postosuch,Sphenosuc,Dibothros,Protosuch,Orthosuch,Sichuanos
+Ortega_etal_2010a.tnt,0.429,0.63,658,1248,282,0.0379939,0.0885639,0.372676,0.275397,0.450606,233,,46,,Syntarsus,Aerosteon,Australov,Chilantai,Fukuirapt,Megarapto
+Osi_2005a.tnt,0.485,0.655,132,6,64,0.136364,0.281162,0.501806,0.385194,0.414046,63,,17,,Scelidosa,Struthios,Pawpawsau,Hungarosa,Edmontoni,Silvisaur
+Osi_etal_2012aa.tnt,0.529,0.772,155,1,82,0.270968,0.512226,0.283927,0.242677,0.639684,79,,19,,Ancestor,Marginoce,Heterodon,Agilisaur,Thescelos,Parksosau
+Osi_etal_2012ab.tnt,0.429,0.698,601,1296,258,0.0798669,0.18617,0.400099,0.223292,0.572905,234,,58,,Euparkeri,Marasuchu,Herrerasa,Pisanosau,Abrictosa,
+Osi_et_Makadi_2009a.tnt,0.483,0.672,145,1,70,0.22069,0.456914,0.633294,0.549,0.454228,63,,18,,Scelidosa,Struthios,Pawpawsau,Edmontoni,Silvisaur,Sauropelt
+Osmolska_etal_2004a.tnt,0.689,0.709,267,3,184,0.0786517,0.114153,0.533267,0.3222,0.586859,161,,12,,Herrerasa,Velocirap,Archaeopt,Avimimus_,Caudipter,Chirosten
+Otero_et_Pol_2013a.tnt,0.321,0.66,1332,10,427,0.0608108,0.189442,0.234813,0.264231,0.53264,364,,56,,Euparkeri,Crurotars,Marasuchu,Agnosphit,Anchisaur,Antetonit
+Ott_et_Larson_2010a.tnt,0.839,0.931,62,1,52,0.290323,0.346034,0.320534,0.293644,0.880839,73,,16,,Protocera,Zunicerat,Achelousa,Anchicera,Arrhinoce,Avacerato
+Palci_etal_2013aa.tnt,0.475,0.708,617,1,293,0.132901,0.279792,0.332176,0.296395,0.590413,210,,27,,Heloderma,Lanthanot,Varanus  ,Mosasauro,Madtsoiid,Dinilysia
+Palci_etal_2013ab.tnt,0.502,0.691,590,6,296,0.122034,0.243095,0.34649,0.242386,0.565436,210,,25,,Iguana,Agama    ,Madtsoiid,Dinilysia,Leptotyph,Typhlopid
+Palci_etal_2013ac.tnt,0.476,0.683,617,6,294,0.106969,0.224725,0.333886,0.24191,0.550465,210,,26,,Corucia,Amphisbae,Dibamidae,Madtsoiid,Dinilysia,Leptotyph
+Palci_etal_2013b.tnt,0.379,0.69,427,48,162,0.140515,0.370753,0.607548,0.365645,0.522316,131,,38,,Outgroup,Aigialosa,Komensaur,Halisauru,Halisauru,Dallasaur
+Park_etal_2002a.tnt,0.516,0.63,91,7,47,0.175824,0.340745,0.418091,0.288955,0.364529,44,,19,,Cytheride,Leucocyth,Limnocyth,Gomphocyt,Gomphocyt,Gomphocyt
+Parrish_1991a.tnt,0.742,0.807,62,11,46,2092.85,2820.56,0.354537,0.235074,0.684977,60,,13,,Chasmatos,Rutiodon ,Desmatosu,Postosuch,Pseudhesp,Hesperosu
+Parrish_1992a.tnt,0.882,0.9,17,1,15,0.588235,0.666933,0.6875,0.479187,0.809886,16,,8,,Proterosu,Other_arc,Fugusuchu,Garjainia,Erythrosu,Shansisuc
+Parrish_1993a.tnt,0.643,0.828,70,1,45,0.4,0.622084,0.42531,0.381286,0.696418,42,,24,,Proterosu,Erythrosu,Euparkeri,Chanaresu,Lagosuchu,Plateosau
+Parrish_1994a.tnt,1,1,11,1,11,0.818182,0.818182,0.633333,0.6,1,15,,10,,Prestosuc,Rauisuchi,Aetosauru,Stagonole,Longosuch,Desmatosu
+Parsons_et_Parsons_2009a.tnt,0.443,0.716,167,111,74,0.11976,0.27034,0.356429,0.431238,0.513954,63,,26,,Huayangos,Scelidosa,Tatankace,Gargoyleo,Cedarpelt,Pawpawsau
+Paton_etal_1999a.tnt,0.446,0.553,327,9,146,0.0611621,0.137135,0.36164,0.241991,0.341794,111,,21,,Acanthost,Crassigyr,Greererpe,Balanerpe,Dendrerpe,Eucritta 
+Penkalski_et_Dodson_1999a.tnt,0.929,0.944,28,1,26,25.2857,27.2182,0.505075,0.264813,0.89858,25,,11,,Bagacerat,Montanoce,Monocloni,Avacerato,MOR_692  ,Centrosau
+Penkalski_inpressa.tnt,0.793,0.846,29,45,23,1377180,1736670,0.6435,0.498167,0.688797,18,,16,,P_granger,CMN_0210 ,ROM_784  ,TMP_1991_,UALVP_31 ,CMN_8530 
+Pereda-Suberbiola_etal_2009a.tnt,0.877,0.96,73,1,64,0.383562,0.437356,0.218389,0.339481,0.929633,57,,22,,Bactrosau,Telmatosa,Aralosaur,Tsintaosa,Jaxartosa,Amurosaur
+Perez-Garcia_et_Murelaga_2012a.tnt,0.42,0.775,407,10000,171,0,0,0.236493,0.208895,0.658204,152,,80,,Sphenodon,Simosauru,Owenetta_,Anthodon_,Proganoch,Proteroch
+Perez-Moreno_etal_1993a.tnt,0.694,0.725,72,1,50,0.25,0.360231,0.445519,0.309288,0.516271,52,,11,,Herrerasa,Montmirat,Allosauru,Eustrepto,Dilophosa,Ceratosau
+Perez-Moreno_etal_1994a.tnt,0.792,0.815,24,1,19,0.333333,0.420875,0.560591,0.363636,0.661934,22,,7,,Allosauru,Albertosa,Deinonych,Garudimim,Gallimimu,Pelecanim
+Peterson_et_Eernisse_2001a.tnt,0.585,0.806,265,2,155,0.34717,0.593453,0.302398,0.266875,0.724601,151,,40,,Fungi,Choanofla,Hexactine,Demospong,Calcarea ,Placozoa 
+Piras_et_Buscalioni_2006a.tnt,0.52,0.793,246,15,128,0.199187,0.383052,0.211491,0.201844,0.685727,167,,41,,Borealosu,Asiatosuc,Leidyosuc,Diplocyno,Diplocyno,Diplocyno
+Pol_2003a.tnt,0.388,0.66,505,8,196,0,0,0.295296,0.319802,0.508963,162,,37,,Gracilisu,Terrestri,Dibothros,Protosuch,Hemiproto,Orthosuch
+Pol_etal_2004a.tnt,0.355,0.677,625,2,222,0.1088,0.306479,0.251973,0.231093,0.526206,183,,45,,Gracilisu,Terrestri,Dibothros,Protosuch,Hemiproto,Orthosuch
+Pol_etal_2009a.tnt,0.319,0.715,1061,1340,338,0.068803,0.215683,0.378823,0.285608,0.588503,282,,77,,Gracilisu,Terrestri,Dibothros,Protosuch,Hemiproto,
+Pol_etal_2011a.tnt,0.513,0.795,612,7452,314,0.0669935,0.130592,0.205672,0.237934,0.706491,277,,50,,Lagerpeto,Marasuchu,Pseudolag,Silesauru,Azendhosa,Azendhosa
+Pol_etal_2011b.tnt,0.463,0.716,549,216,254,0.291439,0.629458,0.5566,0.327767,0.598317,230,,51,,Euparkeri,Marasuchu,Herrerasa,Pisanosau,Abrictosa,
+Pol_etal_2012a.tnt,0.318,0.716,1281,2880,407,0,0,0.238582,0.206501,0.594657,347,,88,,Gracilisu,Terrestri,Dibothros,Protosuch,Hemiproto,Orthosuch
+Pol_et_Norell_2004a.tnt,0.364,0.678,634,2,231,0.105678,0.290325,0.265813,0.228667,0.531406,192,,45,,Gracilisu,Terrestri,Dibothros,Protosuch,Hemiproto,Orthosuch
+Pol_et_Norell_2004b.tnt,0.36,0.676,611,6,220,0,0,0.274823,0.245675,0.526508,183,,44,,Gracilisu,Terrestri,Dibothros,Protosuch,Hemiproto,Orthosuch
+Pol_et_Powell_2011a.tnt,0.296,0.716,1206,1440,357,0,0,0.514542,0.443125,0.59509,295,,89,,Gracilisu,Terrestri,Dibothros,Protosuch,Hemiproto,Orthosuch
+Pol_et_Rauhut_2012a.tnt,0.586,0.725,377,4,221,0.0371353,0.0633708,0.455262,0.377568,0.579084,206,,26,,Herrerasa,Syntarsus,Allosauru,Abelisaur,Aucasauru,Berberosa
+Polly_1996a.tnt,0.661,0.801,115,2,76,0.26087,0.394659,0.4687,0.415933,0.676429,60,,17,,composit_,Proviverr,Arfia    ,Dissopsal,Prototomu,Gazinocyo
+Popov_etal_1999a.tnt,,,,,71,-nan, -nan,0.337489,0.27233, nan,27,,25,,Oligorhyn,Ancistror,Cyclospir,Rozmanosp,Pectenosp,Manespira
+Prieto-Marquez_2005a.tnt,0.738,0.724,61,2,45,0.196721,0.26656,0.411362,0.262447,0.548023,47,,10,,I._bernis,P._byrdi ,B._canade,E._annect,Gryposaur,H._stebin
+Prieto-Marquez_2010a.tnt,0.46,0.782,907,192,417,0.0694598,0.150999,0.193465,0.166695,0.697768,370,,53,,Iguanodon,Mantellis,Eolambia_,Equijubus,Probactro,Protohadr
+Prieto-Marquez_2010b.tnt,0.426,0.758,963,196,410,0.0706127,0.165757,0.285265,0.225488,0.662825,287,,57,,Iguanodon,Eolambia_,Equijubus,Probactro,Protohadr,Bactrosau
+Prieto-Marquez_2011a.tnt,0.47,0.766,855,1,402,0.0830409,0.176683,0.473289,0.31,0.673871,286,,48,,Iguanodon,Eolambia_,Equijubus,Probactro,Protohadr,Bactrosau
+Prieto-Marquez_2012a.tnt,0.423,0.757,969,588,410,0.0577915,0.136623,0.3763,0.38855,0.660521,287,,57,,Iguanodon,Eolambia_,Equijubus,Probactro,Protohadr,Bactrosau
+Prieto-Marquez_etal_2006a.tnt,0.672,0.764,119,70,80,0.0840336,0.12505,0.365533,0.291844,0.639922,90,,14,,Iguanodon,Brachylop,Corythosa,Edmontosa,Gryposaur,Hadrosaur
+Prieto-Marquez_etal_2006b.tnt,0.607,0.799,331,16,201,0.0966767,0.15927,0.332827,0.297205,0.716479,127,,24,,I._bernis,I._atherf,O._nigeri,P._gobien,B._johnso,G._mongol
+Prieto-Marquez_etal_2012a.tnt,0.581,0.766,587,2,341,0.0783646,0.134879,0.492696,0.309986,0.672079,286,,29,,Iguanodon,Equijubus,Probactro,Protohadr,Tanius_si,Bactrosau
+Prieto-Marquez_etal_2012b.tnt,0.388,0.724,768,1164,298,1316.72,3393.61,0.266319,0.306131,0.594243,251,,59,,Allosauru,Sinraptor,Ingenia_y,Citipati_,Oviraptor,Oviraptor
+Prieto-Marquez_etal_2013a.tnt,0.553,0.749,552,3,305,0.106884,0.19328,0.297902,0.260777,0.644574,265,,34,,Bactrosau,Eolambia_,Equijubus,Lophorhot,Probactro,Protohadr
+Prieto-Marquez_et_Salinas_2010a.tnt,0.438,0.763,974,180,427,0.063655,0.145331,0.35757,0.207831,0.671448,299,,53,,Ouranosau,Iguanodon,Bactrosau,Claosauru,Eolambia_,Equijubus
+Prieto-Marquez_et_Wagner_2009a.tnt,0.439,0.762,972,5,427,0.0977366,0.222635,0.254659,0.250819,0.670929,299,,52,,Iguanodon,Eolambia_,Equijubus,Ouranosau,Probactro,
+Prieto-Marquez_et_Wagner_inpressa.tnt,0.468,0.787,899,2,421,0.103448,0.221043,0.263543,0.256017,0.705962,289,,51,,Iguanodon,Sauroloph,Amurosaur,Aralosaur,Brachylop,Bactrosau
+Prieto-Marquez_inpressa.tnt,0.558,0.747,588,1,328,0.75,1.34409,0.295928,0.182457,0.649558,265,,34,,Equijubus,Bactrosau,Gilmoreos,Hadrosaur,Lophorhot,Probactro
+Pu_etal_2013a.tnt,0.35,0.705,1250,10000,437,0.0656,0.187429,0.22525,0.245391,0.577877,348,,77,,Allosauru,Sinraptor,Ingenia_y,Citipati_,Oviraptor,Oviraptor
+Ramirez-Velasco_etal_2012a.tnt,0.414,0.755,996,10000,412,0.0592369,0.143084,0.231111,0.227721,0.658382,287,,61,,Iguanodon,Eolambia_,Equijubus,Probactro,Protohadr,Bactrosau
+Ramskold_et_Chatterton_1991a.tnt,0.344,0.797,163,10000,56,0,0,0.195743,0.447143,0.598122,35,,64,,A_cincinn,D_scitula,E_bufo   ,E_acaresc,E_coronat,E_deflexa
+Ramskold_et_Werdelin_1991a.tnt,0.289,0.722,301,36,87,0.17608,0.609272,0.183,0.352875,0.506708,32,,48,,Hyp_Anc,Podowrine,A_quadril,A_woodbur,A_sufferi,A_sororia
+Ranivoharimanana_etal_2011a.tnt,0.588,0.759,97,6,57,0.175258,0.298057,0.44575,0.49325,0.598273,44,,18,,Cynognath,Diademodo,Trirachod,Langbergi,Cricodon ,Andescyno
+Rauhut_2003a.tnt,0.416,0.747,659,10000,274,3.64947,8.77276,0.256719,0.250411,0.628436,224,,60,,Euparkeri,Marasuchu,Ornithisc,Eoraptor ,Herrerasa,Staurikos
+Rauhut_2006a.tnt,0.645,0.797,409,16,264,15.1809,23.5363,0.440464,0.325194,0.715614,237,,31,,Theropoda,Prosaurop,Vulcanodo,Barapasau,Omeisauru,Shunosaur
+Rauhut_etal_2005a.tnt,0.519,0.673,314,24,163,0.0828025,0.159542,0.41961,0.289039,0.505032,154,,27,,Shunosaur,Amargasau,Amazonsau,Amphicoel,Apatosaur,Barosauru
+Rauhut_etal_2010a.tnt,0.443,0.708,557,45,247,0.0897666,0.202633,0.295578,0.250243,0.576318,206,,37,,Euparkeri,Marasuchu,Ornithisc,Eoraptor ,Herrerasa,Staurikos
+Rauhut_etal_2012a.tnt,0.465,0.649,187,93,87,0.106952,0.230004,0.4268,0.413786,0.437855,70,,22,,Younginia,Squamata ,Gephyrosa,Brachyrhi,Clevosaur,Clevosaur
+Rauhut_etal_inpressaa.tnt,0.458,0.753,911,6,417,204.368,446.218,0.251521,0.212659,0.652002,353,,59,,Marasuchu,Silesauru,Herrerasa,Eoraptor ,Saturnali,Plateosau
+Rauhut_etal_inpressab.tnt,0.269,0.636,1903,10000,511,0,0,0.412771,0.321521,0.482437,421,,100,,Eoraptor,Herrerasa,Coelophys,Dilophosa,Syntarsus,Abelisaur
+Rauhut_etal_inpressac.tnt,0.429,0.631,657,636,282,0.0517504,0.12063,0.328333,0.338378,0.453353,233,,46,,Syntarsus,Aerosteon,Australov,Chilantai,Fukuirapt,Megarapto
+Rauhut_et_Xu_2005a.tnt,0.618,0.713,246,6,152,0.0934959,0.151288,0.446721,0.273868,0.579004,136,,17,,Allosauru,Aves     ,Bagaraata,Ceratosau,Coelurus ,Compsogna
+Reisz_etal_1998a.tnt,0.868,0.912,38,1,33,0.578947,0.66699,0.666677,0.575323,0.856363,31,,9,,Sauropsid,Caseasaur,Ophiacodo,Mycterosa,Mesenosau,Elliotsmi
+Reisz_etal_2009a.tnt,0.684,0.804,133,1,91,0.330827,0.483665,0.496812,0.428478,0.695365,69,,13,,Diadectom,Reptilia ,Cotylorhy,Casea_bro,Casea_rut,Eothyris 
+Reisz_etal_2010a.tnt,0.43,0.717,374,1,161,0.197861,0.460142,0.387532,0.196857,0.584836,113,,27,,Tseajaia,Casea    ,Eothyris ,Archaeoth,Ophiacodo,Mycterosa
+Reisz_et_Dilkes_2003a.tnt,0.699,0.825,83,3,58,189.193,270.662,0.414981,0.344962,0.722592,53,,13,,Reptilia,Cotylorhy,Eothyris ,Archaeoth,Ophiacodo,Mycterosa
+Remes_2006a.tnt,0.605,0.776,430,2,260,0.15814,0.261388,0.264243,0.232978,0.683344,234,,32,,Theropoda,Prosaurop,Vulcanodo,Barapasau,Omeisauru,Shunosaur
+Remes_etal_2009a.tnt,0.507,0.657,491,13,249,0.0855397,0.168717,0.350787,0.252736,0.522777,235,,28,,Plateosau,Vulcanodo,Tazoudasa,Barapasau,Omeisauru,Shunosaur
+Reynoso_1996a.tnt,0.69,0.798,71,1,49,0.323944,0.469484,0.53131,0.482167,0.675325,42,,16,,Youngina,Squamata ,Gephyrosa,Diphydont,Planoceph,Palaeople
+Reynoso_1997a.tnt,0.644,0.804,87,1,56,0.37931,0.588991,0.431271,0.393417,0.686235,48,,20,,Youngina,Squamata ,Gephyrosa,Diphydont,Planoceph,Palaeople
+Reynoso_et_Clark_1998a.tnt,0.55,0.751,109,1,60,0.275229,0.500417,0.394846,0.400192,0.592448,52,,22,,Youngina,Squamata ,Gephyrosa,Diphydont,Planoceph,Palaeople
+Rieppel_1989a.tnt,0.667,0.697,30,2,20,0.266667,0.3998,0.219312,0.26792,0.460626,19,,9,,Paleothyr,Araeoscel,Petrolaco,Coelurosa,Claudiosa,
+Rieppel_1993a.tnt,0.769,0.889,13,1,10,0.538462,0.70021,0.484818,0.545455,0.729486,11,,11,,Petrolaco,Claudiosa,Youngina ,Keichousa,Dactylosa,Anarosaur
+Rieppel_1994a.tnt,0.722,0.815,18,1,13,0.388889,0.538627,0.642857,0.666714,0.616564,14,,9,,Neodiapsi,Pachypleu,Corosauru,Simosauru,Cymatosau,Nothosaur
+Rieppel_1997aa.tnt,0.714,0.75,7,97,5,1568.14,2196.28,0.7,0.6334,0.115044,5,,10,,All_zero_,Cymatosau,Cymatosau,Cymatosau,Cymatosau,Cymatosau
+Rieppel_1997ab.tnt,0.477,0.709,306,2,146,0.264706,0.554939,0.313521,0.270538,0.575484,119,,24,,Ancestor,Captorhin,Testudine,Araeoscel,Younginif,Kuehneosa
+Rieppel_1998a.tnt,0.482,0.713,305,2,147,0.268852,0.557785,0.309387,0.250613,0.581911,119,,24,,Ancestor,Captorhin,Testudine,Araeoscel,Younginif,Kuehneosa
+Rieppel_1998b.tnt,0.46,0.762,328,6,151,0.256098,0.556734,0.267787,0.255344,0.649775,122,,28,,Ancestor,Captorhin,Testudine,Araeoscel,Younginif,Kuehneosa
+Rieppel_1998ca.tnt,0.431,0.744,353,20,152,0.147309,0.341784,0.267213,0.287311,0.622301,122,,30,,Ancestor,Captorhin,Testudine,Araeoscel,Younginif,Kuehneosa
+Rieppel_1998cb.tnt,0.621,0.72,87,1,54,0.172414,0.277639,0.46096,0.34466,0.537232,50,,14,,Cymatosau,Lariosaur,Nothosaur,Pistosaur,Simosauru,Hanosauru
+Rieppel_1999a.tnt,0.468,0.715,314,2,147,0.210191,0.449126,0.29785,0.255275,0.580138,120,,27,,Ancestor,Captorhin,Testudine,Araeoscel,Younginif,Kuehneosa
+Rieppel_2000a.tnt,0.678,0.709,115,1,78,0.269565,0.397589,0.495,0.302403,0.55341,67,,11,,Pachypleu,Simosauru,Nothosaur,Placodus ,Paraplaco,Cyamodus 
+Rieppel_2001a.tnt,0.674,0.684,95,28,64,0.0526316,0.0780884,0.165711,0.246118,0.475643,54,,13,,Ancestor,Placodus ,Paraplaco,C_rostrat,C_hlldega,C_kuhnsch
+Rieppel_2001b.tnt,0.6,0.651,55,1,33,0.254545,0.424242,0.6034,0.54604,0.388379,25,,12,,Pachypleu,Simosauru,Germanosa,N_edinger,N_gigante,N_juvenil
+Rieppel_etal_2002a.tnt,0.461,0.711,382,26,176,0.204188,0.442925,0.313876,0.277985,0.579111,137,,30,,Ancestor,Captorhin,Testudine,Araeoscel,Younginif,Kuehneosa
+Rieppel_etal_2003a.tnt,0.455,0.765,341,2,155,35.0557,77.0455,0.26316,0.265584,0.651783,125,,29,,Ancestor,Captorhin,Testudine,Araeoscel,Younginif,Kuehneosa
+Rieppel_et_deBraga_1996a.tnt,0.353,0.697,586,4,207,0.186007,0.526932,0.230994,0.259494,0.564187,168,,34,,Ancestor,Captorhin,Paleothyr,Millerett,Acleistor,Lanthanos
+Rieppel_et_Lin_1995a.tnt,0.555,0.682,110,10,61,0.0818182,0.14742,0.4366,0.40166,0.476496,50,,15,,outgroup,Anarosaur,Dactylosa,Keichousa,N_pusillu,N_peyeri 
+Rieppel_et_Zanon_1997a.tnt,0.793,0.836,58,2,46,0.206897,0.260904,0.590839,0.481194,0.704579,31,,11,,Ancestor,Claudiosa,Youngina ,Pachypleu,Eusauropt,Paraplaco
+Riga_etal_2009a.tnt,0.575,0.678,186,14,107,0.107527,0.187003,0.391069,0.265882,0.484334,102,,23,,Camarasau,Brachiosa,Euhelopus,Chubutisa,Phuwiango,Ligabuesa
+Rincon_etal_2013a.tnt,0.583,0.829,120,2,70,0.391667,0.671812,0.34198,0.341176,0.724396,51,,29,,S_krabien,M_minimun,M_silistr,A_magnum ,A_mosvial,A_chaiman
+Rode_2004a.tnt,0.315,0.555,89,10,28,0.314607,0.998752,0.327741,0.462556,0.168824,27,,22,,Leptodesm,Leiopteri,Leiopteri,Leiopteri,Leiopteri,Leiopteri
+Rode_2005aa.tnt,0.3,0.526,130,307,39,0.0153846,0.0512821,0.238514,0.201493,0.135392,36,,25,,S_Rhenosc,S_Eoschiz,S_Eoschiz,S_Eoschiz,S_Schizop,S_Schizop
+Rode_2005ab.tnt,0.413,0.614,104,6,43,0.105769,0.2561,0.420389,0.456806,0.283617,36,,18,,Xystostro,Xystostro,Schuchert,Schuchert,Floweria_,Floweria_
+Rode_et_Babcock_2003a.tnt,0.277,0.637,191,1488,53,0.0942408,0.34022,0.222452,0.417032,0.346684,31,,47,,Palaeopal,Eryma_fos,Enoplocly,Homarus_a,Hoplopari,Metanephr
+Rode_et_Lieberman_2002a.tnt,0.452,0.835,188,3,85,0.260638,0.576633,0.238796,0.405444,0.73086,54,,43,,Ceratioca,Ceratioca,Aristozoe,Carinatac,Dithryoca,Dithryoca
+Rodman_etal_1984a.tnt,0.378,0.604,230,3,87,0.230435,0.609616,0.515442,0.302349,0.406934,79,,20,,Berberida,Portulaca,Phytolacc,Nyctagina,Mollugina,Didiereac
+Rogers_2003a.tnt,0.548,0.582,124,3,68,0.0887097,0.161879,0.251018,0.161161,0.319232,112,,15,,Protosuch,Notosuchu,Libycosuc,Barusuchu,Sebecus  ,Araripesu
+Roopnarine_2001aa.tnt,0.5,0.696,56,78,28,0.142857,0.285714,0.33013,0.346565,0.449361,23,,19,,Chionopsi,Chionopsi,Puberella,Lirophora,Panchione,Mercenari
+Roopnarine_2001ab.tnt,0.523,0.702,65,50,34,0.2,0.382409,0.458333,0.494417,0.450549,24,,19,,Panchione,Lirophora,Chione_ch,Chione_ca,Chionopsi,C_amathus
+Rose_2007a.tnt,0.616,0.785,414,1,255,0.219807,0.356829,0.431817,0.3212,0.693423,230,,34,,Theropoda,Prosaurop,Vulcanodo,Barapasau,Omeisauru,Shunosaur
+Rougier_etal_2007a.tnt,0.432,0.742,968,2,418,0.0929752,0.21522,0.55666,0.380489,0.632768,288,,48,,Probainog,Tritylodo,Ttrithele,Adelobasi,Sinoconod,Morganuco
+Rowe_etal_2011aa.tnt,0.335,0.67,1256,8,421,0.0835987,0.249548,0.249607,0.274471,0.548627,361,,51,,Euparkeri,Crurotars,Marasuchu,Aardonyx ,Adeopappo,Agnosphit
+Rowe_etal_2011ab.tnt,0.362,0.639,815,525,295,0.0404908,0.111853,0.389365,0.213086,0.493039,292,,38,,Marasuchu,Heterodon,Lesothosa,Eoraptor ,Herrerasa,Guaibasau
+Royo-Torres_etal_2006a.tnt,0.478,0.773,672,10000,321,0.03125,0.0653766,0.294239,0.271152,0.67733,309,,51,,Marasuchu,Pseudolag,Ornithisc,Herrerasa,Neotherop,Prosaurop
+Royo-Torres_etal_2009a.tnt,0.618,0.782,421,4,260,0.220903,0.357448,0.553946,0.452703,0.690116,234,,32,,Theropoda,Prosaurop,Vulcanodo,Barapasau,Omeisauru,Shunosaur
+Royo-Torres_etal_2012aa.tnt,0.626,0.785,417,18,261,2.6211,4.18707,0.448556,0.362987,0.697581,234,,31,,Theropoda,Prosaurop,Vulcanodo,Barapasau,Omeisauru,
+Royo-Torres_etal_2012ab.tnt,0.626,0.783,417,10,261,0.191847,0.306464,0.393316,0.230444,0.696593,234,,30,,Theropoda,Prosaurop,Vulcanodo,Barapasau,Omeisauru,Shunosaur
+Royo-Torres_etal_2012ac.tnt,0.478,0.774,671,10000,321,1.56781,3.27994,0.281806,0.247977,0.676642,309,,50,,Marasuchu,Pseudolag,Ornithisc,Herrerasa,Neotherop,
+Royo-Torres_etal_2012ad.tnt,0.478,0.773,671,10000,321,0.0268256,0.0561206,0.293421,0.28545,0.674884,309,,49,,Marasuchu,Pseudolag,Ornithisc,Herrerasa,Neotherop,Prosaurop
+Royo-Torres_et_Upchurch_2012aa.tnt,0.64,0.79,406,24,260,0.0935961,0.146244,0.429637,0.286624,0.706462,234,,30,,Theropoda,Prosaurop,Vulcanodo,Barapasau,Omeisauru,Shunosaur
+Royo-Torres_et_Upchurch_2012ab.tnt,0.492,0.782,651,10000,320,0.0245776,0.0499544,0.303547,0.32132,0.689012,309,,49,,Marasuchu,Pseudolag,Ornithisc,Herrerasa,Neotherop,Prosaurop
+Rubidge_etal_2006a.tnt,0.64,0.788,100,1,64,2.02,3.15625,0.441968,0.263226,0.648712,51,,17,,Haptodus,Dimetrodo,Syodon   ,Titanopho,Titanosuc,Estemmeno
+Rubilar-Rogers_etal_2012a.tnt,0.645,0.796,403,10,260,0.188586,0.292381,0.405859,0.246393,0.714542,234,,30,,Theropoda,Prosaurop,Vulcanodo,Barapasau,Omeisauru,Shunosaur
+Ruiz-Omenaca_etal_1997a.tnt,0.75,0.92,8,3,6,0.625,0.833333,0.583333,0.815,0.570815,3,,13,,Baryonyx_,Baryonyx_,cf._Baryo,Baryonyx_,Baryonych,Spinosaur
+Ruiz-Omenaca_etal_2012a.tnt,0.448,0.705,563,10000,252,0.259325,0.578851,0.326855,0.270524,0.583573,227,,53,,Euparkeri,Marasuchu,Herrerasa,Pisanosau,Abrictosa,
+Rulleau_etal_2003a.tnt,0.509,0.735,53,4,27,0.226415,0.444823,0.428,0.541737,0.519409,19,,17,,Protogram,Hildaites,Tauromeni,Bouleicer,Bouleicer,Nejda_bra
+Russell_et_Dong_1993a.tnt,0.536,0.579,110,1,59,0.236364,0.440977,0.494254,0.322017,0.34816,59,,11,,Plateosau,Coelophys,Allosauru,Baryonyx ,Yangchuan,Oviraptor
+Russell_et_Zheng_1993a.tnt,0.564,0.585,39,1,22,0.384615,0.681942,0.611095,0.587333,0.273815,21,,9,,Plateosau,Shunosaur,Mamenchis,Omeisauru,Euhelopus,Camarasau
+Ruta_2011a.tnt,0.455,0.722,512,72,233,0.113281,0.24897,0.289764,0.281159,0.588932,157,,44,,Onychodus,Acanthost,Archeria ,Asapheste,Balanerpe,Baphetes 
+Ruta_etal_2003a.tnt,0.228,0.677,1578,108,360,0.11597,0.508639,0.18818,0.172628,0.544283,339,,102,,Eusthenop,Acanthost,Acheronti,Adelogyri,Adelospon,Albanerpe
+Ruta_et_Bolt_2006a.tnt,0.311,0.627,895,2,278,0.17095,0.549678,0.255367,0.206367,0.481421,245,,54,,Panderich,Acanthost,Acheloma_,Acroplous,Adamanter,Amphibamu
+Ruta_et_Clack_2006a.tnt,0.349,0.567,853,1,298,0.109027,0.312398,0.270198,0.30226,0.398015,314,,33,,Eusthenop,Acanthost,Adelogyri,Anthracos,Archeria_,Ariekaner
+Ruta_et_Coates_2007a.tnt,0.228,0.677,1578,108,360,0.11597,0.508639,0.18818,0.172628,0.54429,339,,102,,Eusthenop,Acanthost,Acheronti,Adelogyri,Adelospon,Albanerpe
+Ruta_et_Theron_1997a.tnt,0.857,0.929,49,1,42,0.55102,0.642964,0.524079,0.465342,0.882294,38,,13,,Eumitrocy,Mitrocyst,Mitrocyst,Allancyti,Atelocyst,Australoc
+Ryan_2007aa.tnt,0.818,0.883,66,1,54,0.272727,0.333407,0.591611,0.547222,0.789289,36,,14,,Protocera,Centrosau,Styracosa,Albertace,Achelousa,Einiosaur
+Ryan_2007ab.tnt,0.783,0.866,69,1,54,29004,37042.2,0.509722,0.398611,0.753735,36,,15,,Protocera,Centrosau,Styracosa,Achelousa,Einiosaur,Pachyrhin
+Ryan_etal_2010a.tnt,0.875,0.833,40,1,35,50069.2,57222,0.780312,0.59375,0.664204,16,,11,,Outgroup,C._apertu,C._brinkm,Styracosa,Achelousa,Einiosaur
+Ryan_etal_2012a.tnt,0.62,0.768,279,1,173,0.107527,0.17343,0.413185,0.269656,0.661785,151,,26,,Hypsiloph,Stegocera,Archaeoce,Asiacerat,Bagacerat,Chaoyangs
+Ryan_etal_2012ba.tnt,0.67,0.741,115,1,77,0.2,0.298507,0.367713,0.262333,0.589544,108,,19,,Protocera,Turanocer,Zunicerat,Diablocer,Albertace,Avacerato
+Ryan_etal_2012bb.tnt,0.661,0.729,112,68,74,0.0803571,0.121569,0.335148,0.219444,0.569356,108,,19,,Protocera,Turanocer,Zunicerat,Diablocer,Albertace,Avacerato
+Ryan_et_Russell_2005aa.tnt,0.941,0.909,34,1,32,0.470588,0.500094,0.821588,0.617647,0.831081,17,,9,,Outgroup,Centrosau,C._brinkm,Styracosa,Achelosau,Einiosaur
+Ryan_et_Russell_2005ab.tnt,0.943,0.913,35,1,33,0.285714,0.302984,0.757882,0.441176,0.827288,17,,10,,Protocera,Zunicerat,Centrosau,C._brinkm,Styracosa,Achelosau
+Sachs_2005a.tnt,0.697,0.744,33,3,23,0.515152,0.739098,0.600895,0.565842,0.509323,19,,12,,Muraenosa,Occitanos,Brancasau,Libonecte,Thalassom,Tuarangis
+Sadleir_etal_2008aa.tnt,0.362,0.631,1347,582,487,0.0504826,0.139455,0.27906,0.241422,0.504933,386,,47,,allzero,Abelisaur,Acrocanth,Afrovenat,Allosauru,Alvarezsa
+Sadleir_etal_2008ab.tnt,0.326,0.709,2451,192,798,0.0779274,0.239041,0.479468,0.364319,0.615449,638,,76,,Herrerasa,Abelisaur,Acrocanth,Afrovenat,Albertosa,Alectrosa
+Salgado_etal_1997a.tnt,0.846,0.945,52,2,44,0.5,0.591017,0.343925,0.261503,0.898206,38,,18,,Theropoda,Vulcanodo,Barapasau,Diplodoci,Camarasau,Brachiosa
+Salgado_etal_2004a.tnt,0.787,0.872,47,1,37,0.297872,0.378491,0.576486,0.493243,0.767928,37,,14,,Jobaria,CAMARASAU,Haplocant,Zapalasau,Limaysaur,Nigersaur
+Salgado_etal_2006a.tnt,0.787,0.872,47,1,37,0.297872,0.378491,0.576486,0.493243,0.767928,37,,14,,Jobaria,CAMARASAU,Haplocant,Zapalasau,Limaysaur,Nigersaur
+Salisbury_etal_2006a.tnt,0.443,0.765,472,1,209,0.230932,0.521292,0.248625,0.264636,0.657333,176,,46,,Theriosuc,Goniophol,Bernissar,Susisuchu,Hylaeocha,Isisfordi
+Sampson_1995a.tnt,0.952,0.952,21,1,20,0.619048,0.65026,0.505941,0.446059,0.894737,17,,9,,Ancestor,Protocera,Chasmosau,Centrosau,Styracosa,Einiosaur
+Sampson_etal_2010a.tnt,0.66,0.79,256,1,169,0.179688,0.272254,0.419365,0.234297,0.694555,148,,25,,Leptocera,Protocera,Zunicerat,Turanocer,Albertace,Centrosau
+Sampson_etal_2013a.tnt,0.719,0.852,139,1,100,0.23741,0.330195,0.480536,0.362814,0.771703,97,,24,,Leptocera,Protocera,Magnirost,Bagacerat,Turanocer,Zunicerat
+Sanchez-Hernandez_et_Benton_inpressa.tnt,0.668,0.784,241,12,161,0.0580913,0.086963,0.457974,0.327033,0.663059,151,,23,,Herrerasa,Syntarsus,Allosauru,Spinostro,Elaphrosa,Deltadrom
+Sander_2000a.tnt,0.593,0.69,405,4,240,0.160494,0.270647,0.344632,0.407842,0.562415,113,,19,,Ancestor ,Petrolaco,Araeoscel,Grippia  ,Utatsusau,
+Sander_etal_2006aa.tnt,0.63,0.787,414,2,261,0.217391,0.345066,0.421791,0.281688,0.704222,234,,30,,Theropoda,Prosaurop,Vulcanodo,Barapasau,Omeisauru,Shunosaur
+Sander_etal_2006ab.tnt,0.522,0.724,347,12,181,0.146974,0.28156,0.317091,0.251014,0.587506,219,,29,,Ancestor,Alamosaur,Amargasau,Andesauru,Apatosaur,Barapasau
+Sander_etal_2006ac.tnt,0.571,0.521,217,1,124,0.0875576,0.153341,0.250522,0.208079,0.273438,316,,13,,Herrerasa,Euhelopus,Omeisauru,Diplodoco,Atlasauru,Camarasau
+Sander_etal_2011a.tnt,0.536,0.798,267,10,143,0.134831,0.251551,0.34127,0.34345,0.683091,111,,35,,Petrolaco,Thadeosau,Claudiosa,Hupehsuch,Utatsusau,Grippia  
+Santini_et_Tyler_2003a.tnt,0.53,0.796,657,10000,348,0.0958904,0.180925,0.322502,0.282703,0.70508,219,,58,,Antigonia,Cyttus_no,Cretatria,Plectocre,Protriaca,
+Santucci_2008aa.tnt,0.64,0.792,406,29,260,1.48768,2.32451,0.432342,0.303376,0.708501,234,,31,,Theropoda,Prosaurop,Vulcanodo,Barapasau,Omeisauru,Shunosaur
+Santucci_2008ab.tnt,0.495,0.784,648,10000,321,0.916667,1.85185,0.293505,0.267563,0.690356,309,,50,,Marasuchu,Pseudolag,Ornithisc,Herrerasa,Neotherop,Prosaurop
+Santucci_et_Arruda-Campos_2011a.tnt,0.619,0.796,433,20,268,0.180139,0.291015,0.404178,0.285344,0.705389,241,,38,,THEROPODA,PROSAUROP,Vulcanodo,Barapasau,Omeisauru,Shunosaur
+Sanz_etal_1995aa.tnt,0.833,0.873,96,1,80,0.40625,0.487695,0.541607,0.353167,0.809433,84,,9,,Dromaeosa,Archaeopt,Iberomeso,Enantiorn,Patagopte,Hesperorn
+Sanz_etal_1995ab.tnt,0.833,0.875,12,1,10,0.5,0.60024,0.75,0.6667,0.709724,10,,9,,Mononykus,Patagopte,Yungavolu,Lectavis_,Avisaurus,Soroavisa
+Sanz_etal_1996a.tnt,0.859,0.888,92,1,79,0.423913,0.493496,0.624023,0.375977,0.832063,84,,8,,Dromaeosa,Archaeopt,Iberomeso,Enantiorn,Concornis,Hesperorn
+Sanz_etal_1999a.tnt,0.612,0.548,49,1,30,0.183673,0.30012,0.41086,0.329465,0.190456,43,,9,,Patagosau,Haplocant,Opishtoco,Andesauru,Saltasaur,Agyrosaur
+Sanz_et_Buscalioni_1992a.tnt,0.714,0.7,21,3,15,0.0952381,0.133387,0.678571,0.535714,0.376299,14,,8,,Non_avian,Archaeopt,Iberomeso,Concornis,Hesperorn,Carinatae
+Sato_etal_2010a.tnt,0.44,0.709,10530,18,4628,0.637037,1.44781,0.181906,0.218643,0.574572,137,,33,,Ancestor,Captorhin,Testudine,Araeoscel,Younginif,Kuehneosa
+Sato_etal_inpressa.tnt,0.409,0.706,11570,8,4732,0.355056,0.868108,0.373427,0.214603,0.575121,139,,37,,Ancestor,Captorhin,Testudine,Araeoscel,Younginif,Kuehneosa
+Schott_etal_2009aa.tnt,0.939,0.966,49,1,46,0.469388,0.49988,0.598612,0.48402,0.93785,49,,16,,ORNITHOPO,CERATOPSI,Stenopeli,Wannanosa,Goyocepha,Homalocep
+Schott_etal_2009ab.tnt,0.779,0.86,68,52,53,16695.4,21431.9,0.446849,0.349604,0.735076,53,,21,,Psittacos,Stenopeli,Wannanosa,Goyocepha,Homalocep,
+Schram_etal_1999a.tnt,,,,,36,-nan, -nan,0.355653,0.261918, nan,15,,18,,Concavica,Concavica,Concavica,Concavica,Concavica,Concavica
+Schultze_1994a.tnt,0.606,0.513,193,1,117,0.186528,0.307803,0.179921,0.203593,0.29025,216,,8,,Actinopte,Tetrapoda,Panderich,Osteolepi,Porolepif,Diabolepi
+Schultze_2001a.tnt,0.324,0.627,364,10000,118,0.0357143,0.110229,0.599933,0.3778,0.362793,90,,55,,Psarolepi,Diabolepi,Adalolopa,Adelargo ,Andreyevi,Archaeone
+Schultze_2004a.tnt,0.639,0.688,119,10000,76,0,0,0.428429,0.378679,0.465307,56,,21,,Conchopom,Aphelodus,Archaeoce,Arganodus,Ariguna  ,Asiatocer
+Schultze_et_Chorn_1997a.tnt,0.557,0.651,115,3,64,0.104348,0.187339,0.478723,0.476511,0.411017,47,,18,,Dipterus,Rhinodipt,Scaumenac,Phaneropl,Conchopom,Delatitia
+Schultze_et_Marshall_1993a.tnt,0.41,0.736,429,10000,176,0.018648,0.045483,0.252644,0.292244,0.584967,90,,61,,Diabolepi,Uranoloph,Speonesyd,Speonesyd,Dipnorhyn,Dipnorhyn
+Sekiya_2010a.tnt,0.388,0.647,757,87,294,0.173052,0.446009,0.280493,0.240894,0.504118,292,,35,,Marasuchu,Heterodon,Lesothosa,Eoraptor ,Herrerasa,Guaibasau
+Sekiya_etal_inpressa.tnt,0.331,0.503,1485,4,491,5.94276,17.954,0.296345,0.26061,0.335162,505,,33,,Marasuchu,Eoraptor ,Herrerasa,Guaibasau,Anchisaur,Antetonit
+Senter_2004aa.tnt,0.575,0.756,120,1,69,40.025,69.6087,0.37363,0.322055,0.613666,73,,20,,Palaeothy,Megalanco,MCSNB_475,Drepanosa,Dolabrosa,Hypuronec
+Senter_2004ab.tnt,0.566,0.749,122,1,69,39.3525,69.5273,0.37363,0.324342,0.600151,73,,20,,Palaeothy,Megalanco,MCSNB_475,Drepanosa,Dolabrosa,Hypuronec
+Senter_2007a.tnt,0.358,0.757,1224,3,438,826.234,2307.92,0.360737,0.282023,0.660447,360,,85,,Allosauru,Sinraptor,Dilong_pa,Eotyrannu,Tyrannosa,Gorgosaur
+Senter_2010a.tnt,0.346,0.771,1284,4,444,0.21729,0.628005,0.307586,0.254138,0.681142,364,,89,,Dilophosa,Allosauru,Sinraptor,Dilong_pa,Guanlong_,
+Senter_2011a.tnt,0.377,0.812,1284,1,484,15.8294,41.9879,0.18114,0.211286,0.741062,392,,104,,Dilophosa,Allosauru,Sinraptor,Dilong_pa,Guanlong_,Raptorex_
+Senter_etal_2004a.tnt,0.448,0.771,248,1803,111,0.427419,0.954061,0.287327,0.389446,0.634647,101,,37,,Allosauru,Tyrannosa,Sinosauro,Saurornit,Saurornit,Sinornith
+Senter_etal_2010a.tnt,0.346,0.771,1284,28,444,0,0,0.394073,0.227558,0.681302,364,,90,,Dilophosa,Allosauru,Sinraptor,Dilong_pa,Guanlong_,
+Senter_etal_2012a.tnt,0.376,0.812,1304,3,490,15.5353,41.3172,0.172139,0.206331,0.741489,394,,109,,Dilophosa,Allosauru,Sinraptor,Dilong   ,Guanlong ,Raptorex 
+Senter_etal_2012b.tnt,0.376,0.814,1303,3,490,15.5449,41.3428,0.18086,0.208239,0.742625,394,,110,,Dilophosa,Allosauru,Sinraptor,Dilong   ,Guanlong ,Raptorex 
+Sequeira_et_Coates_2000a.tnt,0.65,0.767,40,3,26,0.325,0.5,0.482565,0.493435,0.556962,23,,13,,Mimia,Gutturens,C_wildung,Cobelodus,Helodus  ,Hybodus  
+Sereno_1991a.tnt,0.881,0.912,42,1,37,0.619048,0.702665,0.629611,0.486139,0.859036,36,,9,,Euparkeri,Proteroch,Suchia   ,Ornithosu,Riojasuch,Parasuchi
+Sereno_1993a.tnt,1,1,2,3,2,0,0,0.2,0.2,1,10,,7,,PTEROSAUR,Lagosuchu,Lesothosa,Plateosau,Coelophys,Staurikos
+Sereno_1999aa.tnt,0.816,0.887,185,1,151,0.227027,0.278219,0.454747,0.243582,0.841684,146,,15,,Dinosauro,Marasuchu,Pisanosau,Lesothosa,THYREOPHO,ORNITHOPO
+Sereno_1999ab.tnt,0.852,0.941,142,1,121,0.330986,0.388481,0.391415,0.313331,0.912511,118,,19,,Lesothosa,NEORNITHI,Scutellos,Emausauru,Scelidosa,Huayangos
+Sereno_1999ac.tnt,0.943,0.973,174,1,164,0.431034,0.457089,0.488745,0.36443,0.961879,149,,14,,THYREOPHO,MARGINOCE,HETERODON,HYPSILOPH,Muttaburr,Tenontosa
+Sereno_1999ad.tnt,0.912,0.959,181,1,165,0.298343,0.32713,0.498729,0.377,0.941003,155,,19,,THYREOPHO,ORNITHOPO,Stenopeli,Goyocepha,Homalocep,Stegocera
+Sereno_1999ae.tnt,0.971,0.977,34,2,33,0.529412,0.545223,0.269314,0.255802,0.962406,32,,11,,THEROPODA,SAUROPODA,Riojasaur,Griposaur,Ammosauru,Yunnanosa
+Sereno_1999af.tnt,0.803,0.858,157,1,126,0.375796,0.46799,0.26693,0.255606,0.803474,116,,13,,THEROPODA,PROSAUROP,Vulcanodo,Shunosaur,Barapasau,Omeisauru
+Sereno_1999ag.tnt,0.913,0.944,69,1,63,0.463768,0.507961,0.598283,0.402783,0.914065,60,,13,,HERRERASA,TETANURAE,Elaphrosa,Ceratosau,Abelisaur,Majungath
+Sereno_1999ah.tnt,0.66,0.813,318,2,210,0.371069,0.562226,0.6875,0.375,0.743309,204,,19,,HERRERASA,CERATOSAU,TORVOSAUR,SPINOSAUR,ALLOSAURI,SINRAPTOR
+Sereno_1999ai.tnt,0.961,0.968,103,1,99,0.893204,0.929453,0.7166,0.5833,0.952974,99,,6,,OVIRAPTOR,DEINONYCH,Archaeopt,Confucius,ENANTIORN,EUORNITHE
+Sereno_2000aa.tnt,0.952,0.974,42,5,40,0.238095,0.2501,0.707293,0.659366,0.949912,41,,14,,ORNITHOPO,CERATOPSI,Stenopeli,Wannanosa,Goyocepha,Homalocep
+Sereno_2000ab.tnt,0.855,0.918,83,6,71,0.337349,0.394561,0.521313,0.33196,0.870536,72,,13,,ORNITHOPO,PACHYCEPH,Psittacos,Chaoyanga,Archaeoce,Leptocera
+Sereno_2010a.tnt,0.846,0.909,13,3,11,0.461538,0.545554,0.7667,0.7001,0.800399,10,,12,,Protocera,Liaocerat,Yinlong  ,P._mongol,P._meiley,P._lujiat
+Sereno_2012a.tnt,0.769,0.871,39,6,30,0.25641,0.333433,0.6166,0.575,0.760511,30,,13,,Eoraptor,Eodromaeu,Lesothosa,Neornithi,Thyreopho,Echinodon
+Sereno_etal_1996a.tnt,0.812,0.842,80,4,65,0.25,0.307882,0.719571,0.554254,0.749958,63,,15,,Outgroup_,Ceratosau,Afrovenat,Torvosaur,Splnosaur,
+Sereno_etal_1998a.tnt,0.979,0.984,47,1,46,0.531915,0.543325,0.640733,0.407422,0.973911,45,,8,,Ceratosau,Neotetanu,Eustrepto,Torvosaur,Baryonyx ,Suchomimu
+Sereno_etal_2001a.tnt,0.477,0.614,174,3,83,1.8908,3.96395,0.392472,0.278181,0.422699,72,,20,,PROTOSUCH,Hsisosuch,THALATTOS,Baurusuch,Sebecus  ,Notosuchu
+Sereno_etal_2004a.tnt,0.854,0.935,206,104,176,0.23301,0.272845,0.451414,0.329633,0.905183,169,,23,,Eoraptor,Herrerasa,Dilophosa,Lilienste,Procompso,Segisauru
+Sereno_etal_2007a.tnt,0.694,0.773,147,5,102,0.163265,0.235253,0.580833,0.455245,0.64808,102,,16,,Omeisauru,Jobaria  ,MACRONARI,Apatosaur,Suuwassea,Diplodocu
+Sereno_etal_2009a.tnt,0.862,0.954,123,8,106,0.243902,0.282949,0.383446,0.363782,0.925206,101,,15,,MANIRAPTO,ORNITHOMI,Ornithole,COMPSOGNA,Guanlong ,Dilong   
+Sereno_et_Arcucci_1990a.tnt,0.882,0.902,34,1,30,0.676471,0.766973,0.385727,0.281642,0.847386,34,,8,,Ancestor,Euparkeri,Proteroch,Ornithosu,Parasuchi,Suchia   
+Sereno_et_Brusatte_2008aa.tnt,0.83,0.92,212,14,176,0.198113,0.238691,0.453503,0.325467,0.884207,169,,22,,Eoraptor,Herrerasa,Dilophosa,Lilienste,Procompso,Segisauru
+Sereno_et_Brusatte_2008ab.tnt,0.738,0.738,84,4,62,0.214286,0.29036,0.65,0.436117,0.565989,60,,9,,Sinraptor,Allosauru,Neovenato,Eocarchar,Acrocanth,Tyrannoti
+Sereno_et_Dong_1992a.tnt,1,1,20,1,20,0.8,0.8,0.583318,0.431818,1,22,,6,,Scutellos,Scelidosa,Ankylosau,Huayangos,Dacentrus,Other_ste
+Sereno_et_Wild_1992aa.tnt,0.812,0.824,16,1,13,0.75,0.923645,0.55,0.5,0.632353,20,,8,,ancestor,Crocodyli,Sphenosuc,Dibrothro,Pseudohes,Saltoposu
+Sereno_et_Wild_1992ab.tnt,0.875,0.909,8,2,7,16217.9,18534.7,0.65,0.65,0.710983,10,,8,,ANCESTOR,Crocodyli,Sphenosuc,UCMP_1297,Hesperosu,Dibothros
+Sereno_et_Wild_1992ac.tnt,1,1,2,1,2,64870.5,64870.5,0.256611,0.259291,1,8,,9,,ANCESTOR,Crocodyli,Sphenosuc,UCMP_1297,Hesperosu,Dibothros
+Sertich_et_Loewen_2010aa.tnt,0.365,0.678,1150,24,420,0.0686957,0.188207,0.249343,0.215241,0.561583,361,,50,,Euparkeri,Crurotars,Marasuchu,Aardonyx ,Adeopappo,Agnosphit
+Sertich_et_Loewen_2010ab.tnt,0.386,0.662,759,48,293,0.057971,0.150184,0.5166,0.47985,0.524606,292,,37,,Marasuchu,Heterodon,Lesothosa,Eoraptor ,Herrerasa,Guaibasau
+Shang_etal_2011a.tnt,0.406,0.691,446,12,181,0.284753,0.701363,0.309664,0.330577,0.552644,137,,35,,Ancestor,Captorhin,Testudine,Araeoscel,Younginif,Kuehneosa
+Shirai_1996a.tnt,0.594,0.917,261,4,155,0.547893,0.922378,0.201695,0.226781,0.87978,105,,53,,OUTGROUP ,Heterodon,parascyll,Brachaelu,Orectolob,
+Shu_etal_2003a.tnt,0.611,0.665,175,8,107,0.125714,0.205752,0.489357,0.303478,0.477686,115,,18,,Tunicata,Cephaloch,Haikouich,Hagfish  ,Myxinikel,Lamprey  
+Shultz_2007a.tnt,0.554,0.854,424,18,235,0.271226,0.489578,0.294045,0.231906,0.789478,202,,59,,Weinbergi,Limuloide,Euproops ,Limulus  ,Tachypleu,Baltoeury
+Sidor_2003a.tnt,0.332,0.841,316,10000,105,0,0,0.158463,0.261793,0.747945,82,,108,,Eothyris_,Cotylorhy,Ennatosau,Casea_rut,Casea_bro,Hamilton_
+Sidor_et_Hopson_1998a.tnt,0.626,0.851,390,1,244,0.335897,0.536577,0.7083,0.6334,0.785858,181,,21,,Ophiacodo,Edaphosau,Haptodus ,Sphenacod,Biarmosuc,Eotitanos
+Sidor_et_Rubidge_2006a.tnt,0.647,0.762,102,6,66,0.284314,0.439434,0.527661,0.439589,0.615426,56,,15,,Haptodus,Dimetrodo,Patronomo,Suminia  ,Syodon   ,Titanopho
+Skelton_et_Smith_2000a.tnt,0.515,0.81,66,512,34,0.242424,0.470727,0.343719,0.416844,0.658667,32,,36,,Pachyrism,Epidicera,Matheroni,Toucasia_,Diceras_a,Valletia_
+Smith_2001a.tnt,0.328,0.734,177,40,58,0.259887,0.792338,0.229878,0.364244,0.542941,41,,48,,Nucleolit,Nucleopyg,Pygopiste,Plagiocha,Amblypygu,Catopygus
+Smith_etal_2001a.tnt,0.763,0.759,59,6,45,0.135593,0.177711,0.580357,0.464286,0.583209,56,,9,,Camarasau,Brachiosa,Andesauru,Epachthos,Opisthoco,Alamosaur
+Smith_etal_2006a.tnt,0.778,0.87,27,1,21,6.51852,8.37856,0.654778,0.584722,0.727273,18,,11,,Hipposaur,CGP_slash,Lycaenodo,Ictidorhi,Lemurosau,Lobalopex
+Smith_etal_2007a.tnt,0.48,0.772,837,24,402,0.142174,0.296197,0.314144,0.281608,0.677151,347,,56,,Marasuchu,Silesauru,Herrerasa,Eoraptor ,Saturnali,Plateosau
+Smith_etal_2008a.tnt,0.481,0.772,848,168,408,219.552,456.449,0.292983,0.207428,0.677064,353,,58,,Marasuchu,Silesauru,Herrerasa,Eoraptor ,Saturnali,Plateosau
+Smith_etal_2012a.tnt,0.66,0.78,53,1,35,317.585,481.189,0.509515,0.403545,0.623431,33,,14,,Pistosaur,Thalassio,Plesiosau,Cryptocli,Kimmerosa,SMNS16812
+Smith_etal_2013a.tnt,0.209,0.688,19424,64,4053,-nan, -nan,0.628231,0.397462,0.626959,2954,,189,,Non_Archo,Crocodyli,Ornithisc,Sauropodo,Herrerasa,
+Smith_et_Arbizu_1987a.tnt,0.714,0.85,21,8,15,0,0,0.181313,0.208618,0.667221,12,,13,,Isorophus,Isorophus,Hemicysti,Curvitrio,Rectitrio,Agelacrin
+Smith_et_Pol_2007a.tnt,0.376,0.695,1113,12,419,0,0,0.215315,0.179122,0.582883,361,,47,,Euparkeri,Crurotars,Marasuchu,Agnosphit,Anchisaur,
+Spaulding_et_Flynn_inpressa.tnt,0.264,0.601,981,8,259,4.05505,15.36,0.216532,0.275944,0.414094,216,,51,,Leptictis,Hyaenodon,Thinocyon,Echinosor,Erinaceus,Oodectes_
+Sterli_et_De_La_Fuente_2011a.tnt,0.401,0.787,481,10000,193,0.149688,0.373287,0.415939,0.378697,0.683168,152,,84,,Sphenodon,Simosauru,Owenetta_,Anthodon_,Proganoch,Proteroch
+Steyer_2003a.tnt,0.477,0.516,88,6,42,0.147727,0.309701,0.476846,0.408103,0.227021,39,,12,,Archegosa,Eryops   ,Benthosuc,Eryosuchu,Mastodons,Parotosuc
+Stocker_2010a.tnt,0.564,0.738,101,600,57,309933,549527,0.436791,0.453163,0.521895,43,,24,,Euparkeri,Paleorhin,Paleorhin,Paleorhin,Brachysuc,Angistorh
+Stocker_2012a.tnt,0.564,0.738,101,600,57,309596,548930,0.436791,0.453163,0.521895,43,,24,,Euparkeri,Paleorhin,Paleorhin,Paleorhin,Brachysuc,Angistorh
+Stone_et_Telford_1999a.tnt,0.867,0.905,15,3,13,1.6,1.84544,0.645833,0.632,0.772727,12,,14,,Megalodon,Chamidae ,Requienii,Heterodic,Diceras  ,Valletia 
+Storrs_1991a.tnt,0.583,0.797,144,6,84,0.472222,0.809987,0.441292,0.363229,0.693393,84,,21,,Captorhin,Petrolaco,Younginif,Claudiosa,Pachypleu,Neusticos
+Storrs_1993a.tnt,0.583,0.789,151,2,88,0.397351,0.681563,0.34433,0.269977,0.684084,88,,21,,Captorhin,Petrolaco,Younginif,Claudiosa,Neusticos,Serpianos
+Sues_1997a.tnt,0.581,0.581,74,1,43,0.121622,0.209332,0.535426,0.390106,0.335762,47,,8,,Coelophys,Allosauru,Dromaeosa,Oviraptor,Tyrannosa,Troodonti
+Sues_2003a.tnt,0.451,0.637,370,5,167,0.210811,0.46743,0.286964,0.251553,0.482578,144,,24,,Petrolaco,Youngina ,Gephyrosa,Squamata ,Prolacert,Macrocnem
+Sues_etal_1994a.tnt,0.66,0.784,47,1,31,0.404255,0.612508,0.450941,0.406882,0.640207,34,,14,,outgroup,Gephyrosa,Diphydont,Planoceph,Polyspeno,Brachyrhi
+Sues_etal_2003a.tnt,0.619,0.68,63,17,39,242,390.953,0.632324,0.573559,0.410464,34,,14,,Stagonole,Gracilisu,Postosuch,BP_slash_,Pseudhesp,Dromicosu
+Sues_etal_2011a.tnt,0.417,0.703,897,3,374,0.139353,0.334181,0.445985,0.271419,0.587328,319,,42,,Erythrosu,Euparkeri,Revueltos,Aetosauru,Arizonasa,Effigia_o
+Sues_et_Averianov_2009a.tnt,0.701,0.807,221,2,155,57.7738,82.4162,0.482496,0.342789,0.723537,133,,20,,Hypsiloph,Stegocera,Archaeoce,Turanocer,Bagacerat,Chaoyangs
+Sues_et_Averianov_2009b.tnt,0.544,0.861,287,6,156,0.184669,0.339465,0.219652,0.268826,0.795124,138,,34,,Hypsiloph,Iguanodon,Ouranosau,Fukuisaur,Altirhinu,Eolambia 
+Sullivan_2003a.tnt,0.922,0.955,51,1,47,0.470588,0.510399,0.595184,0.480265,0.920319,49,,16,,ORNITHOPO,CERATOPSI,Stenopeli,Wannanosa,Goyocepha,Homalocep
+Sullivan_etal_2011a.tnt,0.798,0.883,99,13,79,15.6061,19.5565,0.349449,0.224214,0.816531,98,,20,,Probactro,Telmatosa,Gryposaur,Aralosaur,Tsintaosa,Jaxartosa
+Sundberg_1999aa.tnt,0.492,0.565,199,11,98,0.211055,0.428974,0.41706,0.36648,0.324595,50,,19,,Ptychopar,Eoptychop,Pianaspis,Papyriasp,Amecephal,Amecephal
+Sundberg_1999ab.tnt,0.433,0.548,231,5,100,0.112554,0.25994,0.520244,0.351659,0.322962,50,,19,,Ptychopar,Eoptychop,Pianaspis,Papyriasp,Amecephal,Amecephal
+Sundberg_2004a.tnt,0.191,0.582,372745,2,71291,0,0,0.283365,0.248971,0.317275,70,,66,,Elrathina,Syspaceph,Pachyaspi,Pachyaspi,Ptychopar,Amecephal
+Sundberg_et_McCollum_1997a.tnt,0.425,0.508,167,43,71,0.0359281,0.0845368,0.352787,0.276653,0.198999,36,,22,,Arthricoc,Changaspi,Lancastri,Opsiosory,Oryctocep,Oryctocep
+Surkov_et_Benton_2004a.tnt,0.633,0.845,30,10,19,0.366667,0.579252,0.452882,0.512706,0.681436,17,,19,,Eodicynod,Emydops  ,Robertia ,Pristerod,Diictodon,Kingoria 
+Suteethorn_etal_2010a.tnt,0.618,0.784,422,4,261,0.227488,0.368104,0.286112,0.187245,0.695064,234,,31,,Theropoda,Prosaurop,Vulcanodo,Barapasau,Omeisauru,Shunosaur
+Suter_1994a.tnt,0.276,0.692,217,10000,60,0.336406,1.21886,0.2573,0.2934,0.438363,40,,71,,Hyboclypu,Galeropyg,Clypeus  ,Astrolamp,Bothryopn,Pseudopyg
+Suzuki_etal_2004a.tnt,0.814,0.935,97,2,79,0.505155,0.620583,0.378923,0.386962,0.896724,78,,13,,Camptosau,Iguanodon,Iguanodon,Ouranosau,Altirhinu,
+Swartz_2009a.tnt,0.537,0.731,136,2,73,0.272059,0.506627,0.436068,0.397407,0.562287,59,,22,,Ohychodus,Miguashai,Uranoloph,Osteolepi,Cheirolep,Cheirolep
+Taylor_2009a.tnt,0.513,0.685,784,98,402,2.71429,5.29101,0.363208,0.226888,0.5671,331,,32,,Theropoda,Prosaurop,Vulcanodo,Barapasau,Omeisauru,Shunosaur
+Taylor_etal_1998a.tnt,0.406,0.62,128,1085,52,0.0390625,0.0962131,0.399884,0.279277,0.321489,33,,31,,Hypotheti,Lophogast,Gnathopha,Paralopho,Eucopia_u,Chalarasp
+Taylor_etal_2000a.tnt,0.371,0.656,140,132,52,0.107143,0.288795,0.352652,0.399848,0.39759,46,,30,,Cuveyella,Bicrisia ,Borgiola ,Cinctipor,Collapora,Crisia   
+Taylor_etal_2011a.tnt,0.517,0.685,782,204,404,0.0383632,0.0742034,0.365631,0.218592,0.566822,331,,32,,Theropoda,Prosaurop,Vulcanodo,Barapasau,Omeisauru,Shunosaur
+Taylor_et_Naish_2007a.tnt,0.52,0.687,777,108,404,0.042471,0.0816751,0.392371,0.341914,0.570973,331,,31,,Theropoda,Prosaurop,Vulcanodo,Barapasau,Omeisauru,Shunosaur
+Thewissen_1992a.tnt,0.636,0.667,22,4,14,0.227273,0.357347,0.440442,0.305423,0.360512,10,,8,,Tetraclae,E_collinu,E_cedrus ,E_mediotu,E_osborni,E_parvus 
+Thewissen_etal_2001a.tnt,0.37,0.663,281,26,104,0.13879,0.375108,0.282248,0.351324,0.483091,105,,29,,Arctocyon,Hyopsodus,Phenacodu,Meniscoth,Andrewsar,Eoconodon
+Thompson_etal_2012a.tnt,0.336,0.664,527,3004,177,0.0474383,0.141186,0.575111,0.504,0.475412,170,,51,,Lesothosa,Emausauru,Scutellos,Scelidosa,Huayangos,Stegosaur
+Thorne_etal_2011a.tnt,0.585,0.806,205,8,120,0.160976,0.275172,0.32021,0.311895,0.686567,105,,32,,Petrolaco,Utatsusau,Grippia  ,Parvinata,Chaohusau,Cymbospon
+Tinn_et_Meidla_2004aa.tnt,0.512,0.787,86,492,44,0.302326,0.59048,0.310841,0.320182,0.605449,44,,35,,Hesslando,Nanopsis_,Unisulcop,H_proximu,D_lauta  ,B_angusto
+Tinn_et_Meidla_2004ab.tnt,0.479,0.782,94,112,45,0.180851,0.37756,0.277023,0.288227,0.582659,44,,35,,Hesslando,Nanopsis_,Unisulcop,H_proximu,D_lauta  ,B_angusto
+Toljagic_et_Butler_2013a.tnt,0.338,0.556,1085,8,367,0.0497696,0.147247,0.258386,0.298886,0.379719,298,,36,,Parasuchu,Smilosuch,Pseudopal,Ornithosu,Riojasuch,Revueltos
+Tomida_et_Tsumura_2006a.tnt,0.551,0.739,305,4,168,0.157377,0.285621,0.322951,0.228932,0.603381,205,,28,,Ancestor,Alamosaur,Amargasau,Andesauru,Apatosaur,Barapasau
+Trotteyn_et_Haro_2012a.tnt,0.609,0.731,46,63,28,14.1957,23.3098,0.655542,0.682,0.453054,24,,17,,Prolacert,Proterosu,Fugusuchu,Xilousuch,Garjainia,Erythrosu
+Tschopp_et_Mateus_inpressa.tnt,0.607,0.603,303,14,184,0.0561056,0.092431,0.364427,0.194726,0.419739,234,,14,,Omeisauru,Camarasau,Limaysaur,Amphicoel,Dicraeosa,Amargasau
+Tsuihiji_etal_2011aa.tnt,0.944,0.964,89,4,84,1009.29,1069.17,0.509589,0.292682,0.940041,84,,8,,Embryo,LACM_2847,LACM_2384,CMNH_7541,AMNH_5027,LACM_2384
+Tsuihiji_etal_2011ab.tnt,0.828,0.943,128,8,106,8.66406,10.4638,0.347139,0.332505,0.909275,101,,16,,MANIRAPTO,ORNITHOMI,Ornithole,COMPSOGNA,Guanlong ,Dilong   
+Tsuihiji_etal_2012a.tnt,0.641,0.837,557,9,357,1.87971,2.93247,0.346388,0.273254,0.766992,307,,24,,Allosauru,Manirapto,Ornithomi,Compsogs ,Kileskus ,Guanlong 
+Turner_etal_2007a.tnt,0.391,0.726,762,552,298,1327.09,3394.09,0.25257,0.255382,0.598439,251,,58,,Allosauru,Sinraptor,Ingenia_y,Citipati_,Oviraptor,Oviraptor
+Turner_etal_2007b.tnt,0.353,0.717,866,1296,306,11.6882,33.1111,0.390353,0.210341,0.581384,251,,69,,Allosauru,Sinraptor,Ingenia_y,Citipati_,Oviraptor,Oviraptor
+Turner_etal_2011a.tnt,0.314,0.748,1896,6912,596,1061.54,3380.69,0.611083,0.388889,0.654403,477,,100,,Allosauru,Sinraptor,Dilong_pa,Procerato,Coelurus_,Ornithole
+Turner_etal_2012a.tnt,0.295,0.743,2021,10000,597,0,0,0.166725,0.199843,0.643486,477,,117,,Allosauru,Sinraptor,Ingenia_y,Citipati_,Rinchenia,Oviraptor
+Turner_et_Buckley_2008a.tnt,0.31,0.695,1119,48,347,0,0,0.228079,0.191214,0.563753,290,,75,,Gracilisu,Terrestri,Dibothros,Protosuch,Hemiproto,Orthosuch
+Turner_et_Sertich_2010a.tnt,0.271,0.686,1350,480,366,0.0962963,0.355337,0.576923,0.386744,0.554243,301,,85,,Gracilisu,Terrestri,Dibothros,Protosuch,Hemiproto,Orthosuch
+Tykoski_etal_2002aa.tnt,0.46,0.653,261,1,120,0.168582,0.366483,0.337429,0.328176,0.467884,119,,27,,Notosuchu,Baurusuch,Libycosuc,Sebecus  ,Araripesu,Alligator
+Tykoski_etal_2002ab.tnt,0.46,0.658,261,1,120,0.168582,0.366483,0.354571,0.344345,0.473271,119,,27,,Notosuchu,Baurusuch,Libycosuc,Sebecus  ,Araripesu,Alligator
+Tykoski_etal_2002ac.tnt,0.456,0.655,263,8,120,0.13308,0.291842,0.324647,0.291387,0.471564,119,,27,,Notosuchu,Baurusuch,Libycosuc,Sebecus  ,Araripesu,Alligator
+Tykoski_et_Rowe_2004a.tnt,0.584,0.741,380,3,222,0.128947,0.2208,0.435686,0.403126,0.622425,175,,22,,Ornithisc,Prosaurop,Herrerasa,Allosauru,Torvosaur,Spinosaur
+Unwin_2003a.tnt,0.646,0.824,96,2,62,0.458333,0.709494,0.42715,0.387833,0.726314,60,,20,,Outgroup,Preondact,Dimorphod,Anurognat,Campylogn,Scaphogna
+Unwin_2003b.tnt,0.789,0.899,71,1,56,0.492958,0.624788,0.507094,0.436453,0.840119,53,,16,,Outgroup,Preondact,Dimorphod,Peteinosa,Anurognat,Batrachog
+Upchurch_1995a.tnt,0.637,0.858,267,84,170,0.11236,0.176389,0.344511,0.302287,0.790021,174,,33,,Ancestor,Segnosaur,Thecodont,Anchisaur,Massospon,Plateosau
+Upchurch_1998a.tnt,0.551,0.736,305,4,168,0.15082,0.27372,0.330498,0.246005,0.600769,205,,27,,Ancestor,Alamosaur,Amargasau,Andesauru,Apatosaur,Barapasau
+Upchurch_1999a.tnt,0.534,0.727,339,12,181,0.171091,0.320396,0.344387,0.367903,0.590748,219,,28,,Ancestor,Alamosaur,Amargasau,Andesauru,Antarctos,Apatosaur
+Upchurch_etal_2004a.tnt,0.557,0.63,61,6,34,1246.18,2237.31,0.703094,0.696875,0.309286,32,,16,,Omeisauru,Camarasau,Rayososau,Dicraeosa,Diplodocu,AMNH_460 
+Upchurch_etal_2004b.tnt,0.499,0.785,643,10000,321,0.0357698,0.071683,0.296453,0.280061,0.693473,309,,48,,Marasuchu,Pseudolag,Ornithisc,Herrerasa,Neotherop,Prosaurop
+Upchurch_etal_2007a.tnt,0.408,0.664,718,76,293,0.0250696,0.0614452,0.284822,0.245401,0.527668,292,,34,,Marasuchu,Heterodon,Lesothosa,Eoraptor ,Herrerasa,Guaibasau
+Upchurch_etal_2007ba.tnt,0.541,0.732,451,10,244,0.124169,0.229517,0.374929,0.300514,0.621254,212,,22,,Herrerasa,Neotherop,Saturnali,Thecodont,Efraasia_,Riojasaur
+Upchurch_etal_2007bb.tnt,0.506,0.635,253,2,128,0.0869565,0.171851,0.412818,0.289066,0.444444,137,,25,,Ancestor,Ammosauru,Anchisaur,Barapasau,Blikanasa,Camelotia
+Upchurch_et_Mannion_2009aa.tnt,0.648,0.798,401,2,260,0.840399,1.29691,0.434944,0.318521,0.717819,234,,30,,Theropoda,Prosaurop,Vulcanodo,Barapasau,Omeisauru,Shunosaur
+Upchurch_et_Mannion_2009ab.tnt,0.498,0.785,644,10000,321,0.444099,0.891766,0.291906,0.263029,0.693106,309,,49,,Marasuchu,Pseudolag,Ornithisc,Herrerasa,Neotherop,Prosaurop
+Upchurch_et_Martin_2002aa.tnt,0.544,0.731,327,22,178,0.140673,0.25859,0.357839,0.316613,0.596556,217,,27,,Ancestor,Alamosaur,Amargasau,Andesauru,Apatosaur,Barapasau
+Upchurch_et_Martin_2002ab.tnt,0.785,0.842,149,1,117,0.315436,0.40183,0.543972,0.347092,0.773114,109,,13,,Prosaurop,Theropoda,Vulcanodo,Shunosaur,Barapasau,Omeisauru
+Varricchio_2002a.tnt,0.438,0.686,48,2547,21,0.1875,0.428082,0.440346,0.447385,0.332674,26,,35,,Troodon_f,Deinonych,Neuquenor,Struthio_,Crypturei,Diomedea_
+Varricchio_etal_2007a.tnt,0.463,0.659,376,1,174,0.223404,0.482515,0.358816,0.327304,0.491619,125,,21,,Scutellos,Heterodon,Lesothosa,Agilisaur,Yandusaur,Othnielia
+Varricchio_et_Chiappe_1995a.tnt,0.833,0.875,12,1,10,0.416667,0.5002,0.8,0.65,0.714286,10,,8,,Mononykus,Patagopte,Yungavolu,Lectavis_,Avisaurus,Soroavisa
+Varricchio_et_Jackson_2004a.tnt,0.778,0.846,36,24,28,0.194444,0.249929,0.716667,0.7178,0.691952,15,,14,,Melanoche,Malacoche,Rhinoclem,Alligator,Crocodylu,Maiasaura
+Vasilyan_etal_2013a.tnt,0.7,0.647,20,40,14,0,0,0.269231,0.24359,0.249061,39,,9,,Onychodac,Andrias_j,Andrias_d,Andrias_s,Ukrainuru,Zaissanur
+Vickaryous_etal_2001a.tnt,0.403,0.693,124,3828,50,0.0483871,0.120067,0.551757,0.283784,0.468803,41,,24,,Lesothosa,Huayangos,Ankylosau,Euoplocep,Saichania,Tarchia  
+Vickaryous_etal_2004a.tnt,0.484,0.744,153,3,74,0.183007,0.378113,0.379698,0.441238,0.572418,63,,23,,Lesothosa,Ankylosau,Cedarpelt,Ed._longi,Ed._rugos,Euoplocep
+Wagner_1997a,0.173,0.748,1335,10000,231,0,0,-nan,-nan,0.581099,128,,154,,,,,,,
+Waisfeld_etal_2001a,0.233,0.477,424,8,99,0.0636792,0.273301,0.221058,0.328423,0.173407,52,,43,,,,,,,
+Wang_etal_2013b,0.636,0.698,269,74,171,0.0185874,0.0292254,0.386081,0.235659,0.556601,185,,19,,,,,,,
+Warren_et_Turner_2004a,0.372,0.557,521,1,194,0.0940499,0.252822,0.349174,0.332583,0.351512,144,,28,,,,,,,
+Watabe_etal_2011a,0.838,0.885,37,9,31,0.567568,0.677288,0.434,0.329875,0.771254,48,,18,,,,,,,
+Weishampel_etal_1993a,0.725,0.864,51,4,37,0.411765,0.567951,0.412919,0.351784,0.793814,37,,15,,,,,,,
+Weishampel_etal_2003a,0.534,0.776,146,2,78,0.273973,0.513057,-nan,-nan,0.645649,75,,18,,,,,,,
+Weishampel_et_Heinrich_1992a,0.649,0.75,57,1,37,0.333333,0.513611,0.56973,0.454973,0.566912,37,,12,,,,,,,
+Wendruff_et_Wilson_2012a,0.419,0.671,260,37,109,0.0807692,0.192767,0.339853,0.337541,0.483743,109,,29,,,,,,,
+Wen_etal_2013a,0.407,0.676,275,320,112,0.192727,0.473531,0.307404,0.279514,0.492702,109,,32,,,,,,,
+Westrop_etal_1996aa,0.309,0.711,139,1942,43,0.0647482,0.209541,0.205107,0.404786,0.451804,28,,44,,,,,,,
+Westrop_etal_1996ab,0.318,0.7,132,10000,42,0.0606061,0.190585,-nan,-nan,0.429658,28,,44,,,,,,,
+Wheeler_et_Hayashi_1998a,0.527,0.648,188,9,99,0.132979,0.252332,0.410731,0.364677,0.470143,93,,17,,,,,,,
+Whitlock_2011a,0.717,0.845,244,1,175,0.139344,0.194343,0.41218,0.290709,0.766497,189,,26,,,,,,,
+Whitlock_2011ba,0.717,0.846,244,1,175,0.139344,0.194343,0.387243,0.249323,0.766868,189,,27,,,,,,,
+Whitlock_2011bb,0.717,0.845,244,1,175,0.139344,0.194343,0.428418,0.331058,0.766205,189,,27,,,,,,,
+Wickstrom_et_Donoghue_2005a,0.467,0.714,105,8,49,0.238095,0.50984,-nan,-nan,0.496131,49,,24,,,,,,,
+Wilkinson_et_Benton_1996a,0.84,0.922,25,22,21,0.52,0.619048,0.476966,0.463207,0.845739,29,,15,,,,,,,
+Williamson_etal_2012a,0.191,0.698,476,234,91,0.172269,0.901931,-nan,-nan,0.486728,78,,94,,,,,,,
+Williamson_et_Carr_2002a,0.788,0.868,66,52,52,17201.4,21829.1,0.414245,0.309906,0.749104,53,,21,,,,,,,
+Willis_1997a,0.783,0.815,23,2,18,0.391304,0.49975,0.8556,0.711133,0.651325,15,,10,,,,,,,
+Wills_1998ba,0.598,0.672,107,7,64,0.158879,0.265683,0.389755,0.372755,0.445662,49,,19,,,,,,,
+Wills_1998bb,0.561,0.667,114,1,64,0.192982,0.343997,0.361,0.329592,0.42759,49,,19,,,,,,,
+Wills_etal_2012a,0.506,0.798,267,416,135,0.213483,0.421903,-nan,-nan,0.67727,88,,55,,,,,,,
+Wilson_2002a,0.648,0.797,401,2,260,0.216958,0.334811,0.438919,0.320197,0.716069,234,,29,,,,,,,
+Wilson_2005aa,0.773,0.846,181,6,140,0.0718232,0.0929149,-nan,-nan,0.747475,173,,17,,,,,,,
+Wilson_2005ab,0.805,0.862,174,1,140,0.149425,0.185621,-nan,-nan,0.78377,173,,14,,,,,,,
+Wilson_etal_2003a,0.857,0.935,182,424,156,0.186813,0.217985,0.442289,0.311302,0.904119,149,,23,,,,,,,
+Wilson_et_Li_1999a,0.557,0.794,97,4,54,0,0,-nan,-nan,0.675104,54,,16,,,,,,,
+Wilson_et_Murray_2008a,0.494,0.754,231,9,114,0.190476,0.385579,-nan,-nan,0.621767,87,,29,,,,,,,
+Wilson_et_Sereno_1998a,0.801,0.854,146,1,117,0.335616,0.418997,0.515982,0.294349,0.791036,109,,12,,,,,,,
+Wilson_et_Upchurch_2009aa,0.652,0.797,399,2,260,0.218045,0.334425,0.438436,0.311675,0.717864,234,,29,,,,,,,
+Wilson_et_Upchurch_2009ab,0.493,0.783,649,10000,320,0.0308166,0.0625084,0.278612,0.236214,0.690026,309,,48,,,,,,,
+Winkler_etal_1997a,0.795,0.855,44,2,35,0.454545,0.571755,-nan,-nan,0.756031,30,,11,,,,,,,
+Witton_2012a,0.725,0.72,51,20,37,0.0588235,0.0811359,-nan,-nan,0.498028,74,,10,,,,,,,
+Wu_1994a,0.673,0.789,49,1,33,0.346939,0.515511,0.481389,0.417139,0.649737,36,,12,,,,,,,
+Wu_etal_1994a,0.649,0.692,94,1,61,0.212766,0.327837,0.512056,0.356481,0.519441,54,,11,,,,,,,
+Wu_etal_1994b,0.658,0.784,79,1,52,1236.23,1878.77,0.53598,0.492857,0.645343,49,,12,,,,,,,
+Wu_etal_1996a,0.564,0.779,78,2,44,0.346154,0.613748,0.45063,0.481283,0.635974,46,,20,,,,,,,
+Wu_etal_1997a,0.461,0.734,362,18,167,0.279006,0.605218,0.288508,0.231812,0.615711,128,,33,,,,,,,
+Wu_etal_2001a,0.461,0.743,373,33,172,0.324397,0.703681,0.298313,0.240649,0.627094,131,,36,,,,,,,
+Wu_etal_2007a,0.846,0.932,65,2,55,0.569231,0.67285,0.293145,0.225868,0.882753,76,,16,,,,,,,
+Wu_etal_2011a,0.427,0.699,424,32,181,0.169811,0.397685,-nan,-nan,0.564477,137,,33,,,,,,,
+Wu_et_Chatterjee_1993a,0.683,0.748,82,1,56,0.390244,0.571367,0.420215,0.288446,0.612403,65,,11,,,,,,,
+Wu_et_Godefroit_2012a,0.707,0.875,188,1,133,0.324468,0.458936,0.377074,0.297907,0.817446,108,,25,,,,,,,
+Wu_et_Sues_1996a,0.62,0.769,129,8,80,0.372093,0.60015,0.498483,0.456,0.635254,60,,20,,,,,,,
+Xing_etal_2012a,0.516,0.861,932,84,481,0.100858,0.195462,-nan,-nan,0.811481,334,,53,,,,,,,
+Xing_etal_inpressa,0.425,0.644,988,15,420,0.0819838,0.192903,-nan,-nan,0.509956,344,,38,,,,,,,
+Xu_etal_1999a,0.608,0.694,171,4,104,0.157895,0.259695,0.44067,0.328585,0.542131,106,,14,,,,,,,
+Xu_etal_1999b,0.642,0.645,109,1,70,0.229358,0.357255,0.47019,0.273798,0.465387,84,,8,,,,,,,
+Xu_etal_2000a,0.579,0.665,164,2,95,0.20122,0.347529,0.475213,0.361461,0.486836,89,,13,,,,,,,
+Xu_etal_2000b,0.805,0.778,41,1,33,0.341463,0.424178,0.548156,0.444444,0.635701,45,,7,,,,,,,
+Xu_etal_2001a,0.761,0.844,117,4,89,0.111111,0.146007,0.485895,0.394053,0.767152,95,,14,,,,,,,
+Xu_etal_2002a,0.693,0.782,199,2,138,0.180905,0.261045,0.50145,0.327625,0.683166,120,,17,,,,,,,
+Xu_etal_2002b,0.423,0.704,603,64,255,1676.8,3964.08,0.307659,0.341899,0.555958,208,,47,,,,,,,
+Xu_etal_2002c,0.437,0.709,574,336,251,1761.51,4030.91,0.282883,0.258534,0.565638,206,,45,,,,,,,
+Xu_etal_2004a,0.634,0.792,123,3,78,0.211382,0.33341,-nan,-nan,0.673487,77,,15,,,,,,,
+Xu_etal_2006a,0.402,0.747,681,10000,274,3.53157,8.785,-nan,-nan,0.626979,224,,62,,,,,,,
+Xu_etal_2006b,0.534,0.689,204,1,109,0.191176,0.358008,0.385292,0.271651,0.546929,106,,14,,,,,,,
+Xu_etal_2007aa,0.386,0.725,772,2024,298,1309.9,3393.52,0.251952,0.267888,0.59482,251,,59,,,,,,,
+Xu_etal_2007ab,0.655,0.707,284,7,186,0.0492958,0.0752607,0.49405,0.308149,0.576875,161,,14,,,,,,,
+Xu_etal_2009a,0.439,0.746,1071,10000,470,173.834,395.977,-nan,-nan,0.641121,413,,65,,,,,,,
+Xu_etal_2009b,0.367,0.728,935,4896,343,0.0663102,0.180682,0.231035,0.256113,0.60588,284,,67,,,,,,,
+Xu_etal_2010a,0.875,0.904,88,10,77,1768.65,2021.31,0.585468,0.402584,0.839767,77,,13,,,,,,,
+Xu_etal_2010ba,0.625,0.772,264,1,165,0.170455,0.272727,0.431932,0.325741,0.670066,147,,23,,,,,,,
+Xu_etal_2010bb,0.624,0.73,218,2,136,4593.37,7361.17,-nan,-nan,0.607468,122,,18,,,,,,,
+Xu_etal_2011a,0.648,0.74,71,5,46,0.140845,0.217354,0.611062,0.599313,0.55157,48,,14,,,,,,,
+Xu_etal_2011b,0.321,0.739,1401,540,450,0,0,0.180794,0.221781,0.638027,374,,89,,,,,,,
+Xu_etal_2011c,0.347,0.75,1270,12,441,804.229,2317.66,-nan,-nan,0.650693,363,,87,,,,,,,
+Xu_etal_2011d,0.79,0.865,100,2,79,10.62,13.443,0.600623,0.555429,0.77911,77,,14,,,,,,,
+Xu_etal_2012aa,0.271,0.64,1884,10000,510,0,0,-nan,-nan,0.487749,421,,100,,,,,,,
+Xu_etal_2012ab,0.571,0.808,627,2,358,24.0303,42.0846,0.334651,0.302811,0.724535,307,,27,,,,,,,
+Xu_etal_2012ac,0.576,0.803,621,5,358,0.099839,0.173332,0.344046,0.316638,0.718578,307,,25,,,,,,,
+Xu_etal_2012ba,0.346,0.75,1275,36,441,801.074,2315.24,0.194107,0.232003,0.65008,363,,88,,,,,,,
+Xu_etal_2012bb,0.8,0.86,30,8,24,0.266667,0.333333,0.7167,0.665,0.734278,20,,10,,,,,,,
+Xu_etal_2013a,0.79,0.865,100,2,79,10.62,13.443,0.600623,0.555429,0.77911,77,,14,,,,,,,
+Xu_et_Gao_2011a,0.516,0.707,157,4,81,0.286624,0.555473,0.466431,0.443986,0.543872,72,,22,,,,,,,
+Xu_et_Han_2010a,0.633,0.699,294,2,186,0.0884354,0.139708,0.484196,0.329018,0.571446,163,,16,,,,,,,
+Xu_et_Norell_2004a,0.418,0.743,639,2592,267,0.112676,0.26956,-nan,-nan,0.619398,222,,56,,,,,,,
+Xu_et_Wang_2004a,0.422,0.681,747,180,315,0.0776439,0.18399,-nan,-nan,0.534733,257,,45,,,,,,,
+Xu_et_Zhang_2005a,0.414,0.685,766,444,317,0.0613577,0.148207,-nan,-nan,0.536851,257,,48,,,,,,,
+Yabumoto_2008a,0.451,0.701,235,5,106,0.157447,0.349106,0.331222,0.308917,0.532863,108,,27,,,,,,,
+Yates_2003a,0.838,0.9,37,1595,31,37344.7,44564.1,0.736548,0.670968,0.772555,31,,18,,,,,,,
+Yates_2003b,0.494,0.668,336,5,166,0.145833,0.295209,-nan,-nan,0.518113,164,,21,,,,,,,
+Yates_2004aa,0.522,0.71,435,2,227,0.0988506,0.189369,0.348176,0.262629,0.598122,205,,20,,,,,,,
+Yates_2004ab,0.559,0.727,395,2,221,0.118987,0.212857,0.416546,0.374624,0.618111,205,,19,,,,,,,
+Yates_2005a,0.467,0.722,493,218,230,0.0446247,0.0955562,-nan,-nan,0.590585,252,,39,,,,,,,
+Yates_2007a,0.389,0.698,1044,42,406,0,0,-nan,-nan,0.588214,348,,45,,,,,,,
+Yates_2007b,0.376,0.696,1093,60,411,0,0,0.25319,0.226768,0.584283,353,,46,,,,,,,
+Yates_2010a,0.375,0.695,1096,60,411,0,0,-nan,-nan,0.582284,353,,46,,,,,,,
+Yates_etal_2010aa,0.4,0.663,733,72,293,0.0450205,0.112551,0.275469,0.248185,0.525371,292,,35,,,,,,,
+Yates_etal_2010ab,0.363,0.689,1134,88,412,0.0714286,0.196773,-nan,-nan,0.575072,353,,47,,,,,,,
+Yates_etal_2011aa,0.375,0.696,1095,360,411,0,0,0.255535,0.224062,0.58365,353,,47,,,,,,,
+Yates_etal_2011ab,0.396,0.659,740,408,293,0.0351351,0.0887251,0.284942,0.274055,0.519644,292,,36,,,,,,,
+Yates_et_Kitching_2003a,0.543,0.731,449,6,244,0.129176,0.237893,-nan,-nan,0.621177,212,,21,,,,,,,
+Yates_et_Warren_2000a,0.326,0.668,451,1,147,0.175166,0.53732,-nan,-nan,0.506638,121,,38,,,,,,,
+You_2003a,0.683,0.581,41,1,28,0.195122,0.285684,0.378795,0.25,0.328512,44,,7,,,,,,,
+You_etal_2003a,0.709,0.836,110,2,78,0.354545,0.500064,0.504985,0.458667,0.740765,66,,15,,,,,,,
+You_etal_2003b,0.737,0.876,114,1,84,0.27193,0.368969,0.399015,0.319925,0.80228,67,,17,,,,,,,
+You_etal_2005a,0.608,0.779,301,15,183,69.5781,114.438,-nan,-nan,0.669976,169,,26,,,,,,,
+You_etal_2006a,0.644,0.793,407,6,262,0.142506,0.221283,0.38965,0.2353,0.709733,243,,30,,,,,,,
+You_etal_2006b,0.517,0.762,491,5,254,0.120163,0.232423,-nan,-nan,0.650442,202,,28,,,,,,,
+You_etal_2008a,0.5,0.667,828,2,414,0.0724638,0.144928,0.357967,0.218051,0.544158,331,,31,,,,,,,
+You_etal_2008b,0.492,0.592,61,15,30,0.131148,0.26656,0.518742,0.487129,0.287847,31,,14,,,,,,,
+You_etal_2010a,0.478,0.677,592,2,283,42.1537,88.1877,0.352413,0.314227,0.524059,242,,34,,,,,,,
+You_et_Dodson_2003a,0.721,0.781,233,1,168,0.360515,0.500021,0.529243,0.338939,0.68901,148,,12,,,,,,,
+You_et_Dodson_2004a,0.737,0.786,228,1,168,0.337719,0.458235,-nan,-nan,0.694532,148,,11,,,,,,,
+You_et_Li_2009a,0.54,0.859,289,6,156,0.16955,0.313982,0.251304,0.380848,0.793138,138,,35,,,,,,,
+Young_etal_2011aa,0.625,0.864,403,3,252,0.176179,0.281886,0.305553,0.319063,0.796444,190,,50,,,,,,,
+Young_etal_2011ab,0.549,0.854,477,6,262,0.199161,0.362771,-nan,-nan,0.774954,190,,50,,,,,,,
+Young_et_Andrade_2009a,0.447,0.865,580,12,259,37.5259,83.9505,0.194193,0.267349,0.793118,166,,86,,,,,,,
+Yuan_etal_2006a,0.565,0.714,69,14,39,0.347826,0.615621,0.45428,0.477,0.505359,25,,17,,,,,,,
+Zaher_etal_2006a,0.363,0.677,652,4,237,0,0,0.287747,0.264601,0.531671,198,,46,,,,,,,
+Zaher_etal_2011a,0.613,0.787,444,2,272,0.202703,0.330673,0.378776,0.213211,0.69674,246,,33,,,,,,,
+Zanno_2006a,0.683,0.783,41,9,28,0.146341,0.214263,0.520781,0.466187,0.580916,32,,13,,,,,,,
+Zanno_2010a,0.354,0.705,1234,4968,437,0.0664506,0.187713,0.230216,0.246388,0.579044,348,,76,,,,,,,
+Zanno_etal_2009a,0.354,0.702,1244,10000,440,8.13907,22.9917,0.229244,0.241626,0.575046,348,,76,,,,,,,
+Zanno_etal_2011a,0.784,0.8,37,6,29,271.622,346.456,0.443159,0.344682,0.610895,44,,11,,,,,,,
+Zelenitsky_et_Therrien_2008a,1,1,16,1,16,0.4375,0.4375,0.729167,0.666667,1,12,,7,,,,,,,
+Zhang_2004a,0.6,0.709,40,2,24,0.35,0.583333,0.524704,0.461111,0.43958,27,,14,,,,,,,
+Zhang_etal_2002a,0.605,0.713,215,1,130,0.125581,0.207573,0.438451,0.28846,0.574638,113,,14,,,,,,,
+Zhang_etal_2008a,0.352,0.753,1252,6,441,815.793,2317.59,0.192482,0.21714,0.65475,363,,86,,,,,,,
+Zhang_etal_2008b,0.596,0.774,307,27,183,0.143322,0.240474,-nan,-nan,0.664057,169,,25,,,,,,,
+Zhang_et_Zhou_2000a,0.709,0.803,117,1,83,0.25641,0.361651,0.469826,0.32943,0.705628,86,,11,,,,,,,
+Zhao_etal_1999a,0.743,0.743,35,3,26,0.228571,0.307633,0.76,0.64,0.567931,25,,7,,,,,,,
+Zheng_etal_2009a,0.498,0.729,484,3780,241,0.301653,0.605729,0.358661,0.281244,0.61844,221,,47,,,,,,,
+Zheng_etal_2010a,0.356,0.751,1228,30,437,16.5505,46.4901,0.19775,0.223853,0.652091,360,,85,,,,,,,
+Zhou_etal_2008a,0.558,0.804,459,3,256,0.141612,0.253785,0.305659,0.2682,0.711668,205,,29,,,,,,,
+Zhou_etal_2009a,0.534,0.792,479,8,256,0.118998,0.222843,-nan,-nan,0.693214,205,,30,,,,,,,
+Zhou_etal_2010a,0.542,0.777,467,4,253,0.11349,0.209392,0.349185,0.367629,0.670358,205,,30,,,,,,,
+Zhou_etal_2012a,0.489,0.762,530,2,259,0.126415,0.258518,-nan,-nan,0.648996,205,,32,,,,,,,
+Zhou_et_Zhang_2002a,0.688,0.825,311,4,214,0.209003,0.303784,0.371542,0.28598,0.742302,201,,18,,,,,,,
+Zhou_et_Zhang_2002b,0.701,0.821,301,6,211,0.186047,0.265402,0.367741,0.24694,0.736155,201,,17,,,,,,,
+Zhou_et_Zhang_2005a,0.532,0.777,476,10,253,0.151261,0.284324,0.335054,0.313144,0.67144,202,,26,,,,,,,
+Zhu_et_Ahlberg_2004a,0.556,0.778,187,3,104,0.508021,0.913708,0.366929,0.314848,0.65256,99,,29,,,,,,,
+Zhu_etal_1999aa,0.532,0.798,310,12,165,0.177419,0.333495,0.327034,0.323624,0.700469,149,,37,,,,,,,
+Zhu_etal_1999ab,0.534,0.802,307,6,164,0.2443,0.45749,0.310523,0.298329,0.705567,149,,37,,,,,,,
+Zhu_etal_2001a,0.568,0.765,317,3,180,320.767,564.73,-nan,-nan,0.659484,158,,26,,,,,,,
+Zhu_etal_2006a,0.616,0.781,219,2,135,0.136986,0.22238,0.441912,0.406808,0.662067,125,,19,,,,,,,
+Zhu_et_Gai_2006a,0.492,0.801,122,1,60,0,0,-nan,-nan,0.670668,53,,39,,,,,,,
+Zhu_et_Schultze_1997a,0.571,0.82,273,6,156,0.278388,0.487545,0.303529,0.260671,0.731386,140,,33,,,,,,,
+Zhu_et_Yu_2002a,0.549,0.759,328,8,180,0.185976,0.338753,0.362234,0.288937,0.649862,158,,27,,,,,,,
