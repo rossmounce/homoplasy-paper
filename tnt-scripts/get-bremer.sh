@@ -29,7 +29,7 @@ tnt mxram 200, proc bremerTMP.tnt
 printf "BREMER DONE \n"
 
 cat $STEM-bremer.log
-cat $STEM-bremer.log | sed -n '/^Tree [0-9]/,/Again/p' | sed '1d' | tr -d [:alpha:] | tr -d [:punct:] | tr " " "\n" | awk '{ sum += $1 } END { print sum }' > $STEM-SUM-bremer.out
+cat $STEM-bremer.log | sed -n '/^Tree [0-9]/,/Again/p' | sed 's/-- .*//' | sed '1d' | tr -d [:alpha:] | tr -d [:punct:] | tr " " "\n" | awk '{ sum += $1 } END { print sum }' > $STEM-SUM-bremer.out
 
 paste $STEM-CI.out $STEM-L.tmp $STEM-SUM-bremer.out | awk '{o = ($3)/($1 * $2)} END { print "Proportional Support Index = " o }' > $STEM-PSI.result 
 paste $STEM-L.tmp $STEM-SUM-bremer.out | awk '{o = ($2)/($1)} END { print "Total Support Index = " o }' > $STEM-TSI.result
