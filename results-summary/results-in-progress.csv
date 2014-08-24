@@ -289,7 +289,7 @@ Smith_etal_2006a.tnt,0.778,0.87,27,1,21,6.51852,8.37856,0.654778,0.584722,0.7272
 Smith_etal_2007a.tnt,0.48,0.772,837,24,402,0.142174,0.296197,0.314144,0.281608,0.677151,347,,56,,Marasuchu,Silesauru,Herrerasa,Eoraptor ,Saturnali,Plateosau
 Smith_etal_2008a.tnt,0.481,0.772,848,168,408,219.552,456.449,0.292983,0.207428,0.677064,353,,58,,Marasuchu,Silesauru,Herrerasa,Eoraptor ,Saturnali,Plateosau
 Smith_etal_2012a.tnt,0.66,0.78,53,1,35,317.585,481.189,0.509515,0.403545,0.623431,33,,14,,Pistosaur,Thalassio,Plesiosau,Cryptocli,Kimmerosa,SMNS16812
-Smith_etal_2013a.tnt,0.209,0.688,19424,64,4053,-nan, -nan,0.628231,0.397462,0.626959,2954,,189,,Non_Archo,Crocodyli,Ornithisc,Sauropodo,Herrerasa,
+Smith_etal_2013a.tnt,0.209,0.688,19424,64,4053,0.31389,1.50187,0.628231,0.397462,0.626959,2954,,189,,Non_Archo,Crocodyli,Ornithisc,Sauropodo,Herrerasa,
 Smith_et_Arbizu_1987a.tnt,0.714,0.85,21,8,15,0,0,0.181313,0.208618,0.667221,12,,13,,Isorophus,Isorophus,Hemicysti,Curvitrio,Rectitrio,Agelacrin
 Smith_et_Pol_2007a.tnt,0.376,0.695,1113,12,419,0,0,0.215315,0.179122,0.582883,361,,47,,Euparkeri,Crurotars,Marasuchu,Agnosphit,Anchisaur,
 Spaulding_et_Flynn_inpressa.tnt,0.264,0.601,981,8,259,4.05505,15.36,0.216532,0.275944,0.414094,216,,51,,Leptictis,Hyaenodon,Thinocyon,Echinosor,Erinaceus,Oodectes_
