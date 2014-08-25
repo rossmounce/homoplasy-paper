@@ -1,0 +1,11 @@
+xread
+'File downloaded from graemetlloyd.com'
+4 5
+Holmia_kjerulfi             0000
+Wanneria_walcottana         0001
+Fritzolenellus_truemani     0011
+Fritzolenellus_lapworthi    1110
+Fritzolenellus_reticulatus  1111
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 ;
+procedure /;

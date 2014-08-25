@@ -1,0 +1,14 @@
+xread
+'File downloaded from graemetlloyd.com'
+10 8
+Mononykus_olecranus         0000000000
+Patagopteryx_deferrariisi   0010000000
+Yungavolucris_brevipedalis  1001??0001
+Lectavis_bretincola         1?11??00??
+Avisaurus_archibaldi        1111?11111
+Soroavisaurus_australis     1111101111
+Neuquenornis_volans         111?1??101
+Two_Medicine_form           1101?11111
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 ;
+procedure /;

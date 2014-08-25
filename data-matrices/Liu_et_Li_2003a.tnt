@@ -1,0 +1,16 @@
+taxname +40;
+xread
+'File downloaded from graemetlloyd.com'
+20 9
+Outgroup                                 00000000000000000000
+Sinokannemeyeria_pearsoni                0101011?1020??1??1??
+Sinokannemeyeria_yingchiaoensis          11010110112110110101
+Sinokannemeyeria_sanchuanheensis         01100110102110110?01
+Parakannemeyeria_dolichocephala          12111201200021201210
+Parakannemeyeria_youngi                  10111211210021201010
+Parakannemeyeria_ningwuensis             10011111200001000000
+Parakannemeyeria_shenmuensis             1211110020010120121?
+quot_Parakannemeyeria_quot_brevirostris  00101000[12]01[01]10000000
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 -[/1 10 -[/1 11 -[/1 12 -[/1 13 -[/1 14 -[/1 15 -[/1 16 -[/1 17 -[/1 18 -[/1 19 ;
+procedure /;

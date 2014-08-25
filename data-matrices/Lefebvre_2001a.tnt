@@ -1,0 +1,36 @@
+xread
+'File downloaded from graemetlloyd.com'
+18 30
+Ceratocystis_perneri            000000000000000000
+Neuadaecystis_americana         ??0000010000?10?10
+Galliaecystis_lignieresi        2?0200030100?11111
+Cothurnocystis_fellinensis      210000010000011011
+Thoralicystis_griffei           211100020000011011
+Scotiaecystis_cwvata            211101020000?11011
+Chawelicystis_uizcainoi         210000110000?11211
+ProchauLvelicystis_semispinosa  212000110000011211
+Phyllocystis_blayaci            212411010000011011
+Amygdalotbeca_griffei           2?220003?000?11211
+Nanocarpus_dolambii             222500031000011211
+Lyricocarpus_courtessolei       112600?30000?11211
+Peltocystis_cornuta             202001032000124020
+Lagynocystis_pyramidalis        002410032000101000
+Anatifopsis_barrandei           102601032000124020
+Jaekelocarpus_oklahomaensis     002601032000124020
+Milonicystis_kerfornei          212500030000011211
+Hanusia_prilepensis             200200030100011111
+Chinianocarpos_thorali          102100032001001020
+Aspidocarpus_bohemicus          202600032001002020
+Mitrocystites_mitra             202200032001002020
+Mitrocystella_incipiens         102000032002002020
+Eumitrocystella_sacilli         102001032002002020
+Reticulocarpos_hanusi           202700031100011111
+Prokopiqstis_mergli             202?00031100011111
+Ateleocystites_guttenbergensis  102300032012103020
+Barrandeocarpus_jaekeli         102311032012103020
+Enoploura_popei                 102300033002103020
+Diamphidiocystis_drepanon       102310030002103020
+Beryllia_miranda                222?11030000011211
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 -[/1 10 -[/1 11 -[/1 12 -[/1 13 -[/1 14 -[/1 15 -[/1 16 -[/1 17 ;
+procedure /;

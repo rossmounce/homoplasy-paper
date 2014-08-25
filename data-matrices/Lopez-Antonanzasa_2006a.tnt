@@ -1,0 +1,32 @@
+xread
+'File downloaded from graemetlloyd.com'
+28 26
+Allosminthus_ernos              0000000000000000000000000000
+Parasminthus_parvulus           10211100001000?5022100100000
+Parasminthus_tangingoli         1121101010100045022000101000
+Parasminthus_asiaecentralis     1121101010100005022000101000
+Parasminthus_quartus            ?????????????005012000101000
+Parasminthus_cubitalus          1011110000100005022100101000
+Parasminthus_debruijni          1011101000100015022101101100
+Parasminthus_lajeensis          10??11?0?0100???????????????
+Parasminthus_huangshuiensis     1021111110100???????????????
+Parasminthus_xiningensis        1021110000100???????????????
+Heterosminthus_orientalis       1121111011111105020011000010
+Heterosminthus_mongoliensis     1121111?11111104020111100010
+Heterosminthus_erbajevae        112111101111113?00??110??11?
+Heterosminthus_firmus           1121101011101135021001100110
+Heterosminthus_honestus         1121101001101135021001110111
+Heterosminthus_nanus            1121101011101135021001110111
+Heterosminthus_jucundus         1120111011111135010001000111
+Heterosminthus_mugodzharicus    0121??1?1111112??1??110??11?
+Heterosminthus_lanzhouensis     1121111010110144022001100010
+Heterosminthus_intermedius      1121111011110155022001100010
+Arabosminthus_quadratus         102111111010011?10001110?000
+Heterosminthus_gansus           0121111010011103100001000010
+Arabosminthus_isabellae_sp_nov  0121??1?10000113100011100000
+Gobiosminthus_qiui              1001111110000???????????????
+Shamosminthus_sodovis           0110001011000004001011101000
+Shamosminthus_tongi             0121111010000???????????????
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 -[/1 10 -[/1 11 -[/1 12 -[/1 13 -[/1 14 -[/1 15 -[/1 16 -[/1 17 -[/1 18 -[/1 19 -[/1 20 -[/1 21 -[/1 22 -[/1 23 -[/1 24 -[/1 25 -[/1 26 -[/1 27 ;
+procedure /;

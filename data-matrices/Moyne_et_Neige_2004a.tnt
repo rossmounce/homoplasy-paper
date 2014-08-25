@@ -1,0 +1,18 @@
+xread
+'File downloaded from graemetlloyd.com'
+16 12
+Rarenodia       001201000000010?
+Erycites        0111010011010001
+Abbasites       0100010011011011
+Riccardiceras   0200010011010111
+Docidoceras     1200010011010111
+Mollistephanus  0100010001010111
+Hammatoceras    1011010000000100
+Euhoploceras    1021100100000100
+Eudmetoceras    1022101101010100
+Csernyeiceras   2022011111110100
+Praestrigites   2021001110111100
+Bradfordia      2000001110101101
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 -[/1 10 -[/1 11 -[/1 12 -[/1 13 -[/1 14 -[/1 15 ;
+procedure /;

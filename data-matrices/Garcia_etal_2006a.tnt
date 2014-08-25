@@ -1,0 +1,25 @@
+xread
+'File downloaded from graemetlloyd.com'
+27 19
+Testudoflexoolithus_bathonicae    010?000????0100100??0011?00
+Krokolithes_helleri               100?000????0000100000011?12
+Krokolithes_wilsoni               100?000????0000100000011?12
+Struthio_sp                       1110200????0311011?101111??
+Tristraguloolithus_cracioides     1110002?0??03110100000?????
+Medioolithus_geiseltalensis       1110000????03110111101000??
+Preprismatoolithus_coloradensis   110100101??0300110101012102
+Prismatoolithus_levis             11010001???0300110100012102
+Elongatoolithus_frustrabilis      110011212000311110000012002
+Macroolithus_rugustus             110011202000311110000012002
+Maiasaura_eggshells               110?10202?11210111110111?01
+Spheroolithus_albertensis         110?102021112101111101???01
+Cairanoolithus_dughii             110?10100?02210100100?0000?
+Megaloolithus_aureliensis         110?10200101200100110100000
+Megaloolithus_mamillare           110?10200101200100110100000
+Megaloolithus_siruguei            110?20200101200100110100000
+Megaloolithus_cylindricus         110?10200101200110110100000
+Megaloolithus_jabalpurensis       110?202001012001001?0?00000
+Bajocian_eggshells_from_La_Balme  110?0?2?00?12001001101???10
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 +[/1 4 -[/1 5 +[/1 6 -[/1 7 +[/1 8 -[/1 9 -[/1 10 +[/1 11 +[/1 12 -[/1 13 -[/1 14 -[/1 15 -[/1 16 -[/1 17 -[/1 18 -[/1 19 -[/1 20 -[/1 21 -[/1 22 +[/1 23 -[/1 24 -[/1 25 +[/1 26 ;
+procedure /;

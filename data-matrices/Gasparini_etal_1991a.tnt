@@ -1,0 +1,16 @@
+xread
+'File downloaded from graemetlloyd.com'
+19 10
+Protosuchidae   0000000000000000000
+Notosuchus      0000000002000000000
+Lomasuchus      211111000111111000?
+Peirosaurus     211111001??11?10?0?
+Caririsuchus    21???210?1??????0??
+Araripesuchus   00000000000011?0000
+Baurusuchus     1100000010002100011
+Sebecus         1100002112112101?11
+Uruguaysuchus   00000000020010?0?00
+Trematochampsa  21??12120312?1011??
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 +[/1 5 -[/1 6 +[/1 7 -[/1 8 -[/1 9 -[/1 10 +[/1 11 +[/1 12 -[/1 13 -[/1 14 -[/1 15 -[/1 16 -[/1 17 -[/1 18 ;
+procedure /;

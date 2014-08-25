@@ -1,0 +1,15 @@
+xread
+'File downloaded from graemetlloyd.com'
+18 9
+Stegotherium_tauberi   200?0?0000???????1
+Anadasypus_hondanus    ??????????00010110
+Dasypus_punctatus      20121011??10111121
+Dasypus_hybridus       010100001110111111
+Dasypus_kappleri       211021111110111?11
+Dasypus_novemcinctus   111121001110111111
+Dasypus_septemcinctus  0101??0021?0?1???1
+Propraopus_grandis     30??10000001000000
+Propraopus_sulcatus    ??????????01000010
+;
+ccode +[/1 0 -[/1 1 -[/1 2 +[/1 3 +[/1 4 -[/1 5 -[/1 6 -[/1 7 +[/1 8 -[/1 9 -[/1 10 -[/1 11 -[/1 12 -[/1 13 -[/1 14 -[/1 15 +[/1 16 -[/1 17 ;
+procedure /;

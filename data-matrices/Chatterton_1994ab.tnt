@@ -1,0 +1,20 @@
+xread
+'File downloaded from graemetlloyd.com'
+21 14
+Hystricurus_genalatus     020001120110010010010
+Dimeropyge_speyeri        201210101111001001100
+Dimeropyge_clintonensis   210110000111100101100
+Dimeropyge_virginiensis   100001120010010011100
+Dimeropyge_dorothyae      211111001101100101100
+Dimeropyge_spinifera      211011111111111001100
+Dimeropyge_minuta         211211111101011101100
+Dimeropyge_lucifer        21111?111?11011001100
+Dimeropyge_gibbus         201111111111001001100
+Dimeropyge_labrosa        111111110011000001100
+Dimeropyge_hystrix        1100111100110?0011100
+Ischyrotroma_caudinodosa  110012020011010000011
+Ischyrotroma_blanda       020012120011010000001
+Ischyrotroma_ovata        020012120011010010001
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 -[/1 10 -[/1 11 -[/1 12 -[/1 13 -[/1 14 -[/1 15 -[/1 16 -[/1 17 -[/1 18 -[/1 19 -[/1 20 ;
+procedure /;

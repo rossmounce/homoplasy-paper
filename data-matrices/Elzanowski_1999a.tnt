@@ -1,0 +1,13 @@
+xread
+'File downloaded from graemetlloyd.com'
+14 7
+Ornithomimosauria   1111101[01]00000?
+Therizinosauroidea  11111101110000
+Oviraptoridae       11111111011111
+Caenagnathidae      1111?1??1111??
+Archaeopteryx       111?11[01]0000000
+Gobipteryx          111111?111111?
+Hesperornis         11010111111111
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 -[/1 10 -[/1 11 -[/1 12 -[/1 13 ;
+procedure /;

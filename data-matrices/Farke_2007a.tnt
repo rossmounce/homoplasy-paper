@@ -1,0 +1,13 @@
+xread
+'File downloaded from graemetlloyd.com'
+10 7
+Chasmosaurus_belli         0011001001
+Anchiceratops_ornatus      0010000101
+Arrhinoceratops_brachyops  1111110100
+Diceratops_hatcheri        11001100?0
+Torosaurus_latus           1111112000
+Triceratops_horridus       1100223010
+Triceratops_porosus        1100223010
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 ;
+procedure /;

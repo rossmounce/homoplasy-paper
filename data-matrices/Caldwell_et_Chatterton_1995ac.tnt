@@ -1,0 +1,19 @@
+xread
+'File downloaded from graemetlloyd.com'
+13 13
+Eopteria_struszi            0?00101010320
+Bransonia_foxi              0000121010320
+Avalanchia_pterocarina      0001121010200
+Cassowarioides_polgari      0101101110201
+Cassowarioides_perryi       0101111110201
+Cassowarioides_anisomorpha  0101011111101
+Nehedia_complex             1011010211100
+Redstonia_complex           1011020201100
+Hippocardia_cooperi         0011100110200
+Bigalea_yangi               100011?210010
+Bigalea_ohioensis           10001??210010
+Pseudoconocardium_lantern   0000101010200
+Mulceodens_jaanussoni       0001110010200
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 -[/1 10 -[/1 11 -[/1 12 ;
+procedure /;

@@ -1,0 +1,20 @@
+xread
+'File downloaded from graemetlloyd.com'
+19 14
+Alligator                        0?00000000????????0
+Gallus_gallus                    2202032021020100000
+Titanosauridae                   020000010??0????00[01]
+Deinonychus_antirrhopus          [12]??????110?00?11100
+Citipati_osmolskae               1011121110?00?01000
+Troodon_formosus                 2112012011?20?10010
+Macroelongatoolithus_xixiaensis  111112?11[01]?10?11111
+Ornithothoracine                 21?????0211210?????
+Phu_Phok_eggs                    21?????1211210?????
+Lithornis_vulturinus             2???0??0200201000??
+Byronosaurus_jaffei              21?2012011?20?10010
+Lithornis_celetius               2???0??0200201000??
+Rhea_americana                   2202032020020100000
+Hadrosaurid                      020000010??0????000
+;
+ccode +[/1 0 -[/1 1 -[/1 2 +[/1 3 -[/1 4 -[/1 5 +[/1 6 -[/1 7 +[/1 8 -[/1 9 -[/1 10 -[/1 11 -[/1 12 -[/1 13 -[/1 14 -[/1 15 -[/1 16 -[/1 17 -[/1 18 ;
+procedure /;

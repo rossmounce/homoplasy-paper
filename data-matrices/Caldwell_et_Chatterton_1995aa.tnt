@@ -1,0 +1,17 @@
+xread
+'File downloaded from graemetlloyd.com'
+14 11
+Eopteria_struszi           12100110021101
+Psedoconocardium_lanterna  11220110320001
+Mulceodens_wilsoni         00120100101001
+Mulceodens_schneideri      00011102201011
+Mulceodens_johnstoni       10020000101001
+Mulceodens_jaanussoni      01110000101011
+Malceodens_eboraceous      111210?2011001
+Bransonia_foxi             12?10211211100
+Bransonia_wilsoni          11220211111100
+Bransonia_cressmani        12120211320100
+Bransonia_robusta          10220211321100
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 -[/1 10 -[/1 11 -[/1 12 -[/1 13 ;
+procedure /;

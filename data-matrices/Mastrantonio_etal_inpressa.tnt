@@ -1,0 +1,20 @@
+xread
+'File downloaded from graemetlloyd.com'
+32 14
+Proterosuchus_fergusi          00000000??0000000000?000?0010010
+Garjainia_prima                00000000000000100000?0000001000?
+Euparkeria_capensis            00000000000000010010000100100000
+Phytosaurs                     10000001000000010010?00100100000
+Saurosuchus_galilei            21000011??0000?10000?001?0100000
+Batrachotomus_kupferzellensis  21000011100000?00010001011110000
+Tikisuchus_romeri              2??00011??0?00??10????????1?000?
+Postosuchus_kirkpatricki       2210001110000011101???01?1100000
+Aetosaurians                   22111011??0000??00??1111?0100000
+Sphenosuchus_acutus            22111111111111210111111110110000
+Dibothrosuchus_elaphos         22110111??111121011111???011000?
+Crocodylus_sp                  221111111111112101011111?110000?
+Arizonasaurus_babbitti         000000011000001100?00001000?0000
+Prestosuchus_chiniquensis      210000?1??0000?10010??11??110000
+;
+ccode +[/1 0 +[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 -[/1 10 -[/1 11 -[/1 12 -[/1 13 -[/1 14 -[/1 15 -[/1 16 -[/1 17 -[/1 18 -[/1 19 -[/1 20 -[/1 21 -[/1 22 -[/1 23 -[/1 24 -[/1 25 -[/1 26 -[/1 27 -[/1 28 -[/1 29 -[/1 30 -[/1 31 ;
+procedure /;

@@ -1,0 +1,32 @@
+taxname +36;
+xread
+'File downloaded from graemetlloyd.com'
+15 25
+Hemiarges_wesenbergensis             0?0010??000001?
+Acanthopyge_Lobopyge_australiformis  112011011001112
+Acanthopyge_Lobopyge_australis       102010??100?112
+Acanthopyge_Lobopyge_balliviani      112111101001121
+Acanthopyge_Lobopyge_brankensis      102010111000221
+Acanthopyge_Lobopyge_brevis          0?0100??110????
+Acanthopyge_Lobopyge_campbelli       112011001111132
+Acanthopyge_Lobopyge_consanguinea    112110021001221
+Acanthopyge_Lobopyge_decheni         ??????0210?0220
+Acanthopyge_Lobopyge_docekali        102111110001020
+Acanthopyge_Lobopyge_edgecombei      112111000011222
+Acanthopyge_Lobopyge_erinacea        11211100000?032
+Acanthopyge_Lobopyge_hirsuta         102100010000020
+Acanthopyge_Lobopyge_limbata         112100??1120120
+Acanthopyge_Lobopyge_orientalis      111101??0000020
+Acanthopyge_Lobopyge_paraplerua      111101??000002?
+Acanthopyge_Lobopyge_parva           112110??0010122
+Acanthopyge_Lobopyge_pragensis       112010??1010122
+Acanthopyge_Lobopyge_pustulosa       112010??0021222
+Acanthopyge_Lobopyge_rictheri        112101101011221
+Acanthopyge_Lobopyge_rohri           100010??0001022
+Acanthopyge_Lobopyge_sinuata         112110101001212
+Acanthopyge_Lobopyge_trinodis        102201???030120
+Acanthopyge_Lobopyge_uralensis       112201??10??221
+Acanthopyge_Lobopyge_sp_Victoria     1120011?1000020
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 -[/1 10 -[/1 11 -[/1 12 -[/1 13 -[/1 14 ;
+procedure /;

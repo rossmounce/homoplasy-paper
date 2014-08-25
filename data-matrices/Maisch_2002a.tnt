@@ -1,0 +1,20 @@
+xread
+'File downloaded from graemetlloyd.com'
+31 14
+Pristerodon_mckayi          0000000000000000000000000000000
+Cteniosaurus_platyceps      1011010000001000000000000110010
+Oudenodon_bainii            1011110000001000000000000110011
+Rhachiocephalus_magnus      1011111011001001000000000210011
+Platycyclops_crassus        1011111011001001000000000210011
+Propelanomodon_devilliersi  1011110100102000100000000000000
+Aulacephalodon_bainii       1011121000112111010000000100002
+Pelanomodon_tuberosus       0011121100112111110000100100012
+Odontocyclops_dubius        1011111000112100100100010200002
+Lystrosaurus_murrayi        1211110100112100102111111101002
+Kwazulusaurus_shakai        1011110000110100102111111101002
+Dicynodon_lacerticeps       1111110000113100101111010100102
+Kannemeyeria_simocephala    1111110101113100101111010201102
+Dinanomodon_rubidgei        1111110000113100101111010201102
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 -[/1 10 -[/1 11 -[/1 12 -[/1 13 -[/1 14 -[/1 15 -[/1 16 -[/1 17 -[/1 18 -[/1 19 -[/1 20 -[/1 21 -[/1 22 -[/1 23 -[/1 24 -[/1 25 -[/1 26 -[/1 27 -[/1 28 -[/1 29 -[/1 30 ;
+procedure /;

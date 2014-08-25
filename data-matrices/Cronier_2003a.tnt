@@ -1,0 +1,21 @@
+taxname +37;
+xread
+'File downloaded from graemetlloyd.com'
+23 14
+Acuticryphops_acuticeps               00000000000000000000000
+Trimerocephalus_caecus                000211[02][02]000101110000000
+Trimerocephalus_lelievrei             000211[13]1000101110000000
+Trimerocephalus_shotoriensis          000211[02][02]000101110210001
+Trimerocephalus_dianopsoides          000111[23]0001301110111100
+Trimerocephalus_tardispinosus         00021002010101110000000
+Trimerocephalus_procurvus             00021002001300110000000
+Trimerocephalus_interruptus           00021002001410110000000
+Trimerocephalus_sponsor               00021002001400110000000
+Trimerocephalus_polonicus             0002100200120011?????00
+Trimerocephalus_mastophthalmus        000110[13][01]000300110000000
+Trimerocephalus_Trifoliops_nigritus   0002101[01]101400111001000
+Trimerocephalus_Trifoliops_trifolius  1111102210140011?0???10
+Trimerocephalus_steinachensis         2101103120140011?????10
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 -[/1 10 -[/1 11 -[/1 12 -[/1 13 -[/1 14 -[/1 15 -[/1 16 -[/1 17 -[/1 18 -[/1 19 -[/1 20 -[/1 21 -[/1 22 ;
+procedure /;

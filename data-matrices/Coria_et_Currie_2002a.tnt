@@ -1,0 +1,17 @@
+xread
+'File downloaded from graemetlloyd.com'
+15 11
+Herrerasaurus        000000000000000
+Abelisaurus          0001?0000000010
+Acrocanthosaurus     000000000000011
+Allosaurus           000000000000010
+Carcharodontosaurus  111111111100110
+Carnotaurus          0001?0000010010
+Dromaeosauridae      000000000000000
+Giganotosaurus       111111111100111
+Sinraptor            000000111100110
+Troodontidae         000000000011000
+Tyrannosauridae      000000000011000
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 -[/1 10 -[/1 11 -[/1 12 -[/1 13 -[/1 14 ;
+procedure /;

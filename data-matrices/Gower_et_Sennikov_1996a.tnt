@@ -1,0 +1,18 @@
+xread
+'File downloaded from graemetlloyd.com'
+17 12
+Prolacerta     00000000000?00000
+Proterosuchus  0000000???00100??
+Fugusuchus     00?00000??0?10012
+Sarmatosuchus  00?00010??0??0012
+Xilousuchus    001000111?0?00012
+Vjushkovia     00100011110100012
+Erythrosuchus  00111110110101111
+Shansisuchus   0?1111101?0101111
+Euparkeria     0101001???0?10000
+Sphenosuchus   11?10110001001100
+Parasuchia     110?01?01010?1101
+Stagonolepis   11??0110??1??110?
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 -[/1 10 -[/1 11 -[/1 12 -[/1 13 -[/1 14 -[/1 15 -[/1 16 ;
+procedure /;

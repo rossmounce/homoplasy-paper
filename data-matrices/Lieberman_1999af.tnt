@@ -1,0 +1,12 @@
+xread
+'File downloaded from graemetlloyd.com'
+5 6
+Fritzolenellus_truemani     00000
+Mummaspis_occidens          11111
+Mummaspis_truncatooculatus  00010
+Mummaspis_oblisooculatus    10100
+Mummaspis_macer             0[12]101
+Mummaspis_muralensis        0[12]100
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 ;
+procedure /;

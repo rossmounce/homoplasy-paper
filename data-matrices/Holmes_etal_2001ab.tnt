@@ -1,0 +1,15 @@
+xread
+'File downloaded from graemetlloyd.com'
+30 9
+Protoceratops_andrewsi      00?00000????0?0?0000000000????
+Zuniceratops_christopheri   ????????0000??????0???????????
+centrosaurines              00?01001[01]10110101010000001010[01]
+Chasmosaurus_irvinensis     110101[01]001?1101101000111111110
+Chasmosaurus_belli          110101000[01]011011010[01]1111111010
+Chasmosaurus_russelli       110101000[01]01101100011111111000
+Chasmosaurus_mariscalensis  1101010000000011??01?110?11???
+Pentaceratops_sternbergi    1111011000100[01]1110011110111000
+Other_chasmosaurines        10?110[01]01010011210000000011001
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 -[/1 10 -[/1 11 -[/1 12 -[/1 13 -[/1 14 -[/1 15 -[/1 16 -[/1 17 -[/1 18 -[/1 19 -[/1 20 -[/1 21 -[/1 22 -[/1 23 -[/1 24 -[/1 25 -[/1 26 -[/1 27 -[/1 28 -[/1 29 ;
+procedure /;

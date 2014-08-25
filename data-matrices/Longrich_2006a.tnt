@@ -1,0 +1,25 @@
+xread
+'File downloaded from graemetlloyd.com'
+22 19
+Archaeopteryx_lithographica  00000000?00?0??0000000
+Confuciusornis_sanctus       10000000?0000??0000000
+Enantiornis_leali            2?001000????1000000010
+Apsaravis_ukhaana            21?0100?1???100?0?11??
+TMP_98_dot_68_dot_145        211???011???110???????
+Limenavis_patagonica         2110?01111?01101?10101
+Ichthyornis_dispar           2110101101112101010101
+Iaceornis_marshi             211011110111210101010?
+Eudromia_elegans             2111111101111001010111
+Anas_platyrhynchos           2110111101112011010101
+Phasianus_colchicus          2111111101102011111111
+Grus_canadensis              2111111101112111010101
+Larus_delawarensis           2110111111112011011101
+Corvus_corax                 2111111101112011110110
+Columba_livia                2111111101112001011111
+Puffinus_griseus             2111110101112001010101
+Buteo_lagopus                2110111101112001011111
+Cygnus_buccinator            2110110101112011010101
+Gavia_immer                  2110000101112011010001
+;
+ccode +[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 -[/1 10 -[/1 11 +[/1 12 -[/1 13 -[/1 14 -[/1 15 -[/1 16 -[/1 17 -[/1 18 -[/1 19 -[/1 20 -[/1 21 ;
+procedure /;

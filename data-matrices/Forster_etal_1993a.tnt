@@ -1,0 +1,12 @@
+xread
+'File downloaded from graemetlloyd.com'
+9 6
+Centrosaurinae              0?0011000
+Other_chasmosaurines        000000000
+Pentaceratops_sternbergii   000000111
+Chasmosaurus_russelli       111111111
+Chasmosaurus_belli          111111111
+Chasmosaurus_mariscalensis  111?00111
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 ;
+procedure /;

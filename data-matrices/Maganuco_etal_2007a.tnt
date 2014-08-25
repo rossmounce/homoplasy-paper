@@ -1,0 +1,18 @@
+taxname +50;
+xread
+'File downloaded from graemetlloyd.com'
+8 11
+Plateosaurus_MSNM_V2555                            00000000
+Allosaurus_MSNM_V435                               10000000
+Tyrannosaurus_MSNM_V3902                           10000000
+Patagonykus_Novas_1997                             ??00100?
+Troodon_Russell_1969                               21001000
+Deinonychus_Ostrom_1969                            21000000
+Masiakasaurus_Carrano_et_al_2002_MSMN_V5267_V5276  00111111
+MPCA_56_Novas_et_Bandyopadhyay_2001                00111111
+MPCM_13573_Novas_et_al_2005_cast_in_MSNM           00111101
+Ilokelesia_Coria_et_Salgado_2000                   10111??1
+MSMN_V6235_this_study                              10001101
+;
+ccode +[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 ;
+procedure /;

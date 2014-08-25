@@ -1,0 +1,18 @@
+xread
+'File downloaded from graemetlloyd.com'
+14 12
+Dilophosaurus     0000020110????
+Ceratosaurus      000002?00?????
+Majungasaurus     01101201001200
+Megalosaurus      001000000?0?10
+Torvosaurus       1010001000???0
+Condorraptor      01100102001?10
+Sinraptor         01111102011100
+Allosaurus        00111102001200
+Acrocanthosaurus  110000????????
+Mapusaurus        010100??0100?0
+Guanlong          01001????01200
+IVPP_V_18060      11111111111101
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 +[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 -[/1 10 +[/1 11 -[/1 12 -[/1 13 ;
+procedure /;

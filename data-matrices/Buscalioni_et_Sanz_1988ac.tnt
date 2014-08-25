@@ -1,0 +1,12 @@
+xread
+'File downloaded from graemetlloyd.com'
+9 6
+Orthosuchus     000000000
+Atoposaurus     111110000
+Alligatorellus  111110000
+Alligatorium    111110000
+Montsecosuchus  011101011
+Theriosuchus    ?111?0001
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 ;
+procedure /;

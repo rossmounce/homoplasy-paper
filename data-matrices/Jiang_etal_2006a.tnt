@@ -1,0 +1,15 @@
+xread
+'File downloaded from graemetlloyd.com'
+23 9
+Utatsusaurus              00000000000000000000000
+Grippia                   00000000010000000000000
+Cymbospondylus            01001000111001?0000?0?0
+Mixosaurus_panxianensis   11101111?10000001001101
+Phalarodon_fraasi         1111111111?0?1111101011
+Phalarodon_callawayi      11011111111001111101011
+Phalarodon_atavus         111111111110??10100????
+Mixosaurus_cornalianus    11101111111110000011101
+Mixosaurus_kuhnschnyderi  11?01111111?1000101?1?1
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 -[/1 10 -[/1 11 -[/1 12 -[/1 13 -[/1 14 -[/1 15 -[/1 16 -[/1 17 -[/1 18 -[/1 19 -[/1 20 -[/1 21 -[/1 22 ;
+procedure /;

@@ -1,0 +1,14 @@
+xread
+'File downloaded from graemetlloyd.com'
+11 8
+Coelophysis        00000000000
+Abelisaurus        12?1??110?1
+AMNH_1955          132111101?1
+Carnotaurus        13210111111
+Ceratosaurus       01[12]00010100
+Majungatholus      13211111111
+Noasaurus          1?2100000?0
+UNPSJB_dash_PV247  132111111?1
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 -[/1 10 ;
+procedure /;

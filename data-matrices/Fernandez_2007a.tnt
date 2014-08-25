@@ -1,0 +1,15 @@
+xread
+'File downloaded from graemetlloyd.com'
+25 9
+Cymbospondylus_piscosus  000001001??1100000?000?00
+Stenopterygius           [01]20111100?011100011000121
+Ichthyosaurus            1200211[01]000101000200000[01]2
+Mollesaurus              220?0??0011??????????????
+Brachypterygius          ?1?????0?1200110121010???
+Aegirosaurus             22101111??10011012101002?
+Ophthalmosaurus          1210101101100111021010022
+Caypullisaurus           21[01]?0?100?100111021111002
+Platypterygius           21[01]12110??20011[01]021011???
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 -[/1 10 -[/1 11 -[/1 12 -[/1 13 -[/1 14 -[/1 15 -[/1 16 -[/1 17 -[/1 18 -[/1 19 -[/1 20 -[/1 21 -[/1 22 -[/1 23 -[/1 24 ;
+procedure /;

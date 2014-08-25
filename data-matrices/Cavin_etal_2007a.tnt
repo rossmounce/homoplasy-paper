@@ -1,0 +1,22 @@
+xread
+'File downloaded from graemetlloyd.com'
+14 16
+Dipterus_valenciennesi       0000000000?000
+Arganodus_atlantis           212?21211110?2
+Asiatoceratodus_sharovi      212?2?2?01002?
+Beltanodus_ambilobensis      1012100???????
+Ceratodus_sturii             212??0211100??
+Ferganoceratodus_jurassicus  212?202?1??1??
+Ferganoceratodus_martini     21212021100112
+Gnathorhiza_spp              1012111?00?011
+Gosfordia_truncata           21122121????22
+Microceratodus_angolensis    11121?2???????
+Neoceratodus_forsteri        21221021100012
+Paraceratodus_germanini      1102202?01????
+Protopterus_spp              21322121111022
+Ptychoceratodus_serratus     1112212?1110?2
+Ptychoceratodus_philippsi    112?212?110???
+Sagenodus_spp                00020001000011
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 -[/1 10 -[/1 11 -[/1 12 -[/1 13 ;
+procedure /;

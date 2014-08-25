@@ -1,0 +1,22 @@
+taxname +45;
+xread
+'File downloaded from graemetlloyd.com'
+15 15
+Billingsella_perfecta_Ulrich_and_Cooper_1936  000100000010010
+Hepserinia_sinensis                           110110010002111
+Rafinesquina_alternata                        221200000200011
+Aphanomena_planoconvexa                       221200300221011
+Megamyonia_nitens                             221200200220111
+Leptaena_quadrilatera                         221220210222011
+Strophomena_planumbona                        110101011001111
+Oepikina_limbrata                             110100001101111
+Tetraphalerella_hecuba                        200101000010111
+Coolinia_n_sp_A_Dewing_1999                   000101100020011
+Furcitella_nodosa                             110122211201111
+Mjoesina_ceres                                110100200200111
+Archeochonetes_primigenius                    221200200200011
+Kjaerina_hartae                               221200010200011
+Triplesia_anticostiensis                      000102011010011
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 -[/1 10 -[/1 11 -[/1 12 -[/1 13 -[/1 14 ;
+procedure /;

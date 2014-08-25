@@ -1,0 +1,18 @@
+xread
+'File downloaded from graemetlloyd.com'
+20 12
+Wanneria_walcottana        00000000000000000000
+Elliptocephala_asaphoides  110110102[01]0100010111
+Elliptocephala_sequomalus  11101110200000000010
+Elliptocephala_mediocris   10010100111001010010
+Elliptocephala_walcotti    11011000111001011100
+Elliptocephala_bicensis    11011001211?00110?01
+Elliptocephala_laxocules   10101010101101110110
+Elliptocephala_paraoculus  10100000101111111010
+Elliptocephala_parvifrons  11110001101110101000
+Elliptocephala_logani      11110101100111101000
+Elliptocephala_mirabilis   01110201111?10011?00
+Elliptocephala_lundgreni   01?10001211?1001??01
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 -[/1 10 -[/1 11 -[/1 12 -[/1 13 -[/1 14 -[/1 15 -[/1 16 -[/1 17 -[/1 18 -[/1 19 ;
+procedure /;

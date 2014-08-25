@@ -1,0 +1,32 @@
+xread
+'File downloaded from graemetlloyd.com'
+27 26
+Ptychoceras_minimum           023330000100000010000000000
+Hamitella_annulata            022330020110100000010000000
+Hamites_attenuatus            022330220110100000010000000
+Hamites_hybridus              022320100100000000010000000
+Stomohamites_nokonsis         022230000010000000010000000
+Stomohamites_parkinsoni       022230110010110000010000000
+Stomohamites_virgulatus       022230110010000000010000000
+Lytohamites_similis           022230000010000000010000000
+Metahamites_sablieri          022230010010000000010000000
+Scaphamites_passendorferi     022330100100101000010010000
+Hamitoides_studerianus        0??????????0000000010011000
+Lechites_gaudini              022230000010000001110000000
+Sciponoceras_skipperae        022230000010000101100000000
+Anisoceras_saussureanum       022230110010100000011100110
+Prohelicoceras_moutonianum    022330010110100000011000110
+Protanisoceras_raulinianum    022330100110000000011000100
+Heteroclinus_nodosum          022330000110100000011000100
+Torquistylus_anglicum         022220000110000000010000100
+Pseudhelicoceras_robertianum  022230110010200000011100110
+Proturrilitoides_astierianus  022231111010210000010000000
+Turrilitoides_hugardianus     122231111010210000010000000
+Paraturrilites_gresslyi       122231111010200000010000001
+Eoscaphites_circularis        02223011010000?000010010000
+Eoscaphites_subcircularis     022230110101001000010011000
+Scaphites_hugardianus         022230110100001000010011000
+Worthoceras_worthense         023330000100000010010000000
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 -[/1 10 -[/1 11 +[/1 12 -[/1 13 -[/1 14 -[/1 15 -[/1 16 -[/1 17 -[/1 18 -[/1 19 -[/1 20 -[/1 21 -[/1 22 -[/1 23 -[/1 24 -[/1 25 -[/1 26 ;
+procedure /;

@@ -1,0 +1,18 @@
+xread
+'File downloaded from graemetlloyd.com'
+20 12
+Proterochampsa            001000000000?00?1000
+Erythrosuchidae           0000000001???1000000
+Dromaeosauridae           0000001??00011000000
+Troodontidae              11000011110011000100
+Archaeopteryx             001?1010111011100001
+Hesperornis               01110001101011101001
+Ornithomimosauria         11100011101011200100
+Sphenosuchus              00000000?00101200010
+Protosuchus               00000000?00101211010
+Notosuchus                01100101?00101201010
+Lisboasaurus_estesi       111111?1?0???121?0??
+Las_Hoyas_crocodylomorph  11111101?001012?1010
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 -[/1 10 -[/1 11 -[/1 12 -[/1 13 +[/1 14 -[/1 15 -[/1 16 -[/1 17 -[/1 18 -[/1 19 ;
+procedure /;

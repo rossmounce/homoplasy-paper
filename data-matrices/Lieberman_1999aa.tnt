@@ -1,0 +1,18 @@
+xread
+'File downloaded from graemetlloyd.com'
+13 12
+Mesonacis_fremonti          0000000000000
+Olenellus_romensis          1000[01]0[01]020001
+Olenellus_agellus           011010[01]010100
+Olenellus_transitans        11[12]2100111001
+Olenellus_roddyi            111[12]100010001
+Olenellus_clarki            111[12][01]0[01]021101
+Olenellus_nevadensis        11[12]2[01]000[12]1???
+Olenellus_parvofrontatus    11121011101?1
+Olenellus_thompsoni         0000101010110
+Olenellus_robsonensis       0??1101?101?0
+Olenellus_getzi             0001111020010
+Olenellus_crassimarginatus  0002111010???
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 -[/1 10 -[/1 11 -[/1 12 ;
+procedure /;

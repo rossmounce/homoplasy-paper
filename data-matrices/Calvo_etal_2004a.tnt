@@ -1,0 +1,14 @@
+xread
+'File downloaded from graemetlloyd.com'
+13 8
+TETANURAE        0000000000000
+Ceratosaurus     1010000000000
+Ilokelesia       ??????0101111
+Carnotaurus      1111111111111
+Ekrixnatosaurus  11111?1101111
+Majungatholus    111111110111?
+Masiakasaurus    ??00????01100
+Aucasaurus       111111??11111
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 -[/1 10 -[/1 11 -[/1 12 ;
+procedure /;

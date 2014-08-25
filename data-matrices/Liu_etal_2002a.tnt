@@ -1,0 +1,18 @@
+xread
+'File downloaded from graemetlloyd.com'
+11 12
+Kwazulusaurus_shakai  00000000000
+L_curvatus            00000000001
+L_youngi              00000000100
+L_platyceps           01000010001
+L_oviceps             10001111000
+L_murrayi             12111411000
+L_declivus            12011311001
+L_maccaigi            11111211?0?
+L_hedini              01001210110
+L_broomi              100011?0110
+L_robustus            12011310120
+L_shichanggouensis    12111210120
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 +[/1 9 -[/1 10 ;
+procedure /;
