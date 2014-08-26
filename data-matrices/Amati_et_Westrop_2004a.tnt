@@ -1,0 +1,34 @@
+xread
+'File downloaded from graemetlloyd.com'
+20 28
+Raymondaspis          00000000000000000000
+Illaenus_crassicauda  00102111111111210100
+I_sarsi               00112111011011020100
+I_aduncus             00112111012011020104
+I_planifrons          0013211??1?011220100
+I_oscitatus           0011211??11011020214
+I_praecurrens         11102?1101101102000?
+I_fallax              1100211101101102000?
+I_roemeri             0000201?011011020000
+I_lacertus            20112?21211021?2030?
+I_viator              20112021211021?20302
+I_utahensis           2012211111202102030?
+I_marginalis          20112111111011220203
+I_conradi             20111012212021122312
+I_angusticollis       201?0012202020312412
+I_depressicapitatus   2011101??1?021221312
+I_latiaxiatus         201?1121?1?021221312
+I_fieldi              201??01??1?021221302
+I_conifrons           2011??1??0?120300412
+Nanillaenus_raymondi  2011001121?120211310
+N_aduncus             2011101??131211204?2
+N_mackenziensis       2011101??13021020412
+Thaleops_ovata        20110011203120112311
+T_longispina          2011?011203120301412
+T_anusacermissima     2011101??13121120402
+T_laurentiana         20111011212021120302
+T_jaanussoni          20110011213021021312
+T_mobydicki           20111011211021220302
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 -[/1 10 -[/1 11 -[/1 12 -[/1 13 -[/1 14 -[/1 15 -[/1 16 -[/1 17 -[/1 18 -[/1 19 ;
+proc/;

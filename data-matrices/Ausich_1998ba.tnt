@@ -1,0 +1,33 @@
+xread
+'File downloaded from graemetlloyd.com'
+21 27
+Aethocrinus        000000000000000000000
+Agostocrinus       14202100320011410022?
+Archaetaxocrinus   000000010000005300[12]00
+Brechmocrinus      020000011201000000122
+Carabocrinus       110400100201000200200
+Colpodecrinus      001500101000002302330
+Compagicrinus      0100000002010003000?0
+Cupulocrinus       0300000111010003[01]1100
+Dendrocrinus       0100000112010001011?0
+Elpasocrinus       010000000201000300110
+Eoparisocrinus     01000000120100030[01][12]00
+Eopinnacrinus      0204000112110031011?0
+Esthonocrinus      01000000120100030?10?
+Grenprisia         010000011101000300210
+Illemocrinus       01040000120100020[01][12]00
+Merocrinus         130310012201000301110
+Metabolocrinus     030200001211002101100
+Ontariocrinus      1100000012010002011?0
+Ottawacrinus       0300000112?????300220
+Palaeocrinus       110100101201000[123]00100
+Plicodendrocrinus  010000001201005301020
+Polycrinus         ?3000001120100530?1?0
+Porocrinus         010100101201001401101
+Praecupulocrinus   020300011201000[23]01121
+Protaxocrinus      002000011000000211100
+Quinquecaudex      02000001100[01]000300000
+Triboloporus       1101001012?????30110?
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 -[/1 10 -[/1 11 -[/1 12 -[/1 13 -[/1 14 -[/1 15 -[/1 16 -[/1 17 -[/1 18 -[/1 19 -[/1 20 ;
+proc/;

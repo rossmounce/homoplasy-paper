@@ -1,0 +1,16 @@
+xread
+'File downloaded from graemetlloyd.com'
+21 10
+Bactrosaurus       000000000000000000000
+Lambeosaurinae     111110001111100000001
+Kerberosaurus      111111110000300110001
+Maiasaura          111111010000211000000
+Brachylophosaurus  111111110000211000000
+Gryposaurus        11111111000000010000?
+Saurolophus        111111110000300111101
+Prosaurolophus     111111110000300111101
+Edmontosaurus      111111110000300110010
+Anatotitan         111111110000300110010
+;
+ccode -[/1 0 -[/1 1 -[/1 2 -[/1 3 -[/1 4 -[/1 5 -[/1 6 -[/1 7 -[/1 8 -[/1 9 -[/1 10 -[/1 11 -[/1 12 -[/1 13 -[/1 14 -[/1 15 -[/1 16 -[/1 17 -[/1 18 -[/1 19 -[/1 20 ;
+proc/;
