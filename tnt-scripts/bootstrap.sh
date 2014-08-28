@@ -22,7 +22,7 @@ STEM=$(echo $1 | awk -F. '{ print $1 }')
 mkdir results_$STEM 
 cp "$1" mher.run reps.txt stats.run cstats.run ./results_$STEM/
 cd results_$STEM
-sed 's@procedure \/;@log '$STEM'-GCbootstrap.log; xinact; hold 10000; sect:slack 40; xmult=level10; bb; taxname=; resample boot replications 1000; log\/; log jakbootstrap.log; resample jak replications 1000 probability 75; log\/; log symbootstrap.log; resample sym replications 1000 ; log\/; quit;@' $1 > boot-tmp2.tnt 
+sed 's@procedure \/;@log '$STEM'-GCbootstrap.log; xinact; hold 10000; sect:slack 200; xmult=level10; bb; taxname=; resample boot replications 1000; log\/; log jakbootstrap.log; resample jak replications 1000 probability 75; log\/; log symbootstrap.log; resample sym replications 1000 ; log\/; quit;@' $1 > boot-tmp2.tnt 
 
 #this will do everything then quit. output hardcoded to output.log
 tnt mxram 200, proc boot-tmp2.tnt 
