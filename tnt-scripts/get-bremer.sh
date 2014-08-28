@@ -20,7 +20,7 @@ STEM=$(echo $1 | awk -F. '{ print $1 }')
 mkdir results_$STEM 
 cp "$1" bremer.run ./results_$STEM/
 cd results_$STEM
-sed 's@procedure \/;@xinact; hold 100000; sect:slack 40; xmult=level10; bb; taxname=; log '$STEM'-bremer.log; run bremer.run ; log\/; quit;@' $1 > 1TMP.tnt
+sed 's@procedure \/;@xinact; hold 100000; sect:slack 200; xmult=level10; bb; taxname=; log '$STEM'-bremer.log; run bremer.run ; log\/; quit;@' $1 > 1TMP.tnt
 sed 's@xread@mxram 100; xread@' 1TMP.tnt > bremerTMP.tnt
 
 #this will do everything then quit. output hardcoded to output.log
