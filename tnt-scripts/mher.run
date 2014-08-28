@@ -1,6 +1,6 @@
 
 macro= ;
-
+sect:slack 200;
 resettime ; 
 
 if ( argnumber )
