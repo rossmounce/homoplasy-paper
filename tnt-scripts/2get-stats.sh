@@ -22,7 +22,7 @@ STEM=$(echo $1 | awk -F. '{ print $1 }')
 mkdir results_$STEM 
 cp "$1" mher.run reps.txt stats.run cstats.run ./results_$STEM/
 cd results_$STEM
-sed 's@procedure \/;@log temp12.log; xinact; minmax\*; sect:slack 40; xmult=level10; log\/; bb; taxname=; log '$STEM'-CIRI.log; run stats.run ; log\/; log '$STEM'-randomreps.log; mher start ; proc reps.txt; run cstats.run ; quit;@' $1 > tmp2.tnt 
+sed 's@procedure \/;@log temp12.log; xinact; minmax\*; sect:slack 200; xmult=level10; log\/; bb; taxname=; log '$STEM'-CIRI.log; run stats.run ; log\/; log '$STEM'-randomreps.log; mher start ; proc reps.txt; run cstats.run ; quit;@' $1 > tmp2.tnt 
 
 #this will do everything then quit. output hardcoded to output.log
 tnt mxram 200, proc tmp2.tnt 
