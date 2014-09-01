@@ -7,13 +7,14 @@ names(megatable)
 zz <- as.data.frame(megatable)
 str(zz)
 names(zz)
-colnames(zz)[5] = "mpts"
-zz[16:22] <- list(NULL)
+colnames(zz)[23] = "mpts" #shorter names, easier to type!
+colnames(zz)[3] = "groups" #shorter names, easier to type!
+zz[4:16] <- list(NULL) #remove higher taxon columns
+zz[22:27] <- list(NULL) #delete more unwanted columns
 names(zz)
 summary(zz)
 cor(zz)                              # correlation matrix
-pairs(zz)                            # scat
-names(zz)                            # for handy reference
+# pairs(zz)                           # pairwise plots
 model1 = lm(CI ~ L + MinL + mpts + informativechars + Taxa, data=zz)
 summary(model1)
 summary.aov(model1)
