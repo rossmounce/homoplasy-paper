@@ -1,24 +1,43 @@
 ## I'll make pretty plots with ggplot2 later, these are just quick & dirty plots to help visualise the data
 
-setwd("/home/ross/workspace/mygithub/homoplasy-paper")
+setwd("/home/ross/workspace/homoplasy-paper")
+library("plyr")
+
 megatable <- read.csv("./results-summary/results-in-progress.csv")
 attach(megatable)
 names(megatable)
 zz <- as.data.frame(megatable)
 str(zz)
 names(zz)
-colnames(zz)[23] = "mpts" #shorter names, easier to type!
-colnames(zz)[3] = "groups" #shorter names, easier to type!
-zz[4:16] <- list(NULL) #remove higher taxon columns
-zz[22:27] <- list(NULL) #delete more unwanted columns
+#colnames(zz)[23] = "mpts" #shorter names, easier to type!
+#colnames(zz)[3] = "groups" #shorter names, easier to type!
+#zz[4:16] <- list(NULL) #remove higher taxon columns
+#zz[22:27] <- list(NULL) #delete more unwanted columns
 names(zz)
 summary(zz)
 cor(zz)                              # correlation matrix
 # pairs(zz)                           # pairwise plots
-model1 = lm(CI ~ L + MinL + mpts + informativechars + Taxa, data=zz)
+#model1 = lm(CI ~ L + MinL + mpts + informativechars + Taxa + X.missingchars, data=zz)
+model1 = lm(CI ~ L + log(MinL) + log(X.mpts) + log(informativechars) + log(Taxa) + X.missingchars, data=zz)
 summary(model1)
 summary.aov(model1)
+hist(log(informativechars)) #needs to be logged
+hist(log(MinL)) #needs to be logged
+hist(Taxa) #needs to be logged, mpts might need to be logged too
+hist(X.mpts)
+m1b = step(model1)
+summary(m1b)
+boxplot(residuals(model1)~groups)
+plot(log(X.mpts),CI)
 
+model2 = lm(MHER ~ L + log(MinL) + log(X.mpts) + log(informativechars) + log(Taxa) + X.missingchars, data=zz)
+summary(model2)
+summary.aov(model2)
+
+boxplot(CI,as.factor(Grouping.for.statistical.tests))
+zz$Grouping.for.statistical.tests
+
+# LOTS OF PAIRWISE PLOTS
 plot(MHER,Taxa,main="Taxa vs MHER", pch=4,xlab="mod. Homoplasy Excess Ratio", ylab="Number of Taxa",xlim=c(0,1),yaxt="n")
 axis(2, at=c(0,20,40,60,80,100,120,140,160,180,200,220),)
 text(0.54,225,"Daza",cex=0.7)
@@ -92,3 +111,28 @@ names(zz)
 png('./r-scripts-and-figures/pairs.png')
 pairs(zz)
 dev.off()
+
+#Using Hadley Wickham's 'plyr' R-package to summarise the data by group
+
+yyy <- ddply(zz, .(Grouping.for.statistical.tests), summarise,
+             size.of.group = length(CI),
+             meanTaxa = mean(Taxa),
+             meanChars = mean(informativechars),
+             meanMPTs = mean(X.mpts),
+             meanCI = mean(CI),
+             meanRI = mean(RI),
+             MEANmeanci = mean(meanci),
+             MEANmeanri = mean(meanri),
+             meanMHER = mean(MHER),
+             meanBootSupport = mean(Average.GC.standard.bootstrap.support, na.rm=TRUE),
+             meanJackknifeSupport = mean(average.jackknife.support, na.rm=TRUE),
+             meanSymResamplingSupport = mean(Average.symmetric.resampling.support, na.rm=TRUE),
+             meanPSI = mean(PSI),
+             meanTSI = mean(TSI))
+            
+yyy
+
+xxx <- yyy$size.of.group > 4
+yyy[xxx,]
+
+write.csv(yyy[xxx,], file = "meansbygroup.csv")
