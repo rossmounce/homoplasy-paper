@@ -1,0 +1,79 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Kellner, A. W. A.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>New information on the Tapejaridae (Pterosauria, Pterodactyloidea) and discussion of the relationships of this clade</Title>
+		<Journal>Ameghiniana</Journal>
+		<Volume>41</Volume>
+		<Pages>521-534</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="45">
+		<List>Ornithosuchus_longidens</List>
+		<List>Herrerasaurus_ischigualastensis</List>
+		<List>Scleromochlus_taylori</List>
+		<List>Anurognathus_ammoni</List>
+		<List>Batrachognathus_volans</List>
+		<List>Dendrorhynchoides_curvidentatus</List>
+		<List>Jeholopterus_ningchengensis</List>
+		<List>Sordes_pilosus</List>
+		<List>Preondactylus_buffarinii</List>
+		<List>Scaphognathus_crassirostris</List>
+		<List>Dorygnathus_banthensis</List>
+		<List>Dimorphodon_macronyx</List>
+		<List>Peteinosaurus_zambellii</List>
+		<List>Eudimorphodon_rosenfeldi</List>
+		<List>Campylognathus_liasicus</List>
+		<List>Eudimorphodon_ranzii</List>
+		<List>Rhamphorhynchus_muensteri</List>
+		<List>Rhamphorhynchus_longicaudus</List>
+		<List>Pterodactylus_kochi</List>
+		<List>Pterodactylus_antiquus</List>
+		<List>Germanodactylus_cristatus</List>
+		<List>Germanodactylus_rhamphastinus</List>
+		<List>Ctenochasma_gracile</List>
+		<List>Pterodaustro_guinazui</List>
+		<List>Gallodactylus_canjuersensis</List>
+		<List>Cycnorhamphus_suevicus</List>
+		<List>Nyctosaurus_gracilis</List>
+		<List>Nyctosaurus_bonneri</List>
+		<List>Pteranodon_longiceps</List>
+		<List>Istiodactylus_latidens</List>
+		<List>Ornithocheirus_compressirostris</List>
+		<List>Tropeognathus_mesembrinus</List>
+		<List>Anhanguera_santanae</List>
+		<List>Anhanguera_blittersdorffi</List>
+		<List>Anhanguera_piscator</List>
+		<List>Dsungaripterus_weii</List>
+		<List>Phobetor_parvus</List>
+		<List>Noripterus_complicidens</List>
+		<List>Tupuxuara_leonardii</List>
+		<List>Thalassodromeus_sethi</List>
+		<List>Tapejara_wellnhoferi</List>
+		<List>Tapejara_imperator</List>
+		<List>Quetzalcoatlus_sp</List>
+		<List>Azhdarco_lancicollis</List>
+		<List>Zhejiangopterus_linhaiensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="80">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Kellner_2004a</Filename>
+	<Parent>Kellner_2003a</Parent>
+	<Sibling/>
+</SourceTree>

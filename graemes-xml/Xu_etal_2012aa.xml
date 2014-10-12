@@ -1,0 +1,142 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Xu, X.</List>
+			<List>Wang, K.-B.</List>
+			<List>Zhang, K.</List>
+			<List>Ma, Q.-Y.</List>
+			<List>Xing, L.</List>
+			<List>Sullivan, C.</List>
+			<List>Hu, D.-Y.</List>
+			<List>Cheng, S.-Q.</List>
+			<List>Wang, S.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>A gigantic feathered dinosaur from the Lower Cretaceous of China</Title>
+		<Journal>Nature</Journal>
+		<Volume>484</Volume>
+		<Pages>92-95</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="100">
+		<List>Eoraptor</List>
+		<List>Herrerasaurus</List>
+		<List>Dilophosaurus</List>
+		<List>Coelophysis</List>
+		<List>Syntarsus</List>
+		<List>Ceratosaurus</List>
+		<List>Abelisaurus</List>
+		<List>Carnotaurus</List>
+		<List>Majungasaurus</List>
+		<List>Masiakasaurus</List>
+		<List>Cryolophosaurus</List>
+		<List>Piatnitzkysaurus</List>
+		<List>Afrovenator</List>
+		<List>Allosaurus</List>
+		<List>Monolophosaurus</List>
+		<List>Neovenator</List>
+		<List>Torvosaurus</List>
+		<List>Sinraptor</List>
+		<List>Coelurus</List>
+		<List>Ornitholestes</List>
+		<List>Haplocheirus_sollers</List>
+		<List>Achillesaurus</List>
+		<List>Alvarezsaurus</List>
+		<List>Patagonykus</List>
+		<List>Albertonykus</List>
+		<List>Mononykus</List>
+		<List>Parvicursor</List>
+		<List>Shuvuuia</List>
+		<List>Falcarius</List>
+		<List>Erlikosaurus</List>
+		<List>Nothronychus</List>
+		<List>Segnosaurus</List>
+		<List>Alxasaurus</List>
+		<List>Beipiaosaurus</List>
+		<List>Incisivosaurus</List>
+		<List>Caudipteryx_zoui</List>
+		<List>Avimimus</List>
+		<List>Chirostenotes</List>
+		<List>Microvenator</List>
+		<List>Citipati</List>
+		<List>Conchoraptor</List>
+		<List>Ingenia</List>
+		<List>Oviraptor_philoceratops</List>
+		<List>Achillobator</List>
+		<List>Adasaurus</List>
+		<List>Buitreraptor</List>
+		<List>Deinonychus</List>
+		<List>Dromaeosaurus</List>
+		<List>Mahakala</List>
+		<List>Microraptor</List>
+		<List>Sinornithosaurus</List>
+		<List>Unenlagia_plus_Neuquenraptor</List>
+		<List>Utahraptor</List>
+		<List>Archeopteryx</List>
+		<List>Rahonavis</List>
+		<List>Saurornitholestes</List>
+		<List>Tsaagan</List>
+		<List>Velociraptor</List>
+		<List>Sinovenator</List>
+		<List>Byronosaurus</List>
+		<List>Sinornithoides</List>
+		<List>Saurornithoides_mongoliensis</List>
+		<List>Troodon</List>
+		<List>EK_troodontid</List>
+		<List>Mei</List>
+		<List>Confuciusornis</List>
+		<List>Jeholornis</List>
+		<List>Epidendrosaurus</List>
+		<List>Epidexipteryx</List>
+		<List>Sapeornis</List>
+		<List>Apsaravis</List>
+		<List>Yixianornis</List>
+		<List>Archaeornithomimus</List>
+		<List>Harpymimus</List>
+		<List>Pelecanimimus</List>
+		<List>Shenzhousaurus</List>
+		<List>Garudimimus</List>
+		<List>Anserimimus</List>
+		<List>Gallimimus</List>
+		<List>Ornithomimus</List>
+		<List>Struthiomimus</List>
+		<List>Dilong</List>
+		<List>Guanlong</List>
+		<List>Y._huali</List>
+		<List>Albertosaurus</List>
+		<List>Daspletosaurus</List>
+		<List>Tyrannosaurus</List>
+		<List>Stokesosaurus_clevelandi</List>
+		<List>Stokesosaurus_langhami</List>
+		<List>Compsognathus</List>
+		<List>Juravenator</List>
+		<List>Huaxiagnathus</List>
+		<List>Sinosauropteryx</List>
+		<List>Acrocanthosaurus</List>
+		<List>Carcharodontosaurus</List>
+		<List>Giganotosaurus</List>
+		<List>Mapusaurus</List>
+		<List>Baryonyx</List>
+		<List>Irritator</List>
+		<List>Suchomimus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="421">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix (first 100,000 mpts only).</Notes>
+	<Filename>Xu_etal_2012aa</Filename>
+	<Parent>Choiniere_etal_2010b</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sumida, S. S.</List>
+			<List>Pelletier, V.</List>
+			<List>Berman, D. S.</List>
+		</Author>
+		<Year>2014</Year>
+		<Title>New information on the basal pelycosaurian-grade synapsid <em>Oedaleops</em></Title>
+		<Journal/>
+		<Volume/>
+		<Pages>7-23</Pages>
+		<Booktitle>Early Evolutionary History of the Synapsida</Booktitle>
+		<Publisher>Springer Science</Publisher>
+		<City>Dordrecht</City>
+		<Editor>
+			<List>Kammerer, C. F.</List>
+			<List>Angielczyk, K. D.</List>
+			<List>Frobisch, J.</List>
+		</Editor>
+	</Source>
+	<Taxa number="14">
+		<List>Reptilia</List>
+		<List>Eothyris</List>
+		<List>Oedaleops</List>
+		<List>Cotylorhynchus</List>
+		<List>Archaeothyris</List>
+		<List>Ophiacodon</List>
+		<List>Mycterosaurus</List>
+		<List>Mesenosaurus</List>
+		<List>Aerosaurus</List>
+		<List>Varanops</List>
+		<List>Varanodon</List>
+		<List>Archaeovenator</List>
+		<List>Watongia</List>
+		<List>Elliotsmithia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="58">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sumida_etal_2014a</Filename>
+	<Parent>Maddin_etal_2006a</Parent>
+	<Sibling/>
+</SourceTree>

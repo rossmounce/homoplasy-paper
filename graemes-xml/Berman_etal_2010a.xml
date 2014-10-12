@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Berman, D. S.</List>
+			<List>Henrici, A. C.</List>
+			<List>Brezinski, D. K.</List>
+			<List>Kollar, A. D.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>A new trematopid amphibian (Temnospondyli: Dissorophoidea) from the Upper Pennsylvanian of western Pennsylvania: earliest record of terrestrial vertebrates responding to a warmer drier climate</Title>
+		<Journal>Annals of Carnegie Museum</Journal>
+		<Volume>78</Volume>
+		<Pages>289-318</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="15">
+		<List>Dendrerpeton</List>
+		<List>Amphibamus</List>
+		<List>Doleserpeton</List>
+		<List>Eoscopus</List>
+		<List>Micropholis</List>
+		<List>Tersomius</List>
+		<List>Anconastes</List>
+		<List>Tambachia</List>
+		<List>Phonerpeton</List>
+		<List>Acheloma</List>
+		<List>Fedexia</List>
+		<List>Ecolsonia</List>
+		<List>Dissorophus</List>
+		<List>Broiliellus</List>
+		<List>Aspidosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="26">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Berman_etal_2010a</Filename>
+	<Parent>Anderson_etal_2008b</Parent>
+	<Sibling/>
+</SourceTree>

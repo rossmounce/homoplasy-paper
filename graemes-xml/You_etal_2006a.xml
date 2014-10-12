@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>You, H.-L.</List>
+			<List>Li, D.-Q.</List>
+			<List>Zhou, L.-Q.</List>
+			<List>Ji, Q.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>Huanghetitan liujiaxiaensis, a new sauropod dinosaur from the Lower Cretaceous Hekou Group of Lanzhou Basin, Gansu Province, China</Title>
+		<Journal>Geological Review</Journal>
+		<Volume>52</Volume>
+		<Pages>668-674</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="30">
+		<List>Prosauropoda</List>
+		<List>Theropoda</List>
+		<List>Vulcanodon</List>
+		<List>Shunosaurus</List>
+		<List>Barapasaurus</List>
+		<List>Patagosaurus</List>
+		<List>Omeisaurus</List>
+		<List>Mamenchisaurus</List>
+		<List>Camarasaurus</List>
+		<List>Haplocanthosaurus</List>
+		<List>Jobaria</List>
+		<List>_Huanghetitan</List>
+		<List>Apatosaurus</List>
+		<List>Barosaurus</List>
+		<List>Diplodocus</List>
+		<List>Dicraeosaurus</List>
+		<List>Amargasaurus</List>
+		<List>Nigersaurus</List>
+		<List>Rayososaurus</List>
+		<List>Rebbachisaurus</List>
+		<List>Brachiosaurus</List>
+		<List>Euhelopus</List>
+		<List>Malawisaurus</List>
+		<List>T.colberti</List>
+		<List>Alamosaurus</List>
+		<List>Opisthocoelicaudia</List>
+		<List>Neuquensaurus</List>
+		<List>Saltasaurus</List>
+		<List>Nemegtosaurus</List>
+		<List>Rapetosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="243">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>You_etal_2006a</Filename>
+	<Parent>Wilson_2002a</Parent>
+	<Sibling/>
+</SourceTree>

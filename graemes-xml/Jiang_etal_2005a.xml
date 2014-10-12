@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Jiang, D.-Y.</List>
+			<List>Hao, W.-C.</List>
+			<List>Maisch, M. W.</List>
+			<List>Matzke, A. T.</List>
+			<List>Sun, Y.-L.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>A basal mixosaurid ichthyosaur from the Middle Triassic of China</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>48</Volume>
+		<Pages>869-882</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="10">
+		<List>Utatsusaurus_hataii</List>
+		<List>Grippia_longirostris</List>
+		<List>Cymbospondylus_petrinus</List>
+		<List>Mikadocephalus_gracilirostris</List>
+		<List>Barracudasaurus_maotaiensis</List>
+		<List>Phalarodon_major</List>
+		<List>Phalarodon_nordenskioeldii</List>
+		<List>Contectopalatus_atavus</List>
+		<List>Mixosaurus_cornalianus</List>
+		<List>Mixosaurus_kuhnschnyderi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="24">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Jiang_etal_2005a</Filename>
+	<Parent>Maisch_et_Matzke_2001a</Parent>
+	<Sibling/>
+</SourceTree>

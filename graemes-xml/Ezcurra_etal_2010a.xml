@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ezcurra, M. D.</List>
+			<List>Agnolin, F. L.</List>
+			<List>Novas, F. E.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>An abelisauroid dinosaur with a non-atrophied manus from the Late Cretaceous Pari Aike Formation of southern Patagonia</Title>
+		<Journal>Zootaxa</Journal>
+		<Volume>2450</Volume>
+		<Pages>1-25</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="20">
+		<List>Coelophysoidea</List>
+		<List>Spinosauroidea</List>
+		<List>Allosaurus</List>
+		<List>Carcharodontosauridae</List>
+		<List>Ceratosaurus</List>
+		<List>Berberosaurus</List>
+		<List>Ligabueino</List>
+		<List>Elaphrosaurus</List>
+		<List>Noasaurus</List>
+		<List>Masiakasaurus</List>
+		<List>Austrocheirus</List>
+		<List>Limusaurus</List>
+		<List>Rugops</List>
+		<List>Abelisaurus</List>
+		<List>Majungasaurus</List>
+		<List>Ilokelesia</List>
+		<List>Skorpiovenator</List>
+		<List>Ekrixinatosaurus</List>
+		<List>Carnotaurus</List>
+		<List>Aucasaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="128">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ezcurra_etal_2010a</Filename>
+	<Parent>Canale_etal_2009a</Parent>
+	<Sibling/>
+</SourceTree>

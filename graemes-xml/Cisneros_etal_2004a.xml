@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Cisneros, J. C.</List>
+			<List>Damiani, R.</List>
+			<List>Schultz, C.</List>
+			<List>da Rosa, A.</List>
+			<List>Schwanke, C.</List>
+			<List>Neto, L. W.</List>
+			<List>Aurelio, P. L. P.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>A procolophonoid reptile with temporal fenestration from the Middle Triassic of Brazil</Title>
+		<Journal>Proceedings of the Royal Society of London B</Journal>
+		<Volume>271</Volume>
+		<Pages>1541-1546</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="9">
+		<List>Nycteroleter</List>
+		<List>O_rubidgei</List>
+		<List>Barasaurus</List>
+		<List>Saurodectes</List>
+		<List>O_kitchingorum</List>
+		<List>Candelaria</List>
+		<List>Coletta</List>
+		<List>Sauropareion</List>
+		<List>Procolophonidae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="21">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Cisneros_etal_2004a</Filename>
+	<Parent>Modesto_etal_2003c</Parent>
+	<Sibling/>
+</SourceTree>

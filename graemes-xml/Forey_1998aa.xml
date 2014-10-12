@@ -1,0 +1,66 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Forey, P. L.</List>
+		</Author>
+		<Year>1998</Year>
+		<Title/>
+		<Journal/>
+		<Volume/>
+		<Pages>1-419</Pages>
+		<Booktitle>History of the Coelacanth Fishes</Booktitle>
+		<Publisher>Chapman &amp; Hall</Publisher>
+		<City>London</City>
+		<Editor/>
+	</Source>
+	<Taxa number="32">
+		<List>Actinopterygians</List>
+		<List>Porolepiforms</List>
+		<List>Diplocercides</List>
+		<List>Rhabdoderma</List>
+		<List>Caridosuctor</List>
+		<List>Hadronector</List>
+		<List>Polyosteorhynchus</List>
+		<List>Allenypterus</List>
+		<List>Lochmocercus</List>
+		<List>Coelacanthus</List>
+		<List>Spermatodus</List>
+		<List>Whiteia</List>
+		<List>Laugia</List>
+		<List>sassenia</List>
+		<List>Axelia</List>
+		<List>Wimania</List>
+		<List>Chinlea</List>
+		<List>Diplurus</List>
+		<List>Holophagus</List>
+		<List>Indocoelacanthus</List>
+		<List>Undina</List>
+		<List>Coccoderma</List>
+		<List>Libys</List>
+		<List>Mawsonia</List>
+		<List>Macropoma</List>
+		<List>Latimeria</List>
+		<List>Miguashaia</List>
+		<List>Axelrodichthys</List>
+		<List>Ticinepomis</List>
+		<List>Lualabea</List>
+		<List>Garnbergia</List>
+		<List>Euporosteus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="108">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Forey_1998aa</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Kirkland, J. I.</List>
+		</Author>
+		<Year>1998</Year>
+		<Title>A polacanthine ankylosaur (Ornithischia: Dinosauria) from the Early Cretaceous (Barremian) of Eastern Utah</Title>
+		<Journal>Bulletin of the New Mexico Museum of Natural History &amp; Science</Journal>
+		<Volume>14</Volume>
+		<Pages>271-281</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="16">
+		<List>Scelidosaurus</List>
+		<List>Minmi</List>
+		<List>Shamosaurus</List>
+		<List>Mymoorapelta</List>
+		<List>Polacanthus</List>
+		<List>Gastonia</List>
+		<List>Pawpawsaurus</List>
+		<List>Sauropelta</List>
+		<List>Edmontonia</List>
+		<List>Panoplosaurus</List>
+		<List>Tsagantegia</List>
+		<List>Pinacosaurus</List>
+		<List>Euoplocephalus</List>
+		<List>Ankylosaurus</List>
+		<List>Saichania</List>
+		<List>Tarchia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="46">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Kirkland_1998b</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

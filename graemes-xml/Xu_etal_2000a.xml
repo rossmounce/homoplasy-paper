@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Xu, X.</List>
+			<List>Zhou, Z.-H.</List>
+			<List>Wang, X.-L.</List>
+		</Author>
+		<Year>2000</Year>
+		<Title>The smallest known non-avian theropod dinosaur</Title>
+		<Journal>Nature</Journal>
+		<Volume>408</Volume>
+		<Pages>705-708</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="13">
+		<List>Allosaurus</List>
+		<List>Compsognathus</List>
+		<List>Ornithomimidae</List>
+		<List>Oviraptoridae</List>
+		<List>Caudipteryx</List>
+		<List>Protarchaeopteryx</List>
+		<List>Troodontidae</List>
+		<List>Archaeopteryx</List>
+		<List>Rahonavis</List>
+		<List>Microraptor</List>
+		<List>Velociraptorinae</List>
+		<List>Dromaeosaurus</List>
+		<List>Sinornithosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="89">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Xu_etal_2000a</Filename>
+	<Parent>Xu_etal_1999a</Parent>
+	<Sibling/>
+</SourceTree>

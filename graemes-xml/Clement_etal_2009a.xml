@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Clement, G.</List>
+			<List>Snitting, D.</List>
+			<List>Ahlberg, P. E.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>A new tristichopterid (Sarcopterygii, Tetrapodomorpha) from the upper Famennian Evieux Formation (Upper Devonian) of Belgium</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>52</Volume>
+		<Pages>823-836</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List>Gogonasus</List>
+		<List>Medoevia</List>
+		<List>Cabonnichthys</List>
+		<List>Eusthenodon</List>
+		<List>Eusthenopteron</List>
+		<List>Jarvikina</List>
+		<List>Langlieria</List>
+		<List>Mandageria</List>
+		<List>Notorhizodon</List>
+		<List>Platycephalichthys</List>
+		<List>Tristichopterus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="22">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Clement_etal_2009a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

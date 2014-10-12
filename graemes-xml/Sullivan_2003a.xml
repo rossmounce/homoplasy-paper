@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sullivan, R. M.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>Revision of the dinosaur <em>Stegoceras</em> Lambe (Ornithischia, Pachycephalosauridae)</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>23</Volume>
+		<Pages>181-207</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="16">
+		<List>ORNITHOPODA</List>
+		<List>CERATOPSIDAE</List>
+		<List>Stenopelix</List>
+		<List>Wannanosaurus</List>
+		<List>Goyocephale</List>
+		<List>Homalocephale</List>
+		<List>Stegoceras</List>
+		<List>Tylocephale</List>
+		<List>Prenocephale_prenes</List>
+		<List>Prenocephale_goodwini</List>
+		<List>Prenocephale_brevis</List>
+		<List>Prenocephale_edmontonensis</List>
+		<List>Colepiocephale</List>
+		<List>Hanssuesia</List>
+		<List>Stygimoloch</List>
+		<List>Pachycephalosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="49">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sullivan_2003a</Filename>
+	<Parent>Sereno_2000aa</Parent>
+	<Sibling/>
+</SourceTree>

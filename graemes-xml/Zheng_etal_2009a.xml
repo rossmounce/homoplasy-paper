@@ -1,0 +1,84 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Zheng, X.-T.</List>
+			<List>You, H.-L.</List>
+			<List>Xu, X.</List>
+			<List>Dong, Z.-M.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>An Early Cretaceous heterodontosaurid dinosaur with filamentous integumentary structures</Title>
+		<Journal>Nature</Journal>
+		<Volume>458</Volume>
+		<Pages>333-336</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="47">
+		<List>Euparkeria</List>
+		<List>Marasuchus</List>
+		<List>Herrerasaurus</List>
+		<List>Abrictosaurus</List>
+		<List>BMNH_A100</List>
+		<List>Echinodon</List>
+		<List>Heterodontosaurus</List>
+		<List>Lycorhinus</List>
+		<List>Pisanosaurus</List>
+		<List>Tianyulong_confuciusi</List>
+		<List>Stormbergia</List>
+		<List>Agilisaurus</List>
+		<List>Hexinlusaurus</List>
+		<List>Anabisetia</List>
+		<List>Bugenasaura</List>
+		<List>Hypsilophodon</List>
+		<List>Jeholosaurus</List>
+		<List>Orodromeus</List>
+		<List>Othnielia</List>
+		<List>Talenkauen</List>
+		<List>Thescelosaurus</List>
+		<List>Yandusaurus</List>
+		<List>Zephyrosaurus</List>
+		<List>Rhabdodontidae</List>
+		<List>Ankylopollexia</List>
+		<List>Dryosauridae</List>
+		<List>Tenontosaurus_dossi</List>
+		<List>Tenontosaurus_tilletti</List>
+		<List>Chaoyangsaurus</List>
+		<List>Micropachycephalosaurus</List>
+		<List>Psittacosauridae</List>
+		<List>Liaoceratops</List>
+		<List>Archaeoceratops</List>
+		<List>Coronosauria_plus_Leptoceratopsidae</List>
+		<List>Stenopelix</List>
+		<List>Wannanosaurus</List>
+		<List>Goyocephale</List>
+		<List>Homalocephale</List>
+		<List>Pachycephalosauridae</List>
+		<List>Gasparinisaura</List>
+		<List>Parksosaurus</List>
+		<List>Lesothosaurus</List>
+		<List>Scutellosaurus</List>
+		<List>Emausaurus</List>
+		<List>Scelidosaurus</List>
+		<List>Ankylosauria</List>
+		<List>Stegosauria</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="221">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Zheng_etal_2009a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

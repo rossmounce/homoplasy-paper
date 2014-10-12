@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Norman, D. B.</List>
+			<List>Sues, H.-D.</List>
+			<List>Witmer, L. M.</List>
+			<List>Coria, R. A.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>Basal Ornithopoda</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>393-412</Pages>
+		<Booktitle>The Dinosauria (Second Edition)</Booktitle>
+		<Publisher>University of California Press</Publisher>
+		<City>Berkeley</City>
+		<Editor>
+			<List>Weishampel, D. B.</List>
+			<List>Dodson, P.</List>
+			<List>Osmolska, H.</List>
+		</Editor>
+	</Source>
+	<Taxa number="12">
+		<List>Outgroup</List>
+		<List>Marginocephalia</List>
+		<List>H._tucki</List>
+		<List>A._louderbacki</List>
+		<List>A._multidens</List>
+		<List>O._rex</List>
+		<List>H._foxii</List>
+		<List>Z._schaffi</List>
+		<List>O._makelai</List>
+		<List>G._cincosaltensis</List>
+		<List>T._neglectus</List>
+		<List>P._warreni</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="54">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Norman_etal_2004a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

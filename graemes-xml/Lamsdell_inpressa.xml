@@ -1,0 +1,71 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lamsdell, J. C.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>Revised systematics of Palaeozoic 'horseshoe crabs' and the myth of monophyletic Xiphosura</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="37">
+		<List>Fuxianhuia_protensa</List>
+		<List>Leanchoilia_illecebrosa</List>
+		<List>Alalcomenaeus_cambricus</List>
+		<List>Yohoia_tenuis</List>
+		<List>Emeraldella_brocki</List>
+		<List>Sydneyia_inexpectans</List>
+		<List>Olenoides_serratus</List>
+		<List>Pycnogonum_litorale</List>
+		<List>Haliestes_dasos</List>
+		<List>Palaeoisopus_problematicus</List>
+		<List>Offacolus_kingi</List>
+		<List>Weinbergina_opitzi</List>
+		<List>Camanchia_grovensis</List>
+		<List>Venustulus_waukeshaensis</List>
+		<List>Willwerathia_laticeps</List>
+		<List>Lunataspis_aurora</List>
+		<List>Limulus_polyphemus</List>
+		<List>Paleolimulus_signatus</List>
+		<List>Stoermeropterus_conicus</List>
+		<List>Eurypterus_tetragonophthalmus</List>
+		<List>Rhenopterus_diensti</List>
+		<List>Parastylonurus_ornatus</List>
+		<List>Chasmataspis_laurencii</List>
+		<List>Octoberaspis_ushakovi</List>
+		<List>Centruroides_vittatus</List>
+		<List>Palaeophonus_nuncius</List>
+		<List>Mastigoproctus_giganteus</List>
+		<List>Galeodes_armeniacus</List>
+		<List>Euproops_anthrax</List>
+		<List>Legrandella_lombardi</List>
+		<List>Bembicosoma_pomphicus</List>
+		<List>Bunodes_lunula</List>
+		<List>Limuloides_limuloides</List>
+		<List>Pasternakevia_podolica</List>
+		<List>Cyamocephalus_loganensis</List>
+		<List>Pseudoniscus_roosevelti</List>
+		<List>Kasibelinurus_amoricum</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="114">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lamsdell_inpressa</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

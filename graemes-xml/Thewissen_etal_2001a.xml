@@ -1,0 +1,66 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Thewissen, J. G. M.</List>
+			<List>Williams, E. M.</List>
+			<List>Roe, L. J.</List>
+			<List>Hussain, S. T.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>Skeletons of terrestrial cetaceans and the relationship of whales to artiodactyls</Title>
+		<Journal>Nature</Journal>
+		<Volume>413</Volume>
+		<Pages>277-281</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="29">
+		<List>Arctocyon</List>
+		<List>Hyopsodus</List>
+		<List>Phenacodus</List>
+		<List>Meniscotherium</List>
+		<List>Andrewsarchus</List>
+		<List>Eoconodon</List>
+		<List>Hapalodectes</List>
+		<List>Dissacus</List>
+		<List>Ankalagon</List>
+		<List>Sinonyx</List>
+		<List>Pachyaena</List>
+		<List>Mesonyx</List>
+		<List>Synoplotherium</List>
+		<List>Harpagolestes</List>
+		<List>Pakicetus</List>
+		<List>Ambulocetus</List>
+		<List>D_pakistanensis</List>
+		<List>D_secans</List>
+		<List>Archaeotherium</List>
+		<List>Elomeryx</List>
+		<List>Hippopotamus</List>
+		<List>Hexaprotodon</List>
+		<List>Sus</List>
+		<List>Agriochoerus</List>
+		<List>Poebrotherium</List>
+		<List>Tragulus</List>
+		<List>Haplobunodontid</List>
+		<List>Cebochoerid</List>
+		<List>Raoellid</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="105">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Thewissen_etal_2001a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

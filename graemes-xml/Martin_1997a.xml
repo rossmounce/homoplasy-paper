@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Martin L.</List>
+		</Author>
+		<Year>1997</Year>
+		<Title>The difference between dinosaurs and birds as applied to Mononykus</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>337-343</Pages>
+		<Booktitle>Dinofest International: Proceedings of a symposium held at Arizona State University</Booktitle>
+		<Publisher>Philadelphia Academy of Natural Sciences</Publisher>
+		<City>Phoenix</City>
+		<Editor>
+			<List>Wolberg, D. L.,</List>
+			<List>Stump, E.</List>
+			<List>Rosenberg, G.</List>
+		</Editor>
+	</Source>
+	<Taxa number="10">
+		<List>Outgroup</List>
+		<List>Archaeopteryx</List>
+		<List>Ichthyornis</List>
+		<List>Troodontids</List>
+		<List>Oviraptor</List>
+		<List>Ornithomimus</List>
+		<List>Struthiomimus</List>
+		<List>Mononykus</List>
+		<List>Deinonychus</List>
+		<List>Tyrannosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="42">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Martin_1997a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

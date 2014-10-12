@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Longrich, N. R.</List>
+			<List>Currie, P. J.</List>
+			<List>Dong, Z.-M.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>A new oviraptorid (Dinosauria: Theropoda) from the Upper Cretaceous of Bayan Mandahu, Inner Mongolia</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>53</Volume>
+		<Pages>945-960</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="17">
+		<List>Herrerasaurus_ischigualastensis</List>
+		<List>Velociraptor_mongoliensis</List>
+		<List>Archaeopteryx_lithographica</List>
+		<List>Caudipteryx_zoui</List>
+		<List>Avimimus_portentosus</List>
+		<List>Chirostenotes_pergracilis</List>
+		<List>Gigantoraptor_erlianensis</List>
+		<List>Oviraptor_philoceratops</List>
+		<List>Rinchenia_mongoliensis</List>
+		<List>Zamyn_Khondt_oviraptorid</List>
+		<List>Citipati_osmolskae</List>
+		<List>Khaan_mckennai</List>
+		<List>Conchoraptor_gracilis</List>
+		<List>Ingenia_yanshini</List>
+		<List>Machairasaurus_leptonychus</List>
+		<List>Heyuannia_huangi</List>
+		<List>Nemegtomaia_barsboldi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="181">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Longrich_etal_2010b</Filename>
+	<Parent>Osmolska_etal_2004a</Parent>
+	<Sibling/>
+</SourceTree>

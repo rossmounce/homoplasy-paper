@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Nesbitt, S. J.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title><em>Arizonasaurus</em> and its implications for archosaur divergence</Title>
+		<Journal>Proceedings of the Royal Society of London B</Journal>
+		<Volume>270</Volume>
+		<Pages>S234-S237</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="9">
+		<List>Euparkeria</List>
+		<List>Chatterjeea</List>
+		<List>Postosuchus</List>
+		<List>Saurosuchus</List>
+		<List>Arizonasaurus</List>
+		<List>Aetosaurs</List>
+		<List>crocodyliform</List>
+		<List>Poposaurus</List>
+		<List>Marasuchus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="24">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Nesbitt_2003a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

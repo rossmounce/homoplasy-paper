@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Gallina, P. A.</List>
+			<List>Apesteguia, S.</List>
+			<List>Haluza, A.</List>
+			<List>Canale, J. I.</List>
+		</Author>
+		<Year>2014</Year>
+		<Title>A diplodocid sauropod survivor from the Early Cretaceous of South America</Title>
+		<Journal>PLOS ONE</Journal>
+		<Volume>9</Volume>
+		<Pages>e97128</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="28">
+		<List>Shunosaurus</List>
+		<List>Omeisaurus</List>
+		<List>Jobaria</List>
+		<List>Camarasaurus</List>
+		<List>Brachiosaurus</List>
+		<List>Australodocus</List>
+		<List>Haplocanthosaurus</List>
+		<List>Amphicoelias</List>
+		<List>Losillasaurus</List>
+		<List>Dinheirosaurus</List>
+		<List>Amazonsaurus</List>
+		<List>Apatosaurus</List>
+		<List>Barosaurus</List>
+		<List>Diplodocus</List>
+		<List>Supersaurus</List>
+		<List>Tornieria</List>
+		<List>Amargasaurus</List>
+		<List>Brachytrachelopan</List>
+		<List>Dicraeosaurus</List>
+		<List>Suuwassea</List>
+		<List>Histriasaurus</List>
+		<List>Rebbachisaurus</List>
+		<List>Limaysaurus</List>
+		<List>Cathartesaura</List>
+		<List>Zapalasaurus</List>
+		<List>Nigersaurus</List>
+		<List>Demandasaurus</List>
+		<List>Leinkupal</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="200">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Gallina_etal_2014aa</Filename>
+	<Parent>Mannion_etal_2012aa</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Grossmann, F.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>The taxonomic and phylogenetic position of the Plesiosauroidea from the Lower Jurassic Posidonia Shale of South-West Germany</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>50</Volume>
+		<Pages>545-564</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="13">
+		<List>Pistosaurus</List>
+		<List>Thalassiodracon</List>
+		<List>Plesiosaurus</List>
+		<List>Cryptoclidus</List>
+		<List>Kimmerosaurus</List>
+		<List>SMNS_16812</List>
+		<List>Seeleyosaurus</List>
+		<List>Muraenosaurus</List>
+		<List>Occitanosaurus</List>
+		<List>Hydrorion</List>
+		<List>Microcleidus</List>
+		<List>Brancasaurus</List>
+		<List>Libonectes</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="33">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Grossmann_2007a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

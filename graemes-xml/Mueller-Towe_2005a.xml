@@ -1,0 +1,64 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Mueller-Towe, I. J.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>Phylogenetic relationships of the Thalattosuchia</Title>
+		<Journal>Zitteliana</Journal>
+		<Volume>A45</Volume>
+		<Pages>211-213</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="30">
+		<List>ANCESTOR</List>
+		<List>Geosaurus_vignaudi</List>
+		<List>Geosaurus_giganteus</List>
+		<List>Geosaurus_gracilis</List>
+		<List>Geosaurus_suevicus</List>
+		<List>Machimosaurus_hugii</List>
+		<List>Metriorhynchus_hastifer</List>
+		<List>Metriorhynchus_leedsi</List>
+		<List>Metriorhynchus_superciliosus</List>
+		<List>Pelagosaurus_typus</List>
+		<List>Platysuchus_multiscrobiculatus</List>
+		<List>Steneosaurus_bollensis</List>
+		<List>Steneosaurus_boutilieri</List>
+		<List>Steneosaurus_brevior</List>
+		<List>Steneosaurus_edwardsi</List>
+		<List>Steneosaurus_gracilirostris</List>
+		<List>Steneosaurus_heberti</List>
+		<List>Steneosaurus_leedsi</List>
+		<List>Steneosaurus_baroni</List>
+		<List>Steneosaurus_priscus</List>
+		<List>Steneosaurus_megarhinus</List>
+		<List>Steneosaurus_pictaviensis</List>
+		<List>Teleidosaurus_calvadosi</List>
+		<List>Teleidosaurus_gaudryi</List>
+		<List>Teleosaurus_cadomensis</List>
+		<List>Dakosaurus_maximus</List>
+		<List>Gracilisuchus</List>
+		<List>Protosuchus</List>
+		<List>Dyrosaurus</List>
+		<List>Pholidosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="189">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Mueller-Towe_2005a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

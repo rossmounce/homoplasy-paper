@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Clement, A. M.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>A new species of long-snouted lungfish from the Late Devonian of Australia, and its functional and biogeographical implications</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>55</Volume>
+		<Pages>51-71</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="20">
+		<List>Youngolepis_praecursor</List>
+		<List>Diabolepis_speratus</List>
+		<List>Chirodipterus_australis</List>
+		<List>Chirodipterus_liangchengi</List>
+		<List>Chirodipterus_wildungensis</List>
+		<List>Dipnorhynchus_kurikae</List>
+		<List>Dipnorhynchus_sussmilchi</List>
+		<List>Dipterus_valenciennesi</List>
+		<List>Gogodipterus_paddyensis</List>
+		<List>Griphognathus_minutidens</List>
+		<List>Griphognathus_whitei</List>
+		<List>Holodipterus_gogoensis</List>
+		<List>Melanognathus_canadensis</List>
+		<List>Orlovichthys_limnatis</List>
+		<List>Pillararhynchus_longi</List>
+		<List>Rhinodipterus_kimberleyensis</List>
+		<List>Soederberghia_groenlandica</List>
+		<List>Sorbitorhynchus_deleaskitus</List>
+		<List>Stomiahykus_thalodus</List>
+		<List>Uranolophus_wyomingensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="70">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Clement_2012a</Filename>
+	<Parent>Friedman_2007a</Parent>
+	<Sibling/>
+</SourceTree>

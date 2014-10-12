@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Weishampel, D. B.</List>
+			<List>Jianu, C.-M.</List>
+			<List>Csiki, Z.</List>
+			<List>Norman, D. B.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>Osteology and phylogeny of Zalmoxes (n. g.), an unusual euornithopod dinosaur from the latest Cretaceous of Romania</Title>
+		<Journal>Journal of Systematic Palaeontology</Journal>
+		<Volume>1</Volume>
+		<Pages>65-123</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="18">
+		<List>Ancestor</List>
+		<List>Marginocephalia</List>
+		<List>Heterodontosauridae</List>
+		<List>A.multidens</List>
+		<List>Hypsilophodon_foxii</List>
+		<List>Gasparinisaurus_cincosaltensis</List>
+		<List>Thescelosaurus_neglectus</List>
+		<List>Parksosaurus_warreni</List>
+		<List>Tenontosaurus_tilletti</List>
+		<List>Tenontosaurus_dossi</List>
+		<List>Dryosaurus_altus</List>
+		<List>Dryosaurus_lettowvorbeckii</List>
+		<List>Camptosaurus_dispar</List>
+		<List>Iguanodon_atherfieldensis</List>
+		<List>Iguanodon_bernissartensis</List>
+		<List>Rhabdodon_priscus</List>
+		<List>Zalmoxes_robustus</List>
+		<List>Zalmoxes_shqiperorum</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="75">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Weishampel_etal_2003a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

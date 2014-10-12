@@ -1,0 +1,106 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Gatesy, J.</List>
+			<List>Amato, G.</List>
+			<List>Norell, M. A.</List>
+			<List>DeSalle, R.</List>
+			<List>Hayashi, C.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>Combined support for wholesale taxic atavism in gavialine crocodylians</Title>
+		<Journal>Systematic Biology</Journal>
+		<Volume>52</Volume>
+		<Pages>403-422</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="68">
+		<List>Dromaeus_Struthio</List>
+		<List>Caiman_yacare</List>
+		<List>Caiman_latirostris</List>
+		<List>Melanosuchus_niger</List>
+		<List>Paleosuchus_palpebrosus</List>
+		<List>Paleosuchus_trigonatus</List>
+		<List>Alligator_mississippiensis</List>
+		<List>Alligator_sinensis</List>
+		<List>Crocodylus_rhombifer</List>
+		<List>Crocodylus_intermedius</List>
+		<List>Crocodylus_cataphractus</List>
+		<List>Osteolaemus_tetraspis</List>
+		<List>Gavialis_gangeticus</List>
+		<List>Tomistoma_schlegelii</List>
+		<List>Glen_Rose_Form</List>
+		<List>Bernissartia_fagesii</List>
+		<List>Hylaeochampsa_vectiana</List>
+		<List>Borealosuchus_formidabilis</List>
+		<List>Borealosuchus_wilsoni</List>
+		<List>Borealosuchus_acutidentatus</List>
+		<List>Borealosuchus_sternbergii</List>
+		<List>Leidyosuchus_canadensis</List>
+		<List>Thoracosaurus_scanicus</List>
+		<List>Eogavialis_africanus</List>
+		<List>Gryposuchus_colombianus</List>
+		<List>Gavialis_lewisi</List>
+		<List>Pristichampsus_vorax</List>
+		<List>Diplocynodon_hantoniensis</List>
+		<List>Diplocynodon_ratelii</List>
+		<List>Diplocynodon_darwini</List>
+		<List>Baryphracta_deponiae</List>
+		<List>Stangerochampsa_mccabei</List>
+		<List>Brachychampsa_montana</List>
+		<List>Brachychampsa_sealyi</List>
+		<List>Alligator_mefferdi</List>
+		<List>Alligator_olseni</List>
+		<List>Alligator_mcgrewi</List>
+		<List>Alligator_prenasalis</List>
+		<List>Ceratosuchus_burdoshi</List>
+		<List>Hassiacosuchus_haupti</List>
+		<List>Allognathosuchus_polyodon</List>
+		<List>Allognathosuchus_wartheni</List>
+		<List>Allognathosuchus_mooki</List>
+		<List>Wannaganosuchus_brachymanus</List>
+		<List>Procaimanoidea_kayi</List>
+		<List>Arambourgia_gaudryi</List>
+		<List>Eocaiman_cavernensis</List>
+		<List>Purussaurus_neivensis</List>
+		<List>Orthogenysuchus_olseni</List>
+		<List>Mourasuchus_atopus</List>
+		<List>Caiman_lutescens</List>
+		<List>Melanosuchus_fisheri</List>
+		<List>Crocodylus_robustus</List>
+		<List>Crocodylus_lloidi</List>
+		<List>Crocodylus_megarhinus</List>
+		<List>Euthecodon_arambourgii</List>
+		<List>Tomistoma_lusitanica</List>
+		<List>Gavialosuchus_americanus</List>
+		<List>Gavialosuchus_eggenbergensis</List>
+		<List>Tomistoma_cairense</List>
+		<List>Dollosuchus_spenceri</List>
+		<List>Brachyuranochampsa_eversolei</List>
+		<List>Dormaal_crocodyloid</List>
+		<List>Crocodylus_acer</List>
+		<List>Crocodylus_affinis</List>
+		<List>Asiatosuchus_germanicus</List>
+		<List>Prodiplocynodon_langi</List>
+		<List>Australosuchus_clarkae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="166">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Gatesy_etal_2003a</Filename>
+	<Parent>Brochu_1997ab</Parent>
+	<Sibling/>
+</SourceTree>

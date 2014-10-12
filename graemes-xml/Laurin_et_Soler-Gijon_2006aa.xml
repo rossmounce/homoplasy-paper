@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Laurin, M.</List>
+			<List>Soler-Gijon, R.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>The oldest known stegocephalian (Sarcopterygii: Temnospondyli) from Spain</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>26</Volume>
+		<Pages>284-299</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List>Baphetidae</List>
+		<List>Colosteidae</List>
+		<List>Cochleosaurus</List>
+		<List>Chenoprosopus</List>
+		<List>Edops</List>
+		<List>Dendrerpeton</List>
+		<List>Balanerpeton</List>
+		<List>Trimerorhachis</List>
+		<List>Capetus</List>
+		<List>Sclerocephalus</List>
+		<List>Eryops</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="13">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Laurin_et_Soler-Gijon_2006aa</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

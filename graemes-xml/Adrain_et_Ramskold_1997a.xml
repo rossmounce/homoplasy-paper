@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>		
+		<Author>
+			<List>Adrain, J. M.</List>
+			<List>Ramskold, L.</List>
+		</Author>
+		<Year>1997</Year>
+		<Title>Silurian Odontopleurinae (Trilobita) from the Cape Phillips Formation, Arctic Canada</Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>71</Volume>
+		<Pages>237-261</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="10">
+		<List>Outgroup</List>
+		<List>E_beni</List>
+		<List>E_belli</List>
+		<List>E_besti</List>
+		<List>E_boltoni</List>
+		<List>E_jahansi</List>
+		<List>E_johansonae</List>
+		<List>E_longstaffei</List>
+		<List>E_soehni</List>
+		<List>E_ulrichi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="17">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Adrain_et_Ramskold_1997a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

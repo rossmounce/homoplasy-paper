@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Kurochkin, E. N.</List>
+			<List>Chatterjee, S.</List>
+			<List>Mikhailov, K. E.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>An embryonic enantiornithine bird and associated eggs from the Cretaceous of Mongolia</Title>
+		<Journal>Paleontological Journal</Journal>
+		<Volume>47</Volume>
+		<Pages>1252-1269</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="26">
+		<List>Dromaeosauridae</List>
+		<List>Anas</List>
+		<List>Chauna</List>
+		<List>Gallus</List>
+		<List>Crax</List>
+		<List>Crypturellus</List>
+		<List>Lithornis</List>
+		<List>Ichthyornis</List>
+		<List>Hesperornis</List>
+		<List>Baptornis</List>
+		<List>Patagopteryx</List>
+		<List>Cathayornis</List>
+		<List>Concornis</List>
+		<List>Neuquenornis</List>
+		<List>Gobipteryx</List>
+		<List>Apsaravis</List>
+		<List>Yanornis</List>
+		<List>Yixianornis</List>
+		<List>Hongshanornis</List>
+		<List>Archaeorhychus</List>
+		<List>Liaoningornis</List>
+		<List>Confuciusornis</List>
+		<List>Sapeornis</List>
+		<List>Jeholornis</List>
+		<List>Archaeopteryx</List>
+		<List>Gobipipus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="202">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Kurochkin_etal_2013a</Filename>
+	<Parent>Zhou_et_Zhang_2006a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Hungerbuhler, A.</List>
+		</Author>
+		<Year>2002</Year>
+		<Title>The Late Triassic phytosaur Mystriosuchus westphali, with a revision of the genus</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>45</Volume>
+		<Pages>377-418</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List>Euparkeria_capensis</List>
+		<List>Ebrachosuchus_neukami</List>
+		<List>Nicrosaurus_kapffi</List>
+		<List>Nicrosaurus_meyeri</List>
+		<List>Pseudopalatus_pristinus</List>
+		<List>Pseudopalatus_buceros</List>
+		<List>Pseudopalatus_mccauleyi</List>
+		<List>Redondasaurus_gregorii</List>
+		<List>Redondasaurus_bermani</List>
+		<List>Mystriosuchus_planirostris</List>
+		<List>Mystriosuchus_westphali</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="47">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Hungerbuhler_2002a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

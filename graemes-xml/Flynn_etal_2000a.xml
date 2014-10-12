@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Flynn, J. J.</List>
+			<List>Parrish, J. M.</List>
+			<List>Rakotosamimanana, B.</List>
+			<List>Ranivoharimanana, L.</List>
+			<List>Simpson, W. F.</List>
+			<List>Wyss, A. R.</List>
+		</Author>
+		<Year>2000</Year>
+		<Title>New traversodontids (Synapsida: Eucynodontia) from the Triassic of Madagascar</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>20</Volume>
+		<Pages>422-427</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="6">
+		<List>Luangwa</List>
+		<List>Exaeretodon</List>
+		<List>Massetognathus</List>
+		<List>Scalenodontoides</List>
+		<List>Menadon</List>
+		<List>Gomphodontosuchus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="16">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Flynn_etal_2000a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

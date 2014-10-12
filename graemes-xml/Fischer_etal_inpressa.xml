@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Fischer, V.</List>
+			<List>Arkhangelsky, M. S.</List>
+			<List>Uspensky, G. N.</List>
+			<List>Stenshin, I. M.</List>
+			<List>Godefroit, P.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>A new Lower Cretaceous ichthyosaur from Russia reveals skull shape conservatism within Ophthalmosaurinae</Title>
+		<Journal>Geological Magazine</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="18">
+		<List>Temnodontosaurus</List>
+		<List>Ichthyosaurus_communis</List>
+		<List>Stenopterygius_quadriscissus</List>
+		<List>Ophthalmosaurus_icenicus</List>
+		<List>Ophthalmosaurus_natans</List>
+		<List>Chacaicosaurus_cayi</List>
+		<List>Brachypterygius_extremus</List>
+		<List>Arthropterygius_chrisorum</List>
+		<List>Mollesaurus_perialus</List>
+		<List>Caypullisaurus_bonpartei</List>
+		<List>Aegirosaurus_leptospondylus</List>
+		<List>Platypterygius_australis</List>
+		<List>Platypterygius_hercynicus</List>
+		<List>Maiaspondylus_lindoei</List>
+		<List>Athabascasaurus_bitumineus</List>
+		<List>Sveltonectes_insolitus</List>
+		<List>Acamptonectes_densus</List>
+		<List>Leninia_stellans</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="52">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Fischer_etal_inpressa</Filename>
+	<Parent>Fischer_etal_2012a</Parent>
+	<Sibling/>
+</SourceTree>

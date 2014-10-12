@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Basden, A. M.</List>
+			<List>Young, G. C.</List>
+			<List>Coates, M. I.</List>
+			<List>Ritchie, A.</List>
+		</Author>
+		<Year>2000</Year>
+		<Title>The most primitive osteichthyan braincase?</Title>
+		<Journal>Nature</Journal>
+		<Volume>403</Volume>
+		<Pages>185-188</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="9">
+		<List>Norselaspis</List>
+		<List>Placoderms</List>
+		<List>Chondrichthyans</List>
+		<List>Acanthodes</List>
+		<List>Mimia</List>
+		<List>Moythomasia</List>
+		<List>Ligulalepis</List>
+		<List>Psarolepis</List>
+		<List>Sarcopterygians</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="13">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Basden_etal_2000a</Filename>
+	<Parent>Zhu_etal_1999aa</Parent>
+	<Sibling/>
+</SourceTree>

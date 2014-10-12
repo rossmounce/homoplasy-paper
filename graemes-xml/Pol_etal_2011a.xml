@@ -1,0 +1,86 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Pol, D.</List>
+			<List>Garrido, A.</List>
+			<List>Cerda, I. A.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>A new sauropodomorph dinosaur from the Early Jurassic of Patagonia and the origin and evolution of the sauropod-type Sacrum</Title>
+		<Journal>PLoS One</Journal>
+		<Volume>6</Volume>
+		<Pages>1-24</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="50">
+		<List>Lagerpeton_chanarensis</List>
+		<List>Marasuchus_lilloensis</List>
+		<List>Pseudolagosuchus_major</List>
+		<List>Silesaurus_opolensis</List>
+		<List>Azendhosaurus_madagascar</List>
+		<List>Azendhosaurus_laroussi</List>
+		<List>Pisanosaurus_mertii</List>
+		<List>Heterodontosaurus_tucki</List>
+		<List>Lesothosaurus</List>
+		<List>Eoraptor_lunensis</List>
+		<List>Herrerasaurus_ischigualas</List>
+		<List>Guaibasaurus_candelariens</List>
+		<List>Coelophysis_bauri</List>
+		<List>Liliensternus_lilienstern</List>
+		<List>Elaphrosaurus_bambergi</List>
+		<List>Saturnalia_tupiniquim</List>
+		<List>Pantydraco_caducus</List>
+		<List>Thecodontosaurus_antiquus</List>
+		<List>Efraasia_minor</List>
+		<List>Ruehleia_bedheimensis</List>
+		<List>Plateosaurus_engelhardti</List>
+		<List>Plateosaurus_gracilis</List>
+		<List>Riojasaurus_incertus</List>
+		<List>Anchisaurus_polyzelus</List>
+		<List>Aardonyx_celestae</List>
+		<List>Leonerasaurus_taquetrensis</List>
+		<List>Jingshanosaurus_xinwaensis</List>
+		<List>Camelotia_borealis</List>
+		<List>Melanorosaurus_readi</List>
+		<List>Antetonitrus_ingenipes</List>
+		<List>Lessemsaurus_sauropoides</List>
+		<List>Blikanasaurus_cromptoni</List>
+		<List>Massospondylus_carinatus</List>
+		<List>Coloradisaurus_brevis</List>
+		<List>Lufengosaurus_huenei</List>
+		<List>Gyposaurus_sinensis</List>
+		<List>Yunnanosaurus_huangi</List>
+		<List>Vulcanodon_karibaensis</List>
+		<List>Kotasaurus_yamanpalliensi</List>
+		<List>Shunosaurus_lii</List>
+		<List>Isanosaurus_attavipachi</List>
+		<List>Barapasaurus_tagorei</List>
+		<List>Omeisaurus_maoianus</List>
+		<List>Lapparentosaurus_madagasc</List>
+		<List>Volkheimeria_chubutiensis</List>
+		<List>Patagosaurus_fariasi</List>
+		<List>Ferganasaurus_verzilini</List>
+		<List>Diplodocus</List>
+		<List>Camarasaurus</List>
+		<List>Brachiosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="277">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Pol_etal_2011a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

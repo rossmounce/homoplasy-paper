@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Rieppel, O.</List>
+		</Author>
+		<Year>1998</Year>
+		<Title>The status of the sauropterygian reptile genera <em>Ceresiosaurus</em>, <em>Lariosaurus</em>, and <em>Silvestrosaurus</em> from the Middle Triassic of Europe</Title>
+		<Journal>Fieldiana: Geology, New Series</Journal>
+		<Volume>38</Volume>
+		<Pages>1-46</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="28">
+		<List>Ancestor</List>
+		<List>Captorhinidae</List>
+		<List>Testudines</List>
+		<List>Araeoscelidla</List>
+		<List>Younginiformes</List>
+		<List>Kuehneosauridae</List>
+		<List>Rhynchocephalia</List>
+		<List>Squamata</List>
+		<List>Rhynchosauria</List>
+		<List>Prolacertiformes</List>
+		<List>Trilophosaurus</List>
+		<List>Choristodera</List>
+		<List>Archosauriformes</List>
+		<List>Claudiosaurus</List>
+		<List>Dactylosaurus</List>
+		<List>Serpiano_dash_Neustico</List>
+		<List>Simosaurus</List>
+		<List>Nothosaurus</List>
+		<List>Ceresiosaurus</List>
+		<List>L_balsami</List>
+		<List>L_curionii</List>
+		<List>L_valceresii</List>
+		<List>Silvestrosaurus</List>
+		<List>Corosaurus</List>
+		<List>Cymatosaurus</List>
+		<List>Germanosaurus</List>
+		<List>Pistosaurus</List>
+		<List>Placodus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="122">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Rieppel_1998b</Filename>
+	<Parent>Rieppel_1997ab</Parent>
+	<Sibling/>
+</SourceTree>

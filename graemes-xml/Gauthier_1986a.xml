@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Gauthier, J. A.</List>
+		</Author>
+		<Year>1986</Year>
+		<Title>Saurischian monophyly and the origin of birds</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>1-55</Pages>
+		<Booktitle>The Origin of Birds and the Evolution of Flight</Booktitle>
+		<Publisher>Towne and Bacon</Publisher>
+		<City>San Francisco</City>
+		<Editor>
+			<List>Padian, K.</List>
+		</Editor>
+	</Source>
+	<Taxa number="18">
+		<List>Outgroup</List>
+		<List>Ornithischia</List>
+		<List>Sauropodomorpha</List>
+		<List>Ceratosauria</List>
+		<List>Procompsognathus</List>
+		<List>Liliensternus</List>
+		<List>Carnosauria</List>
+		<List>Ornithmimidae</List>
+		<List>Deinonychosauria</List>
+		<List>Avialae</List>
+		<List>Ornitholestes</List>
+		<List>Coelurus</List>
+		<List>Compsognathus</List>
+		<List>Microvenator</List>
+		<List>Saurornitholestes</List>
+		<List>Hulsanpes</List>
+		<List>Caenagnathidae</List>
+		<List>Elmisauridae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="84">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Gauthier_1986a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

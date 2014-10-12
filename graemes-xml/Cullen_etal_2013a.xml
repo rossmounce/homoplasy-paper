@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Cullen, T. M.</List>
+			<List>Ryan, M. J.</List>
+			<List>Schroder-Adams, C.</List>
+			<List>Currie, P. J.</List>
+			<List>Kobayahsi, Y.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>An ornithomimid (Dinosauria) bonebed from the Late Cretaceous of Alberta, with implications for the behavior, classification, and stratigraphy of North American ornithomimids</Title>
+		<Journal>PLOS One</Journal>
+		<Volume>8</Volume>
+		<Pages>e58853</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="15">
+		<List>Allosaurus_fragilis</List>
+		<List>Tyrannosaurids</List>
+		<List>Pelecanimimus_polyodon</List>
+		<List>Harpymimus_okladnikovi</List>
+		<List>Shenzousaurus_orientalis</List>
+		<List>Beishanlong_grandis</List>
+		<List>Garudimimus_brevipes</List>
+		<List>Archaeornithomimus_asiaticus</List>
+		<List>Sinornithomimus_dongi</List>
+		<List>Gallimimus_bullatus</List>
+		<List>Anserimimus_planinychus</List>
+		<List>Qiupalong_henanensis</List>
+		<List>Struthiomimus_altus</List>
+		<List>Ornithomimus_edmontonicus</List>
+		<List>Dry_Island_bonebed_specimens</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="48">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Cullen_etal_2013a</Filename>
+	<Parent>Xu_etal_2011a</Parent>
+	<Sibling/>
+</SourceTree>

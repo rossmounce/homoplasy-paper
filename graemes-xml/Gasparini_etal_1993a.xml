@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Gasparini, Z.</List>
+			<List>Fernandez, M.</List>
+			<List>Powell, J.</List>
+		</Author>
+		<Year>1993</Year>
+		<Title>New Tertiary sebecosuchians (Crocodylomorpha) from South America: phylogenetic implications</Title>
+		<Journal>Historical Biology</Journal>
+		<Volume>7</Volume>
+		<Pages>1-19</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="7">
+		<List>Protosuchidae</List>
+		<List>Notosuchus</List>
+		<List>Araripesuchus</List>
+		<List>Baurusuchuspachecoi</List>
+		<List>Sebecus_icaeorhinus</List>
+		<List>Sebecus_huilensis</List>
+		<List>Bretesuchus_bonapartei</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="31">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Gasparini_etal_1993a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

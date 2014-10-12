@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Senter, P.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>Phylogeny of Drepanosauridae (Reptilia: Diapsida)</Title>
+		<Journal>Journal of Systematic Palaeontology</Journal>
+		<Volume>2</Volume>
+		<Pages>257-268</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="20">
+		<List>Palaeothyris_acadiana</List>
+		<List>Megalancosaurus_preonensis</List>
+		<List>MCSNB_4751</List>
+		<List>Drepanosaurus_unguicaudatus</List>
+		<List>Dolabrosaurus_aquatilis</List>
+		<List>Hypuronector_limnaios</List>
+		<List>Petrolacosaurus_kansensis</List>
+		<List>Longisquama_insignis</List>
+		<List>Coelurosauravus</List>
+		<List>Youngina_capensis</List>
+		<List>Gephyrosaurus_bridensis</List>
+		<List>Mesosuchus_browni</List>
+		<List>Prolacerta_broomi</List>
+		<List>Macrocnemus_bassanii</List>
+		<List>Langobardisaurus_pandolfi</List>
+		<List>Ornithosuchus_longidens</List>
+		<List>Proterosuchus_fergusi</List>
+		<List>Euparkeria_capensis</List>
+		<List>Archaeopteryx_lithographica</List>
+		<List>Sinosauropteryx_prima</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="73">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Senter_2004aa</Filename>
+	<Parent/>
+	<Sibling>Senter_2004ab</Sibling>
+</SourceTree>

@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Maidment, S. C. R.</List>
+			<List>Norman, D. B.</List>
+			<List>Barrett, P. M.</List>
+			<List>Upchurch, P.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>Systematics and phylogeny of Stegosauria (Dinosauria: Ornithischia)</Title>
+		<Journal>Journal of Systematic Palaeontology</Journal>
+		<Volume>6</Volume>
+		<Pages>367-407</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="18">
+		<List>Lesothosaurus</List>
+		<List>Scutellosaurus</List>
+		<List>Emausaurus</List>
+		<List>Scelidosaurus</List>
+		<List>Huayangosaurus</List>
+		<List>Dacentrurus_armatus</List>
+		<List>Loricatosaurus</List>
+		<List>Kentrosaurus</List>
+		<List>Paranthodon</List>
+		<List>Chungkingosaurus</List>
+		<List>Tuojiangosaurus</List>
+		<List>Gigantspinosaurus</List>
+		<List>Stegosaurus_homheni</List>
+		<List>S_armatus</List>
+		<List>S_mjosi</List>
+		<List>Gastonia</List>
+		<List>Sauropelta</List>
+		<List>Euoplocephalus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="85">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Maidment_etal_2008a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

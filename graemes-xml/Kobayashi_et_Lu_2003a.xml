@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Kobayashi, Y.</List>
+			<List>Lu, J.-C.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>A new ornithomimid dinosaur with gregarious habits from the Late Cretaceous of China</Title>
+		<Journal>Acta Palaeontologica Polonica</Journal>
+		<Volume>48</Volume>
+		<Pages>235-259</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List>Allosaurus</List>
+		<List>Tyrannosaurids</List>
+		<List>Pelecanimimus</List>
+		<List>Harpymimus</List>
+		<List>Garudimimus</List>
+		<List>Archaeornithomimus</List>
+		<List>Sinornithomimus</List>
+		<List>Anserimimus</List>
+		<List>Gallimimus</List>
+		<List>Struthiomimus</List>
+		<List>Dromiceiomimus</List>
+		<List>Ornithomimus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="38">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Kobayashi_et_Lu_2003a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

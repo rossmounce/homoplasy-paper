@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Saila, L. K.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>The osteology and affinities of <em>Anomoiodon liliensterni</em>, a procolophonid reptile from the Lower Triassic Bundsandstein of Germany</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>28</Volume>
+		<Pages>1199-1205</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="16">
+		<List>Macroleter</List>
+		<List>Nyctiphruretus</List>
+		<List>Barasaurus</List>
+		<List>Owenetta</List>
+		<List>Coletta</List>
+		<List>Sauropareion</List>
+		<List>Contritosaurus</List>
+		<List>Tichvinskia</List>
+		<List>Procolophon</List>
+		<List>Thelerpeton</List>
+		<List>Teratophon</List>
+		<List>Hypsognathus</List>
+		<List>Leptopleuron</List>
+		<List>Scoloparia</List>
+		<List>Kapes</List>
+		<List>Anomoiodon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="44">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Saila_2008a</Filename>
+	<Parent>Modesto_etal_2001b</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Botha, J.</List>
+			<List>Abdala, F.</List>
+			<List>Smith, R.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>The oldest cynodont: new clues on the origin and early diversification of the Cynodontia</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>149</Volume>
+		<Pages>477-492</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="18">
+		<List>Cyonosaurus</List>
+		<List>Lycosuchus</List>
+		<List>Ictidosuchops</List>
+		<List>Regisaurus</List>
+		<List>Theriognathus</List>
+		<List>Moschorhinus</List>
+		<List>Olivierosuchus</List>
+		<List>Bauria</List>
+		<List>Charassognathus</List>
+		<List>Nanictosaurus</List>
+		<List>Cynosaurus</List>
+		<List>Procynosuchus</List>
+		<List>Dvinia</List>
+		<List>Galesaurus</List>
+		<List>Progalesaurus</List>
+		<List>Thrinaxodon</List>
+		<List>Cynognathus</List>
+		<List>Lumkuia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="59">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Botha_etal_2007b</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

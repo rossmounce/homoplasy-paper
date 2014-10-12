@@ -1,0 +1,64 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lefebvre, B.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>A critical comment on 'ankyroids' (Echinodermata, Stylophora)</Title>
+		<Journal>Geobios</Journal>
+		<Volume>34</Volume>
+		<Pages>597-627</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="30">
+		<List>Ceratocystis_perneri</List>
+		<List>Neuadaecystis_americana</List>
+		<List>Galliaecystis_lignieresi</List>
+		<List>Cothurnocystis_fellinensis</List>
+		<List>Thoralicystis_griffei</List>
+		<List>Scotiaecystis_cwvata</List>
+		<List>Chawelicystis_uizcainoi</List>
+		<List>ProchauLvelicystis_semispinosa</List>
+		<List>Phyllocystis_blayaci</List>
+		<List>Amygdalotbeca_griffei</List>
+		<List>Nanocarpus_dolambii</List>
+		<List>Lyricocarpus_courtessolei</List>
+		<List>Peltocystis_cornuta</List>
+		<List>Lagynocystis_pyramidalis</List>
+		<List>Anatifopsis_barrandei</List>
+		<List>Jaekelocarpus_oklahomaensis</List>
+		<List>Milonicystis_kerfornei</List>
+		<List>Hanusia_prilepensis</List>
+		<List>Chinianocarpos_thorali</List>
+		<List>Aspidocarpus_bohemicus</List>
+		<List>Mitrocystites_mitra</List>
+		<List>Mitrocystella_incipiens</List>
+		<List>Eumitrocystella_sacilli</List>
+		<List>Reticulocarpos_hanusi</List>
+		<List>Prokopiqstis_mergli</List>
+		<List>Ateleocystites_guttenbergensis</List>
+		<List>Barrandeocarpus_jaekeli</List>
+		<List>Enoploura_popei</List>
+		<List>Diamphidiocystis_drepanon</List>
+		<List>Beryllia_miranda</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="18">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lefebvre_2001a</Filename>
+	<Parent>Parsley_1997a</Parent>
+	<Sibling/>
+</SourceTree>

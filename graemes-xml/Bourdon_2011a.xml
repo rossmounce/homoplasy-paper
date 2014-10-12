@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Bourdon, E.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>The pseudo-toothed birds (Aves, Odontopterygiformes) and their bearing on the early evolution of modern birds</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>209-234</Pages>
+		<Booktitle>Living Dinosaurs: The Evolutionary History of Modern Birds</Booktitle>
+		<Publisher>Wiley-Blackwell</Publisher>
+		<City>Oxford</City>
+		<Editor>
+			<List>Dyke, G.</List>
+			<List>Kaiser, G.</List>
+		</Editor>
+	</Source>
+	<Taxa number="21">
+		<List>Apsaravis</List>
+		<List>Hesperornis</List>
+		<List>Ichthyornis</List>
+		<List>Galliformes</List>
+		<List>Rheidae</List>
+		<List>Tinamidae</List>
+		<List>Anseriformes</List>
+		<List>Pelagornis_slash_Osteodon</List>
+		<List>Dasornis</List>
+		<List>Phaethontidae</List>
+		<List>Procellariiformes</List>
+		<List>Spheniscidae</List>
+		<List>Gaviidae</List>
+		<List>Podicipedidae</List>
+		<List>Phoenicopteridae</List>
+		<List>Ciconiidae</List>
+		<List>Scopidae</List>
+		<List>Ardeidae</List>
+		<List>Fregatidae</List>
+		<List>Pelecanidae</List>
+		<List>Suloidea</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="128">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Bourdon_2011a</Filename>
+	<Parent>Bourdon_2005a</Parent>
+	<Sibling/>
+</SourceTree>

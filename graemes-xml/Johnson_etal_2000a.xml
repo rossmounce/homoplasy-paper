@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Johnson, H. G.</List>
+			<List>Elliott, D. K.</List>
+			<List>Wittke, J. H.</List>
+		</Author>
+		<Year>2000</Year>
+		<Title>A new actinolepid arthrodire (Class Placodermi) from the Lower Devonian Sevy Dolomite, East-Central Nevada</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>129</Volume>
+		<Pages>241-266</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="19">
+		<List>Petalichthyida</List>
+		<List>Actinolepis_magna</List>
+		<List>Actinolepis_spinosa</List>
+		<List>Actinolepis_tuberculata</List>
+		<List>Aethaspis_major</List>
+		<List>Aethaspis_utahensis</List>
+		<List>Aleosteus_eganensis</List>
+		<List>Anarthraspis_sp.</List>
+		<List>Baringaspis_dineleyi</List>
+		<List>Bollandaspis_woschmidti</List>
+		<List>Bryantolepis_brachycephala</List>
+		<List>Eskimaspis_heintzi</List>
+		<List>Heightingtonaspis_anglica</List>
+		<List>Kujdanowiaspis_sp.</List>
+		<List>Lehmanosteus_hyperboreus</List>
+		<List>Proaethaspis_ohioensis</List>
+		<List>Sigaspis_lepidophora</List>
+		<List>Simblaspis_cachensis</List>
+		<List>Stuertzaspis_germanica</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="39">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Johnson_etal_2000a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

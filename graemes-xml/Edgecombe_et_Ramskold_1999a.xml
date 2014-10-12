@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Edgecombe, G. D.</List>
+			<List>Ramskold, L.</List>
+		</Author>
+		<Year>1999</Year>
+		<Title>Relationships of Cambrian Arachnata and the systematic position of Trilobita</Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>73</Volume>
+		<Pages>263-287</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="19">
+		<List>Marrellomorpha</List>
+		<List>Sidneyia</List>
+		<List>Emeraldella</List>
+		<List>Cindarella</List>
+		<List>Xandarella</List>
+		<List>Sinoburius</List>
+		<List>Retifacies</List>
+		<List>Kuamaia</List>
+		<List>Helmetia</List>
+		<List>Skioldia</List>
+		<List>Saperion</List>
+		<List>Tegopelte</List>
+		<List>Liwia</List>
+		<List>Tariccoia</List>
+		<List>Soomaspis</List>
+		<List>Misszhouia</List>
+		<List>Naraoia</List>
+		<List>Eoredlichia</List>
+		<List>Olenoides</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="29">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Edgecombe_et_Ramskold_1999a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

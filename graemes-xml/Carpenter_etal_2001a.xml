@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Carpenter, K.</List>
+			<List>Miles, C. A.</List>
+			<List>Cloward, K.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>New primitive stegosaur from the Morrison Formation, Wyoming</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>55-75</Pages>
+		<Booktitle>The Armored Dinosaurs</Booktitle>
+		<Publisher>Indiana University Press</Publisher>
+		<City>Bloomington</City>
+		<Editor>
+			<List>Carpenter, K.</List>
+		</Editor>
+	</Source>
+	<Taxa number="11">
+		<List>Huay</List>
+		<List>Chun</List>
+		<List>Chia</List>
+		<List>Wuer</List>
+		<List>Dace</List>
+		<List>Hesp</List>
+		<List>Tuoj</List>
+		<List>Kent</List>
+		<List>Lexo</List>
+		<List>Stst</List>
+		<List>Stun</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="12">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Carpenter_etal_2001a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

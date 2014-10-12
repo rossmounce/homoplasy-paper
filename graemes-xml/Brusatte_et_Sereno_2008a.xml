@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Brusatte, S. L.</List>
+			<List>Sereno, P. C.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>Phylogeny of Allosauroidea (Dinosauria: Theropoda): comparative analysis and resolution</Title>
+		<Journal>Journal of Systematic Palaeontology</Journal>
+		<Volume>6</Volume>
+		<Pages>155-182</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="15">
+		<List>Herrerasaurus</List>
+		<List>Torvosaurus</List>
+		<List>Coelophysis</List>
+		<List>Sinraptor</List>
+		<List>Compsognathidae</List>
+		<List>Allosaurus</List>
+		<List>Fukuiraptor</List>
+		<List>Monolophosaurus</List>
+		<List>Neovenator</List>
+		<List>Tyrannotitan</List>
+		<List>Acrocanthosaurus</List>
+		<List>Eocarcharia</List>
+		<List>Carcharodontosaurus</List>
+		<List>Giganotosaurus</List>
+		<List>Mapusaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="99">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Brusatte_et_Sereno_2008a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

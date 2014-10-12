@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Schoch, R. R.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>A new stereospondyl from the German Middle Triassic, and the origin of the Metoposauridae</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>152</Volume>
+		<Pages>79-113</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="19">
+		<List>Dendrerpeton</List>
+		<List>Trimerorhachis</List>
+		<List>Sclerocephalus</List>
+		<List>Rhinesuchidae</List>
+		<List>Lydekkerina</List>
+		<List>Siderops</List>
+		<List>Batrachosuchus</List>
+		<List>Laidleria</List>
+		<List>Rhytidosteidae</List>
+		<List>Gerrothorax</List>
+		<List>Plagiosuchus</List>
+		<List>Capitosauroidea</List>
+		<List>Aphaneramma</List>
+		<List>Trematolestes</List>
+		<List>Lyrocephaliscus</List>
+		<List>Rileymillerus</List>
+		<List>Almasaurus</List>
+		<List>Metoposauridae</List>
+		<List>Callistomordax</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="100">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Schoch_2008a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

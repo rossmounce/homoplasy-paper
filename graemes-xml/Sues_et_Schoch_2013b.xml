@@ -1,0 +1,61 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sues, H.-D.</List>
+			<List>Schoch, R. R.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>Anatomy and phylogenetic relationships of <em>Calamops paludosus</em> (Temnospondyli, Stereospondyli) from the Triassic of the Newark Basin, Pennsylvania</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>33</Volume>
+		<Pages>1061-1070</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="26">
+		<List>Dendrerpeton</List>
+		<List>Trimerorhachis</List>
+		<List>Sclerocephalus</List>
+		<List>Uranocentrodon</List>
+		<List>Lydekkerinidae</List>
+		<List>Siderops</List>
+		<List>Brachyops</List>
+		<List>Laidleria</List>
+		<List>Rhytidosteidae</List>
+		<List>Gerrothorax</List>
+		<List>Plagiosuchus</List>
+		<List>Capitosauroidea</List>
+		<List>Benthosuchus</List>
+		<List>Aphaneramma</List>
+		<List>Trematolestes</List>
+		<List>Lyrocephaliscus</List>
+		<List>Almasaurus</List>
+		<List>Metoposaurus</List>
+		<List>Callistomordax</List>
+		<List>Inflectosaurus</List>
+		<List>Microposaurus</List>
+		<List>Jordan_Taxon</List>
+		<List>Calamops</List>
+		<List>Tertrema</List>
+		<List>Hyperokynodon</List>
+		<List>Platystega</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="109">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sues_et_Schoch_2013b</Filename>
+	<Parent>Schoch_2008a</Parent>
+	<Sibling/>
+</SourceTree>

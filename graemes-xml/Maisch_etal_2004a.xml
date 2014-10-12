@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Maisch, M. W.</List>
+			<List>Matzke, A. T.</List>
+			<List>Sun, G.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>A new dsungaripteroid pterosaur from the Lower Cretaceous of the southern Junggar Basin, north-west China</Title>
+		<Journal>Cretaceous Research</Journal>
+		<Volume>25</Volume>
+		<Pages>625-634</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="9">
+		<List>Eudimorphodon_ranzii</List>
+		<List>Pterodactylus_kochi</List>
+		<List>Daitingopterus_rhamphastinus</List>
+		<List>Germanodactylus_cristatus</List>
+		<List>Normannognathus_wellnhoferi</List>
+		<List>Domeykodactylus_ceciliae</List>
+		<List>Lonchognathosaurus_acutirostris</List>
+		<List>Phobetor_parvus</List>
+		<List>Dsungaripterus_weii</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="10">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Maisch_etal_2004a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

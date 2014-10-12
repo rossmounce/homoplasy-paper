@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Rieppel, O.</List>
+			<List>Mazin, J.-M.</List>
+			<List>Tchernov, E.</List>
+		</Author>
+		<Year>1999</Year>
+		<Title>Sauropterygia from the Middle Triassic of Makhtesh Ramon, Negev, Israel</Title>
+		<Journal>Fieldiana: Geology, New Series</Journal>
+		<Volume>40</Volume>
+		<Pages>1-85</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List>Ancestor</List>
+		<List>Pachypleurosaurs</List>
+		<List>Simosaurus</List>
+		<List>Germanosaurus</List>
+		<List>N_edingerae</List>
+		<List>N_giganteus</List>
+		<List>N_juvenilis</List>
+		<List>N_marchicus</List>
+		<List>N_mirabilis</List>
+		<List>N_haasi</List>
+		<List>N_tchernovi</List>
+		<List>Winterswijk</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="25">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Rieppel_etal_1999ab</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

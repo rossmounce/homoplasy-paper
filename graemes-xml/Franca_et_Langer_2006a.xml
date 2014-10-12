@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Franca, M. A. G.</List>
+			<List>Langer, M. C.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>Phylogenetic relationships of the Bauru Group turtles (Late Cretaceous of south-central Brazil)</Title>
+		<Journal>Revista Brasileira de Paleontologia</Journal>
+		<Volume>9</Volume>
+		<Pages>365-373</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Chelidae</List>
+		<List>Araripemys</List>
+		<List>Bauruemys</List>
+		<List>Bothremydidae</List>
+		<List>Brasilemys</List>
+		<List>Cambaremys</List>
+		<List>Erymnochelys</List>
+		<List>FR_dash_4922</List>
+		<List>Pelomedusidae</List>
+		<List>Peltocephalus</List>
+		<List>Podocnemis</List>
+		<List>Portezueloemys</List>
+		<List>Roxochelys_vilavilensis</List>
+		<List>Roxochelys_wanderleyi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="32">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Franca_et_Langer_2006a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

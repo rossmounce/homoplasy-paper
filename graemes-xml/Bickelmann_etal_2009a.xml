@@ -1,0 +1,74 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Bickelmann, C.</List>
+			<List>Muller, J.</List>
+			<List>Reisz, R. R.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>The enigmatic diapsid <em>Acerosodontosaurus piveteaui</em> (Reptilia: Neodiapsida) from the Upper Permian of Madagascar and the paraphyly of &quot;younginiform&quot; reptiles</Title>
+		<Journal>Canadian Journal of Earth Sciences</Journal>
+		<Volume>46</Volume>
+		<Pages>651-661</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="38">
+		<List>Seymouriidae</List>
+		<List>Synapsida</List>
+		<List>Parareptilia</List>
+		<List>Captorhinidae</List>
+		<List>Araeoscelidia</List>
+		<List>Rhynchocephalia</List>
+		<List>Squamata</List>
+		<List>Prolacerta</List>
+		<List>Tanystropheus</List>
+		<List>Trilophosaurus</List>
+		<List>Rhynchosauria</List>
+		<List>Archosauriformes</List>
+		<List>Choristodera</List>
+		<List>Pachypleurosaurs</List>
+		<List>Simosaurus</List>
+		<List>Placodus</List>
+		<List>Pistosauridae</List>
+		<List>Claudiosaurus</List>
+		<List>Askeptosaurus</List>
+		<List>Clarazia</List>
+		<List>Thalattosaurus</List>
+		<List>Testudines</List>
+		<List>Palaeagama</List>
+		<List>Saurosternon</List>
+		<List>Coelurosauravus</List>
+		<List>Macrocnemus</List>
+		<List>Helveticosaurus</List>
+		<List>Ichthyopterygia</List>
+		<List>Kuehneosauridae</List>
+		<List>Hupehsuchus</List>
+		<List>Acerosodontosaurus</List>
+		<List>Tangasaurus</List>
+		<List>Hovasaurus</List>
+		<List>Kenyasaurus</List>
+		<List>Youngina</List>
+		<List>Galesphyrus</List>
+		<List>Thadeosaurus</List>
+		<List>Lanthanolania</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="188">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Bickelmann_etal_2009a</Filename>
+	<Parent>Muller_2004a</Parent>
+	<Sibling/>
+</SourceTree>

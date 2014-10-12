@@ -1,0 +1,85 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Herrera, Y.</List>
+			<List>Gasparini, Z.</List>
+			<List>Fernandez, M. S.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>A new Patagonian species of <em>Cricosaurus</em> (Crocodyliformes, Thalattosuchia): first evidence of <em>Cricosaurus</em> in middle-upper Tithonian lithographic limestone from Gondwana</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>56</Volume>
+		<Pages>663-678</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="49">
+		<List>Erpetosuchus_granti</List>
+		<List>Hesperosuchus_agilis</List>
+		<List>Protosuchus</List>
+		<List>Calsoyasuchus_valliceps</List>
+		<List>E_delfsi</List>
+		<List>Goniopholis_simus</List>
+		<List>A_mississippiensis</List>
+		<List>Crocodylus_niloticus</List>
+		<List>Gavialis_gangeticus</List>
+		<List>Isisfordia_duncani</List>
+		<List>Pholidosaurus</List>
+		<List>Pelagosaurus_typus</List>
+		<List>Steneosaurus_bollensis</List>
+		<List>T_calvadosii</List>
+		<List>Eoneustes_bathonicus</List>
+		<List>Eoneustes_gaudryi</List>
+		<List>Chile_metriorhynchoid</List>
+		<List>Oregon_metriorhynchoid</List>
+		<List>Cricosaurus_elegans</List>
+		<List>C_macrospondylus</List>
+		<List>Cricosaurus_schroederi</List>
+		<List>C_araucanensis</List>
+		<List>Cricosaurus_gracilis</List>
+		<List>Cricosaurus_saltillense</List>
+		<List>Cricosaurus_suevicus</List>
+		<List>Cricosaurus_sp_Cuba</List>
+		<List>Cricosaurus_vignaudi</List>
+		<List>MOZ_dash_PV_5787</List>
+		<List>Rhacheosaurus_gracilis</List>
+		<List>Metriorhynchidae_indet</List>
+		<List>Gracilineustes_leedsi</List>
+		<List>Gracilineustes_acutus</List>
+		<List>Metriorhynchus_hastifer</List>
+		<List>M_superciliosus</List>
+		<List>M_geoffroyii</List>
+		<List>Metriorhynchus_sp</List>
+		<List>Suchodus_brachyrhynchus</List>
+		<List>Geosaurinae_indet</List>
+		<List>M_casamiquelai</List>
+		<List>M_westermanni</List>
+		<List>N_ammoniticus</List>
+		<List>Torvoneustes_carpenteri</List>
+		<List>Geosaurus_grandis</List>
+		<List>Geosaurus_giganteus</List>
+		<List>Geosaurus_lapparenti</List>
+		<List>Dakosaurus_andiniensis</List>
+		<List>Dakosaurus_manselii</List>
+		<List>Dakosaurus_maximus</List>
+		<List>Dakosaurus_sp</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="201">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Herrera_etal_2013ab</Filename>
+	<Parent>Young_etal_inpressa</Parent>
+	<Sibling/>
+</SourceTree>

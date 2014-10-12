@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Jouve, S.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>A new description of the skull of <em>Dyrosaurus phosphaticus</em> (Thomas, 1893) (Mesoeucrocodylia: Dyrosauridae) from the Lower Eocene of North Africa</Title>
+		<Journal>Canadian Journal of Earth Sciences</Journal>
+		<Volume>42</Volume>
+		<Pages>323-337</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="7">
+		<List>Sarcosuchus</List>
+		<List>Terminonaris</List>
+		<List>Hyposaurus</List>
+		<List>Rhabdognathus</List>
+		<List>Dyrosaurus</List>
+		<List>Sokotosuchus</List>
+		<List>Phosphatosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="12">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Jouve_2005a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

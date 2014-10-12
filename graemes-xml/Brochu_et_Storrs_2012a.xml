@@ -1,0 +1,88 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Brochu, C. A.</List>
+			<List>Storrs, G. W.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>A giant crocodile from the Plio-Pleistocene of Kenya, the phylogenetic relationships of Neogene African crocodylines, and the antiquity of Crocodylus in Africa</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>32</Volume>
+		<Pages>587-602</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="53">
+		<List>Borealosuchus_sternbergii</List>
+		<List>Leidyosuchus_canadensis</List>
+		<List>Mecistops_cataphractus</List>
+		<List>Crocodylus_niloticus</List>
+		<List>Crocodylus_porosus</List>
+		<List>Crocodylus_rhombifer</List>
+		<List>Crocodylus_acutus</List>
+		<List>Crocodylus_palustris</List>
+		<List>Crocodylus_siamensis</List>
+		<List>Crocodylus_intermedius</List>
+		<List>Crocodylus_johnstoni</List>
+		<List>Crocodylus_mindorensis</List>
+		<List>Crocodylus_novaeguineae</List>
+		<List>Crocodylus_raninus</List>
+		<List>Crocodylus_moreletii</List>
+		<List>Crocodylus_palaeindicus</List>
+		<List>Crocodylus_checchiai</List>
+		<List>Crocodylus_anthropophagus</List>
+		<List>Crocodylus_thorbjarnarsoni</List>
+		<List>Euthecodon_brumpti</List>
+		<List>Euthecodon_arambourgii</List>
+		<List>Osteolaemus_tetraspis</List>
+		<List>Osteolaemus_osborni</List>
+		<List>Voay_robustus</List>
+		<List>Rimasuchus_lloydi</List>
+		<List>Crocodylus_pigotti</List>
+		<List>Crocodylus_gariepensis</List>
+		<List>Crocodylus_megarhinus</List>
+		<List>Australosuchus_clarkae</List>
+		<List>Kambara_implexidens</List>
+		<List>Trilophosuchus_rackhami</List>
+		<List>Quinkana_spp</List>
+		<List>Tomistoma_schlegelii</List>
+		<List>Tomistoma_lusitanica</List>
+		<List>Tomistoma_petrolica</List>
+		<List>Toyotamaphimaea_machikanensis</List>
+		<List>Penghusuchus_pani</List>
+		<List>Gavialosuchus_eggenbergensis</List>
+		<List>Paratomistoma_courtii</List>
+		<List>Megadontosuchus_arduini</List>
+		<List>Tomistoma_cairense</List>
+		<List>Thecachampsa_antiqua</List>
+		<List>Thecachampsa_americana</List>
+		<List>Thecachampsa_carolinense</List>
+		<List>Dollosuchoides_densmorei</List>
+		<List>Kentisuchus_spenceri</List>
+		<List>Brachyuranochampsa_eversolei</List>
+		<List>Crocodylus_acer</List>
+		<List>Asiatosuchus_grangeri</List>
+		<List>Crocodylus_depressifrons</List>
+		<List>Crocodylus_affinis</List>
+		<List>Asiatosuchus_germanicus</List>
+		<List>Prodiplocynodon_langi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="189">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Brochu_et_Storrs_2012a</Filename>
+	<Parent>Brochu_1997ab</Parent>
+	<Sibling/>
+</SourceTree>

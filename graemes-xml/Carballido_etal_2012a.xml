@@ -1,0 +1,69 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Carballido, J. L.</List>
+			<List>Marpmann, J. S.</List>
+			<List>Schwarz-Wings, D.</List>
+			<List>Pabst, B.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>New information on a juvenile sauropod specimen from the Morrison Formation and the reassessment of its systematic position</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>55</Volume>
+		<Pages>567-582</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="32">
+		<List>Theropoda</List>
+		<List>Prosauropoda</List>
+		<List>Vulcanodon</List>
+		<List>Shunosaurus</List>
+		<List>Barapasaurus</List>
+		<List>Omeisaurus</List>
+		<List>Patagosaurus</List>
+		<List>Mamenchisaurus</List>
+		<List>Losillasaurus</List>
+		<List>Haplocanthosaurus</List>
+		<List>Jobaria</List>
+		<List>Suuwassea</List>
+		<List>Apatosaurus</List>
+		<List>Barosaurus</List>
+		<List>Diplodocus</List>
+		<List>Dicraeosaurus</List>
+		<List>Amargasaurus</List>
+		<List>Nigersaurus</List>
+		<List>Limaysaurus</List>
+		<List>Rebbachisaurus</List>
+		<List>Camarasaurus</List>
+		<List>Brachiosaurus_altithorax</List>
+		<List>Giraffatitan_brancai</List>
+		<List>SMA_0009</List>
+		<List>Euhelopus</List>
+		<List>Malawisaurus</List>
+		<List>Alamosaurus</List>
+		<List>Nemegtosaurus</List>
+		<List>Rapetosaurus</List>
+		<List>Isisaurus</List>
+		<List>Opisthocoelicaudia</List>
+		<List>Saltasaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="334">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Carballido_etal_2012a</Filename>
+	<Parent>Taylor_2009a</Parent>
+	<Sibling/>
+</SourceTree>

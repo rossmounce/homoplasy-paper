@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Jacobs, L. L.</List>
+			<List>Winkler, D. A.</List>
+			<List>Newman, K. D.</List>
+			<List>Gomani, E. M.</List>
+			<List>Deino, A.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>Therapsids from the Permian Chiweta Beds and the age of the Karoo Supergroup in Malawi</Title>
+		<Journal>Palaeontologia Electronica</Journal>
+		<Volume>8</Volume>
+		<Pages>1-23</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="13">
+		<List>Haptodus</List>
+		<List>Dimetrodon</List>
+		<List>Anteosauridae</List>
+		<List>Biarmosuchus</List>
+		<List>Hipposaurus</List>
+		<List>Lycaenodon</List>
+		<List>Rubidgina</List>
+		<List>Ictidorhinus</List>
+		<List>Lemurosaurus</List>
+		<List>Proburnetia</List>
+		<List>Bullacephalus</List>
+		<List>Burnetia</List>
+		<List>Mal_290</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="37">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Jacobs_etal_2005a</Filename>
+	<Parent>Sidor_et_Welman_2003a</Parent>
+	<Sibling/>
+</SourceTree>

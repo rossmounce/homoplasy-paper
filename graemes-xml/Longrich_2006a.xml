@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Longrich, N.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>An ornithurine bird from the Late Cretaceous of Alberta, Canada</Title>
+		<Journal>Canadian Journal of Earth Sciences</Journal>
+		<Volume>43</Volume>
+		<Pages>1-7</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="19">
+		<List>Archaeopteryx_lithographica</List>
+		<List>Confuciusornis_sanctus</List>
+		<List>Enantiornis_leali</List>
+		<List>Apsaravis_ukhaana</List>
+		<List>TMP_98_dot_68_dot_145</List>
+		<List>Limenavis_patagonica</List>
+		<List>Ichthyornis_dispar</List>
+		<List>Iaceornis_marshi</List>
+		<List>Eudromia_elegans</List>
+		<List>Anas_platyrhynchos</List>
+		<List>Grus_canadensis</List>
+		<List>Larus_delawarensis</List>
+		<List>Columba_livia</List>
+		<List>Puffinus_griseus</List>
+		<List>Buteo_lagopus</List>
+		<List>Cygnus_buccinator</List>
+		<List>Gavia_immer</List>
+		<List>Phasianus_colchicus</List>
+		<List>Corvus_corax</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="22">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Longrich_2006a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Kenrick, P.</List>
+			<List>Crane, P. R.</List>
+		</Author>
+		<Year>1991</Year>
+		<Title>Water-conducting cells in early fossil land plants: implications for the early evolution of Tracheophytes</Title>
+		<Journal>Botanical Gazette</Journal>
+		<Volume>152</Volume>
+		<Pages>335-356</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List>Coleochaete</List>
+		<List>liverworts</List>
+		<List>hornworts</List>
+		<List>mosses</List>
+		<List>Cooksonia_pertoni</List>
+		<List>Nothia</List>
+		<List>Aglaophyton</List>
+		<List>Rhynia</List>
+		<List>Stockmansella</List>
+		<List>Huvenia</List>
+		<List>lycophyte_clade</List>
+		<List>nonlycophyte_clade</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="29">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Kenrick_et_Crane_1991a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

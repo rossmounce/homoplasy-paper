@@ -1,0 +1,82 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Carballido, J. L.</List>
+			<List>Rauhut, O. W. M.</List>
+			<List>Pol, D.</List>
+			<List>Salgado, L.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>Osteology and phylogenetic relationships of Tehuelchesaurus benitezii (Dinosauria, Sauropoda) from the Upper Jurassic of Patagonia</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>163</Volume>
+		<Pages>605-662</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="45">
+		<List>Plateosaurus</List>
+		<List>Tazoudasaurus</List>
+		<List>Shunosaurus</List>
+		<List>Patagosaurus</List>
+		<List>Omeisaurus</List>
+		<List>Mamenchisaurus</List>
+		<List>Camarasaurus</List>
+		<List>Tehuelchesaurus</List>
+		<List>Janenschia</List>
+		<List>Tendaguria</List>
+		<List>Haplocanthosaurus</List>
+		<List>Euhelopus</List>
+		<List>Chubutisaurus</List>
+		<List>Malarguesaurus</List>
+		<List>Wintonotitan</List>
+		<List>Galvesaurus</List>
+		<List>Tastavinsaurus</List>
+		<List>Europasaurus</List>
+		<List>Venenosaurus</List>
+		<List>Brachiosaurus</List>
+		<List>Paluxysaurus</List>
+		<List>Jobaria</List>
+		<List>Apatosaurus</List>
+		<List>Barosaurus</List>
+		<List>Diplodocus</List>
+		<List>Dicraeosaurus</List>
+		<List>Amargasaurus</List>
+		<List>Nigersaurus</List>
+		<List>Limaysaurus</List>
+		<List>Rebbachisaurus</List>
+		<List>Phuwiangosaurus</List>
+		<List>Mendozasaurus</List>
+		<List>Futalongkosaurus</List>
+		<List>Malawisaurus</List>
+		<List>Epachthosaurus</List>
+		<List>Alamosaurus</List>
+		<List>Opisthocoelicaudia</List>
+		<List>Isisaurus</List>
+		<List>Neuquensaurus</List>
+		<List>Saltasaurus</List>
+		<List>Nemegtosaurus</List>
+		<List>Rapetosaurus</List>
+		<List>Argentinosaurus</List>
+		<List>Ligabuesaururs</List>
+		<List>Andesaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="249">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Carballido_etal_2011b</Filename>
+	<Parent>Carballido_etal_2011a</Parent>
+	<Sibling/>
+</SourceTree>

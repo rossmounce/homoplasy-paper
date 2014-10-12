@@ -1,0 +1,91 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Evans, S. E.</List>
+		</Author>
+		<Year>1988</Year>
+		<Title>The early history and relationships of the Diapsida</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>221-260</Pages>
+		<Booktitle>The Phylogeny and Classification of the Tetrapods, Volume 1: Amphibians, Reptiles, Birds</Booktitle>
+		<Publisher>Clarendon Press</Publisher>
+		<City>Oxford</City>
+		<Editor>
+			<List>Benton, M. J.</List>
+		</Editor>
+	</Source>
+	<Taxa number="55">
+		<List>Ancestor</List>
+		<List>Petrolacosaurus</List>
+		<List>Araeoscelis</List>
+		<List>Aphelosaurus</List>
+		<List>Mesenosaurus</List>
+		<List>Coelurosauravus</List>
+		<List>Claudisaurus</List>
+		<List>Heleosaurus</List>
+		<List>Galesphyrus</List>
+		<List>Blomosaurus</List>
+		<List>Choristodera</List>
+		<List>Noteosuchus</List>
+		<List>Mesosuchus</List>
+		<List>Howesia</List>
+		<List>Rhynchosauridae</List>
+		<List>Thalattosauria</List>
+		<List>Trilophosaurus</List>
+		<List>Megalancosaurus</List>
+		<List>Malerisaurus</List>
+		<List>Trachelosaurus</List>
+		<List>Prolacertoides</List>
+		<List>Kadimarkara</List>
+		<List>Protorosaurus</List>
+		<List>Prolacerta</List>
+		<List>Boreopricea</List>
+		<List>Macrocnemus</List>
+		<List>Cosesaurus</List>
+		<List>Tanystropheus</List>
+		<List>Tanytrachelos</List>
+		<List>Proterosuchus</List>
+		<List>Palaeagama</List>
+		<List>Heleosuchus</List>
+		<List>Acerosodontosaurus</List>
+		<List>Youngina</List>
+		<List>Thadeosaurus</List>
+		<List>Kenyasaurus</List>
+		<List>Tangasaurus</List>
+		<List>Hovasaurus</List>
+		<List>Saurosternon</List>
+		<List>Kuehneosauridae</List>
+		<List>Gephyrosaurus</List>
+		<List>Diphydontosaurus</List>
+		<List>Planocephalosaurus</List>
+		<List>Clevosaurus</List>
+		<List>Homoeosaurus</List>
+		<List>Kallimodon</List>
+		<List>Pleurosauridae</List>
+		<List>Sphenodon</List>
+		<List>Squamata</List>
+		<List>Paliguana</List>
+		<List>Kudnu</List>
+		<List>Colubrifer</List>
+		<List>Drepanosaurus</List>
+		<List>Aenigmatosaurus</List>
+		<List>Lacertulus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="226">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Evans_1988a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

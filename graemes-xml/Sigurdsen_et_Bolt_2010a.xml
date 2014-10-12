@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sigurdsen, T.</List>
+			<List>Bolt, J. R.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>The Lower Permian amphibamid <em>Doleserpeton</em> (Temnospondyli: Dissorophoidea), the interrelationships of amphibamids, and the origin of modern amphibians</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>30</Volume>
+		<Pages>1360-1377</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="20">
+		<List>Balanerpeton</List>
+		<List>Dendrerpeton</List>
+		<List>Sclerocephalus</List>
+		<List>Eryopidae</List>
+		<List>Micromelerpeton</List>
+		<List>Amphibamus</List>
+		<List>Platyrhinops</List>
+		<List>Doleserpeton</List>
+		<List>Eoscopus</List>
+		<List>Tersomius</List>
+		<List>Ecolsonia</List>
+		<List>Trematopidae</List>
+		<List>Dissorophinae</List>
+		<List>Cacopinae</List>
+		<List>Micropholis</List>
+		<List>Pasawioops</List>
+		<List>Plemmyradytes</List>
+		<List>Georgenthalia</List>
+		<List>Gerobatrachus</List>
+		<List>Apateon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="51">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sigurdsen_et_Bolt_2010a</Filename>
+	<Parent>Frobisch_et_Reisz_2008b</Parent>
+	<Sibling/>
+</SourceTree>

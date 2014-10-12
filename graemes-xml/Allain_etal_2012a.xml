@@ -1,0 +1,66 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Allain, R.</List>
+			<List>Xaisanavong, T.</List>
+			<List>Richir, P.</List>
+			<List>Khentavong, B.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>The first definitive Asian spinosaurid (Dinosauria: Theropoda) from the Early Cretaceous of Laos</Title>
+		<Journal>Naturwissenschaften</Journal>
+		<Volume>99</Volume>
+		<Pages>369-377</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="29">
+		<List>Plateosaurus</List>
+		<List>Herrerasaurus</List>
+		<List>Segisaurus</List>
+		<List>Dilophosaurus</List>
+		<List>Coelophysis_kayentakatae</List>
+		<List>Coelophysis_bauri</List>
+		<List>Liliensternus</List>
+		<List>Ceratosaurus</List>
+		<List>Carnotaurus</List>
+		<List>Monolophosaurus</List>
+		<List>Sinraptor</List>
+		<List>Allosaurus</List>
+		<List>Neovenator</List>
+		<List>Aerosteon</List>
+		<List>Acrocanthosaurus</List>
+		<List>Giganotosaurus</List>
+		<List>Carcharodontosaurus</List>
+		<List>Tyrannosaurus</List>
+		<List>Compsognathus</List>
+		<List>Torvosaurus</List>
+		<List>Afrovenator</List>
+		<List>Dubreuillosaurus</List>
+		<List>Eustreptospondylus</List>
+		<List>Irritator</List>
+		<List>Spinosaurus</List>
+		<List>Ichthyovenator</List>
+		<List>Chilantaisaurus</List>
+		<List>Suchomimus</List>
+		<List>Baryonyx</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="178">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Allain_etal_2012a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

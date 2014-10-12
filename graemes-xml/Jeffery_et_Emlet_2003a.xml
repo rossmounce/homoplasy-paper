@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Jeffery, C. H.</List>
+			<List>Emlet, R. B.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>Macroevolutionary consequences of developmental mode in temnopleurid echinoids from the Tertiary of southern Australia</Title>
+		<Journal>Evolution</Journal>
+		<Volume>57</Volume>
+		<Pages>1031-1048</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="17">
+		<List>Zeuglopleurus_rowei</List>
+		<List>Cryptechinus_humilior</List>
+		<List>Cryptechinus_sp.nov.</List>
+		<List>Tatechinus_nudus</List>
+		<List>Goniosigma_murrayensis</List>
+		<List>Goniosigma_singletoni</List>
+		<List>Goniosigma_tasmanensis</List>
+		<List>Grammechinus_meridionalis</List>
+		<List>Ortholophus_bittneri</List>
+		<List>Ortholophus_morganensis</List>
+		<List>Ortholophus_pulchellus</List>
+		<List>Ortholophus_venustus</List>
+		<List>Ortholophus_woodsi</List>
+		<List>Paradoxechinus_novus</List>
+		<List>Paradoxechinus_profundus</List>
+		<List>Paradoxechinus_stellatus</List>
+		<List>Pentechinus_mirabilis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="38">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Jeffery_et_Emlet_2003a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

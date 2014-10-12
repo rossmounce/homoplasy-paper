@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lihoreau, F.</List>
+			<List>Blondel, C.</List>
+			<List>Barry, J.</List>
+			<List>Brunet, M.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>A new species of the genus Microbunodon (Anthracotheriidae, Artiodactyla) from the Miocene of Pakistan: genus revision, phylogenetic relationships and palaeobiogeography</Title>
+		<Journal>Zoologica Scripta</Journal>
+		<Volume>33</Volume>
+		<Pages>97-115</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="10">
+		<List>Siamotherium_krabiense</List>
+		<List>Microbunodon_minimum</List>
+		<List>Microbunodon_milaensis_sp_n</List>
+		<List>Microbunodon_silistrense</List>
+		<List>Anthracotherium_magnum</List>
+		<List>Anthracotherium_monsvialense</List>
+		<List>Anthracotherium_chaimanei</List>
+		<List>Anthracokeryx_ulnifer</List>
+		<List>Anthracokeryx_thailandicus</List>
+		<List>Anthracothema_pangan</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="18">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lihoreau_etal_2004a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Rieppel, O.</List>
+			<List>Li, J.-L.</List>
+			<List>Liu, J.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title><em>Lariosaurus xingyiensis</em> (Reptilia: Sauropterygia) from the Triassic of China</Title>
+		<Journal>Canadian Journal of Earth Sciences</Journal>
+		<Volume>40</Volume>
+		<Pages>621-634</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="29">
+		<List>Ancestor</List>
+		<List>Captorhinidae</List>
+		<List>Testudines</List>
+		<List>Araeoscelidla</List>
+		<List>Younginiformes</List>
+		<List>Kuehneosauridae</List>
+		<List>Rhynchocephalia</List>
+		<List>Squamata</List>
+		<List>Rhynchosauria</List>
+		<List>Prolacertiformes</List>
+		<List>Trilophosaurus</List>
+		<List>Choristodera</List>
+		<List>Archosauriformes</List>
+		<List>Claudiosaurus</List>
+		<List>Dactylosaurus</List>
+		<List>Serpiano_dash_Neustico</List>
+		<List>Simosaurus</List>
+		<List>Nothosaurus</List>
+		<List>Lariosaurus_calcagnii</List>
+		<List>Lariosaurus_balsami</List>
+		<List>Lariosaurus_curionii</List>
+		<List>Lariosaurus_valceresii</List>
+		<List>Lariosaurus_buzzii</List>
+		<List>Corosaurus</List>
+		<List>Cymatosaurus</List>
+		<List>Germanosaurus</List>
+		<List>Pistosaurus</List>
+		<List>Placodus</List>
+		<List>IVPP_V_11866</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="125">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Rieppel_etal_2003a</Filename>
+	<Parent>Rieppel_1998b</Parent>
+	<Sibling/>
+</SourceTree>

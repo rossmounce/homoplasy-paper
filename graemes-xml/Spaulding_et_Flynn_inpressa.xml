@@ -1,0 +1,86 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Spaulding, M.</List>
+			<List>Flynn, J. J.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>Phylogeny of the Carnivoramorpha: The impact of postcranial characters</Title>
+		<Journal>Journal of Systematic Palaeontology</Journal>
+		<Volume></Volume>
+		<Pages></Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="51">
+		<List>Leptictis</List>
+		<List>Hyaenodon</List>
+		<List>Thinocyon_sp</List>
+		<List>Echinosorex_gymnurus</List>
+		<List>Erinaceus_europaeus</List>
+		<List>Oodectes_herpestoides</List>
+		<List>Vulpavus_profectus</List>
+		<List>Vulpavus_palustris</List>
+		<List>Vulpavus_ovatus</List>
+		<List>Miacis_parvivorus</List>
+		<List>Dawsonicyon_isami</List>
+		<List>Miacis_petilus</List>
+		<List>Miacis_washakius</List>
+		<List>Miacis_sylvestris</List>
+		<List>Procynodictis_vulpiceps</List>
+		<List>Miacis_uintensis</List>
+		<List>Tapocyon_robustus</List>
+		<List>Quercygale</List>
+		<List>Protictis_schaffi</List>
+		<List>Viverravus_acutus</List>
+		<List>Viverravus_minutus</List>
+		<List>Viverravus_gracilis</List>
+		<List>Didymictis_protenus</List>
+		<List>Didymictis_vancleveae</List>
+		<List>Hesperocyon_gregarious</List>
+		<List>Otarocyon</List>
+		<List>Daphoenus_sp</List>
+		<List>Miacis_cognitus</List>
+		<List>Canis_latrans</List>
+		<List>Mephitis_mephitis</List>
+		<List>Gulo_gulo</List>
+		<List>Ursus</List>
+		<List>Otariidae</List>
+		<List>Pteronarctos_goedertae</List>
+		<List>Procyon_lotor</List>
+		<List>Ailurus_fulgens</List>
+		<List>Hoplophoneus</List>
+		<List>Dinictis</List>
+		<List>Nandinia_binotata</List>
+		<List>Hyaena_hyaena</List>
+		<List>Civettictis_civetta</List>
+		<List>Felis_concolor</List>
+		<List>Herpestes</List>
+		<List>Zodiolestes</List>
+		<List>Palaeoprionodon</List>
+		<List>Stenogale</List>
+		<List>Proailurus</List>
+		<List>Herpestides_antiquus</List>
+		<List>Miacis_exiguus</List>
+		<List>Miacis_medius</List>
+		<List>PM_3868</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="216">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Spaulding_et_Flynn_inpressa</Filename>
+	<Parent>Wesley-Hunt_et_Flynn_2005a</Parent>
+	<Sibling/>
+</SourceTree>

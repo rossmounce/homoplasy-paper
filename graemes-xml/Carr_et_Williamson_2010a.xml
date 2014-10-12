@@ -1,0 +1,61 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Carr, T. D.</List>
+			<List>Williamson, T. E.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title><em>Bistahieversor sealeyi</em>, gen. et sp. nov., a new tyrannosauroid from New Mexico and the origin of deep snouts in Tyrannosauroidea</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>30</Volume>
+		<Pages>1-16</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="26">
+		<List>Coelophysis_bauri</List>
+		<List>Coelurus_fragilis</List>
+		<List>Allosaurus_fragilis</List>
+		<List>Sinosauropteryx_prima</List>
+		<List>Velociraptor_mongoliensis</List>
+		<List>Tanycolagreus_topwilsoni</List>
+		<List>Dilong_paradoxus</List>
+		<List>Cf._Alectrosaurus_GIN_100_slash_50_100</List>
+		<List>Aviatyrannis_jurassica</List>
+		<List>Eotyrannus_lengi</List>
+		<List>Stokesosaurus_clevelandi</List>
+		<List>Iliosuchus_incognitus</List>
+		<List>Dryptosaurus_aquilunguis</List>
+		<List>Appalachiosaurus_montgomeriensis</List>
+		<List>Alioramus_remotus</List>
+		<List>Bistahieversor_sealeyi</List>
+		<List>New_genus_from_Utah</List>
+		<List>Albertosaurus_libratus</List>
+		<List>Albertosaurus_sarcophagus</List>
+		<List>Tyrannosaurus_bataar</List>
+		<List>Daspletosaurus_spp.</List>
+		<List>Daspletosaurus_sp._MOR</List>
+		<List>Tyrannosaurus_rex</List>
+		<List>Bagaraatan_ostromi</List>
+		<List>Guanlong_wucaii</List>
+		<List>Monolophosaurus_jiangi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="274">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Carr_et_Williamson_2010a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

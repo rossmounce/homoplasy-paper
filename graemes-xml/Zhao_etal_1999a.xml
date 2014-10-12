@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Zhao, X.-J.</List>
+			<List>Cheng, Z.-W.</List>
+			<List>Xu, X.</List>
+		</Author>
+		<Year>1999</Year>
+		<Title>The earliest ceratopsian from the Tuchengzi Formation of Liaoning, China</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>19</Volume>
+		<Pages>681-691</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="7">
+		<List>Ornithopod</List>
+		<List>Pachycephalosauria</List>
+		<List>Psittacosaurus</List>
+		<List>Chaoyangsaurus</List>
+		<List>Archaeoceratops</List>
+		<List>Leptoceratops</List>
+		<List>Ceratopsidae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="25">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Zhao_etal_1999a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

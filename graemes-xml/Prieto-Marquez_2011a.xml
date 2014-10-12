@@ -1,0 +1,82 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Prieto-Marquez, A.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>A reappraisal of <em>Barsboldia sicinskii</em> (Dinosauria: Hadrosauridae) from the Late Cretaceous of Mongolia</Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>85</Volume>
+		<Pages>468-477</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="48">
+		<List>Iguanodon_bernissartensis</List>
+		<List>Equijubus_normani</List>
+		<List>Probactrosaurus_gobiensis</List>
+		<List>Eolambia_caroljonesa</List>
+		<List>Protohadros_byrdi</List>
+		<List>Tanius_sinensis</List>
+		<List>Bactrosaurus_johnsoni</List>
+		<List>Telmatosaurus_transsylvanicus</List>
+		<List>Lophorhothon_atopus</List>
+		<List>Hadrosaurus_foulkii</List>
+		<List>Barsboldia_sicinskii</List>
+		<List>Shantungosaurus_giganteus</List>
+		<List>Wulagasaurus_dongi</List>
+		<List>Kritosaurus_navajovius</List>
+		<List>Gryposaurus_latidens</List>
+		<List>Gryposaurus_notabilis</List>
+		<List>Gryposaurus_monumentensis</List>
+		<List>UTEP_OTU</List>
+		<List>Secernosaurus_koerneri</List>
+		<List>Salitral_Moreno_OTU</List>
+		<List>Kerberosaurus_manakini</List>
+		<List>Sabinosaur</List>
+		<List>Prosaurolophus_maximus</List>
+		<List>Saurolophus_osborni</List>
+		<List>Saurolophus_angustirostris</List>
+		<List>Edmontosaurus_annectens</List>
+		<List>Edmontosaurus_regalis</List>
+		<List>Brachylophosaurus_canadensis</List>
+		<List>Maiasaura_peeblesorum</List>
+		<List>Aralosaurus_tuberiferus</List>
+		<List>Jaxartosaurus_aralensis</List>
+		<List>Olorotitan_ararhensis</List>
+		<List>Sahaliyania_elunchunorum</List>
+		<List>Amurosaurus_riabinini</List>
+		<List>Velafrons_coahuilensis</List>
+		<List>Hypacrosaurus_altispinus</List>
+		<List>Lambeosaurus_laticaudus</List>
+		<List>Hypacrosaurus_stebingeri</List>
+		<List>Corythosaurus_casuarius</List>
+		<List>Corythosaurus_intermedius</List>
+		<List>Lambeosaurus_lambei</List>
+		<List>Lambeosaurus_magnicristatus</List>
+		<List>Charonosaurus_jiayinensis</List>
+		<List>Parasaurolophus_cyrtocristatus</List>
+		<List>Parasaurolophus_walkeri</List>
+		<List>Parasaurolophus_tubicen</List>
+		<List>Pararhabdodon_isonensis</List>
+		<List>Tsintaosaurus_spinorhinus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="286">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Prieto-Marquez_2011a</Filename>
+	<Parent>Prieto-Marquez_2010a</Parent>
+	<Sibling/>
+</SourceTree>

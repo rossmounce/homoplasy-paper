@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Tsuji, L. A.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>Cranial anatomy and phylogenetic affinities of the Permian parareptile <em>Macroleter poezicus</em></Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>26</Volume>
+		<Pages>849-865</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="16">
+		<List>Synapsida</List>
+		<List>Mesosauridae</List>
+		<List>Eunotosaurus</List>
+		<List>Millerettidae</List>
+		<List>Eudibamus</List>
+		<List>Belebey</List>
+		<List>Acleistorhinus</List>
+		<List>Lanthanosuchus</List>
+		<List>Macroleter</List>
+		<List>Nyctiphruretus</List>
+		<List>Bradysaurus</List>
+		<List>Scutosaurus</List>
+		<List>Procolophon</List>
+		<List>Owenetta</List>
+		<List>Barasaurus</List>
+		<List>Captorhinidae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="89">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Tsuji_2006a</Filename>
+	<Parent>Laurin_et_Reisz_1995a</Parent>
+	<Sibling/>
+</SourceTree>

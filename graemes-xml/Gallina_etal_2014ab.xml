@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Gallina, P. A.</List>
+			<List>Apesteguia, S.</List>
+			<List>Haluza, A.</List>
+			<List>Canale, J. I.</List>
+		</Author>
+		<Year>2014</Year>
+		<Title>A diplodocid sauropod survivor from the Early Cretaceous of South America</Title>
+		<Journal>PLOS ONE</Journal>
+		<Volume>9</Volume>
+		<Pages>e97128</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Omeisaurus</List>
+		<List>Camarasaurus</List>
+		<List>Limaysaurus_tessonei</List>
+		<List>Dicraeosaurus_hansemanni</List>
+		<List>Amargasaurus</List>
+		<List>Suuwassea_emilieae</List>
+		<List>Apatosaurus</List>
+		<List>Supersaurus_vivianae</List>
+		<List>Dinheirosaurus_lourinhanensis</List>
+		<List>Tornieria_africana</List>
+		<List>Diplodocus</List>
+		<List>Barosaurus_lentus</List>
+		<List>Kaatedocus_siberi</List>
+		<List>Leinkupal_laticauda</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="236">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Gallina_etal_2014ab</Filename>
+	<Parent>Tschopp_et_Mateus_inpressa</Parent>
+	<Sibling/>
+</SourceTree>

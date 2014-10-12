@@ -1,0 +1,110 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Jouve, S.</List>
+			<List>Bardet, N.</List>
+			<List>Jalil, N.-E.</List>
+			<List>Pereda Suberbiola, X.</List>
+			<List>Bouya, B.</List>
+			<List>Amaghzaz, M.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>The oldest African crocodylian: phylogeny, paleobiogeography, and differential survivorship of marine reptiles trhough the Crteaceous-Tertiary boundary</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>28</Volume>
+		<Pages>409-421</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="71">
+		<List>Bernissartia_fagesii</List>
+		<List>Alligator_mcgrewi</List>
+		<List>Alligator_mefferdi</List>
+		<List>Alligator_mississippiensis</List>
+		<List>Alligator_olseni</List>
+		<List>Alligator_prenasalis</List>
+		<List>Alligator_sinensis</List>
+		<List>Allodaposuchus_precedens</List>
+		<List>Allognathosuchus_mooki</List>
+		<List>Arambourgia_gaudryi</List>
+		<List>Argochampsa_krebsi</List>
+		<List>Asiatosuchus_germanicus</List>
+		<List>Australosuchus_clarkae</List>
+		<List>Borealosuchus_formidabilis</List>
+		<List>Borealosuchus_sternbergii</List>
+		<List>Borealosuchus_wilsoni</List>
+		<List>Brachychampsa_montana</List>
+		<List>Brachyuranochampsa_eversolei</List>
+		<List>Caiman_crocodilus</List>
+		<List>Crocodylus_acer</List>
+		<List>Crocodylus_affinis</List>
+		<List>Crocodylus_cataphractus</List>
+		<List>Crocodylus_lloydi</List>
+		<List>Crocodylus_megarhinus</List>
+		<List>Crocodylus_niloticus</List>
+		<List>Crocodylus_palaeindicus</List>
+		<List>Crocodylus_porosus</List>
+		<List>Crocodylus_rhombifer</List>
+		<List>Crocodylus_robustus</List>
+		<List>Diplocynodon_darwini</List>
+		<List>Diplocynodon_hantonensis</List>
+		<List>Diplocynodon_ratelii</List>
+		<List>Dollosuchus_dixoni</List>
+		<List>Dormaal_crocodyloid</List>
+		<List>Eocaiman_cavernosus</List>
+		<List>Eogavialis_africanum</List>
+		<List>Eosuchus_lerichei</List>
+		<List>Eosuchus_minor</List>
+		<List>Eothoracosaurus</List>
+		<List>Euthecodon_arambourgi</List>
+		<List>G_eggenburgensis</List>
+		<List>Gavialis_gangeticus</List>
+		<List>Gavialosuchus_americanus</List>
+		<List>Gryposuchus_colombianus</List>
+		<List>Harpacochampsa</List>
+		<List>Hylaeochampsa_vectiana</List>
+		<List>Ikanogavialis_gameroi</List>
+		<List>Kambara</List>
+		<List>Kentisuchus_spenceri</List>
+		<List>Leidyosuchus_canadensis</List>
+		<List>Melanosuchus_niger</List>
+		<List>Nettosuchidae</List>
+		<List>Ocepesuchus</List>
+		<List>Osteolaemus_tetraspis</List>
+		<List>Paleosuchus_palpebrosus</List>
+		<List>Paleosuchus_trigonatus</List>
+		<List>Paratomistoma_courti</List>
+		<List>Piscogavialis_jugaliperforatus</List>
+		<List>Pristichampsus_rollinatii</List>
+		<List>Procaimanoidea_kayi</List>
+		<List>Prodiplocynodon_langi</List>
+		<List>Purussaurus_neivensis</List>
+		<List>Siquisiquesuchus</List>
+		<List>Siwalik_Gavialis</List>
+		<List>Stangerochampsa_mccabei</List>
+		<List>Thoracosaurus_macrorhynchus</List>
+		<List>Thoracosaurus_neocesariensis</List>
+		<List>Tomistoma_cairense</List>
+		<List>Tomistoma_lusitanica</List>
+		<List>Tomistoma_schlegelii</List>
+		<List>Wannaganosuchus_brachymanus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="201">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Jouve_etal_2008b</Filename>
+	<Parent>Brochu_1999a</Parent>
+	<Sibling/>
+</SourceTree>

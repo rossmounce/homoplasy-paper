@@ -1,0 +1,66 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Gauthier, J.</List>
+			<List>Kluge, A. G.</List>
+			<List>Rowe, T.</List>
+		</Author>
+		<Year>1988</Year>
+		<Title>Amniote phylogeny and the importance of fossils</Title>
+		<Journal>Cladistics</Journal>
+		<Volume>4</Volume>
+		<Pages>105-209</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="30">
+		<List>Ancestor</List>
+		<List>Casea</List>
+		<List>Ophiacodon</List>
+		<List>Edaphosaurus</List>
+		<List>Sphenacodontinae</List>
+		<List>Biarmosuchia</List>
+		<List>Dinocephalia</List>
+		<List>Gorgonopsia</List>
+		<List>Dicynodontia</List>
+		<List>Therocephalia</List>
+		<List>Procynosuchus</List>
+		<List>Thrinaxodon</List>
+		<List>Diademodon</List>
+		<List>Exaeretodon</List>
+		<List>Tritylodontidae</List>
+		<List>Morganucodontidae</List>
+		<List>Mammalia</List>
+		<List>Testudines</List>
+		<List>Captorhinidae</List>
+		<List>Araeoscelidia</List>
+		<List>Lepidosauromorpha</List>
+		<List>Rhynchosauria</List>
+		<List>Trilophosaurus</List>
+		<List>Choristodera</List>
+		<List>Protorosauria</List>
+		<List>Proterosuchidae</List>
+		<List>Erythrosuchidae</List>
+		<List>Proterochampsidae</List>
+		<List>Pseudosuchia</List>
+		<List>Ornithosuchia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="207">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Gauthier_etal_1988a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

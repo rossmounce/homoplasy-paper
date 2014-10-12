@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Heckert, A. B.</List>
+			<List>Hunt, A. P.</List>
+			<List>Lucas, S. G.</List>
+		</Author>
+		<Year>1996</Year>
+		<Title>Redescription of <em>Redondasuchus reseri</em>, a Late Triassicaetosaur (Reptilia: Archosauria) from New Mexico (U.S.A.), and the biochronology and phylogeny of aetosaurs</Title>
+		<Journal>Geobios</Journal>
+		<Volume>29</Volume>
+		<Pages>619-632</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="9">
+		<List>Aetosaurus</List>
+		<List>Aetosauroides</List>
+		<List>Stagonolepis</List>
+		<List>Neoaetosauroides</List>
+		<List>Redondasuchus</List>
+		<List>Longosuchus</List>
+		<List>Desmatosuchus</List>
+		<List>Paratypothorax</List>
+		<List>Typothorax</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="22">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Heckert_etal_1996aa</Filename>
+	<Parent>Parrish_1994a</Parent>
+	<Sibling/>
+</SourceTree>

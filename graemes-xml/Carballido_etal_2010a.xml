@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Carballido, J. L.</List>
+			<List>Garrido, A. C.</List>
+			<List>Canudo, J. I.</List>
+			<List>Salgado, L.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>Redescription of Rayososaurus agrioensis Bonaparte (Sauropoda, Diplodocoidea), a rebbachisaurid from the early Late Cretaceous of Neuquen</Title>
+		<Journal>Geobios</Journal>
+		<Volume>43</Volume>
+		<Pages>493-502</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="19">
+		<List>Omeisaurus</List>
+		<List>Jobaria</List>
+		<List>MACRONARIA</List>
+		<List>Suuwassea</List>
+		<List>Apatosaurus</List>
+		<List>Diplodocus</List>
+		<List>Amargasaurus</List>
+		<List>Brachytrachelopan</List>
+		<List>Dicraeosaurus</List>
+		<List>Histriasaurus</List>
+		<List>Rebbachisaurus</List>
+		<List>Limaysaurus</List>
+		<List>Cathartesaura</List>
+		<List>Zapalasaurus</List>
+		<List>Rayososaurus</List>
+		<List>English_Rebbachisauridae</List>
+		<List>Amazonsaurus</List>
+		<List>Nigersaurus</List>
+		<List>Spain_Rebbachisauridae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="104">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Carballido_etal_2010a</Filename>
+	<Parent>Sereno_etal_2007a</Parent>
+	<Sibling/>
+</SourceTree>

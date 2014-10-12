@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Amson, E.</List>
+			<List>Laurin, M.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>On the affinities of <em>Tetraceratops insignis</em>, an Early Permian synapsid</Title>
+		<Journal>Acta Palaeontologica Polonica</Journal>
+		<Volume>56</Volume>
+		<Pages>301-312</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="23">
+		<List>Haptodus</List>
+		<List>Dimetrodon</List>
+		<List>Tetraceratops</List>
+		<List>Raranimus</List>
+		<List>Biarmosuchus</List>
+		<List>Hipposaurus</List>
+		<List>Herpetoskylax</List>
+		<List>Lycaenodon</List>
+		<List>Lemurosaurus</List>
+		<List>Proburnetia</List>
+		<List>Burnetia</List>
+		<List>Syodon</List>
+		<List>Titanophoneus</List>
+		<List>Stenocybus</List>
+		<List>Styracocephalus</List>
+		<List>Jonkeria</List>
+		<List>Estemmenosuchus</List>
+		<List>Biseridens</List>
+		<List>Patranomodon</List>
+		<List>Suminia</List>
+		<List>Gorgonops</List>
+		<List>Lycaenops</List>
+		<List>Cyonosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="78">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Amson_et_Laurin_2011aa</Filename>
+	<Parent>Liu_etal_2009a</Parent>
+	<Sibling/>
+</SourceTree>

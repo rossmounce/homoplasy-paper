@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Brusatte, S. L.</List>
+			<List>Carr, T. D.</List>
+			<List>Erickson, G. M.</List>
+			<List>Bever, G. S.</List>
+			<List>Norell, M. A.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>A long-snouted, multihorned tyrannosaurid from the Late Cretaceous of Mongolia</Title>
+		<Journal>Proceedings of the National Academy of Sciences, USA</Journal>
+		<Volume>106</Volume>
+		<Pages>17261-17266</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="20">
+		<List>Coelophysis</List>
+		<List>Allosaurus</List>
+		<List>Velociraptor</List>
+		<List>Sinosauropteryx</List>
+		<List>Dilong</List>
+		<List>Guanlong</List>
+		<List>Dryptosaurus</List>
+		<List>Appalachiosaurus</List>
+		<List>Eotyrannus</List>
+		<List>Xiongguanlong</List>
+		<List>New_taxon_from_New_Mexico</List>
+		<List>Gorgosaurus_libratus</List>
+		<List>Albertosaurus_sarcophagus</List>
+		<List>New_taxon_from_Utah</List>
+		<List>Daspletosaurus_spp.</List>
+		<List>Daspletosaurus_sp._MOR590</List>
+		<List>Tyrannosaurus_rex</List>
+		<List>Tyrannosaurus_bataar</List>
+		<List>Alioramus_altai</List>
+		<List>Alioramus_remotus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="279">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Brusatte_etal_2009bb</Filename>
+	<Parent>Carr_et_Williamson_2010a</Parent>
+	<Sibling/>
+</SourceTree>

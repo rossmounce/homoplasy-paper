@@ -1,0 +1,60 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Naish, D.</List>
+			<List>Simpson, M.</List>
+			<List>Dyke, G.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>A new small-bodied azhdarchoid pterosaur from the Lower Cretaceous of England and its implications for pterosaur anatomy, diversity and phylogeny</Title>
+		<Journal>PLOS One</Journal>
+		<Volume>8</Volume>
+		<Pages>e58451</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="24">
+		<List>Dimorphodon_macronyx</List>
+		<List>AMNH_22569</List>
+		<List>Anhanguera_piscator</List>
+		<List>Anhanguera_santanae</List>
+		<List>Anurognathus_ammoni</List>
+		<List>Arthurdactylus_conandoylei</List>
+		<List>Barbosania_gracilirostris</List>
+		<List>Campylognathoides_liasicus</List>
+		<List>Coloborhynchus_speilbergi</List>
+		<List>Darwinopterus_linglongtaensis</List>
+		<List>DFMMh_slash_FV_500_dsungaripterid</List>
+		<List>Dsungaripterus_weii</List>
+		<List>Eudimorphodon_ranzii</List>
+		<List>Gegepterus_changae</List>
+		<List>Germanodactylus_rhamphastinus</List>
+		<List>Rhamphorhynchus_muensteri</List>
+		<List>MN_6588_dash_V</List>
+		<List>Pterodactylus_antiquus</List>
+		<List>Nyctosaurus_gracilis</List>
+		<List>Pteranodon_longiceps</List>
+		<List>Tapejara_wellnhoferi</List>
+		<List>Toolebuc_pterosaur</List>
+		<List>Tropeognathus_cf_robustus_SMNK_1133_PAL</List>
+		<List>Vectidraco_daisymorrisae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="23">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Naish_etal_2013aa</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

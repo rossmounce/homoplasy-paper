@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Joyce, W. G.</List>
+			<List>Norell, M. A.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title><em>Zangerlia ukhaachelys</em>, new species, a nanhsiungchelyid turtle from the Late Cretaceous of Ukhaa Tolgod, Mongolia</Title>
+		<Journal>American Museum Novitates</Journal>
+		<Volume>3481</Volume>
+		<Pages>1-19</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List>Adocus_punctatus</List>
+		<List>Zangerlia_testudinimorpha</List>
+		<List>Zangerlia_neimongolensis</List>
+		<List>Zangerlia_ukhaachelys</List>
+		<List>Basilemys_varialosa</List>
+		<List>Basilemys_nobilis</List>
+		<List>Basilemys_sinuosa</List>
+		<List>Basilemys_praeclara</List>
+		<List>Hanbogdemys_orientalis</List>
+		<List>Anomalochelys_angulata</List>
+		<List>Nanhsiungchelys_wuchingensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="39">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Joyce_et_Norell_2005a</Filename>
+	<Parent>Hirayama_etal_2001a</Parent>
+	<Sibling/>
+</SourceTree>

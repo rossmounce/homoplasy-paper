@@ -1,0 +1,140 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Godefroit, P.</List>
+			<List>Cau, A.</List>
+			<List>Hu, D.-Y.</List>
+			<List>Escuillie, F.</List>
+			<List>Wu, W.-H.</List>
+			<List>Dyke, G.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>A Jurassic avialan dinosaur from China resolves the early phylogenetic history of birds</Title>
+		<Journal>Nature</Journal>
+		<Volume>498</Volume>
+		<Pages>359-362</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="101">
+		<List>Dilophosaurus_wetherilli</List>
+		<List>Achillobator</List>
+		<List>Alvarezsaurus</List>
+		<List>Alxasaurus</List>
+		<List>Anchiornis</List>
+		<List>Apsaravis</List>
+		<List>Archaeopteryx</List>
+		<List>Archaeorhynchus</List>
+		<List>Austroraptor</List>
+		<List>Avimimus</List>
+		<List>Balaur</List>
+		<List>Bambiraptor</List>
+		<List>Beipiaosaurus</List>
+		<List>Bonapartenykus</List>
+		<List>Buitreraptor</List>
+		<List>Byronosaurus</List>
+		<List>Caudipteryx</List>
+		<List>Chirostenotes</List>
+		<List>Citipati</List>
+		<List>Coelurus</List>
+		<List>Compsognathus</List>
+		<List>Concornis</List>
+		<List>Confuciusornis</List>
+		<List>Deinonychus</List>
+		<List>Dilong</List>
+		<List>Dromaeosaurus</List>
+		<List>Dubreuillosaurus</List>
+		<List>Epidendrosaurus</List>
+		<List>Epidexipteryx</List>
+		<List>Erlicosaurus</List>
+		<List>Falcarius</List>
+		<List>Gallimimus</List>
+		<List>Gansus</List>
+		<List>Garudimimus</List>
+		<List>Gigantoraptor</List>
+		<List>Gobipteryx</List>
+		<List>Graciliraptor</List>
+		<List>Guanlong</List>
+		<List>Haplocheirus</List>
+		<List>Harpymimus</List>
+		<List>Huaxiagnathus</List>
+		<List>Incisivosaurus</List>
+		<List>Jianchangornis</List>
+		<List>Jinfengopteryx</List>
+		<List>Juravenator</List>
+		<List>Khaan</List>
+		<List>Longipteryx</List>
+		<List>Mahakala</List>
+		<List>Mei</List>
+		<List>Microraptor</List>
+		<List>Microvenator</List>
+		<List>Monolophosaurus</List>
+		<List>Mononykus</List>
+		<List>Neuquenraptor</List>
+		<List>NGMC_91</List>
+		<List>Nothronychus_graffami</List>
+		<List>Nqwebasaurus</List>
+		<List>Ornitholestes</List>
+		<List>Oviraptor_philoceratops</List>
+		<List>Parvicursorinae_indet_IGN_100_9</List>
+		<List>Patagonykus</List>
+		<List>Patagopteryx</List>
+		<List>Pelecanimimus</List>
+		<List>Pengornis</List>
+		<List>Protarchaeopteryx</List>
+		<List>Protopteryx</List>
+		<List>Rahonavis</List>
+		<List>Sapeornis</List>
+		<List>Saurornithoides</List>
+		<List>Saurornitholestes_langstoni</List>
+		<List>Schizooura</List>
+		<List>Sciurumimus</List>
+		<List>Shanag</List>
+		<List>Shenzhouraptor</List>
+		<List>Shenzhousaurus</List>
+		<List>Shuvuuia</List>
+		<List>Similicaudipteryx</List>
+		<List>Sinocalliopteryx</List>
+		<List>Sinornithoides</List>
+		<List>Sinornithos_millennii</List>
+		<List>Sinosauropteryx</List>
+		<List>Sinraptor_dongi</List>
+		<List>Sinovenator</List>
+		<List>Sinusonasus</List>
+		<List>Tanycolagreus</List>
+		<List>Tianyuraptor</List>
+		<List>Troodon</List>
+		<List>Tsaagan</List>
+		<List>Tugulusaurus</List>
+		<List>Tyrannosaurus</List>
+		<List>Unenlagia_comahuensis</List>
+		<List>Unenlagia_paynemili</List>
+		<List>Utahraptor</List>
+		<List>Velociraptor_mongoliensis</List>
+		<List>Xiaotingia</List>
+		<List>Yixianornis</List>
+		<List>Yutyrannus</List>
+		<List>Zanabazar</List>
+		<List>Zuolong</List>
+		<List>Eosinopteryx</List>
+		<List>Aurornis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="1500">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Godefroit_etal_2013b</Filename>
+	<Parent>Naish_etal_2012a</Parent>
+	<Sibling/>
+</SourceTree>

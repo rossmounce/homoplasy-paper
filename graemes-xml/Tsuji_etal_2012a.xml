@@ -1,0 +1,66 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Tsuji, L. A.</List>
+			<List>Muller, J.</List>
+			<List>Reisz, R. R.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>Anatomy of <em>Emeroleter levis</em> and the phylogeny of the nycteroleter parareptiles</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>32</Volume>
+		<Pages>45-67</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="30">
+		<List>Seymouria</List>
+		<List>Limnoscelidae</List>
+		<List>Diadectidae</List>
+		<List>Synapsida</List>
+		<List>Captorhinidae</List>
+		<List>Paleothyris</List>
+		<List>Araeoscelidia</List>
+		<List>Younginiformes</List>
+		<List>Mesosauridae</List>
+		<List>Eunotosaurus</List>
+		<List>Millerettidae</List>
+		<List>Australothyris</List>
+		<List>Microleter</List>
+		<List>Nyctiphruretus</List>
+		<List>Eudibamus</List>
+		<List>Belebey</List>
+		<List>Acleistorhinus</List>
+		<List>Lanthanosuchus</List>
+		<List>Bradysaurus</List>
+		<List>Pareiasuchus</List>
+		<List>Scutosaurus</List>
+		<List>Procolophon</List>
+		<List>Owenetta</List>
+		<List>Barasaurus</List>
+		<List>Macroleter</List>
+		<List>Bashykyroleter_mesensis</List>
+		<List>Bashykyroleter_bashkyricus</List>
+		<List>Nycteroleter</List>
+		<List>Emeroleter</List>
+		<List>Rhipaeosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="136">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Tsuji_etal_2012a</Filename>
+	<Parent>Tsuji_etal_2010a</Parent>
+	<Sibling/>
+</SourceTree>

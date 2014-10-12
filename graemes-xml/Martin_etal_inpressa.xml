@@ -1,0 +1,73 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Martin, J. E.</List>
+			<List>Lauprasert, K.</List>
+			<List>Buffetaut, E.</List>
+			<List>Liard, R.</List>
+			<List>Suteethorn, V.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>A large pholidosaurid in the Phu Kradung Formation of north-eastern Thailand</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="35">
+		<List>Protosuchus</List>
+		<List>Hemiprotosuchus</List>
+		<List>Orthosuchus</List>
+		<List>Notosuchus</List>
+		<List>Baurusuchus</List>
+		<List>Libycosuchus</List>
+		<List>Sebecus</List>
+		<List>Araripesuchus</List>
+		<List>Alligatorium</List>
+		<List>Theriosuchus</List>
+		<List>Pelagosaurus</List>
+		<List>Teleosauridae</List>
+		<List>Metriorhynchidae</List>
+		<List>Eutretauranosuchus</List>
+		<List>Goniopholis_lucasii</List>
+		<List>Bernissartia</List>
+		<List>Crocodylia</List>
+		<List>Mahajangasuchus</List>
+		<List>Peirosauridae</List>
+		<List>Hsisosuchus</List>
+		<List>Trematochampsa</List>
+		<List>Uruguaysuchus</List>
+		<List>Malawisuchus</List>
+		<List>Comahuesuchus</List>
+		<List>Simosuchus</List>
+		<List>Sunosuchus_junggarensis</List>
+		<List>Sunosuchus_miaoi</List>
+		<List>Calsoyasuchus</List>
+		<List>Siamosuchus_phuphokensis</List>
+		<List>Goniopholis_simus</List>
+		<List>G_baryglyphaeus</List>
+		<List>Sarcosuchus_imperator</List>
+		<List>Elosuchus</List>
+		<List>Pholidosaurus</List>
+		<List>Chalawan_thailandicus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="100">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Martin_etal_inpressa</Filename>
+	<Parent>Martin_et_Buffetaut_2012a</Parent>
+	<Sibling/>
+</SourceTree>

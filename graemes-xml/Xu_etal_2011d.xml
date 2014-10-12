@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Xu, X.</List>
+			<List>Sullivan, C.</List>
+			<List>Pitman, M.</List>
+			<List>Choiniere, J. N.</List>
+			<List>Hone, D.</List>
+			<List>Upchurch, P.</List>
+			<List>Tan, Q.-W.</List>
+			<List>Xiao, D.</List>
+			<List>Tan, L.</List>
+			<List>Han, F.-L.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>A monodactyl nonavian dinosaur and the complex evolution of the alvarezsauroid hand</Title>
+		<Journal>Proceedings of the National Academy of Sciences, USA</Journal>
+		<Volume>108</Volume>
+		<Pages>2338-2342</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Tyrannosauridae</List>
+		<List>Dromaeosauridae</List>
+		<List>Haplocheirus</List>
+		<List>Achillesaurus_manazzonei</List>
+		<List>Alvarezsaurus_calvoi</List>
+		<List>Patagonykus_puertai</List>
+		<List>Linhenykus</List>
+		<List>Albertonykus_borealis</List>
+		<List>YPM_1049</List>
+		<List>Xixianykus_zhangi</List>
+		<List>Mononykus_olecranus</List>
+		<List>Shuvuuia_deserti</List>
+		<List>Parvicursor_remotus</List>
+		<List>Tugriken_Shireh_alvarezsaur</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="77">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Xu_etal_2011d</Filename>
+	<Parent>Longrich_et_Currie_2009a</Parent>
+	<Sibling/>
+</SourceTree>

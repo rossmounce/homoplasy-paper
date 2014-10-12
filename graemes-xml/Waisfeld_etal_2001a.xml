@@ -1,0 +1,80 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Waisfeld, B. G.</List>
+			<List>Vaccari, N. E.</List>
+			<List>Chatterton, B. D. E.</List>
+			<List>Edgecombe, G. D.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>Systematics of Shumardiidae (Trilobita), with new species from the Ordovician of Argentina</Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>75</Volume>
+		<Pages>827-859</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="43">
+		<List>A_dydimacantha</List>
+		<List>S_aculeata</List>
+		<List>S_analoga</List>
+		<List>S_angulata</List>
+		<List>S_crossi</List>
+		<List>S_gadwanensis</List>
+		<List>S_granulosa</List>
+		<List>S_lacrima</List>
+		<List>S_tarimuensis</List>
+		<List>S_whittingtoni</List>
+		<List>C_acutifrons</List>
+		<List>C_alata</List>
+		<List>C_changshanensis</List>
+		<List>C_fabiani</List>
+		<List>C_gaoluoensis</List>
+		<List>C_gonioloba</List>
+		<List>C_minutula</List>
+		<List>C_pentagonalis</List>
+		<List>C_pusilla</List>
+		<List>C_rushtoni</List>
+		<List>C_salopiensis</List>
+		<List>C_sulcatus</List>
+		<List>C_tauwhena</List>
+		<List>C_wrighti</List>
+		<List>C_cf_pellizari</List>
+		<List>L_exopthalma</List>
+		<List>L_hintzei</List>
+		<List>L_ludvigseni</List>
+		<List>C_carrerai</List>
+		<List>C_gracielae</List>
+		<List>C_riojana</List>
+		<List>C_sanjuanina</List>
+		<List>K_piojensis</List>
+		<List>K_salasae</List>
+		<List>K_sterrenae</List>
+		<List>K_forbesi</List>
+		<List>K_matchensis</List>
+		<List>K_acuticaudata</List>
+		<List>K_lacrimosa</List>
+		<List>K_minaretta</List>
+		<List>A_grindrodi</List>
+		<List>K_typicalis</List>
+		<List>T_bituberculata</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="52">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Waisfeld_etal_2001a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

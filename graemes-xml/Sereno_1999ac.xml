@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sereno, P. C.</List>
+		</Author>
+		<Year>1999</Year>
+		<Title>The evolution of dinosaurs</Title>
+		<Journal>Science</Journal>
+		<Volume>284</Volume>
+		<Pages>2137-2147</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>THYREOPHORA</List>
+		<List>MARGINOCEPHALIA</List>
+		<List>HETERODONTOSAURIDAE</List>
+		<List>HYPSILOPHODONTOSAURIDAE</List>
+		<List>Muttaburrasaurus</List>
+		<List>Tenontosaurus</List>
+		<List>DRYOSAURIDAE</List>
+		<List>CAMPTOSAURIDAE</List>
+		<List>Probactrosaurus</List>
+		<List>IGUANODONTIDAE</List>
+		<List>Ouranosaurus</List>
+		<List>Protohadros</List>
+		<List>HADROSAURINAE</List>
+		<List>LAMBEOSAURINAE</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="149">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sereno_1999ac</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

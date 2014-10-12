@@ -1,0 +1,91 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ruta, M.</List>
+			<List>Bolt, J. R.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>The brachyopoid <em>Hadrokkosaurus bradyi</em> from the early Middle Triassic of Arizona, and a phylogenetic analysis of lower jaw characters in temnospondyl amphibians</Title>
+		<Journal>Acta Palaeontologica Polonica</Journal>
+		<Volume>53</Volume>
+		<Pages>579-592</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="56">
+		<List>Panderichthys_rhombolepis</List>
+		<List>Acanthostega_gunnari</List>
+		<List>Archeria_crassidisca</List>
+		<List>Caerorhachis_bairdi</List>
+		<List>Crassigyrinus_scoticus</List>
+		<List>Diploceraspis_burkei</List>
+		<List>Discosauriscus_austriacus</List>
+		<List>Doragnathus_woodi</List>
+		<List>Gephyrostegus_bohemicus</List>
+		<List>Greererpeton_burkemorani</List>
+		<List>Ichthyostega_stensioei</List>
+		<List>Megalocephalus_pachycephalus</List>
+		<List>Microbrachis_pelikani</List>
+		<List>NMS987GF65_dot_1</List>
+		<List>Occidens_portlocki</List>
+		<List>Pantylus_cordatus</List>
+		<List>Pholiderpeton_scutigerum</List>
+		<List>Sigournea_multidentata</List>
+		<List>Spathicephalus_mirus</List>
+		<List>Ventastega_curonica</List>
+		<List>Whatcheeria_deltae</List>
+		<List>Acanthostomatops_vorax</List>
+		<List>Archegosaurus_decheni</List>
+		<List>Balanerpeton_woodi</List>
+		<List>Bathignathus_poikilops</List>
+		<List>Benthosuchus_sushkini</List>
+		<List>Cheliderpeton_latirostre</List>
+		<List>Chomatobatrachus_halei</List>
+		<List>Cochleosaurus_bohemicus</List>
+		<List>Cochleosaurus_florensis</List>
+		<List>Compsocerops_cosgriffi</List>
+		<List>Dutuitosaurus_ouazzoui</List>
+		<List>Dvinosaurus_primus</List>
+		<List>Ecolsonia_cutlerensis</List>
+		<List>Edops_craigi</List>
+		<List>Eryops_megacephalus</List>
+		<List>Hadrokkosaurus_bradyi</List>
+		<List>Inflectosaurus_amplus</List>
+		<List>Karroosuchus_haughtoni</List>
+		<List>Koolasuchus_cleelandi</List>
+		<List>Kupferzellia_wildi</List>
+		<List>Lydekkerina_huxleyi</List>
+		<List>Mastodonsaurus_giganteus</List>
+		<List>Micromelerpeton_credneri</List>
+		<List>Onchiodon_labyrinthicus</List>
+		<List>Phonerpeton_pricei</List>
+		<List>QMF14493</List>
+		<List>Rhineceps_nyasaensis</List>
+		<List>Sclerocephalus_haeuseri</List>
+		<List>Siderops_kehli</List>
+		<List>Thoosuchus_yakovlevi</List>
+		<List>Trimerorhachis_insignis</List>
+		<List>Tryphosuchus_paucidens</List>
+		<List>Vanastega_plurimidens</List>
+		<List>Xenotosuchus_africanus</List>
+		<List>Zatrachys_serratus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="132">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ruta_et_Bolt_2008a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

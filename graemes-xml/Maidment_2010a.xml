@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Maidment, S. C. R.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>Stegosauria: a historical review of the body fossil record and phylogenetic relationships</Title>
+		<Journal>Swiss Journal of Geoscience</Journal>
+		<Volume>103</Volume>
+		<Pages>199-210</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="20">
+		<List>Lesothosaurus</List>
+		<List>Scutellosaurus</List>
+		<List>Emausaurus</List>
+		<List>Scelidosaurus</List>
+		<List>Huayangosaurus</List>
+		<List>Dacentrurus</List>
+		<List>Miragaia</List>
+		<List>Loricatosaurus</List>
+		<List>Kentrosaurus</List>
+		<List>Paranthodon</List>
+		<List>Chungkingosaurus</List>
+		<List>Tuojiangosaurus</List>
+		<List>Gigantspinosaurus</List>
+		<List>S_homheni</List>
+		<List>S_armatus</List>
+		<List>S_mjosi</List>
+		<List>Gastonia</List>
+		<List>Sauropelta</List>
+		<List>Euoplocephalus</List>
+		<List>Jiangjunosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="89">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Maidment_2010a</Filename>
+	<Parent>Mateus_etal_2009a</Parent>
+	<Sibling/>
+</SourceTree>

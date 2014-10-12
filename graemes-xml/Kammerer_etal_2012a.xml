@@ -1,0 +1,60 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Kammerer, C. F.</List>
+			<List>Flynn, J. J.</List>
+			<List>Ranivoharimanana, L.</List>
+			<List>Wyss, A. R.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>Ontogeny in the Malagasy traversodontid <em>Dadadon isaloi</em> and a reconsideration of its phylogenetic relationships</Title>
+		<Journal>Fieldiana Life and Earth Sciences</Journal>
+		<Volume>5</Volume>
+		<Pages>112-125</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="23">
+		<List>Cynognathus</List>
+		<List>Diademodon</List>
+		<List>Trirachodon</List>
+		<List>Langbergia</List>
+		<List>Cricodon</List>
+		<List>Andescynodon</List>
+		<List>Massetognathus</List>
+		<List>Exaeretodon</List>
+		<List>Luangwa</List>
+		<List>Scalenodon_angustifrons</List>
+		<List>Scalenodon_hirschsoni</List>
+		<List>Traversodon</List>
+		<List>Gomphodontosuchus</List>
+		<List>Pascualgnathus</List>
+		<List>Scalenodontoides</List>
+		<List>Menadon</List>
+		<List>Dadadon</List>
+		<List>Santacruzodon</List>
+		<List>Scalenodon_attridgei</List>
+		<List>Boreogomphodon</List>
+		<List>Arctotraversodon</List>
+		<List>Nanogomphodon</List>
+		<List>Protuberum</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="57">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Kammerer_etal_2012a</Filename>
+	<Parent>Ranivoharimanana_etal_2011a</Parent>
+	<Sibling/>
+</SourceTree>

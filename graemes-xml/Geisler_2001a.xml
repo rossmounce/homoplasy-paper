@@ -1,0 +1,102 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Geisler, J. H.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>New morphological evidence for the phylogeny of Artiodactyla, Cetacea, and Mesonychidae</Title>
+		<Journal>American Museum Novitates</Journal>
+		<Volume>3344</Volume>
+		<Pages>1-53</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="68">
+		<List>Leptictidae</List>
+		<List>Meniscotherium</List>
+		<List>Phenacodus</List>
+		<List>Hyopsodus</List>
+		<List>Arctocyon</List>
+		<List>Canis</List>
+		<List>Vulpavus</List>
+		<List>Rattus_norvegicus</List>
+		<List>Orycteropus_afer</List>
+		<List>Physeter</List>
+		<List>Delphinapterus</List>
+		<List>Tursiops</List>
+		<List>Balaenoptera</List>
+		<List>Basilosaurus</List>
+		<List>Protocetus</List>
+		<List>Georgiacetus</List>
+		<List>Remingtonocetus</List>
+		<List>Ambulocetus</List>
+		<List>Pakicetus</List>
+		<List>Harpagolestes</List>
+		<List>Synoplotherium</List>
+		<List>Mesonyx</List>
+		<List>Pachyaena_ossifraga</List>
+		<List>Pachyaena_gigantea</List>
+		<List>Sinonyx</List>
+		<List>Mongolian_Dissacus</List>
+		<List>Dissacus_navajovious</List>
+		<List>Dissacus_praenuntius</List>
+		<List>Hapalodectes_leptognathus</List>
+		<List>Hapalodectes_hetangensis</List>
+		<List>Andrewsarchus</List>
+		<List>Eoconodon</List>
+		<List>Amphimeryx</List>
+		<List>Hypertragulus</List>
+		<List>Leptomeryx</List>
+		<List>Tragulus</List>
+		<List>Bos_taurus</List>
+		<List>Ovis</List>
+		<List>Odocoileus</List>
+		<List>Protoceras_celer</List>
+		<List>Heteromeryx_dispar</List>
+		<List>Leptoreodon</List>
+		<List>Eotylopus_reedi</List>
+		<List>Xiphodon</List>
+		<List>Camelus</List>
+		<List>Lama</List>
+		<List>Poebrotherium</List>
+		<List>Cainotherium</List>
+		<List>Cebochoerus</List>
+		<List>Mixtotherium</List>
+		<List>Merycoidodon</List>
+		<List>Agriochoerus</List>
+		<List>Perchoerus</List>
+		<List>Tayassu_tajacu</List>
+		<List>Sus_scrofa</List>
+		<List>Hexaprotodon</List>
+		<List>Hippopotamus</List>
+		<List>Elomeryx_armatus</List>
+		<List>Entelodontidae</List>
+		<List>Gobiohyus</List>
+		<List>Bunomeryx</List>
+		<List>Homacodon_vagans</List>
+		<List>Wasatch_Diacodexis</List>
+		<List>Diacodexis_pakistanensis</List>
+		<List>Mesohippus</List>
+		<List>Equus</List>
+		<List>Hyracotherium</List>
+		<List>Heptodon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="186">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Geisler_2001a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

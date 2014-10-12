@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Nicholls, E. L.</List>
+			<List>Manabe, M.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>A new genus of ichthyosaur from the Late Triassic Pardonet Formation of British Columbia: bridging the Triassic–Jurassic gap</Title>
+		<Journal>Canadian Journal of Earth Sciences</Journal>
+		<Volume>38</Volume>
+		<Pages>983-1002</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Utatsusaurus</List>
+		<List>Chaohusaurus</List>
+		<List>Mixosaurus_cornalianus</List>
+		<List>Cymbospondylus_petrinus</List>
+		<List>Cymbospondylus_buchseri</List>
+		<List>Shastasaurus</List>
+		<List>Shonisaurus</List>
+		<List>Basanosaurus</List>
+		<List>Toretocnemus</List>
+		<List>Californosaurus</List>
+		<List>Metashastasaurus</List>
+		<List>Suevoleviathan</List>
+		<List>Ichthyosaurus</List>
+		<List>Stenopterygius</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="44">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Nicholls_et_Manabe_2001a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

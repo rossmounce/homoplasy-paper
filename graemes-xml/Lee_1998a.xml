@@ -1,0 +1,60 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lee, M. S. Y.</List>
+		</Author>
+		<Year>1998</Year>
+		<Title>Convergent evolution and character correlation in burrowing reptiles: towards a resolution of squamate relationships</Title>
+		<Journal>Biological Journal of the Linnean Society</Journal>
+		<Volume>65</Volume>
+		<Pages>369-453</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="26">
+		<List>Kuehneosauridae</List>
+		<List>Marmoretta</List>
+		<List>Rhynchocephalia</List>
+		<List>Ancestor</List>
+		<List>Iguanidae</List>
+		<List>Agamidae</List>
+		<List>Chamaeleonidae</List>
+		<List>Xantusiidae</List>
+		<List>Gekkonidae</List>
+		<List>Pygopodidae</List>
+		<List>Sineoamphisbaena</List>
+		<List>Dibamidae</List>
+		<List>Amphisbaenia</List>
+		<List>Lacertidae</List>
+		<List>Teiidae</List>
+		<List>Gymnophthalmidae</List>
+		<List>Cordylidae</List>
+		<List>Scincidae</List>
+		<List>Anguidae</List>
+		<List>Xenosauridae</List>
+		<List>Heloderma</List>
+		<List>Lanthanotus</List>
+		<List>Varanus</List>
+		<List>Mosasauroidea</List>
+		<List>Pachyrhachis</List>
+		<List>Serpentes</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="230">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lee_1998a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

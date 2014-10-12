@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Alcober, O. A.</List>
+			<List>Martinez, R. N.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>A new herrerasaurid (Dinosauria, Saurischia) from the Upper Triassic Ischigualasto Formation</Title>
+		<Journal>Zookeys</Journal>
+		<Volume>63</Volume>
+		<Pages>55-81</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List>Outgroup</List>
+		<List>Silesaurus</List>
+		<List>Pisanosaurus</List>
+		<List>Ornithischians</List>
+		<List>Herrerasaurus</List>
+		<List>Staurikosaurus</List>
+		<List>Sanjuansaurus</List>
+		<List>Eoraptor</List>
+		<List>Guaibasaurus</List>
+		<List>Theropods</List>
+		<List>Saturnalia</List>
+		<List>Sauropodomorpha</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="98">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Alcober_et_Martinez_2010a</Filename>
+	<Parent>Langer_et_Benton_2006a</Parent>
+	<Sibling/>
+</SourceTree>

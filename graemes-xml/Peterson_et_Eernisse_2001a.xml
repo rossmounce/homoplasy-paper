@@ -1,0 +1,75 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Peterson, K. J.</List>
+			<List>Eernisse, D. J.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>Animal phylogeny and the ancestry of bilaterians: inferences from morphology and 18S rDNA gene sequences</Title>
+		<Journal>Evolution &amp; Development</Journal>
+		<Volume>3</Volume>
+		<Pages>170-205</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="40">
+		<List>Fungi</List>
+		<List>Choanoflagellata</List>
+		<List>Hexactinellida</List>
+		<List>Demospongia</List>
+		<List>Calcarea</List>
+		<List>Placozoa</List>
+		<List>Cnidaria</List>
+		<List>Ctenophora</List>
+		<List>Chaetognatha</List>
+		<List>Gastrotricha</List>
+		<List>Nematoda</List>
+		<List>Nematomorpha</List>
+		<List>Priapulida</List>
+		<List>Kinorhyncha</List>
+		<List>Loricifera</List>
+		<List>Tardigrada</List>
+		<List>Onychophora</List>
+		<List>Arthropoda</List>
+		<List>Phoronida</List>
+		<List>Brachiopoda</List>
+		<List>Ectoprocta</List>
+		<List>Rotifera</List>
+		<List>Gnathostomulida</List>
+		<List>Catenulida</List>
+		<List>Acoela</List>
+		<List>Nemertodermatida</List>
+		<List>Rhabditophora</List>
+		<List>Cycliophora</List>
+		<List>Entoprocta</List>
+		<List>Nemertea</List>
+		<List>Mollusca</List>
+		<List>Sipuncula</List>
+		<List>Echiura</List>
+		<List>Annelida</List>
+		<List>Chordata</List>
+		<List>Echinodermata</List>
+		<List>Ptychoderidae</List>
+		<List>Spengelidae</List>
+		<List>Harrimaniidae</List>
+		<List>Pterobranchia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="151">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Peterson_et_Eernisse_2001a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Dilkes, D. W.</List>
+		</Author>
+		<Year>1995</Year>
+		<Title>The rhynchosaur <em>Howesia browni</em> from the Lower Triassic of South Africa</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>38</Volume>
+		<Pages>665-685</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="9">
+		<List>Champsosaurus</List>
+		<List>Trilophosaurus</List>
+		<List>Prolacerta</List>
+		<List>Mesosuchus</List>
+		<List>Howesia</List>
+		<List>Rhynchosaurus</List>
+		<List>Stenaulorhynchus</List>
+		<List>Scaphonyx</List>
+		<List>Hyperodapedon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="28">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Dilkes_1995a</Filename>
+	<Parent>Benton_1990a</Parent>
+	<Sibling/>
+</SourceTree>

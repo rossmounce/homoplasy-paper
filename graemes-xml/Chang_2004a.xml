@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Chang, M.-M.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>Synapomorphies and scenarios - more characters of Youngolepis betraying its affinity to the Dipnoi</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>665-686</Pages>
+		<Booktitle>Recent Advances in the Origin and Early Radiation of Vertebrates</Booktitle>
+		<Publisher>Verlag Dr. Friedrich Pfeil</Publisher>
+		<City>Munchen</City>
+		<Editor>
+			<List>Arratia, G.</List>
+			<List>Wilson, M. V. H.</List>
+			<List>Cloutier, R.</List>
+		</Editor>
+	</Source>
+	<Taxa number="14">
+		<List>Psarolepis</List>
+		<List>Diabolepis</List>
+		<List>Diplocercides</List>
+		<List>Dipterus</List>
+		<List>Eusthenopteron</List>
+		<List>Glyptolepis</List>
+		<List>Ichthyostega</List>
+		<List>Mimia</List>
+		<List>Osteolepis</List>
+		<List>Panderichthys</List>
+		<List>Porolepis</List>
+		<List>Powichthys</List>
+		<List>Uranolophus</List>
+		<List>Youngolepis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="155">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Chang_2004a</Filename>
+	<Parent>Zhu_etal_2001a</Parent>
+	<Sibling/>
+</SourceTree>

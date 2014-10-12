@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Gaudin, T. J.</List>
+		</Author>
+		<Year>1995</Year>
+		<Title>The ear region of Edentates and the phylogeny of the Tardigrada (Mammalia, Xenarthra)</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>15</Volume>
+		<Pages>672-705</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="29">
+		<List>Pholidota</List>
+		<List>Palaeanodon</List>
+		<List>Metacheiromys</List>
+		<List>Glyptodonta</List>
+		<List>Euphracta</List>
+		<List>Dasypodidae</List>
+		<List>Cyclopes</List>
+		<List>Myrmecophaginae</List>
+		<List>Octodontotherium</List>
+		<List>Pseudoprepotherium</List>
+		<List>Lestodon</List>
+		<List>Glossotherium_slash_Para</List>
+		<List>Catonyx</List>
+		<List>Scelidotherium</List>
+		<List>Mylodon</List>
+		<List>Choloepus</List>
+		<List>Acratocnus</List>
+		<List>Megalocnus</List>
+		<List>Megalonyx</List>
+		<List>Bradypus</List>
+		<List>Pronothrotherium</List>
+		<List>Nothrotheriops</List>
+		<List>Eucholoeops</List>
+		<List>Hapalops</List>
+		<List>Planops</List>
+		<List>Eremotherium</List>
+		<List>Megatherium</List>
+		<List>Schismotherium</List>
+		<List>Pelecyodon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="85">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Gaudin_1995a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,120 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Skutschas, P. P.</List>
+			<List>Danilov, I. G.</List>
+			<List>Kodrul, T. M.</List>
+			<List>Jin, J.-H.</List>
+		</Author>
+		<Year>2014</Year>
+		<Title>The first discovery of an alligatorid (Crocodylia, Alligatoroidea, Alligatoridae) in the Eocene of China</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>34</Volume>
+		<Pages>471-476</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="83">
+		<List>Bernissartia_fagesii</List>
+		<List>Allodaposuchus_precedens</List>
+		<List>Acynodon_adriaticus</List>
+		<List>Acynodon_iberoccitanus</List>
+		<List>Iharkutosuchus_makadii</List>
+		<List>Hylaeochampsa_vectiana</List>
+		<List>Borealosuchus_formidabilis</List>
+		<List>Borealosuchus_wilsoni</List>
+		<List>Borealosuchus_acutidentatus</List>
+		<List>Borealosuchus_sternbergii</List>
+		<List>Eothoracosaurus_mississippiensis</List>
+		<List>Thoracosaurus_neocesariensis</List>
+		<List>Eosuchus_minor</List>
+		<List>Eogavialis_africanus</List>
+		<List>Gryposuchus_colombianus</List>
+		<List>Gavialis_gangeticus</List>
+		<List>Pristichampsus_vorax</List>
+		<List>Pristichampsus_geiseltalensis</List>
+		<List>Planocrania_hengdongensis</List>
+		<List>Planocrania_datangensis</List>
+		<List>Leidyosuchus_canadensis</List>
+		<List>Diplocynodon_ratelii</List>
+		<List>Diplocynodon_hantoniensis</List>
+		<List>Diplocynodon_muelleri</List>
+		<List>Diplocynodon_tormis</List>
+		<List>Diplocynodon_darwini</List>
+		<List>Baryphracta_deponiae</List>
+		<List>Stangerochampsa_mccabei</List>
+		<List>Albertochampsa_langstoni</List>
+		<List>Brachychampsa_montana</List>
+		<List>Brachychampsa_sealeyi</List>
+		<List>Alligator_sinensis</List>
+		<List>Alligator_mississippiensis</List>
+		<List>Alligator_mefferdi</List>
+		<List>Alligator_thomsoni</List>
+		<List>Alligator_olseni</List>
+		<List>Alligator_mcgrewi</List>
+		<List>Alligator_prenasalis</List>
+		<List>Ceratosuchus_burdoshi</List>
+		<List>Hassiacosuchus_haupti</List>
+		<List>Allognathosuchus_polyodon</List>
+		<List>Allognathosuchus_wartheni</List>
+		<List>Navajosuchus_mooki</List>
+		<List>Wannaganosuchus_brachymanus</List>
+		<List>Procaimanoidea_kayi</List>
+		<List>Procaimanoidea_utahensis</List>
+		<List>Arambourgia_gaudryi</List>
+		<List>Necrosuchus_ionensis</List>
+		<List>Tsoabichi_greenriverensis</List>
+		<List>Purussaurus_mirandae</List>
+		<List>Purussaurus_neivensis</List>
+		<List>Orthogenysuchus_olseni</List>
+		<List>Mourasuchus_atopus</List>
+		<List>Eocaiman_cavernensis</List>
+		<List>Caiman_yacare</List>
+		<List>Caiman_crocodilus</List>
+		<List>Caiman_latirostris</List>
+		<List>Caiman_lutescens</List>
+		<List>Melanosuchus_fisheri</List>
+		<List>Melanosuchus_niger</List>
+		<List>Paleosuchus_trigonatus</List>
+		<List>Paleosuchus_palpebrosus</List>
+		<List>Mecistops_cataphractus</List>
+		<List>Crocodylus_niloticus</List>
+		<List>Crocodylus_porosus</List>
+		<List>Crocodylus_acutus</List>
+		<List>Osteolaemus_tetraspis</List>
+		<List>Osteolaemus_osborni</List>
+		<List>Voay_robustus</List>
+		<List>Rimasuchus_lloydi</List>
+		<List>Crocodylus_megarhinus</List>
+		<List>Australosuchus_clarkae</List>
+		<List>Kambara_implexidens</List>
+		<List>Trilophosuchus_rackhami</List>
+		<List>Tomistoma_schlegelii</List>
+		<List>Thecachampsa_americana</List>
+		<List>Kentisuchus_spenceri</List>
+		<List>Crocodylus_acer</List>
+		<List>Crocodylus_affinis</List>
+		<List>Asiatosuchus_germanicus</List>
+		<List>Prodiplocynodon_langi</List>
+		<List>Chinese</List>
+		<List>Krabisuchus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="181">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Skutschas_etal_2014a</Filename>
+	<Parent>Brochu_2011a</Parent>
+	<Sibling/>
+</SourceTree>

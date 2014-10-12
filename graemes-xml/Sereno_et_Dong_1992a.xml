@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sereno, P. C.</List>
+			<List>Dong, Z.</List>
+		</Author>
+		<Year>1992</Year>
+		<Title>The skull of the basal stegosaur Huayangosaurus taibaii and a cladistic diagnosis of Stegosauria</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>12</Volume>
+		<Pages>318-343</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="6">
+		<List>Scutellosaurus</List>
+		<List>Scelidosaurus</List>
+		<List>Ankylosauria</List>
+		<List>Huayangosaurus</List>
+		<List>Dacentrus</List>
+		<List>Other_stegosaurs</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="22">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sereno_et_Dong_1992a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

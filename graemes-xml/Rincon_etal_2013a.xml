@@ -1,0 +1,66 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Rincon, A. F.</List>
+			<List>Bloch, J. I.</List>
+			<List>MacFadden, B. J.</List>
+			<List>Jaramillo, C. A.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>First Central American record of Anthracotheriidae (Mammalia, Bothriodontinae) from the early Miocene of Panama</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>33</Volume>
+		<Pages>421-433</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="29">
+		<List>S_krabiense</List>
+		<List>M_minimun</List>
+		<List>M_silistrensis</List>
+		<List>A_magnum</List>
+		<List>A_mosvialense</List>
+		<List>A_chaimanei</List>
+		<List>A_pangan</List>
+		<List>A_thailandicus</List>
+		<List>A_ulnifer</List>
+		<List>H_occidentalis</List>
+		<List>B_fraasi</List>
+		<List>B_aequatorialis</List>
+		<List>B_onoideus</List>
+		<List>A_americanus</List>
+		<List>B_velaunus</List>
+		<List>E_crispus</List>
+		<List>E_armatus</List>
+		<List>E_borbonicus</List>
+		<List>A_acridens</List>
+		<List>A_zelteni</List>
+		<List>S_palaeindicus</List>
+		<List>H_blandfordi</List>
+		<List>M_pusillus</List>
+		<List>M_dissimilis</List>
+		<List>M_medioximus</List>
+		<List>L_anisae</List>
+		<List>L_petrocchii</List>
+		<List>A_acrid_Toledo_Bend</List>
+		<List>A_meridionalis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="51">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Rincon_etal_2013a</Filename>
+	<Parent>Lihoreau_et_Ducrocq_2007a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Norell, M. A.</List>
+			<List>Clarke, J. A.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>Fossil that fills a critical gap in avian evolution</Title>
+		<Journal>Nature</Journal>
+		<Volume>409</Volume>
+		<Pages>181-184</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="17">
+		<List>Dromeosauridae</List>
+		<List>Archaeopteryx_lithographica</List>
+		<List>Confuciusornis_sanctus</List>
+		<List>Patagopteryx_deferrariisi</List>
+		<List>Apsaravis_ukhaana</List>
+		<List>Ichthyornis</List>
+		<List>Crypturellus_undulatus</List>
+		<List>Anas_platyrhynchos</List>
+		<List>Chauna_torquata</List>
+		<List>Gallus_gallus</List>
+		<List>Crax_pauxi</List>
+		<List>Hesperornis_regalis</List>
+		<List>Baptornis_adventus</List>
+		<List>Cathayornis_yandica</List>
+		<List>Concornis_lacustris</List>
+		<List>Neuquenornis_volans</List>
+		<List>Gobipteryx_minuta</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="201">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Norell_et_Clarke_2001a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

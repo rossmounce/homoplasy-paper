@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Chatterton, B. D. E.</List>
+		</Author>
+		<Year>1994</Year>
+		<Title>Ordovician proetide trilobite <em>Dimeropyge</em>, with a new species from northwestern Canada</Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>68</Volume>
+		<Pages>541-556</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Hystricurus_genalatus</List>
+		<List>Dimeropyge_speyeri</List>
+		<List>Dimeropyge_clintonensis</List>
+		<List>Dimeropyge_virginiensis</List>
+		<List>Dimeropyge_dorothyae</List>
+		<List>Dimeropyge_spinifera</List>
+		<List>Dimeropyge_minuta</List>
+		<List>Dimeropyge_lucifer</List>
+		<List>Dimeropyge_gibbus</List>
+		<List>Dimeropyge_labrosa</List>
+		<List>Dimeropyge_hystrix</List>
+		<List>Ischyrotroma_caudinodosa</List>
+		<List>Ischyrotroma_blanda</List>
+		<List>Ischyrotroma_ovata</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="21">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Chatterton_1994ab</Filename>
+	<Parent/>
+	<Sibling>Chatterton_1994aa</Sibling>
+</SourceTree>

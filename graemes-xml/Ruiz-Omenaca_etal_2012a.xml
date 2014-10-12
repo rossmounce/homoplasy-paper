@@ -1,0 +1,92 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ruiz-Omenaca, J. I.</List>
+			<List>Canudo, J. I.</List>
+			<List>Cuenca-Bescos, G.</List>
+			<List>Cruzado-Caballero, P.</List>
+			<List>Gasca, J. M.</List>
+			<List>Moreno-Azanza, M.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>A new basal ornithopod dinosaur from the Barremian of Galve, Spain</Title>
+		<Journal>Comptes Rendus Palevol</Journal>
+		<Volume>11</Volume>
+		<Pages>435-444</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="53">
+		<List>Euparkeria_capensis</List>
+		<List>Marasuchus_liloensis</List>
+		<List>Herrerasaurus</List>
+		<List>Pisanosaurus_mertii</List>
+		<List>Abrictosaurus_consors</List>
+		<List>BMNH_A100</List>
+		<List>Echinodon_becklesii</List>
+		<List>Fruitadens_haagarorum</List>
+		<List>Heterodontosaurus_tucki</List>
+		<List>Lycorhinus_angustidens</List>
+		<List>Eocursor_parvus</List>
+		<List>Lesothosaurus_diagnosticus</List>
+		<List>Stormbergia_dangershoeki</List>
+		<List>Scutellosaurus_lawleri</List>
+		<List>Emausaurus_ernstii</List>
+		<List>Scelidosaurus_harrisonii</List>
+		<List>Stegosauria</List>
+		<List>Ankylosauria</List>
+		<List>Agilisaurus_louderbacki</List>
+		<List>Hexinlusaurus_multidens</List>
+		<List>Othnieliosaurus_consors</List>
+		<List>Anabisetia_saldiviai</List>
+		<List>Bugenasaura_infernalis</List>
+		<List>Gasparinisaura_cincosaltensis</List>
+		<List>Hypsilophodon_foxii</List>
+		<List>Orodromeus_makelai</List>
+		<List>Parksosaurus_warreni</List>
+		<List>Yandusaurus_hongheensis</List>
+		<List>Zephyrosaurus_schaffi</List>
+		<List>Tenontosaurus_tilleti</List>
+		<List>Tenontosaurus_dossi</List>
+		<List>Talenkauen_santacrucensis</List>
+		<List>Rhabdodontidae</List>
+		<List>Dryosauridae</List>
+		<List>Ankylopollexia</List>
+		<List>Micropachycephalosaurus_hongtuyanensis</List>
+		<List>Stenopelix_valdensis</List>
+		<List>Wannanosaurus_yansiensis</List>
+		<List>Goyocephale_lattimorei</List>
+		<List>Homalocephale_calathocercos</List>
+		<List>Pachycephalosauridae</List>
+		<List>Chaoyangosaurus_youngi</List>
+		<List>Psittacosauridae</List>
+		<List>Liaoceratops_yanzigouensis</List>
+		<List>Archaeoceratops_oshimai</List>
+		<List>Unnamed_taxon_Coronosauria_plus_Leptoceratopsidae</List>
+		<List>Yinlong_downsi</List>
+		<List>Tianyulong</List>
+		<List>Changchunsaurus_parvus</List>
+		<List>Jeholosaurus_shangyuanensis</List>
+		<List>Thescelosaurus_neglectus</List>
+		<List>Haya_griva</List>
+		<List>Gideonmantellia_amosanjuanae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="227">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ruiz-Omenaca_etal_2012a</Filename>
+	<Parent>Makovicky_etal_2011a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Surkov, M. V.</List>
+			<List>Kalandadze, N. N.</List>
+			<List>Benton, M. J.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title><em>Lystrosaurus georgi</em>, a dicynodont from the Lower Triassic of Russia</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>25</Volume>
+		<Pages>402-413</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="27">
+		<List>Eodicynodon</List>
+		<List>Robertia</List>
+		<List>Diictodon</List>
+		<List>Pristerodon</List>
+		<List>Cistecephalus</List>
+		<List>Kawingasaurus</List>
+		<List>Tropidostoma</List>
+		<List>Kingoria</List>
+		<List>Oudenodon</List>
+		<List>Aulacephalodon</List>
+		<List>Pelanomodon</List>
+		<List>Dicynodon_sp</List>
+		<List>D_trigonocephalus</List>
+		<List>Lystrosaurus_georgi</List>
+		<List>L_murrayi</List>
+		<List>L_mccaigi</List>
+		<List>L_curvatus</List>
+		<List>Kannemeyeria</List>
+		<List>Rhinodicynodon</List>
+		<List>Tetragonias</List>
+		<List>Angonisaurus</List>
+		<List>Dinodontosaurus</List>
+		<List>Rechnisaurus</List>
+		<List>Stahleckeria</List>
+		<List>Placerias</List>
+		<List>Ischigualastia</List>
+		<List>Zambiasaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="18">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Surkov_etal_2005a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

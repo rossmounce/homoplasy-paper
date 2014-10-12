@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Caron, J.-B.</List>
+			<List>Rudkin, D. M.</List>
+			<List>Milliken, S.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>A new Late Silurian (Pridolian) naraoiid (Euarthropoda: Nektaspida) from the Bertie Formation of southern Ontario, Canada: delayed fallout from the Cambrian Explosion</Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>78</Volume>
+		<Pages>1138-1145</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List>Agnostus</List>
+		<List>Olenoides</List>
+		<List>N_bertiensis</List>
+		<List>N_compacta</List>
+		<List>N_spinifer</List>
+		<List>N_spinosa</List>
+		<List>Misszhouia</List>
+		<List>Buenaspis</List>
+		<List>Liwia</List>
+		<List>Soomaspis</List>
+		<List>Tarricoia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="12">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Caron_etal_2004a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

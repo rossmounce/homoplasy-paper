@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Modesto, S. P.</List>
+			<List>Damiani, R.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>The procolophonoid reptile <em>Sauropareion anoplus</em> from the lowermost Triassic of South Africa</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>27</Volume>
+		<Pages>337-349</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Macroleter</List>
+		<List>Barasaurus</List>
+		<List>O_rubidgei</List>
+		<List>O_kitchingorum</List>
+		<List>Candelaria</List>
+		<List>Coletta</List>
+		<List>Sauropareion</List>
+		<List>Contritosaurus</List>
+		<List>Tichvinskia</List>
+		<List>Procolophon</List>
+		<List>Thelerpeton</List>
+		<List>Scoloparia</List>
+		<List>Leptopleuron</List>
+		<List>Hypsognathus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="43">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Modesto_et_Damiani_2007a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

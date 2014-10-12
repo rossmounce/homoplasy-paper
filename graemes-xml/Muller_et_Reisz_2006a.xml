@@ -1,0 +1,60 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Muller, J.</List>
+			<List>Reisz, R. R.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>The phylogeny of early eureptiles: comparing parsimony and Bayesian approaches in the investigation of a basal fossil clade</Title>
+		<Journal>Systematic Biology</Journal>
+		<Volume>55</Volume>
+		<Pages>503-511</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="25">
+		<List>Diadectomorpha</List>
+		<List>Seymouriamorpha</List>
+		<List>Caseidae</List>
+		<List>Mesosauridae</List>
+		<List>Millerettidae</List>
+		<List>Procolophonidae</List>
+		<List>Romeria_texana</List>
+		<List>Protocaptorhinus</List>
+		<List>Rhiodenticulatus</List>
+		<List>Captorhinus_laticeps</List>
+		<List>Captorhinus_aguti</List>
+		<List>Labidosaurus</List>
+		<List>Labidosaurikos</List>
+		<List>Saurorictus</List>
+		<List>Concordia</List>
+		<List>Protorothyris</List>
+		<List>Paleothyris</List>
+		<List>Cephalerpeton</List>
+		<List>Anthracodromeus</List>
+		<List>Brouffia</List>
+		<List>Coelostegus</List>
+		<List>Hylonomus</List>
+		<List>Thuringothyris</List>
+		<List>Petrolacosaurus</List>
+		<List>Araeoscelis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="132">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Muller_et_Reisz_2006a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,78 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Rode, A. L.</List>
+			<List>Lieberman, B. S.</List>
+		</Author>
+		<Year>2002</Year>
+		<Title>Phylogenetic and biogeographic analysis of Devonian phyllocarid crustaceans</Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>76</Volume>
+		<Pages>271-286</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="43">
+		<List>Ceratiocaris_praecedens</List>
+		<List>Ceratiocaris_solenoides</List>
+		<List>Aristozoe_memoranda</List>
+		<List>Carinatacaris_scaphoptera</List>
+		<List>Dithryocaris_oceani</List>
+		<List>Dithryocaris_oculeus</List>
+		<List>Echinocaris_auricula</List>
+		<List>Echinocaris_beecheri</List>
+		<List>Echinocaris_castorensis</List>
+		<List>Echinocaris_clarkii</List>
+		<List>Echinocaris_condylepis</List>
+		<List>Echinocaris_consanguina</List>
+		<List>Echinocaris_crosbyensis</List>
+		<List>Echinocaris_hunanensis</List>
+		<List>Echinocaris_multinodosa</List>
+		<List>Echinocaris_multispinosis</List>
+		<List>Echinocaris_ohioensis</List>
+		<List>Echinocaris_randallii</List>
+		<List>Echinocaris_socialis</List>
+		<List>Echinocaris_sublaevis</List>
+		<List>Echinocaris_turgida</List>
+		<List>Echinocaris_whidbornei</List>
+		<List>Eleutherocaris_whitfieldi</List>
+		<List>Elymocaris_capsella</List>
+		<List>Elymocaris_siliqua</List>
+		<List>Herbertocaris_wideneri</List>
+		<List>Kerfornecaris_roscanvelensis</List>
+		<List>Montecaris_lehmannii</List>
+		<List>Montecaris_strunensis</List>
+		<List>Nahecaris_bipennis</List>
+		<List>Nahecaris_stuertzi</List>
+		<List>Ohiocaris_wycoffi</List>
+		<List>Paraechinocaris_punctata</List>
+		<List>Pephricaris_horriplata</List>
+		<List>Ptychocaris_novaki</List>
+		<List>Rhinocaris_columbina</List>
+		<List>Rhinocaris_ehlersi</List>
+		<List>Rhinocaris_veneris</List>
+		<List>Tropidocaris_alternata</List>
+		<List>Tropidocaris_bicarinata</List>
+		<List>Tropidocaris_britannica</List>
+		<List>Tropidocaris_interrupta</List>
+		<List>Tropidocaris_salsiusculus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="54">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Rode_et_Lieberman_2002a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

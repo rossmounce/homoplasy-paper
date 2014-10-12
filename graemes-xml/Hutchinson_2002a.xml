@@ -1,0 +1,69 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Hutchinson, J. R.</List>
+		</Author>
+		<Year>2002</Year>
+		<Title>The evolution of hindlimb tendons and muscles on the line to crown-group birds</Title>
+		<Journal>Comparative Biochemistry and Physiology Part A</Journal>
+		<Volume>133</Volume>
+		<Pages>1051-1086</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="35">
+		<List>Chelonia</List>
+		<List>Basal_diapsids</List>
+		<List>Squamata</List>
+		<List>Sphenodon</List>
+		<List>Basal_archosauromorphs</List>
+		<List>Erythrosuchidae</List>
+		<List>Parasuchia</List>
+		<List>Aetosauria</List>
+		<List>Proterochampsidae</List>
+		<List>Crocodylia</List>
+		<List>Basal_crocodylomorphs</List>
+		<List>Lagerpeton</List>
+		<List>Marasuchus</List>
+		<List>Lewisuchus</List>
+		<List>Ornithischia</List>
+		<List>Sauropodomorpha</List>
+		<List>Herrerasauridae</List>
+		<List>Coelophysoidea</List>
+		<List>Ceratosauria</List>
+		<List>Basal_tetanurans</List>
+		<List>Carnosauria</List>
+		<List>Tyrannosauroidea</List>
+		<List>Ornithomimosauria</List>
+		<List>Oviraptorosauria</List>
+		<List>Alvarezsauridae</List>
+		<List>Deinonychosauria</List>
+		<List>Archaeopteryx</List>
+		<List>Confuciusornithidae</List>
+		<List>Enantiornithes</List>
+		<List>Patagopteryx</List>
+		<List>Apsaravis</List>
+		<List>Hesperornithiformes</List>
+		<List>Ichthyornis</List>
+		<List>Paleognathae</List>
+		<List>Neognathae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="100">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Hutchinson_2002a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,64 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ryan, M. J.</List>
+			<List>Evans, D. C.</List>
+			<List>Currie, P. J.</List>
+			<List>Brown, C. M.</List>
+			<List>Brinkman, D.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>New leptoceratopsids from the Upper Cretaceous of Alberta, Canada</Title>
+		<Journal>Cretaceous Research</Journal>
+		<Volume>35</Volume>
+		<Pages>69-80</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="26">
+		<List>Hypsilophodon</List>
+		<List>Stegoceras</List>
+		<List>Yinlong</List>
+		<List>Liaoceratops</List>
+		<List>Yamaceratops</List>
+		<List>Archaeoceratops</List>
+		<List>Koreaceratops</List>
+		<List>Asiaceratops</List>
+		<List>Cerasinops</List>
+		<List>Montanoceratops</List>
+		<List>Prenoceratops</List>
+		<List>Leptoceratops</List>
+		<List>Udanoceratops</List>
+		<List>Zhuchengceratops</List>
+		<List>Unescoceratops</List>
+		<List>Gryphoceratops</List>
+		<List>Graciliceratops</List>
+		<List>Bagaceratops</List>
+		<List>Protoceratops</List>
+		<List>Zuniceratops</List>
+		<List>Centrosaurus</List>
+		<List>Triceratops</List>
+		<List>Psit._mongoliensis</List>
+		<List>Psit._sinensis</List>
+		<List>Chaoyangsaurus</List>
+		<List>Xuanhuaceratops</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="151">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ryan_etal_2012a</Filename>
+	<Parent>Makovicky_2010aa</Parent>
+	<Sibling/>
+</SourceTree>

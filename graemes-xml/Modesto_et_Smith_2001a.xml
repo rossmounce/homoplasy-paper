@@ -1,0 +1,44 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Modesto, S.</List>
+			<List>Smith, R. M. H.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>A new Late Permian captorhind reptile: a first record from the South African Karoo</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>21</Volume>
+		<Pages>405-409</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="9">
+		<List>Protorothyris</List>
+		<List>Romeria</List>
+		<List>Protocaptorhinus</List>
+		<List>Rhiodenticulatus</List>
+		<List>C_laticeps</List>
+		<List>C_aguti</List>
+		<List>Labidosaurus</List>
+		<List>Labidosaurikos</List>
+		<List>Saurorictus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="39">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Modesto_et_Smith_2001a</Filename>
+	<Parent>Dodick_et_Modesto_1995a</Parent>
+	<Sibling/>
+</SourceTree>

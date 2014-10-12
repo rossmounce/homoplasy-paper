@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Evans, S. E.</List>
+			<List>Klembara, J.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>A choristoderan reptile (Reptilia: Diapsida) from the Lower Miocene of Northwest Bohemia (Czech Republic)</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>25</Volume>
+		<Pages>171-184</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="10">
+		<List>Youngina</List>
+		<List>Lazarussuchus</List>
+		<List>Cteniogenys</List>
+		<List>Shokawa</List>
+		<List>Champsosaurus</List>
+		<List>Tchoiria</List>
+		<List>Ikechosaurus</List>
+		<List>Simoedosaurus</List>
+		<List>Pachystropheus</List>
+		<List>Monjurosuchus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="74">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Evans_et_Klembara_2005a</Filename>
+	<Parent>Evans_et_Manabe_1999a</Parent>
+	<Sibling/>
+</SourceTree>

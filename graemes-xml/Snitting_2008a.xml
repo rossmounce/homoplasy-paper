@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Snitting, D.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>A redescription of the anatomy of the Late Devonian <em>Spodichthys buetleri</em> Jarvik, 1985 (Sarcopterygii, Tetrapodomorpha) from East Greenland</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>28</Volume>
+		<Pages>637-655</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="28">
+		<List>Diabolepis</List>
+		<List>Acanthostega</List>
+		<List>Barameda</List>
+		<List>Beelarongia</List>
+		<List>Cabonnichthys</List>
+		<List>Canowindra</List>
+		<List>Cladarosymblema</List>
+		<List>Ectosteorhachis</List>
+		<List>Eusthenodon</List>
+		<List>Eusthenopteron</List>
+		<List>Glyptolepis</List>
+		<List>Gogonasus</List>
+		<List>Gooloogongia</List>
+		<List>Gyroptychius</List>
+		<List>Ichthyostega</List>
+		<List>Jarvikina</List>
+		<List>Kenichthys</List>
+		<List>Koharalepis</List>
+		<List>Mandageria</List>
+		<List>Medoevia</List>
+		<List>Megalichthys</List>
+		<List>Osteolepis</List>
+		<List>Panderichthys</List>
+		<List>Porolepis</List>
+		<List>Powichthys</List>
+		<List>Spodichthys</List>
+		<List>Tristichopterus</List>
+		<List>Youngolepis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="61">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Snitting_2008a</Filename>
+	<Parent>Ahlberg_et_Johanson_1998a</Parent>
+	<Sibling/>
+</SourceTree>

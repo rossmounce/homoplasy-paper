@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Holmes, R. B.</List>
+			<List>Carroll, R. L.</List>
+			<List>Reisz, R. R.</List>
+		</Author>
+		<Year>1998</Year>
+		<Title>The first articulated skeleton of <em>Dendrerpeton acadianum</em> (Temnospondyli, Dendrerpetontidae) from the Lower Pennsylvanian locality of Joggins, Nova Scotia, and a review of its relationships</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>18</Volume>
+		<Pages>64-79</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Greererpeton</List>
+		<List>Proterogyrinus</List>
+		<List>Chenoprosopus</List>
+		<List>Edops</List>
+		<List>Dendrerpeton</List>
+		<List>Balanerpeton</List>
+		<List>Trimerorhachis</List>
+		<List>Capetus</List>
+		<List>Eryops</List>
+		<List>Saurerpeton</List>
+		<List>Paryoxys</List>
+		<List>Zatrachys</List>
+		<List>Eoscopus</List>
+		<List>Sclerocephalus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="18">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Holmes_etal_1998a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

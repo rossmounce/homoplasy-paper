@@ -1,0 +1,64 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Wendruff, A. J.</List>
+			<List>Wilson, M. V. H.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>A fork-tailed coelacanth, <em>Rebellatrix divaricerca</em>, gen. et sp. nov. (Actinistia, Rebellatricidae, fam. nov.), from the Lower Triassic of Western Canada</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>32</Volume>
+		<Pages>499-511</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="29">
+		<List>Porolepiforms</List>
+		<List>Diplocercides</List>
+		<List>Rhabdoderma</List>
+		<List>Caridosuctor</List>
+		<List>Hadronector</List>
+		<List>Polyosteorhynchus</List>
+		<List>Allenypterus</List>
+		<List>Lochmocercus</List>
+		<List>Coelacanthus</List>
+		<List>Spermatodus</List>
+		<List>Whiteia</List>
+		<List>Laugia</List>
+		<List>Sassenia</List>
+		<List>Chinlea</List>
+		<List>Diplurus</List>
+		<List>Holophagus</List>
+		<List>Undina</List>
+		<List>Coccoderma</List>
+		<List>Libys</List>
+		<List>Mawsonia</List>
+		<List>Macropoma</List>
+		<List>Latimeria</List>
+		<List>Miguashaia</List>
+		<List>Axelrodichthys</List>
+		<List>Garnbergia</List>
+		<List>Swenzia</List>
+		<List>Holopterygius</List>
+		<List>Parnaibaia</List>
+		<List>Rebellatrix</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="109">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Wendruff_et_Wilson_2012a</Filename>
+	<Parent>Friedman_et_Coates_2006a</Parent>
+	<Sibling/>
+</SourceTree>

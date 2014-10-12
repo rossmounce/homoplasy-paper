@@ -1,0 +1,81 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Hutchinson, J. R.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>The evolution of femoral osteology and soft tissues on the line to extant birds (Neornithes)</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>131</Volume>
+		<Pages>169-197</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="47">
+		<List>Lepidosauromorpha</List>
+		<List>Rhynchosauria</List>
+		<List>Trilophosaurus</List>
+		<List>Proterosuchidae</List>
+		<List>Erythrosuchidae</List>
+		<List>Doswellia</List>
+		<List>Euparkeria</List>
+		<List>Proterochampsidae</List>
+		<List>Ornithosuchidae</List>
+		<List>Parasuchia</List>
+		<List>Aetosauria</List>
+		<List>Rauisuchidae</List>
+		<List>Poposauridae</List>
+		<List>basal_Crocodylomorpha</List>
+		<List>basal_Crocodyliformes</List>
+		<List>Crocodylia</List>
+		<List>Pterosauromorpha</List>
+		<List>Lagerpeton</List>
+		<List>Lagosuchus</List>
+		<List>Lewisuchus</List>
+		<List>Eoraptor</List>
+		<List>Herrerasauridae</List>
+		<List>Coelophysoidea</List>
+		<List>Ceratosauria</List>
+		<List>basal_Tetanurae_1</List>
+		<List>Ornithischia</List>
+		<List>Sauropodomorpha</List>
+		<List>Therizinosauroidea</List>
+		<List>basal_Tetanurae_2</List>
+		<List>Carnosauria</List>
+		<List>basal_Coelurosauria</List>
+		<List>Tyrannosauridae</List>
+		<List>Ornithomimosauria</List>
+		<List>Oviraptorosauria</List>
+		<List>Alvarezsauridae</List>
+		<List>Deinonychosauria</List>
+		<List>Unenlagia</List>
+		<List>Archaeopteryx</List>
+		<List>Troodontidae</List>
+		<List>Rahonavis</List>
+		<List>Confuciusornithidae</List>
+		<List>Enantiornithes</List>
+		<List>Patagopteryx</List>
+		<List>Hesperornithiformes</List>
+		<List>Ichthyornithiformes</List>
+		<List>Paleognathae</List>
+		<List>Neognathae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="21">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Hutchinson_2001a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

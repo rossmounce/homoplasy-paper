@@ -1,0 +1,60 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>MacDougall, M. J.</List>
+			<List>Modesto, S. P.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>New information on the skull of the Early Triassic parareptile <em>Sauropareion anoplus</em>, with a discussion of tooth attachment and replacement in procolophonids</Title>
+		<Journal>Journal of Vertebrate Paleontology,</Journal>
+		<Volume>31</Volume>
+		<Pages>270-278</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="25">
+		<List>Nyctiphruretus</List>
+		<List>Owenettidae</List>
+		<List>Coletta</List>
+		<List>Pintosaurus</List>
+		<List>Sauropareion</List>
+		<List>Phaanthosaurus</List>
+		<List>E_dongshengensis</List>
+		<List>Theledectes</List>
+		<List>Tichvinskia</List>
+		<List>Timanophon</List>
+		<List>Kapes</List>
+		<List>Thelephon</List>
+		<List>Eumetabolodon</List>
+		<List>Procolophon</List>
+		<List>Thelerpeton</List>
+		<List>Teratophon</List>
+		<List>Pentaedrusaurus</List>
+		<List>Neoprocolophon</List>
+		<List>Sclerosaurus</List>
+		<List>Scoloparia</List>
+		<List>Leptopleuron</List>
+		<List>Soturnia</List>
+		<List>Hypsognathus</List>
+		<List>Phonodus</List>
+		<List>Kitchingnathus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="59">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>MacDougall_et_Modesto_2011a</Filename>
+	<Parent>Cisneros_2008b</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lieberman, B. S.</List>
+		</Author>
+		<Year>1999</Year>
+		<Title>Systematic revision of the Olenelloidea (Trilobita, Cambrian)</Title>
+		<Journal>Bulletin of the Peabody Museum of Natural History</Journal>
+		<Volume>45</Volume>
+		<Pages>1-150</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="18">
+		<List>Wanneria_walcottana</List>
+		<List>Holmia_kjerulfi</List>
+		<List>Holmia_lapponica</List>
+		<List>Holmia_palpebra</List>
+		<List>Baltobergstroemia_mobergi</List>
+		<List>Baltobergstroemia_sulcata</List>
+		<List>Baltobergstroemia_sp</List>
+		<List>Kjerulfia_lata</List>
+		<List>Schmidtiellus_mickwitzi_torelli</List>
+		<List>Schmidtiellus_sp</List>
+		<List>Schmidtiellus_reetae</List>
+		<List>Palmettaspis_consorta</List>
+		<List>Palmettaspis_parallela</List>
+		<List>Palmettaspis_lidensis</List>
+		<List>Palmettaspis_cometes</List>
+		<List>Esmeraldina_rowei</List>
+		<List>Holmiella_preancora</List>
+		<List>Holmiella_falcuta</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="35">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lieberman_1999ad</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

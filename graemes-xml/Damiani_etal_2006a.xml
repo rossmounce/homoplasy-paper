@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Damiani, R.</List>
+			<List>Sidor, C. A.</List>
+			<List>Steyer, S.</List>
+			<List>Smith, R. M. H.</List>
+			<List>Larsson, H. C. E.</List>
+			<List>Maga, A.</List>
+			<List>Ide, O.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>The vertebrate fauna of the Upper Permian of Niger. V. The primitive temnospondyl <em>Saharastega moradiensis</em></Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>26</Volume>
+		<Pages>559-572</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="15">
+		<List>Greererpeton</List>
+		<List>Proterogyrinus</List>
+		<List>Chenoprosopus</List>
+		<List>Edops</List>
+		<List>Dendrerpeton</List>
+		<List>Balanerpeton</List>
+		<List>Trimerorhachis</List>
+		<List>Capetus</List>
+		<List>Eryops</List>
+		<List>Isodectes</List>
+		<List>Paryoxis</List>
+		<List>Zatrachys</List>
+		<List>Eoscopus</List>
+		<List>Sclerocephalus</List>
+		<List>Saharastega</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="18">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Damiani_etal_2006a</Filename>
+	<Parent>Holmes_etal_1998a</Parent>
+	<Sibling/>
+</SourceTree>

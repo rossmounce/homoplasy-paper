@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Filippi, L. S.</List>
+			<List>Garcia, R. A.</List>
+			<List>Garrido, A. C.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>A new titanosaur sauropod dinosaur from the Upper Cretaceous of north Patagonia, Argentina</Title>
+		<Journal>Acta Palaeontologica Polonica</Journal>
+		<Volume>56</Volume>
+		<Pages>505-520</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="22">
+		<List>Camarasaurus</List>
+		<List>Brachiosaurus_brancai</List>
+		<List>Chubutisaurus_insignis</List>
+		<List>Andesaurus_delgadoi</List>
+		<List>Argentinosaurus_huinculensis</List>
+		<List>Malawisaurus_dixeyi</List>
+		<List>Mendozasaurus_neguyelap</List>
+		<List>Futalognkosaurus_dukei</List>
+		<List>Epachthosaurus_sciuttoi</List>
+		<List>Narambuenatitan_palomoi</List>
+		<List>Rapetosaurus_krausei</List>
+		<List>Lirainosaurus_astibiae</List>
+		<List>Opisthocoelicaudia_skarzynskii</List>
+		<List>Alamosaurus_sanjuanensis</List>
+		<List>Neuquensaurus_australis</List>
+		<List>Saltasaurus_loricatus</List>
+		<List>Rocasaurus_muniozi</List>
+		<List>Bonatitan_reigi</List>
+		<List>Rinconsaurus_caudamirus</List>
+		<List>Muyelensaurus_pecheni</List>
+		<List>Gondwanatitan_faustosi</List>
+		<List>Aeolosaurus_rionegrinus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="65">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Filippi_etal_2011a</Filename>
+	<Parent>Calvo_etal_2007c</Parent>
+	<Sibling/>
+</SourceTree>

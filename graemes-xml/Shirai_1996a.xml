@@ -1,0 +1,91 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Shirai, S.</List>
+		</Author>
+		<Year>1996</Year>
+		<Title>Phylogenetic interrelationships of neoselachians (Chondrichthyes: Euselachii)</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>9-34</Pages>
+		<Booktitle>Interrelationships of Fishes</Booktitle>
+		<Publisher>Academic Press</Publisher>
+		<City>San Diego</City>
+		<Editor>
+			<List>Stiassny, M. L. J.</List>
+			<List>Parenti, L. R.</List>
+			<List>Johnson, G. D.</List>
+		</Editor>
+	</Source>
+	<Taxa number="53">
+		<List>OUTGROUP</List>
+		<List>Heterodontus</List>
+		<List>parascylliids</List>
+		<List>Brachaelurus</List>
+		<List>Orectolobus</List>
+		<List>hemiscylliids</List>
+		<List>rhincodontids</List>
+		<List>Mitsukurina</List>
+		<List>Carcharias_slash_Odontaspis</List>
+		<List>Pseudocarcharias</List>
+		<List>Megachasma</List>
+		<List>Alopias</List>
+		<List>Cetorhinusllamnids</List>
+		<List>scyliorhinids</List>
+		<List>proscylliids_slash_pseudotriakids</List>
+		<List>Leptocharias</List>
+		<List>triakids</List>
+		<List>hemigaleids</List>
+		<List>carcharhinidsincl_sphyrnids</List>
+		<List>Chlamydoselachus</List>
+		<List>Hexanchus</List>
+		<List>Notorynchus</List>
+		<List>Heptranchias</List>
+		<List>Echinorhinus</List>
+		<List>Aculeola</List>
+		<List>Trigonognathus</List>
+		<List>Centroscyllium</List>
+		<List>other_etmopterids</List>
+		<List>Somniosus</List>
+		<List>other_somniosids</List>
+		<List>Oxynotus</List>
+		<List>dalatiines</List>
+		<List>euprotomicrinines</List>
+		<List>Deania</List>
+		<List>Centrophorus</List>
+		<List>Cirrhigaleusl_Squalus</List>
+		<List>Squatina</List>
+		<List>pristiophorids</List>
+		<List>pristids</List>
+		<List>Rhina_slash_Rhynchobatus</List>
+		<List>torpedines</List>
+		<List>narkines</List>
+		<List>narcinines</List>
+		<List>platyrhinids_slash_rhinobatids</List>
+		<List>rajoids</List>
+		<List>Plesiobatis</List>
+		<List>Hexatrygon</List>
+		<List>dasyatidids_slash_urolophids</List>
+		<List>gymnurids</List>
+		<List>Myliobatis</List>
+		<List>aetobatines</List>
+		<List>Rhinoptera</List>
+		<List>Manta_slash_Mobula</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="105">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Shirai_1996a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

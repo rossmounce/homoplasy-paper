@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Jouve, S.</List>
+			<List>Iarochene, M.</List>
+			<List>Bouya, B.</List>
+			<List>Amaghzaz, M.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>A new dyrosaurid crocodyliform from the Palaeocene of Morocco and a phylogenetic analysis of Dyrosauridae</Title>
+		<Journal>Acta Palaeontologica Polonica</Journal>
+		<Volume>50</Volume>
+		<Pages>581-594</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="13">
+		<List>Eutretauranosuchus</List>
+		<List>Elosuchus</List>
+		<List>Sarcosuchus</List>
+		<List>Terminonaris</List>
+		<List>Arambourgisuchus</List>
+		<List>Hyposaurus</List>
+		<List>Rhabdognathus_sp</List>
+		<List>R_rarus</List>
+		<List>Dyrosaurus</List>
+		<List>Chenanisuchus</List>
+		<List>Sokotosuchus</List>
+		<List>Phosphatosaurus</List>
+		<List>Congosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="30">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Jouve_etal_2005a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

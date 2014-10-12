@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Barrett, P. M.</List>
+			<List>Upchurch, P.</List>
+			<List>Wang, X.-L.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>Cranial osteology of Lufengosaurus huenei Young (Dinosauria: Prosauropoda) from the Lower Jurassic of Yunnan, People's Republic of China</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>25</Volume>
+		<Pages>806-822</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List>THEROPODA</List>
+		<List>SAUROPODA</List>
+		<List>Riojasaurus</List>
+		<List>Griposaurus_sinensis</List>
+		<List>Ammosaurus_Anchisaurus</List>
+		<List>Yunnanosaurus</List>
+		<List>Massospondylus</List>
+		<List>Lufengosaurus</List>
+		<List>Coloradisaurus</List>
+		<List>Sellosaurus</List>
+		<List>Plateosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="32">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Barrett_etal_2005aa</Filename>
+	<Parent>Sereno_1999ae</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Joyce, W. G.</List>
+			<List>Lyson, T. R.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>A neglected lineage of North American turtles fills a major gap in the fossil record</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>53</Volume>
+		<Pages>241-248</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="21">
+		<List>ancestor</List>
+		<List>Cycloderma_aubryi</List>
+		<List>Pelochelys_bibroni</List>
+		<List>Amyda_cartilagineus</List>
+		<List>Cyclanorbis_elegans</List>
+		<List>Rafetus_euphraticus</List>
+		<List>Apalone_ferox</List>
+		<List>Nilsonia_formosus</List>
+		<List>Cycloderma_frenatum</List>
+		<List>Aspideretes_gangeticus</List>
+		<List>Aspideretes_hurum</List>
+		<List>Pelochelys_indica</List>
+		<List>Apalone_muticus</List>
+		<List>Lissemys_punctata</List>
+		<List>Cyclanorbis_senegalensis</List>
+		<List>Pelodiscus_sinensis</List>
+		<List>Apalone_spiniferus</List>
+		<List>Palea_steindachneri</List>
+		<List>Dogania_subplanus</List>
+		<List>Trionyx_triunguis</List>
+		<List>Plastomenus_aff_thomasii</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="76">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Joyce_et_Lyson_2010b</Filename>
+	<Parent>Meylan_1987a</Parent>
+	<Sibling/>
+</SourceTree>

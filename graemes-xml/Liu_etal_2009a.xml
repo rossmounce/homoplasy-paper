@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Liu, J.</List>
+			<List>Rubidge, B.</List>
+			<List>Li, J.-L.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>New basal synapsid supports Laurasian origin for therapsids</Title>
+		<Journal>Acta Palaeontologica Polonica</Journal>
+		<Volume>54</Volume>
+		<Pages>393-400</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="23">
+		<List>Haptodus</List>
+		<List>Dimetrodon</List>
+		<List>Tetraceratops</List>
+		<List>Raranimus</List>
+		<List>Biarmosuchus</List>
+		<List>Hipposaurus</List>
+		<List>Herpetoskylax</List>
+		<List>Lycaenodon</List>
+		<List>Lemurosaurus</List>
+		<List>Proburnetia</List>
+		<List>Burnetia</List>
+		<List>Syodon</List>
+		<List>Titanophoneus</List>
+		<List>Stenocybus</List>
+		<List>Styracocephalus</List>
+		<List>Jonkeria</List>
+		<List>Estemmenosuchus</List>
+		<List>Biseridens</List>
+		<List>Patranomodon</List>
+		<List>Suminia</List>
+		<List>Gorgonops</List>
+		<List>Lycaenops</List>
+		<List>Cyonosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="71">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Liu_etal_2009a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

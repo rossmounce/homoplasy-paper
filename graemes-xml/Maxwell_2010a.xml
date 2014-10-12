@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Maxwell, E. E.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>Generic reassignment of an ichthyosaur from the Queen Elizabeth Islands, Northwest Territories, Canada</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>30</Volume>
+		<Pages>403-415</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List>Cymbospondylus</List>
+		<List>Stenopterygius</List>
+		<List>Ichthyosaurus</List>
+		<List>Mollesaurus</List>
+		<List>Brachypterygius</List>
+		<List>Aegirosaurus</List>
+		<List>Ophthalmosaurus</List>
+		<List>Caypullisaurus</List>
+		<List>Platypterygius</List>
+		<List>Maiaspondylus</List>
+		<List>Arthropterygius</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="34">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Maxwell_2010a</Filename>
+	<Parent>Fernandez_2007a</Parent>
+	<Sibling/>
+</SourceTree>

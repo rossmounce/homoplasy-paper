@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ruta, M.</List>
+			<List>Milner, A. R.</List>
+			<List>Coates, M. I.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>The tetrapod <em>Caerorhachis bairdi</em> Holmes and Carroll from the Lower Carboniferous of Scotland</Title>
+		<Journal>Transactions of the Royal Society of Edinburgh: Earth Sciences</Journal>
+		<Volume>92</Volume>
+		<Pages>229-261</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="27">
+		<List>Panderichthys</List>
+		<List>Elginerpeton</List>
+		<List>Obruchevichthys</List>
+		<List>Ichthyostega</List>
+		<List>Ventastega</List>
+		<List>Metaxygnathus</List>
+		<List>Acanthostega</List>
+		<List>Whatcheeria</List>
+		<List>Tulerpeton</List>
+		<List>Crassigyrinus</List>
+		<List>Greerepeton</List>
+		<List>Megalocephalus</List>
+		<List>Phopliderpeton</List>
+		<List>Cochleosaurus</List>
+		<List>Phonerpeton</List>
+		<List>Eoherpeton</List>
+		<List>Proteogyrinus</List>
+		<List>Gephyrpstegus</List>
+		<List>Balanerpeton</List>
+		<List>Platyrhinops</List>
+		<List>Microbrachis</List>
+		<List>Discosauriscus</List>
+		<List>Eocaptorhinus</List>
+		<List>Diploceraspis</List>
+		<List>Sauropleura</List>
+		<List>Ophiacodon</List>
+		<List>Caerorhachis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="50">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ruta_etal_2001ae</Filename>
+	<Parent>Ahlberg_et_Clack_1998a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Warren, A.</List>
+			<List>Turner, S.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>The first stem tetrapod from the Lower Carboniferous of Gondwana</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>47</Volume>
+		<Pages>151-184</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="28">
+		<List>Eusthenopteron</List>
+		<List>Acanthostega</List>
+		<List>Ichthyostega</List>
+		<List>Crassigyrinus</List>
+		<List>Gephyrostegos</List>
+		<List>Proterogyrinus</List>
+		<List>Pholiderpeton</List>
+		<List>Greererpeton</List>
+		<List>Balanerpeton</List>
+		<List>Dendrerpeton</List>
+		<List>Eucritta</List>
+		<List>Megalocephalus</List>
+		<List>Loxomma</List>
+		<List>Baphetes</List>
+		<List>Whatcheeria</List>
+		<List>Pederpes</List>
+		<List>Seymouria</List>
+		<List>Eoherpeton</List>
+		<List>Caerorhachis</List>
+		<List>Westlothiana</List>
+		<List>Silvanerpeton</List>
+		<List>Adelogyrinus</List>
+		<List>Brukterpeton</List>
+		<List>Microbrachis</List>
+		<List>Saxonerpeton</List>
+		<List>Ptyonius</List>
+		<List>Ossinodus</List>
+		<List>Tulerpeton</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="144">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Warren_et_Turner_2004a</Filename>
+	<Parent>Clack_2002a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,78 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Carballido, J. L.</List>
+			<List>Pol, D.</List>
+			<List>Cerda, I.</List>
+			<List>Salgado, L.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>The osteology of Chibutisaurus insignis Del Corro, 1975 (Dinosauria: Neosauropoda) from the 'Middle' Cretaceous of central Patagonia, Argentina</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>31</Volume>
+		<Pages>93-110</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="41">
+		<List>Omeisaurus</List>
+		<List>Mamenchisaurus</List>
+		<List>Shunosaurus</List>
+		<List>Patagosaurus</List>
+		<List>Jobaria</List>
+		<List>Haplocanthosaurus</List>
+		<List>Camarasaurus</List>
+		<List>Europasaurus</List>
+		<List>Brachiosaurus</List>
+		<List>Euhelopus</List>
+		<List>Paluxysaurus</List>
+		<List>Chubutisaurus</List>
+		<List>Wintonotitan</List>
+		<List>Ligabuesaururs</List>
+		<List>Andesaurus</List>
+		<List>Argentinosaurus</List>
+		<List>Phuwiangosaurus</List>
+		<List>Malarguesaurus</List>
+		<List>Malawisaurus</List>
+		<List>Epachthosaurus</List>
+		<List>Alamosaurus</List>
+		<List>Opisthocoelicaudia</List>
+		<List>Isisaurus</List>
+		<List>Neuquensaurus</List>
+		<List>Saltasaurus</List>
+		<List>Nemegtosaurus</List>
+		<List>Rapetosaurus</List>
+		<List>Mendozasaurus</List>
+		<List>Futalongkosaurus</List>
+		<List>Tastavinsaurus</List>
+		<List>Tehuelchesaurus</List>
+		<List>Galvesaurus</List>
+		<List>Venenosaurus</List>
+		<List>Apatosaurus</List>
+		<List>Barosaurus</List>
+		<List>Diplodocus</List>
+		<List>Dicraeosaurus</List>
+		<List>Amargasaurus</List>
+		<List>Nigersaurus</List>
+		<List>Limaysaurus</List>
+		<List>Rebbachisaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="289">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Carballido_etal_2011a</Filename>
+	<Parent>Wilson_2002a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Gao, C.-L.</List>
+			<List>Chiappe, L. M.</List>
+			<List>Meng, Q.-J.</List>
+			<List>O'Connor, J.-M. K.</List>
+			<List>Wang, X.</List>
+			<List>Cheng, X.-D.</List>
+			<List>Liu, J.-Y.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>A new basal lineage of Early Cretaceous birds from China and its implications on the evolution of the avian tail</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>51</Volume>
+		<Pages>775-791</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="15">
+		<List>Dromaeosauridae</List>
+		<List>Archaeopteryx</List>
+		<List>Zhongornis</List>
+		<List>Jeholornis</List>
+		<List>Sapeornis</List>
+		<List>Confuciusornis</List>
+		<List>Changchengornis</List>
+		<List>Longipteryx</List>
+		<List>Eoenantiornis</List>
+		<List>Concornis</List>
+		<List>Patagopteryx</List>
+		<List>Yixianornis</List>
+		<List>Gansus</List>
+		<List>Anas</List>
+		<List>Gallus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="242">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Gao_etal_2008a</Filename>
+	<Parent>Clarke_2004aa</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Dashzeveg, D.</List>
+			<List>Meng, J.</List>
+		</Author>
+		<Year>1998</Year>
+		<Title>New Eocene ctenodactyloid rodents from the eastern Gobi Desert of Mongolia and a phylogenetic analysis of ctenodactyloids based on dental features</Title>
+		<Journal>American Museum Novitates</Journal>
+		<Volume>3246</Volume>
+		<Pages>1-20</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="22">
+		<List>Tribosphenomys</List>
+		<List>Cocomys</List>
+		<List>Bandaomys</List>
+		<List>Hohomys</List>
+		<List>Chapattimys</List>
+		<List>Birbalomys</List>
+		<List>Advenimus</List>
+		<List>Petrokozlovia</List>
+		<List>Saykanomys</List>
+		<List>Tamquammys</List>
+		<List>Stelmomys</List>
+		<List>Tsinlingomys</List>
+		<List>Chuankueimys</List>
+		<List>Alaymys</List>
+		<List>Butomys</List>
+		<List>Yuomys</List>
+		<List>Mergenomys</List>
+		<List>Protataromys</List>
+		<List>Karakoronyinae</List>
+		<List>Tataromyinae</List>
+		<List>Distylomyinae</List>
+		<List>Ctenodactylinae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="26">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Dashzeveg_et_Jin_1998a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

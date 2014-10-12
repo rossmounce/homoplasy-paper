@@ -1,0 +1,64 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Kutty, T. S.</List>
+			<List>Chatterjee, S.</List>
+			<List>Galton, P. M.</List>
+			<List>Upchurch, P.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>Basal sauropodomorphs (Dinosauria: Saurischia) from the Lower Jurassic of India: their anatomy and relationships</Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>81</Volume>
+		<Pages>1218-1240</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="27">
+		<List>Ancestor</List>
+		<List>Thecodontosaurus</List>
+		<List>Saturnalia</List>
+		<List>Ammosaurus</List>
+		<List>Anchisaurus</List>
+		<List>Blikanasaurus</List>
+		<List>Camelotia</List>
+		<List>PRADHANIA</List>
+		<List>ISIR</List>
+		<List>Coloradisaurus</List>
+		<List>Euskelosaurus</List>
+		<List>Gyposaurus</List>
+		<List>Jingshanosaurus</List>
+		<List>Lessemsaurus</List>
+		<List>Lufengosaurus</List>
+		<List>Massospondylus</List>
+		<List>Melanorosaurus</List>
+		<List>Mussaurus</List>
+		<List>Plateosaurus</List>
+		<List>Riojasaurus</List>
+		<List>Sellosaurus</List>
+		<List>Yunnanosaurus</List>
+		<List>Lampspl</List>
+		<List>Kotasaurus</List>
+		<List>Vulcanodon</List>
+		<List>Barapasaurus</List>
+		<List>Shunosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="137">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Kutty_etal_2007aa</Filename>
+	<Parent>Galton_et_Upchurch_2004a</Parent>
+	<Sibling/>
+</SourceTree>

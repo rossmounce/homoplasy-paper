@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Milner, A. C.</List>
+			<List>Ruta, M.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>A revision of <em>Scincosaurus</em> (Tetrapoda, Nectridea) from the Moscovian of Nyrany, Czech Republic, and the phylogeny and interrelationships of nectrideans</Title>
+		<Journal>Special Papers in Palaeontology</Journal>
+		<Volume>81</Volume>
+		<Pages>71-89</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="19">
+		<List>Eucritta_melanolimnetes</List>
+		<List>Balanerpeton_woodi</List>
+		<List>Dendrerpeton_acadianum</List>
+		<List>Lethiscus_stocki</List>
+		<List>Microbrachis_pelikani</List>
+		<List>Ophiderpeton_brownriggi_plus_O_kirktonense</List>
+		<List>Phlegethontia_linearis_plus_P_longissima</List>
+		<List>Proterogyrinus_scheelei</List>
+		<List>Batrachiderpeton_reticulatum</List>
+		<List>Crossotelos_annulatus</List>
+		<List>Ctenerpeton_remex</List>
+		<List>Diceratosaurus_brevirostris</List>
+		<List>Diplocaulus_magnicornis</List>
+		<List>Diploceraspis_burkei</List>
+		<List>Scincosaurus_crassus</List>
+		<List>Keraterpeton_galvani</List>
+		<List>Ptyonius_marshii</List>
+		<List>Sauropleura_pectinata_plus_S_scalaris</List>
+		<List>Urocordylus_wandesfordii</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="173">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Milner_et_Ruta_2009a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

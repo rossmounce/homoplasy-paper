@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Dewing, K.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>Shell structure and its bearing on the phylogeny of Late Ordovician-Early Silurian strophomenoid brachiopods from Anticosti Island, Quebec</Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>78</Volume>
+		<Pages>275-286</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="15">
+		<List>Billingsella_perfecta_Ulrich_and_Cooper_1936</List>
+		<List>Hepserinia_sinensis</List>
+		<List>Rafinesquina_alternata</List>
+		<List>Aphanomena_planoconvexa</List>
+		<List>Megamyonia_nitens</List>
+		<List>Leptaena_quadrilatera</List>
+		<List>Strophomena_planumbona</List>
+		<List>Oepikina_limbrata</List>
+		<List>Tetraphalerella_hecuba</List>
+		<List>Coolinia_n_sp_A_Dewing_1999</List>
+		<List>Furcitella_nodosa</List>
+		<List>Mjoesina_ceres</List>
+		<List>Archeochonetes_primigenius</List>
+		<List>Kjaerina_hartae</List>
+		<List>Triplesia_anticostiensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="15">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Dewing_2004a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

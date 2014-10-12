@@ -1,0 +1,91 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lu, J.-C.</List>
+			<List>Ji, Q.</List>
+		</Author>
+		<Year>2006 </Year>
+		<Title>Preliminary results of a phylogenetic analysis of the pterosaurs from western Liaoning and surounding areas. </Title>
+		<Journal>Journal of the Paleontological Society of Korea</Journal>
+		<Volume>22</Volume>
+		<Pages>239-261</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="56">
+		<List>Ornithosuchus_longidens</List>
+		<List>Herrerasaurus_ischigualastensis</List>
+		<List>Scleromochlus_taylori</List>
+		<List>Anurognathus_ammoni</List>
+		<List>Batrachognathus_volans</List>
+		<List>Dendrorhynchoides_curvidentatus</List>
+		<List>Jeholopterus_ningchengensis</List>
+		<List>Sordes_pilosus</List>
+		<List>Preondactylus_buffarinii</List>
+		<List>Scaphognathus_crassirostris</List>
+		<List>Dorygnathus_banthensis</List>
+		<List>Dimorphodon_macronyx</List>
+		<List>Campylognathoides_liasicus</List>
+		<List>Eudimorphodon_ranzii</List>
+		<List>Rhamphorhynchus_muensteri</List>
+		<List>Rhamphorhynchus_longicaudus</List>
+		<List>Pterodactylus_kochi</List>
+		<List>Pterodactylus_antiquus</List>
+		<List>Germanodactylus_cristatus</List>
+		<List>Germanodactylus_rhamphastinus</List>
+		<List>Ctenochasma_gracile</List>
+		<List>Pterodaustro_guinazui</List>
+		<List>Gallodactylus_canjuersensis</List>
+		<List>Cycnorhamphus_suevicus</List>
+		<List>Nyctosaurus_gracilis</List>
+		<List>Pteranodon_longiceps</List>
+		<List>Istiodactylus_latidens</List>
+		<List>Tropeognalhus_mesembrinus</List>
+		<List>Anhanguera_santanae</List>
+		<List>Anhanguera_blittersdorffi</List>
+		<List>Anhanguera_piscator</List>
+		<List>Dsungaripterus_weii</List>
+		<List>Phobetor_parvus</List>
+		<List>Noripterus_complicidens</List>
+		<List>Tupuxuara_leonardii</List>
+		<List>Thalassodromeus_sethi</List>
+		<List>Tapejara_wellnhoferi</List>
+		<List>Tapejara_imperator</List>
+		<List>Quetzalcoalus_sp</List>
+		<List>Azhdarcho_lancicollis</List>
+		<List>Beipiaopterus_chenianus</List>
+		<List>Boreopterus_cuiae</List>
+		<List>Zhejiangopterus_linhaiensis</List>
+		<List>Sinopterus_dongi</List>
+		<List>Sinopterus_gui</List>
+		<List>Jidapterus_edentus</List>
+		<List>Haopterus_gracilis</List>
+		<List>Chaoyangopterus_zhangi</List>
+		<List>Liaoningopterus</List>
+		<List>Liaoxipterus_brachyognathus</List>
+		<List>Huaxiapterus_jii</List>
+		<List>Eopteranodon_lii</List>
+		<List>Eoazhdarcho_liaoxiensis</List>
+		<List>Feilongus_youngi</List>
+		<List>Nurhachius_ignaciobritoi</List>
+		<List>Eosipterus_yangi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="80">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lu_et_Ji_2006a</Filename>
+	<Parent>Kellner_2004a</Parent>
+	<Sibling/>
+</SourceTree>

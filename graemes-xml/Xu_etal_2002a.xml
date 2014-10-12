@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Xu, X.</List>
+			<List>Makovicky, P. J.</List>
+			<List>Wang, X.-L.</List>
+			<List>Norell, M. A.</List>
+			<List>You, H.-L.</List>
+		</Author>
+		<Year>2002</Year>
+		<Title>A ceratopsian dinosaur from China and the early evolution of Ceratopsia</Title>
+		<Journal>Nature</Journal>
+		<Volume>416</Volume>
+		<Pages>314-317</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="17">
+		<List>Hypsilophodon_foxi</List>
+		<List>Stegoceras_validus</List>
+		<List>Chaoyangsaurus_youngi</List>
+		<List>Liaoceratops_yanzigouensis</List>
+		<List>Archaeoceratops_oshimai</List>
+		<List>Asiaceratops_salsopaludalis</List>
+		<List>Montanoceratops_cerorhynchus</List>
+		<List>Leptoceratops_gracilis</List>
+		<List>Udanoceratops_tshizhovi</List>
+		<List>Graciliceratops_gobiensis</List>
+		<List>Bagaceratops_rozhdestvenskyi</List>
+		<List>Protoceratops_andrewsi</List>
+		<List>Zuniceratops_christopheri</List>
+		<List>Centrosaurus_apertus</List>
+		<List>Triceratops_horridus</List>
+		<List>Psittacosaurus_mongoliensis</List>
+		<List>Psittacosaurus_sinensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="120">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Xu_etal_2002a</Filename>
+	<Parent>Makovicky_2001a</Parent>
+	<Sibling/>
+</SourceTree>

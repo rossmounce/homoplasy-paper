@@ -1,0 +1,80 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Xu, X.</List>
+			<List>Wang, X.-L.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>A new dromaeosaur (Dinosauria: Theropoda) from the Early Cretaceous Yixian Formation of western Liaoning</Title>
+		<Journal>Vertebrata Palasiatica</Journal>
+		<Volume>42</Volume>
+		<Pages>111-119</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="45">
+		<List>Allosaurus_fragilis</List>
+		<List>Tyrannosaurus_rex</List>
+		<List>Albertosaurus_libratus</List>
+		<List>Harpymimus_okladnikovi</List>
+		<List>Pelecanimimus_polyodon</List>
+		<List>Garudimimus_brevipes</List>
+		<List>Struthiomimus_altus</List>
+		<List>Gallimimus_bullatus</List>
+		<List>Ornitholestes_hermanni</List>
+		<List>Alvarezsaurus_calvoi</List>
+		<List>Patagonykus_puertai</List>
+		<List>Mononykus_olecranus</List>
+		<List>Shuuvuia_deserti</List>
+		<List>Alxasaurus_elesitaiensis</List>
+		<List>Segnosaurus_galbinensis</List>
+		<List>Erlikosaurus_andrewsi</List>
+		<List>Incisivosaurus_gauthieri</List>
+		<List>Caudipteryx_zoui</List>
+		<List>Chirostenotes_pergracilis</List>
+		<List>Avimimus_portentosus</List>
+		<List>Ingenia_yanshini</List>
+		<List>Oviraptor_philoceratops</List>
+		<List>Microvenator_celer</List>
+		<List>Oviraptor_rnongoliensis</List>
+		<List>Conchoraptor_gracilis</List>
+		<List>Archaeopteryx_lithographica</List>
+		<List>Confuciusornis_sanctus</List>
+		<List>Rahonavis_ostromi</List>
+		<List>Sinovenator_changii</List>
+		<List>Byronosaurus_jaffei</List>
+		<List>Sinornithoides_youngi</List>
+		<List>Troodon_formosus</List>
+		<List>Saurornithoides_mongoliensis</List>
+		<List>Saurornithoides_junior</List>
+		<List>Sinornithosaurus_millenni</List>
+		<List>Microraptor_zhaoianus</List>
+		<List>Graciliraptor_lujiatunensis</List>
+		<List>Dromaeosaurus_a1bertensis</List>
+		<List>Deinonychus_antirrhopus</List>
+		<List>Velociraptor_rnongoliensis</List>
+		<List>Unenlagia_comahuensis</List>
+		<List>Adasaurus_mongoliensis</List>
+		<List>Utahraptor_ostrommaysorum</List>
+		<List>Saurornitholestes_langstoni</List>
+		<List>Achillobator_giganticus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="257">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Xu_et_Wang_2004a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

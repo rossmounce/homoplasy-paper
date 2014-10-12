@@ -1,0 +1,72 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Cruzado-Caballero, P.</List>
+			<List>Pereda-Suberbiola, X.</List>
+			<List>Ruiz-Omenaca, J. I.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>Blasisaurus canudoi gen. et sp. nov., a new lambeosaurine dinosaur (Hadrosauridae) from the Latest Cretaceous of Aren (Huesca, Spain)</Title>
+		<Journal>Canadian Journal of Earth Sciences</Journal>
+		<Volume>47</Volume>
+		<Pages>1507-1517</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="36">
+		<List>Hypsilophodon</List>
+		<List>Ouranosaurus</List>
+		<List>Iguanodon</List>
+		<List>Altirhinus</List>
+		<List>Fukuisaurus</List>
+		<List>Eolambia</List>
+		<List>Equijubus</List>
+		<List>Probactrosaurus</List>
+		<List>Protohadros</List>
+		<List>Telmatosaurus</List>
+		<List>Bactrosaurus</List>
+		<List>Levnesovia</List>
+		<List>Tanius</List>
+		<List>Aralosaurus</List>
+		<List>Tsintaosaurus</List>
+		<List>Jaxartosaurus</List>
+		<List>Amurosaurus</List>
+		<List>Olorotitan</List>
+		<List>Lambeosaurus</List>
+		<List>Corythosaurus</List>
+		<List>Nipponosaurus</List>
+		<List>Hypacrosaurus</List>
+		<List>Parasaurolophus</List>
+		<List>Charonosaurus</List>
+		<List>Blasisaurus</List>
+		<List>Arenysaurus</List>
+		<List>Lophorhothon</List>
+		<List>Kritosaurus</List>
+		<List>Maiasaura</List>
+		<List>Brachylophosaurus</List>
+		<List>Gryposaurus</List>
+		<List>Kerberosaurus</List>
+		<List>Edmontosaurus</List>
+		<List>Prosaurolophus</List>
+		<List>Saurolophus</List>
+		<List>K._australis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="138">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Cruzardo-Caballero_etal_2010a</Filename>
+	<Parent>Sues_et_Averianov_2009b</Parent>
+	<Sibling/>
+</SourceTree>

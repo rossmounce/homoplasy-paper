@@ -1,0 +1,44 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Parrish, J. M.</List>
+		</Author>
+		<Year>1994</Year>
+		<Title>Cranial osteology of Longosuchus meadei and the phylogeny and distribution of the Aetosauria</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>14</Volume>
+		<Pages>196-209</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="10">
+		<List>Prestosuchia</List>
+		<List>Rauisuchia</List>
+		<List>Aetosaurus</List>
+		<List>Stagonolepis</List>
+		<List>Longosuchus</List>
+		<List>Desmatosuchus</List>
+		<List>Typothorax</List>
+		<List>Aetosauroides</List>
+		<List>Neoaetosauroides</List>
+		<List>Paratypothorax</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="15">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Parrish_1994a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

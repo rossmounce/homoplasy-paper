@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Eddy, D. R.</List>
+			<List>Clark, J. A.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>New information on the cranial anatomy of Acrocanthosaurus atokensis and its implications for the phylogeny of Allosauroidea (Dinosauria: Theropoda)</Title>
+		<Journal>PLoS One</Journal>
+		<Volume>6</Volume>
+		<Pages>1-55</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="22">
+		<List>Herrerasaurus</List>
+		<List>Coelophysoidea</List>
+		<List>Allosaurus</List>
+		<List>Australovenator</List>
+		<List>Fukuiraptor</List>
+		<List>Lourinhanosaurus</List>
+		<List>Monolophosaurus</List>
+		<List>Neovenator</List>
+		<List>Piatnitzkysaurus</List>
+		<List>Siamotyrannus</List>
+		<List>Sinraptor</List>
+		<List>Tyrannotitan</List>
+		<List>Yangchuanosaurus</List>
+		<List>Acrocanthosaurus</List>
+		<List>Eocarcharia</List>
+		<List>Shaochilong</List>
+		<List>Carcharodontosaurus</List>
+		<List>Giganotosaurus</List>
+		<List>Mapusaurus</List>
+		<List>Compsognathidae</List>
+		<List>Dilong</List>
+		<List>Tyrannosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="177">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Eddy_et_Clarke_2011a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

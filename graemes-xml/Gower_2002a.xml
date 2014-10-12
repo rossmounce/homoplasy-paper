@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Gower, D. J.</List>
+		</Author>
+		<Year>2002</Year>
+		<Title>Braincase evolution in suchian archosaurs (Reptilia: Diapsida): evidence fom the rauisuchian Batrachotomus kupferzellensis</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>136</Volume>
+		<Pages>49-76</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List>Proterosuchus_fergusi</List>
+		<List>Garjainia_prima</List>
+		<List>Euparkeria_capensis</List>
+		<List>Phytosaurs</List>
+		<List>Saurosuchus_galilei</List>
+		<List>Batrachotomus_kupferzellensis</List>
+		<List>Tikisuchus_romeri</List>
+		<List>Postosuchus_kirkpatricki</List>
+		<List>Aetosaurians</List>
+		<List>Sphenosuchus_acutus</List>
+		<List>Dibothrosuchus_elaphos</List>
+		<List>Crocodylus_sp</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="27">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Gower_2002a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

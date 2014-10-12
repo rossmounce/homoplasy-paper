@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Rubidge, B. S.</List>
+			<List>van den Heever, J. A.</List>
+		</Author>
+		<Year>1997</Year>
+		<Title>Morphology and systematic position of the dinocephalian <em>Styracocephalus platyrhynchus</em></Title>
+		<Journal>Lethaia</Journal>
+		<Volume>30</Volume>
+		<Pages>157-168</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="6">
+		<List>Biarmosuchus</List>
+		<List>Anteosauridae</List>
+		<List>Estemennosuch</List>
+		<List>Titanosuchid</List>
+		<List>Styracocephal</List>
+		<List>Tapinocephal</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="28">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Rubidge_et_van_den_Heever_1997a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sereno, P. C.</List>
+			<List>Wild, R.</List>
+		</Author>
+		<Year>1992</Year>
+		<Title><em>Procompsognathus</em>: theropod, &quot;thecodont&quot; or both?</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>12</Volume>
+		<Pages>435-458</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="8">
+		<List>ancestor</List>
+		<List>Crocodyliformes</List>
+		<List>Sphenosuchus</List>
+		<List>Dibrothrosuchus</List>
+		<List>Pseudohesperosuchus</List>
+		<List>Saltoposuchus</List>
+		<List>Pedeticosaurus</List>
+		<List>Terrestrisuchus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="20">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sereno_et_Wild_1992aa</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

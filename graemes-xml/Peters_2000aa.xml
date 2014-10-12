@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Peters, D.</List>
+		</Author>
+		<Year>2000</Year>
+		<Title>A reexamination of four prolacertiforms with implications for pterosaur phylogenesis</Title>
+		<Journal>Rivista Italiana di Paleontologia e Stratigrafia</Journal>
+		<Volume>106</Volume>
+		<Pages>293-336</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="22">
+		<List>Petrolacosaurus</List>
+		<List>Choristodera</List>
+		<List>Rhynchosauridae</List>
+		<List>Thalattosauria</List>
+		<List>Trilophosaurus</List>
+		<List>Megalancosaurus</List>
+		<List>Drepanosaurus</List>
+		<List>Protorosaurus</List>
+		<List>Prolacerta</List>
+		<List>Boreopricea</List>
+		<List>Macrocnemus</List>
+		<List>Cosesaurus</List>
+		<List>Tanystropheus</List>
+		<List>Tanytrachelos</List>
+		<List>Proterosuchus</List>
+		<List>Langobardisaurus</List>
+		<List>Longisquama</List>
+		<List>Sharovipteryx</List>
+		<List>Preondactylus</List>
+		<List>Eudimorphodon</List>
+		<List>Scleromochlus</List>
+		<List>Lagosuchus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="72">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Peters_2000aa</Filename>
+	<Parent>Evans_1988a</Parent>
+	<Sibling/>
+</SourceTree>

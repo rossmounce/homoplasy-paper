@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Laurin, M.</List>
+		</Author>
+		<Year>1993</Year>
+		<Title>Anatomy and relationships of <em>Haptodus garnettensis</em>, a Pennsylvanian synapsid from Kansas</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>13</Volume>
+		<Pages>200-229</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List>Varanopseidae</List>
+		<List>Ophiacodontidae</List>
+		<List>Edaphosauridae</List>
+		<List>Haptodus</List>
+		<List>Palaeohatteria</List>
+		<List>Pantelosaurus</List>
+		<List>Cutleria</List>
+		<List>Sphenacodon</List>
+		<List>Dimetrodon</List>
+		<List>Biarmosuchus</List>
+		<List>Dinocephalia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="121">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Laurin_1993a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

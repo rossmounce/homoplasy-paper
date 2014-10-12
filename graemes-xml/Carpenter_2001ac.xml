@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Carpenter, K.</List>
+		</Author>
+		<Year>2001 </Year>
+		<Title>Phylogenetic analysis of the Ankylosauria</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>455-483</Pages>
+		<Booktitle>The Armored Dinosaurs</Booktitle>
+		<Publisher>Indiana University Press</Publisher>
+		<City>Bloomington</City>
+		<Editor>
+			<List>Carpenter, K.</List>
+		</Editor>
+	</Source>
+	<Taxa number="11">
+		<List>Scelidosaurus</List>
+		<List>Ankylosaurus</List>
+		<List>Cedarpelta</List>
+		<List>Euoplocephalus</List>
+		<List>Nodocephalosaurus</List>
+		<List>Pinacosaurus</List>
+		<List>Saichania</List>
+		<List>Shamosaurus</List>
+		<List>Talarurus</List>
+		<List>Tarchia</List>
+		<List>Tsagantegia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="18">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Carpenter_2001ac</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

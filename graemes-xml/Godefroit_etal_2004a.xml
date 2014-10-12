@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Godefroit, P.</List>
+			<List>Bolotsky, Y. L.</List>
+			<List>Itterbeeck, J.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>The lambeosaurine dinosaur Amurosaurus riabinini, from the Maastrichtian of Far Eastern Russia</Title>
+		<Journal>Acta Palaeontologica Polonica</Journal>
+		<Volume>49</Volume>
+		<Pages>585-618</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List>Bactrosaurus</List>
+		<List>Hadrosaurinae</List>
+		<List>Tsintaosaurus</List>
+		<List>Jaxartosaurus</List>
+		<List>Amurosaurus</List>
+		<List>Parasaurolophus</List>
+		<List>Charonosaurus</List>
+		<List>Lambeosaurus</List>
+		<List>Corythosaurus</List>
+		<List>Hypacrosaurus</List>
+		<List>Olorotitan</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="40">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Godefroit_etal_2004a</Filename>
+	<Parent>Godefroit_etal_2003a</Parent>
+	<Sibling/>
+</SourceTree>

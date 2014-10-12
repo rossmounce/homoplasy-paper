@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Arbour, V. M.</List>
+			<List>Currie, P. J.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title><em>Euoplocephalus tutus</em> and the diversity of ankylosaurid dinosaurs in the Late Cretaceous of Alberta, Canada, and Montana, USA</Title>
+		<Journal>PLOS ONE</Journal>
+		<Volume>8</Volume>
+		<Pages>e62421</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="18">
+		<List>Lesothosaurus_diagnotsicus</List>
+		<List>Scelidosaurus</List>
+		<List>Stegosaurus</List>
+		<List>Edmontonia</List>
+		<List>Ankylosaurus_marginoventris</List>
+		<List>Anodontosaurus_lambei</List>
+		<List>Dyoplosaurus_acutosquameus</List>
+		<List>Euoplocephalus_tutus</List>
+		<List>Minotaurasaurus_ramachandrani</List>
+		<List>Nodocephalosaurus_kirtlandensis</List>
+		<List>Pinacosaurus_grangeri</List>
+		<List>Pinacosaurus_mephistocephalus</List>
+		<List>Saichania_chulsanensis</List>
+		<List>Scolosaurus_cutleri</List>
+		<List>Talarurus_plicatospineus</List>
+		<List>Tarchia_gigantea</List>
+		<List>Tianzhenosaurus_youngi</List>
+		<List>Tsagantegia_longicranialis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="170">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Arbour_et_Currie_2013aa</Filename>
+	<Parent>Thompson_etal_2012a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Xu, X.</List>
+			<List>Tang, Z.-L.</List>
+			<List>Wang, X.-L.</List>
+		</Author>
+		<Year>1999</Year>
+		<Title>A therizinosauroid dinosaur with integumentary structures from China</Title>
+		<Journal>Nature</Journal>
+		<Volume>399</Volume>
+		<Pages>350-354</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Allosaurus</List>
+		<List>Tyrannosauridae</List>
+		<List>Compsognathus</List>
+		<List>Ornithomimidae</List>
+		<List>Oviraptoridae</List>
+		<List>Protarchaeopteryx</List>
+		<List>Caudipteryx</List>
+		<List>Troodontidae</List>
+		<List>Archaeopteryx</List>
+		<List>Rahona</List>
+		<List>Unenlagia</List>
+		<List>Sinornithosaurus</List>
+		<List>Velociraptorinae</List>
+		<List>Dromaeosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="106">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Xu_etal_1999a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

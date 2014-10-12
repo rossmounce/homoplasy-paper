@@ -1,0 +1,61 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Zhou, Z.-H.</List>
+			<List>Zhang, F.-C.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>Discovery of an ornithurine bird and its implication for Early Cretaceous avian radiation</Title>
+		<Journal>Proceedings of the National Academy of Sciences, USA</Journal>
+		<Volume>102</Volume>
+		<Pages>18998-19002</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="26">
+		<List>Dromeosauridae</List>
+		<List>Archaeopteryx_lithographica</List>
+		<List>Jeholornis_prima</List>
+		<List>Sapeornis_chaoyangensis</List>
+		<List>Patagopteryx_deferrariisi</List>
+		<List>Hongshanornis_longicresta</List>
+		<List>Archaeorhychus_spathula</List>
+		<List>Liaoningornis_longidigitus</List>
+		<List>Yanornis_chaoyangensis</List>
+		<List>Yixianornis_grabaui</List>
+		<List>Apsaravis_ukhaana</List>
+		<List>Ichthyornis</List>
+		<List>Anas_platyrhynchos</List>
+		<List>Chauna_torquata</List>
+		<List>Gallus_gallus</List>
+		<List>Crax_pauxi</List>
+		<List>Crypturellus_undulatus</List>
+		<List>Lithornis</List>
+		<List>Hesperornis_regalis</List>
+		<List>Baptornis_adventus</List>
+		<List>Confuciusornis_sanctus</List>
+		<List>Cathayornis_yandica</List>
+		<List>Concornis_lacustris</List>
+		<List>Neuquenornis_volans</List>
+		<List>Gobipteryx_minuta</List>
+		<List>Vorona_berivotrensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="202">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Zhou_et_Zhang_2005a</Filename>
+	<Parent>Norell_et_Clarke_2001a</Parent>
+	<Sibling/>
+</SourceTree>

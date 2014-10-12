@@ -1,0 +1,68 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Rose, P. J.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>A new titanosauriform sauropod (Dinosauria: Saurischia) from the Early Cretaceous of Central Texas and its phylogenetic relationships</Title>
+		<Journal>Palaeontologica Electronica</Journal>
+		<Volume>10</Volume>
+		<Pages>1-65</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="34">
+		<List>Theropoda</List>
+		<List>Prosauropoda</List>
+		<List>Vulcanodon</List>
+		<List>Shunosaurus</List>
+		<List>Barapasaurus</List>
+		<List>Patagosaurus</List>
+		<List>Omeisaurus</List>
+		<List>Mamenchisaurus</List>
+		<List>Jobaria</List>
+		<List>Haplocanthosaurus</List>
+		<List>Apatosaurus</List>
+		<List>Barosaurus</List>
+		<List>Diplodocus</List>
+		<List>Dicraeosaurus</List>
+		<List>Amargasaurus</List>
+		<List>Nigersaurus</List>
+		<List>Rayosaurus</List>
+		<List>Rebbachisaurus</List>
+		<List>Camarasaurus</List>
+		<List>Astrodon</List>
+		<List>Brachiosaurus</List>
+		<List>Paluxysaurus</List>
+		<List>Euhelopus</List>
+		<List>Phuwiangosaurus</List>
+		<List>Malawisaurus</List>
+		<List>Isisaurus</List>
+		<List>Alamosaurus</List>
+		<List>Opisthocoelicaudia</List>
+		<List>Neuquensaurus</List>
+		<List>Saltasaurus</List>
+		<List>Nemegtosaurus</List>
+		<List>Rapetosaurus</List>
+		<List>Cedarosaurus</List>
+		<List>Venenosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="230">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Rose_2007a</Filename>
+	<Parent>Wilson_2002a</Parent>
+	<Sibling/>
+</SourceTree>

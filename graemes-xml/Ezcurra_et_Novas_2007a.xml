@@ -1,0 +1,61 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ezcurra, M. D.</List>
+			<List>Novas, F. E.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>Phylogenetic relationships of the Triassic theropod Zupaysaurus rougieri from NW Argentina</Title>
+		<Journal>Historical Biology</Journal>
+		<Volume>19</Volume>
+		<Pages>35-72</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="26">
+		<List>Silesaurus_opolensis</List>
+		<List>Lesothosaurus_diagnosticus</List>
+		<List>Heterodontosaurus_tucki</List>
+		<List>Scutellosaurus_lawleri</List>
+		<List>Eoraptor_lunensis</List>
+		<List>Herrerasaurus_ischigualastensis</List>
+		<List>Allosaurus_fragilis</List>
+		<List>Acrocanthosaurus_atokensis</List>
+		<List>Sinraptor_dongi</List>
+		<List>Spinosauridae</List>
+		<List>Torvosaurus_tanneri</List>
+		<List>Ceratosaurus_nasicornis</List>
+		<List>Carnotaurus_sastrei</List>
+		<List>Masiakasaurus_knopfleri</List>
+		<List>Dilophosaurus_wetherilli</List>
+		<List>Liliensternus_liliensterni</List>
+		<List>Coelophysis_bauri</List>
+		<List>Coelophysis_rhodesiensis</List>
+		<List>Gojirasaurus_quayi</List>
+		<List>Procompsognathus_triassicus</List>
+		<List>Segisaurus_halli</List>
+		<List>Syntarsus_kayentakatae</List>
+		<List>Zupaysaurus_rougieri</List>
+		<List>Saturnalia_tupiniquim</List>
+		<List>Plateosaurus_longiceps</List>
+		<List>Thecodontosaurus_antiquus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="253">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ezcurra_et_Novas_2007a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,66 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Liu, J.</List>
+			<List>Olsen, P.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>The phylogenetic relationships of Eucynodontia (Amniota: Synapsida)</Title>
+		<Journal>Journal of Mammalian Evolution</Journal>
+		<Volume>17</Volume>
+		<Pages>151-176</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="31">
+		<List>Procynosuchus_delaharpeae</List>
+		<List>Galesaurus_planiceps</List>
+		<List>Thrinaxodon_liorhinus</List>
+		<List>Platycraniellus_elegans</List>
+		<List>Cynognathus_crateronotus</List>
+		<List>Diademodon_tetragonus</List>
+		<List>Trirachodon_berryi</List>
+		<List>Sinognathus_gracilis</List>
+		<List>Langbergia_modisei</List>
+		<List>Pascualgnathus_polanskii</List>
+		<List>Luangwa_drysdalli</List>
+		<List>Massetognathus_pascuali</List>
+		<List>Exaeretodon_argentinus</List>
+		<List>Scalenodon_angustifrons</List>
+		<List>quot_Scalenodon_quot_hirschoni</List>
+		<List>Chiniquodon_theotonicus</List>
+		<List>Lumkuia_fuzzi</List>
+		<List>Ectenion_lunensis</List>
+		<List>Probainognathus_jenseni</List>
+		<List>Prozostrodon_brasiliensis</List>
+		<List>Therioherpeton_cargnini</List>
+		<List>Riograndia_guaibaensis</List>
+		<List>Pachygenelus_monus</List>
+		<List>Brasilodon_quardangularis</List>
+		<List>Tritylodon_longaevus</List>
+		<List>Oligokyphus_major</List>
+		<List>Bienotherium_yunnanense</List>
+		<List>Kayentatherium_wellesi</List>
+		<List>Adelobasileus_cromptoni</List>
+		<List>Sinoconodon_rigneyi</List>
+		<List>Morganucodon_oehleri</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="145">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Liu_et_Olsen_2010a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

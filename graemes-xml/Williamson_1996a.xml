@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Williamson, T. E.</List>
+		</Author>
+		<Year>1996</Year>
+		<Title>?<em>Brachychampsa sealeyi</em>, sp nov., (Crocodylia, Alligatoroidea) from the Upper Cretaceous (lower Campanian) Menefee Formation, northwestern New Mexico</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>16</Volume>
+		<Pages>421-431</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="8">
+		<List>Bernissartia_fagesii</List>
+		<List>Leidyosuchus_formidabilis</List>
+		<List>Albertochampsa_langstoni</List>
+		<List>Alligator_mississippiensis</List>
+		<List>Allognathosuchus_mooki</List>
+		<List>Brachychampsa_montana</List>
+		<List>Brachychampsa_sealeyi</List>
+		<List>Diplocynodon_hantoniensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="18">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Williamson_1996a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

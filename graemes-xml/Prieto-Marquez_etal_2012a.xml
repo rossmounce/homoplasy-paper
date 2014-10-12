@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Prieto-Marquez, A.</List>
+			<List>Chiappe, L. M.</List>
+			<List>Joshi, S. H.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>The lambeosaurine dinosaur Magnapaulia laticaudus from the Late Cretaceous of Baja California, northwestern Mexico</Title>
+		<Journal>PLoS One</Journal>
+		<Volume>7</Volume>
+		<Pages>1-32</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="29">
+		<List>Iguanodon_bernissartensis</List>
+		<List>Equijubus_normani</List>
+		<List>Probactrosaurus_gobiensis</List>
+		<List>Protohadros_byrdi</List>
+		<List>Tanius_sinensis</List>
+		<List>Bactrosaurus_johnsoni</List>
+		<List>Gilmoreosaurus_mongoliensis</List>
+		<List>Telmatosaurus_transsylvanicus</List>
+		<List>Lophorhothon_atopus</List>
+		<List>Hadrosaurus_foulkii</List>
+		<List>Aralosaurus_tuberiferus</List>
+		<List>Jaxartosaurus_aralensis</List>
+		<List>Tsintaosaurus_spinorhinus</List>
+		<List>Pararhabdodon_isonensis</List>
+		<List>Parasaurolophus_cyrtocristatus</List>
+		<List>Parasaurolophus_tubicen</List>
+		<List>Charonosaurus_jiayinensis</List>
+		<List>Velafrons_coahuilensis</List>
+		<List>Magnapaulia_laticaudus</List>
+		<List>Olorotitan_ararhensis</List>
+		<List>Hypacrosaurus_altispinus</List>
+		<List>Corythosaurus_casuarius</List>
+		<List>Corythosaurus_intermedius</List>
+		<List>Lambeosaurus_lambei</List>
+		<List>Lambeosaurus_magnicristatus</List>
+		<List>Sahaliyania_elunchunorum</List>
+		<List>Amurosaurus_riabinini</List>
+		<List>Saurolophus_osborni</List>
+		<List>Edmontosaurus_annectens</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="286">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Prieto-Marquez_etal_2012a</Filename>
+	<Parent>Prieto-Marquez_2010a</Parent>
+	<Sibling/>
+</SourceTree>

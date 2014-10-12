@@ -1,0 +1,82 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Rode, A. L.</List>
+			<List>Babcock, L. E.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>Phylogeny of fossil and extant freshwater crayfish and some closely related nephropid lobsters</Title>
+		<Journal>Journal of Crustacean Biology</Journal>
+		<Volume>23</Volume>
+		<Pages>418-435</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="47">
+		<List>Palaeopalaemon_newberyii</List>
+		<List>Eryma_fosteri</List>
+		<List>Enoploclytia_porteri</List>
+		<List>Homarus_americanus</List>
+		<List>Hoploparia_stokesi</List>
+		<List>Metanephrops_rossensis</List>
+		<List>Chilenophoberus_actacamensis</List>
+		<List>Pseudastacus_pustulosis</List>
+		<List>Palaeastacus_argoviensis</List>
+		<List>Erymastacus_bordenensis</List>
+		<List>Astacus_astacus</List>
+		<List>Astacus_licenti</List>
+		<List>Astacus_spinirostris</List>
+		<List>Austropotamobius_llopsi</List>
+		<List>Austropotamobius_torrentium</List>
+		<List>Cambaroides_similis</List>
+		<List>Pacifastacus_gambelli</List>
+		<List>Pacifastacus_chenoderma</List>
+		<List>Protastacus_politus</List>
+		<List>Barbicambarus_cornutus</List>
+		<List>Bouchardina_robisoni</List>
+		<List>Cambarellus_montezumae</List>
+		<List>Cambarus_bartonii</List>
+		<List>Distocambarus_crockeri</List>
+		<List>Fallicambarus_foidens</List>
+		<List>Faxonella_clypeata</List>
+		<List>Hobbseus_orconectoides</List>
+		<List>Orconectes_rusticus</List>
+		<List>Procambarus_blandingii</List>
+		<List>Procambarus_primeavus</List>
+		<List>Troglocambarus_maclenei</List>
+		<List>Astacoides_madagascarensis</List>
+		<List>Astacopsis_franklinii</List>
+		<List>Cherax_preisii</List>
+		<List>Engaeus_fossor</List>
+		<List>Engaewa_subcoerulea</List>
+		<List>Euastacus_armatus</List>
+		<List>Geocherax_gracilis</List>
+		<List>Gramastacus_insolitus</List>
+		<List>Lammuastacus_longirostris</List>
+		<List>Paranephrops_fordycei</List>
+		<List>Paranephrops_planifrons</List>
+		<List>Parastacoides_tasmanicus</List>
+		<List>Parastacus_pugnax</List>
+		<List>Samastacus_spinifrons</List>
+		<List>Tenuibranchiurus_glypticus</List>
+		<List>Virilastacus_araucanius</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="31">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Rode_et_Babcock_2003a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

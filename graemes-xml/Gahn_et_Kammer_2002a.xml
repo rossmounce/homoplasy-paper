@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Gahn, F. J.</List>
+			<List>Kammer, T. W.</List>
+		</Author>
+		<Year>2002</Year>
+		<Title>The cladid crinoid <em>Barycrinus</em> from the Burlington Limestone (early Osagean) and the phylogenetics of Mississippian botryocrinids</Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>76</Volume>
+		<Pages>123-133</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="13">
+		<List>Costalocrinus_ibericus</List>
+		<List>Costalocrinus_cornutus</List>
+		<List>Costalocrinus_rex</List>
+		<List>Costalocrinus_sentosus</List>
+		<List>Meniscocrinus_magnitubus</List>
+		<List>Barycrinus_crassibrachiatus</List>
+		<List>Barycrinus_magister</List>
+		<List>Barycrinus_punctus</List>
+		<List>Barycrinus_rhombiferus</List>
+		<List>Barycrinus_scitulus</List>
+		<List>Barycrinus_spectabilis</List>
+		<List>Barycrinus_spurius</List>
+		<List>Barycrinus_stellatus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="14">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Gahn_et_Kammer_2002a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

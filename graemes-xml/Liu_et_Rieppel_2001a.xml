@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Liu, J.</List>
+			<List>Rieppel, O.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>The second thalattosaur from the Triassic of Guizhou, China</Title>
+		<Journal>Vertebrata PalAsiatica</Journal>
+		<Volume>39</Volume>
+		<Pages>77-87</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="10">
+		<List>Ancestor</List>
+		<List>Askeptosaurus</List>
+		<List>Thalattosaurus</List>
+		<List>Anshunsaurus</List>
+		<List>Clarazia</List>
+		<List>Hescheleria</List>
+		<List>Xinpusaurus</List>
+		<List>Nectosaurus</List>
+		<List>Paralonectes</List>
+		<List>Agkistrognathus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="18">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Liu_et_Rieppel_2001a</Filename>
+	<Parent>Rieppel_etal_2000a</Parent>
+	<Sibling/>
+</SourceTree>

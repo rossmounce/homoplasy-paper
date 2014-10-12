@@ -1,0 +1,144 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Rabi, M.</List>
+			<List>Zhou, C.-F.</List>
+			<List>Wings, O.</List>
+			<List>Ge, S.</List>
+			<List>Joyce, W. G.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>A new xinjiangchelyid turtle from the Middle Jurassic of Xinjiang, China and the evolution of the basipterygoid process in Mesozoic turtles</Title>
+		<Journal>BMC Evolutionary Biology</Journal>
+		<Volume>13</Volume>
+		<Pages>203</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="106">
+		<List>Sphenodon_punctatus</List>
+		<List>Simosaurus_gaillardoti</List>
+		<List>Owenetta_kitchingorum</List>
+		<List>Anthodon_serrarius</List>
+		<List>Odontochelys_semitestacea</List>
+		<List>Proganochelys_quenstedti</List>
+		<List>Proterochersis_robusta</List>
+		<List>Palaeochersis_talampayensis</List>
+		<List>Australochelys_africanus</List>
+		<List>Kayentachelys_aprix</List>
+		<List>Condorchelys_antiqua</List>
+		<List>Heckerochelys_romani</List>
+		<List>Eileanchelys_waldmani</List>
+		<List>Indochelys_spatulata</List>
+		<List>Niolamia_argentina</List>
+		<List>Ninjemys_oweni</List>
+		<List>Warkalania_carinaminor</List>
+		<List>Meiolania_platyceps</List>
+		<List>Chubutemys_copelloi</List>
+		<List>Mongolochelys_efremovi</List>
+		<List>Kallokibotion_bajazidi</List>
+		<List>Peligrochelys</List>
+		<List>Patagoniaemys_gasparinae</List>
+		<List>Otwayemys_cunicularius</List>
+		<List>Platychelys_oberndorferi</List>
+		<List>Caribemys_oxfordiensis</List>
+		<List>Notoemys_laticentralis</List>
+		<List>Prochelidella_cerrobarcinae</List>
+		<List>Elseya_dentata</List>
+		<List>Myuchelys_latisternum</List>
+		<List>Chelodina_colliei</List>
+		<List>Chelodina_longicollis</List>
+		<List>Yaminuechelys_maior</List>
+		<List>Phrynops_geoffroanus</List>
+		<List>Chelus_fimbriatus</List>
+		<List>Araripemys_barretoi</List>
+		<List>Erymnochelys_madagascariensis</List>
+		<List>Pelomedusa_subrufa</List>
+		<List>Podocnemis_expansa</List>
+		<List>Dorsetochelys_delairi</List>
+		<List>Pleurosternon_bullockii</List>
+		<List>Glyptops_plicatulus</List>
+		<List>Dinochelys_whitei</List>
+		<List>Neurankylus_eximius</List>
+		<List>Trinitichelys_hiatti</List>
+		<List>Plesiobaena_antiqua</List>
+		<List>Boremys_pulchra</List>
+		<List>Baena_arenosa</List>
+		<List>Chisternon_undatum</List>
+		<List>Portlandemys_macdowelli</List>
+		<List>Plesiochelys_etalloni</List>
+		<List>Solnhofia_parsonsi</List>
+		<List>Thalassemys_moseri</List>
+		<List>Santanachelys_gaffneyi</List>
+		<List>Toxochelys_latiremys</List>
+		<List>Caretta_caretta</List>
+		<List>Chelonia_mydas</List>
+		<List>Mesodermochelys_undulatus</List>
+		<List>Dermochelys_coriacea</List>
+		<List>Macroclemys_schmidti</List>
+		<List>Macroclemys_temminckii</List>
+		<List>Protochelydra_zangerli</List>
+		<List>Chelydra_serpentina</List>
+		<List>Platysternon_megacephalum</List>
+		<List>Mongolemys_elegans</List>
+		<List>Gopherus_polyphemus</List>
+		<List>Eurotestudo_hermanni</List>
+		<List>Chelonoidis_gringorum</List>
+		<List>Chelonoidis_chilensis</List>
+		<List>Stylemys_nebraskensis</List>
+		<List>Chrysemys_picta</List>
+		<List>Trachemys_scripta</List>
+		<List>Emys_orbicularis</List>
+		<List>Geoclemys_hamiltonii</List>
+		<List>Echmatemys_wyomingensis</List>
+		<List>Emarginachelys_cretacea</List>
+		<List>Baptemys_wyomingensis</List>
+		<List>Dermatemys_mawii</List>
+		<List>Xenochelys_formosa</List>
+		<List>Staurotypus_triporcatus</List>
+		<List>Sternotherus_odoratus</List>
+		<List>Kinosternon_flavescens</List>
+		<List>Basilemys_variolosa</List>
+		<List>Yehguia_tatsuensis</List>
+		<List>Adocus_beatus</List>
+		<List>Hoplochelys_crassa</List>
+		<List>Apalone_spinifera</List>
+		<List>Plastomenus_aff_thomassii</List>
+		<List>Pelodiscus_sinensis</List>
+		<List>Lissemys_punctata</List>
+		<List>Shachemys_laosiana</List>
+		<List>Anosteira_ornata</List>
+		<List>Carettochelys_insculpta</List>
+		<List>Xinjiangchelys_wusu</List>
+		<List>Annemys_levensis</List>
+		<List>Annemys_latiens</List>
+		<List>Xinjiangchelys_radiplicatoides</List>
+		<List>Xinjiangchelys_junggarensis</List>
+		<List>Chengyuchelys</List>
+		<List>Hangaiemys_hoburensis</List>
+		<List>Judithemys_sukhanovi</List>
+		<List>Dracochelys_bicuspis</List>
+		<List>Sinemys_lens</List>
+		<List>Ordosemys_leios</List>
+		<List>Basilochelys_macrobios</List>
+		<List>Siamochelys_peninsularis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="238">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Rabi_etal_2013a</Filename>
+	<Parent>Sterli_et_De_La_Fuente_inpressa</Parent>
+	<Sibling/>
+</SourceTree>

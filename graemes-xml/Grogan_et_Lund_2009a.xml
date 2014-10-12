@@ -1,0 +1,78 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Grogan, E. D.</List>
+			<List>Lund, R.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>Two new iniopterygians (Chondrichthyes) from the Mississippian (Serpukhovian) Bear Gulch Limestone of Montana with evidence of a new form of chondrichthyan neurocranium</Title>
+		<Journal>Acta Zoologica</Journal>
+		<Volume>90 (Supplement 1)</Volume>
+		<Pages>134-151</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="43">
+		<List>Outgroup</List>
+		<List>Delphyodontos</List>
+		<List>Iniopterygian</List>
+		<List>Rainerichthys</List>
+		<List>Belantsea</List>
+		<List>Netsepoye</List>
+		<List>ElWeir</List>
+		<List>L2SP</List>
+		<List>Gregorius_rexi</List>
+		<List>Srianta_dawsoni</List>
+		<List>Srianta_iarlis</List>
+		<List>Srianta_srianta</List>
+		<List>Bealbonn_rogaire</List>
+		<List>Heteropetalus</List>
+		<List>Debeerius</List>
+		<List>Orodus</List>
+		<List>Chom</List>
+		<List>Helodus</List>
+		<List>Callorhinchus</List>
+		<List>Physonemus</List>
+		<List>Echinochimaera_meltoni</List>
+		<List>Echinochimaera_snyderi</List>
+		<List>Squaloraja</List>
+		<List>Harpagofututor</List>
+		<List>Traquairius_nudus</List>
+		<List>Traquairius_spinosus</List>
+		<List>T_agkistrocephalus</List>
+		<List>Menaspis</List>
+		<List>Cochliodont</List>
+		<List>Acanthorhina</List>
+		<List>Harpacanthus</List>
+		<List>Caseodus</List>
+		<List>Ornithoprion</List>
+		<List>Stethacanthus_altonensis</List>
+		<List>Falcatus</List>
+		<List>Damocles</List>
+		<List>Tristychius</List>
+		<List>Squalus</List>
+		<List>Diplodoselache</List>
+		<List>Squatinactis</List>
+		<List>Hamiltonichthys</List>
+		<List>Thrinacodont_sp</List>
+		<List>Egertonodus_basanus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="31">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Grogan_et_Lund_2009a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

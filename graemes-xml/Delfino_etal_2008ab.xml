@@ -1,0 +1,80 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Delfino, M.</List>
+			<List>Martin, J. E.</List>
+			<List>Buffetaut, E.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>A new species of Acynodon (Crocodylia) from the Upper Cretaceous (Santonian-Campanian) of Villaggio del Pescatore, Italy</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>51</Volume>
+		<Pages>1091-1106</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="44">
+		<List>Borealosuchus_sternbergii</List>
+		<List>Arambourgia_gaudryi</List>
+		<List>Alligator_olseni</List>
+		<List>Alligator_mefferdi</List>
+		<List>Eocaiman_cavernensis</List>
+		<List>Leydiosuchus_canadensis</List>
+		<List>Asiatosuchus_germanicus</List>
+		<List>Diplocynodon_hantoniensis</List>
+		<List>Diplocynodon_ratelii</List>
+		<List>Diplocynodon_darwini</List>
+		<List>Stangerochampsa_mccbei</List>
+		<List>Brachychampsa_montana</List>
+		<List>Alligator_sinensis</List>
+		<List>Alligator_mississippiensis</List>
+		<List>Alligator_mcgrewi</List>
+		<List>Alligator_prenasalis</List>
+		<List>Allognathosuchus_wartheni</List>
+		<List>Allognathosuchus_mooki</List>
+		<List>Wannaganosuchus_brachymanus</List>
+		<List>Procaimanoidea_kayi</List>
+		<List>Purussaurus_neivensis</List>
+		<List>Orthogenisuchus_olseni</List>
+		<List>Mourasuchus</List>
+		<List>Caiman_yacare</List>
+		<List>Caiman_crocodylus</List>
+		<List>Caiman_latirostris</List>
+		<List>Melanosuchus_niger</List>
+		<List>Paleosuchus_trigonatus</List>
+		<List>Paleosuchus_palpebrosus</List>
+		<List>Diplocynodon_muelleri</List>
+		<List>Baryphracta_deponiae</List>
+		<List>Albertochampsa_langstoni</List>
+		<List>Procaimanoidea_uthaensis</List>
+		<List>Brachychampsa_sealeyi</List>
+		<List>Ceratosuchus_burdoshi</List>
+		<List>Hassiacosuchus_haupti</List>
+		<List>Allognathosuchus_polyodon</List>
+		<List>Melanosuchus_fisheri</List>
+		<List>Caiman_lutescens</List>
+		<List>Diplocynodon_tormis</List>
+		<List>Acynodon_iberoccitanus</List>
+		<List>Acynodon_adriaticus</List>
+		<List>Bernissartia_fagesii</List>
+		<List>Hylaeochampsa_vectiana</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="167">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Delfino_etal_2008ab</Filename>
+	<Parent>Piras_et_Buscalioni_2006a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Novas, F. E.</List>
+		</Author>
+		<Year>1992</Year>
+		<Title>Phylogenetic relationships of the basal dinosaurs, the Herrerasauridae</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>35</Volume>
+		<Pages>51-62</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="5">
+		<List>Lagosuchus</List>
+		<List>Pseudolagosuchus</List>
+		<List>Herrerasauridae</List>
+		<List>Ornithischia</List>
+		<List>Saurischia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="17">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Novas_1992a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

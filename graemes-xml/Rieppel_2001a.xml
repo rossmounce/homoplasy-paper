@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Rieppel, O.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>The cranial anatomy of <em>Placochelys placodonta</em> Jaekel, 1902, and a review of the Cyamodontoidea (Reptilia, Placodonta)</Title>
+		<Journal>Fieldiana: Geology, New Series</Journal>
+		<Volume>45</Volume>
+		<Pages>1-104</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="13">
+		<List>Ancestor</List>
+		<List>Placodus</List>
+		<List>Paraplacodus</List>
+		<List>C_rostratus</List>
+		<List>C_hlldegardis</List>
+		<List>C_kuhnschnyderi</List>
+		<List>Henodus</List>
+		<List>Macroplacus</List>
+		<List>Placochelys</List>
+		<List>Protenodontosaurus</List>
+		<List>Psephoderma</List>
+		<List>Israel</List>
+		<List>laticeps</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="54">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Rieppel_2001a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

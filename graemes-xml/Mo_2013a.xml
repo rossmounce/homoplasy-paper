@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Mo, J.-Y.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>Bellusaruus sui</Title>
+		<Journal>Henan Science and technology Press</Journal>
+		<Volume>Henan</Volume>
+		<Pages>pp69</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="33">
+		<List>Theropoda</List>
+		<List>Prosauropoda</List>
+		<List>Vulcanodon</List>
+		<List>Barapasaurus</List>
+		<List>Omeisaurus</List>
+		<List>Shunosaurus</List>
+		<List>Patagosaurus</List>
+		<List>Mamenchisaurus</List>
+		<List>Apatosaurus</List>
+		<List>Barosaurus</List>
+		<List>Brachiosaurus</List>
+		<List>Giraffatitan</List>
+		<List>Camarasaurus</List>
+		<List>Dicraeosaurus</List>
+		<List>Diplodocus</List>
+		<List>Haplocanthosaurus</List>
+		<List>Amargasaurus</List>
+		<List>Euhelopus</List>
+		<List>Jobaria</List>
+		<List>Malawisaurus</List>
+		<List>Nigersaurus</List>
+		<List>Limaysaurus</List>
+		<List>Rebbachisaurus</List>
+		<List>Alamosaurus</List>
+		<List>Nemegtosaurus</List>
+		<List>Opisthocoelicaudia</List>
+		<List>Rapetosaurus</List>
+		<List>Saltasaurus</List>
+		<List>Isisaurus</List>
+		<List>Losillasaurus</List>
+		<List>Suuwassea</List>
+		<List>Bellusaurus</List>
+		<List>Dashanpusaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="331">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Mo_2013a</Filename>
+	<Parent>Taylor_2009a</Parent>
+	<Sibling/>
+</SourceTree>

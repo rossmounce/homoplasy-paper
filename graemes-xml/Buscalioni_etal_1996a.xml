@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Buscalioni, A. D.</List>
+			<List>Ortega, F.</List>
+			<List>Perez-Moreno, B. P.</List>
+			<List>Evans, S. E.</List>
+		</Author>
+		<Year>1996</Year>
+		<Title>The Upper Jurasssic maniraptoran theropod Lisboasaurus estesi (Guimarota, Portugal) reinterpreted as a crocodylomorph</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>16</Volume>
+		<Pages>358-362</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List>Proterochampsa</List>
+		<List>Erythrosuchidae</List>
+		<List>Dromaeosauridae</List>
+		<List>Troodontidae</List>
+		<List>Archaeopteryx</List>
+		<List>Hesperornis</List>
+		<List>Ornithomimosauria</List>
+		<List>Sphenosuchus</List>
+		<List>Protosuchus</List>
+		<List>Notosuchus</List>
+		<List>Lisboasaurus_estesi</List>
+		<List>Las_Hoyas_crocodylomorph</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="20">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Buscalioni_etal_1996a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

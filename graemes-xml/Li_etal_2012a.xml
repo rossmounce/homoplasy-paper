@@ -1,0 +1,120 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Li, C.</List>
+			<List>Wu, X.-C.</List>
+			<List>Zhao, L.-J.</List>
+			<List>Sato, T.</List>
+			<List>Wang, L.-T.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>A new archosaur (Diapsida, Archosauriformes) from the marine Triassic of China</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>32</Volume>
+		<Pages>1064-1081</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="82">
+		<List>Mesosuchus</List>
+		<List>Prolacerta</List>
+		<List>Archosaurus</List>
+		<List>Proterosuchus</List>
+		<List>Erythrosuchus</List>
+		<List>Vancleavea</List>
+		<List>Chanaresuchus</List>
+		<List>Tropidosuchus</List>
+		<List>Euparkeria</List>
+		<List>Parasuchus</List>
+		<List>Smilosuchus</List>
+		<List>Pseudopalatus</List>
+		<List>Gracilisuchus</List>
+		<List>Turfanosuchus</List>
+		<List>Ornithosuchus</List>
+		<List>Riojasuchus</List>
+		<List>Revueltosaurus</List>
+		<List>Stagonolepis</List>
+		<List>Aetosaurus</List>
+		<List>Longosuchus</List>
+		<List>Ticinosuchus</List>
+		<List>Qianosuchus</List>
+		<List>Xilousuchus</List>
+		<List>Arizonasaurus</List>
+		<List>PoposaurusGH</List>
+		<List>PoposaurusGY</List>
+		<List>Lotosaurus</List>
+		<List>Sillosuchus</List>
+		<List>Effigia</List>
+		<List>Shuvosaurus</List>
+		<List>Prestosuchus</List>
+		<List>UFRGS1565T</List>
+		<List>UFRGS01525T</List>
+		<List>Saurosuchus</List>
+		<List>Batrachotomus</List>
+		<List>Fasolasuchus</List>
+		<List>Rauisuchus</List>
+		<List>PolonosuchusS</List>
+		<List>PostosuchusK</List>
+		<List>PostosuchusA</List>
+		<List>CM73372</List>
+		<List>HesperosuchusA</List>
+		<List>Dromicosuchus</List>
+		<List>Hesperosuchus</List>
+		<List>Dibothrosuchus</List>
+		<List>Terrestrisuchus</List>
+		<List>Sphenosuchus</List>
+		<List>Litargosuchus</List>
+		<List>Kayentasuchus</List>
+		<List>Orthosuchus</List>
+		<List>Alligator</List>
+		<List>ProtosuchusH</List>
+		<List>ProtosuchusR</List>
+		<List>Eudimorphodon</List>
+		<List>Dimorphodon</List>
+		<List>Lagerpeton</List>
+		<List>DromomeronG</List>
+		<List>DromomeronR</List>
+		<List>Marasuchus</List>
+		<List>Asilisaurus</List>
+		<List>Eucoelophysis</List>
+		<List>Sacisaurus</List>
+		<List>Lewisuchus</List>
+		<List>Pseudolagosuchus</List>
+		<List>Eocursor</List>
+		<List>Silesaurus</List>
+		<List>Pisanosaurus</List>
+		<List>Heterodontosaurus</List>
+		<List>Lesothosaurus</List>
+		<List>Scutellosaurus</List>
+		<List>Herrerasaurus</List>
+		<List>Staurikosaurus</List>
+		<List>Eoraptor</List>
+		<List>Saturnalia</List>
+		<List>Plateosaurus</List>
+		<List>Efraasia</List>
+		<List>Tawa</List>
+		<List>Coelophysis</List>
+		<List>Dilophosaurus</List>
+		<List>Allosaurus</List>
+		<List>Velociraptor</List>
+		<List>Diandongosuchus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="412">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Li_etal_2012a</Filename>
+	<Parent>Nesbitt_2011ab</Parent>
+	<Sibling/>
+</SourceTree>

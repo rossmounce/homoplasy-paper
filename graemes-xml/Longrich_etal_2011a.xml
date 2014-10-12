@@ -1,0 +1,82 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Longrich, N. R.</List>
+			<List>Tokaryk, T.</List>
+			<List>Field, D. J.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>Mass extinction of birds at the Cretaceous-Paleogene (K-Pg) boundary</Title>
+		<Journal>Proceedings of the National Academy of Sciences, USA</Journal>
+		<Volume>108</Volume>
+		<Pages>15253-15257</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="46">
+		<List>Dromaeosauridae</List>
+		<List>Archaeopteryx_lithographica</List>
+		<List>Jeholornis_prima</List>
+		<List>Sapeornis_chaoyangensis</List>
+		<List>Confuciusornis_sanctus</List>
+		<List>Songlingornis_linghensis</List>
+		<List>Patagopteryx_deferrariisi</List>
+		<List>Vorona_berivotrensis</List>
+		<List>Yixianornis_grabaui</List>
+		<List>Yanornis_martini</List>
+		<List>Hongshanornis_longicresta</List>
+		<List>Archaeorynchus_spathula</List>
+		<List>Hesperornis_regalis</List>
+		<List>Baptornis_adventus</List>
+		<List>Pengornis_houi</List>
+		<List>Protopteryx_feingoldi</List>
+		<List>Cathayornis_yandica</List>
+		<List>Concornis_lacustris</List>
+		<List>Neuquenornis_volans</List>
+		<List>Gobipteryx_minuta</List>
+		<List>Avisaurus_archibaldi</List>
+		<List>Enantiornithine_A</List>
+		<List>Enantiornithine_B</List>
+		<List>Hesperornithiform_A</List>
+		<List>Hesperornithiform_B</List>
+		<List>Apsaravis_ukhaana</List>
+		<List>Palintropus_retusus</List>
+		<List>Ichthyornis_dispar</List>
+		<List>Iaceornis_marshii</List>
+		<List>Ceramornis_major</List>
+		<List>Cimolopteryx_rara</List>
+		<List>Cimolopteryx_minima</List>
+		<List>Cimolopteryx_maxima</List>
+		<List>Cimolopteryx_petra</List>
+		<List>Ornithurine_A</List>
+		<List>Ornithurine_B</List>
+		<List>Ornithurine_C</List>
+		<List>Ornithurine_D</List>
+		<List>Ornithurine_E</List>
+		<List>Ornithurine_F</List>
+		<List>Lithornis</List>
+		<List>Crypturellus_undulatus</List>
+		<List>Anas_platyrhynchos</List>
+		<List>Chauna_torquata</List>
+		<List>Gallus_gallus</List>
+		<List>Crax_pauxi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="227">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Longrich_etal_2011a</Filename>
+	<Parent>Zhou_etal_2008a</Parent>
+	<Sibling/>
+</SourceTree>

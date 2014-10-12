@@ -1,0 +1,61 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Vickaryous, M. K.</List>
+			<List>Russell, A. P.</List>
+			<List>Currie, P. J.</List>
+			<List>Zhao, X.-J.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>A new ankylosaurid (Dinosauria: Ankylosauria) from the Lower Cretaceous of China, with comments on ankylosaurian relationships</Title>
+		<Journal>Canadian Journal of Earth Sciences</Journal>
+		<Volume>38</Volume>
+		<Pages>1767-1780</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="24">
+		<List>Lesothosaurus</List>
+		<List>Huayangosaurus</List>
+		<List>Gargoyleosaurus</List>
+		<List>Minmi</List>
+		<List>Tsagantegia</List>
+		<List>Ankylosaurus</List>
+		<List>Euoplocephalus</List>
+		<List>Saichania</List>
+		<List>Tarchia</List>
+		<List>Pinacosaurus</List>
+		<List>Nodocephalosaurus</List>
+		<List>Talarurus</List>
+		<List>Tianzhenosaurus</List>
+		<List>Shanxia</List>
+		<List>Shamosaurus</List>
+		<List>Gobisaurus</List>
+		<List>Gastonia</List>
+		<List>Animantarx</List>
+		<List>Struthiosaurus</List>
+		<List>Silvisaurus</List>
+		<List>Sauropelta</List>
+		<List>Pawpawsaurus</List>
+		<List>Edmontonia</List>
+		<List>Panoplosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="41">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Vickaryous_etal_2001a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

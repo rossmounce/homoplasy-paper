@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Desojo, J. B.</List>
+			<List>Ezcurra, M. D.</List>
+			<List>Schultz, C. L.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>An unusual new archosauriform from the Middle-Late Triassic of southern Brazil and the monophyly of Doswelliidae</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>161</Volume>
+		<Pages>839-871</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="19">
+		<List>Mesosuchus</List>
+		<List>Prolacerta</List>
+		<List>Proterosuchus</List>
+		<List>Euparkeria</List>
+		<List>Doswellia</List>
+		<List>Erythrosuchus</List>
+		<List>Chanaresuchus</List>
+		<List>Parasuchus</List>
+		<List>Stagonolepis</List>
+		<List>Gracilisuchus</List>
+		<List>Scleromochlus</List>
+		<List>Turfanosuchus</List>
+		<List>Yonghesuchus</List>
+		<List>Marasuchus</List>
+		<List>Qianosuchus</List>
+		<List>Tarjadia</List>
+		<List>Archeopelta</List>
+		<List>Chilenosuchus</List>
+		<List>Vancleavea</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="115">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Desojo_etal_2011a</Filename>
+	<Parent>Dilkes_et_Sues_2009a</Parent>
+	<Sibling/>
+</SourceTree>

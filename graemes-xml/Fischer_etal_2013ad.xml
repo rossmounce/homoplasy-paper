@@ -1,0 +1,73 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Fischer, V.</List>
+			<List>Appleby, R. M.</List>
+			<List>Naish, D.</List>
+			<List>Liston, J.</List>
+			<List>Riding, J. B.</List>
+			<List>Brindley, S.</List>
+			<List>Godefroit, P.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>A basal thunnosaurian from Iraq reveals disparate phylogenetic origins for Cretaceous ichthyosaurs</Title>
+		<Journal>Biology Letters</Journal>
+		<Volume>9</Volume>
+		<Pages>20130021</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="33">
+		<List>Petrolacosaurus</List>
+		<List>Utatsusaurus</List>
+		<List>Grippia</List>
+		<List>Parvinatator</List>
+		<List>Chaohusaurus</List>
+		<List>Cymbospondylus</List>
+		<List>Mixosaurus</List>
+		<List>Phalarodon</List>
+		<List>Xinminosaurus</List>
+		<List>Besanosaurus</List>
+		<List>Shastasaurus</List>
+		<List>Shonisaurus</List>
+		<List>Callawayia</List>
+		<List>Guizhouichthyosaurus</List>
+		<List>Californosaurus</List>
+		<List>Toretocnemus</List>
+		<List>Qianichthyosaurus</List>
+		<List>Hudsonelpidia</List>
+		<List>Macgowania</List>
+		<List>Suevoleviathan</List>
+		<List>Temnodontosaurus</List>
+		<List>Leptonectes</List>
+		<List>Excalibosaurus</List>
+		<List>Eurhinosaurus</List>
+		<List>Ichthyosaurus</List>
+		<List>Stenopterygius</List>
+		<List>Brachypterygius</List>
+		<List>Ophthalmosaurus</List>
+		<List>Aegirosaurus</List>
+		<List>Caypullisaurus</List>
+		<List>Platypterygius</List>
+		<List>Maiaspondylus</List>
+		<List>Malawania</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="105">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Fischer_etal_2013ad</Filename>
+	<Parent>Thorne_etal_2011a</Parent>
+	<Sibling/>
+</SourceTree>

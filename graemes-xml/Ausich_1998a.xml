@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ausich, W. I.</List>
+		</Author>
+		<Year>1998</Year>
+		<Title>Early phylogeny and subclass division of the Crinoidea (Phylum Echinodermata)</Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>72</Volume>
+		<Pages>499-510</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="33">
+		<List>Caryocystites</List>
+		<List>Scoliocystis</List>
+		<List>Aethocrinus</List>
+		<List>Archaeotaxocrinus</List>
+		<List>Caleidocrinus_H</List>
+		<List>Celtocrinus</List>
+		<List>Compagicrinus</List>
+		<List>Deocrinus</List>
+		<List>Elpasocrinus</List>
+		<List>Hoplocrinus</List>
+		<List>Hybocrinus</List>
+		<List>lbexocrinus</List>
+		<List>Inyocrinus</List>
+		<List>Iocrinus</List>
+		<List>lsotomocrinus</List>
+		<List>Maennilicrinus</List>
+		<List>Neoarchaeocrinus</List>
+		<List>Othneiocrinus</List>
+		<List>Palaeocrinus</List>
+		<List>Pandoracrinus</List>
+		<List>Pariocrinus</List>
+		<List>Perittocrinus</List>
+		<List>Pogonipocrinus</List>
+		<List>Proexenocrinus</List>
+		<List>Pultivocrinus</List>
+		<List>Ramseyocrinus</List>
+		<List>Revalocrinus</List>
+		<List>Tetracionocrinus</List>
+		<List>Tetragonocrinus</List>
+		<List>Trichinocrinus</List>
+		<List>Tripatrocrinus</List>
+		<List>Vosketocrinus</List>
+		<List>new_cladid</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="25">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ausich_1998a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

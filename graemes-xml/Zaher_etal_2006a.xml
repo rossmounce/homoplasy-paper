@@ -1,0 +1,85 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Zaher, H.</List>
+			<List>Pol, D.</List>
+			<List>Carvalho, A. B.</List>
+			<List>Riccomini, C.</List>
+			<List>Campos, D.</List>
+			<List>Nava, W.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>Redescription of the cranial morphology of Mariliasuchus amarali, and its phylogenetic affinities (Crocodyliformes, Notosuchia)</Title>
+		<Journal>American Museum Novitates</Journal>
+		<Volume>3512</Volume>
+		<Pages>1-40</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="46">
+		<List>Gracilisuchus</List>
+		<List>Terrestrisuchus</List>
+		<List>Dibothrosuchus</List>
+		<List>Protosuchus</List>
+		<List>Hemiprotosuchus</List>
+		<List>Orthosuchus</List>
+		<List>Kayenta_Form</List>
+		<List>Zaraasuchus</List>
+		<List>Gobiosuchus</List>
+		<List>Sichuanosuchus</List>
+		<List>Shantungosuchus</List>
+		<List>Zosuchus</List>
+		<List>Fruita_Form</List>
+		<List>Hsisosuchus</List>
+		<List>Notosuchus</List>
+		<List>Comahuesuchus</List>
+		<List>Mariliasuchus</List>
+		<List>Uruguaysuchus</List>
+		<List>Chimaeresuchus</List>
+		<List>Malawisuchus</List>
+		<List>Candidodon</List>
+		<List>Simosuchus</List>
+		<List>Sphagesaurus</List>
+		<List>Bretesuchus</List>
+		<List>Baurusuchus</List>
+		<List>Iberosuchus</List>
+		<List>Araripesuchus_gomesii</List>
+		<List>Araripesuchus_patagonicus</List>
+		<List>Lomasuchus</List>
+		<List>Peirosaurus</List>
+		<List>Theriosuchus</List>
+		<List>Alligatorium</List>
+		<List>Goniopholis</List>
+		<List>Eutretauranosuchus</List>
+		<List>Pelagosaurus</List>
+		<List>Teleosauridae</List>
+		<List>Metriorhynchidae</List>
+		<List>Sokotosuchus</List>
+		<List>Dyrosauridae</List>
+		<List>Pholidosaurus</List>
+		<List>Bernissartia</List>
+		<List>Hylaeochampsa</List>
+		<List>Borealosuchus</List>
+		<List>Gavialis</List>
+		<List>Crocodylus</List>
+		<List>Alligator</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="198">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Zaher_etal_2006a</Filename>
+	<Parent>Clark_1994a</Parent>
+	<Sibling/>
+</SourceTree>

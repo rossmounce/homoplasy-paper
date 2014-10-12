@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Norman, D. B.</List>
+		</Author>
+		<Year>2002</Year>
+		<Title>On Asian ornithopods (Dinosauria: Ornithischia). 4. Probactrosaurus Rozhdestvensky, 1966</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>136</Volume>
+		<Pages>113-144</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="18">
+		<List>Dryosaurus</List>
+		<List>Camptosaurus</List>
+		<List>Lurdusaurus</List>
+		<List>Mazongshan_sp.</List>
+		<List>Iguanodon_a</List>
+		<List>Iguanodon_b</List>
+		<List>Ouranosaurus</List>
+		<List>Altirhinus</List>
+		<List>Eolambia</List>
+		<List>Protohadros</List>
+		<List>Probactrosaurus</List>
+		<List>Telmatosaurus</List>
+		<List>Bactrosaurus</List>
+		<List>Saurolophus</List>
+		<List>Edmontosaurus</List>
+		<List>Brachylophosaurus</List>
+		<List>Parasaurolophus</List>
+		<List>Corythosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="67">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Norman_2002a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

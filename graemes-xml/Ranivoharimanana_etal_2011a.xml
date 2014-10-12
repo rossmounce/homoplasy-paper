@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ranivoharimanana, L.</List>
+			<List>Kammerer, C. F.</List>
+			<List>Flynn, J. J.</List>
+			<List>Wyss, A. R.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>New material of <em>Dadadon isaloi</em> (Cynodontia, Traversodontidae) from the Triassic of Madagascar</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>31</Volume>
+		<Pages>1292-1302</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="18">
+		<List>Cynognathus</List>
+		<List>Diademodon</List>
+		<List>Trirachodon</List>
+		<List>Langbergia</List>
+		<List>Cricodon</List>
+		<List>Andescynodon</List>
+		<List>Massetognathus</List>
+		<List>Exaeretodon</List>
+		<List>Luangwa</List>
+		<List>Scalangustifrons</List>
+		<List>Scalhirschsoni</List>
+		<List>Traversodon</List>
+		<List>Gomphodontosuchus</List>
+		<List>Pascualgnathus</List>
+		<List>Scalenodontoides</List>
+		<List>Menadon</List>
+		<List>Dadadon</List>
+		<List>Santacruzodon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="44">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ranivoharimanana_etal_2011a</Filename>
+	<Parent>Kammerer_etal_2008a</Parent>
+	<Sibling/>
+</SourceTree>

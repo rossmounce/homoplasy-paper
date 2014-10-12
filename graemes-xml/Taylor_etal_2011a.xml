@@ -1,0 +1,68 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Taylor, M. P.</List>
+			<List>Wedel, M. J.</List>
+			<List>Cifelli, R. L.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>A new sauropod dinosaur from the Lower Cretaceous Cedar Mountain Formation, Utah, USA</Title>
+		<Journal>Acta Palaeontologica Polonica</Journal>
+		<Volume>56</Volume>
+		<Pages>75-98</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="32">
+		<List>Theropoda</List>
+		<List>Prosauropoda</List>
+		<List>Vulcanodon</List>
+		<List>Shunosaurus</List>
+		<List>Barapasaurus</List>
+		<List>Omeisaurus</List>
+		<List>Patagosaurus</List>
+		<List>Mamenchisaurus</List>
+		<List>Losillasaurus</List>
+		<List>Brachiosaurus</List>
+		<List>Camarasaurus</List>
+		<List>Haplocanthosaurus</List>
+		<List>Euhelopus</List>
+		<List>Jobaria</List>
+		<List>Malawisaurus</List>
+		<List>Nigersaurus</List>
+		<List>Limaysaurus</List>
+		<List>Rebbachisaurus</List>
+		<List>Alamosaurus</List>
+		<List>Nemegtosaurus</List>
+		<List>Opisthocoelicaudia</List>
+		<List>Rapetosaurus</List>
+		<List>Saltasaurus</List>
+		<List>Isisaurus</List>
+		<List>XENOPOSEIDON</List>
+		<List>HOTEL_MESA</List>
+		<List>Suuwassea</List>
+		<List>Apatosaurus</List>
+		<List>Barosaurus</List>
+		<List>Diplodocus</List>
+		<List>Dicraeosaurus</List>
+		<List>Amargasaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="331">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Taylor_etal_2011a</Filename>
+	<Parent>Harris_2006a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Wu, X.-C.</List>
+		</Author>
+		<Year>1994</Year>
+		<Title>Late Triassic-Early Jurassic sphenodontians from China and the phylogeny of the Sphenodontia</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>38-69</Pages>
+		<Booktitle>In the Shadow of the Dinosaurs</Booktitle>
+		<Publisher>Cambridge University Press</Publisher>
+		<City>Cambridge</City>
+		<Editor>
+			<List>Fraser, N. C.</List>
+			<List>Sues, H.-D.</List>
+		</Editor>
+	</Source>
+	<Taxa number="12">
+		<List>Squamata</List>
+		<List>Gephyrosaurus</List>
+		<List>Diphydontosaurus</List>
+		<List>Planocephalosaurus</List>
+		<List>Polysphenodon</List>
+		<List>Homoeosaurus</List>
+		<List>Brachyrhinodon</List>
+		<List>Clevosaurus</List>
+		<List>Kallimodon</List>
+		<List>Palaeopleurosaurus</List>
+		<List>Sphenodon</List>
+		<List>Sapheosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="36">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Wu_1994a</Filename>
+	<Parent>Fraser_et_Benton_1989a</Parent>
+	<Sibling/>
+</SourceTree>

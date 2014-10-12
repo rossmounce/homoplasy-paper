@@ -1,0 +1,68 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Druckenmiller, P. S.</List>
+			<List>Russell, A. P.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>A phylogeny of Plesiosauria (Sauropterygia) and its bearing on the systematic status of <em>Leptocleidus</em> Andrews, 1922</Title>
+		<Journal>Zootaxa</Journal>
+		<Volume>1863</Volume>
+		<Pages>1-120</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="33">
+		<List>Simosaurus_gaillardoti</List>
+		<List>Augustasaurus_hagdorni</List>
+		<List>BMNH_49202</List>
+		<List>BMNH_R_dot_1336</List>
+		<List>Callawayasaurus_colombiensis_H</List>
+		<List>Callawayasaurus_colombiensis_R</List>
+		<List>Callawayasaurus_colombiensis_comp</List>
+		<List>Cryptoclidus_eurymerus</List>
+		<List>Cymatosaurus</List>
+		<List>Dolichorhynchops_osborni</List>
+		<List>Edgarosaurus_muddi</List>
+		<List>Elasmosaurus_platyurus</List>
+		<List>Hydrotherosaurus_alexandrae</List>
+		<List>Kronosaurus_queenslandicus</List>
+		<List>Leptocleidus_capensis</List>
+		<List>Leptocleidus_superstes</List>
+		<List>Libonectes_morgani</List>
+		<List>Liopleurodon_ferox</List>
+		<List>Macroplata_tenuiceps</List>
+		<List>Muraenosaurus_leedsii</List>
+		<List>Peloneustes_philarchus</List>
+		<List>Plesiopterys_wildi</List>
+		<List>Plesiosaurus_dolichodeirus</List>
+		<List>Pliosaurus_brachyspondylus</List>
+		<List>Polycotylus_latipinnis</List>
+		<List>QM_F18041</List>
+		<List>Rhomaleosaurus_megacephalus</List>
+		<List>Rhomaleosaurus_victor</List>
+		<List>Simolestes_vorax</List>
+		<List>Terminonatator_pontiexensis</List>
+		<List>Thalassiodracon_hawkinsi</List>
+		<List>TMP_94_dot_122_dot_01</List>
+		<List>Umoonasaurus_demoscyllus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="152">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Druckenmiller_et_Russell_2008a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

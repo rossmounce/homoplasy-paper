@@ -1,0 +1,86 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Delfino, M.</List>
+			<List>Smith, T.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>Reappraisal of the morphology and phylogenetic relationships of the middle Eocene alligatoroid <em>Diplocynodon deponiae</em> (Frey, Laemmert, and Riess, 1987) based on a three-dimensional specimen</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>32</Volume>
+		<Pages>1358-1369</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="51">
+		<List>Leidyosuchus_canadensis</List>
+		<List>Diplocynodon_hantoniensis</List>
+		<List>Diplocynodon_ratelii</List>
+		<List>Diplocynodon_darwini</List>
+		<List>Baryphracta_deponiae</List>
+		<List>Stangerochampsa_mccabei</List>
+		<List>Albertochampsa_langstoni</List>
+		<List>Brachychampsa_montana</List>
+		<List>Brachychampsa_sealeyi</List>
+		<List>Alligator_sinensis</List>
+		<List>Alligator_mississippiensis</List>
+		<List>Alligator_mefferdi</List>
+		<List>Alligator_olseni</List>
+		<List>Alligator_mcgrewi</List>
+		<List>Alligator_prenasalis</List>
+		<List>Ceratosuchus_burdoshi</List>
+		<List>Hassiacosuchus_haupti</List>
+		<List>Allognathosuchus_polyodon</List>
+		<List>Willwood_wartheni</List>
+		<List>Navajosuchus_mooki</List>
+		<List>Wannaganosuchus_brachymanus</List>
+		<List>Procaimanoidea_kayi</List>
+		<List>Procaimanoidea_utahensis</List>
+		<List>Arambourgia_gaudryi</List>
+		<List>Eocaiman_cavernensis</List>
+		<List>Purussaurus_spp</List>
+		<List>Orthogenysuchus_olseni</List>
+		<List>Mourasuchus_spp</List>
+		<List>Caiman_yacare</List>
+		<List>Caiman_crocodilus</List>
+		<List>Caiman_latirostris</List>
+		<List>Caiman_lutescens</List>
+		<List>Melanosuchus_fisheri</List>
+		<List>Melanosuchus_niger</List>
+		<List>Paleosuchus_trigonatus</List>
+		<List>Paleosuchus_palpebrosus</List>
+		<List>Borealosuchus_sternbergii</List>
+		<List>Asiatosuchus_germanicus</List>
+		<List>Diplocynodon_domerat</List>
+		<List>Diplocynodon_muelleri</List>
+		<List>Diplocynodon_tormis</List>
+		<List>Diplocynodon_ungeri</List>
+		<List>Borealosuchus_formidabilis</List>
+		<List>Borealosuchus_wilsoni</List>
+		<List>Borealosuchus_acutidentatus</List>
+		<List>Crocodylus_affinis</List>
+		<List>Prodiplocynodon_langi</List>
+		<List>Gavialis_gangeticus</List>
+		<List>Thoracosaurus_macrorhynchus</List>
+		<List>Pristichampsus_spp</List>
+		<List>Hylaeochampsa_vectiana</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="167">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Delfino_et_Smith_2012a</Filename>
+	<Parent>Martin_et_Gross_2011a</Parent>
+	<Sibling/>
+</SourceTree>

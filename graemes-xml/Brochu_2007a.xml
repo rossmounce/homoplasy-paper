@@ -1,0 +1,102 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Brochu, C. A.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>Morphology, relationships, and biogeographical significance of an extinct horned crocodile (Crocodylia, Crocodylidae) from the Quaternary of Madagascar</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>150</Volume>
+		<Pages>835-863</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="68">
+		<List>Bernissartia_fagesii</List>
+		<List>Hylaeochampsa_vectiana</List>
+		<List>Borealosuchus_formidabilis</List>
+		<List>Borealosuchus_wilsoni</List>
+		<List>Borealosuchus_acutidentatus</List>
+		<List>Borealosuchus_sternbergii</List>
+		<List>Eothoracosaurus_mississippiensis</List>
+		<List>Thoracosaurus_neocesariensis</List>
+		<List>Thoracosaurus_macrorhynchus</List>
+		<List>Eosuchus_minor</List>
+		<List>Eosuchus_lerichei</List>
+		<List>Eogavialis_africanus</List>
+		<List>Argochampsa_krebsi</List>
+		<List>Gryposuchus_colombianus</List>
+		<List>Gavialis_lewisi</List>
+		<List>Gavialis_gangeticus</List>
+		<List>Pristichampsus_vorax</List>
+		<List>Planocrania_hengdongensis</List>
+		<List>Planocrania_datangensis</List>
+		<List>Leidyosuchus_canadensis</List>
+		<List>Diplocynodon_darwini</List>
+		<List>Stangerochampsa_mccabei</List>
+		<List>Brachychampsa_montana</List>
+		<List>Alligator_mississippiensis</List>
+		<List>Caiman_yacare</List>
+		<List>Palaeosuchus_trigonatus</List>
+		<List>Mecistops_cataphractus</List>
+		<List>Crocodylus_niloticus</List>
+		<List>Crocodylus_porosus</List>
+		<List>Crocodylus_rhombifer</List>
+		<List>Crocodylus_palaeindicus</List>
+		<List>Crocodylus_acutus</List>
+		<List>Crocodylus_palustris</List>
+		<List>Crocodylus_siamensis</List>
+		<List>Crocodylus_intermedius</List>
+		<List>Crocodylus_johnstoni</List>
+		<List>Crocodylus_mindorensis</List>
+		<List>Crocodylus_novaeguineae</List>
+		<List>Crocodylus_moreletii</List>
+		<List>Osteolaemus_tetraspis</List>
+		<List>Osteolaemus_osborni</List>
+		<List>Voay_robustus</List>
+		<List>Rimasuchus_lloydi</List>
+		<List>Crocodylus_pigotti</List>
+		<List>Crocodylus_megarhinus</List>
+		<List>Euthecodon_arambourgii</List>
+		<List>Tomistoma_schlegelii</List>
+		<List>Tomistoma_lusitanica</List>
+		<List>Paratomistoma_courtii</List>
+		<List>Gavialosuchus_antiquus</List>
+		<List>Gavialosuchus_americanus</List>
+		<List>Gavialosuchus_eggenbergensis</List>
+		<List>Tomistoma_cairense</List>
+		<List>Kentisuchus_spenceri</List>
+		<List>Dollosuchus_dixoni</List>
+		<List>Maroccosuchus_zennaroi</List>
+		<List>Brachyuranochampsa_eversolei</List>
+		<List>Belgian_crocodyloid</List>
+		<List>Crocodylus_acer</List>
+		<List>Crocodylus_affinis</List>
+		<List>Asiatosuchus_grangeri</List>
+		<List>Asiatosuchus_germanicus</List>
+		<List>Prodiplocynodon_langi</List>
+		<List>Australosuchus_clarkae</List>
+		<List>Kambara_implexidens</List>
+		<List>Trilophosuchus_rackhami</List>
+		<List>Quinkana_spp</List>
+		<List>Baru_spp</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="166">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Brochu_2007a</Filename>
+	<Parent>Brochu_1999a</Parent>
+	<Sibling/>
+</SourceTree>

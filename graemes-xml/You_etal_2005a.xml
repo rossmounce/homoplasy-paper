@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>You, H.-L.</List>
+			<List>O'Connor, J.-M.</List>
+			<List>Chiappe, L. M.</List>
+			<List>Ji, Q.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>A new fossil bird from the Early Cretaceous of Gansu Province, northwestern China</Title>
+		<Journal>Historical Biology</Journal>
+		<Volume>17</Volume>
+		<Pages>7-14</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="26">
+		<List>Allosauroidea</List>
+		<List>Velociraptorina</List>
+		<List>Troodontidae</List>
+		<List>Archaeopteryx</List>
+		<List>Rahonavis</List>
+		<List>Confuciusornis</List>
+		<List>Changchengornis</List>
+		<List>Noguerornis</List>
+		<List>Iberomesornis</List>
+		<List>CAGS_IG_02_0901</List>
+		<List>Eoalulavis</List>
+		<List>Concornis</List>
+		<List>Sinornis</List>
+		<List>Gobipteryx</List>
+		<List>Neuquenornis</List>
+		<List>Vorona</List>
+		<List>Patagopteryx</List>
+		<List>G_yumenensis</List>
+		<List>Hesperornis</List>
+		<List>Ambiortus</List>
+		<List>Ichthyornis</List>
+		<List>Anas</List>
+		<List>Alvarezsaurus</List>
+		<List>Patagonykus</List>
+		<List>Mononykus</List>
+		<List>Shuvuuia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="169">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>You_etal_2005a</Filename>
+	<Parent>Chiappe_2002a</Parent>
+	<Sibling/>
+</SourceTree>

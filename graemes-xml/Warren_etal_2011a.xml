@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Warren, A.</List>
+			<List>Rozefelds, A. C.</List>
+			<List>Bull, S.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>Tupilakosaur-like vertebrae in <em>Bothriceps australis</em>, an Australian brachyopid stereospondyl</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>31</Volume>
+		<Pages>738-753</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="22">
+		<List>Eryops</List>
+		<List>Acroplous</List>
+		<List>Isodectes</List>
+		<List>Trimerorhachis</List>
+		<List>Dvinosaurus</List>
+		<List>Tupilakosaurus</List>
+		<List>Thabanchuia</List>
+		<List>Neldasaurus</List>
+		<List>Sclerocephalus</List>
+		<List>Lydekkerina</List>
+		<List>Rhineceps</List>
+		<List>Watsonisuchus</List>
+		<List>Derwentia</List>
+		<List>Bothriceps</List>
+		<List>Keratobrachyops</List>
+		<List>Xenobrachyops</List>
+		<List>Banksiops</List>
+		<List>Batrachosuchus</List>
+		<List>Vigilius</List>
+		<List>Vanastega</List>
+		<List>Pelorocephalus</List>
+		<List>Siderops</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="60">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Warren_etal_2011a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

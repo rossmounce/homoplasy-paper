@@ -1,0 +1,44 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Chiappe, L. M. Norell, M. A.</List>
+			<List>Clark, J. M.</List>
+		</Author>
+		<Year>1998</Year>
+		<Title>The skull of a relative of the stem-group bird Mononykus</Title>
+		<Journal>Nature</Journal>
+		<Volume>392</Volume>
+		<Pages>275-278</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="9">
+		<List>Velociraptorinae</List>
+		<List>Archaeopteryx</List>
+		<List>Alvarezsaurus</List>
+		<List>Patagonykus</List>
+		<List>Mononykus</List>
+		<List>Shuvuuia</List>
+		<List>Parvicursor</List>
+		<List>Enantiornithes</List>
+		<List>Ornithurae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="90">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Chiappe_etal_1998a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

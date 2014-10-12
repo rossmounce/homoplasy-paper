@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Norell, M. A.</List>
+			<List>Clark, J. M.</List>
+			<List>Turner, A. H.</List>
+			<List>Makovicky, P. J.</List>
+			<List>Barsbold, R.</List>
+			<List>Rowe, T.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>A new dromaeosaurid theropod from Ukhaa Tolgod (Omnogov, Mongolia)</Title>
+		<Journal>American Museum Novitates</Journal>
+		<Volume>3545</Volume>
+		<Pages>1-51</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List>Coelophysis_bauri</List>
+		<List>Allosaurus_fragilis</List>
+		<List>Troodontidae</List>
+		<List>Microraptor_zhaoianus</List>
+		<List>Tsaagan_mangas</List>
+		<List>Dromaeosaurus_albertensis</List>
+		<List>Sinorhithosaurus_milleni</List>
+		<List>Saurornitholestes_langstoni</List>
+		<List>Velociraptor_mongoliensis</List>
+		<List>Bambiraptor_feinbergorum</List>
+		<List>Atrociraptor_marshalli</List>
+		<List>Deinonychus_antirrhopus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="41">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Norell_etal_2006ab</Filename>
+	<Parent>Currie_et_Varricchio_2004a</Parent>
+	<Sibling/>
+</SourceTree>

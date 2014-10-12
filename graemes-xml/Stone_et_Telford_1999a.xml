@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Stone, J. R.</List>
+			<List>Telford, M.</List>
+		</Author>
+		<Year>1999</Year>
+		<Title>Using critical path method to analyse the radiation of rudist bivalves</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>42</Volume>
+		<Pages>231-242</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Megalodontidae</List>
+		<List>Chamidae</List>
+		<List>Requieniidae</List>
+		<List>Heterodiceratidae</List>
+		<List>Diceras</List>
+		<List>Valletia</List>
+		<List>Monopleura</List>
+		<List>Agriopleura</List>
+		<List>Radiolitidae</List>
+		<List>Hippuritidae</List>
+		<List>Retha</List>
+		<List>Pacytraga</List>
+		<List>Caprininae</List>
+		<List>Coalcomaninae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="12">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Stone_et_Telford_1999a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

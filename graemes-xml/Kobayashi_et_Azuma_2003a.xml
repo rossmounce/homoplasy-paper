@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Kobayashi, Y.</List>
+			<List>Azuma, Y.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>A new iguanodontian (Dinosauria: Ornithopoda) from the Lower Cretaceous Kitadani Formation of Fukui Prefecture, Japan</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>23</Volume>
+		<Pages>166-175</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="13">
+		<List>Dryosaurus</List>
+		<List>Camptosaurus</List>
+		<List>Iguanodon</List>
+		<List>Ouranosaurus</List>
+		<List>Fukuisaurus</List>
+		<List>Altirhinus</List>
+		<List>Probactrosaurus</List>
+		<List>Eolambia</List>
+		<List>Protohadros</List>
+		<List>Bactrosaurus</List>
+		<List>Telmatosaurus</List>
+		<List>Lambeosaurinae</List>
+		<List>Hadrosaurinae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="23">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Kobayashi_et_Azuma_2003a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

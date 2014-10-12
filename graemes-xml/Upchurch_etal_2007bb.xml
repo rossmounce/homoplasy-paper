@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Upchurch, P.</List>
+			<List>Barrett, P. M.</List>
+			<List>Zhao, X.-J.</List>
+			<List>Xu, X.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>A re-evaluation of Chinshakiangosaurus chunghoensis Ye vide Dong 1992 (Dinosauria, Sauropodomorpha): implications for cranial evolution in basal sauropod dinosaurs</Title>
+		<Journal>Geological Magazine</Journal>
+		<Volume>144</Volume>
+		<Pages>247-262</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="25">
+		<List>Ancestor</List>
+		<List>Thecodontosaurus</List>
+		<List>Saturnalia</List>
+		<List>Ammosaurus</List>
+		<List>Anchisaurus</List>
+		<List>Riojasaurus</List>
+		<List>Melanorosaurus</List>
+		<List>Camelotia</List>
+		<List>Lessemsaurus</List>
+		<List>Jingshanosaurus</List>
+		<List>Massospondylus</List>
+		<List>Yunnanosaurus</List>
+		<List>Mussaurus</List>
+		<List>Coloradisaurus</List>
+		<List>Euskelosaurus</List>
+		<List>Plateosaurus</List>
+		<List>Sellosaurus</List>
+		<List>G._sinensis</List>
+		<List>Lufengosaurus</List>
+		<List>Blikanasaurus</List>
+		<List>Chinshakiangosaurus</List>
+		<List>Kotasaurus</List>
+		<List>Vulcanodon</List>
+		<List>Barapasaurus</List>
+		<List>Shunosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="137">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Upchurch_etal_2007bb</Filename>
+	<Parent>Galton_et_Upchurch_2004a</Parent>
+	<Sibling/>
+</SourceTree>

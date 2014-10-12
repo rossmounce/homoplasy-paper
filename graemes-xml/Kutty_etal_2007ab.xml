@@ -1,0 +1,61 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Kutty, T. S.</List>
+			<List>Chatterjee, S.</List>
+			<List>Galton, P. M.</List>
+			<List>Upchurch, P.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>Basal sauropodomorphs (Dinosauria: Saurischia) from the Lower Jurassic of India: their anatomy and relationships</Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>81</Volume>
+		<Pages>1218-1240</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="24">
+		<List>Herrerasaurus</List>
+		<List>Neotheropoda</List>
+		<List>Saturnalia</List>
+		<List>Lamplusaura</List>
+		<List>Pradhania</List>
+		<List>ISIR260specimen</List>
+		<List>Thecondontosaurus</List>
+		<List>Efraasia</List>
+		<List>Riojasaurus</List>
+		<List>Plateosaurus</List>
+		<List>Anchisaurus</List>
+		<List>Melanorosaurus</List>
+		<List>Blikanasaurus</List>
+		<List>Antetonitrus</List>
+		<List>Isanosaurus</List>
+		<List>Coloradisaurus</List>
+		<List>Massospondylus</List>
+		<List>Lufengosaurus</List>
+		<List>Kotasaurus</List>
+		<List>Vulcanodon</List>
+		<List>Shunosaurus</List>
+		<List>Barapasaurus</List>
+		<List>Omeisaurus</List>
+		<List>Neosauropoda</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="212">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Kutty_etal_2007ab</Filename>
+	<Parent>Yates_et_Kitching_2003a</Parent>
+	<Sibling/>
+</SourceTree>

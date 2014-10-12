@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Anderson, L. C.</List>
+			<List>Roopnarine, P. D.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>Evolution and phylogenetic relationships of Neogene Corbulidae</Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>77</Volume>
+		<Pages>1086-1102</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List>Corbula</List>
+		<List>Bicorbula</List>
+		<List>B_gallica</List>
+		<List>Bothrocorbula</List>
+		<List>Caryocorbula</List>
+		<List>Cuneocorbula</List>
+		<List>Hexacorbula</List>
+		<List>Juliacorbula</List>
+		<List>Panamicorbula</List>
+		<List>Tenuicorbula</List>
+		<List>Varicorbula</List>
+		<List>V_gibba</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="73">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Anderson_et_Roopnarine_2003aa</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

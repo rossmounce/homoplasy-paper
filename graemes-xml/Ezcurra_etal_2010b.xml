@@ -1,0 +1,64 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ezcurra, M. D.</List>
+			<List>Lecuona, A.</List>
+			<List>Martinelli, A.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>A new basal archosauriform diapsid from the Lower Triassic of Argentina</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>30</Volume>
+		<Pages>1433-1450</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="28">
+		<List>Mesosuchus</List>
+		<List>Chanaresuchus</List>
+		<List>Dimorphodon</List>
+		<List>Doswellia</List>
+		<List>Eoraptor</List>
+		<List>Erythrosuchus</List>
+		<List>Euparkeria</List>
+		<List>Fugusuchus</List>
+		<List>Gracilisuchus</List>
+		<List>Herrerasaurus</List>
+		<List>Koilamasuchus</List>
+		<List>Lagerpeton</List>
+		<List>Marasuchus</List>
+		<List>Osmolskina</List>
+		<List>Parasuchus</List>
+		<List>Prolacerta</List>
+		<List>Proterosuchus</List>
+		<List>Qianosuchus</List>
+		<List>Sarmatosuchus</List>
+		<List>Saurosuchus</List>
+		<List>Scleromochlus</List>
+		<List>Shansisuchus</List>
+		<List>Silesaurus</List>
+		<List>Stagonolepis</List>
+		<List>Terrestrisuchus</List>
+		<List>Turfanosuchus</List>
+		<List>Vancleavea</List>
+		<List>Vjushkovia_triplicostata</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="169">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ezcurra_etal_2010b</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

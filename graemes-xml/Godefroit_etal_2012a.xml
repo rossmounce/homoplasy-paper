@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Godefroit, P.</List>
+			<List>Bolotsky, Y. L.</List>
+			<List>Bolotsky, I. Y.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>Osteology and relationships of <em>Olorotitan arharensis</em>, a hollowcrested hadrosaurid dinosaur from the latest Cretaceous of Far Eastern Russia</Title>
+		<Journal>Acta Palaeontologica Polonica</Journal>
+		<Volume>57</Volume>
+		<Pages>527-560</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="19">
+		<List>Probactrosaurus_gobiensis</List>
+		<List>Bactrosaurus_johnsoni</List>
+		<List>Gryposaurus_notabilis</List>
+		<List>Aralosaurus_tuberiferus</List>
+		<List>Tsintaosaurus_spinorhinus</List>
+		<List>Pararhabdodon_isonensis</List>
+		<List>Jaxartosaurus_aralensis</List>
+		<List>Arenysaurus_ardevoli</List>
+		<List>Amurosaurus_riabinini</List>
+		<List>Charonosaurus_jiayinensis</List>
+		<List>Parasaurolophus_cyrtocristatus</List>
+		<List>Parasaurolophus_walkeri</List>
+		<List>Parasaurolophus_tubicen</List>
+		<List>Lambeosaurus_lambei</List>
+		<List>Lambeosaurus_magnicristatus</List>
+		<List>Olorotitan_arharensis</List>
+		<List>Corythosaurus_casuarius</List>
+		<List>Hypacrosaurus_stebingeri</List>
+		<List>Hypacrosaurus_altispinus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="118">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Godefroit_etal_2012a</Filename>
+	<Parent>Evans_et_Reisz_2007a</Parent>
+	<Sibling/>
+</SourceTree>

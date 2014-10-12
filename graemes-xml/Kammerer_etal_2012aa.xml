@@ -1,0 +1,72 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Kammerer, C. F.</List>
+			<List>Nesbitt, S. J.</List>
+			<List>Shubin, N. H.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>The first basal dinosauriform (Silesauridae) from the Late Triassic of Morocco</Title>
+		<Journal>Acta Palaeontologica Polonica</Journal>
+		<Volume>57</Volume>
+		<Pages>277-284</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="36">
+		<List>Erythrosuchus_africanus</List>
+		<List>Euparkeria_capensis</List>
+		<List>Revueltosaurus_callenderi</List>
+		<List>Aetosaurus_ferratus</List>
+		<List>Arizonasaurus_babbitti</List>
+		<List>Effigia_okeeffeae</List>
+		<List>Batrachotomus_kuperferzellensis</List>
+		<List>Postosuchus_kirkpatricki</List>
+		<List>Dromicosuchus_grallator</List>
+		<List>Eudimorphodon_ranzii</List>
+		<List>Dimorphodon_macronyx</List>
+		<List>Lagerpeton_chanarensis</List>
+		<List>Dromomeron_gregorii</List>
+		<List>Dromomeron_romeri</List>
+		<List>Marasuchus_lilloensis</List>
+		<List>Lewisuchus_admixtus</List>
+		<List>Pseudolagosuchus_majori</List>
+		<List>Lewisuchus_Pseudolagosuchus</List>
+		<List>Asilisaurus_kongwe</List>
+		<List>Eucoelophysis_baldwini</List>
+		<List>Silesaurus_opolensis</List>
+		<List>Sacisaurus_agudoensis</List>
+		<List>Diodorus</List>
+		<List>Pisanosaurus_mertii</List>
+		<List>Heterodontosaurus_tucki</List>
+		<List>Lesothosaurus_dianosticus</List>
+		<List>Herrerasaurus_ischigualastensis</List>
+		<List>Eoraptor_lunensis</List>
+		<List>Tawa</List>
+		<List>Coelophysis_bauri</List>
+		<List>Dilophosaurus_wetherelli</List>
+		<List>Allosaurus_fragilis</List>
+		<List>Velociraptor_mongoliensis</List>
+		<List>Saturnalia_tupiniquim</List>
+		<List>Plateosaurus_engelhardti</List>
+		<List>Efraasia_minor</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="292">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Kammerer_etal_2012aa</Filename>
+	<Parent>Nesbitt_etal_2010a</Parent>
+	<Sibling>Kammerer_etal_2012ab</Sibling>
+</SourceTree>

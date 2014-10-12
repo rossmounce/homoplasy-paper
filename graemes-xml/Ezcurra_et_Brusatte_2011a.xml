@@ -1,0 +1,78 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ezcurra, M. D.</List>
+			<List>Brusatte, S. L.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>Taxonomic and phylogenetic reassessment of the early neotheropod dinosaur Camposaurus arizonensis from the Late Triassic of North America</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>54</Volume>
+		<Pages>763-772</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="43">
+		<List>Erythrosuchus_africanus</List>
+		<List>Euparkeria_capensis</List>
+		<List>Revueltosaurus_callenderi</List>
+		<List>Aetosaurus_ferratus</List>
+		<List>Arizonasaurus_babbitti</List>
+		<List>Effigia_okeeffeae</List>
+		<List>Batrachotomus_kuperferzellensis</List>
+		<List>Postosuchus_kirkpatricki</List>
+		<List>Dromicosuchus_grallator</List>
+		<List>Eudimorphodon_ranzii</List>
+		<List>Dimorphodon_macronyx</List>
+		<List>Lagerpeton_chanarensis</List>
+		<List>Dromomeron_romeri</List>
+		<List>Dromomeron_gregorii</List>
+		<List>Marasuchus_lilloensis</List>
+		<List>Eucoelophysis_baldwini</List>
+		<List>Sacisaurus_agudoensis</List>
+		<List>Silesaurus_opolensis</List>
+		<List>Eocursor_parvus</List>
+		<List>Lesothosaurus_dianosticus</List>
+		<List>Scutellosaurus_lawleri</List>
+		<List>Pisanosaurus_mertii</List>
+		<List>Heterodontosaurus_tucki</List>
+		<List>Saturnalia_tupiniquim</List>
+		<List>Plateosaurus_engelhardti</List>
+		<List>Efraasia_minor</List>
+		<List>Eoraptor_lunensis</List>
+		<List>Staurikosaurus_pricei</List>
+		<List>Herrerasaurus_ischigualastensis</List>
+		<List>Chindesaurus_bryansmalli</List>
+		<List>Tawa_hallae</List>
+		<List>Liliensternus_liliensterni</List>
+		<List>Zupaysaurus_rougieri</List>
+		<List>Syntarsus_kayentakatae</List>
+		<List>Coelophysis_bauri</List>
+		<List>Camposaurus_arizonensis</List>
+		<List>Coelophysis_rhodesiensis</List>
+		<List>Dilophosaurus_wetherelli</List>
+		<List>Cryolophosaurus_ellioti</List>
+		<List>Ceratosaurus_nasicornis</List>
+		<List>Piatnitzkysaurus_floresi</List>
+		<List>Allosaurus_fragilis</List>
+		<List>Velociraptor_mongoliensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="339">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ezcurra_et_Brusatte_2011a</Filename>
+	<Parent>Nesbitt_etal_2009a</Parent>
+	<Sibling/>
+</SourceTree>

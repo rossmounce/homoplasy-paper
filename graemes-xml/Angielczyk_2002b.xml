@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Angielczyk, K. D.</List>
+		</Author>
+		<Year>2002</Year>
+		<Title>A character-based method for measuring the fit of a cladogram to the fossil record</Title>
+		<Journal>Systematic Biology</Journal>
+		<Volume>51</Volume>
+		<Pages>176-191</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="22">
+		<List>Patranomodon</List>
+		<List>Eodicynodon</List>
+		<List>Diictodon</List>
+		<List>Robertia</List>
+		<List>Tropidostoma</List>
+		<List>Oudenodon</List>
+		<List>Pelanomodon</List>
+		<List>Rhachiocephalus</List>
+		<List>Dicynodon</List>
+		<List>Aulacephalodon</List>
+		<List>Lystrosaurus</List>
+		<List>Kannemeyeria</List>
+		<List>Pristerodon</List>
+		<List>Chelydontops</List>
+		<List>Endothiodon</List>
+		<List>Emydops</List>
+		<List>Cistecephalus</List>
+		<List>Kingoria</List>
+		<List>Placerias</List>
+		<List>Myosaurus</List>
+		<List>Geikia</List>
+		<List>Otsheria</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="39">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Angielczyk_2002b</Filename>
+	<Parent>Angielczyk_2001a</Parent>
+	<Sibling/>
+</SourceTree>

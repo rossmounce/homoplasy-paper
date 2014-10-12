@@ -1,0 +1,66 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Irmis, R. B.</List>
+			<List>Nesbitt, S. J.</List>
+			<List>Padian, K.</List>
+			<List>Smith, N. D.</List>
+			<List>Turner, A. H.</List>
+			<List>Woody, D.</List>
+			<List>Downs, A.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>A Late Triassic dinosauromorph assemblage from New Mexico and the rise of dinosaurs</Title>
+		<Journal>Science</Journal>
+		<Volume>317</Volume>
+		<Pages>358-361</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="26">
+		<List>Euparkeria</List>
+		<List>Leptosuchus</List>
+		<List>Aetosaurus</List>
+		<List>Riojasuchus</List>
+		<List>Effigia</List>
+		<List>Postosuchus</List>
+		<List>Hesperosuchus</List>
+		<List>Protosuchus</List>
+		<List>Dimorphodon</List>
+		<List>Eudimorphodon</List>
+		<List>Lagerpeton</List>
+		<List>Dromomeron</List>
+		<List>Marasuchus</List>
+		<List>Silesaurus</List>
+		<List>Eucoelophysis</List>
+		<List>Pisanosaurus</List>
+		<List>Lesothosaurus</List>
+		<List>Heterodontosaurus</List>
+		<List>Scutellosaurus</List>
+		<List>Herrerasaurus</List>
+		<List>Chindesaurus</List>
+		<List>Saturnalia</List>
+		<List>Efraasia</List>
+		<List>Plateosaurus</List>
+		<List>Coelophysis</List>
+		<List>Allosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="127">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Irmis_etal_2007a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

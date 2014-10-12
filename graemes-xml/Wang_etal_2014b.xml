@@ -1,0 +1,93 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Wang, M.</List>
+			<List>Zhou, Z.-H.</List>
+			<List>O'Connor, J.-M.</List>
+			<List>Zelenkov, N. V.</List>
+		</Author>
+		<Year>2014</Year>
+		<Title>A new diverse enantiornithine family (Bohaiornithidae fam. nov.) from the Lower Cretaceous of China with information from two new species</Title>
+		<Journal>Vertebrata PalAsiatica</Journal>
+		<Volume>52</Volume>
+		<Pages>31-76</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="56">
+		<List>Dromaeosauridae</List>
+		<List>Archaeopteryx</List>
+		<List>Jeholornis</List>
+		<List>Rahonavis</List>
+		<List>Sapeornis</List>
+		<List>Confuciusornis_sanctus</List>
+		<List>Changchengornis</List>
+		<List>Eoconfuciusornis</List>
+		<List>Jinzhouornis</List>
+		<List>Confuciusornis_dui</List>
+		<List>Boluochia</List>
+		<List>Concornis</List>
+		<List>Elsornis</List>
+		<List>Eoalulavis</List>
+		<List>Cathayornis</List>
+		<List>Eocathayornis</List>
+		<List>Eoenantiornis</List>
+		<List>Gobipteryx</List>
+		<List>Iberomesornis</List>
+		<List>Longipteryx</List>
+		<List>Longirostravis</List>
+		<List>Neuquenornis</List>
+		<List>Pengornis</List>
+		<List>Protopteryx</List>
+		<List>Rapaxavis</List>
+		<List>Shanweiniao</List>
+		<List>Vescornis</List>
+		<List>Vorona</List>
+		<List>Schizooura</List>
+		<List>Jianchangornis</List>
+		<List>Archaeorhynchus</List>
+		<List>Songlinornis</List>
+		<List>Longicrusavis</List>
+		<List>Apsaravis</List>
+		<List>Hongshanornis</List>
+		<List>Yanornis</List>
+		<List>Patagopteryx</List>
+		<List>Yixianornis</List>
+		<List>Gansus</List>
+		<List>Ichthyornis</List>
+		<List>Hesperornis</List>
+		<List>Parahesperornis</List>
+		<List>Enaliornis</List>
+		<List>Baptornis_advenus</List>
+		<List>Baptornis_varneri</List>
+		<List>Vegavis</List>
+		<List>Anas</List>
+		<List>Gallus</List>
+		<List>V18631</List>
+		<List>Qiliania</List>
+		<List>shenqiornis</List>
+		<List>Sulcavis</List>
+		<List>Bohaiornis</List>
+		<List>Parabohaiornis</List>
+		<List>Longusunguis</List>
+		<List>Zhouornis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="262">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Wang_etal_2014b</Filename>
+	<Parent>OConnor_et_Zhou_inpressa</Parent>
+	<Sibling/>
+</SourceTree>

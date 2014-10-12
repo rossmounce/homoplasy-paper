@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Calvo, J. O.</List>
+			<List>Porfiri, J. D.</List>
+			<List>Novas, F. E.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>Discovery of a new ornithopod dinosaur from the Portezuelo Formation (Upper Cretaceous), Neuquen, Patagonia, Argentina</Title>
+		<Journal>Arquivos do Museu Nacional, Rio de Janiero</Journal>
+		<Volume>65</Volume>
+		<Pages>471-483</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Lesothosaurus</List>
+		<List>Scutellosaurus</List>
+		<List>Marginocephalia</List>
+		<List>Heterodontosaurus</List>
+		<List>Tenontosaurus</List>
+		<List>Muttaburrasaurus</List>
+		<List>Gasparinisaura</List>
+		<List>Talenkauen</List>
+		<List>Macrogryphosaurus</List>
+		<List>Anabisetia</List>
+		<List>Dryosaurus</List>
+		<List>Ankylopollexia</List>
+		<List>Thescelosaurus</List>
+		<List>Hypsilophodon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="50">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Calvo_etal_2007b</Filename>
+	<Parent>Novas_etal_2004a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Rodman, J. E.</List>
+			<List>Oliver, M. K.</List>
+			<List>Nakamura, R. R.</List>
+			<List>McClammer, J. U.</List>
+			<List>Bledsoe, A. H.</List>
+		</Author>
+		<Year>1984</Year>
+		<Title>A taxonomic analysis and revised classification of Centrospermae</Title>
+		<Journal>Systematic Botany</Journal>
+		<Volume>9</Volume>
+		<Pages>297-323</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="20">
+		<List>Berberidaceae</List>
+		<List>Portulacaceae</List>
+		<List>Phytolaccaceae</List>
+		<List>Nyctaginaceae</List>
+		<List>Molluginaceae</List>
+		<List>Didiereaceae</List>
+		<List>Chenopodiaceae</List>
+		<List>Caryophyllaceae</List>
+		<List>Cactaceae</List>
+		<List>Basellaceae</List>
+		<List>Amaranthaceae</List>
+		<List>Aizoaceae</List>
+		<List>Polygonaceae</List>
+		<List>Plumbaginaceae</List>
+		<List>Dilleniaceae</List>
+		<List>Schisandraceae</List>
+		<List>Ranunculaceae</List>
+		<List>Menispermaceae</List>
+		<List>Lardizabalaceae</List>
+		<List>Illiciaceae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="79">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Rodman_etal_1984a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

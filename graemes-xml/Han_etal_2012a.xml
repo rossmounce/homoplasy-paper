@@ -1,0 +1,91 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Han, F.-L.</List>
+			<List>Barrett, P. M.</List>
+			<List>Butler, R. J.</List>
+			<List>Xu, X.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>Postcranial anatomy of <em>Jeholosaurus shangyuanensis</em> (Dinosauria, Ornithischia) from the Lower Cretaceous Yixian Formation of China</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>32</Volume>
+		<Pages>1370-1395</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="54">
+		<List>Euparkeria_capensis</List>
+		<List>Marasuchus_liloensis_</List>
+		<List>Herrerasaurus_</List>
+		<List>Pisanosaurus_mertii</List>
+		<List>Abrictosaurus_consors</List>
+		<List>BMNH_A100</List>
+		<List>Echinodon_becklesii</List>
+		<List>Fruitadens_haagarorum</List>
+		<List>Heterodontosaurus_tucki</List>
+		<List>Lycorhinus_angustidens</List>
+		<List>Eocursor_parvus</List>
+		<List>Lesothosaurus_diagnosticus</List>
+		<List>Stormbergia_dangershoeki</List>
+		<List>Scutellosaurus_lawleri</List>
+		<List>Emausaurus_ernstii</List>
+		<List>Scelidosaurus_harrisonii</List>
+		<List>Stegosauria</List>
+		<List>Ankylosauria</List>
+		<List>Agilisaurus_louderbacki</List>
+		<List>Hexinlusaurus_multidens</List>
+		<List>Othnieliosaurus_consors</List>
+		<List>Anabisetia_saldiviai</List>
+		<List>Gasparinisaura_cincosaltensis</List>
+		<List>Hypsilophodon_foxii</List>
+		<List>Orodromeus_makelai</List>
+		<List>Parksosaurus_warreni</List>
+		<List>Thescelosaurus_neglectus</List>
+		<List>Yandusaurus_hongheensis</List>
+		<List>Zephyrosaurus_schaffi</List>
+		<List>Tenontosaurus_tilleti</List>
+		<List>Tenontosaurus_dossi</List>
+		<List>Talenkauen_santacrucensis</List>
+		<List>Rhabdodontidae</List>
+		<List>Dryosauridae</List>
+		<List>Ankylopollexia</List>
+		<List>Micropachycephalosaurus_hongtuy</List>
+		<List>Stenopelix_valdensis</List>
+		<List>Wannanosaurus_yansiensis_</List>
+		<List>Goyocephale_lattimorei</List>
+		<List>Homalocephale_calathocercos_</List>
+		<List>Pachycephalosauridae</List>
+		<List>Chaoyangosaurus_youngi</List>
+		<List>Psittacosauridae</List>
+		<List>Liaoceratops_yanzigouensis_</List>
+		<List>Archaeoceratops_oshimai</List>
+		<List>Unnamed_taxon__Coronosauria___L</List>
+		<List>Yinlong_downsi</List>
+		<List>Tianyulong</List>
+		<List>Changchunsaurus_parvus</List>
+		<List>Jeholosaurus_shangyuanensis</List>
+		<List>Albalophosaurus_yamaguchiorum</List>
+		<List>Haya_griva</List>
+		<List>Koreanosaurus</List>
+		<List>Yueosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="228">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Han_etal_2012a</Filename>
+	<Parent>Butler_etal_2011b</Parent>
+	<Sibling/>
+</SourceTree>

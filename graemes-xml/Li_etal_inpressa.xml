@@ -1,0 +1,77 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Li, C.</List>
+			<List>Jiang, D.-Y.</List>
+			<List>Cheng, L.</List>
+			<List>Wu, X.-C.</List>
+			<List>Rieppel, O.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>A new species of <em>Largocephalosaurus</em> (Diapsida: Saurosphargidae), with implications for the morphological diversity and phylogeny of the group</Title>
+		<Journal>Geological Magazine</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="39">
+		<List>Ancestor</List>
+		<List>Captorhinidae</List>
+		<List>Chelydra</List>
+		<List>Proganochelys</List>
+		<List>Odontochelys</List>
+		<List>Araeoscelidia</List>
+		<List>Younginiformes</List>
+		<List>Kuehneosauridae</List>
+		<List>Rhynchocephalia</List>
+		<List>Squamata</List>
+		<List>Rhynchosauria</List>
+		<List>Prolacertiformes</List>
+		<List>Trilophosaurus</List>
+		<List>Choristodera</List>
+		<List>Archosauriformes</List>
+		<List>Claudiosaurus</List>
+		<List>Anaro_dash_Dactylo</List>
+		<List>Serpiano_dash_Neustico</List>
+		<List>Simosaurus</List>
+		<List>Nothosaurus</List>
+		<List>Lariosaurus</List>
+		<List>Corosaurus</List>
+		<List>Cymatosaurus</List>
+		<List>Germanosaurus</List>
+		<List>Pistosaurus</List>
+		<List>Placodus</List>
+		<List>Cyamodus</List>
+		<List>Augustasaurus</List>
+		<List>Plesiosaurus</List>
+		<List>Helveticosaurus</List>
+		<List>Thalattosauria</List>
+		<List>Eusaurosphargis_BES_SC_390</List>
+		<List>Paraplacodus</List>
+		<List>Yunguisaurus</List>
+		<List>Ichthyopterygia</List>
+		<List>Saurosphargis</List>
+		<List>Sinosaurosphargis</List>
+		<List>Largocephalosaurus_qianensis</List>
+		<List>Largocephalosaurus_polycarpon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="159">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Li_etal_inpressa</Filename>
+	<Parent>Li_etal_2011a</Parent>
+	<Sibling/>
+</SourceTree>

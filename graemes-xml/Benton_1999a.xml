@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Benton, M. J.</List>
+		</Author>
+		<Year>1999</Year>
+		<Title>Scleromochlus taylori and the origin of dinosaurs and pterosaurs</Title>
+		<Journal>Philosophical Transactions of the Royal Society of London: B</Journal>
+		<Volume>354</Volume>
+		<Pages>1423-1446</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="16">
+		<List>Euparkeria</List>
+		<List>Proterochampsidae</List>
+		<List>Phytosauridae</List>
+		<List>Stagonolepididae</List>
+		<List>Crocodylomorpha</List>
+		<List>Ornithosuchidae</List>
+		<List>Prestosuchidae</List>
+		<List>Postosuchus</List>
+		<List>Scleromochlus</List>
+		<List>Pterosauria</List>
+		<List>Lagerpeton</List>
+		<List>Marasuchus</List>
+		<List>Ornithischia</List>
+		<List>Sauropodomorpha</List>
+		<List>Herrerasaurus</List>
+		<List>Theropoda</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="73">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Benton_1999a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

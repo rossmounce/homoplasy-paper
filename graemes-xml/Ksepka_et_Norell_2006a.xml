@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ksepka, D. T.</List>
+			<List>Norell, M. A.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>Erketu ellisoni, a long-necked sauropod from Bor Guve (Dornogov Aimag, Mongolia)</Title>
+		<Journal>American Museum Novitates</Journal>
+		<Volume>3508</Volume>
+		<Pages>1-16</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="30">
+		<List>Prosauropoda</List>
+		<List>Theropoda</List>
+		<List>Vulcanodon</List>
+		<List>Shunosaurus</List>
+		<List>Barapasaurus</List>
+		<List>Patagosaurus</List>
+		<List>Omeisaurus</List>
+		<List>Mamenchisaurus</List>
+		<List>Jobaria</List>
+		<List>Haplocanthosaurus</List>
+		<List>Apatosaurus</List>
+		<List>Barosaurus</List>
+		<List>Diplodocus</List>
+		<List>Dicraeosaurus</List>
+		<List>Amargasaurus</List>
+		<List>Nigersaurus</List>
+		<List>Rayososaurus</List>
+		<List>Rebbachisaurus</List>
+		<List>Camarasaurus</List>
+		<List>Brachiosaurus</List>
+		<List>Euhelopus</List>
+		<List>Erketu</List>
+		<List>Malawisaurus</List>
+		<List>T.colberti</List>
+		<List>Alamosaurus</List>
+		<List>Opisthocoelicaudia</List>
+		<List>Neuquensaurus</List>
+		<List>Saltasaurus</List>
+		<List>Nemegtosaurus</List>
+		<List>Rapetosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="234">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ksepka_et_Norell_2006a</Filename>
+	<Parent>Wilson_2002a</Parent>
+	<Sibling/>
+</SourceTree>

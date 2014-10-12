@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Perez-Moreno, B. P.</List>
+			<List>Sanz, J. L.</List>
+			<List>Sudre, J.</List>
+			<List>Sige, B.</List>
+		</Author>
+		<Year>1993</Year>
+		<Title>A theropod dinosaur from the Lower Cretaceous of Southern France</Title>
+		<Journal>Revue de Paleobiologie, Volume Speciale</Journal>
+		<Volume>7</Volume>
+		<Pages>173-188</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List>Herrerasaurus</List>
+		<List>Dilophosaurus</List>
+		<List>Eustreptospondylus</List>
+		<List>Piatnizkysaurus</List>
+		<List>Montmirat_theropod</List>
+		<List>Allosaurus</List>
+		<List>Deinonychus</List>
+		<List>Albertosaurus</List>
+		<List>Gallimimus</List>
+		<List>Ceratosaurus</List>
+		<List>Carnotaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="52">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Perez-Moreno_etal_1993a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

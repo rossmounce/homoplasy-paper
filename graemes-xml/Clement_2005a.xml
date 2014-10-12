@@ -1,0 +1,60 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Clement, G.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>A new coelacanth (Actinistia, Sarcopterygii) from the Jurassic of France, and the question of the closest relative fossil to Latimeria</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>25</Volume>
+		<Pages>481-491</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="26">
+		<List>Porolepiforms</List>
+		<List>Diplocercides</List>
+		<List>Rhabdoderma</List>
+		<List>Caridosuctor</List>
+		<List>Hadronector</List>
+		<List>Polyosteorhynchus</List>
+		<List>Allenypterus</List>
+		<List>Lochmocercus</List>
+		<List>Coelacanthus</List>
+		<List>Spermatodus</List>
+		<List>Whiteia</List>
+		<List>Laugia</List>
+		<List>Sassenia</List>
+		<List>Chinlea</List>
+		<List>Diplurus</List>
+		<List>Holophagus</List>
+		<List>Undina</List>
+		<List>Coccoderma</List>
+		<List>Libys</List>
+		<List>Mawsonia</List>
+		<List>Macropoma</List>
+		<List>Latimeria</List>
+		<List>Miguashaia</List>
+		<List>Axelrodichthys</List>
+		<List>Garnbergia</List>
+		<List>Wenzia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="108">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Clement_2005a</Filename>
+	<Parent>Forey_1998aa</Parent>
+	<Sibling/>
+</SourceTree>

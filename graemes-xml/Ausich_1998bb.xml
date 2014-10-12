@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ausich, W. I.</List>
+		</Author>
+		<Year>1998</Year>
+		<Title>Phylogeny of Arenig to Caradoc crinoids (Phylum Echinodermata) and suprageneric classification of the Crinoidea</Title>
+		<Journal>The University of Kansas Paleontological Contributions</Journal>
+		<Volume>9</Volume>
+		<Pages>1-36</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="28">
+		<List>Aethocrinus</List>
+		<List>Abludoglyptocrinus</List>
+		<List>Anthracocrinus</List>
+		<List>Archaeocrinus</List>
+		<List>Balacrinus</List>
+		<List>Bromidocrinus</List>
+		<List>Celtocrinus</List>
+		<List>Cleiocrinus</List>
+		<List>Cotylacrinna</List>
+		<List>Crinerocrinus</List>
+		<List>Deocrinus</List>
+		<List>Diabolocrinus</List>
+		<List>Eopatelliocrinus</List>
+		<List>Euptychocrinus</List>
+		<List>Glvptocrinus</List>
+		<List>Gustrzbilicrinus</List>
+		<List>Hercocrinus</List>
+		<List>Neoarchaeocrinus</List>
+		<List>Paradiabolocrinus</List>
+		<List>Pararchaeocrinus</List>
+		<List>Periglyptocrinus</List>
+		<List>Proexenocrinus</List>
+		<List>Pycnocrinus</List>
+		<List>Reteocrinus</List>
+		<List>Rhaphanocrinus</List>
+		<List>Schizocrinus</List>
+		<List>Simplococrinus</List>
+		<List>Trichinocrinus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="27">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ausich_1998bb</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

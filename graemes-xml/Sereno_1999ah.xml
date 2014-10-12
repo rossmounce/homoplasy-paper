@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sereno, P. C.</List>
+		</Author>
+		<Year>1999</Year>
+		<Title>The evolution of dinosaurs</Title>
+		<Journal>Science</Journal>
+		<Volume>284</Volume>
+		<Pages>2137-2147</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="19">
+		<List>HERRERASAURIDAE</List>
+		<List>CERATOSAURIA</List>
+		<List>TORVOSAURIDAE</List>
+		<List>SPINOSAURIDAE</List>
+		<List>ALLOSAURIDAE</List>
+		<List>SINRAPTORIDAE</List>
+		<List>COMPSOGNATHIDAE</List>
+		<List>Ornitholestes</List>
+		<List>Deltadromeus</List>
+		<List>THERIZINOSAURIDAE</List>
+		<List>ALVAREZSAURIDAE</List>
+		<List>ORNITHOMIMIDAE</List>
+		<List>TYRANNOSAUROIDEA</List>
+		<List>Caudipteryx</List>
+		<List>CAENAGNATHIDAE</List>
+		<List>OVIRAPTORIDAE</List>
+		<List>AVES</List>
+		<List>TROODONTIDAE</List>
+		<List>DROMAEOSAURIDAE</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="204">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sereno_1999ah</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

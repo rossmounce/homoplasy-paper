@@ -1,0 +1,60 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Clack, J. A.</List>
+			<List>Ahlberg, P. E.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>A new stem tetrapod from the Early Carboniferous of Northern Ireland</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>309-320</Pages>
+		<Booktitle>Recent Advances in the Origin and Early Radiation of Vertebrates</Booktitle>
+		<Publisher>Verlag Dr. Friedrich Pfeil</Publisher>
+		<City>Munchen</City>
+		<Editor>
+			<List>Arratia, G.</List>
+			<List>Wilson, M. V. H.</List>
+			<List>Cloutier, R.</List>
+		</Editor>
+	</Source>
+	<Taxa number="21">
+		<List>Panderichthys</List>
+		<List>Elginerpeton</List>
+		<List>Obruchevichthys</List>
+		<List>Ichthyostega</List>
+		<List>Ventastega</List>
+		<List>Metaxygnathus</List>
+		<List>Acanthostega</List>
+		<List>Whatcheeria</List>
+		<List>Tulerpeton</List>
+		<List>Crassigyrinus</List>
+		<List>Greerepeton</List>
+		<List>Megalocephalus</List>
+		<List>Phopliderpeton</List>
+		<List>Cochleosaurus</List>
+		<List>Phonerpeton</List>
+		<List>Eoherpeton</List>
+		<List>Proteogyrinus</List>
+		<List>Gephyrpstegus</List>
+		<List>Balanerpeton</List>
+		<List>Platyrhinops</List>
+		<List>Occidens</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="53">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Clack_et_Ahlberg_2004a</Filename>
+	<Parent>Ahlberg_et_Clack_1998a</Parent>
+	<Sibling/>
+</SourceTree>

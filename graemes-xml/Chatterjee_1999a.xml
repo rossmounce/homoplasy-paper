@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Chatterjee, S.</List>
+		</Author>
+		<Year>1999</Year>
+		<Title>Protoavis and the early evolution of birds</Title>
+		<Journal>Palaeontographica A</Journal>
+		<Volume>254</Volume>
+		<Pages>1-100</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>OUTGROUP</List>
+		<List>ARCHAEOPTERYX</List>
+		<List>MONONYKUS</List>
+		<List>AVIMIMUS</List>
+		<List>SINORNIS</List>
+		<List>IBEROMESORNIS</List>
+		<List>PROTOAVIS</List>
+		<List>CATHAYORNIS</List>
+		<List>ENANTIORNITHES</List>
+		<List>PATAGOPTERYX</List>
+		<List>HESPERORNITHIFORMES</List>
+		<List>NEORNITHES</List>
+		<List>ICHTHYORNITHIFORMES</List>
+		<List>AMBIORTUS</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="84">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Chatterjee_1999a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Evans, S. E.</List>
+		</Author>
+		<Year>1990</Year>
+		<Title>The skull of <em>Cteniogenys</em>, a choristodere (Reptilia: Archosauromorpha) from the Middle Jurassic of Oxfordshire</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>99</Volume>
+		<Pages>205-237</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="7">
+		<List>Araeoscelidia</List>
+		<List>Cteniogenys</List>
+		<List>Khurendukhosaurus</List>
+		<List>Champsosaurus</List>
+		<List>Tchoiria</List>
+		<List>Ikechosaurus</List>
+		<List>Simoedosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="53">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Evans_1990a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

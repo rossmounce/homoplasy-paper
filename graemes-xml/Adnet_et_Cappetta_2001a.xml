@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Adnet, S.</List>
+			<List>Cappetta, H.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>A palaeontological and phylogenetical analysis of squaliform sharks (Chondrichthyes: Squaliformes) based on dental characters</Title>
+		<Journal>Lethaia</Journal>
+		<Volume>34</Volume>
+		<Pages>234-248</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="24">
+		<List>Echinorhinus</List>
+		<List>Etmopterus</List>
+		<List>Centroscymnus</List>
+		<List>Scymnodon</List>
+		<List>Scymnodalatias</List>
+		<List>Somniosus</List>
+		<List>Oxynotus</List>
+		<List>Dalatias</List>
+		<List>Isistius</List>
+		<List>Euprotomicrus</List>
+		<List>Squaliolus</List>
+		<List>Euprotomicroides</List>
+		<List>Centrophorus</List>
+		<List>Deania</List>
+		<List>Squalus</List>
+		<List>Cretascymnus</List>
+		<List>Palaeomicroides</List>
+		<List>Microetmopterus</List>
+		<List>Proetmopterus</List>
+		<List>Eoetmopterus</List>
+		<List>Protosqualus</List>
+		<List>Protospinax</List>
+		<List>Squatina</List>
+		<List>Pristiophorus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="29">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Adnet_et_Cappetta_2001a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

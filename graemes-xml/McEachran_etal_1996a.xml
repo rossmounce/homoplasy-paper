@@ -1,0 +1,70 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>McEachran, J. D.</List>
+			<List>Dunn, K. A.</List>
+			<List>Miyake, T.</List>
+		</Author>
+		<Year>1996</Year>
+		<Title>Interrelationships of the batoid fishes (Chondrichthyes: Batoidea)</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>63-84</Pages>
+		<Booktitle>Interrelationships of Fishes</Booktitle>
+		<Publisher>Academic Press</Publisher>
+		<City>San Diego</City>
+		<Editor>
+			<List>Stiassny, M. L. J.</List>
+			<List>Parenti, L. R.</List>
+			<List>Johnson, G. D.</List>
+		</Editor>
+	</Source>
+	<Taxa number="30">
+		<List>Squatina</List>
+		<List>Pristiophorus</List>
+		<List>Torpedinidae</List>
+		<List>Hypnidae</List>
+		<List>Narcinidae</List>
+		<List>Narkidae</List>
+		<List>Pristidae</List>
+		<List>Rhynchobatus</List>
+		<List>Rhina</List>
+		<List>Rhinobatos</List>
+		<List>Zapteryx</List>
+		<List>Trygonorrhina</List>
+		<List>Platyrhina</List>
+		<List>Platyrhinoidis</List>
+		<List>Zanobatus</List>
+		<List>Rajidae</List>
+		<List>Hexatrygon</List>
+		<List>Pleisobatis</List>
+		<List>Urolophus</List>
+		<List>Urobatis</List>
+		<List>Urotrygon</List>
+		<List>Dasyatis</List>
+		<List>Taeniura</List>
+		<List>Himantura</List>
+		<List>Potamotrygon</List>
+		<List>Gymnuridae</List>
+		<List>Myliobatis</List>
+		<List>Aetobatus</List>
+		<List>Rhinoptera</List>
+		<List>Mobula</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="65">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>McEachran_etal_1996a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

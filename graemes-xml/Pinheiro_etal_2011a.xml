@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Pinheiro, F. L.</List>
+			<List>Fortier, D. C.</List>
+			<List>Schultz, C. L.</List>
+			<List>Andrade, J. A. F. G.</List>
+			<List>Bantim, R. A. M.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>New information on the pterosaur <em>Tupandactylus imperator</em>, with comments on the relationships of Tapejaridae</Title>
+		<Journal>Acta Palaeontologica Polonica</Journal>
+		<Volume>56</Volume>
+		<Pages>567-580</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="19">
+		<List>Dsungaripterus_weii</List>
+		<List>Phobetor_parvus</List>
+		<List>Noripterus_complicidens</List>
+		<List>Quetzalcoatlus_sp</List>
+		<List>Azhdarcho_lancicollis</List>
+		<List>Zhejiangopterus_linhaiensis</List>
+		<List>Tupuxuara_leonardii</List>
+		<List>Tupuxuara_deliradamus</List>
+		<List>Thalassodromeus_sethi</List>
+		<List>Tapejara_wellnhoferi</List>
+		<List>Tupandactylus_imperator</List>
+		<List>Tupandactylus_navigans</List>
+		<List>Sinopterus_dongi</List>
+		<List>Sinopterus_jii</List>
+		<List>Huaxiapterus_corollatus</List>
+		<List>Huaxiapterus_benxiensis</List>
+		<List>Chaoyangopterus_zhangi</List>
+		<List>Shenzhoupterus_chaoyangensis</List>
+		<List>Jidapterus_edentus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="22">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Pinheiro_etal_2011a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

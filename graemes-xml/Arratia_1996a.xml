@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Arratia, G.</List>
+		</Author>
+		<Year>1996</Year>
+		<Title>Reassessment of the phylogenetic relationships of certain Jurassic teleosts and their implications on teleostean phylogeny</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>219-242</Pages>
+		<Booktitle>Mesozoic Fishes - Systematics and Paleoecology</Booktitle>
+		<Publisher>Verlag Dr. Friedrich Pfeil</Publisher>
+		<City>Munchen</City>
+		<Editor>
+			<List>Arratia, G.</List>
+			<List>Viohl, G.</List>
+		</Editor>
+	</Source>
+	<Taxa number="28">
+		<List>Outgroup</List>
+		<List>Allothrissops</List>
+		<List>Anaethalion</List>
+		<List>Ascalabos</List>
+		<List>Chanos</List>
+		<List>Chanoides</List>
+		<List>Coilia</List>
+		<List>Daitingichthys</List>
+		<List>Denticeps</List>
+		<List>Diplomystus</List>
+		<List>Domeykos</List>
+		<List>Elops</List>
+		<List>Erichalcis</List>
+		<List>Esox</List>
+		<List>Hiodon</List>
+		<List>Humbertia</List>
+		<List>L_coryphaenoides</List>
+		<List>L_talbragarensis</List>
+		<List>Leptolepides</List>
+		<List>Luisichthys</List>
+		<List>Lycoptera</List>
+		<List>Oncorhynchus</List>
+		<List>Orthogonikleithrus</List>
+		<List>Protoclupea</List>
+		<List>Teleost_n_gen</List>
+		<List>Tharsis</List>
+		<List>Thymallus</List>
+		<List>Varasichthys</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="90">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Arratia_1996a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

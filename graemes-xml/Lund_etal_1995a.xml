@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lund, R.</List>
+			<List>Poplin, C.</List>
+			<List>McCarthy, K.</List>
+		</Author>
+		<Year>1995</Year>
+		<Title>Preliminary analysis of the interrelationships of some Paleozoic actinopterygians</Title>
+		<Journal>Geobios (MS)</Journal>
+		<Volume>19</Volume>
+		<Pages>215-220</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="20">
+		<List>outqroup</List>
+		<List>Cheirolepsis</List>
+		<List>Moythomasia</List>
+		<List>Paratarrasius</List>
+		<List>Guildayic</List>
+		<List>Rdicks</List>
+		<List>berger</List>
+		<List>Aesoplch</List>
+		<List>Discos</List>
+		<List>Polyptecus</List>
+		<List>Rhadinichtys_canoblen</List>
+		<List>Tubesnt</List>
+		<List>Birgeria</List>
+		<List>Cramsay</List>
+		<List>Boreo</List>
+		<List>Ptcronis</List>
+		<List>Paleoniscus_freies</List>
+		<List>Amia</List>
+		<List>Caturus_driani</List>
+		<List>Enneles_audax</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="74">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lund_etal_1995a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,114 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>James, F. C.</List>
+			<List>Pourtless, J. A.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>Cladistics and the origin of birds: a review and two new analyses</Title>
+		<Journal>Ornithological Monographs</Journal>
+		<Volume>66</Volume>
+		<Pages>1-78</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="79">
+		<List>Alligator</List>
+		<List>Dibrothosuchus</List>
+		<List>Erpetosuchus</List>
+		<List>Hesperosuchus</List>
+		<List>Scleromochlus</List>
+		<List>Marasuchus</List>
+		<List>Eoraptor</List>
+		<List>Herrerasaurus</List>
+		<List>Ceratosaurus</List>
+		<List>Dilophosaurus</List>
+		<List>Syntarsus</List>
+		<List>Allosaurus</List>
+		<List>Sinraptor</List>
+		<List>Tyrannosaurus</List>
+		<List>Coelurus</List>
+		<List>Falcarius</List>
+		<List>Juravenator</List>
+		<List>Microvenator</List>
+		<List>Ornitholestes</List>
+		<List>Sinosauropteryx</List>
+		<List>Archaeopteryx</List>
+		<List>Bambiraptor</List>
+		<List>Confuciusornis</List>
+		<List>Deinonychus</List>
+		<List>Dromaeosaurus</List>
+		<List>Jeholornis</List>
+		<List>Longisquama</List>
+		<List>Microraptor</List>
+		<List>Rahonavis</List>
+		<List>Sapeornis</List>
+		<List>Sinornithosaurus</List>
+		<List>Unenlagia</List>
+		<List>Velociraptor</List>
+		<List>Nothronychus</List>
+		<List>Alxasaurus</List>
+		<List>Erlikosaurus</List>
+		<List>Eoenantiornis</List>
+		<List>Sinornis</List>
+		<List>Hongshanornis</List>
+		<List>Yanornis</List>
+		<List>Apsaravis</List>
+		<List>Baptornis</List>
+		<List>Enaliornis</List>
+		<List>Patagopteryx</List>
+		<List>Gansus</List>
+		<List>Ichthyornis</List>
+		<List>Iberomesornis</List>
+		<List>Protopteryx</List>
+		<List>Avimimus</List>
+		<List>Pelecanimimus</List>
+		<List>Mononykus</List>
+		<List>Shuvuuia</List>
+		<List>Byronosaurus</List>
+		<List>Sinovenator</List>
+		<List>Sinornithoides</List>
+		<List>Saurornithoides</List>
+		<List>Troodon</List>
+		<List>Caudipteryx</List>
+		<List>Incisivosaurus</List>
+		<List>Heyuannia</List>
+		<List>Ingenia</List>
+		<List>Oviraptor</List>
+		<List>Citipati</List>
+		<List>Conchoraptor</List>
+		<List>Compsognathus</List>
+		<List>Huaxiagnathus</List>
+		<List>Dilong</List>
+		<List>Guanlong</List>
+		<List>Effigia</List>
+		<List>Sinornithomimus</List>
+		<List>Gallimimus</List>
+		<List>Harpymimus</List>
+		<List>Erythrosuchus</List>
+		<List>Euparkeria</List>
+		<List>Proterosuchus</List>
+		<List>Ornithosuchus</List>
+		<List>Postosuchus</List>
+		<List>Sphenosuchus</List>
+		<List>Terrestrisuchus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="242">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>James_et_Pourtless_2009ab</Filename>
+	<Parent>Hwang_etal_2002a</Parent>
+	<Sibling/>
+</SourceTree>

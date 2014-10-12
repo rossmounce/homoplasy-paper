@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Kim, H. M.</List>
+			<List>Gishlick, A. D.</List>
+			<List>Tsuihiji, T.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>The first non-avian maniraptoran skeletal remains from the Lower Cretaceous of Korea</Title>
+		<Journal>Cretaceous Research</Journal>
+		<Volume>26</Volume>
+		<Pages>299-306</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="17">
+		<List>Herrerasauridae</List>
+		<List>Coelophysoidea</List>
+		<List>Ceratosauria</List>
+		<List>basal_Tetanurae1</List>
+		<List>basal_Tetanurae2</List>
+		<List>Carnosauria</List>
+		<List>basal_Coelurosauria</List>
+		<List>Tyrannosauridae</List>
+		<List>Ornithomimosauria</List>
+		<List>Oviraptorosauria</List>
+		<List>Alvarezsauridae</List>
+		<List>Deinonychosauria</List>
+		<List>Archaeopteryx</List>
+		<List>DGBU_dash_78</List>
+		<List>Troodontidae</List>
+		<List>Rahonavis</List>
+		<List>Neognathae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="21">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Kim_etal_2005a</Filename>
+	<Parent>Hutchinson_2001a</Parent>
+	<Sibling/>
+</SourceTree>

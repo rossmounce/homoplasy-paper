@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Angielczyk, K. D.</List>
+			<List>Kurkin, A. A.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>Has the utility of <em>Dicynodon</em> for Late Permian terrestrial biostratigraphy been overstated?</Title>
+		<Journal>Geology</Journal>
+		<Volume>31</Volume>
+		<Pages>363-366</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="28">
+		<List>Patranomodon</List>
+		<List>Otsheria</List>
+		<List>Eodicynodon</List>
+		<List>Robertia</List>
+		<List>Diictodon</List>
+		<List>Endothiodon</List>
+		<List>Chelydontops</List>
+		<List>Pristerodon</List>
+		<List>Emydops</List>
+		<List>Kingoria</List>
+		<List>Cistecephalus</List>
+		<List>Myosaurus</List>
+		<List>Tropidostoma</List>
+		<List>Oudenodon</List>
+		<List>Rhachiocephalus</List>
+		<List>Pelanomodon</List>
+		<List>Aulacephalodon</List>
+		<List>Dicynodon_lacerticeps</List>
+		<List>Lystrosaurus</List>
+		<List>Kannemeyeria</List>
+		<List>Idelisaurus</List>
+		<List>Interpresosaurus</List>
+		<List>Elph</List>
+		<List>Dicynodon_trautscholdi</List>
+		<List>Delectosaurus</List>
+		<List>Vivaxosaurus</List>
+		<List>Dicynodon_amalitzkii</List>
+		<List>Australobarbarus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="53">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Angielcyzk_et_Kurkin_2003b</Filename>
+	<Parent>Angielczyk_2001a</Parent>
+	<Sibling/>
+</SourceTree>

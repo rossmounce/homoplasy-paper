@@ -1,0 +1,82 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Mayr, G.</List>
+			<List>Pohl, B.</List>
+			<List>Peters, D. S.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>A well-preserved <em>Archaeopteryx</em> specimen with theropod features</Title>
+		<Journal>Science</Journal>
+		<Volume>310</Volume>
+		<Pages>1483-1486</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="46">
+		<List>Allosaurus_fragilis</List>
+		<List>Sinraptor_dongi</List>
+		<List>Ornitholestes_hermanni</List>
+		<List>Chirostenotes_pergracilis</List>
+		<List>Microvenator_celer</List>
+		<List>Avimimus_portentosus</List>
+		<List>Caudipteryx_zoui</List>
+		<List>Ingenia_yanshini</List>
+		<List>Oviraptor_mongoliensis</List>
+		<List>Oviraptor_philoceratops</List>
+		<List>Conchoraptor_gracilis</List>
+		<List>IGM_100_slash_42</List>
+		<List>Segnosaurus_galbinensis</List>
+		<List>Erlikosaurus_andrewsi</List>
+		<List>Alxasaurus_elesitaiensis</List>
+		<List>Sinornithosaurus_millenii</List>
+		<List>Dromaeosaurus_albertensis</List>
+		<List>Deinonychus_antirrhopus</List>
+		<List>Velociraptor_mongoliensis</List>
+		<List>Unenlagia_comahuensis</List>
+		<List>Adasaurus_mongoliensis</List>
+		<List>Utahraptor_ostrommaysorum</List>
+		<List>Saurornitholestes_langstoni</List>
+		<List>Achillobator_giganticus</List>
+		<List>IGM_100_slash_1015</List>
+		<List>Confuciusornis_sanctus</List>
+		<List>Microraptor_zhaoianus</List>
+		<List>Sinovenator_changi</List>
+		<List>Byronosaurus_jaffei</List>
+		<List>Sinornithoides_youngi</List>
+		<List>Troodon_formosus</List>
+		<List>Saurornithoides_mongoliensis</List>
+		<List>Saurornithoides_junior</List>
+		<List>Archaeopteryx_sp.</List>
+		<List>Rahonavis_ostromi</List>
+		<List>Alvarezsaurus_calvoi</List>
+		<List>Patagonykus_puertai</List>
+		<List>Mononykus_olecranus</List>
+		<List>Shuuvuia_deserti</List>
+		<List>Garudimimus_brevipes</List>
+		<List>Pelecanimimus_polyodon</List>
+		<List>Harpymimus_okladnikovi</List>
+		<List>Struthiomimus_altus</List>
+		<List>Gallimimus_bullatus</List>
+		<List>Tyrannosaurus_rex</List>
+		<List>Albertosaurus_libratus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="208">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Mayr_etal_2005a</Filename>
+	<Parent>Hwang_etal_2002a</Parent>
+	<Sibling/>
+</SourceTree>

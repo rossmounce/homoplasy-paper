@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Zanno, L. E.</List>
+			<List>Makovicky, P. J.</List>
+		</Author>
+		<Year>2011 </Year>
+		<Title>On the earliest record of Cretaceous tyrannosauroids in western North America: implications for an Early Cretaceous Laurasian interchange event. </Title>
+		<Journal>Historical Biology</Journal>
+		<Volume>23</Volume>
+		<Pages>317-325</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="16">
+		<List>MANIRAPTORA</List>
+		<List>ORNITHOMIMOSAURIA</List>
+		<List>Ornitholestes</List>
+		<List>COMPSOGNATHIDAE</List>
+		<List>Guanlong</List>
+		<List>Dilong</List>
+		<List>Eotyrannus</List>
+		<List>Stokesosaurus</List>
+		<List>Xiongguanlong</List>
+		<List>Raptorex</List>
+		<List>Gorgosaurus</List>
+		<List>Albertosaurus</List>
+		<List>Daspletosaurus</List>
+		<List>Tarbosaurus</List>
+		<List>Tyrannosaurus</List>
+		<List>FMNH_PR_2750</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="106">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Zanno_et_Makovicky_2011ab</Filename>
+	<Parent>Sereno_etal_2009a</Parent>
+	<Sibling/>
+</SourceTree>

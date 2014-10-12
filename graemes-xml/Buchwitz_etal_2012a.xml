@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Buchwitz, M.</List>
+			<List>Foth, C.</List>
+			<List>Kogan, I.</List>
+			<List>Voigt, S.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>Phylogenetic approach on the internal relationships of the Chroniosuchia (Tetrapoda: Reptiliomorpha)</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>55</Volume>
+		<Pages>623-640</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="30">
+		<List>Ichthyostega</List>
+		<List>Pederpes</List>
+		<List>Crassigyrinus</List>
+		<List>Eucritta</List>
+		<List>Greererpeton</List>
+		<List>Balanerpeton</List>
+		<List>Cochleosaurus</List>
+		<List>Silvanerpeton</List>
+		<List>Anthracosaurus</List>
+		<List>Proterogyrinus</List>
+		<List>Eoherpeton</List>
+		<List>Palaeoherpeton</List>
+		<List>Pholiderpeton</List>
+		<List>Archeria</List>
+		<List>Gephyrostegus</List>
+		<List>Seymouria</List>
+		<List>Limnoscelis</List>
+		<List>Asaphestera</List>
+		<List>Chroniosuchus</List>
+		<List>C_dongusensis</List>
+		<List>C_levis</List>
+		<List>Uralerpeton</List>
+		<List>Jarilinus</List>
+		<List>Suchonica</List>
+		<List>Madygenerpeton</List>
+		<List>Bystrowiana</List>
+		<List>Axitectum</List>
+		<List>Dromotectum</List>
+		<List>Synesuchus</List>
+		<List>Bystrowiella</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="73">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Buchwitz_etal_2012a</Filename>
+	<Parent>Schoch_etal_2010a</Parent>
+	<Sibling/>
+</SourceTree>

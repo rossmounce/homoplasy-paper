@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Arbour, V. M.</List>
+			<List>Burns, M. E.</List>
+			<List>Sullivan, R. M.</List>
+			<List>Lucas, S. G.</List>
+			<List>Cantrell, A. K.</List>
+			<List>Fry, J.</List>
+			<List>Suzao, T. L.</List>
+		</Author>
+		<Year>2014</Year>
+		<Title>A new ankylosaurid dinosaur from the Upper Cretaceous (Kirtlandian) of New Mexico with implications for ankylosaurid diversity in the Upper Cretaceous of western North America</Title>
+		<Journal>PLOS ONE</Journal>
+		<Volume>9</Volume>
+		<Pages>e108804</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="19">
+		<List>Lesothosaurus_diagnosticus</List>
+		<List>Scelidosaurus_harrisonii</List>
+		<List>Stegosaurus_spp_dot_</List>
+		<List>Ankylosaurus_magniventris</List>
+		<List>Anodontosaurus_lambei</List>
+		<List>Euoplocephalus_tutus</List>
+		<List>Gastonia_burgei</List>
+		<List>Ziapelta_sanjuanensis</List>
+		<List>Panoplosaurus_mirus</List>
+		<List>Pawpawsaurus_campbelli</List>
+		<List>Nodocephalosaurus_kirtlandensis</List>
+		<List>Pinacosaurus_grangeri</List>
+		<List>Pinacosaurus_mephistocephalus</List>
+		<List>Saichania_chulsanensis</List>
+		<List>Scolosaurus_cutleri</List>
+		<List>Talarurus_plicatospineus</List>
+		<List>Tarchia_kielanae</List>
+		<List>Tsagantegia_longicranialis</List>
+		<List>Ziapelta_sanjuanensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="154">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Arbour_etal_2014a</Filename>
+	<Parent>Arbour_etal_inpressa</Parent>
+	<Sibling/>
+</SourceTree>

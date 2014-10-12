@@ -1,0 +1,66 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Abdala, F.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>Redescription of <em>Platycraniellus elegans</em> (Therapsida, Cynodontia) from the Lower Triassic of South Africa, and the cladistic relationships of eutheriodonts</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>50</Volume>
+		<Pages>591-618</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="32">
+		<List>CYONOSAURUS</List>
+		<List>PRORUBIDGEA</List>
+		<List>LYCOSUCHUS</List>
+		<List>GLANOSUCHUS</List>
+		<List>HOFMEYRIA</List>
+		<List>ICTIDOSUCHOPS</List>
+		<List>THERIOGNATHUS</List>
+		<List>MOSCHORHINUS</List>
+		<List>BAURIA</List>
+		<List>CYNOSAURUS</List>
+		<List>PROCYNOSUCHUS</List>
+		<List>DVINIA</List>
+		<List>GALESAURUS</List>
+		<List>PROGALESAURUS</List>
+		<List>THRINAXODON</List>
+		<List>PLATYCRANIELLUS</List>
+		<List>CYNOGNATHUS</List>
+		<List>DIADEMODON</List>
+		<List>TRIRACHODON</List>
+		<List>MASSETOGNATHUS</List>
+		<List>EXAERETODON</List>
+		<List>CHINIQUODON</List>
+		<List>LUMKUIA</List>
+		<List>ECTENINION</List>
+		<List>PROBAINOGNATHUS</List>
+		<List>PACHYGENELUS</List>
+		<List>BRASILODON</List>
+		<List>BRASILITHERIUM</List>
+		<List>OLIGOKYPHUS</List>
+		<List>KAYENTATHERIUM</List>
+		<List>MORGANUCODON</List>
+		<List>SINOCONODON</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="96">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Abdala_2007a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

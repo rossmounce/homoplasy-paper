@@ -1,0 +1,86 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Royo-Torres, R.</List>
+			<List>Alcala, L.</List>
+			<List>Cobos, A.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>A new specimen of the Cretaceous sauropod <em>Tastavinsaurus sanzi</em> from El Castellar (Teruel, Spain), and a phylogenetic analysis of the Laurasiformes</Title>
+		<Journal>Cretaceous Research</Journal>
+		<Volume>34</Volume>
+		<Pages>61-83</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="50">
+		<List>Marasuchus</List>
+		<List>Pseudolagosuchus</List>
+		<List>Ornithischia</List>
+		<List>Herrerasaurus</List>
+		<List>Neotheropoda</List>
+		<List>Prosauropoda</List>
+		<List>Alamosaurus</List>
+		<List>Amargasaurus</List>
+		<List>Andesaurus</List>
+		<List>Apatosaurus</List>
+		<List>Argentinosaurus</List>
+		<List>Atlasaurus</List>
+		<List>Austrosaurus</List>
+		<List>Barapasaurus</List>
+		<List>Barosaurus</List>
+		<List>Bellusaurus</List>
+		<List>Brachiosaurus</List>
+		<List>Camarasaurus</List>
+		<List>Cedarosaurus</List>
+		<List>Cetiosaurus</List>
+		<List>Dicraeosaurus</List>
+		<List>Diplodocus</List>
+		<List>Euhelopus</List>
+		<List>Gondwanatitan</List>
+		<List>Haplocanthosaurus</List>
+		<List>Jobaria</List>
+		<List>Kotasaurus</List>
+		<List>Lapparentosaurus</List>
+		<List>Lirainosaurus</List>
+		<List>Lourinhasaurus</List>
+		<List>Malawisaurus</List>
+		<List>Mamenchisaurus</List>
+		<List>Nemegtosaurus</List>
+		<List>Nigersaurus</List>
+		<List>Omeisaurus</List>
+		<List>Opisthocoelicaudia</List>
+		<List>Patagosaurus</List>
+		<List>Pellegrinisaurus</List>
+		<List>Phuwiangosaurus</List>
+		<List>Pleurocoelus_dash_tex</List>
+		<List>Quaesitosaurus</List>
+		<List>Rayososaurus</List>
+		<List>Saltasaurus</List>
+		<List>Shunosaurus</List>
+		<List>Tehuelchesaurus</List>
+		<List>Titanosaurus</List>
+		<List>Vulcanodon</List>
+		<List>Aragosaurus</List>
+		<List>Tastavinsaurus_sanzi_MPZ99_slash_9</List>
+		<List>Tastavinsaurus_sanzi_CT_dash_19</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="309">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Royo-Torres_etal_2012ac</Filename>
+	<Parent>Upchurch_etal_2004b</Parent>
+	<Sibling/>
+</SourceTree>

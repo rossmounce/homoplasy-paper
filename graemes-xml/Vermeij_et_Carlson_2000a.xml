@@ -1,0 +1,80 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Vermeij, G. J.</List>
+			<List>Carlson, S. J.</List>
+		</Author>
+		<Year>2000</Year>
+		<Title>The muricid gastropod subfamily Rapaninae: phylogeny and ecological history</Title>
+		<Journal>Paleobiology</Journal>
+		<Volume>26</Volume>
+		<Pages>19-46</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="45">
+		<List>Hexaplex_vanuxemi</List>
+		<List>Muricanthus_princeps</List>
+		<List>Acanthina_unicornis</List>
+		<List>Forreria_belcheri</List>
+		<List>Hamtrum_hamtorium</List>
+		<List>Trochia_cingulata</List>
+		<List>Nucella_lapillus</List>
+		<List>UrosalpiIix_cinera</List>
+		<List>Agnewia_tritoniformis</List>
+		<List>Concholepas_concholepas</List>
+		<List>Cronia_aurantiaca</List>
+		<List>Cymia_monoplex</List>
+		<List>Cymia_tecta</List>
+		<List>Dicathais_orbita</List>
+		<List>Drupa_morum</List>
+		<List>Mancinella_alouina</List>
+		<List>Morula_uva</List>
+		<List>Nassa_serta</List>
+		<List>Neorapana_muricata</List>
+		<List>Pinaxia_versicolor</List>
+		<List>Plicopurpura_columellaris</List>
+		<List>Purpura_persica</List>
+		<List>Rapana_bezoar</List>
+		<List>Stramonita_haenmtoma</List>
+		<List>Thais_nodosa</List>
+		<List>Tribulus_planospira</List>
+		<List>Vexilla_vexillum</List>
+		<List>Vasula_melones</List>
+		<List>Acanthais_brevidentata</List>
+		<List>Drupella_cornus</List>
+		<List>Drupina_grossularia</List>
+		<List>Edithais_drezi</List>
+		<List>Ergalatax_margariticola</List>
+		<List>Lataxiena_blosvillei</List>
+		<List>Maculotriton_serriale</List>
+		<List>Menathais_tuberosa</List>
+		<List>Muricodrupa_fenestrata</List>
+		<List>Neothais_nesiotes</List>
+		<List>Ricinella_rubusidaeus</List>
+		<List>Taurasia_pleurotoma</List>
+		<List>Taurasia_striata</List>
+		<List>Thaisella_coronata</List>
+		<List>Thalessa_aculeata</List>
+		<List>Tritonopsis_subalveatum</List>
+		<List>Boreotrophon_stuarti</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="52">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Vermeij_et_Carlson_2000a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

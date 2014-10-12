@@ -1,0 +1,44 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lieberman, B. S.</List>
+		</Author>
+		<Year>1994</Year>
+		<Title>Evolution of the trilobite subfamily Proetinae Salter, 1864, and the origin, diversification, evolutionary affinity, and extinction of the Middle Devonian proetid fauna of eastern North America</Title>
+		<Journal>Bulletin of the American Museum of Natural History</Journal>
+		<Volume>223</Volume>
+		<Pages>1-176</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="10">
+		<List>Thebanaspis_thebana</List>
+		<List>Hedstroemia_pachydermata</List>
+		<List>Milesdavis_eldredgei</List>
+		<List>M_zlichovianus</List>
+		<List>Monodechenella_boteroi</List>
+		<List>Monodechenella_halli</List>
+		<List>M_macrocephala</List>
+		<List>M_legrandsmithi</List>
+		<List>M_curvimarginata</List>
+		<List>M_breviceps</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="20">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lieberman_1994ad</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

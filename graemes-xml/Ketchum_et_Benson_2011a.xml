@@ -1,0 +1,105 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ketchum, H. F.</List>
+			<List>Benson, R. B. J.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>A new pliosaurid (Sauropterygia, Plesiosauria) from the Oxford Clay Formation (Middle Jurassic, Callovian) of England: evidence for a gracile, longirostrine grade of Early-Middle Jurassic pliosaurids</Title>
+		<Journal>Special Papers in Palaeontology</Journal>
+		<Volume>86</Volume>
+		<Pages>109-129</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="70">
+		<List>Simosaurus_gaillardoti</List>
+		<List>Archaeonectrus_rostratus</List>
+		<List>Aristonectesparvidens</List>
+		<List>Attenborosaurusconybear</List>
+		<List>Augustasaurushagdorni</List>
+		<List>Marmornectes</List>
+		<List>BMNH_49202</List>
+		<List>BMNH_R2439</List>
+		<List>Brachaucheniuslucasi</List>
+		<List>Brancasaurusbrancai</List>
+		<List>Callawayasauruscolombie</List>
+		<List>Cymatosaurus</List>
+		<List>Cryptocliduseurymerus</List>
+		<List>Dolichorhynchopshersche</List>
+		<List>Dolichorhynchopsosborni</List>
+		<List>Edgarosaurusmuddi</List>
+		<List>Elasmosaurus_platyurus</List>
+		<List>Eopolycotylusrankini</List>
+		<List>Eromangasaurusaustralis</List>
+		<List>Eurycleidusarcuatus</List>
+		<List>FHSMVP321</List>
+		<List>Hauffiosauruslongirostris</List>
+		<List>Hauffiosaurustomistomimus</List>
+		<List>Hauffiosauruszanoni</List>
+		<List>Hydrorionbrachypterygiu</List>
+		<List>Hydrotherosaurusalexand</List>
+		<List>Kaiwhekeakatiki</List>
+		<List>Kimmerosauruslanghami</List>
+		<List>Kronosaurusqueenslandic</List>
+		<List>Leptocleiduscapensis</List>
+		<List>Leptocleidussuperstes</List>
+		<List>Libonectesmorgani</List>
+		<List>Liopleurodonferox</List>
+		<List>Macroplatatenuiceps</List>
+		<List>Manemergusanguirostris</List>
+		<List>Maresauruscoccai</List>
+		<List>Microcleidushomalospond</List>
+		<List>Muraenosaurusleedsii</List>
+		<List>Nichollsauraborealis</List>
+		<List>Occitanosaurustournemir</List>
+		<List>OUMNH_J_dot_02247</List>
+		<List>OUMNH_J_dot_10337</List>
+		<List>OUMNH_J_dot_28585</List>
+		<List>Palmulasaurusquadratus</List>
+		<List>Peloneustesphilarchus</List>
+		<List>Plesiopleurodonwellesi</List>
+		<List>Plesiosaurusdolichodeir</List>
+		<List>Plesiosaurusmacrocephal</List>
+		<List>Pliosaurusandrewsi</List>
+		<List>Pliosaurusbrachydeirus</List>
+		<List>Pliosaurusbrachyspondyl</List>
+		<List>Polycotyluslatipinnis</List>
+		<List>QMF_18041</List>
+		<List>Rhomaleosaurusmegacepha</List>
+		<List>Rhomaleosaurusvictor</List>
+		<List>Rhomaleosauruszetlandic</List>
+		<List>Seeleyosaurusguilelmiim</List>
+		<List>Simolestesvorax</List>
+		<List>Styxosaurussnowii</List>
+		<List>Terminonatatorpontiexen</List>
+		<List>Thalassiodraconhawkinsi</List>
+		<List>Thalassomedonhaningtoni</List>
+		<List>Thililualongicollis</List>
+		<List>Tricleidusseeleyi</List>
+		<List>Trinacromerumbentonianu</List>
+		<List>Umoonasaurusdemoscyllus</List>
+		<List>Pistosaurusskull</List>
+		<List>Pistosauruspostcra</List>
+		<List>Yunguisaurus</List>
+		<List>Bobosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="201">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ketchum_et_Benson_2011a</Filename>
+	<Parent>Ketchum_et_Benson_2010a</Parent>
+	<Sibling/>
+</SourceTree>

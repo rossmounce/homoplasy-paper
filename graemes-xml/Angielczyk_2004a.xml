@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Angielczyk, K. D.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>Phylogenetic evidence for and implications of a dual origin of propaliny in anomodont therapsids (Synapsida)</Title>
+		<Journal>Paleobiology</Journal>
+		<Volume>30</Volume>
+		<Pages>268-296</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List>Titanophoneus</List>
+		<List>Gorgonops</List>
+		<List>Lycosuchidae</List>
+		<List>Patranomodon</List>
+		<List>Otsheria</List>
+		<List>Ulemica</List>
+		<List>Suminia</List>
+		<List>Galeops</List>
+		<List>Eodicynodon</List>
+		<List>Diictodon</List>
+		<List>Pristerodon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="41">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Angielczyk_2004a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,72 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Wu, X.-C.</List>
+			<List>Russell, A. P.</List>
+			<List>Cumbaa, S. L.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>Terminonaris (Archosauria: Crocodyliformes): new material from Saskatchewan, Canada, and comments on its phylogenetic relationships</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>21</Volume>
+		<Pages>492-514</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="36">
+		<List>Gracilisuchus</List>
+		<List>Postosuchus</List>
+		<List>Sphenosuchus</List>
+		<List>Dibothrosuchus</List>
+		<List>Protosuchus</List>
+		<List>Hemiprotosuchus</List>
+		<List>kayenta_form</List>
+		<List>Orthosuchus</List>
+		<List>Gobiosuchus</List>
+		<List>Eopneumatosuchus</List>
+		<List>Plagosaurus</List>
+		<List>Teleosauridae</List>
+		<List>Metriorhychidae</List>
+		<List>fruita_form</List>
+		<List>Notosuchus</List>
+		<List>Baurusuchus</List>
+		<List>Sebecus</List>
+		<List>Libycosuchus</List>
+		<List>Araripesuchus</List>
+		<List>Theriosuchus</List>
+		<List>Alligatorium</List>
+		<List>Eutretauranosuchus</List>
+		<List>Goniopholis</List>
+		<List>Pholidosaurus</List>
+		<List>Terminonaris</List>
+		<List>Dyrosaurus</List>
+		<List>Bernissartia</List>
+		<List>Leidyosuchus</List>
+		<List>Gavialis</List>
+		<List>Crocodylidae</List>
+		<List>Alligatorinae</List>
+		<List>Shantungosuchus</List>
+		<List>Sichuanosuchus</List>
+		<List>Hsisosuchus</List>
+		<List>Sunosuchus</List>
+		<List>Hyposaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="131">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Wu_etal_2001a</Filename>
+	<Parent>Wu_etal_1997a</Parent>
+	<Sibling/>
+</SourceTree>

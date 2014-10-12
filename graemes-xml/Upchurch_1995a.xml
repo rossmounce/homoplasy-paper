@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Upchurch, P.</List>
+		</Author>
+		<Year>1995</Year>
+		<Title>The evolutionary history of the sauropod dinosaurs</Title>
+		<Journal>Philosophical Transactions of the Royal Society of London: B</Journal>
+		<Volume>349</Volume>
+		<Pages>365-390</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="33">
+		<List>Ancestor</List>
+		<List>Segnosauria</List>
+		<List>Thecodontosaurus</List>
+		<List>Anchisaurus</List>
+		<List>Massospondylus</List>
+		<List>Plateosaurus</List>
+		<List>Yunnanosaurus</List>
+		<List>Riojasaurus</List>
+		<List>Blikanasaurus</List>
+		<List>Vulcanodon</List>
+		<List>Barapasaurus</List>
+		<List>Lapparentosaurus</List>
+		<List>Brachiosaurus</List>
+		<List>Haplocanthosaurus</List>
+		<List>Camarasaurus</List>
+		<List>Cetiosaurus_dash_UK</List>
+		<List>Patagosaurus</List>
+		<List>Opisthocoelicaudia</List>
+		<List>Malawisaurus</List>
+		<List>Alamosaurus</List>
+		<List>Saltasaurus</List>
+		<List>Apatosaurus</List>
+		<List>Diplodocus</List>
+		<List>Barosaurus_dash_lentus</List>
+		<List>Dicraeosaurus</List>
+		<List>Amargasaurus</List>
+		<List>Nemegtosaurus</List>
+		<List>Quaesitosaurus</List>
+		<List>Shunosaurus</List>
+		<List>Datousaurus</List>
+		<List>Mamenchisaurus</List>
+		<List>Omeisaurus</List>
+		<List>Euhelopus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="174">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Upchurch_1995a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

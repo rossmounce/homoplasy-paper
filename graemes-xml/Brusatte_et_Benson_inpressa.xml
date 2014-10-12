@@ -1,0 +1,60 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Brusatte, S. L.</List>
+			<List>Benson, R. B. J.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>The systematics of Late Jurassic tyrannosauroids (Dinosauria: Theropoda) from Europe and North America</Title>
+		<Journal>Acta Palaeontologica Polonica</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="25">
+		<List>Allosaurus</List>
+		<List>Compsognathidae</List>
+		<List>Ornithomimosauria</List>
+		<List>Maniraptora</List>
+		<List>Aviatyrannis</List>
+		<List>Kileskus</List>
+		<List>Guanlong</List>
+		<List>Proceratosaurus</List>
+		<List>Sinotyrannus</List>
+		<List>Dilong</List>
+		<List>Eotyrannus</List>
+		<List>Juratyrant_langhami</List>
+		<List>Stokesosaurus_clevelandi</List>
+		<List>Xiongguanlong</List>
+		<List>Dryptosaurus</List>
+		<List>Raptorex</List>
+		<List>Appalachiosaurus</List>
+		<List>Bistahieversor</List>
+		<List>Albertosaurus</List>
+		<List>Gorgosaurus</List>
+		<List>Alioramus</List>
+		<List>Teratophoneus</List>
+		<List>Daspletosaurus</List>
+		<List>Tarbosaurus</List>
+		<List>Tyrannosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="314">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Brusatte_et_Benson_inpressa</Filename>
+	<Parent>Brusatte_etal_2010a</Parent>
+	<Sibling/>
+</SourceTree>

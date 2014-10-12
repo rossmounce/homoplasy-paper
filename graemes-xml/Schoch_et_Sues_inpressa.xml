@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Schoch, R. R.</List>
+			<List>Sues, H.-D.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>A new archosauriform reptile from the Middle Triassic (Ladinian) of Germany</Title>
+		<Journal>Journal of Systematic Palaeontology</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="18">
+		<List>Mesosuchus</List>
+		<List>Prolacerta</List>
+		<List>Proterosuchus</List>
+		<List>Euparkeria</List>
+		<List>Erythrosuchus</List>
+		<List>Parasuchus</List>
+		<List>Qianosuchus</List>
+		<List>Stagonolepis</List>
+		<List>Gracilisuchus</List>
+		<List>Turfanosuchus</List>
+		<List>Scleromochlus</List>
+		<List>Marasuchus</List>
+		<List>Chanaresuchus</List>
+		<List>Vancleavea</List>
+		<List>Tarjadia</List>
+		<List>Archeopelta</List>
+		<List>Doswellia</List>
+		<List>Jaxtasuchus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="118">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Schoch_et_Sues_inpressa</Filename>
+	<Parent>Desojo_etal_2011a</Parent>
+	<Sibling/>
+</SourceTree>

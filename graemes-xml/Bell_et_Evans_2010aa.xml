@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Bell, P. R.</List>
+			<List>Evans, D. C.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>Revision of the status of Saurolophus (Hadrosauridae) from California, USA</Title>
+		<Journal>Canadian Journal of Earth Sciences</Journal>
+		<Volume>47</Volume>
+		<Pages>1417-1426</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="22">
+		<List>Bactrosaurus</List>
+		<List>Aralosaurus</List>
+		<List>Tsintaosaurus</List>
+		<List>Jaxartosaurus</List>
+		<List>Amurosaurus</List>
+		<List>Corythosaurus</List>
+		<List>Hypacrosaurus</List>
+		<List>Olorotitan</List>
+		<List>Lambeosaurus</List>
+		<List>Sahaliyania</List>
+		<List>Parasaurolophus</List>
+		<List>Charonosaurus</List>
+		<List>Wulagasaurus</List>
+		<List>Maiasaura</List>
+		<List>Brachylophosaurus</List>
+		<List>Gryposaurus</List>
+		<List>Kerberosaurus</List>
+		<List>Saurolophus</List>
+		<List>Prosaurolophus</List>
+		<List>LACM_slash_CIT_2852</List>
+		<List>Anatotitan</List>
+		<List>Edmontosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="56">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Bell_et_Evans_2010aa</Filename>
+	<Parent>Godefroit_etal_2008a</Parent>
+	<Sibling/>
+</SourceTree>

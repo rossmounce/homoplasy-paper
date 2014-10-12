@@ -1,0 +1,86 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Wang, X.-L.</List>
+			<List>Kellner, A. W. A.</List>
+			<List>Zhou, Z.-H.</List>
+			<List>Campos, D. A.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>Discovery of a rare arboreal forest-dwelling flying reptile (Pterosauria, Pterodactyloidea) from China</Title>
+		<Journal>Proceedings of the National Academy of Sciences USA</Journal>
+		<Volume>105</Volume>
+		<Pages>1983-1987</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="49">
+		<List>Ornithosuchus_longidens</List>
+		<List>Herrerasaurus_ischigualastensis</List>
+		<List>Scleromochlus_taylori</List>
+		<List>Anurognathus_ammoni</List>
+		<List>Batrachognathus_volans</List>
+		<List>Dendrorhynchoides_curvidentatus</List>
+		<List>Jeholopterus_ningchengensis</List>
+		<List>Sordes_pilosus</List>
+		<List>Preondactylus_buffarinii</List>
+		<List>Scaphognathus_crassirostris</List>
+		<List>Dorygnathus_banthensis</List>
+		<List>Dimorphodon_macronyx</List>
+		<List>Peteinosaurus_zambellii</List>
+		<List>Eudimorphodon_rosenfeldi</List>
+		<List>Campylognathoides_liasicus</List>
+		<List>Eudimorphodon_ranzii</List>
+		<List>Rhamphorhynchus_muensteri</List>
+		<List>Rhamphorhynchus_longicaudus</List>
+		<List>Pterodactylus_kochi</List>
+		<List>Pterodactylus_antiquus</List>
+		<List>Germanodactylus_cristatus</List>
+		<List>Germanodactylus_rhamphastinus</List>
+		<List>Gnathosaurus_subulatus</List>
+		<List>Ctenochasma_gracile</List>
+		<List>Pterodaustro_guinazui</List>
+		<List>Feilongus_youngi</List>
+		<List>Gallodactylus_canjuersensis</List>
+		<List>Cycnorhamphus_suevicus</List>
+		<List>Nyctosaurus_gracilis</List>
+		<List>Nyctosaurus_bonneri</List>
+		<List>Pteranodon_longiceps</List>
+		<List>Istiodactylus_latidens</List>
+		<List>Nurhachius_ignaciobritoi</List>
+		<List>Ornithocheirus_compressirostris</List>
+		<List>Tropeognathus_mesembrinus</List>
+		<List>Anhanguera_santanae</List>
+		<List>Anhanguera_blittersdorffi</List>
+		<List>Anhanguera_piscator</List>
+		<List>Dsungaripterus_weii</List>
+		<List>Phobetor_parvus</List>
+		<List>Noripterus_complicidens</List>
+		<List>Tupuxuara_leonardii</List>
+		<List>Thalassodromeus_sethi</List>
+		<List>Tapejara_wellnhoferi</List>
+		<List>Tupandactylus_imperator</List>
+		<List>Quetzalcoatlus_sp</List>
+		<List>Azhdarcho_lancicollis</List>
+		<List>Zhejiangopterus_linhaiensis</List>
+		<List>Nemicolopterus_crypticus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="80">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Wang_etal_2008a</Filename>
+	<Parent>Wang_etal_2005c</Parent>
+	<Sibling/>
+</SourceTree>

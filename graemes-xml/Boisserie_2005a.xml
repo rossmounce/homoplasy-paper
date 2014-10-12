@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Boisserie, J.-R.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>The phylogeny and taxonomy of Hippopotamidae (Mammalia: Artiodactyla): a review based on morphology and cladistic analysis</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>143</Volume>
+		<Pages>1-26</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="15">
+		<List>Anthracokeryx_ulnifer</List>
+		<List>Hex_mingoz</List>
+		<List>Hex_cf_mingoz</List>
+		<List>Hex_bruneti</List>
+		<List>Hex_harvardi</List>
+		<List>Hex_cf_protamphibius</List>
+		<List>Hex_protamphibius</List>
+		<List>Hex_karumensis</List>
+		<List>Hex_aethiopicus</List>
+		<List>Hex_sivalensis</List>
+		<List>Hex_palaeindicus</List>
+		<List>Hex_afarensis</List>
+		<List>Hip_amphibius</List>
+		<List>Hip_gorgops</List>
+		<List>Hex_liberiensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="37">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Boisserie_2005a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

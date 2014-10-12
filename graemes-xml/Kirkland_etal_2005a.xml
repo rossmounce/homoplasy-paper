@@ -1,0 +1,96 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Kirkland, J. I.</List>
+			<List>Zanno, L. E.</List>
+			<List>Sampson, S. D.</List>
+			<List>Clark, J. M.</List>
+			<List>Deblieux, D. D.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>A primitive therizinosauroid dinosaur from the Early Cretaceous of Utah</Title>
+		<Journal>Nature</Journal>
+		<Volume>435</Volume>
+		<Pages>84-87</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="58">
+		<List>Allosaurus</List>
+		<List>Sinraptor</List>
+		<List>Ornitholestes</List>
+		<List>Ingenia</List>
+		<List>Oviraptor_ms</List>
+		<List>Oviraptor_p</List>
+		<List>Conchoraptor</List>
+		<List>Chirostenotes</List>
+		<List>Microvenator</List>
+		<List>Avimimus</List>
+		<List>Caudipteryx</List>
+		<List>Citipati</List>
+		<List>Incisivosaurus</List>
+		<List>Falcarius</List>
+		<List>Segnosaurus</List>
+		<List>Erlikosaurus</List>
+		<List>Alxasaurus</List>
+		<List>Beipiaosaurus</List>
+		<List>Nothronychus</List>
+		<List>Rahonavis</List>
+		<List>Sinornithosaurus</List>
+		<List>Microraptor</List>
+		<List>Dromaeosaurus</List>
+		<List>Deinonychus</List>
+		<List>Velociraptor</List>
+		<List>Unenlagia</List>
+		<List>Utahraptor</List>
+		<List>Saurornitholestes</List>
+		<List>Achillobator</List>
+		<List>Ukhaa_dromaeosaur</List>
+		<List>Adasaurus</List>
+		<List>Archeopteryx</List>
+		<List>Confuciusornis</List>
+		<List>Sinovenator</List>
+		<List>Ek_troodontid</List>
+		<List>Byronosaurus</List>
+		<List>Sinornithoides</List>
+		<List>Troodon</List>
+		<List>Saurornithoides_m</List>
+		<List>Saurornithoides_j</List>
+		<List>Alvarezsaurus</List>
+		<List>Patagonykus</List>
+		<List>Mononykus</List>
+		<List>Shuuvuia</List>
+		<List>Huaxiagnathus</List>
+		<List>Sinosauropteryx</List>
+		<List>Compsognathus</List>
+		<List>Pelecanimimus</List>
+		<List>Shenzhousaurus</List>
+		<List>Harpymimus</List>
+		<List>Garudimimus</List>
+		<List>Struthiomimus</List>
+		<List>Gallimimus</List>
+		<List>Ornithomimus</List>
+		<List>Archaeornithomimus</List>
+		<List>Anserimimimus</List>
+		<List>Tyrannosaurus</List>
+		<List>Albertosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="231">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Kirkland_etal_2005a</Filename>
+	<Parent>Hwang_etal_2004a</Parent>
+	<Sibling/>
+</SourceTree>

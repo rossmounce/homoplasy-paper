@@ -1,0 +1,92 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ezcurra, M. D.</List>
+			<List>Apaldetti, C.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>A robust sauropodomorph specimen from the Upper Triassic of Argentina and insights on the diversity of the Los Colorados Formation</Title>
+		<Journal>Proceedings of the Geologists' Association</Journal>
+		<Volume>123</Volume>
+		<Pages>155-164</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="57">
+		<List>Euparkeria</List>
+		<List>Crurotarsi</List>
+		<List>Marasuchus</List>
+		<List>Silesaurus</List>
+		<List>Ornithischia</List>
+		<List>Herrerasaurus</List>
+		<List>Staurikosaurus</List>
+		<List>MACN_PV_18649a</List>
+		<List>ISIR_282</List>
+		<List>Agnosphitys</List>
+		<List>Guaibasaurus</List>
+		<List>Panphagia</List>
+		<List>ISIR_277</List>
+		<List>Saturnalia</List>
+		<List>Chromogisaurus</List>
+		<List>Pantydraco</List>
+		<List>Thecodontosaurus</List>
+		<List>Nambalia</List>
+		<List>Efraasia</List>
+		<List>Plateosauravus</List>
+		<List>Ruehleia</List>
+		<List>Anchisaurus</List>
+		<List>Jingshanosaurus</List>
+		<List>Yunnanosaurus</List>
+		<List>Melanorosaurus</List>
+		<List>Antetonitrus</List>
+		<List>Blikanasaurus</List>
+		<List>Camelotia</List>
+		<List>Gongxianosaurus</List>
+		<List>Lessemsaurus</List>
+		<List>PULR_136</List>
+		<List>Tazoudasaurus</List>
+		<List>Vulcanodon</List>
+		<List>Isanosaurus</List>
+		<List>Barapasaurus</List>
+		<List>Patagosaurus</List>
+		<List>Shunosaurus</List>
+		<List>Cetiosaurus</List>
+		<List>Neosauropoda</List>
+		<List>Mamenchisaurus</List>
+		<List>Omeisaurus</List>
+		<List>Pradhania</List>
+		<List>Massospondylus</List>
+		<List>Coloradisaurus</List>
+		<List>Lufengosaurus</List>
+		<List>Glacialisaurus</List>
+		<List>Eucnemosaurus</List>
+		<List>Riojasaurus</List>
+		<List>Plateosaurus_ingens</List>
+		<List>Plateosaurus_engelhardti</List>
+		<List>Plateosaurus_gracilis</List>
+		<List>Unaysaurus</List>
+		<List>Jaklapallisaurus</List>
+		<List>Chindesaurus</List>
+		<List>Tawa</List>
+		<List>Eoraptor</List>
+		<List>Neotheropoda</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="381">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ezcurra_et_Apaldetti_2012a</Filename>
+	<Parent>Novas_etal_2011a</Parent>
+	<Sibling/>
+</SourceTree>

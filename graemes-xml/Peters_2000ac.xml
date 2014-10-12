@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Peters, D.</List>
+		</Author>
+		<Year>2000</Year>
+		<Title>A reexamination of four prolacertiforms with implications for pterosaur phylogenesis</Title>
+		<Journal>Rivista Italiana di Paleontologia e Stratigrafia</Journal>
+		<Volume>106</Volume>
+		<Pages>293-336</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="18">
+		<List>LEPIDOSAUROMORPHA</List>
+		<List>RHYNCHOSAURIA</List>
+		<List>TANYSTROPHEUS</List>
+		<List>PTEROSAURIA</List>
+		<List>PROTEROSUCHIDAE</List>
+		<List>ERYTHROSUCHIDAE</List>
+		<List>PROTEROCHAMPSIDA</List>
+		<List>EUPARKERIA</List>
+		<List>PARASUCHIA</List>
+		<List>SUCHIA</List>
+		<List>ORNITHOSUCHIDAE</List>
+		<List>LAGOSUCHUS</List>
+		<List>DINOSAURIA</List>
+		<List>SCLEROMOCHLUS</List>
+		<List>COSESAURUS</List>
+		<List>SHAROVIPTERYX</List>
+		<List>LONGISQUAMA</List>
+		<List>LANGOBARDISAURUS</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="130">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Peters_2000ac</Filename>
+	<Parent>Bennett_1996a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,44 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ksepka, D. T.</List>
+			<List>Gao, K.-Q.</List>
+			<List>Norell, M. A.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>A new choristodere from the Cretaceous of Mongolia</Title>
+		<Journal>American Museum Novitates</Journal>
+		<Volume>3468</Volume>
+		<Pages>1-22</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="8">
+		<List>Youngina</List>
+		<List>Lazarussuschus</List>
+		<List>Cteniogenys</List>
+		<List>Shokawa</List>
+		<List>Tchoiria</List>
+		<List>Lkechosaurus</List>
+		<List>Simoedosaurus</List>
+		<List>Champsosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="69">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ksepka_etal_2005a</Filename>
+	<Parent>Gao_et_Fox_1998a</Parent>
+	<Sibling/>
+</SourceTree>

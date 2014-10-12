@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Calvo, J. O.</List>
+			<List>Porfiri, J. D.</List>
+			<List>Gonzalez-Riga, B. J.</List>
+			<List>Kellner, A. W. A.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>A new Cretaceous terrestrial ecosystem from Gondwana with the description of a new sauropod dinosaur</Title>
+		<Journal>Anais da Academia Brasileira De Ciencias</Journal>
+		<Volume>79</Volume>
+		<Pages>529-541</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="19">
+		<List>Camarasaurus</List>
+		<List>Brachiosaurus</List>
+		<List>Chubutisaurus</List>
+		<List>Andesaurus</List>
+		<List>Malawisaurus</List>
+		<List>Mendozasaurus</List>
+		<List>Futalognkosaurus</List>
+		<List>Epachthosaurus</List>
+		<List>Rapetosaurus</List>
+		<List>Rinconsaurus</List>
+		<List>Loma_del_Lindero_sp.</List>
+		<List>Gondwanatitan</List>
+		<List>Aeolosaurus</List>
+		<List>Lirainosaurus</List>
+		<List>Opisthocoelicaudia</List>
+		<List>Alamosaurus</List>
+		<List>Neuquensaurus</List>
+		<List>Saltasaurus</List>
+		<List>Rocasaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="65">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Calvo_etal_2007a</Filename>
+	<Parent>Calvo_etal_2007c</Parent>
+	<Sibling/>
+</SourceTree>

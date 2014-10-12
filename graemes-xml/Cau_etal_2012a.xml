@@ -1,0 +1,73 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Cau, A.</List>
+			<List>Dalla Vecchia, F. M.</List>
+			<List>Fabbri, M.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>Evidence of a new carcharodontosaurid from the Upper Cretaceous of Morocco</Title>
+		<Journal>Acta Palaeontologica Polonica</Journal>
+		<Volume>57</Volume>
+		<Pages>661-665</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="37">
+		<List>Herrerasaurus</List>
+		<List>Tawa</List>
+		<List>Ceratosaurus</List>
+		<List>Rugops</List>
+		<List>Abelisaurus</List>
+		<List>Rajasaurus</List>
+		<List>Carnotaurus</List>
+		<List>Majungasaurus</List>
+		<List>Masiakasaurus</List>
+		<List>Deltadromeus</List>
+		<List>Limusaurus</List>
+		<List>Piatnitzkysaurus</List>
+		<List>Allosaurus</List>
+		<List>Sinraptor</List>
+		<List>Eocarcharia</List>
+		<List>MPM_2594</List>
+		<List>Acrocanthosaurus</List>
+		<List>Shaochilong</List>
+		<List>Carcharodontosaurus</List>
+		<List>Giganotosaurus</List>
+		<List>Haplocheirus</List>
+		<List>Compsognathus</List>
+		<List>Sinosauropteryx</List>
+		<List>Falcarius</List>
+		<List>Gallimimus</List>
+		<List>Troodon</List>
+		<List>Dilong</List>
+		<List>Tyrannosaurus</List>
+		<List>Monolophosaurus</List>
+		<List>Baryonyx</List>
+		<List>Irritator</List>
+		<List>Spinosaurus</List>
+		<List>Dubreuillosaurus</List>
+		<List>Eustreptospondylus</List>
+		<List>Syntarsus_kayentakatae</List>
+		<List>Cryolophosaurus</List>
+		<List>Dilophosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="808">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Cau_etal_2012a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

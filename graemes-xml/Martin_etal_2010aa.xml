@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Martin, J. E.</List>
+			<List>Rabi, M.</List>
+			<List>Csiki, Z.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>Survival of <em>Theriosuchus</em> (Mesoeucrocodylia: Atoposauridae) in a Late Cretaceous archipelago: a new species from the Maastrichtian of Romania</Title>
+		<Journal>Naturwissenschaften</Journal>
+		<Volume>97</Volume>
+		<Pages>845-854</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="26">
+		<List>Sphenosuchia</List>
+		<List>Protosuchia</List>
+		<List>Alligatoridae</List>
+		<List>Anatosuchus</List>
+		<List>Araripesuchus_gomesii</List>
+		<List>Araripesuchus_patagonicus</List>
+		<List>Baurusuchidae</List>
+		<List>Bernissartia</List>
+		<List>Candidodon</List>
+		<List>Chimaerasuchus</List>
+		<List>Comahuesuchus</List>
+		<List>Crocodylidae</List>
+		<List>Malawisuchus</List>
+		<List>Mariliasuchus</List>
+		<List>Notosuchus</List>
+		<List>Sebecus</List>
+		<List>Simosuchus</List>
+		<List>Sphagesaurus_huenei</List>
+		<List>Sphagesaurus_montealtensis</List>
+		<List>Thalattosuchia</List>
+		<List>Uruguaysuchus</List>
+		<List>Theriosuchus_sympiestodon</List>
+		<List>Theriosuchus_guimarotae</List>
+		<List>Theriosuchus_pusillus</List>
+		<List>Araripesuchus_tsangatsangana</List>
+		<List>Araripesuchus_buitreraensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="183">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Martin_etal_2010aa</Filename>
+	<Parent>Andrade_et_Bertini_2008b</Parent>
+	<Sibling/>
+</SourceTree>

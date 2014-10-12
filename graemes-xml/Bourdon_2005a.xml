@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Bourdon, E.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>Osteological evidence for sister group relationship between pseudo-toothed birds (Aves: Odontopterygiformes) and waterfowls (Anseriformes)</Title>
+		<Journal>Naturwissenschaften</Journal>
+		<Volume>92</Volume>
+		<Pages>586-591</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="28">
+		<List>Rheidae</List>
+		<List>Tinamidae</List>
+		<List>Galliformes</List>
+		<List>Anhimidae</List>
+		<List>Anseranatidae</List>
+		<List>Anatidae</List>
+		<List>Odontopteryx_toliapica</List>
+		<List>Odontopteryx_n_sp_1</List>
+		<List>Odontopteryx_n_sp_2</List>
+		<List>Argillornis_emuinus</List>
+		<List>Pelagornis</List>
+		<List>Diomedeidae</List>
+		<List>Hydrobatidae</List>
+		<List>Pelecanoididae</List>
+		<List>Procellariidae</List>
+		<List>Phaethontidae</List>
+		<List>Spheniscidae</List>
+		<List>Gaviidae</List>
+		<List>Podicipedidae</List>
+		<List>Scopidae</List>
+		<List>Fregatidae</List>
+		<List>Pelecanidae</List>
+		<List>Sulidae</List>
+		<List>Phalacrocoracidae</List>
+		<List>Anhingidae</List>
+		<List>Ciconiidae</List>
+		<List>Phoenicopteridae</List>
+		<List>Opisthocomidae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="123">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Bourdon_2005a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

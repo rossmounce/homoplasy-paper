@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lu, J.-C.</List>
+			<List>Tomida, Y.</List>
+			<List>Azuma, Y.</List>
+			<List>Dong, Z.-M.</List>
+			<List>Lee, Y.-N.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>New oviraprorid dinosaur (Dinosauria: Oviraptorosauria) from the Nemegt Formation of Southwestern Mongolia</Title>
+		<Journal>Bulletin of the National Science Museum, Tokyo, Series C</Journal>
+		<Volume>30</Volume>
+		<Pages>95-130</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="20">
+		<List>Allosauroidea</List>
+		<List>Ornithomimidae</List>
+		<List>Dromaeosauridae</List>
+		<List>Troodontidae</List>
+		<List>Archaeopteryx_lithographica</List>
+		<List>Incisivosaurus_gautheri</List>
+		<List>Caudipteryx_zoui</List>
+		<List>Microvenator_celer</List>
+		<List>Avimimus_portentosus</List>
+		<List>Chirostenotes_pergracilis</List>
+		<List>Khaan_mckennai</List>
+		<List>Conchoraptor_gracilis</List>
+		<List>Ingenia_yanshini</List>
+		<List>Nomingia_gobiensis</List>
+		<List>Oviraptor_mongoliensis</List>
+		<List>Heyuannia_huangi</List>
+		<List>Nemegtia_barsboldi</List>
+		<List>Citipati_osmolskae</List>
+		<List>GIN_100_slash_42</List>
+		<List>Oviraptor_philoceratops</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="200">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lu_etal_2004a</Filename>
+	<Parent>Maryanska_etal_2002a</Parent>
+	<Sibling/>
+</SourceTree>

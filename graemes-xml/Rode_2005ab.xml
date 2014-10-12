@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Stigall Rode, A. L.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>Systematic revision of the Middle and Late Devonian Brachiopods <em>Schizophoria (Schizophoria)</em> and '<em>Schuchertella</em>' from North America</Title>
+		<Journal>Journal of Systematic Palaeontology</Journal>
+		<Volume>3</Volume>
+		<Pages>133-167</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="18">
+		<List>Xystostrophia_umbraculum</List>
+		<List>Xystostrophia_woolworthana</List>
+		<List>Schuchertella_lens</List>
+		<List>Schuchertella_percha</List>
+		<List>Floweria_anomala</List>
+		<List>Floweria_arctostriata</List>
+		<List>Floweria_becraftensis</List>
+		<List>Floweria_chemungensis</List>
+		<List>Floweria_cornucopia</List>
+		<List>Floweria_crassa</List>
+		<List>Floweria_deformis</List>
+		<List>Floweria_iowensis</List>
+		<List>Floweria_lirella</List>
+		<List>Floweria_magnacicatrix</List>
+		<List>Floweria_pandora</List>
+		<List>Floweria_perversa</List>
+		<List>Floweria_prava</List>
+		<List>Floweria_transversalis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="36">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Rode_2005ab</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

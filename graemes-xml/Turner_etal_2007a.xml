@@ -1,0 +1,94 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Turner, A. H.</List>
+			<List>Hwang, S. H.</List>
+			<List>Norell, M. A.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>A small derived theropod from Oosh, Early Cretaceous, Baykhangor Mongolia</Title>
+		<Journal>American Museum Novitates</Journal>
+		<Volume>3557</Volume>
+		<Pages>1-27</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="58">
+		<List>Allosaurus_fragilis</List>
+		<List>Sinraptor_dongi</List>
+		<List>Ornitholestes_hermanni</List>
+		<List>Incisivosaurus_gauthieri</List>
+		<List>Caudipteryx_zoui</List>
+		<List>Ingenia_yanshani</List>
+		<List>Citipati_osmolskae</List>
+		<List>Oviraptor_mongoliensis</List>
+		<List>Oviraptor_philoceratops</List>
+		<List>Conchoraptor_gracilis</List>
+		<List>Microvenator_celer</List>
+		<List>Chirostenotes_pergracilis</List>
+		<List>Avimimus_portentosus</List>
+		<List>Segnosaurus_galbinensis</List>
+		<List>Erlikosaurus_andrewsi</List>
+		<List>Alxasaurus_elesitaiensis</List>
+		<List>Dromaeosaurus_albertensis</List>
+		<List>Deinonychus_antirrhopus</List>
+		<List>Velociraptor_mongoliensis</List>
+		<List>Utahraptor_ostrommaysorum</List>
+		<List>Adasaurus_mongoliensis</List>
+		<List>Achillobator_giganticus</List>
+		<List>Tsaagan_mangas</List>
+		<List>Saurornitholestes_langsto</List>
+		<List>Sinornithosaurus_millenii</List>
+		<List>Microraptor_zhaoianus</List>
+		<List>IGM1001119</List>
+		<List>Buitreraptor_gonzalozorum</List>
+		<List>Rahonavis_ostromi</List>
+		<List>Neuquenraptor__plus__Unenlagia</List>
+		<List>EK_troodontid__IGM_100_slash_44</List>
+		<List>Byronosaurus_jaffei</List>
+		<List>Sinornithoides_youngi</List>
+		<List>Troodon_formosus</List>
+		<List>Saurornithoides_mongolien</List>
+		<List>Saurornithoides_junior</List>
+		<List>Sinovenator_changii</List>
+		<List>Mei_long</List>
+		<List>Archaeopteryx_lithographi</List>
+		<List>Confuciusornis_sanctus</List>
+		<List>Alvarezsaurus_calvoi</List>
+		<List>Patagonykus_puertai</List>
+		<List>Mononykus_olecranus</List>
+		<List>Shuuvia_deserti</List>
+		<List>Huaxiagnathus_orientalis</List>
+		<List>Sinosauropteryx_prima</List>
+		<List>Compsognathus_longipes</List>
+		<List>Pelecanimimus_polydon</List>
+		<List>Harpymimus_okladnikovi</List>
+		<List>Shenzhousaurus_orientalis</List>
+		<List>Archaeornithomimus_asiati</List>
+		<List>Garudimimus_brevipes</List>
+		<List>Struthiomimus_altus</List>
+		<List>Gallimimus_bullatus</List>
+		<List>Ornithomimus_edmonticus</List>
+		<List>Anserimimus_planinychus</List>
+		<List>Tyrannosaurus_rex</List>
+		<List>Albertosaurus_libratus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="251">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Turner_etal_2007a</Filename>
+	<Parent>Norell_etal_2006aa</Parent>
+	<Sibling/>
+</SourceTree>

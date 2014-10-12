@@ -1,0 +1,75 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Benson, R. B. J.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>A description of Megalosaurus bucklandii (Dinosauria: Theropoda) from the Bathonian of the UK and the relationships of Middle Jurassic theropods</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>158</Volume>
+		<Pages>882-935</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="41">
+		<List>Syntarsus_kayentakae_outgroup</List>
+		<List>Dilophosaurus</List>
+		<List>Abelisauridae</List>
+		<List>Ceratosaurus</List>
+		<List>Acrocanthosaurus</List>
+		<List>Afrovenator</List>
+		<List>Allosaurus</List>
+		<List>Dubreuillosaurus</List>
+		<List>Eocarcharia</List>
+		<List>Eustreptospondylus</List>
+		<List>Fukuiraptor</List>
+		<List>Carcharodontosaurus</List>
+		<List>Giganotosaurus</List>
+		<List>Mapusaurus</List>
+		<List>Lourinhanosaurus</List>
+		<List>Magnosaurus</List>
+		<List>Marshosaurus</List>
+		<List>Megalosaurus</List>
+		<List>Megalosaurus_hesperis</List>
+		<List>Megaraptor</List>
+		<List>Metriacanthosaurus</List>
+		<List>Neovenator</List>
+		<List>Piveteausaurus</List>
+		<List>Poekilopleuron</List>
+		<List>Sinraptor</List>
+		<List>Streptospondylus</List>
+		<List>Torvosaurus</List>
+		<List>Tyrannotitan</List>
+		<List>Xuanhanosaurus</List>
+		<List>Baryonyx</List>
+		<List>Suchomimus</List>
+		<List>Irritator</List>
+		<List>Spinosaurus</List>
+		<List>Chuandongocoelurus</List>
+		<List>Monolophosaurus</List>
+		<List>Condorraptor</List>
+		<List>Piatnitzkysaurus</List>
+		<List>Chilantaisaurus</List>
+		<List>Compsognathus</List>
+		<List>Guanlong</List>
+		<List>Tanycolagreus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="213">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Benson_2010a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Salgado, L.</List>
+			<List>de Sousa Carvalho, I.</List>
+			<List>Garrido, A. C.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>Zapalasaurus bonapartei, a new sauropod dinosaur from La Amarga Formation (Lower Cretaceous), northwestern Patagonia, Neuquen Province, Argentina</Title>
+		<Journal>Geobios</Journal>
+		<Volume>39</Volume>
+		<Pages>695-707</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Jobaria</List>
+		<List>CAMARASAUROMORPHA</List>
+		<List>Haplocanthosaurus</List>
+		<List>Zapalasaurus</List>
+		<List>Limaysaurus</List>
+		<List>Nigersaurus</List>
+		<List>Rebbachisaurus</List>
+		<List>Amazonsaurus</List>
+		<List>Suuwassea</List>
+		<List>Dicraeosaurus</List>
+		<List>Amargasaurus</List>
+		<List>Apatosaurus</List>
+		<List>Diplodocus</List>
+		<List>Barosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="37">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Salgado_etal_2006a</Filename>
+	<Parent>Wilson_2002a</Parent>
+	<Sibling/>
+</SourceTree>

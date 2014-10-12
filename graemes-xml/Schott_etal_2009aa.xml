@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Schott, R. K.</List>
+			<List>Evans, D. C.</List>
+			<List>Williamson, T. E.</List>
+			<List>Carr, T. D.</List>
+			<List>Goodwin, M. B.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>The anatomy and systematics of <em>Colepiocephale lambei</em> (Dinosauria: Pachycephalosauridae)</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>29</Volume>
+		<Pages>771-786</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="16">
+		<List>ORNITHOPODA</List>
+		<List>CERATOPSIDAE</List>
+		<List>Stenopelix</List>
+		<List>Wannanosaurus</List>
+		<List>Goyocephale</List>
+		<List>Homalocephale</List>
+		<List>Stegoceras</List>
+		<List>Colepiocephale</List>
+		<List>Tylocephale</List>
+		<List>Prenocephale_prenes</List>
+		<List>Prenocephale_goodwini</List>
+		<List>Prenocephale_brevis</List>
+		<List>Prenocephale_edmontonensis</List>
+		<List>Hanssuesia</List>
+		<List>Stygimoloch</List>
+		<List>Pachycephalosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="49">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Schott_etal_2009aa</Filename>
+	<Parent>Sullivan_2003a</Parent>
+	<Sibling/>
+</SourceTree>

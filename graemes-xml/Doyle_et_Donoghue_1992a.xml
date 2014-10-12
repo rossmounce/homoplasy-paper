@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Doyle, J. A.</List>
+			<List>Donoghue, M. J.</List>
+		</Author>
+		<Year>1992</Year>
+		<Title>Fossils and seed plant phylogeny reanalyzed</Title>
+		<Journal>Brittonia</Journal>
+		<Volume>44</Volume>
+		<Pages>89-106</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="18">
+		<List>Outgroup_to_Seed_Plants</List>
+		<List>Devonian_seed_fern</List>
+		<List>Medullosaceae</List>
+		<List>Callistophyton</List>
+		<List>Cordaitales</List>
+		<List>Coniferales</List>
+		<List>Ginkgoales</List>
+		<List>Corystospermaceae</List>
+		<List>Peltaspermum</List>
+		<List>Cycadales</List>
+		<List>Glossopteridales</List>
+		<List>Caytoniaceae</List>
+		<List>Bennettitales</List>
+		<List>Pentoxylon</List>
+		<List>Ephedra</List>
+		<List>Welwitschia</List>
+		<List>Gnetum</List>
+		<List>angiosperms</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="49">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Doyle_et_Donoghue_1992a</Filename>
+	<Parent>Loconte_et_Stevenson_1990a</Parent>
+	<Sibling/>
+</SourceTree>

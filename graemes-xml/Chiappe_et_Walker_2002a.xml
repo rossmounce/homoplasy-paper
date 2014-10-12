@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Chiappe, L. M.</List>
+			<List>Walker, C. A.</List>
+		</Author>
+		<Year>2002</Year>
+		<Title>Skeletal morphology and systematics of the Cretaceous Euenantiornithes (Ornithothoraces: Enantiornithes)</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>240-267</Pages>
+		<Booktitle>Mesozoic Birds: Above the Heads of Dinosaurs</Booktitle>
+		<Publisher>University of California Press</Publisher>
+		<City>Berkeley</City>
+		<Editor>
+			<List>Chiappe, L. M.</List>
+			<List>Witmer, L. M.</List>
+		</Editor>
+	</Source>
+	<Taxa number="17">
+		<List>A._lithographica</List>
+		<List>H._thompsoni</List>
+		<List>C._lacustris</List>
+		<List>S._santensis</List>
+		<List>G._minuta</List>
+		<List>L._bretincola</List>
+		<List>S._australis</List>
+		<List>Y._brevipedalis</List>
+		<List>A._gloriae</List>
+		<List>E._leali</List>
+		<List>N._volans</List>
+		<List>B._zenghi</List>
+		<List>N._eos</List>
+		<List>O._genghisi</List>
+		<List>A._antecedens</List>
+		<List>E._hoyasi</List>
+		<List>E._buhleri</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="36">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Chiappe_et_Walker_2002a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Gauthier, J. A.</List>
+			<List>Kluge, A. G.</List>
+			<List>Rowe, T.</List>
+		</Author>
+		<Year>1988</Year>
+		<Title>The early evolution of the Amniota</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>103-155</Pages>
+		<Booktitle>The Phylogeny and Classification of the Tetrapods, Volume 1: Amphibians, Reptiles, Birds</Booktitle>
+		<Publisher>Clarendon Press</Publisher>
+		<City>Oxford</City>
+		<Editor>
+			<List>Benton, M. J.</List>
+		</Editor>
+	</Source>
+	<Taxa number="15">
+		<List>Outgroup</List>
+		<List>Anthracosauroideae</List>
+		<List>Seymouriamorpha</List>
+		<List>Solenodonsaurus</List>
+		<List>Diadectomorpha</List>
+		<List>Synapsida</List>
+		<List>Pareiasauria</List>
+		<List>Mesosauridae</List>
+		<List>Millerettidae</List>
+		<List>Procolophonia</List>
+		<List>Captorhinidae</List>
+		<List>Testudines</List>
+		<List>Paleothyris</List>
+		<List>Araeoscelidia</List>
+		<List>Sauria</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="94">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Gauthier_etal_1988b</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

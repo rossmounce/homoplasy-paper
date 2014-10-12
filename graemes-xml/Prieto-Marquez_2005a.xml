@@ -1,0 +1,44 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Prieto-Marquez, A.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>New information on the cranium of Brachylophosaurus canadensis (Dinosauria, Hadrosauridae), with a revision of it's phylogenetic position</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>25</Volume>
+		<Pages>144-156</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="10">
+		<List>I._bernissartensis</List>
+		<List>P._byrdi</List>
+		<List>T._transsylvanicus</List>
+		<List>H._stebingeri</List>
+		<List>E._annectens</List>
+		<List>P._blackfeetensis</List>
+		<List>S._osborni</List>
+		<List>Gryposaurus_sp.</List>
+		<List>B._canadensis</List>
+		<List>M._peeblesorum</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="47">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Prieto-Marquez_2005a</Filename>
+	<Parent>Horner_etal_2004a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Mannion, P. D.</List>
+			<List>Upchurch, P.</List>
+			<List>Mateus, O.</List>
+			<List>Barnes, R. N.</List>
+			<List>Jones, M. E. H.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>New information on the anatomy and systematic position of <em>Dinheirosaurus lourinhanensis</em> (Sauropoda: Diplodocoidea) from the Late Jurassic of Portugal, with a review of European diplodocoids</Title>
+		<Journal>Journal of Systematic Palaeontology</Journal>
+		<Volume>10</Volume>
+		<Pages>521-551</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="27">
+		<List>Shunosaurus</List>
+		<List>Omeisaurus</List>
+		<List>Jobaria</List>
+		<List>Camarasaurus</List>
+		<List>Losillasaurus</List>
+		<List>Brachiosaurus</List>
+		<List>Australodocus</List>
+		<List>Haplocanthosaurus</List>
+		<List>Amphicoelias</List>
+		<List>Apatosaurus</List>
+		<List>Dinheirosaurus</List>
+		<List>Supersaurus</List>
+		<List>Tornieria</List>
+		<List>Barosaurus</List>
+		<List>Diplodocus</List>
+		<List>Suuwassea</List>
+		<List>Amargasaurus</List>
+		<List>Brachytrachelopan</List>
+		<List>Dicraeosaurus</List>
+		<List>Amazonsaurus</List>
+		<List>Histriasaurus</List>
+		<List>Rebbachisaurus</List>
+		<List>Zapalasaurus</List>
+		<List>Limaysaurus</List>
+		<List>Cathartesaura</List>
+		<List>Nigersaurus</List>
+		<List>Demandasaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="198">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Mannion_etal_2012aa</Filename>
+	<Parent>Whitlock_2011a</Parent>
+	<Sibling>Mannion_etal_2012ab</Sibling>
+</SourceTree>

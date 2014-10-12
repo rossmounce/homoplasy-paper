@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sander, P. M.</List>
+			<List>Mateus, O.</List>
+			<List>Laven, T.</List>
+			<List>Knotschke, N.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>Bone histology indicates insular dwarfism in a new Late Jurassic sauropod dinosaur</Title>
+		<Journal>Nature</Journal>
+		<Volume>441</Volume>
+		<Pages>739-741</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="13">
+		<List>Herrerasaurus</List>
+		<List>Omeisaurus</List>
+		<List>Euhelopus</List>
+		<List>Diplodocoidea</List>
+		<List>Atlasaurus</List>
+		<List>Camarasaurus</List>
+		<List>Europasaurus</List>
+		<List>Brachiosaurus</List>
+		<List>Cedarosaurus</List>
+		<List>Lapparentosaurus</List>
+		<List>Phuwiangosaurus</List>
+		<List>Pleurocoelus_dash_tex</List>
+		<List>higher_Titanosauria</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="316">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sander_etal_2006ac</Filename>
+	<Parent>Upchurch_etal_2004b</Parent>
+	<Sibling/>
+</SourceTree>

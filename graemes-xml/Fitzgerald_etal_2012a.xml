@@ -1,0 +1,60 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Fitzgerald, E. M. G.</List>
+			<List>Carrano, M. T.</List>
+			<List>Holland, T.</List>
+			<List>Wagstaff, B. E.</List>
+			<List>Pickering, D.</List>
+			<List>Rich, T. H.</List>
+			<List>Vickers-Rich, P.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>First ceratosaurian dinosaur from Australia</Title>
+		<Journal>Naturwissenschaften</Journal>
+		<Volume>99</Volume>
+		<Pages>397-407</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="20">
+		<List>Herrerasaurus</List>
+		<List>Dilophosaurus</List>
+		<List>Cryolophosaurus</List>
+		<List>Coelophysis</List>
+		<List>Elaphrosaurus</List>
+		<List>Ceratosaurus</List>
+		<List>Aucasaurus</List>
+		<List>Majungasaurus</List>
+		<List>Masiakasaurus</List>
+		<List>Xenotarsosaurus</List>
+		<List>Deltadromeus</List>
+		<List>NMV_P221202</List>
+		<List>Eustreptospondylus</List>
+		<List>Sinraptor</List>
+		<List>Allosaurus</List>
+		<List>Australovenator</List>
+		<List>Guanlong</List>
+		<List>Tyrannosaurus</List>
+		<List>Deinonychus</List>
+		<List>NMV_P150070</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="13">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Fitzgerald_etal_2012a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

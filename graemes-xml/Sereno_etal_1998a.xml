@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sereno, P. C.</List>
+			<List>Beck, A. L.</List>
+			<List>Dutheil, D. B.</List>
+			<List>Gado, B.</List>
+			<List>Larsson, H. C. E.</List>
+			<List>Marcot, J. D.</List>
+			<List>Rauhut, O. W. M.</List>
+			<List>Sadleir, R. W.</List>
+			<List>Sidor, C. A.</List>
+			<List>Varricchio, D. J.</List>
+			<List>Wilson, G. P.</List>
+			<List>Wilson, J. A.</List>
+		</Author>
+		<Year>1998</Year>
+		<Title>A long-snouted predatory dinosaur from Africa and the evolution of spinosaurids</Title>
+		<Journal>Science</Journal>
+		<Volume>282</Volume>
+		<Pages>1298-1302</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="8">
+		<List>Ceratosauria</List>
+		<List>Neotetanurae</List>
+		<List>Eustreptospondylus</List>
+		<List>Torvosaurus</List>
+		<List>Baryonyx</List>
+		<List>Suchomimus</List>
+		<List>Irritator</List>
+		<List>Spinosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="45">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sereno_etal_1998a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

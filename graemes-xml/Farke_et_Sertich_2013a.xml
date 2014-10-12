@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Farke, A. A.</List>
+			<List>Sertich, J. J. W.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>An abelisauroid theropod dinosaur from the Turonian of Madagascar</Title>
+		<Journal>PLOS One</Journal>
+		<Volume>8</Volume>
+		<Pages>e62047</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="30">
+		<List>Herrerasaurus</List>
+		<List>Syntarsus</List>
+		<List>Allosaurus</List>
+		<List>Abelisaurus</List>
+		<List>Aucasaurus</List>
+		<List>Berberosaurus</List>
+		<List>Camarillasaurus</List>
+		<List>Carnotaurus</List>
+		<List>Ceratosaurus</List>
+		<List>Dahalokely</List>
+		<List>Deltadromeus</List>
+		<List>Ekrixinatosaurus</List>
+		<List>Elaphrosaurus</List>
+		<List>Eoabelisaurus</List>
+		<List>Genusaurus</List>
+		<List>Genyodectes</List>
+		<List>Ilokelesia</List>
+		<List>Indosaurus</List>
+		<List>Kryptops</List>
+		<List>Laevisuchus</List>
+		<List>Limusaurus</List>
+		<List>Majungasaurus</List>
+		<List>Masiakasaurus</List>
+		<List>Noasaurus</List>
+		<List>Rahiolisaurus</List>
+		<List>Rajasaurus</List>
+		<List>Rugops</List>
+		<List>Skorpiovenator</List>
+		<List>Spinostropheus</List>
+		<List>Velocisaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="193">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Farke_et_Sertich_2013a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

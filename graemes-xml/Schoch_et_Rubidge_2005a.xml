@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Schoch, R. R.</List>
+			<List>Rubidge, B. S.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>The amphibamid <em>Micropholis</em> from the Lystrosaurus Assemblage Zone of Suth Africa</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>25</Volume>
+		<Pages>502-522</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Dendrerpeton_acadianum</List>
+		<List>Sclerocephalus_haeuseri</List>
+		<List>Eryopidae</List>
+		<List>Micromelepeton_credneri</List>
+		<List>Amphibamus_grandiceps</List>
+		<List>Platyrhinops_lyelli</List>
+		<List>Doleserpeton_annectens</List>
+		<List>Eosscopus_lockardi</List>
+		<List>Micropholis_stowi</List>
+		<List>Tersomius_sp</List>
+		<List>Ecolsonia_cutlerensis</List>
+		<List>Trematopidae</List>
+		<List>Dissorophinae</List>
+		<List>Cacopinae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="47">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Schoch_et_Rubidge_2005a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,99 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ramirez-Velasco, A. A.</List>
+			<List>Benammi, M.</List>
+			<List>Prieto-Marquez, A.</List>
+			<List>Ortega, J. A.</List>
+			<List>Hernandez-Rivera, R.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>Huehuecanauhtlus tiquichensis, a new hadrosauroid dinosaur (Ornithischia: Ornithopoda) from the Santonian (Late Cretaceous) of Michoacan, Mexico</Title>
+		<Journal>Canadian Journal of Earth Sciences</Journal>
+		<Volume>49</Volume>
+		<Pages>379-395</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="61">
+		<List>Iguanodon_bernissartensis</List>
+		<List>Eolambia_caroljonesa</List>
+		<List>Equijubus_normani</List>
+		<List>Probactrosaurus_gobiensis</List>
+		<List>Protohadros_byrdi</List>
+		<List>Bactrosaurus_johnsoni</List>
+		<List>Gilmoreosaurus_mongoliensis</List>
+		<List>Tanius_sinensis</List>
+		<List>Glishades_ericksoni</List>
+		<List>Cedrorestes_crichtoni</List>
+		<List>Fukuisaurus_tetoriensis</List>
+		<List>Shuangmiaosaurus_gilmorei</List>
+		<List>Nanyangosaurus_zhugeii</List>
+		<List>Jinzhousaurus_yangi</List>
+		<List>Penelopognathus_weishampeli</List>
+		<List>Tethyshadros_insularis</List>
+		<List>Hadrosaurus_foulkii</List>
+		<List>Telmatosaurus_transsylvanicus</List>
+		<List>Lophorhothon_atopus</List>
+		<List>Wulagasaurus_dongi</List>
+		<List>Sahaliyania_elunchunorum</List>
+		<List>Amurosaurus_riabinini</List>
+		<List>Aralosaurus_tuberiferus</List>
+		<List>Brachylophosaurus_canadensis</List>
+		<List>Maiasaura_peeblesorum</List>
+		<List>Two_Medicine_saurolophine</List>
+		<List>Charonosaurus_jiayinensis</List>
+		<List>Corythosaurus_casuarius</List>
+		<List>Corythosaurus_intermedius</List>
+		<List>Hypacrosaurus_stebingeri</List>
+		<List>Hypacrosaurus_altispinus</List>
+		<List>Lambeosaurus_lambei</List>
+		<List>Lambeosaurus_magnicristatus</List>
+		<List>Edmontosaurus_annectens</List>
+		<List>Edmontosaurus_regalis</List>
+		<List>Kerberosaurus_manakini</List>
+		<List>Lambeosaurus_laticaudus</List>
+		<List>Velafrons_coahuilensis</List>
+		<List>Jaxartosaurus_aralensis</List>
+		<List>Kritosaurus_navajovius</List>
+		<List>Gryposaurus_notabilis</List>
+		<List>Gryposaurus_latidens</List>
+		<List>Gryposaurus_monumentensis</List>
+		<List>Olorotitan_ararhensis</List>
+		<List>Parasaurolophus_walkeri</List>
+		<List>Parasaurolophus_cyrtocristatus</List>
+		<List>Parasaurolophus_tubicen</List>
+		<List>Prosaurolophus_maximus</List>
+		<List>Secernosaurus_koerneri</List>
+		<List>Salitral_Moreno_saurolophine</List>
+		<List>Big_Bend_UTEP_saurolophine</List>
+		<List>Saurolophus_osborni</List>
+		<List>Saurolophus_angustirostris</List>
+		<List>Shantungosaurus_giganteus</List>
+		<List>Pararhabdodon_isonensis</List>
+		<List>Tsintaosaurus_spinorhinus</List>
+		<List>Sabinos_saurolophine</List>
+		<List>Huehuecanauhtlus_tiquichensis</List>
+		<List>Jeyawati_rugoculus</List>
+		<List>Jintasaurus_meniscus</List>
+		<List>Levnesovia_transoxiana</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="287">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ramirez-Velasco_etal_2012a</Filename>
+	<Parent>Prieto-Marquez_2010b</Parent>
+	<Sibling/>
+</SourceTree>

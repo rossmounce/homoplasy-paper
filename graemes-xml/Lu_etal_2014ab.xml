@@ -1,0 +1,64 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lu, J.-C.</List>
+			<List>Yi, L.-Q.</List>
+			<List>Brusatte, S. L.</List>
+			<List>Yang, L.</List>
+			<List>Li, H.</List>
+			<List>Chen, L.</List>
+		</Author>
+		<Year>2014</Year>
+		<Title>A new clade of Asian Late Cretaceous long-snouted tyrannosaurids</Title>
+		<Journal>Nature Communications</Journal>
+		<Volume>5</Volume>
+		<Pages>3788</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="25">
+		<List>Allosaurus</List>
+		<List>Maniraptora</List>
+		<List>Ornithomimos</List>
+		<List>Compsogs</List>
+		<List>Kileskus</List>
+		<List>Guanlong</List>
+		<List>Proceratosaurus</List>
+		<List>Dilong</List>
+		<List>Eotyrannus</List>
+		<List>Juratyrant</List>
+		<List>Xiongguanlong</List>
+		<List>Raptorex</List>
+		<List>Dryptosaurus</List>
+		<List>Appalachiosaurus</List>
+		<List>Albertosaurus</List>
+		<List>Gorgosaurus</List>
+		<List>A_remotus</List>
+		<List>A_altai</List>
+		<List>Qianzhousaurus</List>
+		<List>Daspletosaurus</List>
+		<List>Tarbosaurus</List>
+		<List>Tyrannosaurus</List>
+		<List>Bistahieversor</List>
+		<List>Teratophoneus</List>
+		<List>Sinotyrannus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="317">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lu_etal_2014ab</Filename>
+	<Parent>Brusatte_et_Benson_inpressa</Parent>
+	<Sibling/>
+</SourceTree>

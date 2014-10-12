@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Moyne, S.</List>
+			<List>Neige, P.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>Cladistic analysis of the Middle Jurassic ammonite radiation</Title>
+		<Journal>Geological Magazine</Journal>
+		<Volume>141</Volume>
+		<Pages>115-123</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List>Rarenodia</List>
+		<List>Erycites</List>
+		<List>Abbasites</List>
+		<List>Riccardiceras</List>
+		<List>Docidoceras</List>
+		<List>Mollistephanus</List>
+		<List>Hammatoceras</List>
+		<List>Euhoploceras</List>
+		<List>Eudmetoceras</List>
+		<List>Csernyeiceras</List>
+		<List>Praestrigites</List>
+		<List>Bradfordia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="16">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Moyne_et_Neige_2004a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

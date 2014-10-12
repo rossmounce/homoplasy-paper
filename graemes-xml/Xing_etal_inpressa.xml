@@ -1,0 +1,76 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Xing, L.</List>
+			<List>Miyashita, T.</List>
+			<List>Currie, P. J.</List>
+			<List>You, H.</List>
+			<List>Dong, Z.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>A new basal eusauropod from the Middle Jurassic of Yunnan, China, and faunal compositions and transitions of Asian sauropodomorph dinosaurs</Title>
+		<Journal>Acta Palaeontologica Polonica</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="38">
+		<List>Theropoda</List>
+		<List>Plateosaurus</List>
+		<List>Thecodontosaurus</List>
+		<List>Vulcanodon</List>
+		<List>Barapasarus_Nair</List>
+		<List>Shunosaurus</List>
+		<List>Patagosaurus</List>
+		<List>Omeisaurus</List>
+		<List>Mamenchisaurus</List>
+		<List>Apatosaurus</List>
+		<List>Barosaurus</List>
+		<List>Brachiosaurus</List>
+		<List>Camarasaurus</List>
+		<List>Dicraeosaurus</List>
+		<List>Diplodocus</List>
+		<List>Haplocanthosaurus</List>
+		<List>Amargasaurus</List>
+		<List>Euhelopus</List>
+		<List>Jobaria</List>
+		<List>Malawisaurus</List>
+		<List>Nigersaurus</List>
+		<List>Limaysaurus</List>
+		<List>Rebbachisaurus</List>
+		<List>Alamosaurus</List>
+		<List>Nemegtosaurus</List>
+		<List>Opisthocoelicaudia</List>
+		<List>Rapetosaurus</List>
+		<List>Saltasaurus</List>
+		<List>Isisaurus</List>
+		<List>Losillasaurus</List>
+		<List>Suuwassea</List>
+		<List>Nebulasaurus</List>
+		<List>Spinophorosaurus</List>
+		<List>Tornieria</List>
+		<List>Lirainosaurus</List>
+		<List>Atlasaurus</List>
+		<List>Turiasaurus</List>
+		<List>Yuanmousaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="344">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Xing_etal_inpressa</Filename>
+	<Parent>Harris_2006a</Parent>
+	<Sibling/>
+</SourceTree>

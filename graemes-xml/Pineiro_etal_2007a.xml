@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Pineiro, G.</List>
+			<List>Marsicano, C.</List>
+			<List>Lorenzo, N.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>A new temnospondyl from the Permo-Triassic Buena Vista Formation of Uruguay</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>50</Volume>
+		<Pages>627-640</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="13">
+		<List>Dendrerpeton</List>
+		<List>Dvinosaurus</List>
+		<List>Thabanchuia</List>
+		<List>Archegosauroidea</List>
+		<List>Peltobatrachus</List>
+		<List>Rhinesuchidae</List>
+		<List>Lydekkerina</List>
+		<List>Trematosauria</List>
+		<List>Laidleria</List>
+		<List>Plagiosauridae</List>
+		<List>Rhytidosteidae</List>
+		<List>Mastodonsauridae</List>
+		<List>Uruyiella</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="58">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Pineiro_etal_2007a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

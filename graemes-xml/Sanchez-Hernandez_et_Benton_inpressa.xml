@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sanchez-Hernandez, B.</List>
+			<List>Benton, M. J.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>Filling the ceratosaur gap: a new ceratosaurian theropod from the Early Cretaceous of Spain</Title>
+		<Journal>Acta Palaeontologica Polonica</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="23">
+		<List>Herrerasaurus</List>
+		<List>Syntarsus</List>
+		<List>Allosaurus</List>
+		<List>Spinostropheus</List>
+		<List>Elaphrosaurus</List>
+		<List>Deltadromeus</List>
+		<List>Ceratosaurus</List>
+		<List>Ekrixinatosaurus</List>
+		<List>Rugops</List>
+		<List>Ilokelesia</List>
+		<List>Aucasaurus</List>
+		<List>Carnotaurus</List>
+		<List>Abelisaurus</List>
+		<List>Rajasaurus</List>
+		<List>Indosaurus</List>
+		<List>Majungatholus</List>
+		<List>Genusaurus</List>
+		<List>Laevisuchus</List>
+		<List>Masiakasaurus</List>
+		<List>Noasaurus</List>
+		<List>Velocisaurus</List>
+		<List>Camarillasaurus</List>
+		<List>Limusaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="151">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sanchez-Hernandez_et_Benton_inpressa</Filename>
+	<Parent>Carrano_et_Sampson_2008a</Parent>
+	<Sibling/>
+</SourceTree>

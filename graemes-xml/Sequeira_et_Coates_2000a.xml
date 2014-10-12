@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sequeira, S. E. K.</List>
+			<List>Coates, M. I.</List>
+		</Author>
+		<Year>2000</Year>
+		<Title>Reassessment of '<em>Cladodus</em>' <em>neilsoni</em> Traquair: a primitive shark from the Lower Carboniferous of East Kilbride, Scotland</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>43</Volume>
+		<Pages>153-172</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="13">
+		<List>Mimia</List>
+		<List>Gutturensis_neilsoni</List>
+		<List>C_wildungensis</List>
+		<List>Cobelodus</List>
+		<List>Helodus</List>
+		<List>Hybodus</List>
+		<List>Stethacanthus</List>
+		<List>Tristychius</List>
+		<List>Tamiobatis_sp</List>
+		<List>Tamiobatis_vetustus</List>
+		<List>Orthacanthus</List>
+		<List>Acanthodes</List>
+		<List>Kujdanowiaspis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="23">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sequeira_et_Coates_2000a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

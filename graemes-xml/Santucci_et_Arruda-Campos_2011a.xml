@@ -1,0 +1,73 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Santucci, R. M.</List>
+			<List>Arruda-Campos, A. C.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>A new sauropod (Macronaria, Titanosauria) from the Adamantina Formation, Bauru Group, Upper Cretaceous of Brazil and the phylogenetic relationships of Aeolosaurini</Title>
+		<Journal>Zootaxa</Journal>
+		<Volume>3085</Volume>
+		<Pages>1-33</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="38">
+		<List>THEROPODA</List>
+		<List>PROSAUROPODA</List>
+		<List>Vulcanodon</List>
+		<List>Shunosaurus</List>
+		<List>Barapasaurus</List>
+		<List>Patagosaurus</List>
+		<List>Omeisaurus</List>
+		<List>Mamenchisaurus</List>
+		<List>Jobaria</List>
+		<List>Haplocanthosaurus</List>
+		<List>Apatosaurus</List>
+		<List>Barosaurus</List>
+		<List>Diplodocus</List>
+		<List>Dicraeosaurus</List>
+		<List>Amargasaurus</List>
+		<List>Nigersaurus</List>
+		<List>Rayososaurus</List>
+		<List>Rebbachisaurus</List>
+		<List>Camarasaurus</List>
+		<List>Brachiosaurus</List>
+		<List>Euhelopus</List>
+		<List>Malawisaurus</List>
+		<List>Muyelensaurus_pecheni</List>
+		<List>I._colberti</List>
+		<List>Baurutitan_britoi</List>
+		<List>Alamosaurus</List>
+		<List>Opisthocoelicaudia</List>
+		<List>Neuquensaurus</List>
+		<List>Saltasaurus</List>
+		<List>Maxakalisaurus_topai</List>
+		<List>Rinconsaurus_caudamirus</List>
+		<List>Panamericansaurus_schroederi</List>
+		<List>Gondwanatitan_faustoi</List>
+		<List>Aeolosaurus_maximus</List>
+		<List>Aeolosaurus_rionegrinus</List>
+		<List>Aeolosaurus_colhuehuapensis</List>
+		<List>Nemegtosaurus</List>
+		<List>Rapetosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="241">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Santucci_et_Arruda-Campos_2011a</Filename>
+	<Parent>Wilson_2002a</Parent>
+	<Sibling/>
+</SourceTree>

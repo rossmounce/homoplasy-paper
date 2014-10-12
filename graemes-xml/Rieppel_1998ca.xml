@@ -1,0 +1,64 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Rieppel, O.</List>
+		</Author>
+		<Year>1998</Year>
+		<Title>The systematic status of <em>Hanosaurus hupehensis</em> (Reptilia, Sauropterygia) from the Triassic of China</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>18</Volume>
+		<Pages>545-557</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="30">
+		<List>Ancestor</List>
+		<List>Captorhinidae</List>
+		<List>Testudines</List>
+		<List>Araeoscelidia</List>
+		<List>Younginiformes</List>
+		<List>Kuehneosauridae</List>
+		<List>Rhynchocephalia</List>
+		<List>Squamata</List>
+		<List>Rhynchosauria</List>
+		<List>Prolacertiformes</List>
+		<List>Trilophosaurus</List>
+		<List>Choristodera</List>
+		<List>Archosauriformes</List>
+		<List>Claudiosaurus</List>
+		<List>Dactylosaurus</List>
+		<List>Serpiano_dash_Neustico</List>
+		<List>Simosaurus</List>
+		<List>Nothosaurus</List>
+		<List>L_calcagnii</List>
+		<List>L_balsami</List>
+		<List>L_curi0nii</List>
+		<List>L_valceresii</List>
+		<List>L_huzzii</List>
+		<List>Corosaurus</List>
+		<List>Cymatosaurus</List>
+		<List>Germanosaurus</List>
+		<List>Pistosaurus</List>
+		<List>Placodus</List>
+		<List>Thalattosauridae</List>
+		<List>Hanosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="122">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Rieppel_1998ca</Filename>
+	<Parent>Rieppel_1997ab</Parent>
+	<Sibling/>
+</SourceTree>

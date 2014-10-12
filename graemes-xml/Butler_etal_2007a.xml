@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Butler, R. J.</List>
+			<List>Smith, R. M. H.</List>
+			<List>Norman, D. B.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>A primitive ornithischian dinosaur from the Late Triassic of South Africa, and the early evolution and diversification of Ornithischia</Title>
+		<Journal>Proceedings of the Royal Society of London B</Journal>
+		<Volume>274</Volume>
+		<Pages>2041-2046</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="27">
+		<List>Marasuchus_lilloensis</List>
+		<List>Herrerasaurus_ischigualastensis</List>
+		<List>Pisanosaurus_mertii</List>
+		<List>Abrictosaurus_consors</List>
+		<List>BMNH_A100</List>
+		<List>Heterodontosaurus_tucki</List>
+		<List>Eocursor_parvus</List>
+		<List>Lesothosaurus_diagnosticus</List>
+		<List>Stormbergia_dangershoeki</List>
+		<List>Agilisaurus_louderbacki</List>
+		<List>Hexinlusaurus_multidens</List>
+		<List>Othnieliosaurus_celer</List>
+		<List>Psittacosaurus</List>
+		<List>Yinlong_downsi</List>
+		<List>Chaoyangsaurus_youngi</List>
+		<List>Archaeoceratops_oshimai</List>
+		<List>Liaoceratops_yanzigouensis</List>
+		<List>Stenopelix_valdensis</List>
+		<List>Wannanosaurus_yansiensis</List>
+		<List>Goyocephale_lattimorei</List>
+		<List>Homalocephale_calathocercos</List>
+		<List>Orodromeus_makelai</List>
+		<List>Hypsilophodon_foxii</List>
+		<List>Jeholosaurus_shangyuanensis</List>
+		<List>Emausaurus_ernsti</List>
+		<List>Scelidosaurus_harrisonii</List>
+		<List>Scutellosaurus_lawleri</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="150">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Butler_etal_2007a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

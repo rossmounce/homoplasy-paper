@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Steyer, J. S.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>A revision of the Early Triassic &quot;capitosaurs&quot; (Stegocephali, Stereopsondyli) from Madagascar, with remarks on their comparative ontogeny</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>23</Volume>
+		<Pages>544-555</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List>Archegosaurus</List>
+		<List>Eryops</List>
+		<List>Benthosuchus</List>
+		<List>Eryosuchus</List>
+		<List>Mastodonsaurus</List>
+		<List>Parotosuchus</List>
+		<List>Watsonisuchus_aliciae</List>
+		<List>Watsonisuchus_gunganj</List>
+		<List>Watsonisuchus_madagascariensis</List>
+		<List>Watsonisuchus_magnus</List>
+		<List>Watsonisuchus_rewanensis</List>
+		<List>Wetlugasaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="39">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Steyer_2003a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

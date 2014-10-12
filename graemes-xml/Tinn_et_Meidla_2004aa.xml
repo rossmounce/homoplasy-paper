@@ -1,0 +1,70 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Tinn, O.</List>
+			<List>Meidla, T.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>Phylogenetic relationships of Early-Middle Ordovician ostracods of Baltoscandia</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>47</Volume>
+		<Pages>199-221</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="35">
+		<List>Hesslandona</List>
+		<List>Nanopsis_nanella</List>
+		<List>Unisulcopleura_tolmachovae</List>
+		<List>H_proximus</List>
+		<List>D_lauta</List>
+		<List>B_angustolobata</List>
+		<List>T_primaria</List>
+		<List>P_grewingkii</List>
+		<List>Conchoprimitia</List>
+		<List>R_mitis</List>
+		<List>U_punctosulcata</List>
+		<List>L_ansiensis</List>
+		<List>B_palmata</List>
+		<List>O_bocki</List>
+		<List>I_ventroincisurata</List>
+		<List>U_irrete</List>
+		<List>T_lanceolata</List>
+		<List>G_digitatus</List>
+		<List>A_simplex</List>
+		<List>E_nonumbonatus</List>
+		<List>L_decumana</List>
+		<List>U_cicatriosa</List>
+		<List>C_levis</List>
+		<List>A_acuta</List>
+		<List>Baltonotella</List>
+		<List>P_procerus</List>
+		<List>E_reticulogranulatus</List>
+		<List>E_effusus</List>
+		<List>E_anisus</List>
+		<List>T_viridis</List>
+		<List>L_curvata</List>
+		<List>G_grandispinosus</List>
+		<List>H_macroreticulata</List>
+		<List>E_sigma</List>
+		<List>O_cornuta</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="44">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Tinn_et_Meidla_2004aa</Filename>
+	<Parent/>
+	<Sibling>Tinn_et_Meidla_2004ab</Sibling>
+</SourceTree>

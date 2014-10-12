@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Maisch, M. W.</List>
+		</Author>
+		<Year>2002</Year>
+		<Title>A new basal lystrosaurid dicynodont from the Upper Permian of South Africa</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>45</Volume>
+		<Pages>343-359</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Pristerodon_mckayi</List>
+		<List>Cteniosaurus_platyceps</List>
+		<List>Oudenodon_bainii</List>
+		<List>Rhachiocephalus_magnus</List>
+		<List>Platycyclops_crassus</List>
+		<List>Propelanomodon_devilliersi</List>
+		<List>Aulacephalodon_bainii</List>
+		<List>Pelanomodon_tuberosus</List>
+		<List>Odontocyclops_dubius</List>
+		<List>Lystrosaurus_murrayi</List>
+		<List>Kwazulusaurus_shakai</List>
+		<List>Dicynodon_lacerticeps</List>
+		<List>Kannemeyeria_simocephala</List>
+		<List>Dinanomodon_rubidgei</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="31">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Maisch_2002a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

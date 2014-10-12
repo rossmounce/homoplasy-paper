@@ -1,0 +1,74 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Kurochkin, E. N.</List>
+		</Author>
+		<Year>1996</Year>
+		<Title>A new enantiornithid of the Mongolian Late Cretaceous, and a general appraisal of the infraclass Enantiornithes (Aves)</Title>
+		<Journal>Russian Academy of Sciences: Palaeontological Institute</Journal>
+		<Volume> Moscow</Volume>
+		<Pages>60pp</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="40">
+		<List>Archaeornithes</List>
+		<List>N._gonzalezi</List>
+		<List>I._romerali</List>
+		<List>C._lacustris</List>
+		<List>S._santensis</List>
+		<List>C._yandica</List>
+		<List>B._zhengi</List>
+		<List>A._antecedens</List>
+		<List>K._cretacea</List>
+		<List>S._prisca</List>
+		<List>Nanantius_eos</List>
+		<List>N._valifanovi</List>
+		<List>G._minuta</List>
+		<List>embryo_Mgr_1_slash_34_comma_slash_88</List>
+		<List>N._volans</List>
+		<List>Z._kashkarovi</List>
+		<List>Z._logunovi</List>
+		<List>L._maltshevskyi</List>
+		<List>axis_PO_3473</List>
+		<List>Enantiornis_leali</List>
+		<List>humerus_PVL_4054</List>
+		<List>scapula_PVL_4039</List>
+		<List>metacarpus_PVL_4049</List>
+		<List>femur_PVL_4037</List>
+		<List>tibiotarsus_PVL_4033</List>
+		<List>pelvis_PVL_4042</List>
+		<List>Avisaurus_archibaldi</List>
+		<List>A._gloriae</List>
+		<List>S._australis</List>
+		<List>E._walkeri</List>
+		<List>E._martini</List>
+		<List>coracoid_56_slash_11915</List>
+		<List>Y._brevipedalis</List>
+		<List>L._bretincola</List>
+		<List>metatarsus_PO_3394</List>
+		<List>coracoid_PO_4819</List>
+		<List>coracoid_PO_4818</List>
+		<List>Alabama_specimen</List>
+		<List>Ichthyornithes</List>
+		<List>Neornithes</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="122">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix (first 100,000 mpts only).</Notes>
+	<Filename>Kurochkin_1996a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

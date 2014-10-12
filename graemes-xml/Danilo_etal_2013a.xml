@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Danilo, L.</List>
+			<List>Remy, J. A.</List>
+			<List>Vianey-Liaud, M.</List>
+			<List>Marandat, B.</List>
+			<List>Sudre, J.</List>
+			<List>Lihoreau, F.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>A new Eocene locality in southern France sheds light on the basal radiation of Palaeotheriidae (Mammalia, Perissodactyla, Equoidea)</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>33</Volume>
+		<Pages>195-215</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="26">
+		<List>Cardiolophus_radinskyi</List>
+		<List>Hallensia_matthesi</List>
+		<List>Pliolophus_vulpiceps</List>
+		<List>Xenicohippus_osborni</List>
+		<List>Hyracotherium_leporinum</List>
+		<List>Propachynolophus_levei</List>
+		<List>Propachynolophus_maldani</List>
+		<List>Propachynolophus_gaudryi</List>
+		<List>Pachynolophus_hookeri</List>
+		<List>Cymbalophus_cuniculus</List>
+		<List>Hyracotherium_aff_cuniculus</List>
+		<List>Pachynolophus_duvali</List>
+		<List>Pachynolophus_livinierensis</List>
+		<List>Pachynolophus_garimondi</List>
+		<List>Pachynolophus_lavocati</List>
+		<List>Pachynolophus_zambranensis</List>
+		<List>Pachynolophus_boixedatensis</List>
+		<List>Pachynolophus_cesserasicus</List>
+		<List>Pachynolophus_bretovensis</List>
+		<List>Pachynolophus_eulaliensis_sp_nov</List>
+		<List>Anchilophus_dumasi</List>
+		<List>Paranchilophus_remyi</List>
+		<List>Eurohippus_parvulus</List>
+		<List>Lophiotherium_cervulum</List>
+		<List>Palaeotherium_magnum</List>
+		<List>Plagiolophus_minor</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="72">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Danilo_etal_2013a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

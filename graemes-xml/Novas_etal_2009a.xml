@@ -1,0 +1,108 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Novas, F. E.</List>
+			<List>Pol, D.</List>
+			<List>Canale, J. I.</List>
+			<List>Porfiri, J. D.</List>
+			<List>Calvo, J. O.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>A bizarre Cretaceous theropod dinosaur from Patagonia and the evolution of Gondwanan dromaeosaurids</Title>
+		<Journal>Proceedings of the Royal Society of London B</Journal>
+		<Volume>276</Volume>
+		<Pages>1101-1107</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="70">
+		<List>Allosaurus_fragilis</List>
+		<List>Sinraptor_dongi</List>
+		<List>Coelurus_fragilis</List>
+		<List>Dilong_paradoxus</List>
+		<List>Ornitholestes_hermanni</List>
+		<List>Incisivosaurus_gauthieri</List>
+		<List>Caudipteryx_zoui</List>
+		<List>Ingenia_yanshani</List>
+		<List>Citipati_osmolskae</List>
+		<List>Oviraptor_mongoliensis</List>
+		<List>Oviraptor_philoceratops</List>
+		<List>Conchoraptor_gracilis</List>
+		<List>Microvenator_celer</List>
+		<List>Chirostenotes_pergracilis</List>
+		<List>Avimimus_portentosus</List>
+		<List>Segnosaurus_galbinensis</List>
+		<List>Erlikosaurus_andrewsi</List>
+		<List>Alxasaurus_elesitaiensis</List>
+		<List>Mahakala_omnogovae</List>
+		<List>Dromaeosaurus_albertensis</List>
+		<List>Utahraptor_ostrommaysorum</List>
+		<List>Adasaurus_mongoliensis</List>
+		<List>Achillobator_giganticus</List>
+		<List>Tsaagan_mangas</List>
+		<List>Saurornitholestes_langstoni</List>
+		<List>Deinonychus_antirrhopus</List>
+		<List>Velociraptor_mongoliensis</List>
+		<List>Sinornithosaurus_millenii</List>
+		<List>Microraptor_zhaoianus</List>
+		<List>Microraptor_gui</List>
+		<List>Graciliraptor_lujiatunensis</List>
+		<List>Shanag_ashile</List>
+		<List>Buitreraptor_gonzalozorum</List>
+		<List>Rahonavis_ostromi</List>
+		<List>Neuquenraptor_plus_Unenlagia</List>
+		<List>Austroraptor_cabazai</List>
+		<List>EK_troodontid__IGM_100_slash_44_</List>
+		<List>Jinfengopteryx_elegans</List>
+		<List>Sinornithoides_youngi</List>
+		<List>Byronosaurus_jaffei</List>
+		<List>Troodon_formosus</List>
+		<List>Saurornithoides_mongoliensis</List>
+		<List>Saurornithoides_junior</List>
+		<List>Sinovenator_changii</List>
+		<List>Mei_long</List>
+		<List>Archaeopteryx_lithographica</List>
+		<List>Jeholornis_prima</List>
+		<List>Sapeornis_chaoyangensis</List>
+		<List>Confuciusornis_sanctus</List>
+		<List>Apsaravis_ukhaana</List>
+		<List>Yixianornis_grabaui</List>
+		<List>Alvarezsaurus_calvoi</List>
+		<List>Patagonykus_puertai</List>
+		<List>Mononykus_olecranus</List>
+		<List>Shuuvia_deserti</List>
+		<List>Pelecanimimus_polydon</List>
+		<List>Harpymimus_okladnikovi</List>
+		<List>Shenzhousaurus_orientalis</List>
+		<List>Archaeornithomimus_asiaticus</List>
+		<List>Garudimimus_brevipes</List>
+		<List>Struthiomimus_altus</List>
+		<List>Gallimimus_bullatus</List>
+		<List>Ornithomimus_edmonticus</List>
+		<List>Anserimimus_planinychus</List>
+		<List>Huaxiagnathus_orientalis</List>
+		<List>Sinosauropteryx_prima</List>
+		<List>Compsognathus_longipes</List>
+		<List>Daspletosaurus</List>
+		<List>Tyrannosaurus_rex</List>
+		<List>Albertosaurus_libratus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="251">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Novas_etal_2009a</Filename>
+	<Parent>Turner_etal_2007b</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Head, J. J.</List>
+		</Author>
+		<Year>1998</Year>
+		<Title>A new species of basal hadrosaurid (Dinosauria, Ornithischia) from the Cenomanian of Texas</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>18</Volume>
+		<Pages>718-738</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="9">
+		<List>Iguanodon</List>
+		<List>Ouranosaurus</List>
+		<List>Probactrosaurus</List>
+		<List>Protohadros</List>
+		<List>Telmatosaurus</List>
+		<List>Gilmoreosaurus</List>
+		<List>Hadrosaurinae</List>
+		<List>Bactrosaurus</List>
+		<List>Lambeosaurinae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="20">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Head_1998a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

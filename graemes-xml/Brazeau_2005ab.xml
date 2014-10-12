@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Brazeau, M. D.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>A new genus of rhizodontid (Sarcopterygii, Tetrapodomorpha) from the Lower Carboniferous Horton Bluff Formation of Nova Scotia, and the evolution of the lower jaws in this group</Title>
+		<Journal>Canadian Journal of Earth Sciences</Journal>
+		<Volume>42</Volume>
+		<Pages>1481-1499</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Kenichthys</List>
+		<List>Gollongongia</List>
+		<List>Barameda</List>
+		<List>Strepsodus_sauroides</List>
+		<List>Strepsodus_anculonamensis</List>
+		<List>Rhizodus</List>
+		<List>Screbinodus</List>
+		<List>Letognathus</List>
+		<List>Medoevia</List>
+		<List>Eusthenopteron</List>
+		<List>Panderichthys</List>
+		<List>Ventastega</List>
+		<List>Cladarosymblema</List>
+		<List>Gogonasus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="24">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Brazeau_2005ab</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

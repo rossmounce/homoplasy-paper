@@ -1,0 +1,76 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Provete, D. B.</List>
+			<List>Franco-Belussi, L.</List>
+			<List>de Souze Santos, L. R.</List>
+			<List>Zieri, R.</List>
+			<List>Moresco, R. M.</List>
+			<List>Martins, I. A.</List>
+			<List>de Almeida, S. C.</List>
+			<List>de Oliveira, C.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>Phylogenetic signal and variation of visceral pigmentation in eight anuran families</Title>
+		<Journal>Zoologica Scripta</Journal>
+		<Volume>41</Volume>
+		<Pages>547-556</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="35">
+		<List>Ischnocnema_guentheri</List>
+		<List>Ischnocnema_parva</List>
+		<List>Ischnocnema_juipoca</List>
+		<List>Holoaden_leuderwaldti</List>
+		<List>Haddadus_binotatus</List>
+		<List>Dendropsophus_nanus</List>
+		<List>Dendropsophus_minutus</List>
+		<List>Dendropsophus_sanborni</List>
+		<List>Dendropsophus_elianeae</List>
+		<List>Scinax_similis</List>
+		<List>Scinax_fuscovarius</List>
+		<List>Scinax_fuscomarginatus</List>
+		<List>Leptodactylus_bokermanni</List>
+		<List>Leptodactylus_marmoratus</List>
+		<List>Leptodactylus_chaquensis</List>
+		<List>Leptodactylus_latrans</List>
+		<List>Leptodactylus_podicipinus</List>
+		<List>Leptodactylus_labyrinthicus</List>
+		<List>Leptodactylus_fuscus</List>
+		<List>Leptodactylus_mystacinus</List>
+		<List>Leptodactylus_mystaceus</List>
+		<List>Leptodactylus_furnarius</List>
+		<List>Proceratophrys_melanopogon</List>
+		<List>Proceratophrys_boiei</List>
+		<List>Odontophrynus_americanus</List>
+		<List>Pseudopaludicola_cf_falcipes</List>
+		<List>Pseudopaludicola_saltica</List>
+		<List>Eupemphix_nattereri</List>
+		<List>Physalemus_marmoratus</List>
+		<List>Physalaemus_olfersii</List>
+		<List>Physalaemus_centralis</List>
+		<List>Physalaemus_cuvieri</List>
+		<List>Hylodes_sazimai</List>
+		<List>Crossodactylus_gaudichaudii</List>
+		<List>Crossodactylus_caramaschi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="12">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Provete_etal_2012a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

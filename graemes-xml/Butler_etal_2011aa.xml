@@ -1,0 +1,97 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Butler, R. J.</List>
+			<List>Brusatte, S. L.</List>
+			<List>Reich, M.</List>
+			<List>Nesbitt, S. J.</List>
+			<List>Schoch, R. R.</List>
+			<List>Hornung, J. J.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>The sail-backed reptile <em>Ctenosauriscus</em> from the latest Early Triassic of Germany and the timing and biogeography of the early archosaur radiation</Title>
+		<Journal>PLoS One</Journal>
+		<Volume>6</Volume>
+		<Pages>1-28</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="58">
+		<List>Erythrosuchus</List>
+		<List>Euparkeria</List>
+		<List>PROTEROCHAMPSIDAE</List>
+		<List>Scleromochlus</List>
+		<List>Dimorphodon</List>
+		<List>Eudimorphodon</List>
+		<List>Pteranodon</List>
+		<List>Lagerpeton</List>
+		<List>Dromomeron</List>
+		<List>Marasuchus</List>
+		<List>Pseudolagosuchus</List>
+		<List>Lewisuchus</List>
+		<List>Silesaurus</List>
+		<List>Sacisaurus</List>
+		<List>Eucoelophysis</List>
+		<List>Herrerasaurus</List>
+		<List>Coelophysis</List>
+		<List>Plateosaurus</List>
+		<List>Lesothosaurus</List>
+		<List>Psittacosaurus</List>
+		<List>Heterodontosaurus</List>
+		<List>Revuletosaurus</List>
+		<List>Paleorhinus</List>
+		<List>Rutiodon</List>
+		<List>Mystriosuchus</List>
+		<List>Aetosaurus</List>
+		<List>Stagonolepis</List>
+		<List>Desmatosuchus</List>
+		<List>Qianosuchus</List>
+		<List>Fasolasuchus</List>
+		<List>Stagonosuchus</List>
+		<List>Ticinosuchus</List>
+		<List>Yarasuchus</List>
+		<List>Arganasuchus</List>
+		<List>Ornithosuchus</List>
+		<List>Riojasuchus</List>
+		<List>Lotosaurus</List>
+		<List>Arizonasaurus</List>
+		<List>Bromsgroveia</List>
+		<List>Ctenosauriscus</List>
+		<List>WaldhausTaxon</List>
+		<List>Hypselorhachis</List>
+		<List>Poposaurus</List>
+		<List>Sillosuchus</List>
+		<List>Effigia</List>
+		<List>Shuvosaurus</List>
+		<List>Saurosuchus</List>
+		<List>Batrachotomus</List>
+		<List>Prestosuchus</List>
+		<List>Rauisuchus</List>
+		<List>Tikisuchus</List>
+		<List>Postosuchus</List>
+		<List>Polonosuchus</List>
+		<List>Gracilisuchus</List>
+		<List>Erpetosuchus</List>
+		<List>Terrestrisuchus</List>
+		<List>Sphenosuchus</List>
+		<List>Protosuchus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="193">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Butler_etal_2011aa</Filename>
+	<Parent>Brusatte_etal_2010b</Parent>
+	<Sibling/>
+</SourceTree>

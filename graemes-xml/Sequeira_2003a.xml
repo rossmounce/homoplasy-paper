@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sequeira, S. E. K.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>The skull of <em>Cochleosaurus bohemicus</em> Fric, a temnospondyl from the Czech Republic (Upper Carboniferous) and cochleosaurid interrelationships</Title>
+		<Journal>Transactions of the Royal Society of Edinburgh: Earth Sciences</Journal>
+		<Volume>94</Volume>
+		<Pages>21-43</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="17">
+		<List>Outgroup</List>
+		<List>Baphetes</List>
+		<List>Loxomma</List>
+		<List>Eucritta</List>
+		<List>Edops</List>
+		<List>Dendrerpeton</List>
+		<List>Balanerpeton</List>
+		<List>Procochleosaurus</List>
+		<List>Adamanterpeton</List>
+		<List>Cochleosaurus_bohemicus</List>
+		<List>Cochleosaurus_florensis</List>
+		<List>Chenoprosopus_milleri</List>
+		<List>Chenoprosopus_lewisi</List>
+		<List>Acanthostomatops</List>
+		<List>Zatrachys</List>
+		<List>Trimerorhachis_sandovalensis</List>
+		<List>Trimerorhachis_insignis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="61">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sequeira_2003a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

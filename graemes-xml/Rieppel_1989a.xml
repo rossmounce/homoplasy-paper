@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Rieppel, O.</List>
+		</Author>
+		<Year>1989</Year>
+		<Title>A new pachypleurosaur (Reptilia: Sauropterygia) from the Middle Triassic of Monte San Giorgio, Switzerland</Title>
+		<Journal>Philosophical Transactions of the Royal Society of London Series B</Journal>
+		<Volume>323</Volume>
+		<Pages>1-73</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="9">
+		<List>Paleothyris</List>
+		<List>Araeoscelis</List>
+		<List>Petrolacosaurus</List>
+		<List>Coelurosauravus</List>
+		<List>Claudiosaurus</List>
+		<List>Youngina</List>
+		<List>Gephyrosaurus</List>
+		<List>Pachypleurosauridae</List>
+		<List>non_pachypleurosaur_Sauropterygia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="19">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Rieppel_1989a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

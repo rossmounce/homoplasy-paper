@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Longrich, N. R.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>Titanoceratops ouranos, a giant horned dinosaur from the late Campanian of New Mexico</Title>
+		<Journal>Cretaceous Research</Journal>
+		<Volume>32</Volume>
+		<Pages>264-276</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="22">
+		<List>Protoceratops_andrewsi</List>
+		<List>Leptoceratopsidae</List>
+		<List>Zuniceratops_christopheri</List>
+		<List>Turanoceratops</List>
+		<List>Avaceratops_lammersi</List>
+		<List>Centrosaurus_apertus</List>
+		<List>Styracosaurus_albertensis</List>
+		<List>Einiosaurus_procurvicornis</List>
+		<List>Achelousaurus_horneri</List>
+		<List>Pachyrhinosaurus_spp.</List>
+		<List>Chasmosaurus_spp.</List>
+		<List>Mojoceratops_perifania</List>
+		<List>Agujaceratops_mariscalensis</List>
+		<List>Pentaceratops_sternbergii</List>
+		<List>Utahceratops_gettyi</List>
+		<List>Kosmoceratops_richardsoni</List>
+		<List>Anchiceratops_ornatus</List>
+		<List>Arrhinoceratops_brachyops</List>
+		<List>Titanoceratops_ouranous</List>
+		<List>Eotriceratops_xerinsularis</List>
+		<List>Torosaurus_spp.</List>
+		<List>Triceratops_spp.</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="120">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Longrich_2011aa</Filename>
+	<Parent>Longrich_2010a</Parent>
+	<Sibling/>
+</SourceTree>

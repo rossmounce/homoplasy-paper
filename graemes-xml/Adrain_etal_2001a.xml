@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Adrain, J. M.</List>
+			<List>Westrop, S. R.</List>
+			<List>Landing, E.</List>
+			<List>Fortey, R. A.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>Systematics of the Ordovician trilobites <em>Ischyrotoma</em> and <em>Dimeropygiella</em>, with species from the type Ibexian Area, western U.S.A.</Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>75</Volume>
+		<Pages>947-971</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="18">
+		<List>smithiae</List>
+		<List>Ischyrotoma_anataphra</List>
+		<List>Dimeropygiella_blanda</List>
+		<List>Dimeropygiella_cf_blanda</List>
+		<List>Ischyrotoma_borealis</List>
+		<List>Dimeropygiella_caudanodosa</List>
+		<List>Dimeropygiella_fillmorensis</List>
+		<List>Ischyrotoma_juabensis</List>
+		<List>Dimeropygiella_mccormicki</List>
+		<List>Pseudohystricus_obesus</List>
+		<List>Pseudohystricus_orbus</List>
+		<List>Dimeropygiella_ovata</List>
+		<List>Ischyrotoma_parallela</List>
+		<List>stubblefieldi</List>
+		<List>Ischyrotoma_twenhofeli</List>
+		<List>Ischyrotoma_wahwahensis</List>
+		<List>Dimeropygiella_sp</List>
+		<List>T_sp</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="25">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Adrain_etal_2001a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Heckert, A. B.</List>
+			<List>lucas, S. G.</List>
+		</Author>
+		<Year>1999</Year>
+		<Title>A new aetosaur (Reptilia: Archosauria) from the Upper Triassic of Texas and the phylogeny of aetosaurs</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>19</Volume>
+		<Pages>50-68</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Rauisuchia</List>
+		<List>Coahomasuchus</List>
+		<List>Aetosaurus</List>
+		<List>S_robertsoni</List>
+		<List>S_wellesi</List>
+		<List>Longosuchus</List>
+		<List>Lucasuchus</List>
+		<List>Desmatosuchus</List>
+		<List>Acaenasuchus</List>
+		<List>Typothorax</List>
+		<List>Aetosauroides</List>
+		<List>Neoaetosauroides</List>
+		<List>Paratypothorax</List>
+		<List>Redondasuchus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="60">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Heckert_et_Lucas_1999a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

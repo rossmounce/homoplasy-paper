@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sampson, S. D.</List>
+			<List>Lund, E. K.</List>
+			<List>Loewen, M. A.</List>
+			<List>Farke, A. A.</List>
+			<List>Clayton, K. E.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>A remarkable short-snouted horned dinosaur from the Late Cretaceous (late Campanian) of southern Laramidia</Title>
+		<Journal>Proceedings of the Royal Society of London B</Journal>
+		<Volume>280</Volume>
+		<Pages>20131186</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="24">
+		<List>Leptoceratops_gracilis</List>
+		<List>Protoceratops_andrewsi</List>
+		<List>Magnirostris_dodsoni</List>
+		<List>Bagaceratops_rozhdestvenskyi</List>
+		<List>Turanoceratops_tardabilis</List>
+		<List>Zuniceratops_christopheri</List>
+		<List>Chasmosaurus_belli</List>
+		<List>Pentaceratops_sternbergii</List>
+		<List>Diabloceratops_eatoni</List>
+		<List>Albertaceratops_nesmoi</List>
+		<List>Rubeosaurus_ovatus</List>
+		<List>Styracosaurus_albertensis</List>
+		<List>Spinops_sternbergorum</List>
+		<List>Centrosaurus_apertus</List>
+		<List>Coronosaurus_brinkmani</List>
+		<List>Xenoceratops_foremostensis</List>
+		<List>Sinoceratops_zhuchengensis</List>
+		<List>Einiosaurus_procurvicornis</List>
+		<List>Achelousaurus_horneri</List>
+		<List>Pachyrhinosaurus_canadensis</List>
+		<List>Pachyrhinosaurus_lakustai</List>
+		<List>Pachyrhinosaurus_perotorum</List>
+		<List>Avaceratops_lammersi</List>
+		<List>Nasutoceratops_titusi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="97">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sampson_etal_2013a</Filename>
+	<Parent>Farke_etal_2011aa</Parent>
+	<Sibling/>
+</SourceTree>

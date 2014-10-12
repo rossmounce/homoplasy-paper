@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Rieppel, O.</List>
+			<List>Fraser, N. C.</List>
+			<List>Nosotti, S.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>The monophyly of Protorosauria (Reptilia, Archosauromorpha): a preliminary analysis</Title>
+		<Journal>Atti della Societa Italiana di Scienze Naturali e del Museo Civico di Storia Naturale di Milano</Journal>
+		<Volume>144</Volume>
+		<Pages>359-382</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="15">
+		<List>Petrolacosaurus</List>
+		<List>Youngina</List>
+		<List>Rhynchosaurus</List>
+		<List>Trilophosaurus</List>
+		<List>Drepanosaurus</List>
+		<List>Megalancosaurus</List>
+		<List>Protorosaurus</List>
+		<List>Prolacerta</List>
+		<List>Macrocnemus</List>
+		<List>Langobardisaurus</List>
+		<List>T_longobardicus</List>
+		<List>Proterosuchus</List>
+		<List>Euparkeria</List>
+		<List>Jesairosaurus</List>
+		<List>Boreopricea</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="239">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Rieppel_etal_2003bb</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

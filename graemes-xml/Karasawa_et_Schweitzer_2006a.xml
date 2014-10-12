@@ -1,0 +1,80 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Karasawa, H.</List>
+			<List>Schweitzer, C. E.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>A new classification of the Xanthoidea <em>sensu lato</em> (Crustacea: Decapoda: Brachyura) based on phylogenetic analysis and traditional systematics and evaluation of all fossil Xanthoidea <em>sensu lato</em></Title>
+		<Journal>Contributions to Zoology</Journal>
+		<Volume>75</Volume>
+		<Pages>23-73</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="45">
+		<List>Cancer</List>
+		<List>Romaleon</List>
+		<List>Palaeoxanthopsidae</List>
+		<List>Tumidocarcinidae</List>
+		<List>Harpactoxanthopsis</List>
+		<List>Carpilius</List>
+		<List>Pilumnoides</List>
+		<List>Leptodius</List>
+		<List>Etisus</List>
+		<List>Panopeus</List>
+		<List>Eucratopsis</List>
+		<List>Euphrosynoplax</List>
+		<List>Domecia</List>
+		<List>Trapezia</List>
+		<List>Tetralia</List>
+		<List>Halimede</List>
+		<List>Pilumnus</List>
+		<List>Platyxanthus</List>
+		<List>Homalaspis</List>
+		<List>Pseudozius</List>
+		<List>Eriphia</List>
+		<List>Ozius</List>
+		<List>Epixanthus</List>
+		<List>Hypothalassia</List>
+		<List>Menippe</List>
+		<List>Myomenippe</List>
+		<List>Dacryopilumnus</List>
+		<List>Progeryon</List>
+		<List>Mathildella</List>
+		<List>Eucrate</List>
+		<List>Heteroplax</List>
+		<List>Carcinoplax</List>
+		<List>Psopheticus</List>
+		<List>Carinocarcinoides</List>
+		<List>Chasmocarcinus</List>
+		<List>Trogloplax</List>
+		<List>Hexapinus</List>
+		<List>Chaceon</List>
+		<List>Raymanninus</List>
+		<List>Carcinus</List>
+		<List>Nectocarcinus</List>
+		<List>Benthochascon</List>
+		<List>Bathynectes</List>
+		<List>Necora</List>
+		<List>Liocarcinus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="71">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Karasawa_et_Schweitzer_2006a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

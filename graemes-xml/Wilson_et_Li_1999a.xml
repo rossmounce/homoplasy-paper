@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Wilson, M. V. H.</List>
+			<List>Li, G.-Q.</List>
+		</Author>
+		<Year>1999</Year>
+		<Title>Osteology and systematic position of the Eocene salmonid Eosalmo driftwoodensis Wilson from western North America</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>125</Volume>
+		<Pages>279-311</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="16">
+		<List>Novumbra</List>
+		<List>Argentina</List>
+		<List>Hypomesus</List>
+		<List>Prosopium</List>
+		<List>Coregonus</List>
+		<List>Stenodus</List>
+		<List>Thymallus</List>
+		<List>Eosalmo</List>
+		<List>Brachymystax</List>
+		<List>Acantholingua</List>
+		<List>Salmothymus</List>
+		<List>Platysalmo</List>
+		<List>Hucho</List>
+		<List>Salvelinus</List>
+		<List>Salmo</List>
+		<List>Oncorhynchus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="54">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Wilson_et_Li_1999a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

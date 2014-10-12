@@ -1,0 +1,112 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Poropat, S. F.</List>
+			<List>Upchurch, P.</List>
+			<List>Mannion, P. D.</List>
+			<List>Hocknull, S. A.</List>
+			<List>Kear, B. P.</List>
+			<List>Sloan, T.</List>
+			<List>Sinapius, G. H. K.</List>
+			<List>Elliott, D. A.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>Revision of the sauropod dinosaur <em>Diamantinasaurus matildae</em> Hocknull et al. 2009 from the mid-Cretaceous of Australia: implications for Gondwanan titanosauriform dispersal</Title>
+		<Journal>Gondwana Research</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="71">
+		<List>Plateosaurus_engelhardti</List>
+		<List>Chinshakiangosaurus_chunghoensis</List>
+		<List>Mussaurus_patagonicus</List>
+		<List>Antetonitrus_ingenipes</List>
+		<List>Lessemsaurus_sauropoides</List>
+		<List>Gongxianosaurus_shibeiensis</List>
+		<List>Amygdalodon_patagonicus</List>
+		<List>Isanosaurus_attavipachi</List>
+		<List>Vulcanodon_karibaensis</List>
+		<List>Tazoudasaurus_naimi</List>
+		<List>Shunosaurus_lii</List>
+		<List>Barapasaurus_tagorei</List>
+		<List>Cetiosaurus_oxoniensis</List>
+		<List>Patagosaurus_fariasi</List>
+		<List>Omeisaurus</List>
+		<List>Mamenchisaurus</List>
+		<List>Turiasaurus_riodevensis</List>
+		<List>Losillasaurus_giganteus</List>
+		<List>Jobaria_tiguidensis</List>
+		<List>Haplocanthosaurus_priscus</List>
+		<List>Camarasaurus</List>
+		<List>Bellusaurus_sui</List>
+		<List>Galveosaurus_herreroi</List>
+		<List>Tehuelchesaurus_benitezii</List>
+		<List>Tastavinsaurus_sanzi</List>
+		<List>Euhelopus_zdanskyi</List>
+		<List>Brachiosaurus_altithorax</List>
+		<List>Giraffatitan_brancai</List>
+		<List>Paluxysaurus_jonesi</List>
+		<List>Venenosaurus_dicrocei</List>
+		<List>Cedarosaurus</List>
+		<List>Erketu_ellisoni</List>
+		<List>Chubutisaurus_insignis</List>
+		<List>Tendaguria_tanzaniensis</List>
+		<List>Wintonotitan_wattsi</List>
+		<List>Ligabuesaurus_leanzai</List>
+		<List>Phuwiangosaurus_sirindhornae</List>
+		<List>Andesaurus_delgadoi</List>
+		<List>Mendozasaurus_neguyelap</List>
+		<List>Malarguesaurus_florenciae</List>
+		<List>Argentinosaurus_huinculensis</List>
+		<List>Epachthosaurus_sciuttoi</List>
+		<List>Malawisaurus_dixeyi</List>
+		<List>Nemegtosaurus_mongoliensis</List>
+		<List>Rapetosaurus_krausei</List>
+		<List>Isisaurus_colberti</List>
+		<List>Tapuiasaurus_macedoi</List>
+		<List>Trigonosaurus_pricei</List>
+		<List>Alamosaurus_sanjuanensis</List>
+		<List>Opisthocoelicaudia_skarzynskii</List>
+		<List>Neuquensaurus_australis</List>
+		<List>Saltasaurus_loricatus</List>
+		<List>Amazonsaurus_maranhensis</List>
+		<List>Zapalasaurus_bonapartei</List>
+		<List>Histriasaurus_boscarolli</List>
+		<List>Comahuesaurus_windhauseni</List>
+		<List>Rayososaurus_agrioensis</List>
+		<List>Rebbachisaurus_garasbae</List>
+		<List>Cathartesaura_anaerobica</List>
+		<List>Limaysaurus_tessonei</List>
+		<List>Demandasaurus_darwini</List>
+		<List>Nigersaurus_taqueti</List>
+		<List>Suuwassea_emilieae</List>
+		<List>Amargasaurus_cazaui</List>
+		<List>Dicraeosaurus_hansemanni</List>
+		<List>Brachytrachelopan_mesai</List>
+		<List>Apatosaurus</List>
+		<List>Diplodocus</List>
+		<List>Barosaurus_lentus</List>
+		<List>Europasaurus_holgeri</List>
+		<List>Diamantinasaurus_matildae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="341">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Poropat_etal_inpressaa</Filename>
+	<Parent>Carballido_et_Sander_inpressa</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Caldwell, M. W.</List>
+			<List>Chatteron, B. D. E.</List>
+		</Author>
+		<Year>1995</Year>
+		<Title>Phylogenetic analysis of some Silurian rostroconchs (Molluscs) from northwestern Canada</Title>
+		<Journal>Canadian Journal of Earth Sciences</Journal>
+		<Volume>32</Volume>
+		<Pages>806-827</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="10">
+		<List>Bransonia_foxi</List>
+		<List>Avalanchia_pterocarina</List>
+		<List>Cassowarioides_polgari</List>
+		<List>Cassowarioides_perryi</List>
+		<List>Cassowarioides_anisomorpha</List>
+		<List>Nehedia_complex</List>
+		<List>Redstonia_complex</List>
+		<List>Hippocardia_cooperi</List>
+		<List>Bigalea_yangi</List>
+		<List>Bigalea_ohioensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="13">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Caldwell_et_Chatterton_1995ab</Filename>
+	<Parent/>
+	<Sibling>Caldwell_et_Chatterton_1995ac</Sibling>
+</SourceTree>

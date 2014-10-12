@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>McGowan, C.</List>
+			<List>Motani, R.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>Handbook of Paleoherpetology Part 8: Ichthyopterygia</Title>
+		<Journal>Verlag</Journal>
+		<Volume>Munich</Volume>
+		<Pages>pp175</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="32">
+		<List>Petrolacosaurus</List>
+		<List>Thadeosaurus</List>
+		<List>Claudiosaurus</List>
+		<List>Hovasaurus</List>
+		<List>Hupesuchus</List>
+		<List>Utatsusaurus</List>
+		<List>Grippia</List>
+		<List>Parvinatator</List>
+		<List>Chaohusaurus</List>
+		<List>Cymb_petrinus</List>
+		<List>Cymb_buchseri</List>
+		<List>Mix_cornalianus</List>
+		<List>Mix_atavus</List>
+		<List>Mix_nordenskioeldii</List>
+		<List>Besanosaurus</List>
+		<List>Shastasaurus</List>
+		<List>Shonisaurus</List>
+		<List>Californosaurus</List>
+		<List>Toretocnemus</List>
+		<List>Hudsonelpidia</List>
+		<List>Macgowania</List>
+		<List>Suevoleviathan</List>
+		<List>Temnodontosaurus</List>
+		<List>Leptonectes</List>
+		<List>Excalibosaurus</List>
+		<List>Eurhinosaurus</List>
+		<List>Ichthyosaurus</List>
+		<List>Stenopterygius</List>
+		<List>Brachypterygius</List>
+		<List>Ophthalmosaurus</List>
+		<List>Caypullisaurus</List>
+		<List>Platypterygius</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="105">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>McGowan_et_Motani_2003a</Filename>
+	<Parent>Motani_1999a</Parent>
+	<Sibling/>
+</SourceTree>

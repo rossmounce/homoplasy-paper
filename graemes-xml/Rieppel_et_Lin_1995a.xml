@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Rieppel, O.</List>
+			<List>Lin, K.-B.</List>
+		</Author>
+		<Year>1995</Year>
+		<Title>Pachypleurosaurs (Reptilia: Sauropterygia) from the Lower Muschelkalk, and a review of the Pachypleurosauroidea</Title>
+		<Journal>Fieldiana: Geology, New Series</Journal>
+		<Volume>32</Volume>
+		<Pages>1-44</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="15">
+		<List>outgroup</List>
+		<List>Anarosaurus</List>
+		<List>Dactylosaurus</List>
+		<List>Keichousaurus</List>
+		<List>N_pusillus</List>
+		<List>N_peyeri</List>
+		<List>N_edwardsii</List>
+		<List>Psilotrachelosaurus</List>
+		<List>Serpianosaurus</List>
+		<List>Cymatosaurus</List>
+		<List>Lariosaurus</List>
+		<List>Nothosaurus</List>
+		<List>Pistosaurus</List>
+		<List>Simosaurus</List>
+		<List>Placodus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="50">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Rieppel_et_Lin_1995a</Filename>
+	<Parent>Rieppel_1993a</Parent>
+	<Sibling/>
+</SourceTree>

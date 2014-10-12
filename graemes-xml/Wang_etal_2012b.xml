@@ -1,0 +1,69 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Wang, X.-L.</List>
+			<List>Kellner, A. W. A.</List>
+			<List>Jiang, S.-X.</List>
+			<List>Cheng, X.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>New toothed flying reptile from Asia: close similarities between early Cretaceous pterosaur faunas from China and Brazil</Title>
+		<Journal>Naturwissenschaften</Journal>
+		<Volume>99</Volume>
+		<Pages>249-257</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="32">
+		<List>Ornithosuchus_longidens</List>
+		<List>Herrerasaurus_ischigualastensis</List>
+		<List>Scleromochlus_taylori</List>
+		<List>Anurognathus_ammoni</List>
+		<List>Rhamphorhynchus_muensteri</List>
+		<List>Pterodactylus_antiquus</List>
+		<List>Nyctosaurus_gracilis</List>
+		<List>Nemicolopterus_crypticus</List>
+		<List>Pteranodon_longiceps</List>
+		<List>Istiodactylus_latidens</List>
+		<List>Nurhachius_ignaciobritoi</List>
+		<List>Tropeognathus_mesembrinus</List>
+		<List>Anhanguera_santanae</List>
+		<List>Anhanguera_blittersdorffi</List>
+		<List>Anhanguera_piscator</List>
+		<List>Ludodactylus_sibbicki</List>
+		<List>Guidraco_venator_gen_et_sp_nov</List>
+		<List>Dsungaripterus_weii</List>
+		<List>Phobetor_parvus</List>
+		<List>Quetzalcoatlus_sp</List>
+		<List>Azhdarcho_lancicollis</List>
+		<List>Zhejiangopterus_linhaiensis</List>
+		<List>Chaoyangopterus_zhangi</List>
+		<List>Shenzhoupterus_chaoyangensis</List>
+		<List>Tupuxuara_leonardii</List>
+		<List>Thalassodromeus_sethi</List>
+		<List>Tupandactylus_imperator</List>
+		<List>Tapejara_wellnhoferi</List>
+		<List>Sinopterus_dongi</List>
+		<List>Eopteranodon_lii</List>
+		<List>Huaxipterus_corollatus</List>
+		<List>Huaxipterus_benxiensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="106">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Wang_etal_2012b</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

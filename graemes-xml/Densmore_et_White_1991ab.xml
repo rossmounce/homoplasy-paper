@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Densmore, L. D.</List>
+			<List>White, P. S.</List>
+		</Author>
+		<Year>1991</Year>
+		<Title>The systematics and evolution of the crocodile as suggested by restriction endonuclease analysis of mitochondrial and nuclear ribosomal DNA</Title>
+		<Journal>Copeia</Journal>
+		<Volume>1991</Volume>
+		<Pages>602-615</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="15">
+		<List>C_acutus</List>
+		<List>C_cataphractus</List>
+		<List>C_johnsoni</List>
+		<List>C_moreletti</List>
+		<List>C_niloticus</List>
+		<List>C_mindorensis</List>
+		<List>C_novaeguinae</List>
+		<List>C_p_kimbula</List>
+		<List>C_p_palustris</List>
+		<List>C_porosus</List>
+		<List>C_rhombifer</List>
+		<List>C_siamensis</List>
+		<List>Tomistoma</List>
+		<List>Gavialis</List>
+		<List>Alligator</List>
+	</Taxa>
+	<Characters>
+		<Molecular number="48">
+			<Type>mtDNA</Type>
+		</Molecular
+		<Morphological/>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Densmore_et_White_1991ab</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

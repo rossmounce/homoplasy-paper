@@ -1,0 +1,69 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Benson, R. B. J.</List>
+			<List>Evans, M.</List>
+			<List>Druckenmiller, P. S.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>High diversity, low disparity and small body size in plesiosaurs (Reptilia, Sauropterygia) from the Triassic-Jurassic boundary</Title>
+		<Journal>PLoS One</Journal>
+		<Volume>7</Volume>
+		<Pages>e31838</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="33">
+		<List>Yunguisaurus</List>
+		<List>Pistosaurus_postcranium</List>
+		<List>Pistosaurus_skull</List>
+		<List>Augustasaurus</List>
+		<List>Bobosaurus</List>
+		<List>NHMUK_49202</List>
+		<List>Stratesaurus</List>
+		<List>Macroplata</List>
+		<List>Avalonnectes</List>
+		<List>Eurycleidus</List>
+		<List>Meyerasaurus</List>
+		<List>Maresaurus</List>
+		<List>R_megacephalus</List>
+		<List>Archaeonectrus</List>
+		<List>R_cramptoni</List>
+		<List>R_zetlandicus</List>
+		<List>R_thorntoni</List>
+		<List>Thalassiodracon</List>
+		<List>H_longirostris</List>
+		<List>H_tomistomimus</List>
+		<List>H_zanoni</List>
+		<List>Attenborosaurus</List>
+		<List>Peloneustes</List>
+		<List>Eoplesiosaurus</List>
+		<List>Plesiosaurus</List>
+		<List>Eretmosaurus</List>
+		<List>Westphaliasaurus</List>
+		<List>Seelyosaurus</List>
+		<List>M_tournemirensis</List>
+		<List>M_brachypterygius</List>
+		<List>M_homalospondylus</List>
+		<List>Plesiospterys</List>
+		<List>Cryptoclidus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="207">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Benson_etal_2012a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

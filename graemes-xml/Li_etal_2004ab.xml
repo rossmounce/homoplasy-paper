@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Li, C.</List>
+			<List>Rieppel, O.</List>
+			<List>LaBarbera, M. C.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>A Triassic aquatic protorosaur with an extremely long neck</Title>
+		<Journal>Science</Journal>
+		<Volume>305</Volume>
+		<Pages>1931</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="16">
+		<List>Petrolacosaurus</List>
+		<List>Youngina</List>
+		<List>Rhynchosaurus</List>
+		<List>Trilophosaurus</List>
+		<List>Drepanosaurus</List>
+		<List>Megalancosaurus</List>
+		<List>Protorosaurus</List>
+		<List>Prolacerta</List>
+		<List>Macrocnemus</List>
+		<List>Langobardisaurus</List>
+		<List>T_longobardicus</List>
+		<List>Proterosuchus</List>
+		<List>Euparkeria</List>
+		<List>Jesairosaurus</List>
+		<List>Boreopricea</List>
+		<List>Dinocephalosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="239">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Li_etal_2004ab</Filename>
+	<Parent>Rieppel_etal_2003bb</Parent>
+	<Sibling/>
+</SourceTree>

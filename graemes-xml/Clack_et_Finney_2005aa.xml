@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Clack, J. A.</List>
+			<List>Finney, S. M.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title><em>Pederpes finneyae</em>, an articulated tetrapod from the Tournaisian of Western Scotland</Title>
+		<Journal>Journal of Systematic Palaeontology</Journal>
+		<Volume>2</Volume>
+		<Pages>311-346</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="22">
+		<List>Eusthenopteron</List>
+		<List>Acanthostega</List>
+		<List>Adelogyrinus</List>
+		<List>Balanerpeton</List>
+		<List>Baphetes</List>
+		<List>Caerorhachis</List>
+		<List>Crassigyrinus</List>
+		<List>Dendrerpeton</List>
+		<List>Eoherpeton</List>
+		<List>Eucritta</List>
+		<List>Gephyrostegus</List>
+		<List>Greererpeton</List>
+		<List>Ichthyostega</List>
+		<List>Megalocephalus</List>
+		<List>Microbrachis</List>
+		<List>Pholiderpeton</List>
+		<List>Proterogyrinus</List>
+		<List>Ptyonius</List>
+		<List>Saxonerpeton</List>
+		<List>Seymouria</List>
+		<List>Westlothiana</List>
+		<List>Whatcheeria</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="239">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Clack_et_Finney_2005aa</Filename>
+	<Parent>Ruta_etal_2003a</Parent>
+	<Sibling/>
+</SourceTree>

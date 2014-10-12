@@ -1,0 +1,69 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Martin, J. E.</List>
+			<List>Buffetaut, E.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>The maxillary depression of Pholidosauridae: an anatomical study</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>32</Volume>
+		<Pages>1442-1446</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="34">
+		<List>Protosuchus</List>
+		<List>Hemiprotosuchus</List>
+		<List>Orthosuchus</List>
+		<List>Notosuchus</List>
+		<List>Baurusuchus</List>
+		<List>Libycosuchus</List>
+		<List>Sebecus</List>
+		<List>Araripesuchus</List>
+		<List>Alligatorium</List>
+		<List>Theriosuchus</List>
+		<List>Pelagosaurus</List>
+		<List>Teleosauridae</List>
+		<List>Metriorhynchidae</List>
+		<List>Eutretauranosuchus</List>
+		<List>Goniopholis_lucasii</List>
+		<List>Bernissartia</List>
+		<List>Crocodylia</List>
+		<List>Mahajangasuchus</List>
+		<List>Peirosauridae</List>
+		<List>Hsisosuchus</List>
+		<List>Trematochampsa</List>
+		<List>Uruguaysuchus</List>
+		<List>Malawisuchus</List>
+		<List>Comahuesuchus</List>
+		<List>Simosuchus</List>
+		<List>Sunosuchus_junggarensis</List>
+		<List>Sunosuchus_miaoi</List>
+		<List>Calsoyasuchus</List>
+		<List>Siamosuchus_phuphokensis</List>
+		<List>Goniopholis_simus</List>
+		<List>G_baryglyphaeus</List>
+		<List>Sarcosuchus_imperator</List>
+		<List>Elosuchus</List>
+		<List>Pholidosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="100">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Martin_et_Buffetaut_2012aa</Filename>
+	<Parent>Lauprasert_etal_2007a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sereno, P. C.</List>
+			<List>Brusatte, S. L.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>Basal abelisaurid and carcharodontosaurid theropods from the Lower Cretaceous Elrhaz Formation of Niger</Title>
+		<Journal>Acta Palaeontologica Polonica</Journal>
+		<Volume>53</Volume>
+		<Pages>15-46</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="22">
+		<List>Eoraptor</List>
+		<List>Herrerasaurus</List>
+		<List>Dilophosaurus</List>
+		<List>Liliensternus</List>
+		<List>Syntarsus</List>
+		<List>Coelophysis</List>
+		<List>Procompsognathus</List>
+		<List>Segisaurus</List>
+		<List>Elaphrosaurus</List>
+		<List>Ceratosaurus</List>
+		<List>Spinostropheus</List>
+		<List>Deltadromeus</List>
+		<List>Masiakasaurus</List>
+		<List>Noasaurus</List>
+		<List>Rugops</List>
+		<List>Abelisaurus</List>
+		<List>Rajasaurus</List>
+		<List>Majungatholus</List>
+		<List>Carnotaurus</List>
+		<List>Kryptops_palaios</List>
+		<List>SPINOSAUROIDEA</List>
+		<List>NEOTETANURAE</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="169">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sereno_et_Brusatte_2008aa</Filename>
+	<Parent>Sereno_etal_2004a</Parent>
+	<Sibling/>
+</SourceTree>

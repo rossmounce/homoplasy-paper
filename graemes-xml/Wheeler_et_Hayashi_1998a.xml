@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Wheeler, W. C.</List>
+			<List>Hayashi, C. Y.</List>
+		</Author>
+		<Year>1998</Year>
+		<Title>The phylogeny of the extant chelicerate orders</Title>
+		<Journal>Cladistics</Journal>
+		<Volume>14</Volume>
+		<Pages>173-192</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="17">
+		<List>Onychophora</List>
+		<List>Crustacea</List>
+		<List>Hexapoda</List>
+		<List>Myriapoda</List>
+		<List>Pycnogonida</List>
+		<List>Xiphosura</List>
+		<List>Scorpiones</List>
+		<List>Araneae</List>
+		<List>Amblypygi</List>
+		<List>Thelyphonida</List>
+		<List>Schizomida</List>
+		<List>Palpigradi</List>
+		<List>Ricinulei</List>
+		<List>Acari</List>
+		<List>Opiliones</List>
+		<List>Pseudoscorpiones</List>
+		<List>Solifugae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="93">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Wheeler_et_Hayashi_1998a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,84 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Santucci, R. M.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>First titanosaur (Saurischia, Sauropoda) axial remains from the Uberaba Formation, Upper Cretaceous, Bauru Group, Brazil</Title>
+		<Journal>Historical Biology</Journal>
+		<Volume>20</Volume>
+		<Pages>165-173</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="50">
+		<List>Marasuchus</List>
+		<List>Pseudolagosuchus</List>
+		<List>Ornithischia</List>
+		<List>Herrerasaurus</List>
+		<List>Neotheropoda</List>
+		<List>Prosauropoda</List>
+		<List>Vulcanodon</List>
+		<List>Kotasaurus</List>
+		<List>Shunosaurus</List>
+		<List>Atlasaurus</List>
+		<List>Barapasaurus</List>
+		<List>Bellusaurus</List>
+		<List>Camarasaurus</List>
+		<List>Cetiosaurus</List>
+		<List>Euhelopus</List>
+		<List>Haplocanthosaurus</List>
+		<List>Jobaria</List>
+		<List>Lourinhasaurus</List>
+		<List>Mamenchisaurus</List>
+		<List>Nemegtosaurus</List>
+		<List>Nigersaurus</List>
+		<List>Patagosaurus</List>
+		<List>Quaesitosaurus</List>
+		<List>Rayososaurus</List>
+		<List>Aragosaurus</List>
+		<List>Alamosaurus</List>
+		<List>Andesaurus</List>
+		<List>Argentinosaurus</List>
+		<List>Austrosaurus</List>
+		<List>Gondwanatitan</List>
+		<List>Lapparentosaurus</List>
+		<List>Lirainosaurus</List>
+		<List>Malawisaurus</List>
+		<List>Pellegrinisaurus</List>
+		<List>Phuwiangosaurus</List>
+		<List>Pleurocoelus_dash_tex</List>
+		<List>Titanosaurus</List>
+		<List>CPP_dash_217</List>
+		<List>CPP_dash_360</List>
+		<List>Brachiosaurus</List>
+		<List>Cedarosaurus</List>
+		<List>Opisthocoelicaudia</List>
+		<List>Saltasaurus</List>
+		<List>Amargasaurus</List>
+		<List>Dicraeosaurus</List>
+		<List>Apatosaurus</List>
+		<List>Barosaurus</List>
+		<List>Diplodocus</List>
+		<List>Omeisaurus</List>
+		<List>Tehuelchesaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="309">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Santucci_2008ab</Filename>
+	<Parent>Upchurch_etal_2004b</Parent>
+	<Sibling/>
+</SourceTree>

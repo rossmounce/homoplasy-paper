@@ -1,0 +1,97 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Smith, N. D.</List>
+			<List>Makovicky, P. J.</List>
+			<List>Agnolin, F. L.</List>
+			<List>Ezcurra, M. D.</List>
+			<List>Pais, D. F.</List>
+			<List>Salisbury, S. W.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>A <em>Megaraptor</em>-like theropod (Dinosauria: Tetanurae) in Australia: support for faunal exchange across eastern and western Gondwana in the mid-Cretaceous</Title>
+		<Journal>Proceedings of the Royal Society of London B</Journal>
+		<Volume>275</Volume>
+		<Pages>2085-2093</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="58">
+		<List>Marasuchus</List>
+		<List>Silesaurus</List>
+		<List>Herrerasaurus</List>
+		<List>Eoraptor</List>
+		<List>Saturnalia</List>
+		<List>Plateosaurus</List>
+		<List>Liliensternus_liliensterni</List>
+		<List>Coelophysis_bauri</List>
+		<List>Coelophysis_rhodesiensis</List>
+		<List>Syntarsus_kayentakatae</List>
+		<List>Segisaurus</List>
+		<List>Zupaysaurus</List>
+		<List>Dilophosaurus_sinensis</List>
+		<List>Dracovenator</List>
+		<List>Dilophosaurus_wetherilli</List>
+		<List>Cryolophosaurus</List>
+		<List>Ceratosaurus</List>
+		<List>Elaphrosaurus</List>
+		<List>Ilokelesia</List>
+		<List>Abelisaurus</List>
+		<List>Carnotaurus</List>
+		<List>Majungatholus</List>
+		<List>Masiakasaurus</List>
+		<List>Noasaurus</List>
+		<List>Piatnitzkysaurus</List>
+		<List>Condorraptor</List>
+		<List>Dubreuillosaurus</List>
+		<List>Afrovenator</List>
+		<List>Torvosaurus</List>
+		<List>Eustreptospondylus</List>
+		<List>Streptospondylus</List>
+		<List>Megaraptor</List>
+		<List>NMV_P186076</List>
+		<List>Baryonyx</List>
+		<List>Suchomimus</List>
+		<List>Irritator</List>
+		<List>Monolophosaurus</List>
+		<List>Allosaurus</List>
+		<List>Neovenator</List>
+		<List>Sinraptor</List>
+		<List>Acrocanthosaurus</List>
+		<List>Tyrannotitan</List>
+		<List>Carcharodontosaurus</List>
+		<List>Giganotosaurus</List>
+		<List>Mapusaurus</List>
+		<List>Tugulusaurus</List>
+		<List>Dilong</List>
+		<List>Tyrannosaurus</List>
+		<List>Sinosauropteryx</List>
+		<List>Coelurus</List>
+		<List>Compsognathus</List>
+		<List>Shenzhousaurus</List>
+		<List>Sinornithomimus</List>
+		<List>Ornitholestes</List>
+		<List>Deinonychus</List>
+		<List>Velociraptor</List>
+		<List>Archaeopteryx</List>
+		<List>Confuciusornis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="353">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Smith_etal_2008a</Filename>
+	<Parent>Smith_etal_2007a</Parent>
+	<Sibling/>
+</SourceTree>

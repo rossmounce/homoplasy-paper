@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Rybczynski, N.</List>
+		</Author>
+		<Year>2000</Year>
+		<Title>Cranial anatomy and phylogenetic position of <em>Suminia getmanovi</em>, a basal anomodont (Amniota: Therapsida) from the Late Permian of Eastern Europe</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>130</Volume>
+		<Pages>329-373</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List>Titanophoneus</List>
+		<List>Gorgonops</List>
+		<List>Lycosuchidae</List>
+		<List>Patranomodon</List>
+		<List>Otsheria</List>
+		<List>Ulemica</List>
+		<List>Galeops</List>
+		<List>Eodicynodon</List>
+		<List>Pristerodon</List>
+		<List>Dicynodon</List>
+		<List>Suminia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="37">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Rybczynski_2000a</Filename>
+	<Parent>Modesto_et_Rybczynski_2000a</Parent>
+	<Sibling/>
+</SourceTree>

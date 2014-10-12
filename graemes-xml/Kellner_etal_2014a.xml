@@ -1,0 +1,125 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Kellner, A. W. A.</List>
+			<List>Pinheiro, A. E. P.</List>
+			<List>Campos, D. A.</List>
+		</Author>
+		<Year>2014</Year>
+		<Title>A new sebecid from the Paleogene of Brazil and the crocodyliform radiation after the K-Pg boundary</Title>
+		<Journal>PLOS ONE</Journal>
+		<Volume>9</Volume>
+		<Pages>e81386</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="89">
+		<List>Gracilisuchus</List>
+		<List>Terrestrisuchus</List>
+		<List>Dibothrosuchus</List>
+		<List>Protosuchus_richardsoni</List>
+		<List>Hemiprotosuchus</List>
+		<List>Orthosuchus</List>
+		<List>Edentosuchus</List>
+		<List>Zaraasuchus</List>
+		<List>Gobiosuchus</List>
+		<List>Sichuanosuchus</List>
+		<List>Shantungosuchus</List>
+		<List>Kayenta_Form</List>
+		<List>Zosuchus</List>
+		<List>Hsisosuchus</List>
+		<List>Fruita_Form</List>
+		<List>Notosuchus</List>
+		<List>Chimaerasuchus</List>
+		<List>Comahuesuchus</List>
+		<List>Mariliasuchus</List>
+		<List>Sphagesaurus</List>
+		<List>Libycosuchus</List>
+		<List>Malawisuchus</List>
+		<List>Candidodon</List>
+		<List>Uruguaysuchus</List>
+		<List>Simosuchus</List>
+		<List>Pehuenchesuchus</List>
+		<List>Baurusuchus</List>
+		<List>Stratiotosuchus</List>
+		<List>Cynodontosuchus</List>
+		<List>Bergisuchus</List>
+		<List>Iberosuchus</List>
+		<List>Bretesuchus</List>
+		<List>Barinasuchus</List>
+		<List>Sebecus_huilensis</List>
+		<List>Sebecus_icaeorhinus</List>
+		<List>Sebecus_querejazus</List>
+		<List>Ayllusuchus</List>
+		<List>Lorosuchus</List>
+		<List>Lumbrera_form</List>
+		<List>Pabhwehshi</List>
+		<List>A_dot__gomesii</List>
+		<List>A_dot__patagonicus</List>
+		<List>A_dot__buitreraensi</List>
+		<List>A_dot__wegeneri</List>
+		<List>A_dot__tsangatsangana</List>
+		<List>Hamadasuchus</List>
+		<List>Stolokrosuchus</List>
+		<List>Peirosaurus_MOZ</List>
+		<List>Lomasuchus</List>
+		<List>Uberabasuchus</List>
+		<List>Mahajangasuchus</List>
+		<List>Theriosuchus</List>
+		<List>Alligatorium</List>
+		<List>Goniopholis_simus</List>
+		<List>Goniopholis_storalli</List>
+		<List>Eutretauranosuchus</List>
+		<List>Calsoyasuchus</List>
+		<List>Sunosuchus</List>
+		<List>Shamosuchus</List>
+		<List>Bernissartia</List>
+		<List>Hylaeochampsa</List>
+		<List>Glen_Rose_Form</List>
+		<List>Borealosuchus</List>
+		<List>Pristichampsus_vorax</List>
+		<List>Eothoracosaurus_mississippiensi</List>
+		<List>Gavialis</List>
+		<List>Leidyosuchus_canadensis</List>
+		<List>Asiatosuchus_germanicus</List>
+		<List>Crocodylus</List>
+		<List>Diplocynodon_hantoniensis</List>
+		<List>Alligator</List>
+		<List>Pelagosaurus</List>
+		<List>Steneosaurus_bollensis</List>
+		<List>Metriorhynchus_superciliousus</List>
+		<List>Metriorhynchus_casamequelai</List>
+		<List>Cricosaurus_araucaniensis</List>
+		<List>Cricosaurus_suevicus</List>
+		<List>Dakosaurus_maximus</List>
+		<List>Dakosaurus_andiniensis</List>
+		<List>Rhabdognathus_mali</List>
+		<List>Sokotosuchus</List>
+		<List>Dyrosaurus</List>
+		<List>Hyposaurus</List>
+		<List>Pholidosaurus</List>
+		<List>Sarcosuchus</List>
+		<List>Terminonaris_robusta</List>
+		<List>Rugosuchus_nonganensis</List>
+		<List>Argochampsa</List>
+		<List>Sahitisuchus_fluminensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="347">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Kellner_etal_2014a</Filename>
+	<Parent>Pol_etal_2012a</Parent>
+	<Sibling/>
+</SourceTree>

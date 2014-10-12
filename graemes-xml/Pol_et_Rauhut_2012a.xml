@@ -1,0 +1,61 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Pol, D.</List>
+			<List>Rauhut, O. W. M.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>A Middle Jurassic abelisaurid from Patagonia and the early diversification of theropod dinosaurs</Title>
+		<Journal>Proceedings of the Royal Society of London B</Journal>
+		<Volume>279</Volume>
+		<Pages>3170-3175</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="26">
+		<List>Herrerasaurus</List>
+		<List>Syntarsus</List>
+		<List>Allosaurus</List>
+		<List>Berberosaurus</List>
+		<List>Deltadromeus</List>
+		<List>Abelisaurus</List>
+		<List>Aucasaurus</List>
+		<List>Carnotaurus</List>
+		<List>Eoabelisaurus</List>
+		<List>Genusaurus</List>
+		<List>Laevisuchus</List>
+		<List>Masiakasaurus</List>
+		<List>Noasaurus</List>
+		<List>Rugops</List>
+		<List>Velocisaurus</List>
+		<List>Ekrixinatosaurus</List>
+		<List>Ilokelesia</List>
+		<List>Skorpiovenator</List>
+		<List>Indosaurus</List>
+		<List>Majungasaurus</List>
+		<List>Rajasaurus</List>
+		<List>Ceratosaurus</List>
+		<List>Genyodectes</List>
+		<List>Spinostropheus</List>
+		<List>Elaphrosaurus</List>
+		<List>Limusaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="206">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Pol_et_Rauhut_2012a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

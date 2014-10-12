@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Li, C.</List>
+			<List>Wu, X.-C.</List>
+			<List>Cheng, Y.-N.</List>
+			<List>Sato, T.</List>
+			<List>Wang, L.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>An unusual new archosaurian from the marine Triassic of China</Title>
+		<Journal>Naturwissenschaften</Journal>
+		<Volume>93</Volume>
+		<Pages>200-206</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="25">
+		<List>Hyperodapedon</List>
+		<List>Prolacerta</List>
+		<List>Proterosuchus</List>
+		<List>Erythrosuchus</List>
+		<List>Euparkeria</List>
+		<List>Proterochampsidae</List>
+		<List>Phytosauridae</List>
+		<List>Ornithosuchidae</List>
+		<List>Stagonolepididae</List>
+		<List>Ticinosuchus</List>
+		<List>Prestosuchus</List>
+		<List>Saurosuchus</List>
+		<List>Fasolasuchus</List>
+		<List>Gracilisuchus</List>
+		<List>Postosuchus</List>
+		<List>Crocodylomorpha</List>
+		<List>Scleromochlus</List>
+		<List>Pterosauria</List>
+		<List>Lagerpeton</List>
+		<List>Marasuchus</List>
+		<List>Herrerasaurus</List>
+		<List>Theropoda</List>
+		<List>Sauropodomorpha</List>
+		<List>Ornithischia</List>
+		<List>Qianosuchus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="95">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Li_etal_2006a</Filename>
+	<Parent>Benton_2004a</Parent>
+	<Sibling/>
+</SourceTree>

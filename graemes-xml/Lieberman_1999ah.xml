@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lieberman, B. S.</List>
+		</Author>
+		<Year>1999</Year>
+		<Title>Systematic revision of the Olenelloidea (Trilobita, Cambrian)</Title>
+		<Journal>Bulletin of the Peabody Museum of Natural History</Journal>
+		<Volume>45</Volume>
+		<Pages>1-150</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="7">
+		<List>Nephrolenellus_multinodus</List>
+		<List>Nephrolenellus_jasperensis</List>
+		<List>Bolbolenellus_euryparia</List>
+		<List>Bolbolenellus_groenlandicus</List>
+		<List>Bolbolenellus_hermani</List>
+		<List>Bolbolenellus_sphaerulosus</List>
+		<List>Bolbolenellus_altifrontatus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="7">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lieberman_1999ah</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

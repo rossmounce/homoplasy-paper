@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Godefroit, P.</List>
+			<List>Bolotsky, Y.</List>
+			<List>Alifanov, V.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>A remarkable hollow-crested hadrosaur from Russia: an Asian origin for lambeosaurines</Title>
+		<Journal>Comptes Rendus Palevol</Journal>
+		<Volume>2</Volume>
+		<Pages>143-151</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List>Bactrosaurus</List>
+		<List>Hadrosaurinae</List>
+		<List>Tsintaosaurus</List>
+		<List>Jaxartosaurus</List>
+		<List>Amurosaurus</List>
+		<List>Parasaurolophus</List>
+		<List>Charonosaurus</List>
+		<List>Lambeosaurus</List>
+		<List>Corythosaurus</List>
+		<List>Hypacrosaurus</List>
+		<List>Olorotitan</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="36">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Godefroit_etal_2003a</Filename>
+	<Parent>Godefroit_etal_2001a</Parent>
+	<Sibling/>
+</SourceTree>

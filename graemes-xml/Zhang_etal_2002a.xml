@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Zhang, F.-C.</List>
+			<List>Zhou, Z.-H.</List>
+			<List>Xu, X.</List>
+			<List>Wang, X.-L.</List>
+		</Author>
+		<Year>2002</Year>
+		<Title>A juvenile coelurosaruian theropod from China indicates arboreal habits</Title>
+		<Journal>Naturwissenschaften</Journal>
+		<Volume>89</Volume>
+		<Pages>394-398</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Allosaurus</List>
+		<List>Tyrannosauridae</List>
+		<List>Compsognathus</List>
+		<List>Ornithomimidae</List>
+		<List>Oviraptoridae</List>
+		<List>Dromaeosauridae</List>
+		<List>Troodontidae</List>
+		<List>Epidendrosaurus</List>
+		<List>Archaeopteryx</List>
+		<List>Rahona</List>
+		<List>Iberomesornis</List>
+		<List>Enantiornithes</List>
+		<List>Ornithurae</List>
+		<List>Patagopteryx</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="113">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Zhang_etal_2002a</Filename>
+	<Parent>Forster_etal_1998a</Parent>
+	<Sibling/>
+</SourceTree>

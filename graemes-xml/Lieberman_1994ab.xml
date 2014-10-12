@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lieberman, B. S.</List>
+		</Author>
+		<Year>1994</Year>
+		<Title>Evolution of the trilobite subfamily Proetinae Salter, 1864, and the origin, diversification, evolutionary affinity, and extinction of the Middle Devonian proetid fauna of eastern North America</Title>
+		<Journal>Bulletin of the American Museum of Natural History</Journal>
+		<Volume>223</Volume>
+		<Pages>1-176</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="16">
+		<List>Ormistoniella_malaca</List>
+		<List>Basidechenella_maura</List>
+		<List>Basidechenella_canaliculata</List>
+		<List>Basidechenella_clara</List>
+		<List>Basidechenella_rowi</List>
+		<List>Basidechenella_arkonensis</List>
+		<List>Basidechenella_nodosa</List>
+		<List>Basidechenella_elevata</List>
+		<List>Basidechenella_eriensis</List>
+		<List>Basidechenella_witherspooni</List>
+		<List>Basidechenella_lucasensis</List>
+		<List>Basidechenella_pulchra</List>
+		<List>Basidechenella_reimanni</List>
+		<List>Basidechenella_hesionea</List>
+		<List>Basidechenella_cartwrightae</List>
+		<List>Basidechenella_timwhitei</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="25">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lieberman_1994ab</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

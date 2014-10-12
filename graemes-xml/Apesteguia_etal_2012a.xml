@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Apesteguia, S.</List>
+			<List>Gomez, R. O.</List>
+			<List>Rougier, G. W.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>A basal sphenodontian (Lepidosauria) from the Jurassic of Patagonia: new insights on the phylogeny and biogeography of Gondwanan rhynchocephalians</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>166</Volume>
+		<Pages>342-360</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="26">
+		<List>Youngina</List>
+		<List>Pristidactylus</List>
+		<List>Gephyrosaurus</List>
+		<List>Ankylosphenodon</List>
+		<List>Brachyrhinodon</List>
+		<List>Clevosaurus_hudsoni</List>
+		<List>Cynosphenodon</List>
+		<List>Diphydontosaurus</List>
+		<List>Eilenodon</List>
+		<List>Godavarisaurus</List>
+		<List>Homoeosaurus</List>
+		<List>Kaikaifilusaurus</List>
+		<List>Kallimodon</List>
+		<List>Kawasphenodon</List>
+		<List>Opisthias</List>
+		<List>Palaeopleurosaurus</List>
+		<List>Pamizinsaurus</List>
+		<List>Planocephalosaurus</List>
+		<List>Rebbanasaurus</List>
+		<List>Sapheosaurus</List>
+		<List>Sphenocondor</List>
+		<List>Sphenodon</List>
+		<List>Sphenovipera</List>
+		<List>Theretairus</List>
+		<List>Toxolophosaurus</List>
+		<List>Zapatadon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="73">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Apesteguia_etal_2012a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

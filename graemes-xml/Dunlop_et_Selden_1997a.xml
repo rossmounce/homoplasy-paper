@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Dunlop, J. A.</List>
+			<List>Selden, P. A.</List>
+		</Author>
+		<Year>1997</Year>
+		<Title>The early history and phylogeny of the chelicerates</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>221-235</Pages>
+		<Booktitle>Arthropod Relationships</Booktitle>
+		<Publisher>Chapman &amp; Hall</Publisher>
+		<City>London</City>
+		<Editor>
+			<List>Fortey, R. A.</List>
+			<List>Thomas, R. H.</List>
+		</Editor>
+	</Source>
+	<Taxa number="18">
+		<List>Paleomerus</List>
+		<List>Strabops</List>
+		<List>Aglaspidida</List>
+		<List>Neostrabops</List>
+		<List>Duslia</List>
+		<List>Triopus</List>
+		<List>Pseudarthron</List>
+		<List>Cheloniellon</List>
+		<List>Lemoneites</List>
+		<List>Weinbergina</List>
+		<List>Bunodes</List>
+		<List>Kasibelinurus</List>
+		<List>Xiphosurida</List>
+		<List>Diploaspis</List>
+		<List>Chasmataspis</List>
+		<List>Eurypterida</List>
+		<List>Scorpiones</List>
+		<List>Other_arachnids</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="25">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Dunlop_et_Selden_1997a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

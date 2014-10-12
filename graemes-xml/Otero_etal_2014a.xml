@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Otero, R. A.</List>
+			<List>Soto-Acuna, S.</List>
+			<List>O'Keefe, F. R.</List>
+			<List>O'Gorman, J. P.</List>
+			<List>Stinnesbeck, W.</List>
+			<List>Suarez, M. E.</List>
+			<List>Rubiar-Rogers, D.</List>
+			<List>Salazar, C.</List>
+			<List>Quinzio-Sinn, L. A.</List>
+		</Author>
+		<Year>2014</Year>
+		<Title><em>Aristonectes quiriquinensis</em>, sp. nov., a new highly derived elasmosaurid from the upper Maastrichtian of central Chile</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>34</Volume>
+		<Pages>100-125</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="23">
+		<List>Plesiosaurus_dolichodeirus</List>
+		<List>Muraenosaurus_leedsi</List>
+		<List>Cryptoclidus_eurymerus</List>
+		<List>Tricleidus_seeleyi</List>
+		<List>Kimmerosaurus_langhami</List>
+		<List>Edgarosaurus_muddi</List>
+		<List>Polycotylus_latipinnis</List>
+		<List>Dolichorhynchops_osborni</List>
+		<List>Trinacromerum_bentonianum</List>
+		<List>Brancasaurus_brancai</List>
+		<List>Tatenectes_laramiensis</List>
+		<List>Thalassiodracon_hawkinsi</List>
+		<List>Aristonectes_parvidens</List>
+		<List>Aristonectes_quiriquinensis</List>
+		<List>Callawayasaurus_columbiensis</List>
+		<List>Futabasaurus_suzukii</List>
+		<List>Kaiwhekea_katiki</List>
+		<List>Mauisaurus_haasti</List>
+		<List>Microcleidus_tournemirensis</List>
+		<List>SGO_PV_260</List>
+		<List>Styxosaurus_snowii</List>
+		<List>Thalassomedon_haningtoni</List>
+		<List>Tuarangisaurus_keyesi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="90">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Otero_etal_2014a</Filename>
+	<Parent>OKeefe_et_Street_2009a</Parent>
+	<Sibling/>
+</SourceTree>

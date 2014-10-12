@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Jin, L.-Y.</List>
+			<List>Chen, J.</List>
+			<List>Godefroit, P.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>A new basal ornithomimosaur (Dinosauria: Theropoda) from the Early Cretaceous Yixian Formation, northeast China</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>466-487</Pages>
+		<Booktitle>Bernisssart Dinosaurs and Early Cretaceous Terrestrial Ecosystems</Booktitle>
+		<Publisher>Indiana University Press</Publisher>
+		<City>Bloomington</City>
+		<Editor>
+			<List>Godefroit, P.</List>
+		</Editor>
+	</Source>
+	<Taxa number="15">
+		<List>Allosaurus</List>
+		<List>Tyrannosauridae</List>
+		<List>Pelecanimimus</List>
+		<List>Hexing</List>
+		<List>Shenzhousaurus</List>
+		<List>Harpymimus</List>
+		<List>Beishanlong</List>
+		<List>Garudimimus</List>
+		<List>Archaeornithomimus</List>
+		<List>Sinornithomimus</List>
+		<List>Anserimimus</List>
+		<List>Gallimimus</List>
+		<List>Struthiomimus</List>
+		<List>Dromiceiomimus</List>
+		<List>Ornithomimus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="47">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Jin_etal_2012a</Filename>
+	<Parent>Kobayashi_et_Lu_2003a</Parent>
+	<Sibling/>
+</SourceTree>

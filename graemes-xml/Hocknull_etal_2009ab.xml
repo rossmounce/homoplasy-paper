@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Hocknull, S. A.</List>
+			<List>White, M. A.</List>
+			<List>Tischler, T. R.</List>
+			<List>Cook, A. G.</List>
+			<List>Calleja, N. D.</List>
+			<List>Sloan, T.</List>
+			<List>Elliott, D. A.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>New mid-Cretaceous (latest Albian) dinosaurs from Winton, Queensland, Australia</Title>
+		<Journal>PLoS One</Journal>
+		<Volume>4</Volume>
+		<Pages>1-51</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="25">
+		<List>Camarasaurus</List>
+		<List>Brachiosaurus</List>
+		<List>Euhelopus</List>
+		<List>Chubutisaurus</List>
+		<List>Phuwiangosaurus</List>
+		<List>Ligabuesaurus</List>
+		<List>Malarguesaurus</List>
+		<List>Andesaurus</List>
+		<List>Epachthosaurus</List>
+		<List>Rapetosaurus</List>
+		<List>Opisthocoelicaudia</List>
+		<List>Alamosaurus</List>
+		<List>Wintonotitan</List>
+		<List>Dimantinasaurus</List>
+		<List>Malawisaurus</List>
+		<List>Mendozasaurus</List>
+		<List>Futalognkosaurus</List>
+		<List>Lirainosaurus</List>
+		<List>Neuquensaurus</List>
+		<List>Saltasaurus</List>
+		<List>Rocasaurus</List>
+		<List>Rinconsaurus</List>
+		<List>Muyellensaurus</List>
+		<List>Gondwanatitan</List>
+		<List>Aeolosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="102">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Hocknull_etal_2009ab</Filename>
+	<Parent>Riga_etal_2009a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>MacLeod, N.</List>
+		</Author>
+		<Year>1993</Year>
+		<Title>The Maastrichtian-Danian radiation of triserial and biserial planktic Foraminifera: testing phylogenetic and adaptational hypotheses in the (micro)fossil record</Title>
+		<Journal>Marine Micropaleontology</Journal>
+		<Volume>21</Volume>
+		<Pages>47-100</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="15">
+		<List>Heterohelix_globulosa</List>
+		<List>Guembelitria_cretacea</List>
+		<List>Guembelitria_trifolia</List>
+		<List>Guembelitria_danica</List>
+		<List>Guembelitria_irregularis</List>
+		<List>Woodringina_claytonensis</List>
+		<List>Woodringina_cf_kelleri</List>
+		<List>Woodringina_kelleri</List>
+		<List>Woodringina_hornerstownensis</List>
+		<List>Chiloguembelina_waipanensis</List>
+		<List>Chiloguembelina_waiparensis</List>
+		<List>Chiloguembelina_midwayenensis</List>
+		<List>Chiloguembelina_morsei</List>
+		<List>Chiloguembelina_taurica</List>
+		<List>Chiloguembelina_crinita</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="52">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>MacLeod_1993aa</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,71 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Cheng, L.</List>
+			<List>Chen, X.-H.</List>
+			<List>Zeng, X.-W.</List>
+			<List>Cai, Y.-J.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>A new eosauropterygian (Diapsida: Sauropterygia) from the Middle Triassic of Luoping, Yunnan Province</Title>
+		<Journal>Journal of Earth Sciences</Journal>
+		<Volume>23</Volume>
+		<Pages>33-40</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="34">
+		<List>Ancestor</List>
+		<List>Captorhinidae</List>
+		<List>Testudines</List>
+		<List>Araeoscelidia</List>
+		<List>Younginiformes</List>
+		<List>Kuehneosauridae</List>
+		<List>Rhynchocephalia</List>
+		<List>Squamata</List>
+		<List>Rhynchosauria</List>
+		<List>Prolacertiformes</List>
+		<List>Trilophosaurus</List>
+		<List>Choristodera</List>
+		<List>Archosauriformes</List>
+		<List>Claudiosaurus</List>
+		<List>AnaroDactylo</List>
+		<List>Serpiano_dash_Neustico</List>
+		<List>Simosaurus</List>
+		<List>Nothosaurus</List>
+		<List>Lariosaurus</List>
+		<List>Corosaurus</List>
+		<List>Cymatosaurus</List>
+		<List>Germanosaurus</List>
+		<List>Pistosaurus</List>
+		<List>Placodus</List>
+		<List>Chinchenia</List>
+		<List>Kwangsisaurus</List>
+		<List>Sanchiaosaurus</List>
+		<List>Cyamodus</List>
+		<List>Augustasaurus</List>
+		<List>Plesiosaurus</List>
+		<List>Keichousaurus</List>
+		<List>Wumengosaurus</List>
+		<List>Odontochelys</List>
+		<List>Largocephalosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="137">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Cheng_etal_2012b</Filename>
+	<Parent>Wu_etal_2011a</Parent>
+	<Sibling/>
+</SourceTree>

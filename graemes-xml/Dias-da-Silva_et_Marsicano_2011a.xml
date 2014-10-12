@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Dias-da-Silva, S.</List>
+			<List>Marsicano, C.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>Phylogenetic reappraisal of Rhytidosteidae (Stereospondyli: Trematosauria), temnospondyl amphibians from the Permian and Triassic</Title>
+		<Journal>Journal of Systematic Palaeontology</Journal>
+		<Volume>9</Volume>
+		<Pages>305-325</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="28">
+		<List>Benthosuchus</List>
+		<List>Watsonisuchus</List>
+		<List>Rhineceps</List>
+		<List>Australerpeton</List>
+		<List>Peltobatrachus</List>
+		<List>Xenobrachyops</List>
+		<List>Bothriceps</List>
+		<List>Keratobrachyops</List>
+		<List>Lapillopsis</List>
+		<List>Trematosaurus</List>
+		<List>Lydekkerina</List>
+		<List>Luzocephalus</List>
+		<List>Chomatobatrachus</List>
+		<List>Laidleria</List>
+		<List>Uruyiella</List>
+		<List>Rhytidosteus</List>
+		<List>Boreopelta</List>
+		<List>Deltasaurus</List>
+		<List>Arcadia</List>
+		<List>Peltostega</List>
+		<List>Pneumatostega</List>
+		<List>Derwentia</List>
+		<List>Nanolania</List>
+		<List>Sangaia</List>
+		<List>Mahavisaurus</List>
+		<List>Indobrachyops</List>
+		<List>Trucheosaurus</List>
+		<List>Rewana</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="87">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Dias-da-Silva_et_Marsicano_2011a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

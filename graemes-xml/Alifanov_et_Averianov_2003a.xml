@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Alifanov, V. R.</List>
+			<List>Averianov, A. O.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>Ferganasaurus verzilini, gen. et sp. nov., a new neosauropod (Dinosauria, Saurischia, Sauropoda) from the Middle Jurassic of Fergana Valley, Kirghizia</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>23</Volume>
+		<Pages>358-372</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="23">
+		<List>Ancestor</List>
+		<List>Vulcanodon</List>
+		<List>Barapasaurus</List>
+		<List>Datousaurus</List>
+		<List>Shunosaurus</List>
+		<List>Omeisaurus</List>
+		<List>Tehuelchesaurus</List>
+		<List>Mamenchisaurus</List>
+		<List>Euhelopus</List>
+		<List>Patagosaurus</List>
+		<List>Cetiosaurus</List>
+		<List>Jobaria</List>
+		<List>Ferganasaurus</List>
+		<List>Nemegtosauridae</List>
+		<List>Rebbachisaurus</List>
+		<List>Diplodocidae</List>
+		<List>Dicreasauridae</List>
+		<List>Camarasaurus</List>
+		<List>Haplocanthosaurus</List>
+		<List>Brachiosaurus</List>
+		<List>Titanosauria</List>
+		<List>Lapparentosaurus</List>
+		<List>Phuwiangosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="205">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Alifanov_et_Averianov_2003a</Filename>
+	<Parent>Upchurch_1998a</Parent>
+	<Sibling/>
+</SourceTree>

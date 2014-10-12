@@ -1,0 +1,84 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Frobisch, J.</List>
+			<List>Reisz, R. R.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>The postcranial anatomy of <em>Suminia getmanovi</em> (Synapsida: Anomodontia), the earliest known arboreal tetrapod</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>162</Volume>
+		<Pages>661-698</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="49">
+		<List>Dimetrodon</List>
+		<List>Biarmosuchus</List>
+		<List>Titanophoneus</List>
+		<List>Gorgonops</List>
+		<List>Lycosuchidae</List>
+		<List>Biseridens</List>
+		<List>Anomocephalus</List>
+		<List>Otsheria</List>
+		<List>Ulemica</List>
+		<List>Suminia</List>
+		<List>Galechirus</List>
+		<List>Galepus</List>
+		<List>Patranomodon</List>
+		<List>Galeops</List>
+		<List>Eodicynodon</List>
+		<List>Colobodectes</List>
+		<List>Diictodon</List>
+		<List>Robertia</List>
+		<List>Pristerodon</List>
+		<List>Lanthanostegus</List>
+		<List>Chelydontops</List>
+		<List>Endothiodon</List>
+		<List>Emydops_arctatus</List>
+		<List>Emydops_oweni</List>
+		<List>Dicynodontoides</List>
+		<List>Kombuisia_frerensis</List>
+		<List>Kombuisia_antarctica</List>
+		<List>Myosaurus</List>
+		<List>Cistecephalus</List>
+		<List>Cistecephaloides</List>
+		<List>Kawingasaurus</List>
+		<List>Rhachiocephalus</List>
+		<List>Oudenodon</List>
+		<List>Tropidostoma</List>
+		<List>Australobarbarus</List>
+		<List>Idelesaurus</List>
+		<List>Aulacephalodon</List>
+		<List>Pelanomodon</List>
+		<List>Geikia_elginensis</List>
+		<List>Geikia_locusticeps</List>
+		<List>Elph</List>
+		<List>Interpresosaurus</List>
+		<List>Delectosaurus</List>
+		<List>D_lacerticeps</List>
+		<List>Lystrosaurus</List>
+		<List>Kannemeyeria</List>
+		<List>D_amalitzkii</List>
+		<List>D_trautscholdi</List>
+		<List>Vivaxosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="115">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Frobisch_et_Reisz_2011a</Filename>
+	<Parent>Frobisch_etal_2010a</Parent>
+	<Sibling/>
+</SourceTree>

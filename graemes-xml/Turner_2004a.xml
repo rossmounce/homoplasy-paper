@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Turner, A. H.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>Crocodyliform biogeography during the Cretaceous: evidence of Gondwanan vicariance from biogeographical analysis</Title>
+		<Journal>Proceedings of the Royal Society of London B</Journal>
+		<Volume>271</Volume>
+		<Pages>2003-2009</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="31">
+		<List>Protosuchus</List>
+		<List>Notosuchus</List>
+		<List>Baurusuchus</List>
+		<List>Sebecus</List>
+		<List>undescribed_malagasy_crocodyliform</List>
+		<List>Araripesuchus_patagonicus</List>
+		<List>Araripesuchus_gomesii</List>
+		<List>Alligatorium</List>
+		<List>Theriosuchus</List>
+		<List>Pelagosaurus</List>
+		<List>Teleosauridae</List>
+		<List>Metriorhynchidae</List>
+		<List>Eutretauranosuchus</List>
+		<List>Goniopholis</List>
+		<List>Bernissartia</List>
+		<List>Crocodylia</List>
+		<List>Hemiprotosuchus</List>
+		<List>Orthosuchus</List>
+		<List>Mahajangasuchus</List>
+		<List>Peirosauridae</List>
+		<List>Hsisosuchus</List>
+		<List>Trematochampsa</List>
+		<List>Uruguaysuchus</List>
+		<List>Malawisuchus</List>
+		<List>Comahuesuchus</List>
+		<List>Anatosuchus</List>
+		<List>Simosuchus</List>
+		<List>South_American_form</List>
+		<List>Bretesuchus</List>
+		<List>Iberosuchus</List>
+		<List>Pabwehshi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="127">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Turner_2004a</Filename>
+	<Parent>Clark_1994a</Parent>
+	<Sibling/>
+</SourceTree>

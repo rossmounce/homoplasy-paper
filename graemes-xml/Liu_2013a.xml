@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Liu, J.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>Osteology, ontogeny, and phylogenetic position of <em>Sinophoneus yumenensis</em> (Therapsida, Dinocephalia) from the Middle Permian Dashankou Fauna of China</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>33</Volume>
+		<Pages>1394-1407</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Biarmosuchus</List>
+		<List>Estemmenosuchus</List>
+		<List>Ulemosaurus</List>
+		<List>Tapinocaninus</List>
+		<List>Archaeosyodon</List>
+		<List>Sinophoneus</List>
+		<List>Tadamanteus</List>
+		<List>Tpotens</List>
+		<List>Anteosaurus</List>
+		<List>Pampaphoneus</List>
+		<List>Notosyodon</List>
+		<List>Syodon</List>
+		<List>Australosyodon</List>
+		<List>Microsyodon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="40">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Liu_2013a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

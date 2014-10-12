@@ -1,0 +1,83 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Xu, X.</List>
+			<List>Zhang, F.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>A new maniraptoran dinosaur from China with long feathers on the metatarsus</Title>
+		<Journal>Naturwissenschaften</Journal>
+		<Volume>92</Volume>
+		<Pages>173-177</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="48">
+		<List>Allosaurus_fragilis</List>
+		<List>Ornitholestes_hermanni</List>
+		<List>Incisivosaurus_gauthieri</List>
+		<List>Caudipteryx_zoui</List>
+		<List>Ingenia_yanshini</List>
+		<List>Oviraptor_philoceratops</List>
+		<List>Microvenator_celer</List>
+		<List>Oviraptor_rnongoliensis</List>
+		<List>Conchoraptor_gracilis</List>
+		<List>Chirostenotes_pergracilis</List>
+		<List>Avimimus_portentosus</List>
+		<List>Alxasaurus_elesitaiensis</List>
+		<List>Segnosaurus_galbinensis</List>
+		<List>Erlikosaurus_andrewsi</List>
+		<List>Pedopenna_daohugouensis</List>
+		<List>Drornaeosaurus_a1bertensis</List>
+		<List>Deinonychus_antirrhopus</List>
+		<List>Velociraptor_rnongoliensis</List>
+		<List>Unenlagia_comahuensis</List>
+		<List>Adasaurus_mongoliensis</List>
+		<List>Utahraptor_ostrommaysorum</List>
+		<List>Saurornitholestes_langstoni</List>
+		<List>Achillobator_giganticus</List>
+		<List>Sinornithosaurus_millenni</List>
+		<List>Microraptor_zhaoianus</List>
+		<List>Graciliraptor_lujiatunensis</List>
+		<List>Sinovenator_changii</List>
+		<List>Byronosaurus_jaffei</List>
+		<List>Sinornithoides_youngi</List>
+		<List>Troodon_formosus</List>
+		<List>Saurornithoides_mongoliensis</List>
+		<List>Saurornithoides_junior</List>
+		<List>Archaeopteryx_lithographica</List>
+		<List>Epidendrosaurus_ningchengensis</List>
+		<List>Confuciusornis_sanctus</List>
+		<List>Rahonavis_ostromi</List>
+		<List>Jeholornis_prima</List>
+		<List>Alvarezsaurus_calvoi</List>
+		<List>Patagonykus_puertai</List>
+		<List>Mononykus_olecranus</List>
+		<List>Shuuvuia_deserti</List>
+		<List>Struthiomimus_altus</List>
+		<List>Gallimimus_bullatus</List>
+		<List>Garudimimus_brevipes</List>
+		<List>Pelecanimimus_polyodon</List>
+		<List>Harpymimus_okladnikovi</List>
+		<List>Tyrannosaurus_rex</List>
+		<List>Albertosaurus_libratus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="257">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Xu_et_Zhang_2005a</Filename>
+	<Parent>Xu_et_Wang_2004a</Parent>
+	<Sibling/>
+</SourceTree>

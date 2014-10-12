@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Weinbaum, J. C.</List>
+			<List>Hungerbuhler, A.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>A revision of <em>Poposaurus gracilis</em> (Archosauria: Suchia) based on two new specimens from the Late Triassic of the southwestern U.S.A</Title>
+		<Journal>Palaontologische Zeitschrift</Journal>
+		<Volume>81</Volume>
+		<Pages>131-145</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List>Phytosauria</List>
+		<List>Stagonolepididae</List>
+		<List>Arizonasaurus</List>
+		<List>Poposaurus</List>
+		<List>Shuvosaurus</List>
+		<List>Sillosuchus</List>
+		<List>Batrachotomus</List>
+		<List>Saurosuchus</List>
+		<List>Teratosaurus</List>
+		<List>Postosuchus</List>
+		<List>Crocodylomorpha</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="34">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Weinbaum_et_Hungerbuhler_2007a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,87 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Benson, R. B. J.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>Interrelationships of basal synapsids: cranial and postcranial morphological partitions suggest different topologies</Title>
+		<Journal>Journal of Systematic Palaeontology</Journal>
+		<Volume>10</Volume>
+		<Pages>601-624</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="53">
+		<List>Tseajaia_campi</List>
+		<List>Limnoscelis</List>
+		<List>Captorhinus</List>
+		<List>Protorothyris_archeri</List>
+		<List>Dimetrodon_spp</List>
+		<List>Secodontosaurus_obtusidens</List>
+		<List>Ctenorhachis_jacksoni</List>
+		<List>Sphenacodon_ferocior</List>
+		<List>Cryptovenator_hirschbergeri</List>
+		<List>Titanophoneus_potens</List>
+		<List>Biarmosuchus_tener</List>
+		<List>Raranimus_dashankouensis</List>
+		<List>Biseridens_qilianicus</List>
+		<List>Pantelosaurus_saxonicus</List>
+		<List>Cutleria_wilmarthi</List>
+		<List>Ianthodon_schultzei</List>
+		<List>Haptodus_garnettensis</List>
+		<List>Edaphosaurus_boanerges</List>
+		<List>Edaphosaurus_novomexicanus</List>
+		<List>Lupeosaurus_kayi</List>
+		<List>Ianthasaurus_hardestii</List>
+		<List>Glaucosaurus</List>
+		<List>Ecinerpeton_intermedium</List>
+		<List>Archaeothyris_florensis</List>
+		<List>Varanosaurus_acutirostris</List>
+		<List>Ophiacodon_spp</List>
+		<List>Stereophallodon_ciscoensis</List>
+		<List>Oromycter_dolesorum</List>
+		<List>Ennatosaurus_tecton</List>
+		<List>Eothyris_parkeyi</List>
+		<List>Oedaleops_campi</List>
+		<List>Casea_broilii</List>
+		<List>Cotylorhynchus_romeri</List>
+		<List>Angelosaurus_romeri</List>
+		<List>Angelosaurus_dolani</List>
+		<List>Caseopsis_agilis</List>
+		<List>Trichasaurus_texensis</List>
+		<List>Cotylorhynchus_hancocki</List>
+		<List>Cotylorhynchus_bransoni</List>
+		<List>Casea_rutena</List>
+		<List>Watonia_meieri</List>
+		<List>Ruthiromia_elcobriensis</List>
+		<List>Varanodon_agilis</List>
+		<List>Varanops_brevirostris</List>
+		<List>Aerosaurus_wellesi</List>
+		<List>Aerosaurus_greenleorum</List>
+		<List>Basicranodon_fortsillensis</List>
+		<List>Archaeovenator_hamiltonensis</List>
+		<List>Mesenosaurus_romeri</List>
+		<List>Mycterosaurus</List>
+		<List>Heleosaurus_scholtzi</List>
+		<List>BP_1_5678_Elliotsmithia</List>
+		<List>Pyozia_mesensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="239">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Benson_2012a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

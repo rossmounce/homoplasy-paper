@@ -1,0 +1,73 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Rauhut, O. W. M.</List>
+			<List>Milner, A. C.</List>
+			<List>Moore-Fay, S.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>Cranial osteology and phylogenetic position of the theropod dinosaur Proceratosaurus bradleyi (Woodward, 1910) from the Middle Jurassic of England</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>158</Volume>
+		<Pages>155-195</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="37">
+		<List>Euparkeria</List>
+		<List>Marasuchus</List>
+		<List>Ornithischia</List>
+		<List>Sauropodom.</List>
+		<List>Eoraptor</List>
+		<List>Herrerasaurus</List>
+		<List>Staurikosaurus</List>
+		<List>Coelophysoidea</List>
+		<List>Dilophosaurus</List>
+		<List>Ceratosaurus</List>
+		<List>Abelisauroidea</List>
+		<List>Elaphrosaurus</List>
+		<List>Piatnitzky</List>
+		<List>S.zigongensis</List>
+		<List>Spinosauroidea</List>
+		<List>Monolopho</List>
+		<List>Neovenator</List>
+		<List>Siamotyrannus</List>
+		<List>Allosaurus</List>
+		<List>Carcharodont</List>
+		<List>Sinraptoridae</List>
+		<List>Tugulusaurus</List>
+		<List>C.maortuensis</List>
+		<List>Coelurus</List>
+		<List>Sinosauro.</List>
+		<List>Ornitholestes</List>
+		<List>Tanycolagreus</List>
+		<List>Ornithomimo</List>
+		<List>Bagaraatan</List>
+		<List>Maniraptora</List>
+		<List>Dilong</List>
+		<List>Guanlong</List>
+		<List>Procerato</List>
+		<List>Stokesosaurus</List>
+		<List>Tyrannos</List>
+		<List>Compsognathus</List>
+		<List>Mirischia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="206">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Rauhut_etal_2010a</Filename>
+	<Parent>Rauhut_2003a</Parent>
+	<Sibling/>
+</SourceTree>

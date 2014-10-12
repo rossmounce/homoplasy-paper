@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sues, H.-D.</List>
+			<List>Olsen, P. E.</List>
+			<List>Carter, J. G.</List>
+			<List>Scott, D. M.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>A new crocodylomorph archosaur from the Upper Triassic of North Carolina</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>23</Volume>
+		<Pages>329-343</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Stagonolepis</List>
+		<List>Gracilisuchus</List>
+		<List>Postosuchus</List>
+		<List>BP_slash_1_slash_5237</List>
+		<List>Pseudhesperosuchus</List>
+		<List>Dromicosuchus</List>
+		<List>Saltoposuchus</List>
+		<List>Terrestrisuchus</List>
+		<List>Hesperosuchus</List>
+		<List>Dibothrosuchus</List>
+		<List>Sphenosuchus</List>
+		<List>Kayentasuchus</List>
+		<List>Protosuchus</List>
+		<List>Alligator</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="34">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sues_etal_2003a</Filename>
+	<Parent>Clark_etal_2000a</Parent>
+	<Sibling/>
+</SourceTree>

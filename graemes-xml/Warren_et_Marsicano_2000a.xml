@@ -1,0 +1,61 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Warren, A.</List>
+			<List>Marsicano, C.</List>
+		</Author>
+		<Year>2000</Year>
+		<Title>A phylogeny of the Brachyopoidea (Temnospondyli, Stereospondyli)</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>20</Volume>
+		<Pages>462-483</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="26">
+		<List>outgroup</List>
+		<List>Dvinosauridae</List>
+		<List>Tupilakosauridae</List>
+		<List>Rhineceps</List>
+		<List>Watsonisuchus</List>
+		<List>Rhytidosteidae</List>
+		<List>Brachyops</List>
+		<List>Bothriceps</List>
+		<List>Platycepsion</List>
+		<List>Batrachosuchus_browni</List>
+		<List>Batrachosuchus_watsoni</List>
+		<List>Xenobrachyops</List>
+		<List>Batrachosuchus_concordi</List>
+		<List>Batrachosuchus_henwoodi</List>
+		<List>Banksiops</List>
+		<List>Hadrokkosaurus</List>
+		<List>Notobrachyops</List>
+		<List>Batrachosuchoides</List>
+		<List>Sinobrachyops</List>
+		<List>Keratobrachyops_australis</List>
+		<List>Keratobrachyops_sp</List>
+		<List>Pelorocephalus_spp</List>
+		<List>Kuttycephalus</List>
+		<List>Compsocerops</List>
+		<List>Siderops</List>
+		<List>Koolasuchus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="60">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Warren_et_Marsicano_2000a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

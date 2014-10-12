@@ -1,0 +1,44 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Hopkins, S. S. B.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>Phylogeny and biogeography of the genus <em>Ansomys</em> Qiu, 1987 (Mammalia: Rodentia: Aplodontidae) and description of a new species from the Barstovian (mid-Miocene) of Montana</Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>78</Volume>
+		<Pages>731-740</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="10">
+		<List>Prosciurus</List>
+		<List>A_hepburnensis_n_sp</List>
+		<List>A_orientalis</List>
+		<List>A_shantungensis</List>
+		<List>A_crucifer</List>
+		<List>A_nexodens</List>
+		<List>A_descendens</List>
+		<List>A_shanwangensis</List>
+		<List>P_atavus</List>
+		<List>P_angustidens</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="31">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Hopkins_2004a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sidor, C. A.</List>
+			<List>Hopson, J. A.</List>
+		</Author>
+		<Year>1998</Year>
+		<Title>Ghost lineages and &quot;mammalness&quot;: assessing the temporal pattern of character acquisition in the Synapsida</Title>
+		<Journal>Paleobiology</Journal>
+		<Volume>24</Volume>
+		<Pages>254-273</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="21">
+		<List>Ophiacodontidae</List>
+		<List>Edaphosauridae</List>
+		<List>Haptodus</List>
+		<List>Sphenacodontidae</List>
+		<List>Biarmosuchia</List>
+		<List>Eotitanosuchus</List>
+		<List>Anteosauridae</List>
+		<List>Estemmenosuchidae</List>
+		<List>Anomodontia</List>
+		<List>Gorgonopsidae</List>
+		<List>Therocephalia</List>
+		<List>Dvinia</List>
+		<List>Procynosuchus</List>
+		<List>Galesauridae</List>
+		<List>Thrinaxodon</List>
+		<List>Cynognathia</List>
+		<List>Probainognathus</List>
+		<List>Probelesodon</List>
+		<List>Trithelodontidae</List>
+		<List>Morganucodontidae</List>
+		<List>Sinoconodon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="181">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sidor_et_Hopson_1998a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

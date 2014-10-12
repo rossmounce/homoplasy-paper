@@ -1,0 +1,96 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Schultze, H.-P.</List>
+			<List>Marshall, C. R.</List>
+		</Author>
+		<Year>1993</Year>
+		<Title>Contrasting the use of functional complexes and isolated characters in lungfish evolution</Title>
+		<Journal>Memoirs of the Association of Australasian Palaeontologists</Journal>
+		<Volume>15</Volume>
+		<Pages>211-224</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="61">
+		<List>Diabolepis</List>
+		<List>Uranolophus</List>
+		<List>Speonesydrion_leh</List>
+		<List>Speonesydrion_ian</List>
+		<List>Dipnorhynchuis_sus</List>
+		<List>Dipnorhynchus_kian</List>
+		<List>Dipnorhynchus_kur</List>
+		<List>Stomiahykus</List>
+		<List>Dipterus_valenc</List>
+		<List>Dipterus_cf_val</List>
+		<List>Sorbitorhynchus</List>
+		<List>Pentlandia</List>
+		<List>Iowadipterus</List>
+		<List>Rhinodipterus_ulr</List>
+		<List>Rhinodipterus_sec</List>
+		<List>Grossipterus</List>
+		<List>Scaumenacia</List>
+		<List>Fleurantia</List>
+		<List>Griphognathus_scul</List>
+		<List>Griphognathus_whit</List>
+		<List>Chirodipterus_wild</List>
+		<List>Chirodipterus_aus</List>
+		<List>Pillararhynchus</List>
+		<List>Eoctenodus</List>
+		<List>Holodipterus</List>
+		<List>Archaeonectes</List>
+		<List>Rhynchodipterus</List>
+		<List>Jarvikia</List>
+		<List>Soederberghia</List>
+		<List>Oervigia</List>
+		<List>Nielsenia</List>
+		<List>Phaneropleuron</List>
+		<List>Andreyevicthys</List>
+		<List>Orlovichthys</List>
+		<List>Proceratodus</List>
+		<List>Delatitia</List>
+		<List>Parasagenodus</List>
+		<List>Tranodis</List>
+		<List>Straitonia</List>
+		<List>Ctenodus</List>
+		<List>Sagenodus</List>
+		<List>Ganopristodus</List>
+		<List>Palaeophichthys</List>
+		<List>Megapleuron</List>
+		<List>Conchopoma</List>
+		<List>Gnathorhiza</List>
+		<List>Beltanodus</List>
+		<List>Ceratodus_latiss</List>
+		<List>Ceratodus_formos</List>
+		<List>Gosfordia</List>
+		<List>Microceratodus</List>
+		<List>Paraceratodus</List>
+		<List>Ptychoceratodus</List>
+		<List>Asiatoceratodus</List>
+		<List>Arganodus</List>
+		<List>Tellerodus</List>
+		<List>Ferganoceratodus</List>
+		<List>Metaceratodus</List>
+		<List>Neoceratodus</List>
+		<List>Protopterus</List>
+		<List>Lepidosiren</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="90">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Schultze_et_Marshall_1993a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

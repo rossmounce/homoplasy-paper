@@ -1,0 +1,40 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Knoll, F.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>On the Procompsognathus postcranium (Late Triassic, Germany)</Title>
+		<Journal>Geobios</Journal>
+		<Volume>41</Volume>
+		<Pages>779-786</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="6">
+		<List>Ceratosaurus</List>
+		<List>Dilophosaurus</List>
+		<List>Liliensternus</List>
+		<List>Segisaurus</List>
+		<List>Procompsognathus</List>
+		<List>Coelophysis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological/>
+		<Behavioural/>
+		<Other number="21">
+			<Type>Matrix Representation with Parsimony</Type>
+		</Other>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Knoll_2008a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

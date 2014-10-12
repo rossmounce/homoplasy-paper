@@ -1,0 +1,66 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Fischer, V.</List>
+			<List>Appleby, R. M.</List>
+			<List>Naish, D.</List>
+			<List>Liston, J.</List>
+			<List>Riding, J. B.</List>
+			<List>Brindley, S.</List>
+			<List>Godefroit, P.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>A basal thunnosaurian from Iraq reveals disparate phylogenetic origins for Cretaceous ichthyosaurs</Title>
+		<Journal>Biology Letters</Journal>
+		<Volume>9</Volume>
+		<Pages>20130021</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="26">
+		<List>Mikadocephalus_gracilirostris</List>
+		<List>Hudsonelpidia_brevirostris</List>
+		<List>Macgowania_janiceps</List>
+		<List>Leptonectes_tenuirostris</List>
+		<List>Excalibosaurus_costini</List>
+		<List>Eurhinosaurus_longirostris</List>
+		<List>Temnodontosaurus_spp</List>
+		<List>Suevoleviathan_disinteger</List>
+		<List>Ichthyosaurus_communis</List>
+		<List>Hauffiopteryx_typicus</List>
+		<List>Stenopterygius_quadriscissus</List>
+		<List>Chacaicosaurus_cayi</List>
+		<List>Ophthalmosaurus_icenicus</List>
+		<List>Ophthalmosaurus_natans</List>
+		<List>Mollesaurus_perialus</List>
+		<List>Acamptonectes_densus</List>
+		<List>Brachypterygius_extremus</List>
+		<List>Arthropterygius_chrisorum</List>
+		<List>Caypullisaurus_bonapartei</List>
+		<List>Aegirosaurus_leptospondylus</List>
+		<List>Platypterygius_australis</List>
+		<List>Platypterygius_hercynicus</List>
+		<List>Maiaspondylus_lindoei</List>
+		<List>Athabascasaurus_bitumineus</List>
+		<List>Sveltonectes_insolitus</List>
+		<List>Malawania_anachronus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="66">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Fischer_etal_2013aa</Filename>
+	<Parent>Fischer_etal_2012a</Parent>
+	<Sibling/>
+</SourceTree>

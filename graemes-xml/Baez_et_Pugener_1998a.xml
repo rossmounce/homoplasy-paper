@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Baez, A. M.</List>
+			<List>Pugener, L. A.</List>
+		</Author>
+		<Year>1998</Year>
+		<Title>A new Paleogene pipid frog from northwestern Patagonia</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>18</Volume>
+		<Pages>511-524</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Discoglossus</List>
+		<List>Pelobates</List>
+		<List>Rhinophrynus</List>
+		<List>Chelomophrynus</List>
+		<List>Palaeobatrachus</List>
+		<List>Xenopus</List>
+		<List>Silurana</List>
+		<List>Shelania_pascuali</List>
+		<List>Pipa</List>
+		<List>Eoxenopoides</List>
+		<List>Hymenochirini</List>
+		<List>Saltenia</List>
+		<List>Xenopus_romeri</List>
+		<List>Shelania_laurenti</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="47">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Baez_et_Pugener_1998a</Filename>
+	<Parent>Baez_et_Trueb_1997a</Parent>
+	<Sibling/>
+</SourceTree>

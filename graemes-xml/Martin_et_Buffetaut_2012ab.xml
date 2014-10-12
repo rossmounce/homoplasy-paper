@@ -1,0 +1,107 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Martin, J. E.</List>
+			<List>Buffetaut, E.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>The maxillary depression of Pholidosauridae: an anatomical study</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>32</Volume>
+		<Pages>1442-1446</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="72">
+		<List>Gracilisuchus_stipanicicorum</List>
+		<List>Terrestrisuchus_gracilis</List>
+		<List>Dibothrosuchus_elaphros</List>
+		<List>Protosuchus_richardsoni</List>
+		<List>Hemiprotosuchus_leali</List>
+		<List>Orthosuchus_stormbergi</List>
+		<List>Kayenta_form</List>
+		<List>Edentosuchus_tienshanensis</List>
+		<List>Zaraasuchus_shepardi</List>
+		<List>Gobiosuchus_kielanae</List>
+		<List>Sichuanosuchus_shuhanensis</List>
+		<List>Shantungosuchus_hangjinensis</List>
+		<List>Zosuchus_davidsoni</List>
+		<List>Fruita_form</List>
+		<List>Hsisosuchus_chungkingensis</List>
+		<List>Notosuchus_terrestris</List>
+		<List>Comahuesuchus_brachybuccalis</List>
+		<List>Mariliasuchus_amarali</List>
+		<List>Uruguaysuchus_aznarezi</List>
+		<List>Chimaerasuchus_paradoxus</List>
+		<List>Malawisuchus_mwakayasyungutiensis</List>
+		<List>Candidodon_itapecurense</List>
+		<List>Simosuchus_clarki</List>
+		<List>Sphagesaurus_huenei</List>
+		<List>Baurusuchus_pachecoi</List>
+		<List>Bretesuchus_bonapartei</List>
+		<List>Iberosuchus_macrodon</List>
+		<List>Libycosuchus_brevirostris</List>
+		<List>Araripesuchus_gomesii</List>
+		<List>Araripesuchus_patagonicus</List>
+		<List>Araripesuchus_buitreraensis</List>
+		<List>Araripesuchus_wegeneri</List>
+		<List>Araripesuchus_tsangatsangana</List>
+		<List>Lomasuchus_palpebrosus</List>
+		<List>Peirosaurus_torminni</List>
+		<List>Theriosuchus_pusillus</List>
+		<List>Alligatorium</List>
+		<List>Pelagosaurus_typus</List>
+		<List>Steneosaurus_bollensis</List>
+		<List>Metriorhynchus_superciliosus</List>
+		<List>Metriorhynchus_casamiquelai</List>
+		<List>Geosaurus_araucanensis</List>
+		<List>Geosaurus_suevicus</List>
+		<List>Dakosaurus_maximus</List>
+		<List>Dakosaurus_andiniensis</List>
+		<List>Sokotosuchus_ianwilsoni</List>
+		<List>Rhabdognathus_sp</List>
+		<List>Dyrosaurus_sp</List>
+		<List>Hyposaurus_rogersii</List>
+		<List>Pholidosaurus_purbeckensis</List>
+		<List>Sarcosuchus_imperator</List>
+		<List>Terminonaris_robusta</List>
+		<List>Goniopholis_simus</List>
+		<List>Goniopholis_stovalli</List>
+		<List>Eutretauranosuchus_delfsi</List>
+		<List>Calsoyasuchus_valliceps</List>
+		<List>Sunosuchus_junggarensis</List>
+		<List>Bernissartia_fagesii</List>
+		<List>Shamosuchus_djadochtaensis</List>
+		<List>Rugosuchus_nonganensis</List>
+		<List>GlenRose_Form</List>
+		<List>Hylaeochampsa_vectiana</List>
+		<List>Borealosuchus_formidabilis</List>
+		<List>Argochampsa_krebsi</List>
+		<List>Eothoracosaurus_mississippiensis</List>
+		<List>Gavialis_gangeticus</List>
+		<List>Leidyosuchus_canadensis</List>
+		<List>Pristichampsus_vorax</List>
+		<List>Asiatosuchus_germanicus</List>
+		<List>Crocodylus_niloticus</List>
+		<List>Diplocynodon_hantoniensis</List>
+		<List>Alligator_mississippiensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="282">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Martin_et_Buffetaut_2012ab</Filename>
+	<Parent>Pol_etal_2009a</Parent>
+	<Sibling/>
+</SourceTree>

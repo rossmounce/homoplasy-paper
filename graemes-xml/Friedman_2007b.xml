@@ -1,0 +1,73 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Friedman, M.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title><em>Styloichthys</em> as the oldest coelacanth: implications for early osteichthyan interrelationships</Title>
+		<Journal>Journal of Systematic Palaeontology</Journal>
+		<Volume>5</Volume>
+		<Pages>289-343</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="39">
+		<List>Osteostraci</List>
+		<List>Strunius</List>
+		<List>Acanthodes</List>
+		<List>Achoania</List>
+		<List>Akmonistion</List>
+		<List>Cheirolepis</List>
+		<List>Diaboepis</List>
+		<List>Dicksonosteus</List>
+		<List>Diplocercides</List>
+		<List>Dipnorhynchus</List>
+		<List>Dipterus</List>
+		<List>Eusthenopteron</List>
+		<List>Glyptolepis</List>
+		<List>Ichthyostega</List>
+		<List>Kenichthys</List>
+		<List>Ligulalepis</List>
+		<List>Miguashaia</List>
+		<List>Mimia</List>
+		<List>Moythomasia</List>
+		<List>Onychodus</List>
+		<List>Osteolepis</List>
+		<List>Panderichthys</List>
+		<List>Porolepis</List>
+		<List>Powichthys</List>
+		<List>Psarolepis</List>
+		<List>Speonesydrion</List>
+		<List>Uranolophus</List>
+		<List>Youngolepis</List>
+		<List>Styloichthys</List>
+		<List>Bothriolepis</List>
+		<List>Cowralepis</List>
+		<List>Dialipina</List>
+		<List>Doliodus</List>
+		<List>Euporosteus</List>
+		<List>Gavinia</List>
+		<List>Howqualepis</List>
+		<List>Ischnacanthidae</List>
+		<List>Latimeria</List>
+		<List>Meemannia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="195">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Friedman_2007b</Filename>
+	<Parent>Zhu_et_Yu_2002a</Parent>
+	<Sibling/>
+</SourceTree>

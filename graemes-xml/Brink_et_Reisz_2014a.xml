@@ -1,0 +1,44 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Brink, K. S.</List>
+			<List>Reisz, R. R.</List>
+		</Author>
+		<Year>2014</Year>
+		<Title>Hidden dental diversity in the oldest terrestrial apex predator <em>Dimetrodon</em></Title>
+		<Journal>Nature Communications</Journal>
+		<Volume>5</Volume>
+		<Pages>3269</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="9">
+		<List>Haptodus_garnettensis</List>
+		<List>Cutleria</List>
+		<List>Sphenacodon_ferocior</List>
+		<List>Ctenospondylus_spp</List>
+		<List>Dimetrodon_milleri</List>
+		<List>Dimetrodon_limbatus</List>
+		<List>Dimetrodon_grandis</List>
+		<List>Secodontosaurus</List>
+		<List>Alrausuchus_Therapsida</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="122">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Brink_et_Reisz_2014a</Filename>
+	<Parent>Frobisch_etal_2011a</Parent>
+	<Sibling/>
+</SourceTree>

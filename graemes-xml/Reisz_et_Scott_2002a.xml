@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Reisz, R. R.</List>
+			<List>Scott, D.</List>
+		</Author>
+		<Year>2002</Year>
+		<Title><em>Owenetta kitchingorum</em>, sp. nov., a small parareptile (Procolophonia: Owenettidae) from the Lower Triassic of South Africa</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>22</Volume>
+		<Pages>244-256</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List>Synapsida</List>
+		<List>Eureptilia</List>
+		<List>Mesosauridae</List>
+		<List>Millerettidae</List>
+		<List>Macroleter</List>
+		<List>Acleistorhinus</List>
+		<List>Lanthanosuchidae</List>
+		<List>Owenetta</List>
+		<List>Barasaurus</List>
+		<List>Procolophonidae</List>
+		<List>Pareiasauridae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="74">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Reisz_et_Scott_2002a</Filename>
+	<Parent>deBraga_et_Reisz_1996a</Parent>
+	<Sibling/>
+</SourceTree>

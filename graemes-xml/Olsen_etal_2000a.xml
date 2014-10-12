@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Olsen, P. E.</List>
+			<List>Sues, H.-D.</List>
+			<List>Norell, M. A.</List>
+		</Author>
+		<Year>2000</Year>
+		<Title>First record of Erpetosuchus (Reptilia: Archosauria) from the Late Triassic of North America</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>20</Volume>
+		<Pages>633-636</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="7">
+		<List>Stagonolepis</List>
+		<List>Gracilisuchus</List>
+		<List>Postosuchus</List>
+		<List>Erpetosuchus</List>
+		<List>Sphenosuchus</List>
+		<List>Protosuchus</List>
+		<List>Alligator</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="33">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Olsen_etal_2000a</Filename>
+	<Parent>Clark_etal_2000ab</Parent>
+	<Sibling/>
+</SourceTree>

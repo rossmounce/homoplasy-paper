@@ -1,0 +1,92 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Chen, R.-J.</List>
+			<List>Zheng, W.-J.</List>
+			<List>Azuma, Y.</List>
+			<List>Shibata, M.</List>
+			<List>Lou, T.-L.</List>
+			<List>Jin, Q.</List>
+			<List>Jin, X.-S.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>A new nodosaurid ankylosaur from the Chaochuan Formation of Dongyang, Zhejiang Province, China</Title>
+		<Journal>Acta Geologica Sinica</Journal>
+		<Volume>87</Volume>
+		<Pages>658-671</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="52">
+		<List>Lesothosaurus_diagnotsicus</List>
+		<List>Emausaurus</List>
+		<List>Scutellosaurus</List>
+		<List>Scelidosaurus</List>
+		<List>Huayangosaurus_tabaii</List>
+		<List>Stegosaurus</List>
+		<List>Anoplosaurus_curtonotus</List>
+		<List>Animantarx_ramaljonsei</List>
+		<List>Ankylosaurus_marginoventris</List>
+		<List>Antarctopelta_oliveroi</List>
+		<List>Cedarpelta_bilbeyhallorum</List>
+		<List>Chrichtonsaurus_benxiensis</List>
+		<List>Edmontonia</List>
+		<List>Euoplocephalus_tutus</List>
+		<List>Gargoyleosaurus_parkpinorum</List>
+		<List>Gastonia_burgei</List>
+		<List>Gobisaurus_domoculus</List>
+		<List>Hoplitosaurus_marshi</List>
+		<List>Hungarosaurus_tormai</List>
+		<List>Hylaeosaurus_armatus</List>
+		<List>Liaoningosaurus_paradoxus</List>
+		<List>Minmi_paravertebra</List>
+		<List>Minotaurasaurus_ramachandrani</List>
+		<List>Mymoorapelta_maysi</List>
+		<List>Niobrarasaurus_coleii</List>
+		<List>Nodocephalosaurus_kirtlandensis</List>
+		<List>Nodosaurus_textillis</List>
+		<List>Panoplosaurus_mirus</List>
+		<List>Pawpawsaurus_cambelli</List>
+		<List>Peloroplites_cedrimontanus</List>
+		<List>Pinacosaurus_grangeri</List>
+		<List>Pinacosaurus_mephistocephalus</List>
+		<List>Polacanthus_foxii</List>
+		<List>Polacanthus_rudgwickensis</List>
+		<List>Saichania_chulsanensis</List>
+		<List>Sauropelta_edwardsi</List>
+		<List>Shamosaurus_scutatus</List>
+		<List>Shanxia_tianzhenensis</List>
+		<List>Silvisaurus_condrayi</List>
+		<List>Stegopelta_landerensis</List>
+		<List>Struthiosaurus_austriacus</List>
+		<List>Struthiosaurus_languedocensis</List>
+		<List>Talarurus_plicatospineus</List>
+		<List>Tarchia_gigantea</List>
+		<List>Tatankocephalus_cooneyorum</List>
+		<List>Texasetes_pleurohalio</List>
+		<List>Tianzhenosaurus_youngi</List>
+		<List>Tsagantegia_longicranialis</List>
+		<List>Zhejiangosaurus_lishuiensis</List>
+		<List>Zhonguansaurus_lauyangensis</List>
+		<List>Dyoplosaurus_acutosquameus</List>
+		<List>Dongyangopelta_yangyanensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="170">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Chen_etal_2013a</Filename>
+	<Parent>Thompson_etal_2012a</Parent>
+	<Sibling/>
+</SourceTree>

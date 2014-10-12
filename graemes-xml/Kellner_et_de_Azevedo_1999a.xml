@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Kellner, A. W. A.</List>
+			<List>de Azevedo, S. A. K.</List>
+		</Author>
+		<Year>1999</Year>
+		<Title>A new sauropod dinosaur (Titanosauria) from the Late Cretaceous of Brazil</Title>
+		<Journal>National Science Museum Monographs</Journal>
+		<Volume>15</Volume>
+		<Pages>111-142</Pages>
+		<Booktitle>Proceedings of the Second Gondwanan Dinosaur Symposium</Booktitle>
+		<Publisher>National Science Mueum</Publisher>
+		<City>Tokyo</City>
+		<Editor>
+			<List>Tomida, Y.</List>
+			<List>Rich, T. H.</List>
+			<List>Vickers-Rich, P.</List>
+		</Editor>
+	</Source>
+	<Taxa number="19">
+		<List>Theropoda</List>
+		<List>Prosauropoda</List>
+		<List>Vulcanodon_caribaensis</List>
+		<List>Barapasaurus_tagorei</List>
+		<List>Diplodocidae</List>
+		<List>Camarasauridae</List>
+		<List>Brachiosaurus_brancai</List>
+		<List>Chubutisaurus_insignis</List>
+		<List>Andesaurus_delgadoi</List>
+		<List>Epachtosaurus_sciuttoi</List>
+		<List>Malawisaurus_dixeyi</List>
+		<List>Gondwanatitan_faustoi</List>
+		<List>Argentinosaurus_huinculensis</List>
+		<List>Opisthocoelicaudia_skarznskii</List>
+		<List>Titanosaurinae_indet.</List>
+		<List>Aeoloasurus</List>
+		<List>Alamosaurus_sanjuanensis</List>
+		<List>Neuquensaurus_australis</List>
+		<List>Saltasaurus_loricattus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="38">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Kellner_et_de_Azevedo_1999a</Filename>
+	<Parent>Salgado_etal_1997a</Parent>
+	<Sibling/>
+</SourceTree>

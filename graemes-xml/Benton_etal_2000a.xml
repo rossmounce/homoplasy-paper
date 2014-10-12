@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Benton, M. J.</List>
+			<List>Juul, L.</List>
+			<List>Storrs, G. W.</List>
+			<List>Galton, P. M.</List>
+		</Author>
+		<Year>2000</Year>
+		<Title>Anatomy and systematics of the prosauropod dinosaur Thecodontosaurus antiquus from the Upper Triassic of southern England</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>20</Volume>
+		<Pages>77-108</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="15">
+		<List>Scleromochlus</List>
+		<List>Herrerasaurus</List>
+		<List>Thecodontosaurus</List>
+		<List>Plateosaurus</List>
+		<List>Massospondylus</List>
+		<List>Euskelosaurus</List>
+		<List>Anchisaurus</List>
+		<List>Sellosaurus</List>
+		<List>Melanorosaurus</List>
+		<List>Riojasaurus</List>
+		<List>Coloradisaurus</List>
+		<List>Vulcanodon</List>
+		<List>Barapasaurus</List>
+		<List>Shunosaurus</List>
+		<List>Brachiosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="49">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Benton_etal_2000a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sereno, P. C.</List>
+		</Author>
+		<Year>1991</Year>
+		<Title>Basal archosaurs: phylogenetic relationships and functional implications</Title>
+		<Journal>SVP Memoir</Journal>
+		<Volume>2</Volume>
+		<Pages>1-53</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="9">
+		<List>Euparkeria</List>
+		<List>Proterochampsidae</List>
+		<List>Suchia</List>
+		<List>Ornithosuchus</List>
+		<List>Riojasuchus</List>
+		<List>Parasuchia</List>
+		<List>Pterosauria</List>
+		<List>Scleromochlus</List>
+		<List>Dinosauromorpha</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="36">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sereno_1991a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

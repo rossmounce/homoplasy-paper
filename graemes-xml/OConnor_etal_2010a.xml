@@ -1,0 +1,66 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>O'Connor, J.-M. K.</List>
+			<List>Gao, K.-Q.</List>
+			<List>Chiappe, L. M.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>A new ornithuromorph (Aves: Ornithothoraces) bird from the Jehol Group indicative of higher-level diversity</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>30</Volume>
+		<Pages>311-321</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="30">
+		<List>Dromaeosauridae</List>
+		<List>Archaeopteryx</List>
+		<List>Jeholornis</List>
+		<List>Zhongornis</List>
+		<List>Sapeornis</List>
+		<List>Longipteryx</List>
+		<List>DNHM_D1878</List>
+		<List>Longirostravis</List>
+		<List>DNHM_D2522</List>
+		<List>Eoenantiornis</List>
+		<List>Eoalulavis</List>
+		<List>Concornis</List>
+		<List>Gobipteryx</List>
+		<List>Neuquenornis</List>
+		<List>Vescornis</List>
+		<List>Iberomesornis</List>
+		<List>Patagopteryx</List>
+		<List>Hongshanornis</List>
+		<List>PKUP_1069</List>
+		<List>Longicrusavis</List>
+		<List>Yanornis</List>
+		<List>Yixianornis</List>
+		<List>Gansus</List>
+		<List>Apsaravis</List>
+		<List>Hesperornis</List>
+		<List>Icthyornis</List>
+		<List>Anas</List>
+		<List>Gallus</List>
+		<List>Confuciusornis</List>
+		<List>Changchengornis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="242">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>OConnor_etal_2010a</Filename>
+	<Parent>Gao_etal_2008a</Parent>
+	<Sibling/>
+</SourceTree>

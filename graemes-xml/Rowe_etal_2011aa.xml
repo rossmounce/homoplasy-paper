@@ -1,0 +1,87 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Rowe, T. B.</List>
+			<List>Sues, H.-D.</List>
+			<List>Reisz, R. R.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>Dispersal and diversity in the earliest North American sauropodomorph dinosaurs, with a description of a new taxon</Title>
+		<Journal>Proceedings of the Royal Society of London B</Journal>
+		<Volume>278</Volume>
+		<Pages>1044-1053</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="51">
+		<List>Euparkeria</List>
+		<List>Crurotarsi</List>
+		<List>Marasuchus</List>
+		<List>Silesaurus</List>
+		<List>Ornithischia</List>
+		<List>Eoraptor</List>
+		<List>Saturnalia</List>
+		<List>Efraasia</List>
+		<List>Plateosauravus</List>
+		<List>Ruehleia</List>
+		<List>Sarahsaurus</List>
+		<List>Yunnanosaurus</List>
+		<List>Jingshanosaurus</List>
+		<List>Anchisaurus</List>
+		<List>Aardonyx</List>
+		<List>Blikanasaurus</List>
+		<List>Camelotia</List>
+		<List>Melanorosaurus</List>
+		<List>Antetonitrus</List>
+		<List>Lessemsaurus</List>
+		<List>Gongxianosaurus</List>
+		<List>Tazoudasaurus</List>
+		<List>Vulcanodon</List>
+		<List>Isanosaurus</List>
+		<List>Barapasaurus</List>
+		<List>Patagosaurus</List>
+		<List>Shunosaurus</List>
+		<List>Cetiosaurus</List>
+		<List>Neosauropoda</List>
+		<List>Mamenchisaurus</List>
+		<List>Omeisaurus</List>
+		<List>Massospondylus</List>
+		<List>Adeopapposaurus</List>
+		<List>Seitaad</List>
+		<List>Coloradisaurus</List>
+		<List>Glacialisaurus</List>
+		<List>Lufengosaurus</List>
+		<List>Plateosaurus_gracilis</List>
+		<List>Unaysaurus</List>
+		<List>Plateosaurus_engelhardti</List>
+		<List>Plateosaurus_ingens</List>
+		<List>Eucnemosaurus</List>
+		<List>Riojasaurus</List>
+		<List>Pantydraco</List>
+		<List>Thecodontosaurus</List>
+		<List>Agnosphitys</List>
+		<List>Guaibasaurus</List>
+		<List>Chindesaurus</List>
+		<List>Neotheropoda</List>
+		<List>Herrerasaurus</List>
+		<List>Staurikosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="361">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Rowe_etal_2011aa</Filename>
+	<Parent>Yates_2007b</Parent>
+	<Sibling/>
+</SourceTree>

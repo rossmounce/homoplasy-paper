@@ -1,0 +1,74 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sato, T.</List>
+			<List>Zhao, L.-J.</List>
+			<List>Wu, X.-C.</List>
+			<List>Li, C.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>A new specimen of the Triassic pistosauroid <em>Yunguisaurus</em>, with implications for the origin of Plesiosauria (Reptilia, Sauropterygia)</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="37">
+		<List>Ancestor</List>
+		<List>Captorhinidae</List>
+		<List>Testudines</List>
+		<List>Araeoscelidia</List>
+		<List>Younginiformes</List>
+		<List>Kuehneosauridae</List>
+		<List>Rhynchocephalia</List>
+		<List>Squamata</List>
+		<List>Rhynchosauria</List>
+		<List>Prolacertiformes</List>
+		<List>Trilophosaurus</List>
+		<List>Choristodera</List>
+		<List>Archosauriformes</List>
+		<List>Claudiosaurus</List>
+		<List>Dactylosaurus</List>
+		<List>Serpiano_dash_Neustico</List>
+		<List>Nothosaurus</List>
+		<List>Lariosaurus</List>
+		<List>Germanosaurus</List>
+		<List>Placodus</List>
+		<List>Chinchenia</List>
+		<List>Kwangsisaurus</List>
+		<List>Sanchiaosaurus</List>
+		<List>Cyamodus</List>
+		<List>Keichousaurus</List>
+		<List>Simosaurus</List>
+		<List>Corosaurus</List>
+		<List>Cymatosaurus</List>
+		<List>Pistosaurus</List>
+		<List>Augustasaurus</List>
+		<List>Yunguisaurus</List>
+		<List>Bobosaurus</List>
+		<List>Plesiosaurus</List>
+		<List>Thalassiodracon</List>
+		<List>Wumengosaurus</List>
+		<List>Odontochelys</List>
+		<List>Dianopachysaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="139">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sato_etal_inpressa</Filename>
+	<Parent>Sato_etal_2010a</Parent>
+	<Sibling/>
+</SourceTree>

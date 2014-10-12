@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Langer, M. C.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>Basal Saurischia</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>25-46</Pages>
+		<Booktitle>The Dinosauria (Second Edition)</Booktitle>
+		<Publisher>University of California Press</Publisher>
+		<City>Berkeley</City>
+		<Editor>
+			<List>Weishampel, D. B.</List>
+			<List>Dodson, P.</List>
+			<List>Osmolska, H.</List>
+		</Editor>
+	</Source>
+	<Taxa number="10">
+		<List>Outgroup</List>
+		<List>Pisanosaurus</List>
+		<List>Remaining_Ornithischia</List>
+		<List>Herrerasaurus</List>
+		<List>Staurikosaurus</List>
+		<List>Eoraptor</List>
+		<List>Guaibasaurus</List>
+		<List>Neotheropoda</List>
+		<List>Saturnalia</List>
+		<List>Sauropodomorpha</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="107">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Langer_2004a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

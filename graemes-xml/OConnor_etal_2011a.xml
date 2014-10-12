@@ -1,0 +1,93 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>O'Connor, J.</List>
+			<List>Chiappe, L. M.</List>
+			<List>Bell, A.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>Pre-modern birds: avian divergences in the Mesozoic</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>39-114</Pages>
+		<Booktitle>Living Dinosaurs: The Evolutionary History of Modern Birds</Booktitle>
+		<Publisher>Wiley-Blackwell</Publisher>
+		<City>Oxford</City>
+		<Editor>
+			<List>Dyke, G.</List>
+			<List>Kaiser, G.</List>
+		</Editor>
+	</Source>
+	<Taxa number="54">
+		<List>Dromaeosauridae</List>
+		<List>Archaeopteryx_all_ten</List>
+		<List>Jeholorornis_prima</List>
+		<List>Rahonavis_ostromi</List>
+		<List>Shenzhouraptor_sinensis</List>
+		<List>Jixiangornis_orientalis</List>
+		<List>Dalianraptor_cuhe</List>
+		<List>Zhongorrnis_haoae</List>
+		<List>Eoconfuciusornis_zhengi</List>
+		<List>Confuciusornis_sanctus</List>
+		<List>Changchenornis_hengdaoziensis</List>
+		<List>Dalianornis_mengi</List>
+		<List>Elsornis_keni</List>
+		<List>Eocathay_walkeri_from_single_slab</List>
+		<List>Iberomesornis_romerali</List>
+		<List>Longipteryx_chaoyangensis</List>
+		<List>Otogornis_genghisi</List>
+		<List>Protopteryx_fengningensis</List>
+		<List>Cathyaornis_yandica</List>
+		<List>Concornis_lacustris</List>
+		<List>Eoenantiornis_buhleri</List>
+		<List>Eoalulavis_hoyasi</List>
+		<List>Liaoningornis_longidigitrus</List>
+		<List>Gobipteryx_minuta</List>
+		<List>Vescornis_hebeiensis</List>
+		<List>Neuquenrnis_volans</List>
+		<List>Pengornis_houi</List>
+		<List>Longirostravis_hani</List>
+		<List>Rapaxavis_pani</List>
+		<List>Shanweiniao_cooperorum</List>
+		<List>Archaeorhynchus_spathula</List>
+		<List>Vorona_berivotrensis</List>
+		<List>Ambiortus_dementjevi</List>
+		<List>Patagopteryx_deferrariisi</List>
+		<List>Apsaravis_ukhaana</List>
+		<List>Songlingornis_linghensis</List>
+		<List>Yanornis_martini</List>
+		<List>Hollanda_luceria</List>
+		<List>Yixianornis_grabaui</List>
+		<List>Gansus_yumenensis</List>
+		<List>Ichthyornis_dispar</List>
+		<List>Enaliornis_baretti</List>
+		<List>Limenavis_patagonica</List>
+		<List>Baptornis_advenus</List>
+		<List>Baptornis_varneri</List>
+		<List>Hesperornis_regalis</List>
+		<List>Parahesperornis</List>
+		<List>Vegavis_iaai</List>
+		<List>Anas</List>
+		<List>Gallus</List>
+		<List>Longicrusavis_houi</List>
+		<List>Hongshanornis_longicresta</List>
+		<List>Sapeornis_chaoyangensis</List>
+		<List>Didactylornis_jii</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="245">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>OConnor_etal_2011a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

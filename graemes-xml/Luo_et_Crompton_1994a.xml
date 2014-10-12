@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Luo, Z.-X.</List>
+			<List>Crompton, A. W.</List>
+		</Author>
+		<Year>1994</Year>
+		<Title>Transformation of the quadrate (incus) through the transition from non-mammalian cynodonts to mammals</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>14</Volume>
+		<Pages>341-374</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="10">
+		<List>Anomodontia</List>
+		<List>Gorgonopsia</List>
+		<List>Therocephalia</List>
+		<List>Procynosuchus</List>
+		<List>Thrinaxodon</List>
+		<List>Probainognathus</List>
+		<List>Massetognathus</List>
+		<List>Tritylodontidae</List>
+		<List>Tritheledontidae</List>
+		<List>Morganucodon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="14">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Luo_et_Crompton_1994a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

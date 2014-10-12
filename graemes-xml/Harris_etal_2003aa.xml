@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Harris, S. R.</List>
+			<List>Gower, D. J.</List>
+			<List>Wilkinson, M.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>Intraorganismal homology, character construction, and the phylogeny of aetosaurian archosaurs (Reptilia, Diapsida)</Title>
+		<Journal>Systematic Biology</Journal>
+		<Volume>52</Volume>
+		<Pages>239-252</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Rauisuchia</List>
+		<List>Coahomasuchus</List>
+		<List>Aetosaurus</List>
+		<List>Stagonolepis_robertsoni</List>
+		<List>Stagonolepis_wellesi</List>
+		<List>Longosuchus</List>
+		<List>Lucasuchus</List>
+		<List>Desmatosuchus</List>
+		<List>Acaenosuchus</List>
+		<List>Typothorax</List>
+		<List>Aetosauroides</List>
+		<List>Neoaetosauroides</List>
+		<List>Paratypothorax</List>
+		<List>Redondasuchus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="66">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Harris_etal_2003aa</Filename>
+	<Parent>Heckert_et_Lucas_1999a</Parent>
+	<Sibling/>
+</SourceTree>

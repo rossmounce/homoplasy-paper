@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Mo, J.-Y.</List>
+			<List>Zhao, Z.-G.</List>
+			<List>Wang, W.</List>
+			<List>Xu, X.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>The first hadrosaurid dinosaur from southern China</Title>
+		<Journal>Acta Geologica Sinica</Journal>
+		<Volume>81</Volume>
+		<Pages>550-554</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="21">
+		<List>Iguanodon</List>
+		<List>Probactrosaurus</List>
+		<List>Eolambia</List>
+		<List>Protohadros</List>
+		<List>Telmatosaurus</List>
+		<List>K._australis</List>
+		<List>Corythosaurus</List>
+		<List>Edmontosaurus</List>
+		<List>Gryposaurus</List>
+		<List>Hypacrosaurus</List>
+		<List>Lambeosaurus</List>
+		<List>Lophorhothon</List>
+		<List>Naashoibitosaurus</List>
+		<List>Nipponosaurus</List>
+		<List>Parasaurolophus</List>
+		<List>Prosaurolophus</List>
+		<List>Saurolophus</List>
+		<List>Tsintaosaurus</List>
+		<List>Nanningosaurus</List>
+		<List>Brachylophosaurus</List>
+		<List>Maiasaura</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="105">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Mo_etal_2007a</Filename>
+	<Parent>Horner_etal_2004a</Parent>
+	<Sibling/>
+</SourceTree>

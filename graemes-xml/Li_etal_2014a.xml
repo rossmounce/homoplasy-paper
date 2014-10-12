@@ -1,0 +1,73 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Li, Z.-H.</List>
+			<List>Zhou, Z.-H.</List>
+			<List>Wang, M.</List>
+			<List>Clarke, J. A.</List>
+		</Author>
+		<Year>2014</Year>
+		<Title>A new specimen of large-bodied basal enantiornithine <em>Bohaiornis</em> from the Early Cretaceous of China and the inference of feeding ecology in Mesozoic birds</Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>88</Volume>
+		<Pages>99-108</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="36">
+		<List>Dromaeosauridae</List>
+		<List>Anas_platyrhynchos</List>
+		<List>Chauna_torquata</List>
+		<List>Gallus_gallus</List>
+		<List>Crax_pauxi</List>
+		<List>Crypturellus_undulatus</List>
+		<List>Lithornis</List>
+		<List>Iaceornis_marshii</List>
+		<List>Ichthyornis_dispar</List>
+		<List>Hesperornis_regalis</List>
+		<List>Baptornis_adventus</List>
+		<List>Songlingornis_linghensis</List>
+		<List>Apsaravis_ukhaana</List>
+		<List>Patagopteryx_deferrariisi</List>
+		<List>Yanornis_martini</List>
+		<List>Yixianornis_grabaui</List>
+		<List>Hongshanornis_longicresta</List>
+		<List>Longicrusavis_houi</List>
+		<List>Archaeorhynchus_spathula</List>
+		<List>Jianchangornis_microdonta</List>
+		<List>Vorona_berivotrensis</List>
+		<List>Cathayornis_yandica</List>
+		<List>Concornis_lacustris</List>
+		<List>Neuquenornis_volans</List>
+		<List>Gobipteryx_minuta</List>
+		<List>Longirostravis_hani</List>
+		<List>Longipteryx_chaoyanensis</List>
+		<List>Protopteryx_fengningensis</List>
+		<List>Eoenantiornis_buhleri</List>
+		<List>Bohaiornis_guoi</List>
+		<List>Shenqiornis_mengi</List>
+		<List>Pengornis_houi</List>
+		<List>Confuciusornis_sanctus</List>
+		<List>Sapeornis_chaoyangensis</List>
+		<List>Jeholornis_prima</List>
+		<List>Archaeopteryx_lithographica</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="220">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Li_etal_2014a</Filename>
+	<Parent>Clarke_etal_2006a</Parent>
+	<Sibling/>
+</SourceTree>

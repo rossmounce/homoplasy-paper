@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Clarke, J. A.</List>
+			<List>Chiappe, L. M.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>A new carinate bird from the Late Cretaceous of Patagonia (Argentina)</Title>
+		<Journal>American Museum Novitates</Journal>
+		<Volume>3323</Volume>
+		<Pages>1-23</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="16">
+		<List>Confuciusornis_sanctus</List>
+		<List>Enantiornithes</List>
+		<List>Ichthyornis</List>
+		<List>Limenavis_patagonica</List>
+		<List>Lithornis</List>
+		<List>Tinamus_guttatus</List>
+		<List>Pterocnemia_pennata</List>
+		<List>Gallus_gallus</List>
+		<List>Crax_globulosa</List>
+		<List>Rallus_longirostris</List>
+		<List>Chauna_torquata</List>
+		<List>Anas_platyrhynchos</List>
+		<List>Columba_livia</List>
+		<List>Grus_grus</List>
+		<List>Numenius_phaeopus</List>
+		<List>Burhinus_capensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="72">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Clarke_et_Chiappe_2001a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Hungerbuhler, A.</List>
+			<List>Mueller, B.</List>
+			<List>Chatterjee, S.</List>
+			<List>Cunningham, D. P.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>Cranial anatomy of the Late Triassic phytosaur <em>Machaeroprosopus</em>, with the description of a new species from West Texas</Title>
+		<Journal>Earth and Environmental Science Transactions of the Royal Society of Edinburgh</Journal>
+		<Volume>103</Volume>
+		<Pages>269-312</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List>Nicrosaurus_kapffi</List>
+		<List>Mystriosuchus_planirostris</List>
+		<List>Mystriosuchus_westphali</List>
+		<List>Machaeroprosopus_mccauleyi</List>
+		<List>Machaeroprosopus_pristinus</List>
+		<List>Machaeroprosopus_buceros</List>
+		<List>Machaeroprosopus_gregorii</List>
+		<List>Machaeroprosopus_bermani</List>
+		<List>Machaeroprosopus_jablonskiae</List>
+		<List>TTU_dash_P10074</List>
+		<List>TTU_dash_P10076</List>
+		<List>TTU_dash_P10077</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="41">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Hungerbuhler_etal_2013a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

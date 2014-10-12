@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Smith, A. B.</List>
+			<List>Arbizu, M. A.</List>
+		</Author>
+		<Year>1987</Year>
+		<Title>Inverse larval development in a Devonian edrioasteroid from Spain and the phylogeny of Agelacrinitinae</Title>
+		<Journal>Lethaia</Journal>
+		<Volume>20</Volume>
+		<Pages>49-62</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="13">
+		<List>Isorophusella</List>
+		<List>Isorophus</List>
+		<List>Hemicystis</List>
+		<List>Curvitriordo</List>
+		<List>Rectitriordo</List>
+		<List>Agelacrinites</List>
+		<List>Krama</List>
+		<List>Postibulla</List>
+		<List>Discocystis</List>
+		<List>Lispidecodus</List>
+		<List>Stalticodisucs</List>
+		<List>Lepidodiscus</List>
+		<List>Ulrichodiscus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="12">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Smith_et_Arbizu_1987a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

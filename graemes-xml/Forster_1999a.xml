@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Forster, C. A.</List>
+		</Author>
+		<Year>1999</Year>
+		<Title>Gondwana dinosaur evolution and biogeographic analysis</Title>
+		<Journal>Journal of African Earth Sciences</Journal>
+		<Volume>28</Volume>
+		<Pages>169-185</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List>Outgroup</List>
+		<List>Syntarsus</List>
+		<List>Dilophosaurus</List>
+		<List>Ceratosaurus</List>
+		<List>Torvosaurus</List>
+		<List>Carnotaurus</List>
+		<List>Majungatholus</List>
+		<List>Carcharodontosaurus</List>
+		<List>Giganotosaurus</List>
+		<List>Sinraptor</List>
+		<List>Tyrannosaurus</List>
+		<List>Allosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="99">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Forster_1999a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,69 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sekiya, T.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>A new prosauropod dinosaur from Lower Jurassic in Lufeng of Yunnan</Title>
+		<Journal>Global Geology</Journal>
+		<Volume>29</Volume>
+		<Pages>6-15</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="35">
+		<List>Marasuchus</List>
+		<List>Heterodontosaurus</List>
+		<List>Lesothosaurus</List>
+		<List>Eoraptor</List>
+		<List>Herrerasaurus</List>
+		<List>Guaibasaurus</List>
+		<List>Coelophysis</List>
+		<List>Ammosaurus</List>
+		<List>Anchisaurus</List>
+		<List>Antetonitrus</List>
+		<List>Barapasaurus</List>
+		<List>Blikanasaurus</List>
+		<List>Camarasaurus</List>
+		<List>Camelotia</List>
+		<List>Chinshakiangosaurus</List>
+		<List>Coloradisaurus</List>
+		<List>Efraasia</List>
+		<List>Gyposaurus</List>
+		<List>Jingshanosaurus</List>
+		<List>Kotasaurus</List>
+		<List>Lessemsaurus</List>
+		<List>Lufengosaurus</List>
+		<List>Massospondylus</List>
+		<List>Melanorosaurus</List>
+		<List>Mussaurus</List>
+		<List>Omeisaurus</List>
+		<List>Plateosauravus</List>
+		<List>Plateosaurus</List>
+		<List>Riojasaurus</List>
+		<List>Saturnalia</List>
+		<List>Shunosaurus</List>
+		<List>Thecodontosaurus</List>
+		<List>Vulcanodon</List>
+		<List>Yunnanosaurus</List>
+		<List>ZLJ0108</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="292">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sekiya_2010a</Filename>
+	<Parent>Upchurch_etal_2007a</Parent>
+	<Sibling/>
+</SourceTree>

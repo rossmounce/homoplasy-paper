@@ -1,0 +1,90 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Xing, H.</List>
+			<List>Prieto-Marquez, A.</List>
+			<List>Gu, W.</List>
+			<List>Yu, T.-X.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>Re-evaluation and phylogenetic analysis of Wulagasaurus dongi, a hadrosaurine dinsoaur from the Maastrichtian of northeast China</Title>
+		<Journal>Vertebrata Palasiatica</Journal>
+		<Volume>50</Volume>
+		<Pages>160-169</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="53">
+		<List>Iguanodon_bernissartensis</List>
+		<List>Mantellosaurus_atherfieldensis</List>
+		<List>Ouranosaurus_nigeriensis</List>
+		<List>Jinzhousaurus_yangi</List>
+		<List>Equijubus_normani</List>
+		<List>Probactrosaurus_gobiensis</List>
+		<List>Eolambia_caroljonesa</List>
+		<List>Protohadros_byrdi</List>
+		<List>Tanius_sinensis</List>
+		<List>Bactrosaurus_johnsoni</List>
+		<List>Gilmoreosaurus_mongoliensis</List>
+		<List>Claosaurus_agilis</List>
+		<List>Lophorhothon_atopus</List>
+		<List>Telmatosaurus_transsylvanicus</List>
+		<List>Tethyshadros_insularis</List>
+		<List>Nanningosaurus_dashiensis</List>
+		<List>Brachylophosaurus_canadensis</List>
+		<List>Maiasaura_peeblesorum</List>
+		<List>Wulagasaurus_dongi</List>
+		<List>Shantungosaurus_giganteus</List>
+		<List>Edmontosaurus_regalis</List>
+		<List>Edmontosaurus_annectens</List>
+		<List>Edmontosaurus_saskatchewanensis</List>
+		<List>Kerberosaurus_manakini</List>
+		<List>Prosaurolophus_maximus</List>
+		<List>Saurolophus_angustirostris</List>
+		<List>Saurolophus_osborni</List>
+		<List>Kritosaurus_navajovius</List>
+		<List>Secernosaurus_koerneri</List>
+		<List>Gryposaurus_latidens</List>
+		<List>Gryposaurus_incurvimanus</List>
+		<List>Gryposaurus_monumentensis</List>
+		<List>Gryposaurus_notabilis</List>
+		<List>Aralosaurus_tuberiferus</List>
+		<List>Jaxartosaurus_aralensis</List>
+		<List>Amurosaurus_riabinini</List>
+		<List>Sahaliyania_elunchunorum</List>
+		<List>Lambeosaurus_laticaudus</List>
+		<List>Hypacrosaurus_altispinus</List>
+		<List>Hypacrosaurus_stebingeri</List>
+		<List>Nipponosaurus_sachalinensis</List>
+		<List>Olorotitan_ararhensis</List>
+		<List>Velaphrons_coahuilensis</List>
+		<List>Corythosaurus_casuarius</List>
+		<List>Corythosaurus_intermedius</List>
+		<List>Lambeosaurus_lambei</List>
+		<List>Lambeosaurus_magnicristatus</List>
+		<List>Mandschurosaurus_amurensis</List>
+		<List>Parasaurolophus_cyrtocristatus</List>
+		<List>Parasaurolophus_tubicen</List>
+		<List>Parasaurolophus_walkeri</List>
+		<List>Pararhabdodon_isonensis</List>
+		<List>Tsintaosaurus_spinorhinus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="334">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Xing_etal_2012a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

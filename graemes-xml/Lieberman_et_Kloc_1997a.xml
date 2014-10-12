@@ -1,0 +1,75 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lieberman, B. S.</List>
+			<List>Kloc, G. J.</List>
+		</Author>
+		<Year>1997</Year>
+		<Title>Evolutionary and biogeographic patterns in the Asteropyginae (Trilobita, Devonian) Delo, 1935</Title>
+		<Journal>Bulletin of the American Museum of Natural History</Journal>
+		<Volume>232</Volume>
+		<Pages>1-127</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="40">
+		<List>Pelitlina_smeekni</List>
+		<List>Treveropyge_prorotundifrons</List>
+		<List>Pseudocryphaeus_michelini</List>
+		<List>Pseudocryphaeus_munieri</List>
+		<List>Tolkienia_granulispina</List>
+		<List>Braunops_obsoletus</List>
+		<List>Braunops_prostellans</List>
+		<List>Hallandclarkeops_cantarmoricus</List>
+		<List>Neocalmonia_quadricosta</List>
+		<List>Bellacartwrightia_phyllocaudata</List>
+		<List>Bellacartwrightia_pleione</List>
+		<List>Bellacartwrightia_jennyae</List>
+		<List>Bellacartwrightia_whiteleyi</List>
+		<List>Bellacartwrightia_calderonae</List>
+		<List>Coltraneia_celtica</List>
+		<List>Bradocryphaeus_afghanica</List>
+		<List>Heliopyge_turolensis</List>
+		<List>Paracryphaeus_hercyniae</List>
+		<List>Pilletina_aequisulcata</List>
+		<List>Breizhops_lanceolatus</List>
+		<List>Breizhops_chaconae</List>
+		<List>Breizhops_bigranulosus</List>
+		<List>Philipsmithiana_burtandmimiae</List>
+		<List>Philipsmithiana_hyfinkeli</List>
+		<List>Modellops_struvei</List>
+		<List>Neometacanthus_aff._stellifer</List>
+		<List>Asteropyge_punctata</List>
+		<List>Rhenops_babini</List>
+		<List>Rhenops_new_species</List>
+		<List>Greenops_chilmanae</List>
+		<List>Greenops_grabaui</List>
+		<List>Greenops_widderensis</List>
+		<List>Greenops_barberi</List>
+		<List>Deloops_haasi</List>
+		<List>Stummiana_osismorum</List>
+		<List>Stummiana_arkonensis</List>
+		<List>Armorigreenops_leoi</List>
+		<List>Kennacryphaeus_harrisae</List>
+		<List>Kayserops_inflatus</List>
+		<List>Kayserops_traversensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="66">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lieberman_et_Kloc_1997a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

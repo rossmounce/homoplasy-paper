@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Bloch, J. I.</List>
+			<List>Fisher, D. C.</List>
+			<List>Rose, K. D.</List>
+			<List>Gingerich, P. D.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>Stratocladistic analysis of Paleocene Carpolestidae (Mammalia, Plesiadapiformes) with description of a new late Tiffanian genus</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>21</Volume>
+		<Pages>119-131</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Purgatorius</List>
+		<List>Pronothodectes</List>
+		<List>Elphidotarsius_wightoni</List>
+		<List>Elphidotarsius_shotgunensis</List>
+		<List>Elphidotarsius_russelli</List>
+		<List>Carpolestes_hazelae</List>
+		<List>Carpolestes_cygneus</List>
+		<List>Carpolestes_hobackensis</List>
+		<List>Carpolestes_oriens</List>
+		<List>Carpolestes_aulacodon</List>
+		<List>Carpolestes_jepseni</List>
+		<List>Carpolestes_dubuis</List>
+		<List>Carpolestes_nigridens</List>
+		<List>Carpolestes_simpsoni</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="32">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Bloch_etal_2001a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

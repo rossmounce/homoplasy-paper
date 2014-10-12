@@ -1,0 +1,81 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Swartz, B.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>Marine stem-tetrapod from the Devonian of western North America</Title>
+		<Journal>PLoS One</Journal>
+		<Volume>7</Volume>
+		<Pages>e33683</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="47">
+		<List>Porolepis</List>
+		<List>Acanthostega</List>
+		<List>Balanerpeton</List>
+		<List>Baphetes</List>
+		<List>Barameda</List>
+		<List>Beelarongia</List>
+		<List>Cabonnichthys</List>
+		<List>Canowindra</List>
+		<List>Cladarosymblema</List>
+		<List>Crassigyrinus</List>
+		<List>Dendrerpeton</List>
+		<List>Diabolepis</List>
+		<List>Dipterus</List>
+		<List>Ectosteorhachis</List>
+		<List>Elginerpeton</List>
+		<List>Elpistostege</List>
+		<List>Eoherepton</List>
+		<List>Eusthenodon</List>
+		<List>Eusthenopteron</List>
+		<List>Glyptolepis</List>
+		<List>Glyptopomus</List>
+		<List>Gogonasus</List>
+		<List>Gooloogongia</List>
+		<List>Greererepton</List>
+		<List>Gyroptychius</List>
+		<List>Ichthyostega</List>
+		<List>Jarvikina</List>
+		<List>Kenichthys</List>
+		<List>Koharalepis</List>
+		<List>Mandageria</List>
+		<List>Marsdenichthys</List>
+		<List>Medoevia</List>
+		<List>Megalichthys</List>
+		<List>Osteolepis</List>
+		<List>Panderichthys</List>
+		<List>Pederpes</List>
+		<List>Platycephalichthys</List>
+		<List>Powichthys</List>
+		<List>Proterogyrinus</List>
+		<List>Silvanerpeton</List>
+		<List>Spodichthys</List>
+		<List>Tiktaalik</List>
+		<List>Tinirau</List>
+		<List>Tristichopterus</List>
+		<List>Ventastega</List>
+		<List>Whatcheeria</List>
+		<List>Youngolepis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="204">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Swartz_2012a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

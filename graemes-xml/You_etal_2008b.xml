@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>You, H.-L.</List>
+			<List>Tanoue, K.</List>
+			<List>Dodson, P.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>New data on cranial anatomy of the ceratopsian dinosaur Psittacosaurus major</Title>
+		<Journal>Acta Palaeontologica Polonica</Journal>
+		<Volume>53</Volume>
+		<Pages>183-196</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Heterodontosaurus_tucki</List>
+		<List>Hypsilophodon_foxii</List>
+		<List>Protoceratops_andrewsi</List>
+		<List>P._sinensis</List>
+		<List>P._neimongoliensis</List>
+		<List>P._ordosensis</List>
+		<List>P._sibiricus</List>
+		<List>Psittacosaurus_sp.</List>
+		<List>P._major</List>
+		<List>P._mongoliensis</List>
+		<List>P._meileyingensis</List>
+		<List>P._xinjiangensis</List>
+		<List>P._mazongshanensis</List>
+		<List>P._lujiatunensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="31">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>You_etal_2008b</Filename>
+	<Parent>Averianov_etal_2006a</Parent>
+	<Sibling/>
+</SourceTree>

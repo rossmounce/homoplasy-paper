@@ -1,0 +1,137 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Rauhut, O. W. M.</List>
+			<List>Foth, C.</List>
+			<List>Tischlinger, H.</List>
+			<List>Norell, M. A.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>Exceptionally preserved juvenile megalosauroid theropod dinosaur with filamentous integument from the Late Jurassic of Germany</Title>
+		<Journal>Proceedings of the National Academy of Sciences, USA</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="100">
+		<List>Eoraptor</List>
+		<List>Herrerasaurus</List>
+		<List>Coelophysis</List>
+		<List>Dilophosaurus</List>
+		<List>Syntarsus</List>
+		<List>Abelisaurus</List>
+		<List>Carnotaurus</List>
+		<List>Ceratosaurus</List>
+		<List>Majungasaurus</List>
+		<List>Masiakasaurus</List>
+		<List>Afrovenator</List>
+		<List>Allosaurus</List>
+		<List>Cryolophosaurus</List>
+		<List>Monolophosaurus</List>
+		<List>Neovenator</List>
+		<List>Piatnitzkysaurus</List>
+		<List>Sinraptor</List>
+		<List>Torvosaurus</List>
+		<List>Acrocanthosaurus</List>
+		<List>Carcharodontosaurus</List>
+		<List>Giganotosaurus</List>
+		<List>Mapusaurus</List>
+		<List>Baryonyx</List>
+		<List>Irritator</List>
+		<List>Suchomimus</List>
+		<List>Coelurus</List>
+		<List>Ornitholestes</List>
+		<List>Albertosaurus</List>
+		<List>Daspletosaurus</List>
+		<List>Dilong</List>
+		<List>Guanlong</List>
+		<List>Stokesosaurus_clevelandi</List>
+		<List>Stokesosaurus_langhami</List>
+		<List>Tyrannosaurus</List>
+		<List>Anserimimus</List>
+		<List>Archaeornithomimus</List>
+		<List>Gallimimus</List>
+		<List>Garudimimus</List>
+		<List>Harpymimus</List>
+		<List>Ornithomimus</List>
+		<List>Pelecanimimus</List>
+		<List>Shenzhousaurus</List>
+		<List>Struthiomimus</List>
+		<List>Compsognathus</List>
+		<List>Huaxiagnathus</List>
+		<List>Juravenator</List>
+		<List>Sinosauropteryx</List>
+		<List>Achillesaurus</List>
+		<List>Albertonykus</List>
+		<List>Alvarezsaurus</List>
+		<List>Mononykus</List>
+		<List>Parvicursor</List>
+		<List>Patagonykus</List>
+		<List>Shuvuuia</List>
+		<List>Haplocheirus_sollers</List>
+		<List>Alxasaurus</List>
+		<List>Beipiaosaurus</List>
+		<List>Erlikosaurus</List>
+		<List>Falcarius</List>
+		<List>Nothronychus</List>
+		<List>Segnosaurus</List>
+		<List>Avimimus</List>
+		<List>Caudipteryx_zoui</List>
+		<List>Chirostenotes</List>
+		<List>Citipati</List>
+		<List>Conchoraptor</List>
+		<List>Incisivosaurus</List>
+		<List>Ingenia</List>
+		<List>Oviraptor_philoceratops</List>
+		<List>Achillobator</List>
+		<List>Adasaurus</List>
+		<List>Buitreraptor</List>
+		<List>Deinonychus</List>
+		<List>Dromaeosaurus</List>
+		<List>Mahakala</List>
+		<List>Microraptor</List>
+		<List>Saurornitholestes</List>
+		<List>Sinornithosaurus</List>
+		<List>Tsaagan</List>
+		<List>Unenlagia_plus_Neuquenraptor</List>
+		<List>Utahraptor</List>
+		<List>Velociraptor</List>
+		<List>Byronosaurus</List>
+		<List>EK_troodontid</List>
+		<List>Mei</List>
+		<List>Microvenator</List>
+		<List>Saurornithoides_mongoliensis</List>
+		<List>Sinornithoides</List>
+		<List>Sinovenator</List>
+		<List>Troodon</List>
+		<List>Epidendrosaurus</List>
+		<List>Epidexipteryx</List>
+		<List>Apsaravis</List>
+		<List>Archeopteryx</List>
+		<List>Confuciusornis</List>
+		<List>Jeholornis</List>
+		<List>Rahonavis</List>
+		<List>Sapeornis</List>
+		<List>Yixianornis</List>
+		<List>Sciurumimus_albersdoerferi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="421">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix (first 100,000 mpts only).</Notes>
+	<Filename>Rauhut_etal_inpressab</Filename>
+	<Parent>Choiniere_etal_2010b</Parent>
+	<Sibling/>
+</SourceTree>

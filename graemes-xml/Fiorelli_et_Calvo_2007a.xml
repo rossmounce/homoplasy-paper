@@ -1,0 +1,86 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Fiorelli, L. E.</List>
+			<List>Calvo, J. O.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>The first "protosuchian" (Archosauria: Crocodyliformes) from the Cretaceous (Santonian) of Gondwana</Title>
+		<Journal>Arquivos do Museu Nacional Rio de Janeiro</Journal>
+		<Volume>65</Volume>
+		<Pages>417-459</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="51">
+		<List>Gracilisuchus_stipanicicorum</List>
+		<List>Terrestrisuchus_gracilis</List>
+		<List>Dibothrosuchus_elaphros</List>
+		<List>Protosuchus_richardsoni</List>
+		<List>Hemiprotosuchus_leali</List>
+		<List>Kayenta_Form</List>
+		<List>Edentosuchus_tienshanensis</List>
+		<List>Orthosuchus_stormbergi</List>
+		<List>Gobiosuchus_kielanae</List>
+		<List>Zaraasuchus_shepardi</List>
+		<List>Shantungosuchus_hangjinensis</List>
+		<List>Neuquensuchus_universitas</List>
+		<List>Sichuanosuchus_shuhanensis</List>
+		<List>Zosuchus_davidsoni</List>
+		<List>Fruita_Form</List>
+		<List>Hsisosuchus_chungkingensis</List>
+		<List>Notosuchus_terrestris</List>
+		<List>Mariliasuchus_amarali</List>
+		<List>Anatosuchus_minor</List>
+		<List>Comahuesuchus_brachybuccalis</List>
+		<List>Sphagesaurus_huenei</List>
+		<List>Chimaerasuchus_paradoxus</List>
+		<List>Malawisuchus_mwakasyungutiensis</List>
+		<List>Uruguaysuchus_aznarezi</List>
+		<List>Candidodon_itapecuruense</List>
+		<List>Simosuchus_clarki</List>
+		<List>Araripesuchus_gomesii</List>
+		<List>Araripesuchus_patagonicus</List>
+		<List>Baurusuchus_pachecoi</List>
+		<List>Stratiotosuchus_maxhechti</List>
+		<List>Bretesuchus_bonapartei</List>
+		<List>Iberosuchus_macrodon</List>
+		<List>Lomasuchus_palpebrosu</List>
+		<List>Peirosaurus_torminni</List>
+		<List>Uberabasuchus_terrificus</List>
+		<List>Theriosuchus_pusillus</List>
+		<List>Alligatorium</List>
+		<List>Eutretauranosuchus_delfsi</List>
+		<List>Goniopholis</List>
+		<List>Pholidosaurus_decipiens</List>
+		<List>Dyrosaurus_phosphaticus</List>
+		<List>Sokotosuchus_ianwilsoni</List>
+		<List>Pelagosaurus_typus</List>
+		<List>Teleosauridae</List>
+		<List>Metriorhynchidae</List>
+		<List>Bernissartia_fagessi</List>
+		<List>Hylaeochampsa_vectiana</List>
+		<List>Gavialis_gangeticus</List>
+		<List>Borealosuchus_formidabilis</List>
+		<List>Crocodylus_niloticus</List>
+		<List>Alligator_mississippiensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="231">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Fiorelli_et_Calvo_2007a</Filename>
+	<Parent>Pol_et_Norell_2004a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Fiorillo, A. R.</List>
+			<List>Tykoski, R. S.</List>
+		</Author>
+		<Year>2014</Year>
+		<Title>A diminutive new tyrannosaur from the top of the world</Title>
+		<Journal>PLOS ONE</Journal>
+		<Volume>9</Volume>
+		<Pages>e91287</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="23">
+		<List>Allosaurus</List>
+		<List>Dromaeosauridae</List>
+		<List>Ornithomimosauria</List>
+		<List>Compsognathidae</List>
+		<List>Kileskus</List>
+		<List>Guanlong</List>
+		<List>Proceratosaurus</List>
+		<List>Dilong</List>
+		<List>Eotyrannus</List>
+		<List>Stokesosaurus</List>
+		<List>Xiongguanlong</List>
+		<List>Dryptosaurus</List>
+		<List>Appalachiosaurus</List>
+		<List>Albertosaurus</List>
+		<List>Gorgosaurus</List>
+		<List>Alioramus</List>
+		<List>Daspletosaurus</List>
+		<List>Tarbosaurus</List>
+		<List>Tyrannosaurus</List>
+		<List>Bistahieversor</List>
+		<List>Teratophoneus</List>
+		<List>Sinotyrannus</List>
+		<List>Nanuqsaurus_hoglundi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="308">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Fiorillo_et_Tykoski_2014aa</Filename>
+	<Parent>Brusatte_etal_2010a</Parent>
+	<Sibling/>
+</SourceTree>

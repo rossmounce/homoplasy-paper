@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lamanna, M. C.</List>
+			<List>You, H.-L.</List>
+			<List>Harris, J. D.</List>
+			<List>Chiappe, L. M.</List>
+			<List>Ji, S.-A.</List>
+			<List>Lu, J.-C.</List>
+			<List>Ji, Q.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>A partial skeleton of an enantiornithine bird from the Early Cretaceous of northwestern China</Title>
+		<Journal>Acta Palaeontologica Polonica</Journal>
+		<Volume>51</Volume>
+		<Pages>423-434</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="23">
+		<List>Allosauroidea</List>
+		<List>Troodontidae</List>
+		<List>Velociraptorina</List>
+		<List>Archaeopteryx</List>
+		<List>Rahonavis</List>
+		<List>Confuciusornis</List>
+		<List>Changchengornis</List>
+		<List>Noguerornis</List>
+		<List>Iberomesornis</List>
+		<List>CAGS_IG_02_0901</List>
+		<List>Eoalulavis</List>
+		<List>Concornis</List>
+		<List>Sinornis</List>
+		<List>Gobipteryx</List>
+		<List>Neuquenornis</List>
+		<List>CAGS_IG_04_CM_007</List>
+		<List>Vorona</List>
+		<List>Patagopteryx</List>
+		<List>G_yumenensis</List>
+		<List>Hesperornis</List>
+		<List>Ambiortus</List>
+		<List>Ichthyornis</List>
+		<List>Anas</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="169">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lamanna_etal_2006a</Filename>
+	<Parent>You_etal_2005a</Parent>
+	<Sibling/>
+</SourceTree>

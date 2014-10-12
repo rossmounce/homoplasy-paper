@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Kammerer, C. F.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>Systematics of the Anteosauria (Therapsida: Dinocephalia)</Title>
+		<Journal>Journal of Systematic Palaeontology</Journal>
+		<Volume>9</Volume>
+		<Pages>261-304</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List>Biarmosuchus</List>
+		<List>Estemmenosuchus</List>
+		<List>Tapinocaninus</List>
+		<List>Microsyodon</List>
+		<List>Archaeosyodon</List>
+		<List>Notosyodon</List>
+		<List>Syodon</List>
+		<List>Australosyodon</List>
+		<List>T_potens</List>
+		<List>T_adamanteus</List>
+		<List>Sinophoneus</List>
+		<List>Anteosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="35">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Kammerer_2011ad</Filename>
+	<Parent/>
+	<Sibling>Kammerer_2011aa</Sibling>
+</SourceTree>

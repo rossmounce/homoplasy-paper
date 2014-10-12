@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>McGowan, G. J.</List>
+		</Author>
+		<Year>2002</Year>
+		<Title>Albanerpetontid amphibians from the Lower Cretaceous of Spain and Italy: a description and reconsideration of their systematics</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>135</Volume>
+		<Pages>1-32</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="20">
+		<List>Ancestor</List>
+		<List>Branchiosaurus</List>
+		<List>Apateon</List>
+		<List>Schoenfelderpeton</List>
+		<List>Albanerpetontidae</List>
+		<List>Tuditanidae</List>
+		<List>Pantylidae</List>
+		<List>Gymnarthridae</List>
+		<List>Hapsidopareiontidae</List>
+		<List>Microbrachidae</List>
+		<List>Brachystelechidae</List>
+		<List>Rhynchonkos</List>
+		<List>Gymnophiona</List>
+		<List>Caudata</List>
+		<List>Salientia</List>
+		<List>Platyrhinops</List>
+		<List>Amphibamus</List>
+		<List>Tersomius</List>
+		<List>Doleserpeton</List>
+		<List>Micromelerpeton</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="41">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>McGowan_2002a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

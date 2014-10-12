@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Andrade, M. B.</List>
+			<List>Bertini, R. J.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>A new Sphagesaurus (Mesoeucrocodylia: Notosuchia) from the Upper Cretaceous of Monte Alto City (Bauru Group, Brazil), and a revision of the Sphagesauridae</Title>
+		<Journal>Historical Biology</Journal>
+		<Volume>20</Volume>
+		<Pages>101-136</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="21">
+		<List>Sphenosuchia</List>
+		<List>Protosuchia</List>
+		<List>Alligatoridae</List>
+		<List>Anatosuchus</List>
+		<List>Araripesuchus_gomesii</List>
+		<List>Araripesuchus_patagonicus</List>
+		<List>Baurusuchidae</List>
+		<List>Bernissartia</List>
+		<List>Candidodon</List>
+		<List>Chimaerasuchus</List>
+		<List>Comahuesuchus</List>
+		<List>Crocodylidae</List>
+		<List>Malawisuchus</List>
+		<List>Mariliasuchus</List>
+		<List>Notosuchus</List>
+		<List>Sebecus</List>
+		<List>Simosuchus</List>
+		<List>Sphagesaurus_huenei</List>
+		<List>Sphagesaurus_montealtensis</List>
+		<List>Thalattosuchia</List>
+		<List>Uruguaysuchus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="183">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Andrade_et_Bertini_2008b</Filename>
+	<Parent>Andrade_et_Bertini_2008aa</Parent>
+	<Sibling/>
+</SourceTree>

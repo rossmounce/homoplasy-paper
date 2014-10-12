@@ -1,0 +1,74 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Pardo, J. D.</List>
+			<List>Huttenlocker, A. K.</List>
+			<List>Small, B. J.</List>
+		</Author>
+		<Year>2014</Year>
+		<Title>An exceptionally preserved transitional lungfish from the Lower Permian of Nebraska, USA, and the origin of modern lungfishes</Title>
+		<Journal>PLOS ONE</Journal>
+		<Volume>9</Volume>
+		<Pages>e108542</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="38">
+		<List>Psarolepis_romeri</List>
+		<List>Youngolepis_praecursor</List>
+		<List>Diabolepis_speratus</List>
+		<List>Chirodipterus_australis</List>
+		<List>Chirodipterus_liangchengi</List>
+		<List>Chirodipterus_wildungensis</List>
+		<List>Dipnorhynchus_sussmilchi</List>
+		<List>Dipterus_valenciennesi</List>
+		<List>Gogodipterus_paddyensis</List>
+		<List>Griphognathus_minutidens</List>
+		<List>Holodipterus_gogoensis</List>
+		<List>Melanognathus_canadensis</List>
+		<List>Orlovichthys_limnatis</List>
+		<List>Pillararhynchus_longi</List>
+		<List>Soederberghia_groenlandica</List>
+		<List>Sorbitorhynchus_deleaskitus</List>
+		<List>Stomiahykus_thlaodus</List>
+		<List>Uranolophus_wyomingensis</List>
+		<List>Speonesydrion_iani</List>
+		<List>Westollrhynchus_lehmanni</List>
+		<List>Jessenia_concentrica</List>
+		<List>Fleurantia_denticulata</List>
+		<List>Scaumenacia_curta</List>
+		<List>Howidipterus_donnae</List>
+		<List>Barwickia_downunda</List>
+		<List>Andreyevichthys_epitomes</List>
+		<List>Rhinodipterus_ulrichi</List>
+		<List>Adelargo_schultzei</List>
+		<List>Ichnomylax_kurnai</List>
+		<List>Adololopas_moyasmithae</List>
+		<List>Tarachomylax_oepiki</List>
+		<List>Iowadipterus_halli</List>
+		<List>Sinodipterus_beibei</List>
+		<List>Sagenodus_copeanus</List>
+		<List>Persephonichthys_chthonica</List>
+		<List>Neoceratodus_forsteri</List>
+		<List>Lepidosireniformes</List>
+		<List>Rhinodipterus_kimberleyensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="150">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Pardo_etal_2014aa</Filename>
+	<Parent>Qiao_et_Zhu_2009a</Parent>
+	<Sibling/>
+</SourceTree>

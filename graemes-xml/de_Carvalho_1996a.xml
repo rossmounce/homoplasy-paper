@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>de Carvalho, M. R.</List>
+		</Author>
+		<Year>1996</Year>
+		<Title>Higher-level elasmobranch phylogeny, basal squaleans, and paraphyly</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>35-62</Pages>
+		<Booktitle>Interrelationships of Fishes</Booktitle>
+		<Publisher>Academic Press</Publisher>
+		<City>San Diego</City>
+		<Editor>
+			<List>Stiassny, M. L. J.</List>
+			<List>Parenti, L. R.</List>
+			<List>Johnson, G. D.</List>
+		</Editor>
+	</Source>
+	<Taxa number="20">
+		<List>Outgroup</List>
+		<List>Heterodontus</List>
+		<List>Orectolobiformes</List>
+		<List>Lamniformes</List>
+		<List>Carcharhiniformes</List>
+		<List>Chlamydoselachus</List>
+		<List>Hexanchus</List>
+		<List>Notorynchus</List>
+		<List>Heptranchias</List>
+		<List>Echinorhinus</List>
+		<List>Etmopteridae</List>
+		<List>Somniosidae</List>
+		<List>Oxynotus</List>
+		<List>Dalatiinae</List>
+		<List>Euprotomicrininae</List>
+		<List>Centrophoridae</List>
+		<List>Squalidae</List>
+		<List>Squatina</List>
+		<List>Pristiophoridae</List>
+		<List>Rajiformes</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="67">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>de_Carvalho_1996a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

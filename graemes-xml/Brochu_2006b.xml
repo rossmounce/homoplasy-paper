@@ -1,0 +1,82 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Brochu, C. A.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>A new miniature horned crocodile from the Quaternary of Aldabra Atoll, Western Indian Ocean</Title>
+		<Journal>Copeia</Journal>
+		<Volume>2006</Volume>
+		<Pages>149-158</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="48">
+		<List>Bernissartia_fagesii</List>
+		<List>Hylaeochampsa_vectiana</List>
+		<List>Gavialis_gangeticus</List>
+		<List>Thoracosaurus_neocesariensis</List>
+		<List>Borealosuchus_sternbergii</List>
+		<List>Pristichampsus_vorax</List>
+		<List>Leidyosuchus_canadensis</List>
+		<List>Diplocynodon_darwini</List>
+		<List>Brachychampsa_montana</List>
+		<List>Stangerochampsa_mccabei</List>
+		<List>Alligator_mississippiensis</List>
+		<List>Caiman_yacare</List>
+		<List>Prodiplocynodon_langi</List>
+		<List>Asiatosuchus_germanicus</List>
+		<List>Crocodylus_affinis</List>
+		<List>Belgian_crocodyloid</List>
+		<List>Crocodylus_acer</List>
+		<List>Asiatosuchus_grangeri</List>
+		<List>Kentisuchus_spenceri</List>
+		<List>Dollosuchus_dixoni</List>
+		<List>Gavialosuchus_americanus</List>
+		<List>Tomistoma_cairense</List>
+		<List>Paratomistoma_courtii</List>
+		<List>Gavialosuchus_eggenbergensis</List>
+		<List>Tomistoma_schlegelii</List>
+		<List>Tomistoma_lusitanica</List>
+		<List>Australosuchus_clarkae</List>
+		<List>Kambara_implexidens</List>
+		<List>Crocodylus_megarhinus</List>
+		<List>Rimasuchus_lloydi</List>
+		<List>Crocodylus_pigotti</List>
+		<List>Euthecodon_arambourgii</List>
+		<List>Osteolamus_osborni</List>
+		<List>Voay_robustus</List>
+		<List>Aldabrachampsus_dilophus</List>
+		<List>Mecistops_cataphractus</List>
+		<List>Crocodylus_niloticus</List>
+		<List>Crocodylus_acutus</List>
+		<List>Crocodylus_intermedius</List>
+		<List>Crocodylus_rhombifer</List>
+		<List>Crocodylus_moreletii</List>
+		<List>Crocodylus_palaeindicus</List>
+		<List>Crocodylus_porosus</List>
+		<List>Crocodylus_palustris</List>
+		<List>Crocodylus_siamensis</List>
+		<List>Crocodylus_johnstoni</List>
+		<List>Crocodylus_mindorensis</List>
+		<List>Crocodylus_novaeguineae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="165">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Brochu_2006b</Filename>
+	<Parent>Brochu_2006a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,44 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Bolt, J. R.</List>
+		</Author>
+		<Year>1991</Year>
+		<Title>Lissamphibian origins</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>194-222</Pages>
+		<Booktitle>Origins of Major Groups of Tetrapods: Controversies and Consensus</Booktitle>
+		<Publisher>Cornell University Press</Publisher>
+		<City>Ithaca</City>
+		<Editor>
+			<List>Schultze, H.-P.</List>
+			<List>Trueb, L.</List>
+		</Editor>
+	</Source>
+	<Taxa number="7">
+		<List>Primitive</List>
+		<List>Hapsidopareion</List>
+		<List>Trematopsidae</List>
+		<List>Dissorophidae</List>
+		<List>Anura</List>
+		<List>Caudata</List>
+		<List>Gymnophiona</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="11">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Bolt_1991aa</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

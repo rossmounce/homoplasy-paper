@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Nair, J. P.</List>
+			<List>Salisbury, S. W.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>New anatomical information on Rhoetosaurus brownei Longman, 1926, a gravisaurian sauropodomorph dinosaur from the Middle Jurassic of Queensland, Australia</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>32</Volume>
+		<Pages>369-394</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="32">
+		<List>Theropoda</List>
+		<List>Vulcanodon</List>
+		<List>Tazoudasaurus</List>
+		<List>Spinophorosaurus</List>
+		<List>Shunosaurus</List>
+		<List>Barapasaurus</List>
+		<List>Rhoetosaurus</List>
+		<List>Patagosaurus</List>
+		<List>Omeisaurus</List>
+		<List>Mamenchisaurus</List>
+		<List>Losillasaurus</List>
+		<List>Haplocanthosaurus</List>
+		<List>Suuwassea</List>
+		<List>Apatosaurus</List>
+		<List>Barosaurus</List>
+		<List>Diplodocus</List>
+		<List>Dicraeosaurus</List>
+		<List>Amargasaurus</List>
+		<List>Nigersaurus</List>
+		<List>Limaysaurus</List>
+		<List>Rebbachisaurus</List>
+		<List>Jobaria</List>
+		<List>Camarasaurus</List>
+		<List>Brachiosaurus</List>
+		<List>Euhelopus</List>
+		<List>Malawisaurus</List>
+		<List>Alamosaurus</List>
+		<List>Nemegtosaurus</List>
+		<List>Rapetosaurus</List>
+		<List>Isisaurus</List>
+		<List>Opisthocoelicaudia</List>
+		<List>Saltasaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="333">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Nair_et_Salisbury_2012a</Filename>
+	<Parent>Harris_2006a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Jeffery, C. H.</List>
+		</Author>
+		<Year>1999</Year>
+		<Title>A reappraisal of the phylogenetic relationships of somaliasterid echinoids</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>42</Volume>
+		<Pages>1027-1041</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="19">
+		<List>Pygomalus_analis</List>
+		<List>Cardiaster_granulosus</List>
+		<List>Echinocorys_scutata</List>
+		<List>Galeaster_bertrandi</List>
+		<List>Guettaria_rocardi</List>
+		<List>Labrotaxis_faxensis</List>
+		<List>Brightonia_macfadyeni</List>
+		<List>Iraniaster_douvillei</List>
+		<List>Iraniaster_morgani</List>
+		<List>Iraniaster_omanensis</List>
+		<List>Leviechinus_gregoryi</List>
+		<List>Coraster_vilanovae</List>
+		<List>Cyclaster_pfenderae</List>
+		<List>Hemiaster_bufo</List>
+		<List>Linthia_sudanensis</List>
+		<List>Mauritanaster_gentili</List>
+		<List>Mecaster_fourneli</List>
+		<List>Micraster_schroederi</List>
+		<List>Opissaster_elongatus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="24">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Jeffery_1999a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

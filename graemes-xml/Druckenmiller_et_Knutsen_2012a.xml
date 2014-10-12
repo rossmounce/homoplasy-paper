@@ -1,0 +1,109 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Druckenmiller, P. S.</List>
+			<List>Knutsen, E. M.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>Phylogenetic relationships of Upper Jurassic (Middle Volgian) plesiosaurians (Reptilia: Sauropterygia) from the Agardhfjellet Formation of central Spitsbergen, Norway</Title>
+		<Journal>Norwegian Journal of Geology</Journal>
+		<Volume>92</Volume>
+		<Pages>277-284</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="74">
+		<List>Archaeonectrus_rostratus</List>
+		<List>Aristonectesparvidens</List>
+		<List>Attenborosaurusconybear</List>
+		<List>Augustasaurushagdorni</List>
+		<List>BEDFM_1999_slash_201</List>
+		<List>BMNH_49202</List>
+		<List>BMNH_R2439</List>
+		<List>Brachaucheniuslucasi</List>
+		<List>Brancasaurusbrancai</List>
+		<List>Callawayasauruscolombie</List>
+		<List>Colymbosaurus_svalbardensis</List>
+		<List>Cymatosaurus</List>
+		<List>Cryptocliduseurymerus</List>
+		<List>Djupedalia_engeri</List>
+		<List>Dolichorhynchopshersche</List>
+		<List>Dolichorhynchopsosborni</List>
+		<List>Edgarosaurusmuddi</List>
+		<List>Elasmosaurus_platyurus</List>
+		<List>Eopolycotylusrankini</List>
+		<List>Eromangasaurusaustralis</List>
+		<List>Eurycleidusarcuatus</List>
+		<List>FHSMVP321</List>
+		<List>Hauffiosauruslongirostris</List>
+		<List>Hauffiosaurustomistomimus</List>
+		<List>Hauffiosauruszanoni</List>
+		<List>Hydrorionbrachypterygiu</List>
+		<List>Hydrotherosaurusalexand</List>
+		<List>Kaiwhekeakatiki</List>
+		<List>Kimmerosauruslanghami</List>
+		<List>Kronosaurusqueenslandic</List>
+		<List>Leptocleiduscapensis</List>
+		<List>Leptocleidussuperstes</List>
+		<List>Libonectesmorgani</List>
+		<List>Liopleurodonferox</List>
+		<List>Macroplatatenuiceps</List>
+		<List>Manemergusanguirostris</List>
+		<List>Maresauruscoccai</List>
+		<List>Microcleidushomalospond</List>
+		<List>Muraenosaurusleedsii</List>
+		<List>Nichollsauraborealis</List>
+		<List>Occitanosaurustournemir</List>
+		<List>OUMNH_J_dot_02247</List>
+		<List>OUMNH_J_dot_10337</List>
+		<List>OUMNH_J_dot_28585</List>
+		<List>Palmulasaurusquadratus</List>
+		<List>Peloneustesphilarchus</List>
+		<List>Plesiopleurodonwellesi</List>
+		<List>Plesiosaurusdolichodeir</List>
+		<List>Plesiosaurusmacrocephal</List>
+		<List>Pliosaurusandrewsi</List>
+		<List>Pliosaurus_brachydeirus</List>
+		<List>Pliosaurus_brachyspondylus</List>
+		<List>Pliosaurus_funkei</List>
+		<List>Pliosaurus_macromerus</List>
+		<List>Pliosaurus_rossicus</List>
+		<List>Pliosaurus_sp_BRSMG_Cc332</List>
+		<List>Polycotyluslatipinnis</List>
+		<List>QMF_18041</List>
+		<List>Rhomaleosaurusmegacepha</List>
+		<List>Rhomaleosaurusvictor</List>
+		<List>Rhomaleosauruszetlandic</List>
+		<List>Seeleyosaurusguilelmiim</List>
+		<List>Simolestesvorax</List>
+		<List>Simosaurusgaillardoti</List>
+		<List>Spitrasaurus_larseni</List>
+		<List>Spitrasaurus_wensaasi</List>
+		<List>Styxosaurussnowii</List>
+		<List>Terminonatatorpontiexen</List>
+		<List>Thalassiodraconhawkinsi</List>
+		<List>Thalassomedonhaningtoni</List>
+		<List>Thililualongicollis</List>
+		<List>Tricleidusseeleyi</List>
+		<List>Trinacromerumbentonianu</List>
+		<List>Umoonasaurusdemoscyllus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="180">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Druckenmiller_et_Knutsen_2012a</Filename>
+	<Parent>Benson_etal_2011a</Parent>
+	<Sibling/>
+</SourceTree>

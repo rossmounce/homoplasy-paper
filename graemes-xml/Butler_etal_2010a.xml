@@ -1,0 +1,89 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Butler, R. J.</List>
+			<List>Galton, P. M.</List>
+			<List>Porro, L. B.</List>
+			<List>Chiappe, L. M.</List>
+			<List>Henderson, D. M.</List>
+			<List>Erickson, G. M.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>Lower limits of ornithischian dinosaur body size inferred from a new Upper Jurassic heterodontosaurid from North America</Title>
+		<Journal>Proceedings of the Royal Society of London B</Journal>
+		<Volume>277</Volume>
+		<Pages>375-381</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="50">
+		<List>Euparkeria_capensis</List>
+		<List>Marasuchus_liloensis</List>
+		<List>Herrerasaurus_ischigualastensis</List>
+		<List>Pisanosaurus_mertii</List>
+		<List>Abrictosaurus_consors</List>
+		<List>Echinodon_becklessi</List>
+		<List>Fruitadens_haagarorum</List>
+		<List>Heterodontosaurus_tucki</List>
+		<List>Lycorhinus_angustidens</List>
+		<List>NHM_RU_A100_formerly_BMNH_RU_A100</List>
+		<List>Tianyulong_confuciusi</List>
+		<List>Eocursor_parvus</List>
+		<List>Lesothosaurus_diagnosticus</List>
+		<List>Stormbergia_dangershoeki</List>
+		<List>Agilisaurus_louderbacki</List>
+		<List>Hexinlusaurus_multidens</List>
+		<List>Anabisetia_saldiviai</List>
+		<List>Bugenasaura_infernalis</List>
+		<List>Hypsilophodon_foxii</List>
+		<List>Jeholosaurus_shangyuanensis</List>
+		<List>Orodromeus_makelai</List>
+		<List>Othnieliosaurus_consors</List>
+		<List>Talenkauen_santacrucensis</List>
+		<List>Thescelosaurus_neglectus</List>
+		<List>Yandusaurus_hongheensis</List>
+		<List>Zephyrosaurus_schaffi</List>
+		<List>Rhabdodontidae</List>
+		<List>Ankylopollexia</List>
+		<List>Dryosauridae</List>
+		<List>Tenontosaurus_dossi</List>
+		<List>Tenontosaurus_tilleti</List>
+		<List>Yinlong_downsi</List>
+		<List>Psittacosauridae</List>
+		<List>Liaoceratops_yanzigouensis</List>
+		<List>Archaeoceratops_oshimai</List>
+		<List>Unnamed_taxon_Coronosauria_plus_Leptoceratopsidae</List>
+		<List>Chaoyangosaurus_youngi</List>
+		<List>Micropachycephalosaurus_hongtuyanensis</List>
+		<List>Stenopelix_valdensis</List>
+		<List>Wannanosaurus_yansiensis</List>
+		<List>Goyocephale_lattimorei</List>
+		<List>Homalocephale_calathocercos</List>
+		<List>Pachycephalosauridae</List>
+		<List>Gasparinisaura_cincosaltensis</List>
+		<List>Parksosaurus_warreni</List>
+		<List>Scutellosaurus_lawleri</List>
+		<List>Emausaurus_ernstii</List>
+		<List>Scelidosaurus_harrisonii</List>
+		<List>Ankylosauria</List>
+		<List>Stegosauria</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="227">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Butler_etal_2010a</Filename>
+	<Parent>Butler_etal_2008a</Parent>
+	<Sibling/>
+</SourceTree>

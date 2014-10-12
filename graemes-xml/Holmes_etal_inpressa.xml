@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Holmes, R.</List>
+			<List>Berman, D. S.</List>
+			<List>Anderson, J. S.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>A new dissorophid (Temnospondyli, Dissorophoidea) fromthe Early Permian of New Mexico (United States)</Title>
+		<Journal>Comptes Rendus Palevol</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="27">
+		<List>Dendrerpeton</List>
+		<List>Sclerocephalus</List>
+		<List>Micromelerpeton</List>
+		<List>Platyrhinops</List>
+		<List>Doleserpeton</List>
+		<List>Acheloma</List>
+		<List>Phonerpeton</List>
+		<List>Anconastes</List>
+		<List>Fedexia</List>
+		<List>Tambachia</List>
+		<List>Ecolsonia</List>
+		<List>Aspidosaurus</List>
+		<List>Platyhistrix</List>
+		<List>Dissorophus</List>
+		<List>B_texensis</List>
+		<List>B_brevis</List>
+		<List>B_olsoni</List>
+		<List>Brevidorsum</List>
+		<List>Conjunctio</List>
+		<List>ADMIRAL</List>
+		<List>Cacops_M</List>
+		<List>Cacops_A</List>
+		<List>Cacops_W</List>
+		<List>Kamacops</List>
+		<List>Zygosaurus</List>
+		<List>new_taxon</List>
+		<List>RAT</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="71">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Holmes_etal_inpressa</Filename>
+	<Parent>Schoch_2012a</Parent>
+	<Sibling/>
+</SourceTree>

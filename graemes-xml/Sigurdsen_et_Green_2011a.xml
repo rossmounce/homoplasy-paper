@@ -1,0 +1,60 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sigurdsen, T.</List>
+			<List>Green, D. M.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>The origin of modern amphibians: a re-evaluation</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>162</Volume>
+		<Pages>457-469</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="25">
+		<List>Acanthostega</List>
+		<List>Adelogyrinidae</List>
+		<List>Aistopoda</List>
+		<List>Amphibamus</List>
+		<List>Anura</List>
+		<List>Asaphestera</List>
+		<List>Brachystelechidae</List>
+		<List>Branchiosauridae</List>
+		<List>Cardiocephalus</List>
+		<List>Caudata</List>
+		<List>Colosteidae</List>
+		<List>Dendrerpeton</List>
+		<List>Doleserpeton</List>
+		<List>Ecolsonia</List>
+		<List>Eocaecilia</List>
+		<List>Eryops</List>
+		<List>Limnoscelis</List>
+		<List>Lysorophia</List>
+		<List>Microbrachis</List>
+		<List>Nectridea</List>
+		<List>Pantylus</List>
+		<List>Proterogyrinus</List>
+		<List>Rhynchonkos</List>
+		<List>Seymouria</List>
+		<List>Triadobatrachus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="720">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sigurdsen_et_Green_2011a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

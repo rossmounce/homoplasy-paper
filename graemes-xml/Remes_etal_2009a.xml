@@ -1,0 +1,69 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Remes, K.</List>
+			<List>Ortega, F.</List>
+			<List>Fierro, I.</List>
+			<List>Joger, U.</List>
+			<List>Kosma, R.</List>
+			<List>Ferrer, J. M. M.</List>
+			<List>Ide, O. A.</List>
+			<List>Maga, A.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>A new basal sauropod dinosaur from the Middle Jurassic of Niger and the early evolution of Sauropoda</Title>
+		<Journal>PLoS One</Journal>
+		<Volume>4</Volume>
+		<Pages>1-13</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="28">
+		<List>Plateosaurus</List>
+		<List>Vulcanodon</List>
+		<List>Tazoudasaurus</List>
+		<List>Shunosaurus</List>
+		<List>Spinophorosaurus_n._gen.</List>
+		<List>Cetiosaurus</List>
+		<List>Barapasaurus</List>
+		<List>Omeisaurus</List>
+		<List>Patagosaurus</List>
+		<List>Mamenchisaurus</List>
+		<List>Losillasaurus</List>
+		<List>Jobaria</List>
+		<List>Haplocanthosaurus</List>
+		<List>Limaysaurus</List>
+		<List>Suuwassea</List>
+		<List>Apatosaurus</List>
+		<List>Tornieria</List>
+		<List>Diplodocus</List>
+		<List>Dicraeosaurus</List>
+		<List>Amargasaurus</List>
+		<List>Camarasaurus</List>
+		<List>Brachiosaurus</List>
+		<List>Euhelopus</List>
+		<List>Malawisaurus</List>
+		<List>Rapetosaurus</List>
+		<List>Opisthocoelicaudia</List>
+		<List>Neuquensaurus</List>
+		<List>Saltasaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="235">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Remes_etal_2009a</Filename>
+	<Parent>Wilson_2002a</Parent>
+	<Sibling/>
+</SourceTree>

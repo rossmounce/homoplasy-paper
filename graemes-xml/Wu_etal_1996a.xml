@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Wu, X.-C.</List>
+			<List>Brinkman, D. B.</List>
+			<List>Russell, A. P.</List>
+		</Author>
+		<Year>1996</Year>
+		<Title>A new alligator from the Upper Cretaceous of Canada and the relationships of early eusuchians</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>39</Volume>
+		<Pages>351-375</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="20">
+		<List>Goniopholis</List>
+		<List>Sunosuchus</List>
+		<List>Shamosuchus</List>
+		<List>Bernissartia</List>
+		<List>Hylaeochampsa</List>
+		<List>Leidyosuchus</List>
+		<List>Prodiplocynodon</List>
+		<List>Albertochampsa</List>
+		<List>Brachychampsa</List>
+		<List>Stangerochampsa</List>
+		<List>Wannaganosuchus</List>
+		<List>Allognathosuchus</List>
+		<List>Ceratosuchus</List>
+		<List>Procaimanoidea</List>
+		<List>Alligator_mcgrewi</List>
+		<List>Alligator_prenasalis</List>
+		<List>Alligator_thomsoni</List>
+		<List>Alligator_mefferdi</List>
+		<List>Alligator_mississippiensis</List>
+		<List>Crocodylinae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="46">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Wu_etal_1996a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

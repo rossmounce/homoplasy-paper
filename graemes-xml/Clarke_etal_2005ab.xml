@@ -1,0 +1,84 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Clarke, J. A, Tambussi, C. P.</List>
+			<List>Noriega, J. I.</List>
+			<List>Erickson, G. M.</List>
+			<List>Ketcham, R. A.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>Definitive fossil evidence for the extant avian radiation in the Cretaceous</Title>
+		<Journal>Nature</Journal>
+		<Volume>433</Volume>
+		<Pages>305-308</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="47">
+		<List>Apsaravis</List>
+		<List>Ichthyornis</List>
+		<List>Hesperornis</List>
+		<List>Tinamidae</List>
+		<List>Rheidae</List>
+		<List>Apterygidae</List>
+		<List>Galliformes</List>
+		<List>Anhimidae</List>
+		<List>Anatidae</List>
+		<List>Vegavis</List>
+		<List>Opisthocomidae</List>
+		<List>Cariamidae</List>
+		<List>Cuculidae</List>
+		<List>Musophagidae</List>
+		<List>Otididae</List>
+		<List>Rallidae</List>
+		<List>Psittaciformes</List>
+		<List>Coliidae</List>
+		<List>Coraciidae</List>
+		<List>Passeriformes</List>
+		<List>Spheniscidae</List>
+		<List>Procellariidae</List>
+		<List>Podicipedidae</List>
+		<List>Gaviidae</List>
+		<List>Threskiornithidae</List>
+		<List>Phoenicopteridae</List>
+		<List>Ciconiidae</List>
+		<List>Sagittariidae</List>
+		<List>Cathartidae</List>
+		<List>Strigiformes</List>
+		<List>Accipitridae</List>
+		<List>Falconidae</List>
+		<List>Recurvirostridae</List>
+		<List>Burhinidae</List>
+		<List>Phaethontidae</List>
+		<List>Fregatidae</List>
+		<List>Phalacrocoracidae</List>
+		<List>Balaenicipitidae</List>
+		<List>Eurypygidae</List>
+		<List>Ardeidae</List>
+		<List>Pteroclidae</List>
+		<List>Columbidae</List>
+		<List>Psophiidae</List>
+		<List>Gruidae</List>
+		<List>Aegothelidae</List>
+		<List>Steatornithidae</List>
+		<List>Trogonidae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="148">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Clarke_etal_2005ab</Filename>
+	<Parent>Mayr_et_Clarke_2003a</Parent>
+	<Sibling/>
+</SourceTree>

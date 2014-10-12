@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Benton, M. J.</List>
+		</Author>
+		<Year>1990</Year>
+		<Title>The species of <em>Rhynchosaurus</em>, a rhynchosaur (Reptilia, Diapsida) from the Middle Triassic of England</Title>
+		<Journal>Philosophical Transactions of the Royal Society of London B</Journal>
+		<Volume>328</Volume>
+		<Pages>213-306</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="17">
+		<List>Outgroup</List>
+		<List>Mesosuchus</List>
+		<List>Supradapedon</List>
+		<List>Hyperodapedon_gordoni</List>
+		<List>Hyperodapedon_huxleyi</List>
+		<List>Nova_Scotia_sp.</List>
+		<List>Texas_sp.</List>
+		<List>Scaphonyx_fischeri</List>
+		<List>Scaphony_sanjuanensis</List>
+		<List>Isalorhynchus</List>
+		<List>Acrodenta</List>
+		<List>Rhynchosaurus_articeps</List>
+		<List>Rhynchosaurus_brodiei</List>
+		<List>Rhynchosaurus_spenceri</List>
+		<List>Mesodapedon</List>
+		<List>Stenaulorhynchus</List>
+		<List>Howesia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="26">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Benton_1990a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

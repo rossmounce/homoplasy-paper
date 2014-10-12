@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Pereda-Suberbiola, X.</List>
+			<List>Canudo, J. I.</List>
+			<List>Cruzado-Caballero, P.</List>
+			<List>Barco, J. L.</List>
+			<List>Lopez-Martinez, N.</List>
+			<List>Oms, O.</List>
+			<List>Ruiz-Omenaca, J. I.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>The last hadrosaurid dinosaurs of Europe: A new lambeosaurine from the Uppermost Cretaceous of Aren (Huesca, Spain)</Title>
+		<Journal>Comptes Rendus Palevol</Journal>
+		<Volume>8</Volume>
+		<Pages>559-572</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="22">
+		<List>Bactrosaurus</List>
+		<List>Telmatosaurus</List>
+		<List>Aralosaurus</List>
+		<List>Tsintaosaurus</List>
+		<List>Jaxartosaurus</List>
+		<List>Arenysaurus</List>
+		<List>Amurosaurus</List>
+		<List>Lambeosaurus</List>
+		<List>Corythosaurus</List>
+		<List>Hypacrosaurus</List>
+		<List>Olorotitan</List>
+		<List>Parasaurolophus</List>
+		<List>Charonosaurus</List>
+		<List>Wulagasaurus</List>
+		<List>Maiasaura</List>
+		<List>Brachylophosaurus</List>
+		<List>Gryposaurus</List>
+		<List>Kerberosaurus</List>
+		<List>Saurolophus</List>
+		<List>Prosaurolophus</List>
+		<List>Anatotitan</List>
+		<List>Edmontosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="57">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Pereda-Suberbiola_etal_2009a</Filename>
+	<Parent>Godefroit_etal_2008a</Parent>
+	<Sibling/>
+</SourceTree>

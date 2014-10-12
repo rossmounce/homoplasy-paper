@@ -1,0 +1,60 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Fischer, V.</List>
+			<List>Maisch, M. W.</List>
+			<List>Naish, D.</List>
+			<List>Kosma, R.</List>
+			<List>Liston, J.</List>
+			<List>Joger, U.</List>
+			<List>Kruger, F. J.</List>
+			<List>Perez, J. P.</List>
+			<List>Tainsh, J.</List>
+			<List>Appleby, R. M.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>New ophthalmosaurid ichthyosaurs from the European Lower Cretaceous demonstrate extensive ichthyosaur survival across the Jurassic-Cretaceous boundary</Title>
+		<Journal>PLOS ONE</Journal>
+		<Volume>7</Volume>
+		<Pages>e29234</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="17">
+		<List>Temnodontosaurus</List>
+		<List>Ichthyosaurus_communis</List>
+		<List>Stenopterygius_quadriscissus</List>
+		<List>Ophthalmosaurus_icenicus</List>
+		<List>Ophthalmosaurus_natans</List>
+		<List>Chacaicosaurus_cayi</List>
+		<List>Brachypterygius_extremus</List>
+		<List>Arthropterygius_chrisorum</List>
+		<List>Mollesaurus_perialus</List>
+		<List>Caypullisaurus_bonpartei</List>
+		<List>Aegirosaurus_leptospondylus</List>
+		<List>Platypterygius_australis</List>
+		<List>Platypterygius_hercynicus</List>
+		<List>Maiaspondylus_lindoei</List>
+		<List>Athabascasaurus_bitumineus</List>
+		<List>Sveltonectes_insolitus</List>
+		<List>Acamptonectes_densus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="51">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Fischer_etal_2012a</Filename>
+	<Parent>Fischer_etal_2011a</Parent>
+	<Sibling/>
+</SourceTree>

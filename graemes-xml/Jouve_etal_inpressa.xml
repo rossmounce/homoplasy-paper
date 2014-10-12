@@ -1,0 +1,103 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Jouve, S.</List>
+			<List>Bouya, B.</List>
+			<List>Amaghzaz, M.</List>
+			<List>Meslouh, S.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title><em>Maroccosuchus zennaroi</em> (Crocodylia: Tomistominae) from the Eocene of Morocco: phylogenetic and palaeobiogeographical implications of the basalmost tomistomine</Title>
+		<Journal>Journal of Systematic Palaeontology</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="66">
+		<List>Bernissartia_fagesii</List>
+		<List>Iharkutosuchus</List>
+		<List>Hylaeochampsa_vectiana</List>
+		<List>Allodaposuchus_precedens</List>
+		<List>Borealosuchus_formidabilis</List>
+		<List>Borealosuchus_wilsoni</List>
+		<List>Borealosuchus_sternbergii</List>
+		<List>Leidyosuchus_canadensis</List>
+		<List>Thoracosaurus_macrorhynchus</List>
+		<List>Eogavialis_africanum</List>
+		<List>Gryposuchus_colombianus</List>
+		<List>Siwalik_Gavialis</List>
+		<List>Gavialis_gangeticus</List>
+		<List>Boverisuchus_vorax</List>
+		<List>Diplocynodon_darwini</List>
+		<List>Stangerochampsa_mccabei</List>
+		<List>Brachychampsa_montana</List>
+		<List>Alligator_mississippiensis</List>
+		<List>Caiman_crocodilus</List>
+		<List>Mecistops_cataphractus</List>
+		<List>Crocodylus_niloticus</List>
+		<List>Crocodylus_porosus</List>
+		<List>Crocodylus_rhombifer</List>
+		<List>Crocodylus_palaeindicus</List>
+		<List>Osteolaemus_tetraspis</List>
+		<List>Voay_robustus</List>
+		<List>Rimasuchus_lloydi</List>
+		<List>Crocodylus_megarhinus</List>
+		<List>Euthecodon_arambourgi</List>
+		<List>Tomistoma_schlegelii</List>
+		<List>Tomistoma_lusitanica</List>
+		<List>Thecachampsa_antiqua</List>
+		<List>Tomistoma_cairense</List>
+		<List>Kentisuchus_spenceri</List>
+		<List>Brachyuranochampsa_eversolei</List>
+		<List>C_depressifrons</List>
+		<List>Crocodylus_acer</List>
+		<List>Crocodylus_affinis</List>
+		<List>Asiatosuchus_germanicus</List>
+		<List>Prodiplocynodon_langi</List>
+		<List>Australosuchus_clarkae</List>
+		<List>G_eggenburgensis</List>
+		<List>Kambara</List>
+		<List>T_neocesariensis</List>
+		<List>Paratomistoma</List>
+		<List>Argochampsa_krebsi</List>
+		<List>Piscogavialis_jugaliperforatus</List>
+		<List>Ikanogavialis_gameroi</List>
+		<List>Dollosuchoides</List>
+		<List>Harpacochampsa</List>
+		<List>Eothoracosaurus</List>
+		<List>Ocepesuchus</List>
+		<List>Eosuchus_minor</List>
+		<List>Eosuchus_lerichei</List>
+		<List>Siquisiquesuchus</List>
+		<List>Maroccosuchus</List>
+		<List>Toyotamaphimeia</List>
+		<List>Megadontosuchus</List>
+		<List>Aktiogavialis</List>
+		<List>Planocrania_dat</List>
+		<List>Planocrania_Heng</List>
+		<List>Penghu</List>
+		<List>Thecachampsa_carolinensis</List>
+		<List>Euthec_brumpti</List>
+		<List>T_coppensi</List>
+		<List>Xaymacachampsa</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="238">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Jouve_etal_inpressa</Filename>
+	<Parent>Jouve_etal_2008b</Parent>
+	<Sibling/>
+</SourceTree>

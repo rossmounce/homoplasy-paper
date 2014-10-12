@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Bronowicz, R.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>New material of a dervied ornithomimosaur from the Upper Cretaceous Nemegt Formation of Mongolia</Title>
+		<Journal>Acta Palaeontologica Polonica</Journal>
+		<Volume>56</Volume>
+		<Pages>477-488</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="9">
+		<List>Allosaurus</List>
+		<List>Pelecanimimus</List>
+		<List>Harpymimus</List>
+		<List>Archaeornithomimus</List>
+		<List>Anserimimus</List>
+		<List>Gallimimus</List>
+		<List>Struthiomimus</List>
+		<List>Ornithomimus</List>
+		<List>ZPAL_MgD_dash_I_slash_65</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="42">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Bronowicz_2011a</Filename>
+	<Parent>Kobayashi_et_Lu_2003a</Parent>
+	<Sibling/>
+</SourceTree>

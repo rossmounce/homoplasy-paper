@@ -1,0 +1,44 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Liu, J.</List>
+			<List>Li, J.-L.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>A new material of kannemeyerid from Xinjiang and the restudy of <em>Parakannemeyeria brevirostris</em></Title>
+		<Journal>Vertebrata PalAsiatica</Journal>
+		<Volume>41</Volume>
+		<Pages>147-156</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="9">
+		<List>Outgroup</List>
+		<List>Sinokannemeyeria_pearsoni</List>
+		<List>Sinokannemeyeria_yingchiaoensis</List>
+		<List>Sinokannemeyeria_sanchuanheensis</List>
+		<List>Parakannemeyeria_dolichocephala</List>
+		<List>Parakannemeyeria_youngi</List>
+		<List>Parakannemeyeria_ningwuensis</List>
+		<List>Parakannemeyeria_shenmuensis</List>
+		<List>quot_Parakannemeyeria_quot_brevirostris</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="20">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Liu_et_Li_2003a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

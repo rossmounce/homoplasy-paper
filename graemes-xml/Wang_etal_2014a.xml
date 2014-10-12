@@ -1,0 +1,68 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Wang, M.</List>
+			<List>Zhou, Z.-H.</List>
+			<List>Xu, G.-H.</List>
+		</Author>
+		<Year>2014</Year>
+		<Title>The first enantiornithine bird from the Upper Cretaceous of China</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>34</Volume>
+		<Pages>135-145</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="32">
+		<List>Dromaeosauridae</List>
+		<List>Archaeopteryx</List>
+		<List>Zhongornis</List>
+		<List>Jeholornis</List>
+		<List>Sapeornis</List>
+		<List>Confuciusornis</List>
+		<List>Changchengornis</List>
+		<List>Longipteryx</List>
+		<List>Eoenantiornis</List>
+		<List>Concornis</List>
+		<List>Longirostravis</List>
+		<List>Eoalulavis</List>
+		<List>Gobipteryx</List>
+		<List>Neuquenornis</List>
+		<List>Vescornis</List>
+		<List>Iberomesornis</List>
+		<List>Shanweiniao</List>
+		<List>Rapaxavis</List>
+		<List>Yixianornis</List>
+		<List>Patagopteryx</List>
+		<List>Longicrusavis</List>
+		<List>Apsaravis</List>
+		<List>Hongshanornis</List>
+		<List>Yanornis</List>
+		<List>Gansus</List>
+		<List>Hesperornis</List>
+		<List>Ichyornis</List>
+		<List>Anas</List>
+		<List>Gallus</List>
+		<List>Parvavis</List>
+		<List>Archaeorhynchus</List>
+		<List>Songlingornis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="242">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Wang_etal_2014a</Filename>
+	<Parent>OConnor_etal_2009a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,66 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lee, M. S. Y.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>Turtle origins: insights from phylogenetic retrofitting and molecular scaffolds</Title>
+		<Journal>Journal of Evolutionary Biology</Journal>
+		<Volume>26</Volume>
+		<Pages>2729-2738</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="32">
+		<List>Seymouria</List>
+		<List>Limnoscelidae</List>
+		<List>Diadectidae</List>
+		<List>Synapsida</List>
+		<List>Captorhinidae</List>
+		<List>Paleothyris</List>
+		<List>Araeoscelidia</List>
+		<List>Younginiformes</List>
+		<List>Mesosauridae</List>
+		<List>Eunotosaurus</List>
+		<List>Millerettidae</List>
+		<List>Australothyris</List>
+		<List>Microleter</List>
+		<List>Nyctiphruretus</List>
+		<List>Eudibamus</List>
+		<List>Belebey</List>
+		<List>Acleistorhinus</List>
+		<List>Lanthanosuchus</List>
+		<List>Bradysaurus</List>
+		<List>Pareiasuchus</List>
+		<List>Scutosaurus</List>
+		<List>Procolophon</List>
+		<List>Owenetta</List>
+		<List>Barasaurus</List>
+		<List>Macroleter</List>
+		<List>Ba_mesensis</List>
+		<List>Ba_bashkyricus</List>
+		<List>Nycteroleter</List>
+		<List>Emeroleter</List>
+		<List>Rhipaeosaurus</List>
+		<List>Odontochelys</List>
+		<List>Proganochelys</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="154">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lee_2013ab</Filename>
+	<Parent>Tsuji_etal_2012a</Parent>
+	<Sibling/>
+</SourceTree>

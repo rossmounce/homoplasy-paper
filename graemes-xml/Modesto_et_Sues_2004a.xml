@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Modesto, S. P.</List>
+			<List>Sues, H.-D.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>The skull of the Early Triassic archosauromorph reptile <em>Prolacerta broomi</em> and its phylogenetic significance</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>140</Volume>
+		<Pages>335-351</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="19">
+		<List>Petrolacosaurus</List>
+		<List>Youngina</List>
+		<List>Champsosaurus</List>
+		<List>Cteniogenys</List>
+		<List>Lazarussuchus</List>
+		<List>Squamata</List>
+		<List>Gephyrosaurus</List>
+		<List>Macrocnemus</List>
+		<List>Langobardisaurus</List>
+		<List>Tanystropheus</List>
+		<List>Megalancosaurus</List>
+		<List>Drepanosaurus</List>
+		<List>Protorosaurus</List>
+		<List>Trilophosaurus</List>
+		<List>Mesosuchus</List>
+		<List>Howesia</List>
+		<List>Prolacerta</List>
+		<List>Proterosuchus</List>
+		<List>Euparkeria</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="146">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Modesto_et_Sues_2004a</Filename>
+	<Parent>Dilkes_1998a</Parent>
+	<Sibling/>
+</SourceTree>

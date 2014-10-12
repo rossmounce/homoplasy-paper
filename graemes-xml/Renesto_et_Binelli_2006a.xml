@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Renesto, S.</List>
+			<List>Binelli, G.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title><em>Vallesaurus cenensis</em> Wild, 1991, a drepanosaurid (Reptilia, Diapsida) fromthe Late Triassic of northern Italy</Title>
+		<Journal>Rivista Italiana di Paleontologia e Stratigrafia</Journal>
+		<Volume>112</Volume>
+		<Pages>77-94</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="22">
+		<List>Palaeothyris</List>
+		<List>Petrolacosaurus</List>
+		<List>Megalancosaurus</List>
+		<List>Vallesaurus</List>
+		<List>Drepanosaurus</List>
+		<List>Dolabrosaurus</List>
+		<List>Hypuronector</List>
+		<List>Longisquama</List>
+		<List>Coelurosauravus</List>
+		<List>Youngina</List>
+		<List>Gephyrosaurus</List>
+		<List>Mesosuchus</List>
+		<List>Prolacerta</List>
+		<List>Macrocnemus</List>
+		<List>Langobardisaurus</List>
+		<List>Tanystropheus</List>
+		<List>Ornithosuchus</List>
+		<List>Proterosuchus</List>
+		<List>Euparkeria</List>
+		<List>Archaeopteryx</List>
+		<List>Sinosauropteryx</List>
+		<List>Eudimorphodon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="76">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Renesto_et_Binelli_2006a</Filename>
+	<Parent>Senter_2004aa</Parent>
+	<Sibling/>
+</SourceTree>

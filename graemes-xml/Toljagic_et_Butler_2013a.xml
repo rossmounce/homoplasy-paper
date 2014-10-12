@@ -1,0 +1,71 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Toljagic, O.</List>
+			<List>Butler, R. J.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>Triassic-Jurassic mass extinction as trigger for the Mesozoic radiation of crocodylomorphs</Title>
+		<Journal>Biology Letters</Journal>
+		<Volume>9</Volume>
+		<Pages>20130095</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="36">
+		<List>Parasuchus_hislopi</List>
+		<List>Smilosuchus_gregorii</List>
+		<List>Pseudopalatus_pristinus</List>
+		<List>Ornithosuchus_longidens</List>
+		<List>Riojasuchus_tenuisceps</List>
+		<List>Revueltosaurus_callenderi</List>
+		<List>Stagonolepis_robertsoni</List>
+		<List>Aetosaurus_ferratus</List>
+		<List>Longosuchus_meadei</List>
+		<List>Effigia_okeeffeae</List>
+		<List>Shuvosaurus_inexpectatus</List>
+		<List>Saurosuchus_galilei</List>
+		<List>Fasolasuchus_tenax</List>
+		<List>Rauisuchus_tiradentes</List>
+		<List>Polonosuchus_silesiacus</List>
+		<List>Postosuchus_kirkpatricki</List>
+		<List>Postosuchus_alisonae</List>
+		<List>Hesperosuchus_agilis</List>
+		<List>Dromicosuchus_grallator</List>
+		<List>quot_Hesperosuchus_agilis_quot</List>
+		<List>Sphenosuchus_acutus</List>
+		<List>Dibothrosuchus_elaphros</List>
+		<List>Terrestrisuchus_gracilis</List>
+		<List>Litargosuchus_leptorhynchus</List>
+		<List>Kayentasuchus_walkeri</List>
+		<List>Orthosuchus_stormbergi</List>
+		<List>Protosuchus_haughtoni</List>
+		<List>Protosuchus_richardsoni</List>
+		<List>Erpetosuchus</List>
+		<List>Arganasuchus</List>
+		<List>Hemiprotosuchus_leali</List>
+		<List>Kayenta_form</List>
+		<List>Pelagosaurus_typus</List>
+		<List>Steneosaurus_bollensis</List>
+		<List>Calsoyasuchus_valliceps</List>
+		<List>Platysuchus_multiscrobiculatus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="298">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Toljagic_et_Butler_2013a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

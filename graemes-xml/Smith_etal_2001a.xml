@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Smith, J. B.</List>
+			<List>Lamanna, M. C.</List>
+			<List>Lacovara, K. J.</List>
+			<List>Dodson, P.</List>
+			<List>Smith, J. R.</List>
+			<List>Poole, J. C.</List>
+			<List>Giegengack, R.</List>
+			<List>Attia, Y.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>A giant sauropod dinosaur from an Upper Cretaceous mangrove deposit in Egypt</Title>
+		<Journal>Science</Journal>
+		<Volume>292</Volume>
+		<Pages>1704-1706</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="9">
+		<List>Camarasaurus</List>
+		<List>Brachiosaurus_brancai</List>
+		<List>Andesaurus</List>
+		<List>Epachthosaurus</List>
+		<List>Opisthocoelicaudia</List>
+		<List>Alamosaurus</List>
+		<List>Malawisaurus</List>
+		<List>Paralititan</List>
+		<List>Saltasaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="56">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Smith_etal_2001a</Filename>
+	<Parent>Upchurch_1998a</Parent>
+	<Sibling/>
+</SourceTree>

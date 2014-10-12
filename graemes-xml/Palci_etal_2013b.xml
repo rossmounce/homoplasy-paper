@@ -1,0 +1,74 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Palci, A.</List>
+			<List>Caldwell, M. W.</List>
+			<List>Papazzoni, C. A.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>A new genus and subfamily of mosasaurs from the Upper Cretaceous of northern Italy</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>33</Volume>
+		<Pages>599-612</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="38">
+		<List>Outgroup</List>
+		<List>Aigialosaurus</List>
+		<List>Komensaurus_carrolli</List>
+		<List>Halisaurus_platyspondylus</List>
+		<List>Halisaurus_sternbergi</List>
+		<List>Dallasaurus_turneri</List>
+		<List>Clidastes_liodontus</List>
+		<List>Clidastes_moorevillensis</List>
+		<List>Clidastes_propython</List>
+		<List>Prognathodon_overtoni</List>
+		<List>Prognathodon_rapax</List>
+		<List>Prognathodon_solvayi</List>
+		<List>Prognathodon_currii</List>
+		<List>Prognathodon_waiparaensis</List>
+		<List>Prognathodon_saturator</List>
+		<List>Globidens_alabamaensis</List>
+		<List>Globidens_dakotensis</List>
+		<List>Mosasaurus_conodon</List>
+		<List>Mosasaurus_maximus</List>
+		<List>Mosasaurus_missouriensis</List>
+		<List>Plesiotylosaurus_crassidens</List>
+		<List>Plotosaurus_bennisoni</List>
+		<List>Tylosaurus_nepaeolicus</List>
+		<List>Tylosaurus_proriger</List>
+		<List>Yaguarasaurus_columbianus</List>
+		<List>Eremiasaurus_heterodontus</List>
+		<List>Prognathodon_kianda</List>
+		<List>Russellosaurus_coheni</List>
+		<List>Romeosaurus_fumanensis</List>
+		<List>Ectenosaurus_clidastoides</List>
+		<List>Plioplatecarpus</List>
+		<List>Platecarpus_planifrons</List>
+		<List>Platecarpus_tympaniticus</List>
+		<List>Latoplatecarpus_willistoni</List>
+		<List>Selmasaurus_johnsoni</List>
+		<List>Angolasaurus_bocagei</List>
+		<List>Tethysaurus_nopcsai</List>
+		<List>Pannoniasaurus_inexpectatus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="131">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Palci_etal_2013b</Filename>
+	<Parent>Leblanc_etal_2012a</Parent>
+	<Sibling/>
+</SourceTree>

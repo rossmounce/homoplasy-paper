@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Holtz, T. R.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>The phylogeny and taxonomy of the Tyrannosauridae</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>64-83</Pages>
+		<Booktitle>Mesozoic Vertebrate Life</Booktitle>
+		<Publisher>Indiana University Press</Publisher>
+		<City>Bloomington</City>
+		<Editor>
+			<List>Tanke, D. H.</List>
+			<List>Carpenter, K.</List>
+		</Editor>
+	</Source>
+	<Taxa number="17">
+		<List>Outgroup</List>
+		<List>Maniraptora</List>
+		<List>Ornithomimosauria</List>
+		<List>Siamotyrannus_isanensis</List>
+		<List>Aublysodon_molnari</List>
+		<List>Alectrosaurus_olseni</List>
+		<List>Kirtland_Shale_aublysodontine</List>
+		<List>Alioramus_remotus</List>
+		<List>Shanshanosaurus_huoyanshanensis</List>
+		<List>Gorgosaurus_libratus</List>
+		<List>Albertosaurus_sarcophagus</List>
+		<List>Daspletosaurus_torosus</List>
+		<List>Two_Medicine_tyrannosaurine</List>
+		<List>Tyrannosaurus_bataar</List>
+		<List>Tyrannosaurus_rex</List>
+		<List>Maleevosaurus_nonjilovi</List>
+		<List>Nanotyrannus_lancensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="111">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Holtz_2001b</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

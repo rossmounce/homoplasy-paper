@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Carrano, M. T.</List>
+			<List>Hutchinson, J. R.</List>
+			<List>Sampson, S. D.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>New information on Segisaurus halli, a small theropod dinosaur from the Early Jurassic of Arizona</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>25</Volume>
+		<Pages>835-849</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="17">
+		<List>Eoraptor</List>
+		<List>Herrerasaurus</List>
+		<List>Allosaurus</List>
+		<List>Ornitholestes</List>
+		<List>Elaphrosaurus</List>
+		<List>Ceratosaurus</List>
+		<List>Carnotaurus</List>
+		<List>Majungatholus</List>
+		<List>Coelophysis</List>
+		<List>Dilophosaurus</List>
+		<List>Gojirasaurus</List>
+		<List>Liliensternus</List>
+		<List>Procompsognathus</List>
+		<List>Sarcosaurus</List>
+		<List>Segisaurus</List>
+		<List>Syntarsus</List>
+		<List>Zupaysaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="145">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Carrano_etal_2005a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

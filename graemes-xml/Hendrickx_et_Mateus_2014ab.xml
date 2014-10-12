@@ -1,0 +1,99 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Hendrickx, C.</List>
+			<List>Mateus, O.</List>
+		</Author>
+		<Year>2014</Year>
+		<Title>Abelisauridae (Dinosauria: Theropoda) from the Late Jurassic of Portugal and dentition-based phylogeny as a contribution for the identification of isolated theropod teeth</Title>
+		<Journal>Zootaxa</Journal>
+		<Volume>3759</Volume>
+		<Pages>1-74</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="64">
+		<List>Eoraptor</List>
+		<List>Herrerasaurus</List>
+		<List>Eodromaeus</List>
+		<List>Coelophysis</List>
+		<List>Dilophosaurus</List>
+		<List>Ceratosaurus</List>
+		<List>Genyodectes</List>
+		<List>Berberosaurus</List>
+		<List>Noasaurus</List>
+		<List>Masiakasaurus</List>
+		<List>Kryptops</List>
+		<List>Rugops</List>
+		<List>Abelisaurus</List>
+		<List>Aucasaurus</List>
+		<List>Indosuchus</List>
+		<List>Majungasaurus</List>
+		<List>Skorpiovenator</List>
+		<List>Erectopus</List>
+		<List>Piatnitzkysaurus</List>
+		<List>Eustreptospondylus</List>
+		<List>Afrovenator</List>
+		<List>Dubreuillosaurus</List>
+		<List>Duriavenator</List>
+		<List>Megalosaurus</List>
+		<List>Torvosaurus</List>
+		<List>Baryonyx</List>
+		<List>Suchomimus</List>
+		<List>Irritator_Angaturama</List>
+		<List>Spinosaurus</List>
+		<List>Sinraptor</List>
+		<List>Allosaurus</List>
+		<List>Neovenator</List>
+		<List>Fukuiraptor</List>
+		<List>Australovenator</List>
+		<List>Acrocanthosaurus</List>
+		<List>Eocarcharia</List>
+		<List>Carcharodontosaurus</List>
+		<List>Giganotosaurus</List>
+		<List>Mapusaurus</List>
+		<List>Proceratosaurus</List>
+		<List>Eotyrannus</List>
+		<List>Raptorex</List>
+		<List>Alioramus</List>
+		<List>Tyrannosaurus</List>
+		<List>Compsognathus</List>
+		<List>Scipionyx</List>
+		<List>Ornitholestes</List>
+		<List>Shuvuuia</List>
+		<List>Jianchangosaurus</List>
+		<List>Erlikosaurus</List>
+		<List>Tsaagan</List>
+		<List>Velociraptor</List>
+		<List>Bambiraptor</List>
+		<List>Dromaeosaurus</List>
+		<List>Saurornitholestes</List>
+		<List>Buitreraptor</List>
+		<List>Byronosaurus</List>
+		<List>Zanabazar</List>
+		<List>Troodon</List>
+		<List>Richardoestesia_gil</List>
+		<List>ML962</List>
+		<List>ML327</List>
+		<List>ML966</List>
+		<List>ML939</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="1972">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Hendrickx_et_Mateus_2014ab</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

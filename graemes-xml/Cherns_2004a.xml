@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Cherns, L.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>Early Palaeozoic diversifcation of chitons (Polyplacophora, Mollusca) based on new data from the Silurian of Gotland, Sweden</Title>
+		<Journal>Lethaia</Journal>
+		<Volume>37</Volume>
+		<Pages>445-456</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="33">
+		<List>Neopilina_slash_Vema</List>
+		<List>Tryblidium_slash_Pilina</List>
+		<List>Scenella</List>
+		<List>Acaenoplax_v26</List>
+		<List>Acaenoplax_v7d</List>
+		<List>Matthevia</List>
+		<List>Hemithecella</List>
+		<List>Preacanthochiton</List>
+		<List>Calceochiton</List>
+		<List>Septemchiton</List>
+		<List>Solenocaris</List>
+		<List>Helminthochiton_thraivensis</List>
+		<List>Helminthochiton_griffithi</List>
+		<List>Paleochiton</List>
+		<List>Kindbladochiton</List>
+		<List>Ivoechiton</List>
+		<List>Gotlandochiton_hami</List>
+		<List>Cobcrephora</List>
+		<List>Chelodes</List>
+		<List>Spicuchelodes</List>
+		<List>Gotlandochiton</List>
+		<List>Thairoplax</List>
+		<List>Plectrochiton</List>
+		<List>Alastega</List>
+		<List>Heloplax</List>
+		<List>Enetoplax</List>
+		<List>Arctoplax</List>
+		<List>Chiton</List>
+		<List>Gryphochiton</List>
+		<List>Strobilepis_slash_Diadeloplax</List>
+		<List>Conodia</List>
+		<List>Elongata</List>
+		<List>Robustum</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="28">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Cherns_2004a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

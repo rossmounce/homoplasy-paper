@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Upchurch, P.</List>
+			<List>Barrett, P. M.</List>
+			<List>Zhao, X.-J.</List>
+			<List>Xu, X.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>A re-evaluation of Chinshakiangosaurus chunghoensis Ye vide Dong 1992 (Dinosauria, Sauropodomorpha): implications for cranial evolution in basal sauropod dinosaurs</Title>
+		<Journal>Geological Magazine</Journal>
+		<Volume>144</Volume>
+		<Pages>247-262</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="22">
+		<List>Herrerasaurus_ischigualastensis</List>
+		<List>Neotheropoda</List>
+		<List>Saturnalia_tupiniquim</List>
+		<List>Thecodontosaurus_spp</List>
+		<List>Efraasia_minor</List>
+		<List>Riojasaurus_incertus</List>
+		<List>Plateosaurus_engelhardti</List>
+		<List>Coloradisaurus_brevis</List>
+		<List>Massospondylus_carinatus</List>
+		<List>Lufengosaurus_huenei</List>
+		<List>Anchisaurus_polyzelus</List>
+		<List>Melanorosaurus_readi</List>
+		<List>Blikanasaurus_cromptoni</List>
+		<List>Antetonitrus_ingenipes</List>
+		<List>Isanosaurus_attavipachi</List>
+		<List>Chinshakiangosaurus</List>
+		<List>Kotasaurus_yamanpalliensis</List>
+		<List>Vulcanodon_karibaensis</List>
+		<List>Shunosaurus_lii</List>
+		<List>Barapasaurus_tagorei</List>
+		<List>Omeisaurus_spp</List>
+		<List>Neosauropoda</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="212">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Upchurch_etal_2007ba</Filename>
+	<Parent>Yates_et_Kitching_2003a</Parent>
+	<Sibling/>
+</SourceTree>

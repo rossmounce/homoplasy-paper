@@ -1,0 +1,68 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Larsson, H. C. E.</List>
+			<List>Sues, H.-D.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>Cranial osteology and phylogenetic relationships of Hamadasuchus rebouli (Crocodyliformes: Mesoeucrocodylia) from the Cretaceous of Morocco</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>149</Volume>
+		<Pages>533-567</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="33">
+		<List>Orthosuchus_stormbergi</List>
+		<List>Hsisosuchus</List>
+		<List>Pelagosaurus_typus</List>
+		<List>Steneosaurus_durobrivensis</List>
+		<List>Metriorhynchus_superciliosum</List>
+		<List>Geosaurus_suevicus</List>
+		<List>Pholidosaurus_decipiens</List>
+		<List>Sarcosuchus_imperator</List>
+		<List>Terminonaris_robusta</List>
+		<List>Dyrosaurus_phosphaticus</List>
+		<List>Notosuchus_terrestris</List>
+		<List>Malawisuchus_mwakasyungutiensis</List>
+		<List>Araripesuchus_gomesii</List>
+		<List>Baurusuchus_pachecoi_and_Baurusuchus_salgadoensis</List>
+		<List>Goniopholis_simus</List>
+		<List>Sunosuchus_junggarensis</List>
+		<List>Eutretauranosuchus_delfsi</List>
+		<List>Trematochampsa_taqueti</List>
+		<List>Sebecus_icaeorhinus</List>
+		<List>Bretesuchus_bonapartei</List>
+		<List>Juvenile_Hamadasuchus_rebouli</List>
+		<List>Hamadasuchus_rebouli</List>
+		<List>Pabwehshi_pakistanensis</List>
+		<List>Stolokrosuchus_lapparenti</List>
+		<List>Uberabasuchus_terrificus</List>
+		<List>Peirosaurus_torminni</List>
+		<List>Lomasuchus_palpebrosus</List>
+		<List>Mahajangasuchus_insignis</List>
+		<List>Theriosuchus_pusillus</List>
+		<List>Hylaeochampsa_vectiana</List>
+		<List>Leidyosuchus_canadensis</List>
+		<List>Crocodylus_porosus</List>
+		<List>Alligator_mississippiensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="158">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Larsson_et_Sues_2007a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

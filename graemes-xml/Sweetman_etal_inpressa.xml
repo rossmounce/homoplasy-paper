@@ -1,0 +1,72 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sweetman, S. C.</List>
+			<List>Pedreira-Segade, U.</List>
+			<List>Vidovic, S. U.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>A new bernissartiid crocodyliform from the Lower Cretaceous Wessex Formation (Wealden Group, Barremian) of the Isle of Wight, southern England</Title>
+		<Journal>Acta Palaeontologica Polonica</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="36">
+		<List>Gracilisuchus_stipanicicorum</List>
+		<List>Alligator_mississippiensis</List>
+		<List>Araripesuchus_wegeneri</List>
+		<List>Argochampsa_krebsi</List>
+		<List>Asiatosuchus_germanicus</List>
+		<List>Baurusuchus_pachecoi</List>
+		<List>Bernissartia_fagesii</List>
+		<List>Borealosuchus_formidabilis</List>
+		<List>Chimaerasuchus_paradoxus</List>
+		<List>Crocodylus_niloticus</List>
+		<List>Dakosaurus_andiniensis</List>
+		<List>Diplocynodon_hantoniensis</List>
+		<List>Dyrosaurus</List>
+		<List>Edentosuchus_tienshanensis</List>
+		<List>Eosuchus_lerichei</List>
+		<List>Eothoracosaurus</List>
+		<List>Geosaurus_araucanensis</List>
+		<List>Gobiosuchus_kielanae</List>
+		<List>Goniopholis_kiplingi</List>
+		<List>Goniopholis_simus</List>
+		<List>Hylaeochampsa_vectianae</List>
+		<List>Isisfordia_duncani</List>
+		<List>Leidyosuchus_canadensis</List>
+		<List>Mahajangasuchus_insignis</List>
+		<List>Mariliasuchus_amarali</List>
+		<List>Metriorhynchus_superciliosus</List>
+		<List>Pholidosaurus_purbeckensis</List>
+		<List>Pietraroiasuchus</List>
+		<List>Pristichampsus_vorax</List>
+		<List>Protosuchus_richardsoni</List>
+		<List>Rugosuchus_nonganensis</List>
+		<List>Sarcosuchus_imperator</List>
+		<List>Steneosaurus_bollensis</List>
+		<List>Terminonaris_robusta</List>
+		<List>Theriosuchus_pusillus</List>
+		<List>IWCMS_2012_dot_203_slash_4</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="242">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sweetman_etal_inpressa</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

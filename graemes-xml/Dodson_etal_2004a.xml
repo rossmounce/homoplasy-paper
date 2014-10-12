@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Dodson, P.</List>
+			<List>Forster, C. A.</List>
+			<List>Sampson, S. D.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>Ceratopsidae</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>494-516</Pages>
+		<Booktitle>The Dinosauria (Second Edition)</Booktitle>
+		<Publisher>University of California Press</Publisher>
+		<City>Berkeley</City>
+		<Editor>
+			<List>Weishampel, D. B.</List>
+			<List>Dodson, P.</List>
+			<List>Osmolska, H.</List>
+		</Editor>
+	</Source>
+	<Taxa number="15">
+		<List>Protoceratops</List>
+		<List>Zuniceratops</List>
+		<List>Avaceratops</List>
+		<List>Einiosaurus</List>
+		<List>Achelousaurus</List>
+		<List>Pachyrhinosaurus</List>
+		<List>Centrosaurus</List>
+		<List>Styracosaurus</List>
+		<List>Anchiceratops</List>
+		<List>Arrhinoceratops</List>
+		<List>Triceratops</List>
+		<List>Diceratops</List>
+		<List>Torosaurus</List>
+		<List>Chasmosaurus</List>
+		<List>Pentaceratops</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="73">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Dodson_etal_2004a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

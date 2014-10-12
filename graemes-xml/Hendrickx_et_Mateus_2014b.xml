@@ -1,0 +1,97 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Hendrickx, C.</List>
+			<List>Mateus, O.</List>
+		</Author>
+		<Year>2014</Year>
+		<Title><em>Torvosaurus gurneyi</em> n. sp., the largest terrestrial predator from Europe, and a proposed terminology of the maxilla anatomy in nonavian theropods</Title>
+		<Journal>PLOS ONE</Journal>
+		<Volume>9</Volume>
+		<Pages>e88905</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="62">
+		<List>Eoraptor</List>
+		<List>Herrerasaurus</List>
+		<List>Acrocanthosaurus</List>
+		<List>Aerosteon</List>
+		<List>Afrovenator</List>
+		<List>Allosaurus</List>
+		<List>Angaturama</List>
+		<List>Australovenator</List>
+		<List>Baryonyx</List>
+		<List>Carcharodontosaurus</List>
+		<List>Ceratosaurus</List>
+		<List>Chilantaisaurus</List>
+		<List>Chuandongocoelurus</List>
+		<List>Coelophysis_bauri</List>
+		<List>Coelophysis_rhodesiensis</List>
+		<List>Compsognathus</List>
+		<List>Concavenator</List>
+		<List>Condorraptor</List>
+		<List>Cryolophosaurus</List>
+		<List>Dilophosaurus</List>
+		<List>Dubreuillosaurus</List>
+		<List>Duriavenator</List>
+		<List>Elaphrosaurus</List>
+		<List>Eocarcharia</List>
+		<List>Eustreptospondylus</List>
+		<List>Fukuiraptor</List>
+		<List>Giganotosaurus</List>
+		<List>Irritator</List>
+		<List>Leshansaurus</List>
+		<List>Lourinhanosaurus</List>
+		<List>Magnosaurus</List>
+		<List>Majungasaurus</List>
+		<List>Mapusaurus</List>
+		<List>Marshosaurus</List>
+		<List>Masiakasaurus</List>
+		<List>Megalosaurus</List>
+		<List>Megaraptor</List>
+		<List>Metriacanthosaurus</List>
+		<List>Monolophosaurus</List>
+		<List>Neovenator</List>
+		<List>Ornitholestes</List>
+		<List>Piatnitzkysaurus</List>
+		<List>Piveteausaurus</List>
+		<List>Poekilopleuron</List>
+		<List>Proceratosaurus</List>
+		<List>Saurophaganax</List>
+		<List>Shaochilong</List>
+		<List>Shidaisaurus</List>
+		<List>Siamotyrannus</List>
+		<List>Sinosaurus</List>
+		<List>Sinraptor_dongi</List>
+		<List>Sinraptor_hepingensis</List>
+		<List>Spinosaurus</List>
+		<List>Streptospondylus</List>
+		<List>Suchomimus</List>
+		<List>S_zigongensis</List>
+		<List>Torvosaurus_tanneri</List>
+		<List>Torvosaurus_gurneyi</List>
+		<List>Tyrannotitan</List>
+		<List>Xuanhanosaurus</List>
+		<List>Yangchuanosaurus</List>
+		<List>CV00214</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="353">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Hendrickx_et_Mateus_2014b</Filename>
+	<Parent>Carrano_etal_2012a</Parent>
+	<Sibling/>
+</SourceTree>

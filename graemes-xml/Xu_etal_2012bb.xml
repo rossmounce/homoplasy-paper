@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Xu, X.</List>
+			<List>Zhao, Q.</List>
+			<List>Sullivan, C.</List>
+			<List>Tan, Q.-W.</List>
+			<List>Sander, M.</List>
+			<List>Ma, Q.-Y.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>The taxonomy of the troodontid IVPP V 10597 reconsidered</Title>
+		<Journal>Vertebrata Palasiatica</Journal>
+		<Volume>50</Volume>
+		<Pages>140-150</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="10">
+		<List>Archaeopteryx_lithographica</List>
+		<List>Abchiornis_huxleyi</List>
+		<List>Sinovenator</List>
+		<List>Mei_long</List>
+		<List>Sinornithoides_youngi</List>
+		<List>Sinusonasus</List>
+		<List>Troodon_formosus</List>
+		<List>Saurornithoides_mongoliensis</List>
+		<List>Linhevenator_tani</List>
+		<List>Philovenator</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="20">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Xu_etal_2012bb</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Benton, M. J.</List>
+			<List>Walker, A. D.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>Saltopus, a dinosauriform from the Upper Triassic of Scotland</Title>
+		<Journal>Earth and Environmental Science Transactions of the Royal Society of Edinburgh</Journal>
+		<Volume>101</Volume>
+		<Pages>285-299</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="27">
+		<List>Euparkeria</List>
+		<List>Leptosuchus</List>
+		<List>Aetosaurus</List>
+		<List>Riojasuchus</List>
+		<List>Effigia</List>
+		<List>Postosuchus</List>
+		<List>Hesperosuchus</List>
+		<List>Protosuchus</List>
+		<List>Dimorphodon</List>
+		<List>Eudimorphodon</List>
+		<List>Lagerpeton</List>
+		<List>Dromomeron</List>
+		<List>Marasuchus</List>
+		<List>Saltopus</List>
+		<List>Silesaurus</List>
+		<List>Eucoelophysis</List>
+		<List>Pisanosaurus</List>
+		<List>Lesothosaurus</List>
+		<List>Heterodontosaurus</List>
+		<List>Scutellosaurus</List>
+		<List>Herrerasaurus</List>
+		<List>Chindesaurus</List>
+		<List>Saturnalia</List>
+		<List>Efraasia</List>
+		<List>Plateosaurus</List>
+		<List>Coelophysis</List>
+		<List>Allosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="127">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Benton_et_Walker_2011ab</Filename>
+	<Parent>Irmis_etal_2007a</Parent>
+	<Sibling/>
+</SourceTree>

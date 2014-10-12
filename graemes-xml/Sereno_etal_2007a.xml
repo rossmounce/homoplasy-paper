@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sereno, P. C.</List>
+			<List>Wilson, J. A.</List>
+			<List>Witmer, L. M.</List>
+			<List>Whitlock, J. A.</List>
+			<List>Maga, A.</List>
+			<List>Ide, O.</List>
+			<List>Rowe, T. A.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>Structural extremes in a Cretaceous dinosaur</Title>
+		<Journal>PLoS One</Journal>
+		<Volume>11</Volume>
+		<Pages>1-9</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="16">
+		<List>Omeisaurus</List>
+		<List>Jobaria</List>
+		<List>MACRONARIA</List>
+		<List>Suuwassea</List>
+		<List>Apatosaurus</List>
+		<List>Diplodocus</List>
+		<List>Amargasaurus</List>
+		<List>Brachytrachelopan</List>
+		<List>Dicraeosaurus</List>
+		<List>Histriasaurus</List>
+		<List>Rebbachisaurus</List>
+		<List>Zapalasaurus</List>
+		<List>Limaysaurus</List>
+		<List>Cathartesaura</List>
+		<List>Nigersaurus</List>
+		<List>Spain_Rebbach.</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="102">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sereno_etal_2007a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

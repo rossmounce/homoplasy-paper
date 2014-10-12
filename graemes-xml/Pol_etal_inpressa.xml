@@ -1,0 +1,71 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Pol, D.</List>
+			<List>Rauhut, O. W. M.</List>
+			<List>Lecuona, A.</List>
+			<List>Leardi, J. M.</List>
+			<List>Xu, X.</List>
+			<List>Clark, J. M.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>A new fossil from the Jurassic of Patagonia reveals the early basicranial evolution and the origins of Crocodyliformes</Title>
+		<Journal>Biological Reviews</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="32">
+		<List>Stagonolepis</List>
+		<List>Gracilisuchus</List>
+		<List>Postosuchus</List>
+		<List>Erpetosuchus</List>
+		<List>Litargosuchus</List>
+		<List>Pseudhesperosuchus</List>
+		<List>Hesperosuchus</List>
+		<List>Saltoposuchus</List>
+		<List>Terrestrisuchus</List>
+		<List>Kayentasuchus</List>
+		<List>Dromicosuchus</List>
+		<List>Sphenosuchus</List>
+		<List>Dibothrosuchus</List>
+		<List>Junggarsuchus</List>
+		<List>Almadasuchus</List>
+		<List>Macelognathus</List>
+		<List>Protosuchus</List>
+		<List>Gobiosuchus</List>
+		<List>Orthosuchus</List>
+		<List>Zosuchus</List>
+		<List>Sichuanosuchus</List>
+		<List>Hsisosuchus</List>
+		<List>Simosuchus</List>
+		<List>Notosuchus</List>
+		<List>Baurusuchus</List>
+		<List>Dakosaurus</List>
+		<List>Metriorhynchus</List>
+		<List>Cricosaurus</List>
+		<List>Goniopholis</List>
+		<List>Gavialis</List>
+		<List>Crocodylus</List>
+		<List>Alligator</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="96">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Pol_etal_inpressa</Filename>
+	<Parent>Clark_etal_2004b</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Bennett, S. C.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>A second specimen of the pterosaur <em>Anurognathus ammoni</em></Title>
+		<Journal>Palaontologische Zeitschrift</Journal>
+		<Volume>81</Volume>
+		<Pages>376-398</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="7">
+		<List>Outgroup</List>
+		<List>Anurognathidae</List>
+		<List>Preondactylus</List>
+		<List>Dimorphodontidae</List>
+		<List>Campylognathoididae</List>
+		<List>Rhamphorhynchidae</List>
+		<List>Pterodactyloidea</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="21">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Bennett_2007a</Filename>
+	<Parent>Unwin_2003a</Parent>
+	<Sibling/>
+</SourceTree>

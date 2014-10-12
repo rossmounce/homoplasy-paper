@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Upchurch, P.</List>
+			<List>Martin J.</List>
+		</Author>
+		<Year>2002</Year>
+		<Title>The Rutland Cetiosaurus: the anatomy and relationships of a Middle Jurassic British Sauropod dinosaur</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>45</Volume>
+		<Pages>1049-1074</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="13">
+		<List>Prosauropoda</List>
+		<List>Theropoda</List>
+		<List>Vulcanodon</List>
+		<List>Shunosaurus</List>
+		<List>Barapasaurus</List>
+		<List>Omeisaurus</List>
+		<List>Cetiosaurus</List>
+		<List>Diplodocoidea</List>
+		<List>Haplocanthosaurus</List>
+		<List>Camarasaurus</List>
+		<List>Brachiosauridae</List>
+		<List>Euhelopus</List>
+		<List>Titanosauria</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="109">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Upchurch_et_Martin_2002ab</Filename>
+	<Parent>Wilson_et_Sereno_1998a</Parent>
+	<Sibling/>
+</SourceTree>

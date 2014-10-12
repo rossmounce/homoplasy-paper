@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Zhang, F.-C.</List>
+			<List>Zhou, Z.-H.</List>
+		</Author>
+		<Year>2000</Year>
+		<Title>A primitive enantiornithine bird and the origin of feathers</Title>
+		<Journal>Science</Journal>
+		<Volume>290</Volume>
+		<Pages>1955-1959</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List>Dromaeosauridae</List>
+		<List>Archaeopteryx</List>
+		<List>Confuciusornis</List>
+		<List>Chaoyangia</List>
+		<List>Hesperomithiformes</List>
+		<List>Ichthyornithiformes</List>
+		<List>Modern_birds</List>
+		<List>Protopteryx</List>
+		<List>Cathayornis</List>
+		<List>Concornis</List>
+		<List>Enantiornis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="86">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Zhang_et_Zhou_2000a</Filename>
+	<Parent>Sanz_etal_1995aa</Parent>
+	<Sibling/>
+</SourceTree>

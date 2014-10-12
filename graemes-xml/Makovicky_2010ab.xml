@@ -1,0 +1,60 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Makovicky, P. J.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>A redescription of the Montanoceratops cerorhynchus holotype with a review of the referred material</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>68-82</Pages>
+		<Booktitle>New Perspectives on Horned Dinosaurs</Booktitle>
+		<Publisher>Indiana University Press</Publisher>
+		<City>Bloomington</City>
+		<Editor>
+			<List>Ryan, M. J.</List>
+			<List>Chinnery-Allgeier, B. J.</List>
+			<List>Eberth, D. A.</List>
+		</Editor>
+	</Source>
+	<Taxa number="22">
+		<List>Hypsilophodon</List>
+		<List>Stegoceras</List>
+		<List>Yinlong</List>
+		<List>Liaoceratops</List>
+		<List>Yamaceratops</List>
+		<List>Archaeoceratops</List>
+		<List>Asiaceratops</List>
+		<List>Cerasinops</List>
+		<List>Montanoceratops</List>
+		<List>Prenoceratops</List>
+		<List>Leptoceratops</List>
+		<List>Udanoceratops</List>
+		<List>Graciliceratops</List>
+		<List>Bagaceratops</List>
+		<List>Protoceratops</List>
+		<List>Zuniceratops</List>
+		<List>Centrosaurus</List>
+		<List>Triceratops</List>
+		<List>Psit._mongol.</List>
+		<List>Psit._sinensis</List>
+		<List>Chaoyangsaurus</List>
+		<List>Xuanhuaceratops</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="147">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Makovicky_2010ab</Filename>
+	<Parent>Makovicky_et_Norell_2006aa</Parent>
+	<Sibling>Makovicky_2010aa</Sibling>
+</SourceTree>

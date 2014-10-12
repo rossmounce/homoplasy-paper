@@ -1,0 +1,61 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Parsons, W. L.</List>
+			<List>Parsons, K. M.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>A new ankylosaur (Dinosauria: Ankylosauria) from the Lower Cretaceous Cloverly Formation of central Montana</Title>
+		<Journal>Canadian Journal of Earth Sciences</Journal>
+		<Volume>46</Volume>
+		<Pages>721-738</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="26">
+		<List>Huayangosaurus</List>
+		<List>Scelidosaurus</List>
+		<List>Gargoyleosaurus</List>
+		<List>Hungarosaurus</List>
+		<List>Struthiosaurus</List>
+		<List>Cedarpelta</List>
+		<List>Minmi</List>
+		<List>Gobisaurus</List>
+		<List>Shamosaurus</List>
+		<List>Tsagantegia</List>
+		<List>Tatankacephalus</List>
+		<List>Gastonia</List>
+		<List>Pinacosaurus_grangeri</List>
+		<List>Saichania</List>
+		<List>Tarchia</List>
+		<List>Talarurus</List>
+		<List>Tianzhenosaurus</List>
+		<List>Pinacosaurus_mesphistoce</List>
+		<List>Euoplocephalus</List>
+		<List>Ankylosaurus</List>
+		<List>Silvisaurus</List>
+		<List>Sauropelta</List>
+		<List>Pawpawsaurus</List>
+		<List>Panoplosaurus</List>
+		<List>Edmontonia_rugosidens</List>
+		<List>Edmontonia_longiceps</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="63">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Parsons_et_Parsons_2009a</Filename>
+	<Parent>Osi_2005a</Parent>
+	<Sibling/>
+</SourceTree>

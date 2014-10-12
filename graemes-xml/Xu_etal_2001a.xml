@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Xu, X.</List>
+			<List>Wang, X.-L.</List>
+			<List>You, H.-L.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>A juvenile ankylosaur from China</Title>
+		<Journal>Naturwissenschaften</Journal>
+		<Volume>88</Volume>
+		<Pages>297-300</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Scutellosaurus</List>
+		<List>Emausaurus</List>
+		<List>Scelidosaurus</List>
+		<List>Stegosauria</List>
+		<List>Hylaeosaurus</List>
+		<List>Pawpawsaurus</List>
+		<List>Otherodosaurines</List>
+		<List>Gargoyleosaurus</List>
+		<List>Shamosaurus</List>
+		<List>Minmi</List>
+		<List>Gastonia</List>
+		<List>Pinacosaurus</List>
+		<List>OtherANKY</List>
+		<List>Liaoningosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="95">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Xu_etal_2001a</Filename>
+	<Parent>Sereno_1999ab</Parent>
+	<Sibling/>
+</SourceTree>

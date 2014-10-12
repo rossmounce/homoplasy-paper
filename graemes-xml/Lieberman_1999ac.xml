@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lieberman, B. S.</List>
+		</Author>
+		<Year>1999</Year>
+		<Title>Systematic revision of the Olenelloidea (Trilobita, Cambrian)</Title>
+		<Journal>Bulletin of the Peabody Museum of Natural History</Journal>
+		<Volume>45</Volume>
+		<Pages>1-150</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List>Wanneria_walcottana</List>
+		<List>Elliptocephala_asaphoides</List>
+		<List>Elliptocephala_sequomalus</List>
+		<List>Elliptocephala_mediocris</List>
+		<List>Elliptocephala_walcotti</List>
+		<List>Elliptocephala_bicensis</List>
+		<List>Elliptocephala_laxocules</List>
+		<List>Elliptocephala_paraoculus</List>
+		<List>Elliptocephala_parvifrons</List>
+		<List>Elliptocephala_logani</List>
+		<List>Elliptocephala_mirabilis</List>
+		<List>Elliptocephala_lundgreni</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="20">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lieberman_1999ac</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

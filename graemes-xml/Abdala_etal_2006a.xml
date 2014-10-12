@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Abdala, F.</List>
+			<List>Neveling, J.</List>
+			<List>Welman, J.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>A new trirachodontid cynodont from the lower levels of the Burgersdorp Formation (Lower Triassic) of the Beaufort Group, South Africa and the cladistic relationships of Gondwanan gomphodonts</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>147</Volume>
+		<Pages>383-413</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="18">
+		<List>Cynognathus</List>
+		<List>Diademodon</List>
+		<List>Trirachodon</List>
+		<List>Langbergia</List>
+		<List>Cricodon</List>
+		<List>Andescynodon</List>
+		<List>Massetognathus</List>
+		<List>Exaeretodon</List>
+		<List>Luangwa</List>
+		<List>Scalenodon_angustifrons</List>
+		<List>Scalenodon_hirschsoni</List>
+		<List>Traversodon</List>
+		<List>Gomphodontosuchus</List>
+		<List>Pascualgnathus</List>
+		<List>Scalenodontoides</List>
+		<List>Menadon</List>
+		<List>Dadadon</List>
+		<List>Santacruzodon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="42">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Abdala_etal_2006a</Filename>
+	<Parent>Abdala_et_Riveiro_2003a</Parent>
+	<Sibling/>
+</SourceTree>

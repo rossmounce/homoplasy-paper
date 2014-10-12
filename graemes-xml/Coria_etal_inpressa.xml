@@ -1,0 +1,90 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Coria, R. A.</List>
+			<List>Moly, J. J.</List>
+			<List>Reguero, M.</List>
+			<List>Santillana, S.</List>
+			<List>Marenssi, S.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>A new ornithopod (Dinosauria; Ornithischia) from Antarctica</Title>
+		<Journal>Cretaceous Research</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="52">
+		<List>Euparkeria_capensis</List>
+		<List>Marasuchus_liloensis</List>
+		<List>Herrerasaurus</List>
+		<List>Pisanosaurus_mertii</List>
+		<List>Abrictosaurus_consors</List>
+		<List>BMNH_A100</List>
+		<List>Echinodon_becklessi</List>
+		<List>Fruitadens_haagarorum</List>
+		<List>Tianyulong_confuciusi</List>
+		<List>Manidens_condoriensis</List>
+		<List>Heterodontosaurus_tucki</List>
+		<List>Lycorhinus_angustidens</List>
+		<List>Eocursor_parvus</List>
+		<List>Lesothosaurus_diagnosticus</List>
+		<List>Stormbergia_dangershoeki</List>
+		<List>Scutellosaurus_lawleri</List>
+		<List>Emausaurus_ernstii</List>
+		<List>Scelidosaurus_harrisonii</List>
+		<List>Stegosauria</List>
+		<List>Ankylosauria</List>
+		<List>Agilisaurus_louderbacki</List>
+		<List>Hexinlusaurus_multidens</List>
+		<List>Othnieliosaurus_consors</List>
+		<List>Anabisetia_saldiviai</List>
+		<List>Bugenasaura_infernalis</List>
+		<List>Gasparinisaura_cincosaltensis</List>
+		<List>Hypsilophodon_foxii</List>
+		<List>Jeholosaurus_shangyuanensis</List>
+		<List>Orodromeus_makelai</List>
+		<List>Parksosaurus_warreni</List>
+		<List>Thescelosaurus_neglectus</List>
+		<List>Yandusaurus_hongheensis</List>
+		<List>Zephyrosaurus_schaffi</List>
+		<List>Tenontosaurus_tilleti</List>
+		<List>Tenontosaurus_dossi</List>
+		<List>Talenkauen_santacrucensis</List>
+		<List>Rhabdodontidae</List>
+		<List>Dryosauridae</List>
+		<List>Ankylopollexia</List>
+		<List>Micropachycephalosaurus_hongtuyanensis</List>
+		<List>Stenopelix_valdensis</List>
+		<List>Wannanosaurus_yansiensis</List>
+		<List>Goyocephale_lattimorei</List>
+		<List>Homalocephale_calathocercos</List>
+		<List>Pachycephalosauridae</List>
+		<List>Chaoyangosaurus_youngi</List>
+		<List>Psittacosauridae</List>
+		<List>Liaoceratops_yanzigouensis</List>
+		<List>Archaeoceratops_oshimai</List>
+		<List>Unnamed_taxon_Coronosauria_plus_Leptoceratopsidae</List>
+		<List>Yinlong_downsi</List>
+		<List>Trinisaura_santamartaensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="230">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Coria_etal_inpressa</Filename>
+	<Parent>Pol_etal_2011b</Parent>
+	<Sibling/>
+</SourceTree>

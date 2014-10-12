@@ -1,0 +1,81 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Andrade, M. B.</List>
+			<List>Bertini, R. J.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>Morphological and anatomical observations about Mariliasuchus amarali and Notosuchus terrestris (Mesoeucrocodylia) and their relationships with other South American notosuchians</Title>
+		<Journal>Arquivos do Museu Nacional Rio de Janeiro</Journal>
+		<Volume>66</Volume>
+		<Pages>5-62</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="46">
+		<List>Gracilisuchus</List>
+		<List>Terrestrisuchus</List>
+		<List>Dibothrosuchus</List>
+		<List>Protosuchus</List>
+		<List>Hemiprotosuchus</List>
+		<List>Orthosuchus</List>
+		<List>Kayenta_Form</List>
+		<List>Zaraasuchus</List>
+		<List>Gobiosuchus</List>
+		<List>Sichuanosuchus</List>
+		<List>Shantungosuchus</List>
+		<List>Zosuchus</List>
+		<List>Fruita_Form</List>
+		<List>Hsisosuchus</List>
+		<List>Chimaeresuchus</List>
+		<List>Simosuchus</List>
+		<List>Bretesuchus</List>
+		<List>Baurusuchus</List>
+		<List>Iberosuchus</List>
+		<List>Lomasuchus</List>
+		<List>Peirosaurus</List>
+		<List>Theriosuchus</List>
+		<List>Alligatorium</List>
+		<List>Goniopholis</List>
+		<List>Eutretauranosuchus</List>
+		<List>Pelagosaurus</List>
+		<List>Teleosauridae</List>
+		<List>Metriorhynchidae</List>
+		<List>Sokotosuchus</List>
+		<List>Dyrosauridae</List>
+		<List>Pholidosaurus</List>
+		<List>Bernissartia</List>
+		<List>Hylaeochampsa</List>
+		<List>Borealosuchus</List>
+		<List>Gavialis</List>
+		<List>Crocodylus</List>
+		<List>Alligator</List>
+		<List>Notosuchus</List>
+		<List>Comahuesuchus</List>
+		<List>Mariliasuchus</List>
+		<List>Candidodon</List>
+		<List>Sphagesaurus</List>
+		<List>Uruguaysuchus</List>
+		<List>Malawisuchus</List>
+		<List>Araripesuchus_gomesii</List>
+		<List>Araripesuchus_patagonicus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="205">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Andrade_et_Bertini_2008ab</Filename>
+	<Parent>Zaher_etal_2006a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,84 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Jouve, S.</List>
+			<List>Iarochene, M.</List>
+			<List>Bouya, B.</List>
+			<List>Amaghzaz, M.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>A new species of <em>Dyrosaurus</em> (Crocodylomorpha, Dyrosauridae) from the Early Eocene of Morocco: phylogenetic implications</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>148</Volume>
+		<Pages>603-656</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="47">
+		<List>Dibothrosuchus</List>
+		<List>Protosuchus</List>
+		<List>Orthosuchus</List>
+		<List>Gobiosuchus</List>
+		<List>Notosuchus</List>
+		<List>Sebecus</List>
+		<List>Uruguaysuchus</List>
+		<List>A_gomesii</List>
+		<List>A_patagonicus</List>
+		<List>Lomasuchus</List>
+		<List>Theriosuchus</List>
+		<List>Goniopholis</List>
+		<List>Bernissartia</List>
+		<List>Hyleochampsa</List>
+		<List>Terminonaris</List>
+		<List>Pholidosaurus</List>
+		<List>Sarcosuchus</List>
+		<List>Elosuchus</List>
+		<List>Pelagosaurus</List>
+		<List>Vectisuchus</List>
+		<List>Steneosaurus</List>
+		<List>Libycosuchus</List>
+		<List>Sunosuchus</List>
+		<List>Metriorhynchus</List>
+		<List>Dyrosaurus</List>
+		<List>Gavialis</List>
+		<List>Crocodylus</List>
+		<List>Sphenosuchus</List>
+		<List>Stolokrosuchus</List>
+		<List>Hsisosuchus</List>
+		<List>Shamosuchus</List>
+		<List>Sichuanosuchus</List>
+		<List>Shantungosuchus</List>
+		<List>Simosuchus</List>
+		<List>Anatosuchus</List>
+		<List>Calsoyasuchus</List>
+		<List>Rugosuchus</List>
+		<List>Alligator</List>
+		<List>Kayentasuchus</List>
+		<List>Comahuesuchus</List>
+		<List>Malawisuchus</List>
+		<List>Peirosaurus</List>
+		<List>Bretesuchus</List>
+		<List>Eutretauranosuchus</List>
+		<List>Chenanisuchus</List>
+		<List>Sphagesaurus</List>
+		<List>Chimaerasuchus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="234">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Jouve_etal_2006a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Surkov, M. V.</List>
+			<List>Benton, M. J.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>The basicranium of dicynodonts (Synapsida) and its use in phylogenetic analysis</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>47</Volume>
+		<Pages>619-638</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="19">
+		<List>Eodicynodon</List>
+		<List>Emydops</List>
+		<List>Robertia</List>
+		<List>Pristerodon</List>
+		<List>Diictodon</List>
+		<List>Kingoria</List>
+		<List>Dicynodon</List>
+		<List>Aulacocephalodon</List>
+		<List>Lystrosaurus</List>
+		<List>Kannemeyeria</List>
+		<List>Rechnisaurus</List>
+		<List>Stahleckeria</List>
+		<List>Rhadiodromus</List>
+		<List>Angonisaurus</List>
+		<List>Shansiodon</List>
+		<List>Tetragonias</List>
+		<List>Placerias</List>
+		<List>Sangusaurus</List>
+		<List>Uralokannemeyeria</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="17">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Surkov_et_Benton_2004a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

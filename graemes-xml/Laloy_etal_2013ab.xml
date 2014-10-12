@@ -1,0 +1,121 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Laloy, F.</List>
+			<List>Rage, J.-C.</List>
+			<List>Evans, S. E.</List>
+			<List>Boistel, R.</List>
+			<List>Lenoir, N.</List>
+			<List>Laurin, M.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>A re-interpretation of the Eocene anuran <em>Thaumastosaurus</em> based on microCT examination of a 'mummified' specimen</Title>
+		<Journal>PLOS ONE</Journal>
+		<Volume>8</Volume>
+		<Pages>e74874</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="82">
+		<List>Alytes</List>
+		<List>Arariphrynus</List>
+		<List>Arthroleptis_p</List>
+		<List>Bombina</List>
+		<List>Ceratophrys</List>
+		<List>Chiromantis</List>
+		<List>Conraua</List>
+		<List>Cratia</List>
+		<List>Dermatonotus</List>
+		<List>Discoglossus</List>
+		<List>Eurycephalella</List>
+		<List>Gastrotheca</List>
+		<List>Guibemantis</List>
+		<List>Heleophryne</List>
+		<List>Hylarana</List>
+		<List>Hyperolius</List>
+		<List>Hypsiboas</List>
+		<List>Lepidobatrachus</List>
+		<List>Leptodactylus</List>
+		<List>Leptopelis</List>
+		<List>Litoria</List>
+		<List>Megophrys</List>
+		<List>Melanophryniscus</List>
+		<List>Mixophyes</List>
+		<List>Nannophryne</List>
+		<List>Pelobates</List>
+		<List>Pelodytes</List>
+		<List>Phlyctimantis</List>
+		<List>Phrynobatrachus</List>
+		<List>Phrynomantis</List>
+		<List>Phyllomedusa</List>
+		<List>Platyplectrum</List>
+		<List>Pleurodema</List>
+		<List>Pristimantis</List>
+		<List>Ptychadena</List>
+		<List>Rana</List>
+		<List>Scaphiopus</List>
+		<List>Scinax</List>
+		<List>Sooglossus</List>
+		<List>Telmatobius</List>
+		<List>Telmatobufo</List>
+		<List>Thoropa</List>
+		<List>Beelzebufo</List>
+		<List>Afrana</List>
+		<List>Afrixalus</List>
+		<List>Allophryne</List>
+		<List>Amnirana</List>
+		<List>Callulops</List>
+		<List>Astylosternus</List>
+		<List>Aubria</List>
+		<List>Batrachophrynus</List>
+		<List>Bufo_granulosus</List>
+		<List>Bufo_viridis</List>
+		<List>Cardioglossa</List>
+		<List>Calyptocephalella</List>
+		<List>Ceratobatrachus</List>
+		<List>Chacophrys</List>
+		<List>Cyclorana</List>
+		<List>Dendrosophus</List>
+		<List>Dyscophus</List>
+		<List>Flectonotus</List>
+		<List>Heleioporus</List>
+		<List>Hemiphractus</List>
+		<List>Hoplobatrachus</List>
+		<List>Hymenochirus</List>
+		<List>Isthmohyla</List>
+		<List>Kassina</List>
+		<List>Limnodynastes</List>
+		<List>Odontophrynus</List>
+		<List>Opisthohylax</List>
+		<List>Osteopilus</List>
+		<List>Physalaemus</List>
+		<List>Pseudis</List>
+		<List>Pyxicephalus</List>
+		<List>Rhinoderma</List>
+		<List>Spea</List>
+		<List>Schoudedenella</List>
+		<List>Thaumastosaurus</List>
+		<List>Triprion</List>
+		<List>Xenopus</List>
+		<List>Baurubatrachus</List>
+		<List>Wawelia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="74">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Laloy_etal_2013ab</Filename>
+	<Parent>Baez_etal_2009a</Parent>
+	<Sibling/>
+</SourceTree>

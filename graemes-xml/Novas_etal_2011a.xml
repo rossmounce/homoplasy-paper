@@ -1,0 +1,93 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Novas, F. E.</List>
+			<List>Ezcurra, M. D.</List>
+			<List>Chatterjee, S.</List>
+			<List>Kutty, T. S.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>New dinosaur species from the Upper Triassic Upper Maleri and Lower Dharmaram formations of Central India</Title>
+		<Journal>Earth and Environmental Science Transactions of the Royal Society of Edinburgh</Journal>
+		<Volume>101</Volume>
+		<Pages>333-349</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="56">
+		<List>Euparkeria</List>
+		<List>Crurotarsi</List>
+		<List>Marasuchus</List>
+		<List>Silesaurus</List>
+		<List>Agnosphitys</List>
+		<List>Guaibasaurus</List>
+		<List>Saturnalia</List>
+		<List>Chromogisaurus</List>
+		<List>Panphagia</List>
+		<List>ISI_R277</List>
+		<List>Pantydraco</List>
+		<List>Thecodontosaurus</List>
+		<List>Nambalia_roychowdhurii</List>
+		<List>Efraasia</List>
+		<List>Plateosauravus</List>
+		<List>Ruehleia</List>
+		<List>Jingshanosaurus</List>
+		<List>Anchisaurus</List>
+		<List>Yunnanosaurus</List>
+		<List>Melanorosaurus</List>
+		<List>Blikanasaurus</List>
+		<List>Camelotia</List>
+		<List>Antetonitrus</List>
+		<List>Lessemsaurus</List>
+		<List>Gongxianosaurus</List>
+		<List>Isanosaurus</List>
+		<List>Tazoudasaurus</List>
+		<List>Vulcanodon</List>
+		<List>Shunosaurus</List>
+		<List>Barapasaurus</List>
+		<List>Patagosaurus</List>
+		<List>Cetiosaurus</List>
+		<List>Neosauropoda</List>
+		<List>Mamenchisaurus</List>
+		<List>Omeisaurus</List>
+		<List>Massospondylus</List>
+		<List>Pradhania_gracilis</List>
+		<List>Coloradisaurus</List>
+		<List>Lufengosaurus</List>
+		<List>Glacialisaurus</List>
+		<List>Eucnemosaurus</List>
+		<List>Riojasaurus</List>
+		<List>Jaklapallisaurus_asymmetrica</List>
+		<List>Unaysaurus</List>
+		<List>Plateosaurus_gracilis</List>
+		<List>Plateosaurus_ingens</List>
+		<List>Plateosaurus_engelhardti</List>
+		<List>Chindesaurus</List>
+		<List>Tawa_hallae</List>
+		<List>Eoraptor</List>
+		<List>Neotheropoda</List>
+		<List>Herrerasaurus</List>
+		<List>Staurikosaurus</List>
+		<List>MACN_PV_18649a</List>
+		<List>Ornithischia</List>
+		<List>ISI_R282</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="380">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Novas_etal_2011a</Filename>
+	<Parent>Ezcurra_2010a</Parent>
+	<Sibling/>
+</SourceTree>

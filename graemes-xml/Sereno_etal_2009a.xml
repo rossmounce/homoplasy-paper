@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sereno, P. C.</List>
+			<List>Tan, L.</List>
+			<List>Brusatte, S. L.</List>
+			<List>Kriegstein, H. J.</List>
+			<List>Zhao, X.-J.</List>
+			<List>Cloward, K.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>Tyrannosaurid skeletal design first evolved at small body size</Title>
+		<Journal>Science</Journal>
+		<Volume>326</Volume>
+		<Pages>418-422</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="15">
+		<List>MANIRAPTORA</List>
+		<List>ORNITHOMIMOSAURIA</List>
+		<List>Ornitholestes</List>
+		<List>COMPSOGNATHIDAE</List>
+		<List>Guanlong</List>
+		<List>Dilong</List>
+		<List>Eotyrannus</List>
+		<List>Stokesosaurus</List>
+		<List>Xiongguanlong</List>
+		<List>Raptorex</List>
+		<List>Gorgosaurus</List>
+		<List>Albertosaurus</List>
+		<List>Daspletosaurus</List>
+		<List>Tarbosaurus</List>
+		<List>Tyrannosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="101">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sereno_etal_2009a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

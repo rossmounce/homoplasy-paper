@@ -1,0 +1,97 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Choiniere, J. N.</List>
+			<List>Clark, J. M.</List>
+			<List>Forster, C. A.</List>
+			<List>Xu, X.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>A basal coelurosaur (Dinosauri: Theropoda) from the Late Jurassic (Oxfordian) of the Shishugou Formation in Wucaiwan, People's Republic of China</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>30</Volume>
+		<Pages>1773-1796</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="60">
+		<List>Eoraptor_lunensis</List>
+		<List>Herrerasaurus_ischigualastensis</List>
+		<List>Coelophysis_bauri</List>
+		<List>Syntarsus_rhodesiensis</List>
+		<List>Ceratosaurus_nasicornis</List>
+		<List>Majungasaurus_crenatissimus</List>
+		<List>Masiakasaurus_knopfleri</List>
+		<List>Limusaurus_inextricabilis</List>
+		<List>Allosaurus_fragilis</List>
+		<List>Eustreptospondylus_oxoniensis</List>
+		<List>Monolophosaurus_jiangi</List>
+		<List>Neovenator_salerii</List>
+		<List>Sinraptor_dongi</List>
+		<List>Torvosaurus_tanneri</List>
+		<List>Ornitholestes_hermanni</List>
+		<List>Coelurus_fragilis</List>
+		<List>Dilong_paradoxus</List>
+		<List>Guanlong_wucaii</List>
+		<List>Stokesosaurus_clevelandi</List>
+		<List>Stokesosaurus_langhami</List>
+		<List>Tyrannosaurus_rex</List>
+		<List>Sinosauropteryx_prima</List>
+		<List>Proceratosaurus_bradleyi</List>
+		<List>Aniksosaurus_darwini</List>
+		<List>Bagaraatan_ostromi</List>
+		<List>Zuolong_salleei</List>
+		<List>Tanycolagreus_topwilsoni</List>
+		<List>Xinjiangovenator_parvus</List>
+		<List>Tugulusaurus_faciles</List>
+		<List>Afrovenator_abakensis</List>
+		<List>Acrocanthosaurus_atokensis</List>
+		<List>Carcharodontosaurus_saharicus</List>
+		<List>Giganotosaurus_carolinii</List>
+		<List>Mapusaurus_roseae</List>
+		<List>Baryonyx_walkeri</List>
+		<List>Suchomimus_tenerensis</List>
+		<List>Harpymimus_okladnikovi</List>
+		<List>Pelecanimimus_polyodon</List>
+		<List>Garudimimus_brevipes</List>
+		<List>Ornithomimus_edmontonicus</List>
+		<List>Compsognathus_longipes</List>
+		<List>Juravenator_starki</List>
+		<List>Archaeopteryx_lithographica</List>
+		<List>Confuciusornis_sanctus</List>
+		<List>Apsaravis_ukhaana</List>
+		<List>Shuvuuia_deserti</List>
+		<List>Alvarezsaurus_calvoi</List>
+		<List>Patagonykus_puertai</List>
+		<List>Sinovenator_changii</List>
+		<List>Mei_long</List>
+		<List>Troodon_formosus</List>
+		<List>Microraptor_gui</List>
+		<List>Deinonychus_antirrhopus</List>
+		<List>Velociraptor_mongoliensis</List>
+		<List>Falcarius_utahensis</List>
+		<List>Erlikosaurus_andrewsi</List>
+		<List>Segnosaurus_galbinensis</List>
+		<List>Incisivosaurus_gauthieri</List>
+		<List>Avimimus_portentosus</List>
+		<List>Oviraptor_philoceratops</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="472">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Choiniere_etal_2010a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

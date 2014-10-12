@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Martinelli, A. G.</List>
+			<List>Rougier, G. W.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>On <em>Chaliminia musteloides</em> (Eucynodontia: Tritheledontidae) from the Late Triassic of Argentina, and a phylogeny of Ictidosauria</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>27</Volume>
+		<Pages>442-460</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="22">
+		<List>Procynosuchus</List>
+		<List>Thrinaxodon</List>
+		<List>Cynognathus</List>
+		<List>Diademodon</List>
+		<List>Traversodontidae</List>
+		<List>Lumkuia</List>
+		<List>Chiniquodon</List>
+		<List>Ecteninion</List>
+		<List>Probainognathus</List>
+		<List>Prozostrodon</List>
+		<List>Therioherpeton</List>
+		<List>Riograndia</List>
+		<List>Irajatherium</List>
+		<List>Chaliminia</List>
+		<List>Elliotherium</List>
+		<List>Pachygenelus</List>
+		<List>Diarthrognathus</List>
+		<List>Tritheledon</List>
+		<List>Brasilodon</List>
+		<List>Brasilitherium</List>
+		<List>Sinoconodon</List>
+		<List>Morganucodon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="93">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Martinelli_et_Rougier_2007a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,87 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Young, M. T.</List>
+			<List>Bell, M. A.</List>
+			<List>De Andrade, M. B.</List>
+			<List>Brusatte, S. L.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>Body size estimation and evolution in metriorhynchid crocodylomorphs: implications for species diversification and niche partitioning</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>163</Volume>
+		<Pages>1199-1216</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="50">
+		<List>Erpetosuchus_granti</List>
+		<List>Hesperosuchus_agilis</List>
+		<List>Protosuchus</List>
+		<List>Calsoyasuchus_valliceps</List>
+		<List>Eutretauranosuchus_delfsi</List>
+		<List>Goniopholis_simus</List>
+		<List>Alligator_mississippiensis</List>
+		<List>Crocodylus_niloticus</List>
+		<List>Gavialis_gangeticus</List>
+		<List>Isisfordia_duncani</List>
+		<List>Pholidosaurus</List>
+		<List>Pelagosaurus_typus</List>
+		<List>Steneosaurus_bollensis</List>
+		<List>Teleidosaurus_calvadosii</List>
+		<List>Eoneustes_bathonicus</List>
+		<List>Eoneustes_gaudryi</List>
+		<List>Chile_metriorhynchoid</List>
+		<List>Oregon_metriorhynchoid</List>
+		<List>Cricosaurus_elegans</List>
+		<List>Cricosaurus_macrospondylus</List>
+		<List>Cricosaurus_schroederi</List>
+		<List>Cricosaurus_araucanensis</List>
+		<List>Cricosaurus_gracilis</List>
+		<List>Cricosaurus_saltillense</List>
+		<List>Cricosaurus_suevicus</List>
+		<List>Cricosaurus_sp_Cuba</List>
+		<List>Cricosaurus_vignaudi</List>
+		<List>Rhacheosaurus_gracilis</List>
+		<List>Metriorhynchinae_indet_Cuba</List>
+		<List>Gracilineustes_acutus</List>
+		<List>Gracilineustes_leedsi</List>
+		<List>Metriorhynchus_hastifer</List>
+		<List>Metriorhynchus_superciliosus</List>
+		<List>Metriorhynchus_geoffroyii</List>
+		<List>Metriorhynchus_sp_France</List>
+		<List>Suchodus_brachyrhynchus</List>
+		<List>Suchodus_durobrivensis</List>
+		<List>Geosaurinae_indet_Argentina</List>
+		<List>Purranisaurus_casamiquelai</List>
+		<List>Purranisaurus_potens</List>
+		<List>Purranisaurus_westermanni</List>
+		<List>Neptunidraco_ammoniticus</List>
+		<List>Torvoneustes_carpenteri</List>
+		<List>Geosaurus_grandis</List>
+		<List>Geosaurus_giganteus</List>
+		<List>Geosaurus_lapparenti</List>
+		<List>Dakosaurus_andiniensis</List>
+		<List>Dakosaurus_manselii</List>
+		<List>Dakosaurus_maximus</List>
+		<List>Dakosaurus_sp_Mexico</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="190">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Young_etal_2011ab</Filename>
+	<Parent>Young_et_Andrade_2009a</Parent>
+	<Sibling>Young_etal_2011aa</Sibling>
+</SourceTree>

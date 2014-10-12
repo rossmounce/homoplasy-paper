@@ -1,0 +1,115 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Diogo, R.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>The Origin of Higher Clades: Osteology, Myology, Phylogeny and Evolution of Bony Fishes and the Rise of Tetrapods</Title>
+		<Journal>Science Publishers</Journal>
+		<Volume>Enfield</Volume>
+		<Pages>pp367</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="81">
+		<List>OUTGROUP</List>
+		<List>A_ORDINARIUM</List>
+		<List>TIMON</List>
+		<List>A_GUNNARI</List>
+		<List>T_ROSEAE</List>
+		<List>LEPIOOSIREN</List>
+		<List>NEOCERATODUS</List>
+		<List>LATIMERIA</List>
+		<List>POLYPTERUS</List>
+		<List>ACIPENSER</List>
+		<List>PSEPHURUS</List>
+		<List>LEPISOSTEUS</List>
+		<List>AMIA</List>
+		<List>ELOPS</List>
+		<List>NOTACANTHUS</List>
+		<List>ANGUILLA</List>
+		<List>CONGER</List>
+		<List>EURYPHARYNX</List>
+		<List>MEGALOPS</List>
+		<List>ALBULA</List>
+		<List>HIODON</List>
+		<List>PANTODON</List>
+		<List>XENOMYSTUS</List>
+		<List>MORMYRUS</List>
+		<List>AULOPUS</List>
+		<List>CHLOROPHTHALMUS</List>
+		<List>ASTRONESTHES</List>
+		<List>STOMIAS</List>
+		<List>SALMO</List>
+		<List>COREGONUS</List>
+		<List>THYMALLUS</List>
+		<List>ESOX</List>
+		<List>UMBRA</List>
+		<List>GALAXIAS</List>
+		<List>RETROPINNA</List>
+		<List>STOKELLIA</List>
+		<List>OSMERUS</List>
+		<List>PLECOGLOSSUS</List>
+		<List>ALEPOCEPHALUS</List>
+		<List>XENODERMICHTHYS</List>
+		<List>SEARSIA</List>
+		<List>ARGENTINA</List>
+		<List>BATHYLAGUS</List>
+		<List>DENTICEPS</List>
+		<List>ENGRAULIS</List>
+		<List>THRYSSA</List>
+		<List>ILISHA</List>
+		<List>ETHMALOSA</List>
+		<List>S_APULIENSIS</List>
+		<List>CHANOS</List>
+		<List>GONORYNCHUS</List>
+		<List>PHRACTOLAEMUS</List>
+		<List>GRASSEICHTHYS</List>
+		<List>CROMERIA</List>
+		<List>PARAKNERIA</List>
+		<List>KNERIA</List>
+		<List>C_MAROCCANUS</List>
+		<List>S_DIASII</List>
+		<List>C_MACROPOMA</List>
+		<List>L_CHARACIFORMIS</List>
+		<List>CATOSTOMUS</List>
+		<List>COBITIS</List>
+		<List>OPSARIICHTHYS</List>
+		<List>DANIO</List>
+		<List>BARBUS</List>
+		<List>XENOCHARAX</List>
+		<List>DISTICHODUS</List>
+		<List>CITHARINUS</List>
+		<List>BRYCON</List>
+		<List>BRACHYHYPOPOMUS</List>
+		<List>STERNOPYGUS</List>
+		<List>GYMNOTUS</List>
+		<List>DIPLOMYSTES</List>
+		<List>NEMATOGENYS</List>
+		<List>TRICHOMYCTERUS</List>
+		<List>CALLICHTHYS</List>
+		<List>CETOPSIS</List>
+		<List>SILURUS</List>
+		<List>CHRYSICHTHYS</List>
+		<List>BAGRUS</List>
+		<List>PIMELODUS</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="356">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Diogo_2007a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,116 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Young, M. T.</List>
+			<List>Brusatte, S. L.</List>
+			<List>Andrade, M. B.</List>
+			<List>Desojo, J. B.</List>
+			<List>Beatty, B. L.</List>
+			<List>Steel, L.</List>
+			<List>Fernandez, M. S.</List>
+			<List>Sakamoto, M.</List>
+			<List>Ruiz-Omenaca, J. I.</List>
+			<List>Schoch, R. R.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>The cranial osteology and feeding ecology of the metriorhynchid crocodylomorph genera <em>Dakosaurus</em> and <em>Plesiosuchus</em> from the Late Jurassic of Europe</Title>
+		<Journal>PLoS One</Journal>
+		<Volume>7</Volume>
+		<Pages>e44895</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="73">
+		<List>Postosuchus_kirkpatricki</List>
+		<List>Dromicosuchus_grallator</List>
+		<List>Hesperosuchus_agilis</List>
+		<List>Terrestrisuchus_gracilis</List>
+		<List>Protosuchus</List>
+		<List>Alligatorium</List>
+		<List>Theriosuchus_guimarotae</List>
+		<List>Calsoyasuchus_valliceps</List>
+		<List>Eutretauranosuchus_delfsi</List>
+		<List>Goniopholis_stovalli</List>
+		<List>Goniopholis_simus</List>
+		<List>Alligator_mississippiensis</List>
+		<List>Crocodylus_porosus</List>
+		<List>Crocodylus_niloticus</List>
+		<List>Susisuchus_anatoceps</List>
+		<List>Isisfordia_duncani</List>
+		<List>Adamantinasuchus_navae</List>
+		<List>Araripesuchus_patagonicus</List>
+		<List>Baurusuchus</List>
+		<List>Mariliasuchus_amarali</List>
+		<List>Notosuchus_terrestris</List>
+		<List>Sphagesaurus</List>
+		<List>Hamadasuchus_rebouli</List>
+		<List>Mahajangasuchus_insignis</List>
+		<List>Montealtosuchus_arrudacamposi</List>
+		<List>Sebecus_icaeorhinus</List>
+		<List>Uberabasuchus_terrificus</List>
+		<List>Pholidosaurus</List>
+		<List>Machimosaurus_mosae</List>
+		<List>Machimosaurus_hugii</List>
+		<List>Steneosaurus_obtusidens</List>
+		<List>Steneosaurus_edwardsi</List>
+		<List>Steneosaurus_megistorhynchyus</List>
+		<List>Steneosaurus_bollensis</List>
+		<List>Steneosaurus_leedsi</List>
+		<List>Teleosaurus_cadomensis</List>
+		<List>Platysuchus_multiscrobiculatus</List>
+		<List>Pelagosaurus_typus</List>
+		<List>Teleidosaurus_calvadosii</List>
+		<List>Eoneustes_bathonicus</List>
+		<List>Eoneustes_gaudryi</List>
+		<List>Chile_metriorhynchoid</List>
+		<List>Oregon_metriorhynchoid</List>
+		<List>Cricosaurus_elegans</List>
+		<List>Cricosaurus_suevicus</List>
+		<List>Cricosaurus_macrospondylus</List>
+		<List>Cricosaurus_schroederi</List>
+		<List>Cricosaurus_araucanensis</List>
+		<List>Cricosaurus_gracilis</List>
+		<List>Cricosaurus_saltillense</List>
+		<List>Cricosaurus_sp_Cuba</List>
+		<List>Cricosaurus_vignaudi</List>
+		<List>Rhacheosaurus_gracilis</List>
+		<List>Metriorhynchidae_indet_Cuba</List>
+		<List>Gracilineustes_acutus</List>
+		<List>Gracilineustes_leedsi</List>
+		<List>Metriorhynchus_hastifer</List>
+		<List>Metriorhynchus_superciliosus</List>
+		<List>Metriorhynchus_geoffroyii</List>
+		<List>Metriorhynchus_sp_France</List>
+		<List>Metriorhynchus_brachyrhynchus</List>
+		<List>Geosaurine_indet_Argentina</List>
+		<List>Metriorhynchus_casamiquelai</List>
+		<List>Metriorhynchus_westermanni</List>
+		<List>Neptunidraco_ammoniticus</List>
+		<List>Mr_Leeds_specimen</List>
+		<List>Torvoneustes_carpenteri</List>
+		<List>Geosaurus_giganteus</List>
+		<List>Geosaurus_grandis</List>
+		<List>Geosaurus_lapparenti</List>
+		<List>Plesiosuchus_manselii</List>
+		<List>Dakosaurus_andiniensis</List>
+		<List>Dakosaurus_maximus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="240">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Young_etal_2012a</Filename>
+	<Parent>Young_et_Andrade_2009a</Parent>
+	<Sibling/>
+</SourceTree>

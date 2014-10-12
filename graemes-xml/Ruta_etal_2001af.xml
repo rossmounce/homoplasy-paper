@@ -1,0 +1,80 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ruta, M.</List>
+			<List>Milner, A. R.</List>
+			<List>Coates, M. I.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>The tetrapod <em>Caerorhachis bairdi</em> Holmes and Carroll from the Lower Carboniferous of Scotland</Title>
+		<Journal>Transactions of the Royal Society of Edinburgh: Earth Sciences</Journal>
+		<Volume>92</Volume>
+		<Pages>229-261</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="44">
+		<List>osteolepiformes</List>
+		<List>panderichthyidae</List>
+		<List>acanthostega</List>
+		<List>ichthyostega</List>
+		<List>crassigyrinus</List>
+		<List>loxommatidae</List>
+		<List>colosteidae</List>
+		<List>dendrerpeton</List>
+		<List>eryops</List>
+		<List>ecolsonia</List>
+		<List>tersomius</List>
+		<List>amphibamus</List>
+		<List>apateon</List>
+		<List>doleserpeton</List>
+		<List>proterogyrinus</List>
+		<List>archeria</List>
+		<List>gephyrostegidae</List>
+		<List>kotlassia</List>
+		<List>seymouria</List>
+		<List>ariekanerpeton</List>
+		<List>westlothiana</List>
+		<List>aistopoda</List>
+		<List>adelogyrinidae</List>
+		<List>nectridea</List>
+		<List>pantylus</List>
+		<List>rhynchonkos</List>
+		<List>brachystelechida</List>
+		<List>lysorophia</List>
+		<List>triadobatrachus</List>
+		<List>discoglossidae</List>
+		<List>pipidae</List>
+		<List>karaurus</List>
+		<List>hynobiidae</List>
+		<List>sirenidae</List>
+		<List>proteidae</List>
+		<List>eocaecilia</List>
+		<List>rhinatrematidae</List>
+		<List>ichthyophiidae</List>
+		<List>limnoscelis</List>
+		<List>diadectes</List>
+		<List>synapsida</List>
+		<List>captorhinidae</List>
+		<List>procolophonidae</List>
+		<List>Caerorhachis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="155">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ruta_etal_2001af</Filename>
+	<Parent>Laurin_1998a</Parent>
+	<Sibling/>
+</SourceTree>

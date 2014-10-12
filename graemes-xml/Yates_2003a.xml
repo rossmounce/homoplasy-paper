@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Yates, A. M.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>The species taxonomy of the sauropodomorph dinosaurs from the Lowenstein Formation (Norian, Late Triassic) of Germany</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>46</Volume>
+		<Pages>317-338</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="18">
+		<List>Neotheropoda</List>
+		<List>Saturnalia</List>
+		<List>Thecodontosaurus</List>
+		<List>GPIT_18318a</List>
+		<List>GPIT_18392</List>
+		<List>GPIT_Aixheim</List>
+		<List>SMNS_5715</List>
+		<List>SMNS_11838</List>
+		<List>SMNS_12188_dash_92</List>
+		<List>SMNS_12216</List>
+		<List>SMNS_12354</List>
+		<List>SMNS_12667</List>
+		<List>SMNS_12668</List>
+		<List>SMNS_12684</List>
+		<List>SMNS_14881</List>
+		<List>SMNS_17928</List>
+		<List>GPIT_1</List>
+		<List>SMNS_13200</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="31">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Yates_2003a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

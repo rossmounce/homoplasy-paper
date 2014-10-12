@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Martinez, R. N.</List>
+			<List>Alcober, O. A.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>A basal sauropodomorph (Dinosauria: Saurischia) from the Ischigualasto Formation (Triassic, Carnian) and the early evolution of Sauropodomorpha</Title>
+		<Journal>PLoS One</Journal>
+		<Volume>4</Volume>
+		<Pages>1-12</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List>Outgroup</List>
+		<List>Silesaurus</List>
+		<List>Pisanosaurus</List>
+		<List>Ornithischians</List>
+		<List>Herrerasaurus</List>
+		<List>Staurikosaurus</List>
+		<List>Eoraptor</List>
+		<List>Guaibasaurus</List>
+		<List>Theropods</List>
+		<List>Panphagia</List>
+		<List>Saturnalia</List>
+		<List>Sauropodomorpha</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="98">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Martinez_et_Alcober_2009a</Filename>
+	<Parent>Langer_et_Benton_2006a</Parent>
+	<Sibling/>
+</SourceTree>

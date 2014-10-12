@@ -1,0 +1,103 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Carter, J. G.</List>
+			<List>Campbell, D. C.</List>
+			<List>Campbell, M. R.</List>
+		</Author>
+		<Year>2000</Year>
+		<Title>Cladistic perspectives on early bivalve evolution</Title>
+		<Journal>Geological Society Special Publications</Journal>
+		<Volume>177</Volume>
+		<Pages>47-79</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="67">
+		<List>Anabarella_plana</List>
+		<List>Watsonella_crossbyi</List>
+		<List>Pseudomyona_queenslandica</List>
+		<List>Ribeiria_junior</List>
+		<List>Tuarangia_gravgaer</List>
+		<List>Pojetaia_runnegari</List>
+		<List>Fordilla_troyensis</List>
+		<List>Tironucula_jugata</List>
+		<List>Praenucula_faba</List>
+		<List>Nuculoidea_pinguis</List>
+		<List>Cardiolaria_beirensis</List>
+		<List>Praeleda_subtilis</List>
+		<List>Eritropis_peregrinata</List>
+		<List>Ekstadia_tricarinata</List>
+		<List>Nuculites_oblongatus</List>
+		<List>Palaeoneilo_fecunda</List>
+		<List>Ctenodonta_tennesseensis</List>
+		<List>Tancrediopsis_gotlandica</List>
+		<List>Acharax_trapezoides</List>
+		<List>Redonia_bohemica</List>
+		<List>Thoralia_languedociana</List>
+		<List>Lyrodesma_majus_adult</List>
+		<List>Lyrodesma_majus_juvenile</List>
+		<List>Lyrodesma_sp_PJ_96</List>
+		<List>Silurozodus_gotlandicus</List>
+		<List>Cycloconcha_mediocardinalis</List>
+		<List>Fortowensia_grandis</List>
+		<List>Actinodonta_cuneata</List>
+		<List>Nyassa_dorsata</List>
+		<List>Tanaodon_louderbacki</List>
+		<List>Noradonta_shergoldi</List>
+		<List>Genus_A_Johnston_1988</List>
+		<List>Genus_B_Johnston_1988</List>
+		<List>Montanaria_aff_honguedoensis</List>
+		<List>Copidens_browni</List>
+		<List>Ananterodonta_oret</List>
+		<List>Babinka_prima</List>
+		<List>Ilionia_prisca</List>
+		<List>Genus_C_Johnston_1988</List>
+		<List>Eodon_tenuistriata</List>
+		<List>Modiomorpha_concentrica</List>
+		<List>Evyana_baltica</List>
+		<List>Colpomya_hugini</List>
+		<List>Modiolopsis_modiolaris</List>
+		<List>Whiteavesia_cincinnatiensis</List>
+		<List>Modiolus_meeki</List>
+		<List>Matheria_tener</List>
+		<List>Metapadia_matapediensis</List>
+		<List>Modiolodon_oviformis</List>
+		<List>Cyrtodonta_saffordi</List>
+		<List>Ortonella_hainesi</List>
+		<List>Falcatodonta_costata</List>
+		<List>Ambonychia_radiata</List>
+		<List>Septimyalina_perattenuata</List>
+		<List>Myodakryotus_deigryn</List>
+		<List>Palaeolima_retifera</List>
+		<List>Leiopecten_praerectangularis</List>
+		<List>Pterinea_laevis</List>
+		<List>Tolmaia_erugisulca</List>
+		<List>Rhombopteriid_nov_Johnston_93</List>
+		<List>Umburra_cinefacta_adult</List>
+		<List>Freja_fecunda</List>
+		<List>Alytodonta_gibbosa</List>
+		<List>Trecanolia_acincta</List>
+		<List>Catamarcaia_chaschuilensis</List>
+		<List>Cosmetodon_obsoletus</List>
+		<List>Glyptarca_serrata</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="117">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Carter_etal_2000a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

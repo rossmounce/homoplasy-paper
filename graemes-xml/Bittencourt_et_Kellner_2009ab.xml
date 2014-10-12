@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Bittencourt, J. S.</List>
+			<List>Kellner, A. W. A.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>The anatomy and phylogenetic position of the Triassic dinosaur Staurikosurus pricei Colbert, 1970</Title>
+		<Journal>Zootaxa</Journal>
+		<Volume>2079</Volume>
+		<Pages>1-56</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List>Outgroup</List>
+		<List>Silesaurus</List>
+		<List>Pisanosaurus</List>
+		<List>Ornithischians</List>
+		<List>Herrerasaurus</List>
+		<List>Staurikosaurus</List>
+		<List>Eoraptor</List>
+		<List>Guaibasaurus</List>
+		<List>Theropods</List>
+		<List>Saturnalia</List>
+		<List>Sauropodomorpha</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="98">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Bittencourt_et_Kellner_2009ab</Filename>
+	<Parent>Langer_et_Benton_2006a</Parent>
+	<Sibling/>
+</SourceTree>

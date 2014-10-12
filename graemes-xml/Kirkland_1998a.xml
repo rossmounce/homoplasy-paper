@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Kirkland, J. I.</List>
+		</Author>
+		<Year>1998</Year>
+		<Title>A new hadrosaurid from the Upper Cedar Mountain Formation (Albian-Cenomanian: Cretaceous) of Eastern Utah - the oldest known hadrosaurid (lambeosaurine?)</Title>
+		<Journal>Bulletin of the New Mexico Museum of Natural History &amp; Science</Journal>
+		<Volume>14</Volume>
+		<Pages>283-296</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="19">
+		<List>OUTGROUP</List>
+		<List>Iguanodon</List>
+		<List>Ouranosaurus</List>
+		<List>Probactrosaurus</List>
+		<List>Telmatosaurus</List>
+		<List>Gilmoreosaurus</List>
+		<List>Gryposaurus</List>
+		<List>Maiasaura</List>
+		<List>Brachylophosaurus</List>
+		<List>Edmontosaurus</List>
+		<List>Anatotitan</List>
+		<List>Prosaurolophus</List>
+		<List>Saurolophus</List>
+		<List>Bactrosaurus</List>
+		<List>Eolambia</List>
+		<List>Parasaurolophus</List>
+		<List>Lambeosaurus</List>
+		<List>Corythosaurus</List>
+		<List>Hypacrosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="44">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Kirkland_1998a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

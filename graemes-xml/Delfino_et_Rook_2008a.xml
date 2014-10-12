@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Delfino, M.</List>
+			<List>Rook, L.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>African crocodylians in the late Neogene of Europe: a revision of <em>Crocodylus bambolii</em> Ristori, 1890</Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>82</Volume>
+		<Pages>336-343</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="22">
+		<List>Bernissartia_fagesii</List>
+		<List>Hylaeochampsa_vectiana</List>
+		<List>Gavialis_gangeticus</List>
+		<List>Alligator_mississippiensis</List>
+		<List>Caiman_crocodilus</List>
+		<List>Paleosuchus_trigonatus</List>
+		<List>Diplocynodon_ratelii</List>
+		<List>Crocodylus_acutus</List>
+		<List>Crocodylus_cataphractus</List>
+		<List>Crocodylus_intermedius</List>
+		<List>Crocodylus_johnstoni</List>
+		<List>Crocodylus_mindorensis</List>
+		<List>Crocodylus_moreletii</List>
+		<List>Crocodylus_niloticus</List>
+		<List>Crocodylus_novaeguineae</List>
+		<List>Crocodylus_palustris</List>
+		<List>Crocodylus_porosus</List>
+		<List>Crocodylus_rhombifer</List>
+		<List>Crocodylus_siamensis</List>
+		<List>Osteolaemus_tetraspis</List>
+		<List>Tomistoma_schlegelii</List>
+		<List>Crocodylus_bambolii</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="164">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Delfino_et_Rook_2008a</Filename>
+	<Parent>Brochu_1999a</Parent>
+	<Sibling/>
+</SourceTree>

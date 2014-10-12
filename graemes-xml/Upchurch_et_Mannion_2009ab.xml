@@ -1,0 +1,84 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Upchurch, P.</List>
+			<List>Mannion, P. D.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>The first diplodocid from Asia and its implications for the evolutionary history of sauropod dinosaurs</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>52</Volume>
+		<Pages>1195-1207</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="49">
+		<List>Marasuchus</List>
+		<List>Pseudolagosuchus</List>
+		<List>Ornithischia</List>
+		<List>Herrerasaurus</List>
+		<List>Neotheropoda</List>
+		<List>Prosauropoda</List>
+		<List>Vulcanodon</List>
+		<List>Kotasaurus</List>
+		<List>Shunosaurus</List>
+		<List>Atlasaurus</List>
+		<List>Barapasaurus</List>
+		<List>Bellusaurus</List>
+		<List>Camarasaurus</List>
+		<List>Cetiosaurus</List>
+		<List>Euhelopus</List>
+		<List>Haplocanthosaurus</List>
+		<List>Jobaria</List>
+		<List>Lourinhasaurus</List>
+		<List>Mamenchisaurus</List>
+		<List>Nemegtosaurus</List>
+		<List>Nigersaurus</List>
+		<List>Patagosaurus</List>
+		<List>Quaesitosaurus</List>
+		<List>Rayososaurus</List>
+		<List>Aragosaurus</List>
+		<List>Andesaurus</List>
+		<List>Austrosaurus</List>
+		<List>Lapparentosaurus</List>
+		<List>Phuwiangosaurus</List>
+		<List>Pleurocoelus_dash_tex</List>
+		<List>Malawisaurus</List>
+		<List>Gondwanatitan</List>
+		<List>Titanosaurus</List>
+		<List>Lirainosaurus</List>
+		<List>Alamosaurus</List>
+		<List>Argentinosaurus</List>
+		<List>Opisthocoelicaudia</List>
+		<List>Pellegrinisaurus</List>
+		<List>Saltasaurus</List>
+		<List>Brachiosaurus</List>
+		<List>Cedarosaurus</List>
+		<List>Amargasaurus</List>
+		<List>Dicraeosaurus</List>
+		<List>Apatosaurus</List>
+		<List>PMU_R263</List>
+		<List>Barosaurus</List>
+		<List>Diplodocus</List>
+		<List>Omeisaurus</List>
+		<List>Tehuelchesaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="309">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Upchurch_et_Mannion_2009ab</Filename>
+	<Parent>Upchurch_etal_2004b</Parent>
+	<Sibling/>
+</SourceTree>

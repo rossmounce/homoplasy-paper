@@ -1,0 +1,108 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Nesbitt, S. J.</List>
+			<List>Clarke, J. A.</List>
+			<List>Turner, A. H.</List>
+			<List>Norell, M. A.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>A small alvarezsaurid from the eastern Gobi Desert offers insight into evolutionary patterns in the Alvarezsauroidea</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>31</Volume>
+		<Pages>144-153</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="71">
+		<List>Allosaurus_frag</List>
+		<List>Sinraptor_dongi</List>
+		<List>Ingenia_yanshan</List>
+		<List>Citipati_osmols</List>
+		<List>Rinchenia_mongo</List>
+		<List>Oviraptor_philo</List>
+		<List>Conchoraptor_gr</List>
+		<List>Incisivosaurus</List>
+		<List>Microvenator_ce</List>
+		<List>Chirostenotes_p</List>
+		<List>Dromaeosaurus_a</List>
+		<List>Deinonychus_ant</List>
+		<List>Velociraptor_mo</List>
+		<List>Utahraptor_ostr</List>
+		<List>Adasaurus_mongo</List>
+		<List>Achillobator_gi</List>
+		<List>Tsaagan_mangas</List>
+		<List>Saurornitholest</List>
+		<List>Sinornithosauru</List>
+		<List>Microraptor_zha</List>
+		<List>Microraptor_gui</List>
+		<List>Rahonavis_ostro</List>
+		<List>Mononykus_olecr</List>
+		<List>Shuuvia_deserti</List>
+		<List>Albinykus</List>
+		<List>Kol</List>
+		<List>Patagonykus_pue</List>
+		<List>Alvarezsaurus_c</List>
+		<List>Ornitholestes_h</List>
+		<List>Coelurus_fragil</List>
+		<List>Archaeopteryx_l</List>
+		<List>Avimimus_porten</List>
+		<List>Caudipteryx_zou</List>
+		<List>Confuciusornis</List>
+		<List>Struthiomimus_a</List>
+		<List>Gallimimus_bull</List>
+		<List>Garudimimus_bre</List>
+		<List>Pelecanimimus_p</List>
+		<List>Harpymimus_okla</List>
+		<List>Troodon_formosu</List>
+		<List>Saurornithoides_mongoliensis</List>
+		<List>Saurornithoides_junior</List>
+		<List>Byronosaurus_ja</List>
+		<List>Sinornithoides</List>
+		<List>Sinovenator_cha</List>
+		<List>Mei_long</List>
+		<List>EK_troodontid</List>
+		<List>Segnosaurus_gal</List>
+		<List>Erlikosaurus_an</List>
+		<List>Alxasaurus_eles</List>
+		<List>Tyrannosaurus_r</List>
+		<List>Albertosaurus_l</List>
+		<List>Daspletosaurus</List>
+		<List>Dilong_paradoxu</List>
+		<List>Shenzhousaurus</List>
+		<List>Ornithomimus_ed</List>
+		<List>Archaeornithomi</List>
+		<List>Anserimimus_pla</List>
+		<List>Huaxiagnathus_o</List>
+		<List>Sinosauropteryx</List>
+		<List>Compsognathus_l</List>
+		<List>Buitreraptor_go</List>
+		<List>Neuquenraptor</List>
+		<List>Shanag_ashile</List>
+		<List>Graciliraptor_l</List>
+		<List>Jeholornis_prim</List>
+		<List>Maha_kala</List>
+		<List>Apsaravis_ukhaa</List>
+		<List>Yixianornis</List>
+		<List>Sapeornis</List>
+		<List>Jinfengopteryx</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="256">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Nesbitt_etal_2011a</Filename>
+	<Parent>Turner_etal_2007b</Parent>
+	<Sibling/>
+</SourceTree>

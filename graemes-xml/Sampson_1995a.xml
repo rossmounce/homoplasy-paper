@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sampson, S. D.</List>
+		</Author>
+		<Year>1995</Year>
+		<Title>Two new horned dinosaurs from the Upper Cretaceous Two Medicine Formation of Montana; with a phylogenetic analysis of the Centrosaurinae (Ornithischia: Ceratopsidae)</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>15</Volume>
+		<Pages>743-760</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="9">
+		<List>Ancestor</List>
+		<List>Protoceratops</List>
+		<List>Chasmosaurinae</List>
+		<List>Centrosaurus</List>
+		<List>Styracosaurus</List>
+		<List>Einiosaurus</List>
+		<List>Achelousaurus</List>
+		<List>P._species</List>
+		<List>P._canadensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="17">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sampson_1995a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

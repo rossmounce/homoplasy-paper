@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Curry Rogers, K.</List>
+			<List>Forster, C. A.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>The last of the dinosaur titans: a new sauropod from Madagascar</Title>
+		<Journal>Nature</Journal>
+		<Volume>412</Volume>
+		<Pages>530-534</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="17">
+		<List>Omeisaurus</List>
+		<List>Camarasaurus</List>
+		<List>Brachiosaurus</List>
+		<List>Euhelopus</List>
+		<List>Alamosaurus</List>
+		<List>Titanosaurus</List>
+		<List>Opisthocoelicaudia</List>
+		<List>Neuquensaurus</List>
+		<List>Saltasaurus</List>
+		<List>Antarctosaurus</List>
+		<List>Malawisaurus</List>
+		<List>Quaesitosaurus</List>
+		<List>Nemegtosaurus</List>
+		<List>Rapetosaurus</List>
+		<List>Dicraeosaurus</List>
+		<List>Apatosaurus</List>
+		<List>Diplodocus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="228">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Curry_Rogers_et_Forster_2001a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

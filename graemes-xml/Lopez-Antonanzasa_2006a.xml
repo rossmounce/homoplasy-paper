@@ -1,0 +1,61 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lopez-Antonanzas, R.</List>
+			<List>Sen, S.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>New Saudi Arabian Miocene jumping mouse (Zapodidae): systematics and phylogeny</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>26</Volume>
+		<Pages>170-181</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="26">
+		<List>Allosminthus_ernos</List>
+		<List>Parasminthus_parvulus</List>
+		<List>Parasminthus_tangingoli</List>
+		<List>Parasminthus_asiaecentralis</List>
+		<List>Parasminthus_quartus</List>
+		<List>Parasminthus_cubitalus</List>
+		<List>Parasminthus_debruijni</List>
+		<List>Parasminthus_lajeensis</List>
+		<List>Parasminthus_huangshuiensis</List>
+		<List>Parasminthus_xiningensis</List>
+		<List>Heterosminthus_orientalis</List>
+		<List>Heterosminthus_mongoliensis</List>
+		<List>Heterosminthus_erbajevae</List>
+		<List>Heterosminthus_firmus</List>
+		<List>Heterosminthus_honestus</List>
+		<List>Heterosminthus_nanus</List>
+		<List>Heterosminthus_jucundus</List>
+		<List>Heterosminthus_mugodzharicus</List>
+		<List>Heterosminthus_lanzhouensis</List>
+		<List>Heterosminthus_intermedius</List>
+		<List>Arabosminthus_quadratus</List>
+		<List>Heterosminthus_gansus</List>
+		<List>Arabosminthus_isabellae_sp_nov</List>
+		<List>Gobiosminthus_qiui</List>
+		<List>Shamosminthus_sodovis</List>
+		<List>Shamosminthus_tongi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="28">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lopez-Antonanzasa_2006a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

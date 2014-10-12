@@ -1,0 +1,66 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Wang, R.-F.</List>
+			<List>Xu, S.-C.</List>
+			<List>Wu, X.-C.</List>
+			<List>Li, C.</List>
+			<List>Wang, S.-Z.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>A new specimen of <em>Shansisuchus shansisuchus</em> Young, 1964 (Diapsida: Archosauriformes) from the Triassic of Shanxi, China</Title>
+		<Journal>Act Geologica Sinica</Journal>
+		<Volume>87</Volume>
+		<Pages>1185-1197</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="28">
+		<List>Mesosuchus</List>
+		<List>Chanaresuchus</List>
+		<List>Dimorphodon</List>
+		<List>Doswellia</List>
+		<List>Eoraptor</List>
+		<List>Erythrosuchus</List>
+		<List>Euparkeria</List>
+		<List>Fugusuchus</List>
+		<List>Gracilisuchus</List>
+		<List>Herrerasaurus</List>
+		<List>Koilamasuchus</List>
+		<List>Lagerpeton</List>
+		<List>Marasuchus</List>
+		<List>Osmolskina</List>
+		<List>Parasuchus</List>
+		<List>Prolacerta</List>
+		<List>Proterosuchus</List>
+		<List>Qianosuchus</List>
+		<List>Sarmatosuchus</List>
+		<List>Saurosuchus</List>
+		<List>Scleromochlus</List>
+		<List>Shansisuchus</List>
+		<List>Silesaurus</List>
+		<List>Stagonolepis</List>
+		<List>Terrestrisuchus</List>
+		<List>Turfanosuchus</List>
+		<List>Vancleavea</List>
+		<List>Vjushkovia_triplicostata</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="169">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Wang_etal_2013d</Filename>
+	<Parent>Ezcurra_etal_2010b</Parent>
+	<Sibling/>
+</SourceTree>

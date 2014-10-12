@@ -1,0 +1,73 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Csiki, Z.</List>
+			<List>Codrea, V.</List>
+			<List>Jipa-Murzea, C.</List>
+			<List>Godefroit, P.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>A partial titanosaur (Sauropoda, Dinosauria) skeleton from the Maastrichtian of Na'lat-Vad, Hateg Basin, Romania</Title>
+		<Journal>Neues Jahrbuch fur Geologie und Palaontologie - Abhandlungen</Journal>
+		<Volume>258</Volume>
+		<Pages>297-324</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="36">
+		<List>Camarasaurus</List>
+		<List>Brachiosaurus</List>
+		<List>Aegyptosaurus</List>
+		<List>Aeolosaurus</List>
+		<List>Alamosaurus</List>
+		<List>Ampelosaurus</List>
+		<List>Argentinosaurus</List>
+		<List>Argyrosaurus</List>
+		<List>Augustinia</List>
+		<List>Epacthosaurus</List>
+		<List>Euhelopus</List>
+		<List>Brazil_Series_B</List>
+		<List>Jainosaurus</List>
+		<List>Janenschia</List>
+		<List>Magyarosaurus</List>
+		<List>Neuquensaurus</List>
+		<List>Opisthocoelicaudia</List>
+		<List>Paralititan</List>
+		<List>Phuwiangosaurus</List>
+		<List>Quaesitosaurus</List>
+		<List>Rocasaurus</List>
+		<List>Saltasaurus</List>
+		<List>Titanosaurus</List>
+		<List>Santa_Rosa_indet.</List>
+		<List>Jabalpur_indet.</List>
+		<List>Malagasy_Taxon_B</List>
+		<List>Paludititan_nalatzensis</List>
+		<List>Andesaurus</List>
+		<List>Antarctosaurus</List>
+		<List>Lirainosaurus</List>
+		<List>Malawisaurus</List>
+		<List>Nemegtosaurus</List>
+		<List>Rapetosaurus</List>
+		<List>Dicraeosaurus</List>
+		<List>Apatosaurus</List>
+		<List>Diplodocus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="364">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Csiki_etal_2010bc</Filename>
+	<Parent>Curry_Rogers_2005a</Parent>
+	<Sibling/>
+</SourceTree>

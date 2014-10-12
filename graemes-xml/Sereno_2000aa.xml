@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sereno, P. C.</List>
+		</Author>
+		<Year>2000</Year>
+		<Title>The fossil record, systematics and evolution of pachycephalosaurs and ceratopsians from Asia</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>480-515</Pages>
+		<Booktitle>The Age of Dinosaurs in Russia and Mongolia</Booktitle>
+		<Publisher>Cambridge University Press</Publisher>
+		<City>Cambridge</City>
+		<Editor>
+			<List>Benton, M. J.</List>
+			<List>Shishkin, M. A.</List>
+		</Editor>
+	</Source>
+	<Taxa number="14">
+		<List>ORNITHOPODA</List>
+		<List>CERATOPSIA</List>
+		<List>Stenopelix</List>
+		<List>Wannanosaurus</List>
+		<List>Goyocephale</List>
+		<List>Homalocephale</List>
+		<List>Ornatotholus</List>
+		<List>Yaverlandia</List>
+		<List>Stegoceras</List>
+		<List>NA_Dwarf_sp</List>
+		<List>Tylocephale</List>
+		<List>Prenocephale</List>
+		<List>Stygimoloch</List>
+		<List>Pachycephalosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="41">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sereno_2000aa</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

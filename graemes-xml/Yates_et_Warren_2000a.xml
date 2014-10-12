@@ -1,0 +1,73 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Yates, A. M.</List>
+			<List>Warren, A. A.</List>
+		</Author>
+		<Year>2000</Year>
+		<Title>The phylogeny of the 'higher' temnospondyls (Vertebrata: Choanata) and its implications for the monophyly and origins of the Stereospondyli</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>128</Volume>
+		<Pages>77-121</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="38">
+		<List>Ancestor</List>
+		<List>Isodectes</List>
+		<List>Acroplous</List>
+		<List>Dvinosaurus</List>
+		<List>Tupilakosaurus</List>
+		<List>Trimerorachis</List>
+		<List>Neldasaurus</List>
+		<List>Tersomius</List>
+		<List>Trematopidae</List>
+		<List>Dissorophus</List>
+		<List>Eryops</List>
+		<List>Zatrachydidae</List>
+		<List>Sclerocephalus</List>
+		<List>Cheliderpeton</List>
+		<List>Archegosaurus</List>
+		<List>Platyoposaurus</List>
+		<List>Konzhukovia</List>
+		<List>Peltobatrachus</List>
+		<List>Rhinesuchidae</List>
+		<List>Lydekkerina</List>
+		<List>Luzocephalus</List>
+		<List>Lapillopsis</List>
+		<List>Capitosauridae</List>
+		<List>Mastodonsaurus</List>
+		<List>Benthosuchus</List>
+		<List>Thoosuchus</List>
+		<List>Trematosauridae</List>
+		<List>Almasaurus</List>
+		<List>Buettneria</List>
+		<List>Laidleria</List>
+		<List>Plagiosauridae</List>
+		<List>Rhytidosteidae</List>
+		<List>Xenobrachyops</List>
+		<List>Batrachosuchus</List>
+		<List>Siderops</List>
+		<List>Keratobrachyops</List>
+		<List>Pelorocephalus</List>
+		<List>Thabanchuia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="121">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Yates_et_Warren_2000a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

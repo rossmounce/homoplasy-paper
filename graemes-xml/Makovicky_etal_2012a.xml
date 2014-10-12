@@ -1,0 +1,116 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Makovicky, P. J.</List>
+			<List>Apesteguia, S.</List>
+			<List>Gianechini, F. A.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>A new coelurosaurian theropod from the La Buitrera fossil locality of Río Negro, Argentina</Title>
+		<Journal>Fieldiana Life and Earth Sciences</Journal>
+		<Volume>5</Volume>
+		<Pages>90-98</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="80">
+		<List>Dilophosaurus</List>
+		<List>Sinraptor_dongi</List>
+		<List>Ingenia_yanshani</List>
+		<List>Citipati_osmolskae</List>
+		<List>Rinchenia_mongoliense</List>
+		<List>Oviraptor_philoceratops</List>
+		<List>Conchoraptor_gracilis</List>
+		<List>Incisivosaurus_gauthieri</List>
+		<List>Microvenator_celer</List>
+		<List>Chirostenotes_pergracilis</List>
+		<List>Dromaeosaurus_albertensis</List>
+		<List>Deinonychus_antirrhopus</List>
+		<List>Velociraptor_mongoliensis</List>
+		<List>Utahraptor_ostrommaysorum</List>
+		<List>Adasaurus_mongoliensis</List>
+		<List>Achillobator_giganticus</List>
+		<List>Tsaagan_mangas</List>
+		<List>Saurornitholestes_langsto</List>
+		<List>Sinornithosaurus_millenii</List>
+		<List>Microraptor_zhaoianus</List>
+		<List>Rahonavis_ostromi</List>
+		<List>Mononykus_olecranus</List>
+		<List>Shuuvia_deserti</List>
+		<List>Alvarezsaurus_calvoi</List>
+		<List>Ornitholestes_hermanni</List>
+		<List>Archaeopteryx_lithographi</List>
+		<List>Avimimus_portentosus</List>
+		<List>Caudipteryx_zoui</List>
+		<List>Confuciusornis_sanctus</List>
+		<List>Struthiomimus_altus</List>
+		<List>Gallimimus_bullatus</List>
+		<List>Garudimimus_brevipes</List>
+		<List>Troodon_formosus</List>
+		<List>Saurornithoides_mongolien</List>
+		<List>Saurornithoides_junior</List>
+		<List>Byronosaurus_jaffei</List>
+		<List>Sinornithoides_youngi</List>
+		<List>Sinovenator_changii</List>
+		<List>Mei_long</List>
+		<List>IGM_100_44</List>
+		<List>Segnosaurus_galbinensis</List>
+		<List>Erlikosaurus_andrewsi</List>
+		<List>Alxasaurus_elesitaiensis</List>
+		<List>Harpymimus_okladnikovi</List>
+		<List>Pelecanimimus_polydon</List>
+		<List>Beishanlong_grandis</List>
+		<List>Shenzhousaurus_orientalis</List>
+		<List>Ornithomimus_edmonticus</List>
+		<List>Archaeornithomimus_asiati</List>
+		<List>Anserimimus_planinychus</List>
+		<List>Huaxiagnathus_orientalis</List>
+		<List>Dilong</List>
+		<List>Sinosauropteryx_prima</List>
+		<List>Compsognathus_longipes</List>
+		<List>Buitreraptor_gonzalozorum</List>
+		<List>Neuquen_Unenlagia</List>
+		<List>Shanag_ashile</List>
+		<List>Mahakala</List>
+		<List>Coelurus</List>
+		<List>Nqwebasaurus</List>
+		<List>Tanycolagreus</List>
+		<List>Proceratosaurus</List>
+		<List>Monolophosaurus</List>
+		<List>Guanlong</List>
+		<List>Falcarius</List>
+		<List>Eotyrannus</List>
+		<List>Appalachiosaurus</List>
+		<List>Xiongguanlong</List>
+		<List>Tyrannosaurus_rex</List>
+		<List>Gorgosaurus</List>
+		<List>Allosaurus_fragilis</List>
+		<List>Cloverly_tooth</List>
+		<List>Stokesosaurus</List>
+		<List>Raptorrex</List>
+		<List>Alnashetri</List>
+		<List>Linhenykus</List>
+		<List>Xixianykus</List>
+		<List>Patagonykus_puertai</List>
+		<List>Bonapartenykus</List>
+		<List>Albinykus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="304">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Makovicky_etal_2012a</Filename>
+	<Parent>Zanno_et_Makovicky_2011aa</Parent>
+	<Sibling/>
+</SourceTree>

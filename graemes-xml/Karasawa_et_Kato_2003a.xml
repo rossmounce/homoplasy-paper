@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Karasawa, H.</List>
+			<List>Kato, H.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>The family Goneplacidae MacLeay, 1838 (Crustacea: Decapoda: Brachyura): systematics, phylogeny, and fossil records</Title>
+		<Journal>Paleontological Research</Journal>
+		<Volume>7</Volume>
+		<Pages>129-151</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="18">
+		<List>Hypothetical_Ancestor</List>
+		<List>Carcinoplax</List>
+		<List>Carinocarcinoides</List>
+		<List>Psopheticus</List>
+		<List>Camatopsis</List>
+		<List>Chasmocarcinus</List>
+		<List>Eucrate</List>
+		<List>Euryplax</List>
+		<List>Heteroplax</List>
+		<List>Goneplax</List>
+		<List>Ommatocarcinus</List>
+		<List>Trogloplax</List>
+		<List>Beurisia</List>
+		<List>Intesius</List>
+		<List>Mathildella</List>
+		<List>Pseudozius</List>
+		<List>Epixanthus</List>
+		<List>Pilumnus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="45">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Karasawa_et_Kato_2003a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

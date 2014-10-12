@@ -1,0 +1,71 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Muller, J.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>The relationships among diapsid reptiles and the influence of taxon selection</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>379-408</Pages>
+		<Booktitle>Recent Advances in the Origin and Early Radiation of Vertebrates</Booktitle>
+		<Publisher>Veerlag Dr Friedrich Pfeil</Publisher>
+		<City>Munchen</City>
+		<Editor>
+			<List>Arratia, G.</List>
+			<List>Wilson, M. V. H.</List>
+			<List>Cloutier, R.</List>
+		</Editor>
+	</Source>
+	<Taxa number="33">
+		<List>Seymouriidae</List>
+		<List>Synapsida</List>
+		<List>Parareptilia</List>
+		<List>Captorhinidae</List>
+		<List>Araeoscelidia</List>
+		<List>Rhynchocephalia</List>
+		<List>Squamata</List>
+		<List>Prolacerta</List>
+		<List>Tanystropheus</List>
+		<List>Trilophosaurus</List>
+		<List>Rhynchosauria</List>
+		<List>Archosauriformes</List>
+		<List>Choristodera</List>
+		<List>Pachypleurosaurs</List>
+		<List>Simosaurus</List>
+		<List>Placodus</List>
+		<List>Pistosauridae</List>
+		<List>Claudiosaurus</List>
+		<List>Askeptosaurus</List>
+		<List>Clarazia</List>
+		<List>Thalattosaurus</List>
+		<List>Testudines</List>
+		<List>Palaeagama</List>
+		<List>Saurosternon</List>
+		<List>Coelurosauravus</List>
+		<List>Younginiformes</List>
+		<List>Macrocnemus</List>
+		<List>Helveticosaurus</List>
+		<List>Apsisaurus</List>
+		<List>Ichthyopterygia</List>
+		<List>Kuehneosauridae</List>
+		<List>Drepanosauridae</List>
+		<List>Hupehsuchus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="184">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Muller_2004a</Filename>
+	<Parent>Rieppel_et_Reisz_1999a</Parent>
+	<Sibling/>
+</SourceTree>

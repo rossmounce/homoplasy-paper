@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Norman, D. B.</List>
+			<List>Witmer, L. M.</List>
+			<List>Weishampel, D. B.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>Basal Thyreophora</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>335-342</Pages>
+		<Booktitle>The Dinosauria (Second Edition)</Booktitle>
+		<Publisher>University of California Press</Publisher>
+		<City>Berkeley</City>
+		<Editor>
+			<List>Weishampel, D. B.</List>
+			<List>Dodson, P.</List>
+			<List>Osmolska, H.</List>
+		</Editor>
+	</Source>
+	<Taxa number="7">
+		<List>Outgroup</List>
+		<List>Lesothosaurus</List>
+		<List>Cerapoda</List>
+		<List>Scutellosaurus</List>
+		<List>Emausaurus</List>
+		<List>Scelidosaurus</List>
+		<List>Eurypoda</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="32">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Norman_etal_2004b</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

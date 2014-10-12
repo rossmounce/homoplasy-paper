@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Berman, D. S.</List>
+			<List>Henrici, A. C.</List>
+			<List>Sumida, S. S.</List>
+			<List>Martens, T.</List>
+			<List>Pelletier, V.</List>
+		</Author>
+		<Year>2014</Year>
+		<Title>First European record of a varanodontine (Synapsida: Varanopidae): member of a unique Early Permian upland paleoecosystem, Tambach Basin, Central Germany</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>69-86</Pages>
+		<Booktitle>Early Evolutionary History of the Synapsida</Booktitle>
+		<Publisher>Springer Science</Publisher>
+		<City>Dordrecht</City>
+		<Editor>
+			<List>Kammerer, C. F.</List>
+			<List>Angielczyk, K. D.</List>
+			<List>Frobisch, J.</List>
+		</Editor>
+	</Source>
+	<Taxa number="12">
+		<List>Reptilia</List>
+		<List>Eothyris</List>
+		<List>Archaeovenator</List>
+		<List>Heleosaurus</List>
+		<List>Elliotsmithia</List>
+		<List>Mesenosaurus</List>
+		<List>Mycterosaurus</List>
+		<List>Aerosaurus</List>
+		<List>Watongia</List>
+		<List>Varanodon</List>
+		<List>Varanops</List>
+		<List>Tambacarnifex</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="60">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Berman_etal_2014a</Filename>
+	<Parent>Campione_et_Reisz_2010a</Parent>
+	<Sibling/>
+</SourceTree>

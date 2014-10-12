@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ruta, M.</List>
+			<List>Theron, J. N.</List>
+		</Author>
+		<Year>1997</Year>
+		<Title>Two Devonian mitrates from South Africa</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>40</Volume>
+		<Pages>201-243</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="13">
+		<List>Eumitrocystella_savilli</List>
+		<List>Mitrocystella_barrandei</List>
+		<List>Mitrocystella_incipiens</List>
+		<List>Allancytidium_flemingi</List>
+		<List>Atelocystites_guttenbergensis</List>
+		<List>Australocystis_langei</List>
+		<List>Barrandeocarpus_jaekeli</List>
+		<List>Barrandeocarpus_norvegicus</List>
+		<List>Notocarpos_garratti</List>
+		<List>Placocystella_africana</List>
+		<List>Platocystites_forbensianus</List>
+		<List>Tasmanicytidium_burretti</List>
+		<List>Victoracystis_wilkinsi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="38">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ruta_et_Theron_1997a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

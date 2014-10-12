@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Cisneros, J. C.</List>
+			<List>Abdala, F.</List>
+			<List>Atayman-Guven, S.</List>
+			<List>Rubidge, B. S.</List>
+			<List>Sengor, A. M. C.</List>
+			<List>Schultz, C. L.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>Carnivorous dinocephalian from the Middle Permian of Brazil and tetrapod dispersal in Pangaea</Title>
+		<Journal>Proceedings of the National Academy of Sciences USA</Journal>
+		<Volume>109</Volume>
+		<Pages>1584-1588</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Biarmosuchus_tener</List>
+		<List>Estemmenosuchus_uralensis</List>
+		<List>Ulemosaurus_svijagensis</List>
+		<List>Tapinocaninus_pamelae</List>
+		<List>Archaeosyodon_praeventor</List>
+		<List>Sinophoneus_yumenensis</List>
+		<List>Anteosaurus_magnificus</List>
+		<List>Titanophoneus_adamanteus</List>
+		<List>Titanophoneus_potens</List>
+		<List>Pampaphoneus_biccai</List>
+		<List>Notosyodon_gusevi</List>
+		<List>Syodon_biarmicum</List>
+		<List>Australosyodon_nyaphuli</List>
+		<List>Microsyodon_orlovi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="41">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Cisneros_etal_2012a</Filename>
+	<Parent>Kammerer_2011a</Parent>
+	<Sibling/>
+</SourceTree>

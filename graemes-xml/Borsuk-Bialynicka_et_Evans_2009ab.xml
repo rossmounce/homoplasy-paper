@@ -1,0 +1,70 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Borsuk-Bialynicka, M.</List>
+			<List>Evans, S. E.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>A long−necked archosauromorph from the Early Triassic of Poland</Title>
+		<Journal>Palaeontologia Polonica</Journal>
+		<Volume>65</Volume>
+		<Pages>203-234</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="35">
+		<List>Seymouriidae</List>
+		<List>Synapsida</List>
+		<List>Parareptilia</List>
+		<List>Captorhinidae</List>
+		<List>Araeoscelidia</List>
+		<List>Rhynchocephalia</List>
+		<List>Squamata</List>
+		<List>Prolacerta</List>
+		<List>Tanystropheus</List>
+		<List>Trilophosaurus</List>
+		<List>Rhynchosauria</List>
+		<List>Archosauriformes</List>
+		<List>Choristodera</List>
+		<List>Pachypleurosaurs</List>
+		<List>Simosaurus</List>
+		<List>Placodus</List>
+		<List>Pistosauridae</List>
+		<List>Claudiosaurus</List>
+		<List>Askeptosaurus</List>
+		<List>Clarazia</List>
+		<List>Thalattosaurus</List>
+		<List>Testudines</List>
+		<List>Palaeagama</List>
+		<List>Saurosternon</List>
+		<List>Coelurosauravus</List>
+		<List>Younginiformes</List>
+		<List>Macrocnemus</List>
+		<List>Helveticosaurus</List>
+		<List>Apsisaurus</List>
+		<List>Ichthyopterygia</List>
+		<List>Kuehneosauridae</List>
+		<List>Drepanosauridae</List>
+		<List>Hupehsuchus</List>
+		<List>Czatkowiella</List>
+		<List>Protorosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="184">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Borsuk-Bialynicka_et_Evans_2009ab</Filename>
+	<Parent>Muller_2004a</Parent>
+	<Sibling/>
+</SourceTree>

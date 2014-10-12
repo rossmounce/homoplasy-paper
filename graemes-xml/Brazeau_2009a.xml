@@ -1,0 +1,81 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Brazeau, M. D.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>The braincase and jaws of a Devonian 'acanthodian' and modern gnathostome origins</Title>
+		<Journal>Nature</Journal>
+		<Volume>457</Volume>
+		<Pages>305-308</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="47">
+		<List>Galeaspida</List>
+		<List>Osteostraci</List>
+		<List>Acanthodes</List>
+		<List>Akmonistion</List>
+		<List>Bothriolepis</List>
+		<List>Brachyacanthus</List>
+		<List>Brindabellaspis</List>
+		<List>Brochoadmones</List>
+		<List>Buchanosteus</List>
+		<List>Campbellodus</List>
+		<List>Cassidiceps</List>
+		<List>Cheiracanthus</List>
+		<List>Cheirolepis</List>
+		<List>Cladodoides</List>
+		<List>Cladoselache</List>
+		<List>Climatius</List>
+		<List>Coccosteus</List>
+		<List>Culmacanthus</List>
+		<List>Dialipina</List>
+		<List>Dicksonosteus</List>
+		<List>Diplacanthus</List>
+		<List>Doliodus</List>
+		<List>Euthacanthus</List>
+		<List>Gladiobranchus</List>
+		<List>Hamiltonichthys</List>
+		<List>Homalacanthus</List>
+		<List>Howqualepis</List>
+		<List>Ischnacanthus</List>
+		<List>Kathemacanthus</List>
+		<List>Ligulalepis</List>
+		<List>Macropetalichthys</List>
+		<List>Mesacanthus</List>
+		<List>Mimia</List>
+		<List>Obtusacanthus</List>
+		<List>Onychodus</List>
+		<List>Orthacanthus</List>
+		<List>Parexus</List>
+		<List>Poracanthodes</List>
+		<List>Porolepis</List>
+		<List>Promesacanthus</List>
+		<List>Psarolepis</List>
+		<List>Pterichthyodes</List>
+		<List>Ptomacanthus</List>
+		<List>Pucapampella</List>
+		<List>Rhamphodopsis</List>
+		<List>Tamiobatis</List>
+		<List>Tetanopsyrus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="134">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Brazeau_2009a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

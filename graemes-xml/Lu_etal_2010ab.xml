@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lu, J.-C.</List>
+			<List>Yoshitsugu, K.</List>
+			<List>li, T.-G.</List>
+			<List>Zhong, S.-M.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>A new basal sauropod dinosaur from the Lufeng Basin, Yunnan Province, southwestern China</Title>
+		<Journal>Acta Geologica Sinica</Journal>
+		<Volume>84</Volume>
+		<Pages>1336-1342</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="20">
+		<List>Ornithischia</List>
+		<List>Theropoda</List>
+		<List>Saturnalia_tupiniquim</List>
+		<List>Thecodontosaurus_spp.</List>
+		<List>Efraasia_minor</List>
+		<List>Riojasaurus_incertus</List>
+		<List>Plateosaurus_engelhardti</List>
+		<List>Coloradisaurus_brevis</List>
+		<List>Massospondylus_carinatus</List>
+		<List>Lufengosaurus_huenei</List>
+		<List>Chuxiongosaurus_lufengensis</List>
+		<List>Anchisaurus_polyzelus</List>
+		<List>Melanorosaurus_readi</List>
+		<List>Blikanasaurus_cromptoni</List>
+		<List>Kotasaurus_yamanpalliensis</List>
+		<List>Vu1canodon_karibaensis</List>
+		<List>Shunosaurus_lii</List>
+		<List>Barapasaurus_tagorei</List>
+		<List>Omeisaurus_tianfuensis</List>
+		<List>Neosauropoda</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="205">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lu_etal_2010ab</Filename>
+	<Parent>Yates_2004ab</Parent>
+	<Sibling>Lu_etal_2010aa</Sibling>
+</SourceTree>

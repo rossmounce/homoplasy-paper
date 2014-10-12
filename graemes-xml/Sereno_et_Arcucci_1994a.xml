@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sereno, P. C.</List>
+			<List>Arcucci, A. B.</List>
+		</Author>
+		<Year>1994</Year>
+		<Title>Dinosaurian precursors from the Middle Triassic of Argentina: <em>Marasuchus lilloensis</em>, gen. nov</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>14</Volume>
+		<Pages>53-73</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="8">
+		<List>CRUROTARSI</List>
+		<List>Marasuchus_lilloensis</List>
+		<List>Herrerasaurus_ischigualastensis</List>
+		<List>Coelophysis_bauri</List>
+		<List>Plateosaurus_engelhardti</List>
+		<List>Lesothosaurus_diagnosticus</List>
+		<List>Lagerpeton_chanarensis</List>
+		<List>PTEROSAURIA</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="17">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sereno_et_Arcucci_1994a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

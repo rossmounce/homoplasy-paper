@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Daeschler, E. B.</List>
+			<List>Shubin, N. H.</List>
+			<List>Jenkins, F. A.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>A Devonian tetrapod-like fish and the evolution of the tetrapod body plan</Title>
+		<Journal>Nature</Journal>
+		<Volume>440</Volume>
+		<Pages>757-763</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="9">
+		<List>Glyptolepis</List>
+		<List>Megalichthys</List>
+		<List>Eusthenopteron</List>
+		<List>Gooloogongia</List>
+		<List>Panderichthys</List>
+		<List>Acanthostega</List>
+		<List>Ichthyostega</List>
+		<List>Elpistostege</List>
+		<List>Tiktaalik</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="114">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Daeschler_etal_2006a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

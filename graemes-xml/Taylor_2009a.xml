@@ -1,0 +1,66 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Taylor, M. P.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>A re-evaluation of <em>Brachiosaurus altithorax</em> Riggs 1903 (Dinosauria, Sauropoda) and its generic separation from <em>Giraffatitan brancai</em> (Janensch 1914)</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>29</Volume>
+		<Pages>787-806</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="32">
+		<List>Theropoda</List>
+		<List>Prosauropoda</List>
+		<List>Vulcanodon</List>
+		<List>Shunosaurus</List>
+		<List>Barapasaurus</List>
+		<List>Omeisaurus</List>
+		<List>Patagosaurus</List>
+		<List>Mamenchisaurus</List>
+		<List>Losillasaurus</List>
+		<List>Brachiosaurus_altithorax</List>
+		<List>Brachiosaurus_brancai</List>
+		<List>Camarasaurus</List>
+		<List>Haplocanthosaurus</List>
+		<List>Euhelopus</List>
+		<List>Jobaria</List>
+		<List>Malawisaurus</List>
+		<List>Nigersaurus</List>
+		<List>Limaysaurus</List>
+		<List>Rebbachisaurus</List>
+		<List>Alamosaurus</List>
+		<List>Nemegtosaurus</List>
+		<List>Opisthocoelicaudia</List>
+		<List>Rapetosaurus</List>
+		<List>Saltasaurus</List>
+		<List>Isisaurus</List>
+		<List>BMNH_R2095</List>
+		<List>Suuwassea</List>
+		<List>Apatosaurus</List>
+		<List>Barosaurus</List>
+		<List>Diplodocus</List>
+		<List>Dicraeosaurus</List>
+		<List>Amargasaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="331">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Taylor_2009a</Filename>
+	<Parent>Harris_2006a</Parent>
+	<Sibling/>
+</SourceTree>

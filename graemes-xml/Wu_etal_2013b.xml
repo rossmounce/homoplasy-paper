@@ -1,0 +1,69 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Wu, W.-H.</List>
+			<List>Zhou, C.-F.</List>
+			<List>Wings, O.</List>
+			<List>Sekiya, T.</List>
+			<List>Dong, Z.-M.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>A new gigantic sauropod dinosaur from the Middle Jurassic of Shanshan, Xinjiang</Title>
+		<Journal>Global Geology</Journal>
+		<Volume>32</Volume>
+		<Pages>437-446</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="31">
+		<List>Prosauropoda</List>
+		<List>Theropoda</List>
+		<List>Vulcanodon</List>
+		<List>Barapasaurus</List>
+		<List>Omeisaurus</List>
+		<List>Shunosaurus</List>
+		<List>Patagosaurus</List>
+		<List>Mamenchisaurus</List>
+		<List>Apatosaurus</List>
+		<List>Barosaurus</List>
+		<List>Brachiosaurus</List>
+		<List>Camarasaurus</List>
+		<List>Dicraeosaurus</List>
+		<List>Diplodocus</List>
+		<List>Haplocanthosaurus</List>
+		<List>Amargasaurus</List>
+		<List>Euhelopus</List>
+		<List>Jobaria</List>
+		<List>Malawisaurus</List>
+		<List>Nigersaurus</List>
+		<List>Limaysaurus</List>
+		<List>Rebbachisaurus</List>
+		<List>Alamosaurus</List>
+		<List>Nemegtosaurus</List>
+		<List>Opisthocoelicaudia</List>
+		<List>Rapetosaurus</List>
+		<List>Saltasaurus</List>
+		<List>Isisaurus</List>
+		<List>Losillasaurus</List>
+		<List>Suuwassea</List>
+		<List>Xinjiangtitan_shanshanesis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="331">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Wu_etal_2013b</Filename>
+	<Parent>Harris_2006a</Parent>
+	<Sibling/>
+</SourceTree>

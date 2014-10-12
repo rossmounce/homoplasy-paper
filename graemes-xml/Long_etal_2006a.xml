@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Long, J. A.</List>
+			<List>Young, G. C.</List>
+			<List>Holland, T.</List>
+			<List>Senden, T. J.</List>
+			<List>Fitzgerald, E. M. G.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>An exceptional Devonian fish from Australia sheds light on tetrapod origins</Title>
+		<Journal>Nature</Journal>
+		<Volume>444</Volume>
+		<Pages>199-202</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List>Onychodus</List>
+		<List>Glyptolepis</List>
+		<List>Barameda</List>
+		<List>Marsdenichthys</List>
+		<List>Eusthenopteron</List>
+		<List>Medoevia</List>
+		<List>Megalichthys</List>
+		<List>Gogonasus</List>
+		<List>Panderichthys</List>
+		<List>Tiktaalik</List>
+		<List>Acanthostega</List>
+		<List>Ichthyostega</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="103">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Long_etal_2006a</Filename>
+	<Parent>Daeschler_etal_2006a</Parent>
+	<Sibling/>
+</SourceTree>

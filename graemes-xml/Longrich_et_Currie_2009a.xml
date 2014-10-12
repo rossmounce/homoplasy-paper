@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Longrich, N. R.</List>
+			<List>Currie, P. J.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title><em>Albertonykus borealis</em>, a new alvarezsaur (Dinosauria: Theropoda) from the Early Maastrichtian of Alberta, Canada: implications for the systematics and ecology of the Alvarezsauridae</Title>
+		<Journal>Cretaceous Research</Journal>
+		<Volume>30</Volume>
+		<Pages>239-252</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List>Tyrannosauridae</List>
+		<List>Dromaeosauridae</List>
+		<List>Achillesaurus_manazzonei</List>
+		<List>Alvarezsaurus_calvoi</List>
+		<List>Patagonykus_puertai</List>
+		<List>Albertonykus_borealis</List>
+		<List>Mononykus_olecranus</List>
+		<List>Shuvuuia_deserti</List>
+		<List>Parvicursor_remotus</List>
+		<List>YPM_1049</List>
+		<List>UCMP_154584</List>
+		<List>Tugriken_Shireh_alvarezsaur</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="77">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Longrich_et_Currie_2009a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

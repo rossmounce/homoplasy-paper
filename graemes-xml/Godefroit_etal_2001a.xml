@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Godefroit, P.</List>
+			<List>Zan, S.-Q.</List>
+			<List>Jin, L.-Y.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>The Maastrichtian (Late Cretaceous) lambeosaurine dinosaur Charonosaurus jiayinensis from north-eastern China</Title>
+		<Journal>Bulletin Institut royal des sciences naturelles de Belgique: Sciences de la terre</Journal>
+		<Volume>71</Volume>
+		<Pages>119-168</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List>Iguanodon</List>
+		<List>Bactrosaurus</List>
+		<List>Eolambia</List>
+		<List>Telmatosaurus</List>
+		<List>Hadrosaurinae</List>
+		<List>Tsintaosaurus</List>
+		<List>Charonosaurus</List>
+		<List>Parasaurolophus</List>
+		<List>Corythosaurus</List>
+		<List>Hypacrosaurus</List>
+		<List>Lambeosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="34">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Godefroit_etal_2001a</Filename>
+	<Parent>Godefroit_etal_2000a</Parent>
+	<Sibling/>
+</SourceTree>

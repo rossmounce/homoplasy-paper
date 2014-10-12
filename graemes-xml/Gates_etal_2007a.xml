@@ -1,0 +1,60 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Gates, T. A.</List>
+			<List>Sampson, S. D.</List>
+			<List>Delgado de Jesus, C. R.</List>
+			<List>Zanno, L. E.</List>
+			<List>Eberth, D.</List>
+			<List>Hernandez-Rivera, R.</List>
+			<List>Martinez, M. C. A.</List>
+			<List>Kirkland, J. I.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>Velafrons coahuilensis, a new lambeosaurine hadrosaurid (Dinosauria: Ornithopoda) from the late Campanian Cerro del Pueblo Formation, Coahuila, Mexico</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>27</Volume>
+		<Pages>917-930</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="19">
+		<List>Probactrosaurus_gobiensis</List>
+		<List>Telmatosaurus_transsylvanicus</List>
+		<List>Gryposaurus_incurvimanus</List>
+		<List>Aralosaurus_tuberiferus</List>
+		<List>Tsintaosaurus_spinorhinus</List>
+		<List>Jaxartosaurus_aralensis</List>
+		<List>Amurosaurus_riabinini</List>
+		<List>Charonosaurus_jiayinensis</List>
+		<List>Parasaurolophus_cyrtocristatus</List>
+		<List>Parasaurolophus_walkeri</List>
+		<List>Parasaurolophus_tubicen</List>
+		<List>Nipponosaurus_sachalinensis</List>
+		<List>Olorotitan_arharensis</List>
+		<List>Lambeosaurus_lambei</List>
+		<List>Lambeosaurus_magnicristatus</List>
+		<List>Corythosaurus_casuarius</List>
+		<List>Velafrons_coahuilensis</List>
+		<List>Hypacrosaurus_altispinus</List>
+		<List>Hypacrosaurus_stebingeri</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="94">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Gates_etal_2007a</Filename>
+	<Parent>Evans_et_Reisz_2007a</Parent>
+	<Sibling/>
+</SourceTree>

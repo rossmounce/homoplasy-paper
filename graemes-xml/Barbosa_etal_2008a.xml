@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Barbosa, J. A.</List>
+			<List>Kellner, A. W. A.</List>
+			<List>Viana, M. S. S.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>New dyrosaurid crocodylomorph and evidences for faunal turnover at the K-P transition in Brazil</Title>
+		<Journal>Proceedings of the Royal Society of London B</Journal>
+		<Volume>275</Volume>
+		<Pages>1385-1391</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Eutretauranosuchus</List>
+		<List>Elosuchus</List>
+		<List>Sarcosuchus</List>
+		<List>Terminonaris_robusta</List>
+		<List>Chenanisuchus_lateroculi</List>
+		<List>Sokotosuchus_ianwilsoni</List>
+		<List>Phosphatosaurus_gavialoides</List>
+		<List>Dyrosaurus_phosphaticus</List>
+		<List>Hyposaurus_rogersii</List>
+		<List>Arambourgisuchus_khouribgaensis</List>
+		<List>Rhabdognathus_aslerensis</List>
+		<List>Rhabdognathus_keiniensis</List>
+		<List>Guarinisuchus_munizi</List>
+		<List>Congosaurus_bequaerti</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="30">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Barbosa_etal_2008a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Roberts, A. J.</List>
+			<List>Druckenmiller, P. S.</List>
+			<List>Saetre, G.-P.</List>
+			<List>Hurum, J. H.</List>
+		</Author>
+		<Year>2014</Year>
+		<Title>A new Upper Jurassic ophthalmosaurid ichthyosaur from the Slottsmoya Member, Agardhfjellet Formation of central Spitsbergen</Title>
+		<Journal>PLOS One</Journal>
+		<Volume>9</Volume>
+		<Pages>e103152</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="22">
+		<List>Temnodontosaurus_sp</List>
+		<List>Ichthyosaurus_communis</List>
+		<List>Stenopterygius_quadriscissus</List>
+		<List>Ophthalmosaurus_icenicus</List>
+		<List>Brachypterygius_extremus</List>
+		<List>Maiaspondylus_lindoi</List>
+		<List>Undorosaurus_gorodischensis</List>
+		<List>Arthropterygius_chrisorum</List>
+		<List>Mollesaurus_periallus</List>
+		<List>Acamptonectes_densus</List>
+		<List>Caypullisaurus_bonapartei</List>
+		<List>Aegirosaurus_leptospondylus</List>
+		<List>Platypterygius_australis</List>
+		<List>Platypterygius_hercynicus</List>
+		<List>Athabascasaurus_bitumineus</List>
+		<List>Malawania_anachronus</List>
+		<List>Leninia_stellans</List>
+		<List>Sveltonectes_insolitus</List>
+		<List>Palvennia_hoybergeti</List>
+		<List>Cryopterygius_kristiansenae</List>
+		<List>Janusaurus_lundi</List>
+		<List>PMO_222_dot_667</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="56">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Roberts_etal_2014a</Filename>
+	<Parent>Fischer_etal_2012a</Parent>
+	<Sibling/>
+</SourceTree>

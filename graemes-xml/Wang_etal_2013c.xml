@@ -1,0 +1,100 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Wang, Y.-M.</List>
+			<List>O'Connor, J.</List>
+			<List>Li, D.-Q.</List>
+			<List>You, H.-L.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>Previously unrecognized ornithuromorph bird diversity in the Early Cretaceous Changma Basin, Gansu Province, northwestern China</Title>
+		<Journal>PLOS ONE</Journal>
+		<Volume>8</Volume>
+		<Pages>e77693</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="63">
+		<List>Dromaeosauridae</List>
+		<List>Archaeopteryx</List>
+		<List>Jeholornis</List>
+		<List>Rahonavis</List>
+		<List>Shenzhouraptor</List>
+		<List>Jixiangornis</List>
+		<List>Zhongornis</List>
+		<List>Sapeornis</List>
+		<List>Didactylornis</List>
+		<List>Confuciusornis_sanctus</List>
+		<List>Changchengornis</List>
+		<List>Eoconfuciusornis</List>
+		<List>Jinzhouornis_zhangjiyingia</List>
+		<List>Confuciusornis_dui</List>
+		<List>Chaoyangia</List>
+		<List>Zhongjianornis</List>
+		<List>Boluochia</List>
+		<List>Shenqiornis</List>
+		<List>Cathyaornis</List>
+		<List>Concornis</List>
+		<List>Elsornis</List>
+		<List>Eoalulavis</List>
+		<List>Eocathayornis</List>
+		<List>Eoenantiornis</List>
+		<List>Gobipteryx</List>
+		<List>Iberomesornis</List>
+		<List>Longipteryx</List>
+		<List>Longirostravis</List>
+		<List>Neuquenornis</List>
+		<List>Otogornis</List>
+		<List>Pengornis</List>
+		<List>Protopteryx</List>
+		<List>Rapaxavis</List>
+		<List>Shanweiniao</List>
+		<List>Vescornis</List>
+		<List>Vorona</List>
+		<List>Eoornithura</List>
+		<List>Jianchangornis</List>
+		<List>Archaeorhynchus</List>
+		<List>Liaoningornis</List>
+		<List>Songlingornis</List>
+		<List>Ambiortus</List>
+		<List>Longicrusavis</List>
+		<List>Apsaravis</List>
+		<List>Hongshanornis</List>
+		<List>Yanornis</List>
+		<List>Patagopteryx</List>
+		<List>Hollanda</List>
+		<List>Yixianornis</List>
+		<List>Gansus</List>
+		<List>Ichthyornis</List>
+		<List>Hesperornis</List>
+		<List>Parahesperornis</List>
+		<List>Enaliornis</List>
+		<List>Baptornis_advenus</List>
+		<List>Baptornis_varneri</List>
+		<List>Limenavis</List>
+		<List>Vegavis</List>
+		<List>Anas</List>
+		<List>Gallus</List>
+		<List>Yumenornis_huangi</List>
+		<List>Changmaornis_houi</List>
+		<List>Jiuquanornis_niui</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="245">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Wang_etal_2013c</Filename>
+	<Parent>OConnor_et_Zhou_inpressa</Parent>
+	<Sibling/>
+</SourceTree>

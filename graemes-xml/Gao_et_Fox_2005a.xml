@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Gao, K.-Q.</List>
+			<List>Fox, R. C.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>A new choristodere (Reptilia: Diapsida) from the Lower Cretaceous of western Liaoning Province, China, and phylogenetic relationships of Monjurosuchidae</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>145</Volume>
+		<Pages>427-444</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="13">
+		<List>Araeoscelidia</List>
+		<List>Youngina</List>
+		<List>Tchoiria</List>
+		<List>Ikechosaurus</List>
+		<List>Simoedosaurus</List>
+		<List>Champsosaurus</List>
+		<List>Shokawa</List>
+		<List>Pachystropheus</List>
+		<List>Cteniogenys</List>
+		<List>Lazarussuchus</List>
+		<List>Monjurosuchus</List>
+		<List>Philydrosaurus</List>
+		<List>Hyphalosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="75">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Gao_et_Fox_2005a</Filename>
+	<Parent>Ksepka_etal_2005a</Parent>
+	<Sibling/>
+</SourceTree>

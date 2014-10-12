@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Doyle, J. A.</List>
+			<List>Donoghue, M. J.</List>
+		</Author>
+		<Year>1986</Year>
+		<Title>Seed plant phylogeny and the origin of angiosperms: an experimental cladistic approach</Title>
+		<Journal>The Botanical Review</Journal>
+		<Volume>52</Volume>
+		<Pages>321-431</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="20">
+		<List>Aneurophyton</List>
+		<List>Archaeopteris</List>
+		<List>Early_Carb_lygonopterids</List>
+		<List>Higher_lygonopterids</List>
+		<List>Medullosa</List>
+		<List>Callistophyton</List>
+		<List>Glossopteridales</List>
+		<List>Peltaspermum</List>
+		<List>Corystospermaceae</List>
+		<List>Caytonia</List>
+		<List>Cycadales</List>
+		<List>Bennettitales</List>
+		<List>Pento_ylon</List>
+		<List>Euramerican_cordaites</List>
+		<List>Ginkgoales</List>
+		<List>Coniferales</List>
+		<List>Ephedra</List>
+		<List>Welwitschia</List>
+		<List>Gnetum</List>
+		<List>angiosperms</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="62">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Doyle_et_Donoghue_1986a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

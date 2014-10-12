@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Schultze, H.-P.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>Mesozoic sarcopterygians</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>463-492</Pages>
+		<Booktitle>Mesozoic Fishes 3 - Systematics, Paleoenvironments and Biodiversity</Booktitle>
+		<Publisher>Verlag Dr. Friedrich Pfeil</Publisher>
+		<City>Munchen</City>
+		<Editor>
+			<List>Arratia, G.</List>
+			<List>Tintori, A.</List>
+		</Editor>
+	</Source>
+	<Taxa number="21">
+		<List>Conchopoma</List>
+		<List>Aphelodus</List>
+		<List>Archaeoceratodus</List>
+		<List>Arganodus</List>
+		<List>Ariguna</List>
+		<List>Asiatoceratodus</List>
+		<List>Beltanodus</List>
+		<List>Ceratodus</List>
+		<List>Ferganoceratodus</List>
+		<List>Gnathorhiza</List>
+		<List>Gosfordia</List>
+		<List>Lepidosiren</List>
+		<List>Megapleuron</List>
+		<List>Metaceratodus</List>
+		<List>Microceratodus</List>
+		<List>Mioceratodus</List>
+		<List>Namatozodia</List>
+		<List>Neoceratodus</List>
+		<List>Paraceratodus</List>
+		<List>Protopterus</List>
+		<List>Ptychoceratodus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="56">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Schultze_2004a</Filename>
+	<Parent>Schultze_2001a</Parent>
+	<Sibling/>
+</SourceTree>

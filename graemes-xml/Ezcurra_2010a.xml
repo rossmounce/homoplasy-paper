@@ -1,0 +1,84 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ezcurra, M. D.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>A new early dinosaur (Saurischia: Sauropodomorpha) from the Late Triassic of Argentina: a reassessment of dinosaur origin and phylogeny</Title>
+		<Journal>Journal of Systematic Palaeontology</Journal>
+		<Volume>8</Volume>
+		<Pages>371-425</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="50">
+		<List>Euparkeria</List>
+		<List>Crurotarsi</List>
+		<List>Marasuchus</List>
+		<List>Silesaurus</List>
+		<List>Ornithischia</List>
+		<List>Agnosphitys</List>
+		<List>Guaibasaurus</List>
+		<List>Panphagia</List>
+		<List>Saturnalia</List>
+		<List>Chromogisaurus</List>
+		<List>Pantydraco</List>
+		<List>Thecodontosaurus</List>
+		<List>Efraasia</List>
+		<List>Plateosauravus</List>
+		<List>Ruehleia</List>
+		<List>Jingshanosaurus</List>
+		<List>Anchisaurus</List>
+		<List>Yunnanosaurus</List>
+		<List>Melanorosaurus</List>
+		<List>Blikanasaurus</List>
+		<List>Camelotia</List>
+		<List>Antetonitrus</List>
+		<List>Lessemsaurus</List>
+		<List>Gongxianosaurus</List>
+		<List>Isanosaurus</List>
+		<List>Tazoudasaurus</List>
+		<List>Vulcanodon</List>
+		<List>Shunosaurus</List>
+		<List>Barapasaurus</List>
+		<List>Patagosaurus</List>
+		<List>Cetiosaurus</List>
+		<List>Neosauropoda</List>
+		<List>Mamenchisaurus</List>
+		<List>Omeisaurus</List>
+		<List>Massospondylus</List>
+		<List>Coloradisaurus</List>
+		<List>Lufengosaurus</List>
+		<List>Glacialisaurus</List>
+		<List>Eucnemosaurus</List>
+		<List>Riojasaurus</List>
+		<List>Unaysaurus</List>
+		<List>Plateosaurus_gracilis</List>
+		<List>Plateosaurus_ingens</List>
+		<List>Plateosaurus_engelhardti</List>
+		<List>Chindesaurus</List>
+		<List>Eoraptor</List>
+		<List>Neotheropoda</List>
+		<List>Herrerasaurus</List>
+		<List>Staurikosaurus</List>
+		<List>MACN_PV_18649a</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="378">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ezcurra_2010a</Filename>
+	<Parent>Smith_et_Pol_2007a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,147 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Senter, P.</List>
+			<List>Kirkland, J. I.</List>
+			<List>DeBlieux, D. D.</List>
+			<List>Madsen, S.</List>
+			<List>Toth, N.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>New dromaeosaurids (Dinosauria: Theropoda) from the Lower Cretaceous of Utah, and the evolution of the dromaeosaurid tail</Title>
+		<Journal>PLoS One</Journal>
+		<Volume>7</Volume>
+		<Pages>1-20</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="109">
+		<List>Dilophosaurus</List>
+		<List>Allosaurus</List>
+		<List>Sinraptor</List>
+		<List>Dilong</List>
+		<List>Guanlong</List>
+		<List>Raptorex</List>
+		<List>Gorgosaurus</List>
+		<List>Daspletosaurus</List>
+		<List>Tyrannosaurus</List>
+		<List>Tanycolagreus</List>
+		<List>Coelurus</List>
+		<List>Sinocalliopteryx</List>
+		<List>Huaxiagnathus</List>
+		<List>Sinosauropteryx</List>
+		<List>Compsognathus</List>
+		<List>Juravenator</List>
+		<List>Scipionyx</List>
+		<List>Harpymimus</List>
+		<List>Deinocheirus</List>
+		<List>Shenzhousaurus</List>
+		<List>Pelecanimimus</List>
+		<List>Garudimimus</List>
+		<List>Archaeornithomimus</List>
+		<List>Sinornithomimus</List>
+		<List>Gallimimus</List>
+		<List>Struthiomimus</List>
+		<List>Anserimimus</List>
+		<List>Ornithomimus</List>
+		<List>Ornitholestes</List>
+		<List>Falcarius</List>
+		<List>Beipiaosaurus</List>
+		<List>Alxasaurus</List>
+		<List>Nanshiungosaurus</List>
+		<List>Suzhousaurus</List>
+		<List>Nothronychus</List>
+		<List>Segnosaurus</List>
+		<List>Erliansaurus</List>
+		<List>Neimongosaurus</List>
+		<List>Erlikosaurus</List>
+		<List>Therizinosaurus</List>
+		<List>Incisivosaurus</List>
+		<List>Protarchaeopteryx</List>
+		<List>Avimimus</List>
+		<List>Oviraptor</List>
+		<List>Nemegtomaia</List>
+		<List>Rinchenia</List>
+		<List>IGM_100_42</List>
+		<List>Citipati</List>
+		<List>Chirostenotes</List>
+		<List>Hagryphus</List>
+		<List>Elmisaurus</List>
+		<List>Ingenia</List>
+		<List>Heyuannia</List>
+		<List>Conchoraptor</List>
+		<List>Khaan</List>
+		<List>Caudipteryx</List>
+		<List>Microvenator</List>
+		<List>Anchiornis</List>
+		<List>Sinovenator</List>
+		<List>Sinusonasus</List>
+		<List>Geminiraptor</List>
+		<List>Byronosaurus</List>
+		<List>Mei</List>
+		<List>Sinornithoides</List>
+		<List>Xixiasaurus</List>
+		<List>IGM_100_44</List>
+		<List>Borogovia</List>
+		<List>Troodon</List>
+		<List>Saurornithoides</List>
+		<List>Zanabazar</List>
+		<List>Xiaotingia</List>
+		<List>Mahakala</List>
+		<List>Austroraptor</List>
+		<List>Buitreraptor</List>
+		<List>Rahonavis</List>
+		<List>Unenlagia</List>
+		<List>Shanag</List>
+		<List>Tianyuraptor</List>
+		<List>Hesperonychus</List>
+		<List>Cryptovolans</List>
+		<List>Sinornithosaurus</List>
+		<List>Graciliraptor</List>
+		<List>CAGS_Microraptor_zhaoianus</List>
+		<List>Microraptor_zhaoianus</List>
+		<List>Microraptor_gui</List>
+		<List>Bambiraptor</List>
+		<List>Adasaurus</List>
+		<List>Tsaagan</List>
+		<List>Velociraptor</List>
+		<List>Deinonychus</List>
+		<List>Achillobator</List>
+		<List>Dromaeosaurus</List>
+		<List>Utahraptor</List>
+		<List>Yurgovuchia</List>
+		<List>Epidendrosaurus</List>
+		<List>Epidexipteryx</List>
+		<List>Archaeopteryx</List>
+		<List>Wellnhoferia</List>
+		<List>Jeholornis</List>
+		<List>Sapeornis</List>
+		<List>Confuciusornis</List>
+		<List>Protopteryx</List>
+		<List>Yanornis</List>
+		<List>Haplocheirus</List>
+		<List>Alvarezsaurus</List>
+		<List>Patagonykus</List>
+		<List>Parvicursor</List>
+		<List>Mononykus</List>
+		<List>Shuvuuia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="394">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Senter_etal_2012a</Filename>
+	<Parent>Senter_2011a</Parent>
+	<Sibling/>
+</SourceTree>

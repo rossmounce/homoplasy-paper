@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Canale, J. I.</List>
+			<List>Novas, F. E.</List>
+			<List>Pol, D.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>Osteology and phylogenetic relationships of <em>Tyrannotitan chubutensis</em> Novas, de Valais, Vickers-Rich and Rich, 2005 (Theropoda: Carcharodontosauridae) from the Lower Cretaceous of Patagonia, Argentina</Title>
+		<Journal>Historical Biology</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="16">
+		<List>Herrerasaurus</List>
+		<List>Acrocanthosaurus</List>
+		<List>Allosaurus</List>
+		<List>Carcharodontosaurus_iguidensis</List>
+		<List>Carcharodontosaurus_saharicus</List>
+		<List>Coelophysis</List>
+		<List>Compsognathus</List>
+		<List>Concavenator</List>
+		<List>Eocarcharia</List>
+		<List>Giganotosaurus</List>
+		<List>Mapusaurus</List>
+		<List>Monolophosaurus</List>
+		<List>Neovenator</List>
+		<List>Shaochilong</List>
+		<List>Sinraptor</List>
+		<List>Tyrannotitan</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="169">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Canale_etal_inpressa</Filename>
+	<Parent>Novas_etal_inpressaa</Parent>
+	<Sibling/>
+</SourceTree>

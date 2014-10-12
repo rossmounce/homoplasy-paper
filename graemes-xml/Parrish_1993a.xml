@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Parrish, J. M.</List>
+		</Author>
+		<Year>1993</Year>
+		<Title>Phylogeny of the Crocodylotarsi, with reference to archosaurian and crurotarsan monophyly</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>13</Volume>
+		<Pages>287-308</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="24">
+		<List>Proterosuchus</List>
+		<List>Erythrosuchus</List>
+		<List>Euparkeria</List>
+		<List>Chanaresuchus</List>
+		<List>Lagosuchus</List>
+		<List>Plateosaurus</List>
+		<List>Riojasuchus</List>
+		<List>Rutiodon</List>
+		<List>Prestosuchus</List>
+		<List>PAPresto</List>
+		<List>Ticinosuchus</List>
+		<List>Saurosuchus</List>
+		<List>SanJuanSauro</List>
+		<List>Lewisuchus</List>
+		<List>Turfanosuchus_da</List>
+		<List>Desmatosuchus</List>
+		<List>Lotosaurus</List>
+		<List>Kupferzell_Raui</List>
+		<List>Fasolasuchus</List>
+		<List>Rauisuchus</List>
+		<List>Gracilisuchus</List>
+		<List>Postosuchus</List>
+		<List>Pseudhesperosuchus</List>
+		<List>Alligator</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="42">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Parrish_1993a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

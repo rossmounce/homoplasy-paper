@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Janvier, P.</List>
+		</Author>
+		<Year>1996</Year>
+		<Title>The dawn of the vertebrates: characters versus common ascent in the rise of current vertebrate phylogenies</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>39</Volume>
+		<Pages>259-287</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="23">
+		<List>Tunicata</List>
+		<List>Cephalochordata</List>
+		<List>Hyperotreti_hagfishes</List>
+		<List>Myxinikela</List>
+		<List>Gilpichthys</List>
+		<List>Hyperoartia_lampreys</List>
+		<List>Mayomyzon</List>
+		<List>Hardistiella</List>
+		<List>Pipiscius</List>
+		<List>Jamoytius</List>
+		<List>Euphanerops</List>
+		<List>Anaspida</List>
+		<List>Astraspida</List>
+		<List>Eriptychius</List>
+		<List>Arandaspida</List>
+		<List>Heterostraci</List>
+		<List>Phlebolepis</List>
+		<List>Loganellia</List>
+		<List>Galeaspida</List>
+		<List>Pituriaspida</List>
+		<List>Osteostraci</List>
+		<List>Gnathostomata</List>
+		<List>Conodonta</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="89">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Janvier_1996a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

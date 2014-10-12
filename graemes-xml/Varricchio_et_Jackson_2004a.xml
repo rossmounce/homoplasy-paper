@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Varricchio, D. J.</List>
+			<List>Jackson, F. D.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>A phylogenetic assessment of prismatic dinosaur egss from the Cretaceous Two Medicine Formation of Montana</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>24</Volume>
+		<Pages>931-937</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Melanochelys_trijuga</List>
+		<List>Malacochersus_tornieri</List>
+		<List>Rhinoclemmys_areolata</List>
+		<List>Maiasaura_peeblesorum</List>
+		<List>Titanosaurian_sauropod</List>
+		<List>Alligator_mississippiensis</List>
+		<List>Crocodylus_niloticus</List>
+		<List>Oviraptorid</List>
+		<List>Troodon_formosus</List>
+		<List>New_Two_Medicine_egg</List>
+		<List>Cretaceous_bird</List>
+		<List>Struthio_sp.</List>
+		<List>Lourinhanosaurus</List>
+		<List>Gallus_gallus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="15">
+			<Type>Egg and shell</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Varricchio_et_Jackson_2004a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Rieppel, O.</List>
+		</Author>
+		<Year>1994</Year>
+		<Title>The braincases of <em>Simosaurus</em> and <em>Nothosaurus</em>: monophyly of the Nothosauridae (Reptilia: Sauropterygia)</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>14</Volume>
+		<Pages>9-23</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="9">
+		<List>Neodiapsida</List>
+		<List>Pachypleurosauroidea</List>
+		<List>Corosaurus</List>
+		<List>Simosaurus</List>
+		<List>Cymatosaurus</List>
+		<List>Nothosaurus</List>
+		<List>Paranothosaurus</List>
+		<List>Lariosaurus</List>
+		<List>Ceresiosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="14">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Rieppel_1994a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

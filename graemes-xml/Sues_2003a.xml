@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sues, H.-D.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>An unusual new archosauromorph reptile from the Upper Triassic Wolfville Formation of Nova Scotia</Title>
+		<Journal>Canadian Journal of Earth Sciences</Journal>
+		<Volume>40</Volume>
+		<Pages>635-649</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="24">
+		<List>Petrolacosaurus</List>
+		<List>Youngina</List>
+		<List>Gephyrosaurus</List>
+		<List>Squamata</List>
+		<List>Prolacerta</List>
+		<List>Macrocnemus</List>
+		<List>Tanystropheus</List>
+		<List>Trilophosaurus</List>
+		<List>Howesia</List>
+		<List>Mesosuchus</List>
+		<List>Rhynchosaurus</List>
+		<List>Scaphonyx</List>
+		<List>Stenaulorhynchus</List>
+		<List>Hyperodapedon</List>
+		<List>Proterosuchus</List>
+		<List>Euparkeria</List>
+		<List>Champsosaurus</List>
+		<List>Cteniogenys</List>
+		<List>Lazarussuchus</List>
+		<List>Protorosaurus</List>
+		<List>Megalancosaurus</List>
+		<List>Langobardisaurus</List>
+		<List>Drepanosaurus</List>
+		<List>Teraterpeton</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="144">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sues_2003a</Filename>
+	<Parent>Dilkes_1998a</Parent>
+	<Sibling/>
+</SourceTree>

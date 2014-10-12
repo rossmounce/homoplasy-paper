@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Storrs, G. W.</List>
+		</Author>
+		<Year>1991</Year>
+		<Title>Anatomy and relationships of <em>Corosaurus alcovensis</em> (Diapsida: Sauropterygia) and the Triassic Alcova Limestone of Wyoming</Title>
+		<Journal>Bulletin of the Peabody Museum of Natural History</Journal>
+		<Volume>44</Volume>
+		<Pages>1-151</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="21">
+		<List>Captorhinomorpha</List>
+		<List>Petrolacosaurus</List>
+		<List>Younginiformes</List>
+		<List>Claudiosaurus</List>
+		<List>Pachypleurosaurus</List>
+		<List>Neusticosaurus</List>
+		<List>Serpianosaurus</List>
+		<List>Anarosaurus</List>
+		<List>Dactylosaurus</List>
+		<List>Keichousaurus</List>
+		<List>Placodontia</List>
+		<List>Simosaurus</List>
+		<List>Corosaurus</List>
+		<List>Ceresiosaurus</List>
+		<List>Lariosaurus</List>
+		<List>Cymatosaurus</List>
+		<List>Nothosaurus</List>
+		<List>Paranothosaurus</List>
+		<List>Pistosaurus</List>
+		<List>Plesiosauroidea</List>
+		<List>Piiosauroidea</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="84">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Storrs_1991a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

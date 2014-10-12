@@ -1,0 +1,72 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Kurochkin, E. N.</List>
+			<List>Zolonkov, N. V.</List>
+			<List>Averianov, A. O.</List>
+			<List>Leshchinskiy, S. V.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>A new taxon of birds (Aves) from the Early Cretaceous of western Siberia, Russia</Title>
+		<Journal>Journal of Systematic Palaeontology</Journal>
+		<Volume>9</Volume>
+		<Pages>109-117</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="35">
+		<List>Allosaurus</List>
+		<List>Dromaeosauridae</List>
+		<List>Archaeopteryx</List>
+		<List>Anchiornis</List>
+		<List>Mei</List>
+		<List>Jeholornis</List>
+		<List>Zhongornis</List>
+		<List>Sapeornis</List>
+		<List>Eoenantiornis</List>
+		<List>Concornis</List>
+		<List>Eoalulavis</List>
+		<List>Gobipteryx</List>
+		<List>Neuquenornis</List>
+		<List>Vescornis</List>
+		<List>Iberomesornis</List>
+		<List>Avisaurus</List>
+		<List>Mystiornis</List>
+		<List>Longipteryx</List>
+		<List>DNHM_D1878</List>
+		<List>Longirostravis</List>
+		<List>DNHM_D2522</List>
+		<List>Patagopteryx</List>
+		<List>PKUP_1069</List>
+		<List>Hongshanornis</List>
+		<List>Yanornis</List>
+		<List>Yixianornis</List>
+		<List>Gansus</List>
+		<List>Apsaravis</List>
+		<List>Hesperornis</List>
+		<List>Icthyornis</List>
+		<List>Anas</List>
+		<List>Gallus</List>
+		<List>Confuciusornis</List>
+		<List>Changchengornis</List>
+		<List>Vorona</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="242">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Kurochkin_etal_2011a</Filename>
+	<Parent>OConnor_etal_2009a</Parent>
+	<Sibling/>
+</SourceTree>

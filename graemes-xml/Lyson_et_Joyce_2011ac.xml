@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lyson, T. R.</List>
+			<List>Joyce, W. G.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>Cranial anatomy and phylogenetic placement of the enigmatic turtle <em>Compsemys victa</em> Leidy, 1856</Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>85</Volume>
+		<Pages>789-801</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="27">
+		<List>Proganochelys_quenstedti</List>
+		<List>Kayantechelys_aprix</List>
+		<List>Dorsetochelys_delairi</List>
+		<List>Compsemys_victa</List>
+		<List>Arundelemys_dardeni</List>
+		<List>Dinochelys_whitei</List>
+		<List>Pleurosternon_bullockii</List>
+		<List>Glyptops_plicatulus</List>
+		<List>Uluops_uluops</List>
+		<List>Trinitichelys_hiatti</List>
+		<List>Neurankylus_exemius</List>
+		<List>Hayemys_latifrons</List>
+		<List>Plesiobaena_antiqua</List>
+		<List>Peckemys_brinkman</List>
+		<List>Cedrobaena_putorius</List>
+		<List>Boremys_pulchra</List>
+		<List>Boremys_grandis</List>
+		<List>Eubaena_cephalica</List>
+		<List>Palatobaena_cohen</List>
+		<List>Palatobaena_bairdi</List>
+		<List>Palatobaena_gaffneyi</List>
+		<List>Stygiochelys_estesi</List>
+		<List>Baena_arenosa</List>
+		<List>Chisternon_undatum</List>
+		<List>Gammerabaena_sonsalla</List>
+		<List>Denizenemys_nodosa</List>
+		<List>Denizenemys_ornata</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="106">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lyson_et_Joyce_2011ac</Filename>
+	<Parent>Lyson_et_Joyce_2009b</Parent>
+	<Sibling/>
+</SourceTree>

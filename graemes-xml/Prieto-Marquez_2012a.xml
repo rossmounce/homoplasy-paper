@@ -1,0 +1,91 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Prieto-Marquez, A.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>The skull and appendicular skeleton of Gryposaurus latidens, a saurolophine hadrosaurid (Dinosauria: Ornithopoda) from the early Campanian (Cretaceous) of Montana, USA</Title>
+		<Journal>Canadian Journal of Earth Sciences</Journal>
+		<Volume>49</Volume>
+		<Pages>510-532</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="57">
+		<List>Iguanodon_bernissartensis</List>
+		<List>Equijubus_normani</List>
+		<List>Cedrorestes_crichtoni</List>
+		<List>Fukuisaurus_tetoriensis</List>
+		<List>Jinzhousaurus_yangi</List>
+		<List>Penelopognathus_weishampeli</List>
+		<List>Probactrosaurus_gobiensis</List>
+		<List>Eolambia_caroljonesa</List>
+		<List>Protohadros_byrdi</List>
+		<List>Bactrosaurus_johnsoni</List>
+		<List>Gilmoreosaurus_mongoliensis</List>
+		<List>Tanius_sinensis</List>
+		<List>Glishades_ericksoni</List>
+		<List>Shuangmiaosaurus_gilmorei</List>
+		<List>Nanyangosaurus_zhugeii</List>
+		<List>Telmatosaurus_transsylvanicus</List>
+		<List>Lophorhothon_atopus</List>
+		<List>Tethyshadros_insularis</List>
+		<List>Hadrosaurus_foulkii</List>
+		<List>Wulagasaurus_dongi</List>
+		<List>Kerberosaurus_manakini</List>
+		<List>Kritosaurus_navajovius</List>
+		<List>Shantungosaurus_giganteus</List>
+		<List>Sabinos_saurolophine</List>
+		<List>Two_Medicine_saurolophine</List>
+		<List>Brachylophosaurus_canadensis</List>
+		<List>Maiasaura_peeblesorum</List>
+		<List>Edmontosaurus_annectens</List>
+		<List>Edmontosaurus_regalis</List>
+		<List>Gryposaurus_latidens</List>
+		<List>Gryposaurus_notabilis</List>
+		<List>Gryposaurus_monumentensis</List>
+		<List>Big_Bend_UTEP_saurolophine</List>
+		<List>Secernosaurus_koerneri</List>
+		<List>Salitral_Moreno_saurolophine</List>
+		<List>Prosaurolophus_maximus</List>
+		<List>Saurolophus_osborni</List>
+		<List>Saurolophus_angustirostris</List>
+		<List>Aralosaurus_tuberiferus</List>
+		<List>Jaxartosaurus_aralensis</List>
+		<List>Olorotitan_ararhensis</List>
+		<List>Sahaliyania_elunchunorum</List>
+		<List>Amurosaurus_riabinini</List>
+		<List>Velafrons_coahuilensis</List>
+		<List>Hypacrosaurus_altispinus</List>
+		<List>Lambeosaurus_laticaudus</List>
+		<List>Hypacrosaurus_stebingeri</List>
+		<List>Corythosaurus_casuarius</List>
+		<List>Corythosaurus_intermedius</List>
+		<List>Lambeosaurus_lambei</List>
+		<List>Lambeosaurus_magnicristatus</List>
+		<List>Charonosaurus_jiayinensis</List>
+		<List>Parasaurolophus_cyrtocristatus</List>
+		<List>Parasaurolophus_walkeri</List>
+		<List>Parasaurolophus_tubicen</List>
+		<List>Pararhabdodon_isonensis</List>
+		<List>Tsintaosaurus_spinorhinus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="287">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Prieto-Marquez_2012a</Filename>
+	<Parent>Prieto-Marquez_2010a</Parent>
+	<Sibling/>
+</SourceTree>

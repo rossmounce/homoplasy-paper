@@ -1,0 +1,92 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Hwang, S. H.</List>
+			<List>Norell, M. A.</List>
+			<List>Ji, Q.</List>
+			<List>Gao, K.-Q.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>A large compsognathid from the Early Cretaceous Yixian Formation of China</Title>
+		<Journal>Journal of Systematic Palaeontology</Journal>
+		<Volume>2</Volume>
+		<Pages>13-30</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="55">
+		<List>Allosaurus_fragilis</List>
+		<List>Sinraptor_dongi</List>
+		<List>Ornitholestes_hermanni</List>
+		<List>Incisivosaurus_gauthieri</List>
+		<List>Caudipteryx_zoui</List>
+		<List>Ingenia_yanshini</List>
+		<List>Oviraptor_mongoliensis</List>
+		<List>Oviraptor_philoceratops</List>
+		<List>Conchoraptor_gracilis</List>
+		<List>Citipati_osmolskae</List>
+		<List>Chirostenotes_pergracilis</List>
+		<List>Microvenator_celer</List>
+		<List>Avimimus_portentosus</List>
+		<List>Segnosaurus_galbinensis</List>
+		<List>Erlikosaurus_andrewsi</List>
+		<List>Alxasaurus_elesitaiensis</List>
+		<List>Sinornithosaurus_milleni</List>
+		<List>Microraptor_zhaoianus</List>
+		<List>Dromaeosaurus_albertensis</List>
+		<List>Deinonychus_antirrhopus</List>
+		<List>Velociraptor_mongoliensis</List>
+		<List>Unenlagia_comahuensis</List>
+		<List>Utahraptor_ostrommaysorum</List>
+		<List>Saurornitholestes_langstoni</List>
+		<List>Achillobator_giganticus</List>
+		<List>Ukhaa_dromaeosaurid</List>
+		<List>Adasaurus_mongoliensis</List>
+		<List>Sinovenator_changii</List>
+		<List>EK_troodontid</List>
+		<List>Byronosaurus_jaffei</List>
+		<List>Sinornithoides_youngi</List>
+		<List>Troodon_formosus</List>
+		<List>Saurornithoides_mongoliensis</List>
+		<List>Saurornithoides_junior</List>
+		<List>Rahonavis_ostromi</List>
+		<List>Archeopteryx_lithographica</List>
+		<List>Confuciusornis_sanctus</List>
+		<List>Alvarezsaurus_calvoi</List>
+		<List>Patagonykus_puertai</List>
+		<List>Mononykus_olecranus</List>
+		<List>Shuuvuia_deserti</List>
+		<List>Huaxiagnathus_orientalis</List>
+		<List>Sinosauropteryx_prima</List>
+		<List>Compsognathus_longipes</List>
+		<List>Pelecanimimus_polyodon</List>
+		<List>Liaoning_ornithomimid</List>
+		<List>Harpymimus_okladnikovi</List>
+		<List>Garudimimus_brevipes</List>
+		<List>Struthiomimus_altus</List>
+		<List>Gallimimus_bullatus</List>
+		<List>Ornithomimus_edmonticus</List>
+		<List>Archaeornithomimus_asiaticus</List>
+		<List>Anserimimus_planinychus</List>
+		<List>Tyrannosaurus_rex</List>
+		<List>Albertosaurus_libratus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="222">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Hwang_etal_2004a</Filename>
+	<Parent>Xu_etal_2002b</Parent>
+	<Sibling/>
+</SourceTree>

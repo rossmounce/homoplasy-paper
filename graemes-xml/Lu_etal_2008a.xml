@@ -1,0 +1,69 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lu, J.-C.</List>
+			<List>Unwin, D. M.</List>
+			<List>Xu, L.</List>
+			<List>Zhang, X.-L.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>A new azhdarchoid pterosaur from the Lower Cretaceous of China and its implications for pterosaur phylogeny and evolution</Title>
+		<Journal>Naturwissenschaften</Journal>
+		<Volume>95</Volume>
+		<Pages>891-897</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="32">
+		<List>Dimorphodon</List>
+		<List>Rhamphorhynchus</List>
+		<List>Pterodactylus</List>
+		<List>Cycnorhamphus</List>
+		<List>Eosipterus</List>
+		<List>Ctenochasma</List>
+		<List>Pterodaustro</List>
+		<List>Istiodactylus</List>
+		<List>Liaoxipterus</List>
+		<List>Ornithocheirus</List>
+		<List>Coloborhynchus</List>
+		<List>Boreopterus</List>
+		<List>Haopterus</List>
+		<List>Nyctosaurus</List>
+		<List>Pteranodon</List>
+		<List>Germanodactylus</List>
+		<List>Dsungaripterus</List>
+		<List>Tatal_pterosaur</List>
+		<List>Noripterus</List>
+		<List>Tapejara</List>
+		<List>Sinopterus</List>
+		<List>Huaxiapterus</List>
+		<List>Shenzhoupterus</List>
+		<List>Chaoyangopterus</List>
+		<List>Jidapterus</List>
+		<List>Eopteranodon</List>
+		<List>Eoazhdarcho</List>
+		<List>Tupuxuara</List>
+		<List>Thalassodromeus</List>
+		<List>Quetzalcoatlus</List>
+		<List>Zhejiangopterus</List>
+		<List>Azhdarcho</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="73">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lu_etal_2008a</Filename>
+	<Parent>Lu_et_Ji_2006a</Parent>
+	<Sibling/>
+</SourceTree>

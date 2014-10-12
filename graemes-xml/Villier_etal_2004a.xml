@@ -1,0 +1,74 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Villier, L.</List>
+			<List>Neraudeau, D.</List>
+			<List>Clavel, B.</List>
+			<List>Neumann, C.</List>
+			<List>David, B.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>Phylogeny of Early Cretaceous spatangoids (Echinodermata: Echinoidea) and taxonomic implications</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>47</Volume>
+		<Pages>265-292</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="36">
+		<List>Disaster_elongatus</List>
+		<List>Toxaster_laffittei</List>
+		<List>Aphelaster_integer</List>
+		<List>Toxaster_rochi</List>
+		<List>Toxaster_granosus</List>
+		<List>Toxaster_retusus</List>
+		<List>Toxaster_villei</List>
+		<List>Toxaster_peroni</List>
+		<List>Toxaster_maurus</List>
+		<List>Toxaster_seynensis</List>
+		<List>Toxaster_collegnoi</List>
+		<List>Toxaster_radula</List>
+		<List>Heteraster_corvensis</List>
+		<List>Heteraster_oblongus</List>
+		<List>Heteraster_renevieri</List>
+		<List>Heteraster_texanus</List>
+		<List>Heteraster_transiens</List>
+		<List>Washitaster_riovistae</List>
+		<List>Micraster_distinctus</List>
+		<List>Micraster_michelini</List>
+		<List>Macraster_polygonus</List>
+		<List>Macraster_elegans</List>
+		<List>Douvillaster_vattonei</List>
+		<List>Douvillaster_longesulcatus</List>
+		<List>Epiaster_maximus</List>
+		<List>Epiaster_besairiei</List>
+		<List>Epiaster_henricii</List>
+		<List>Epiaster_restrictus</List>
+		<List>Palhemiaster_peroni</List>
+		<List>Palhemiaster_comanchei</List>
+		<List>Mecaster_batnensis</List>
+		<List>Periaster_undulatus</List>
+		<List>Periaster_elatus</List>
+		<List>Hemiaster_dallonii</List>
+		<List>Hemiaster_zululandensis</List>
+		<List>Polydesmaster_fourteaui</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="35">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Villier_etal_2004a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

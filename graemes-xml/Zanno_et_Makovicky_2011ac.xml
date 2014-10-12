@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Zanno, L. E.</List>
+			<List>Makovicky, P. J.</List>
+		</Author>
+		<Year>2011 </Year>
+		<Title>On the earliest record of Cretaceous tyrannosauroids in western North America: implications for an Early Cretaceous Laurasian interchange event. </Title>
+		<Journal>Historical Biology</Journal>
+		<Volume>23</Volume>
+		<Pages>317-325</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="24">
+		<List>Allosaurus</List>
+		<List>Maniraptora</List>
+		<List>Ornithomimos</List>
+		<List>Compsogs</List>
+		<List>Kileskus</List>
+		<List>Guanlong</List>
+		<List>Proceratosaurus</List>
+		<List>Dilong</List>
+		<List>Eotyrannus</List>
+		<List>Stokesosaurus</List>
+		<List>Xiongguanlong</List>
+		<List>Raptorex</List>
+		<List>Dryptosaurus</List>
+		<List>Appalachiosaurus</List>
+		<List>Albertosaurus</List>
+		<List>Gorgosaurus</List>
+		<List>Alioramus</List>
+		<List>Daspletosaurus</List>
+		<List>Tarbosaurus</List>
+		<List>Tyrannosaurus</List>
+		<List>Bistahieversor</List>
+		<List>Utah</List>
+		<List>Sinotyrannus</List>
+		<List>FMNH_PR</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="308">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Zanno_et_Makovicky_2011ac</Filename>
+	<Parent>Brusatte_etal_2010a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Modesto, S.</List>
+			<List>Rubidge, B.</List>
+			<List>Visser, I.</List>
+			<List>Welman, J.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>A new basal dicynodont from the Upper Permian of South Africa</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>46</Volume>
+		<Pages>211-223</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List>Titanophoneus</List>
+		<List>Patranomodon</List>
+		<List>Galeops</List>
+		<List>Eodicynodon_oelofseni</List>
+		<List>Eodicynodon_ooshuizeni</List>
+		<List>Diictodon</List>
+		<List>Robertia</List>
+		<List>Chelydontops</List>
+		<List>Pristerodon</List>
+		<List>Emydops</List>
+		<List>Colobdectes</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="38">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Modesto_etal_2003b</Filename>
+	<Parent>Modesto_etal_1999a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>D'Emic, M. D.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>Revision of the sauropod dinosaurs of the Lower Cretaceous Trinity Group, southern USA, with the description of a new genus</Title>
+		<Journal>Journal of Systematic Palaeontology</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="25">
+		<List>Shunosaurus</List>
+		<List>Omeisaurus</List>
+		<List>Jobaria</List>
+		<List>Atlasaurus</List>
+		<List>Diplodocoidea</List>
+		<List>Camarasaurus</List>
+		<List>Tehuelchesaurus</List>
+		<List>Giraffatitan</List>
+		<List>Brachio_altithorax</List>
+		<List>Cedarosaurus</List>
+		<List>Abydosaurus</List>
+		<List>Europasaurus</List>
+		<List>Saltasaurini</List>
+		<List>Alamosaurus</List>
+		<List>Opisthocoelicaudia</List>
+		<List>Malawisaurus</List>
+		<List>Euhelopus</List>
+		<List>Chubutisaurus</List>
+		<List>Phuwiangosaurus</List>
+		<List>Sauroposeidon</List>
+		<List>Tastavinsaurus</List>
+		<List>Venenosaurus</List>
+		<List>Andesaurus</List>
+		<List>Ligabuesaurus</List>
+		<List>Astrophocaudia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="119">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>DEmic_inpressa</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

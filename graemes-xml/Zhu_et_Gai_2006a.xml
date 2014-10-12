@@ -1,0 +1,74 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Zhu, M.</List>
+			<List>Gai, Z.-K.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>Phylogeneic relationships of galeaspids (Agnatha)</Title>
+		<Journal>Vertebrata PalAsiatica</Journal>
+		<Volume>44</Volume>
+		<Pages>1-27</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="39">
+		<List>Ateleaspis</List>
+		<List>Anjiaspis</List>
+		<List>Antiquisagittaspis</List>
+		<List>Asiaspis</List>
+		<List>Bannhuanaspis</List>
+		<List>Changxingaspis</List>
+		<List>Damaspis</List>
+		<List>Dayongaspis</List>
+		<List>Dongfangaspis</List>
+		<List>Duyunolepis</List>
+		<List>Eugaleaspis</List>
+		<List>Gantarostrataspis</List>
+		<List>Geraspis</List>
+		<List>Gumuaspis</List>
+		<List>Hanyangaspis</List>
+		<List>Hunanaspis</List>
+		<List>Kwangnanaspis</List>
+		<List>Laxaspis</List>
+		<List>Lopadaspis</List>
+		<List>Lungmenshanaspis</List>
+		<List>Macrothyraspis</List>
+		<List>Meishanaspis</List>
+		<List>Microhoplonaspis</List>
+		<List>Nanpanaspis</List>
+		<List>Nochelospis</List>
+		<List>Pentathyraspis</List>
+		<List>Polybranchiaspis</List>
+		<List>Pterogonaspis</List>
+		<List>Qingmenaspis</List>
+		<List>Sanchaspis</List>
+		<List>Danqiaspis</List>
+		<List>S_zhejiangaspis</List>
+		<List>S_xikengensis</List>
+		<List>S_shankouensis</List>
+		<List>Sinoszech.uanaspis</List>
+		<List>Wenshanaspis</List>
+		<List>Wumengshanaspis</List>
+		<List>Yunnanogaleaspis</List>
+		<List>Zhaotongaspis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="53">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Zhu_et_Gai_2006a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

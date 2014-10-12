@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Shu, D.-G.</List>
+			<List>Conway Morris, S.</List>
+			<List>Han, J.</List>
+			<List>Zhang, Z.-F.</List>
+			<List>Yasui, K.</List>
+			<List>Janvier, P.</List>
+			<List>Chen, L.</List>
+			<List>Zhang, X.-L.</List>
+			<List>Liu, J.-N.</List>
+			<List>Li, Y.</List>
+			<List>Liu, H.-Q.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>Head and backbone of the Early Cambrian vertebrate <em>Haikouichthys</em></Title>
+		<Journal>Nature</Journal>
+		<Volume>421</Volume>
+		<Pages>526-529</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="18">
+		<List>Tunicata</List>
+		<List>Cephalochordata</List>
+		<List>Haikouichthys</List>
+		<List>Hagfish</List>
+		<List>Myxinikela</List>
+		<List>Lamprey</List>
+		<List>Mayomyzon</List>
+		<List>Astraspida</List>
+		<List>Arandaspida</List>
+		<List>Heterostraci</List>
+		<List>Loganellia</List>
+		<List>Galeaspida</List>
+		<List>Euconodonta</List>
+		<List>Osteostraci</List>
+		<List>Gnathostomata</List>
+		<List>Euphanerops</List>
+		<List>Jamoytius</List>
+		<List>Anaspida</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="115">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Shu_etal_2003a</Filename>
+	<Parent>Janvier_1996a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Maisch, M. W.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>Observations on Karoo and Gondwana vertebrates. Part 2: a new skull-reconstruction of <em>Stahleckeria potens</em> von Huene, 1935 (Dicynodontia, Middle Triassic) and a reconsideration of kannemeyeriiform phylogeny</Title>
+		<Journal>Neues Jahrbuch fur Geologie und Palaontologie Abhandlungen</Journal>
+		<Volume>220</Volume>
+		<Pages>127-152</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="18">
+		<List>Dicynodon</List>
+		<List>Dinamomodon</List>
+		<List>Kannemeyeria</List>
+		<List>Wadiasaurus</List>
+		<List>Shansiodon</List>
+		<List>Vinceria</List>
+		<List>Tetragonias</List>
+		<List>Rhinodicynodon</List>
+		<List>Stahleckeria</List>
+		<List>Angonisaurus</List>
+		<List>Placerias</List>
+		<List>Ischigualastia</List>
+		<List>Rhadiodromeus</List>
+		<List>Dinodontosaurus</List>
+		<List>Rechnisaurus</List>
+		<List>Sangusaurus</List>
+		<List>Parakannemeyeria</List>
+		<List>Sinokannemeyeria</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="35">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Maisch_2001a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,66 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Tsuji, L. A.</List>
+			<List>Muller, J.</List>
+			<List>Reisz, R. R.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title><em>Microleter mckinzieorum</em> gen. et sp. nov. from the Lower Permian of Oklahoma: the basalmost parareptile from Laurasia</Title>
+		<Journal>Journal of Systematic Palaeontology</Journal>
+		<Volume>8</Volume>
+		<Pages>245-255</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="30">
+		<List>Seymouria</List>
+		<List>Limnoscelidae</List>
+		<List>Diadectidae</List>
+		<List>Synapsida</List>
+		<List>Mesosauridae</List>
+		<List>Eunotosaurus_africanus</List>
+		<List>Millerettidae</List>
+		<List>Eudibamus_cursorius</List>
+		<List>Belebey_vegrandis</List>
+		<List>Acleistorhinus_pteroticus</List>
+		<List>Lanthanosuchus_watsoni</List>
+		<List>Bradysaurus</List>
+		<List>Pareiasuchus</List>
+		<List>Scutosaurus_karpinskii</List>
+		<List>Procolophon_trigoniceps</List>
+		<List>Owenetta</List>
+		<List>Barasaurus</List>
+		<List>Captorhinidae</List>
+		<List>Paleothyris</List>
+		<List>Araeoscelidia</List>
+		<List>Younginiformes</List>
+		<List>Macroleter_poezicus</List>
+		<List>Bashkyroleter_mesensis</List>
+		<List>Bashkyroleter_bashkyricus</List>
+		<List>Nycteroleter_ineptus</List>
+		<List>Emeroleter_levis</List>
+		<List>Tokosaurus_perforatus</List>
+		<List>Nyctiphruretus_acudens</List>
+		<List>Australothyris_smithi</List>
+		<List>Microleter_mckinzieorum</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="137">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Tsuji_etal_2010a</Filename>
+	<Parent>Modesto_etal_2009a</Parent>
+	<Sibling/>
+</SourceTree>

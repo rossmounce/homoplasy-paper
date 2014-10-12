@@ -1,0 +1,69 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sues, H.-D.</List>
+			<List>Averianov, A.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>A new basal hadrosauroid dinosaur from the Late Cretaceous of Uzbekistan and the early radiation of duck-billed dinosaurs</Title>
+		<Journal>Proceedings of the Royal Society of London B</Journal>
+		<Volume>276</Volume>
+		<Pages>2549-2555</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="34">
+		<List>Hypsilophodon</List>
+		<List>Ouranosaurus</List>
+		<List>Iguanodon</List>
+		<List>Altirhinus</List>
+		<List>Fukuisaurus</List>
+		<List>Eolambia</List>
+		<List>Probactrosaurus</List>
+		<List>Equijubus</List>
+		<List>Protohadros</List>
+		<List>Telmatosaurus</List>
+		<List>Bactrosaurus</List>
+		<List>Levnesovia</List>
+		<List>Tanius</List>
+		<List>Aralosaurus</List>
+		<List>Tsintaosaurus</List>
+		<List>Jaxartosaurus</List>
+		<List>Amurosaurus</List>
+		<List>Olorotitan</List>
+		<List>Lambeosaurus</List>
+		<List>Corythosaurus</List>
+		<List>Nipponosaurus</List>
+		<List>Hypacrosaurus</List>
+		<List>Parasaurolophus</List>
+		<List>Charonosaurus</List>
+		<List>Lophorhothon</List>
+		<List>Kritosaurus</List>
+		<List>Maiasaura</List>
+		<List>Brachylophosaurus</List>
+		<List>Gryposaurus</List>
+		<List>Kerberosaurus</List>
+		<List>Edmontosaurus</List>
+		<List>Prosaurolophus</List>
+		<List>Saurolophus</List>
+		<List>K._australis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="138">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sues_et_Averianov_2009b</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,75 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Gai, Z.-K.</List>
+			<List>Zhu, M.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>First discovery of Huananaspidae from the Xishancun Formation (Lochkovian, Devonian) of Yunnan, China</Title>
+		<Journal>Vertebrata PalAsiatica</Journal>
+		<Volume>45</Volume>
+		<Pages>1-12</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="40">
+		<List>Ateleaspis</List>
+		<List>Anjiaspis</List>
+		<List>Antiquisagittaspis</List>
+		<List>Asiaspis</List>
+		<List>Bannhuanaspis</List>
+		<List>Changxingaspis</List>
+		<List>Damaspis</List>
+		<List>Dayongaspis</List>
+		<List>Dongfangaspis</List>
+		<List>Duywwlepis</List>
+		<List>Eugaleaspis</List>
+		<List>Gantarostrataspis</List>
+		<List>Geraspis</List>
+		<List>Gumuaspis</List>
+		<List>Hanyangaspis</List>
+		<List>Hunanaspis</List>
+		<List>Kwangnanaspis</List>
+		<List>Laxaspis</List>
+		<List>Lopadaspis</List>
+		<List>Lungmenshanaspis</List>
+		<List>Macrothyraspis</List>
+		<List>Meishanaspis</List>
+		<List>Microhopwnaspis</List>
+		<List>Nanpanaspis</List>
+		<List>Nochelaspis</List>
+		<List>Pentathyraspis</List>
+		<List>Polybmnchiaspis</List>
+		<List>Pterogonaspis</List>
+		<List>Qingmenaspis</List>
+		<List>Sanchaspis</List>
+		<List>Sanqiaspis</List>
+		<List>S_zhejiangaspis</List>
+		<List>S_xikengensis</List>
+		<List>S_shankouensis</List>
+		<List>Sitwszechuanaspis</List>
+		<List>Wenslwnaspis</List>
+		<List>Wumengshannspis</List>
+		<List>Yunnanogaleaspis</List>
+		<List>Zhaotongaspis</List>
+		<List>Stephaspis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="54">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Gai_et_Zhu_2007a</Filename>
+	<Parent>Zhu_et_Gai_2006a</Parent>
+	<Sibling/>
+</SourceTree>

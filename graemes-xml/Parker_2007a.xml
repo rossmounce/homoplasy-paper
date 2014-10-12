@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Parker, W. G.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>Reassessment of the aetosaur '<em>Desmatosuchus</em>' <em>chamaensis</em> with a reanalysis of the phylogeny of the Aetosauria (Archosauria: Pseudosuchia</Title>
+		<Journal>Journal of Systematic Palaeontology</Journal>
+		<Volume>5</Volume>
+		<Pages>41-68</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="18">
+		<List>Postosuchus</List>
+		<List>Revueltosaurus</List>
+		<List>Aetosaurus</List>
+		<List>Stagonolepis_robertsoni</List>
+		<List>Stagonolepis_wellesi</List>
+		<List>Aetosauroides</List>
+		<List>Coahomasuchus</List>
+		<List>Desmatosuchus_haplocerus</List>
+		<List>Desmatosuchus_smalli</List>
+		<List>Heliocanthus</List>
+		<List>Longosuchus</List>
+		<List>Lucasuchus</List>
+		<List>Neoaetosauroides</List>
+		<List>Typothorax</List>
+		<List>Paratypothorax</List>
+		<List>Redondasuchus</List>
+		<List>Tecovasuchus</List>
+		<List>Acaenasuchus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="37">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Parker_2007a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

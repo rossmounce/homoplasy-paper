@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Rauhut, O. W. M.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>A brachiosaurid sauropod from the Late Jurassic Canadon Calcareo Formation of Chubut, Argentina</Title>
+		<Journal>Fossil Record</Journal>
+		<Volume>9</Volume>
+		<Pages>226-237</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="31">
+		<List>Theropoda</List>
+		<List>Prosauropoda</List>
+		<List>Vulcanodon</List>
+		<List>Barapasaurus</List>
+		<List>Omeisaurus</List>
+		<List>Shunosaurus</List>
+		<List>Patagosaurus</List>
+		<List>Mamenchisaurus</List>
+		<List>Apatosaurus</List>
+		<List>Barosaurus</List>
+		<List>Brachiosaurus</List>
+		<List>Camarasaurus</List>
+		<List>Diplodocus</List>
+		<List>Haplocanthosaurus</List>
+		<List>Jobaria</List>
+		<List>MPEF_PV_3098</List>
+		<List>MPEF_PV_3099</List>
+		<List>Dicraeosaurus</List>
+		<List>Amargasaurus</List>
+		<List>Euhelopus</List>
+		<List>Malawisaurus</List>
+		<List>Isisaurus</List>
+		<List>Alamosaurus</List>
+		<List>Opisthocoelicaudia</List>
+		<List>Neuquensaurus</List>
+		<List>Saltasaurus</List>
+		<List>Nemegtosaurus</List>
+		<List>Rapetosaurus</List>
+		<List>Nigersaurus</List>
+		<List>Limaysaurus</List>
+		<List>Rebbachisaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="237">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Rauhut_2006a</Filename>
+	<Parent>Wilson_2002a</Parent>
+	<Sibling/>
+</SourceTree>

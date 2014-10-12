@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Bell, P. R.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>Cranial osteology and ontogeny of Saurolophus angustirostris from the Late Cretaceous of Mongolia with comments on Saurolophus osborni from Canada</Title>
+		<Journal>Acta Palaeontologica Polonica</Journal>
+		<Volume>56</Volume>
+		<Pages>703-722</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List>Iguanodon</List>
+		<List>Bactrosaurus</List>
+		<List>Lambeosaurus</List>
+		<List>Hypacrosaurus</List>
+		<List>Maiasaura</List>
+		<List>Brachylophosaurus</List>
+		<List>Gryposaurus</List>
+		<List>Edmontosaurus</List>
+		<List>Kerberosaurus</List>
+		<List>Prosaurolophus</List>
+		<List>Saurolophus_osborni</List>
+		<List>Saurolophus_angustirostris</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="44">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Bell_2011b</Filename>
+	<Parent>Bell_2011a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,38 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Michaux, B.</List>
+		</Author>
+		<Year>1989</Year>
+		<Title>Cladograms can reconstruct phylogenies: an example from the fossil record</Title>
+		<Journal>Alcheringa</Journal>
+		<Volume>13</Volume>
+		<Pages>21-36</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="4">
+		<List>Ancilla</List>
+		<List>Turrancilla</List>
+		<List>Ancillista</List>
+		<List>Amalda</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="11">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Michaux_1989aa</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

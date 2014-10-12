@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Laurin, M.</List>
+			<List>Soler-Gijon, R.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>The oldest stegocephalian from the Iberian Peninsula: evidence that temnospondyls were euryhaline</Title>
+		<Journal>Comptes Rendus de L'Academie des Sciences Serie III, Sciences de la vie</Journal>
+		<Volume>324</Volume>
+		<Pages>495-501</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="15">
+		<List>Greererpeton</List>
+		<List>Proterogyrinus</List>
+		<List>Chenoprosopus</List>
+		<List>Edops</List>
+		<List>Dendrerpeton</List>
+		<List>Balanerpeton</List>
+		<List>Trimerorhachis</List>
+		<List>Capetus</List>
+		<List>Eryops</List>
+		<List>Saurerpeton</List>
+		<List>Paryoxys</List>
+		<List>Zatrachys</List>
+		<List>Eoscopus</List>
+		<List>Sclerocephalus</List>
+		<List>Iberospondylus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="18">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Laurin_et_Soler-Gijon_2001a</Filename>
+	<Parent>Holmes_etal_1998a</Parent>
+	<Sibling/>
+</SourceTree>

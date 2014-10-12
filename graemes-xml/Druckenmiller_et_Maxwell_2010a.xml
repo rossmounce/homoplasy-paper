@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Druckenmiller, P. S.</List>
+			<List>Maxwell, E. E.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>A new Lower Cretaceous (lower Albian) ichthyosaur genus from the Clearwater Formation, Alberta, Canada</Title>
+		<Journal>Canadian Journal of Earth Sciences</Journal>
+		<Volume>47</Volume>
+		<Pages>1037-1053</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="16">
+		<List>Cymbospondylus_petrinus</List>
+		<List>Stenopterygius</List>
+		<List>Ichthyosaurus</List>
+		<List>Mollesaurus_periallus</List>
+		<List>Brachypterygius_extremus</List>
+		<List>Aegirosaurus_leptospondylus</List>
+		<List>Ophthalmosaurus_icenicus</List>
+		<List>Ophthalmosaurus_natans</List>
+		<List>Arthropterygius_chrisorum</List>
+		<List>Caypullisaurus_bonapartei</List>
+		<List>Maiaspondylus_lindoei</List>
+		<List>Platypterygius_americanus</List>
+		<List>Platypterygius_hercynicus</List>
+		<List>Platypterygius_platydactylus</List>
+		<List>Platypterygius_australis</List>
+		<List>Athabascasaurus_bitumineus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="49">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Druckenmiller_et_Maxwell_2010a</Filename>
+	<Parent>Fernandez_2007a</Parent>
+	<Sibling/>
+</SourceTree>

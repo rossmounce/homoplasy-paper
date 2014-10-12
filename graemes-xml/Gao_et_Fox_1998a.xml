@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Gao, K.-Q.</List>
+			<List>Fox, R. C.</List>
+		</Author>
+		<Year>1998</Year>
+		<Title>New choristoderes (Reptilia: Diapsida) from the Upper Cretaceous and Palaeocene, Alberta and Saskatchewan, Canada, and phylogenetic relationships of Choristodera</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>124</Volume>
+		<Pages>303-353</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="7">
+		<List>Outgroup</List>
+		<List>Lazarussuchus</List>
+		<List>Cteniogenys</List>
+		<List>Champsosaurus</List>
+		<List>Tchoiria</List>
+		<List>Ikechosaurus</List>
+		<List>Simoedosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="60">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Gao_et_Fox_1998a</Filename>
+	<Parent>Evans_1990a</Parent>
+	<Sibling/>
+</SourceTree>

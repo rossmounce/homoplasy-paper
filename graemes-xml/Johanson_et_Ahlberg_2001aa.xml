@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Johanson, Z.</List>
+			<List>Ahlberg, P. E.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>Devonian rhizodontids and tristichopterids (Sarcopterygii; Tetrapodomorpha) from East Gondwana</Title>
+		<Journal>Transactions of the Royal Society of Edinburgh: Earth Sciences</Journal>
+		<Volume>92</Volume>
+		<Pages>43-74</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="30">
+		<List>Porolepis</List>
+		<List>Powichthys</List>
+		<List>Youngolepis</List>
+		<List>Diabolepis</List>
+		<List>Dipterus</List>
+		<List>Cabonnichthys</List>
+		<List>Mandageria</List>
+		<List>Eusthenodon</List>
+		<List>Eusthenopteron</List>
+		<List>Platyichthys</List>
+		<List>Jarvikina</List>
+		<List>Tristichopterus</List>
+		<List>Koharalepis</List>
+		<List>Canowindra</List>
+		<List>Beelarongia</List>
+		<List>Gyroptychius</List>
+		<List>Medoevia</List>
+		<List>Gogonasus</List>
+		<List>Osteolepis</List>
+		<List>Megalichthys</List>
+		<List>Ectosteorhachis</List>
+		<List>Cladarosymblema</List>
+		<List>Barameda</List>
+		<List>Gooloogongia</List>
+		<List>Panderichthys</List>
+		<List>Acanthostega</List>
+		<List>Ichthyostega</List>
+		<List>Kenichthys</List>
+		<List>Glyptolepis</List>
+		<List>Notorhizodon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="99">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Johanson_et_Ahlberg_2001aa</Filename>
+	<Parent>Ahlberg_et_Johanson_1998a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sanz, J. L.</List>
+			<List>Buscalioni, A. D.</List>
+		</Author>
+		<Year>1992</Year>
+		<Title>A new bird from the Early Cretaceous of Los Hoyas, Spain, and the early radiation of birds</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>35</Volume>
+		<Pages>829-845</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="8">
+		<List>Non_avian_theropods</List>
+		<List>Archaeopteryx</List>
+		<List>Iberomesornis</List>
+		<List>Concornis</List>
+		<List>Hesperornithiformes</List>
+		<List>Carinatae</List>
+		<List>Ambiortus</List>
+		<List>Enantiornithes</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="14">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sanz_et_Buscalioni_1992a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

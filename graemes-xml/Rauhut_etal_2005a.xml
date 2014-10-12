@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Rauhut, O. W. M.</List>
+			<List>Remes, K.</List>
+			<List>Fechner, R.</List>
+			<List>Cladera, G.</List>
+			<List>Puerta, P.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>Discovery of a short-necked sauropod dinosaur from the Late Jurassic period of Patagonia</Title>
+		<Journal>Nature</Journal>
+		<Volume>435</Volume>
+		<Pages>670-672</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="27">
+		<List>Shunosaurus</List>
+		<List>Haplocanthosaurus</List>
+		<List>Jobaria</List>
+		<List>Amphicoelias</List>
+		<List>Suuwassea</List>
+		<List>Amargasaurus</List>
+		<List>Brachytrachelopan</List>
+		<List>Dicraeosaurus</List>
+		<List>Apatosaurus</List>
+		<List>Barosaurus</List>
+		<List>Dinheirosaurus</List>
+		<List>Diplodocus</List>
+		<List>Tornieria</List>
+		<List>Limaysaurus</List>
+		<List>Nigersaurus</List>
+		<List>Rebbachisaurus</List>
+		<List>Camarasaurus</List>
+		<List>Amazonsaurus</List>
+		<List>Brachiosaurus</List>
+		<List>Tehuelchesaurus</List>
+		<List>Euhelopus</List>
+		<List>higher_titanosaurs</List>
+		<List>Malawisaurus</List>
+		<List>Losillasaurus</List>
+		<List>Mamenchisaurus</List>
+		<List>Cetiosauriscus</List>
+		<List>Omeisaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="154">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Rauhut_etal_2005a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

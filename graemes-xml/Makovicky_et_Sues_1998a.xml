@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Makovicky, P. J.</List>
+			<List>Sues, H.-D.</List>
+		</Author>
+		<Year>1998</Year>
+		<Title>Anatomy and phylogenetic relationships of the theropod dinosaur Microvenator celer from the Lower Cretaceous of Montana</Title>
+		<Journal>American Museum Novitates</Journal>
+		<Volume>3240</Volume>
+		<Pages>1-27</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Herrerasaurus</List>
+		<List>Coelophysis</List>
+		<List>Allosaurus</List>
+		<List>Tyrannosauridae</List>
+		<List>Ornithomimosauria</List>
+		<List>Ornitholestes</List>
+		<List>Coelurus</List>
+		<List>Therizinosauroidea</List>
+		<List>Microvenator</List>
+		<List>Oviraptoridae</List>
+		<List>Caenagnathidae</List>
+		<List>Avialae</List>
+		<List>Dromaeosauridae</List>
+		<List>Troodontidae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="95">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Makovicky_et_Sues_1998a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

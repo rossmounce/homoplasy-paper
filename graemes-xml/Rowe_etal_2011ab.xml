@@ -1,0 +1,74 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Rowe, T. B.</List>
+			<List>Sues, H.-D.</List>
+			<List>Reisz, R. R.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>Dispersal and diversity in the earliest North American sauropodomorph dinosaurs, with a description of a new taxon</Title>
+		<Journal>Proceedings of the Royal Society of London B</Journal>
+		<Volume>278</Volume>
+		<Pages>1044-1053</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="38">
+		<List>Marasuchus</List>
+		<List>Eoraptor</List>
+		<List>Herrerasaurus</List>
+		<List>Guaibasaurus</List>
+		<List>Coelophysis</List>
+		<List>Saturnalia</List>
+		<List>Heterodontosaurus</List>
+		<List>Lesothosaurus</List>
+		<List>Thecodontosaurus</List>
+		<List>Mussaurus</List>
+		<List>Efraasia</List>
+		<List>Coloradisaurus</List>
+		<List>Jingshanosaurus</List>
+		<List>Lessemsaurus</List>
+		<List>Lufengosaurus</List>
+		<List>Plateosauravus</List>
+		<List>Plateosaurus</List>
+		<List>Riojasaurus</List>
+		<List>Seitaad</List>
+		<List>Yunnanosaurus</List>
+		<List>Sarahsaurus</List>
+		<List>Gyposaurus</List>
+		<List>Aardonyx</List>
+		<List>Antetonitrus</List>
+		<List>Blikanasaurus</List>
+		<List>Chinshakiangosaurus</List>
+		<List>Kotasaurus</List>
+		<List>Vulcanodon</List>
+		<List>Barapasaurus</List>
+		<List>Shunosaurus</List>
+		<List>Camarasaurus</List>
+		<List>Omeisaurus</List>
+		<List>Camelotia</List>
+		<List>Melanorosaurus</List>
+		<List>Ammosaurus</List>
+		<List>Anchisaurus</List>
+		<List>Adeopapposaurus</List>
+		<List>Massospondylus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="292">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Rowe_etal_2011ab</Filename>
+	<Parent>Upchurch_etal_2007a</Parent>
+	<Sibling/>
+</SourceTree>

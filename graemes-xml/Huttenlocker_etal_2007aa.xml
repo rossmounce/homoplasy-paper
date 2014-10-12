@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Huttenlocker, A. K.</List>
+			<List>Pardo, J. D.</List>
+			<List>Small, B. J.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title><em>Plemmyradytes shintoni</em>, gen. et sp. nov., an Early Permian amphibamid (Temnospondyli: Dissorophoidea) from the Eskridge Formation, Nebraska</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>27</Volume>
+		<Pages>316-328</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="17">
+		<List>Dendrerpeton</List>
+		<List>Eryopidae</List>
+		<List>Branchiosaurus</List>
+		<List>Apateon</List>
+		<List>Micromelerpeton</List>
+		<List>Amphibamus</List>
+		<List>Platyrhinops</List>
+		<List>Doleserpeton</List>
+		<List>Eoscopus</List>
+		<List>Micropholis</List>
+		<List>Tersomius_sp</List>
+		<List>Tersomius_mosesi</List>
+		<List>Plemmyradytes</List>
+		<List>Ecolsonia</List>
+		<List>Trematopidae</List>
+		<List>Dissorophinae</List>
+		<List>Cacopinae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="67">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Huttenlocker_etal_2007aa</Filename>
+	<Parent>Schoch_et_Rubidge_2005a</Parent>
+	<Sibling/>
+</SourceTree>

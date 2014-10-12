@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sues, H.-D.</List>
+			<List>Reisz, R. R.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>Anatomy and phylogenetic relationships of <em>Sclerosaurus armatus</em> (Amniota: Parareptilia) from the Buntsandstein (Triassic) of Europe</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>28</Volume>
+		<Pages>1031-1042</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List>Millerettidae</List>
+		<List>Lanthanosuchoidea</List>
+		<List>Scutosaurus</List>
+		<List>Macroleter</List>
+		<List>O_dot_kitchingorum</List>
+		<List>Sauropareion</List>
+		<List>Procolophon</List>
+		<List>Tichvinskia</List>
+		<List>Sclerosaurus</List>
+		<List>Scoloparia</List>
+		<List>Hypsognathus</List>
+		<List>Leptopleuron</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="51">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sues_et_Reisz_2008a</Filename>
+	<Parent>deBraga_2003a</Parent>
+	<Sibling/>
+</SourceTree>

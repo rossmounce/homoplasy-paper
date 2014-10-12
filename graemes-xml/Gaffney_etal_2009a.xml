@@ -1,0 +1,83 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Gaffney, E. S.</List>
+			<List>Krause, D. W.</List>
+			<List>Zalmout, I. S.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title><em>Kinkonychelys</em>, a new side-necked turtle (Pelomedusoides: Bothremydidae) from the Late Cretaceous of Madagascar</Title>
+		<Journal>American Museum Novitates</Journal>
+		<Volume>3662</Volume>
+		<Pages>1-25</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="47">
+		<List>Synapsida_slash_Diapsida</List>
+		<List>Proganochelys</List>
+		<List>Australochelys</List>
+		<List>Palaeochersis</List>
+		<List>Kayentachelys</List>
+		<List>Selmacryptodira</List>
+		<List>Chelidae</List>
+		<List>Pelomedusidae</List>
+		<List>Araripemys</List>
+		<List>Euraxemys</List>
+		<List>Dirqadim</List>
+		<List>Podocnemididae</List>
+		<List>Hamadachelys</List>
+		<List>Brasilemys</List>
+		<List>Cearachelys</List>
+		<List>Galianemys_emringeri</List>
+		<List>Galianemys_whitei</List>
+		<List>Kurmademys</List>
+		<List>Kinkonychelys</List>
+		<List>Sankuchemys</List>
+		<List>Foxemys</List>
+		<List>Polysternon</List>
+		<List>Araiochelys</List>
+		<List>Zolhafah</List>
+		<List>Rosasia</List>
+		<List>Bothremys_cooki</List>
+		<List>Bothremys_maghrebiana</List>
+		<List>Bothremys_kellyi</List>
+		<List>Bothremys_arabicus</List>
+		<List>Chedighaii_hutchisoni</List>
+		<List>Chedighaii_barberi</List>
+		<List>Taphrosphys_sulcatus</List>
+		<List>Taphrosphys_congolensis</List>
+		<List>Taphrosphys_ippolitoi</List>
+		<List>Azabbaremys</List>
+		<List>Acleistochelys</List>
+		<List>Labrostochelys</List>
+		<List>Phosphatochelys</List>
+		<List>Ummulisani</List>
+		<List>Rhothonemys</List>
+		<List>Nigeremys</List>
+		<List>Arenila</List>
+		<List>Proterochersis</List>
+		<List>Platychelys</List>
+		<List>Notoemys</List>
+		<List>Dortoka</List>
+		<List>Teneremys</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="175">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Gaffney_etal_2009a</Filename>
+	<Parent>Gaffney_etal_2006a</Parent>
+	<Sibling/>
+</SourceTree>

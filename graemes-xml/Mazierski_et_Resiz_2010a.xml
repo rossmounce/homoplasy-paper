@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Mazierski, D. M.</List>
+			<List>Reisz, R. R.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>Description of a new specimen of <em>Ianthosaurus hardestiorum</em> (Eupelycosauria: Edaphosauridae) and a re-evaluation of edaphosaurid phylogeny</Title>
+		<Journal>Canadian Journal of Earth Sciences</Journal>
+		<Volume>47</Volume>
+		<Pages>901-912</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List>Mycterosaurus</List>
+		<List>Ophiacodon</List>
+		<List>Haptodus</List>
+		<List>Ianthasaurus</List>
+		<List>Glaucosaurus</List>
+		<List>Lupeosaurus</List>
+		<List>Edaphosaurus_colohistion</List>
+		<List>Edaphosaurus_novomexicanus</List>
+		<List>Edaphosaurus_boanerges</List>
+		<List>Edaphosaurus_cruciger</List>
+		<List>Edaphosaurus_pogonias</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="39">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Mazierski_et_Resiz_2010a</Filename>
+	<Parent>Modesto_1995a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Hilton, E. J.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>Comparative osteology and phylogenetic systematics of fossil and living bony-tongue fishes (Actinopterygii, Teleostei, Osteoglossomorpha)</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>137</Volume>
+		<Pages>1-100</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="20">
+		<List>Elops</List>
+		<List>Lycoptera</List>
+		<List>Eohiodon</List>
+		<List>Hiodon</List>
+		<List>Joffrichthys</List>
+		<List>Heterotis</List>
+		<List>Arapaima</List>
+		<List>Phareodus</List>
+		<List>Pantodon</List>
+		<List>Singida</List>
+		<List>Scleropages</List>
+		<List>Osteoglossum</List>
+		<List>Ostariostoma</List>
+		<List>Petrocephalus</List>
+		<List>Gnathonemus</List>
+		<List>Campylomormyrus</List>
+		<List>Chitala</List>
+		<List>Xenomystus</List>
+		<List>Papyrocranus</List>
+		<List>Palaeonotopterus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="72">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Hilton_2003a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

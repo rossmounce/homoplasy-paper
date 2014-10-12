@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Long, J. A.</List>
+			<List>Choo, B.</List>
+			<List>Young, G. C.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>A new basal actinopterygian fish from the Middle Devonian Aztec Siltstone of Antarctica</Title>
+		<Journal>Antarctic Science</Journal>
+		<Volume>20</Volume>
+		<Pages>393-412</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="19">
+		<List>Cheirolepis_canadensis</List>
+		<List>Cheirolepis_schultzei</List>
+		<List>Cheirolepis_trailli</List>
+		<List>Cuneognathus_gardineri</List>
+		<List>Donnrosenia_schaefferi</List>
+		<List>Howqualepis_rostridens</List>
+		<List>Kentuckia_hlavini</List>
+		<List>Krasnayorichthys_jesseni</List>
+		<List>Limnomnis_delayni</List>
+		<List>Mimia_toobsi</List>
+		<List>Mimia_sp_nov</List>
+		<List>Moythomasia_durgaringa</List>
+		<List>Moythomasia_nitida</List>
+		<List>Osorioichthys_marginis</List>
+		<List>Stegotrachelus_finlayi</List>
+		<List>Tegeolepis_clarki</List>
+		<List>Onychodus_jandemarrai</List>
+		<List>Miguashaia_bureaui</List>
+		<List>Uranolophus_wyomingensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="71">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Long_etal_2008a</Filename>
+	<Parent>Friedman_et_Blom_2006a</Parent>
+	<Sibling/>
+</SourceTree>

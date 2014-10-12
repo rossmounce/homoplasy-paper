@@ -1,0 +1,69 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Clack, J. A.</List>
+			<List>Klembara, J.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>An articulated specimen of <em>Chroniosaurus dongusensis</em> and the morphology and relationships of the choniosuchids</Title>
+		<Journal>Special Papers in Palaeontology</Journal>
+		<Volume>81</Volume>
+		<Pages>15-42</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="34">
+		<List>Eusthenopteron</List>
+		<List>Acanthostega</List>
+		<List>Adelogyrinus</List>
+		<List>Anthracosaurus</List>
+		<List>Archeria</List>
+		<List>Ariekanerpeton</List>
+		<List>Balanerpeton</List>
+		<List>Baphetes</List>
+		<List>Bruktererpeton</List>
+		<List>Caerorhachis</List>
+		<List>Casineria</List>
+		<List>Chroniosaurus</List>
+		<List>Crassigyrinus</List>
+		<List>Dendrerpeton</List>
+		<List>Discosauriscus</List>
+		<List>Eoherpeton</List>
+		<List>Eucritta</List>
+		<List>Gephyrostegus</List>
+		<List>Greererpeton</List>
+		<List>Ichthyostega</List>
+		<List>Loxomma</List>
+		<List>Megalocephalus</List>
+		<List>Microbrachis</List>
+		<List>Paleothyris</List>
+		<List>Pederpes</List>
+		<List>Pholiderpeton</List>
+		<List>Proterogyrinus</List>
+		<List>Ptyonius</List>
+		<List>Saxonerpeton</List>
+		<List>Seymouria</List>
+		<List>Silvanerpeton</List>
+		<List>Utegenia</List>
+		<List>Westlothiana</List>
+		<List>Whatcheeria</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="327">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Clack_et_Klembara_2009a</Filename>
+	<Parent>Ruta_etal_2003a</Parent>
+	<Sibling/>
+</SourceTree>

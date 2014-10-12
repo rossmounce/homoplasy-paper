@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Damiani, R.</List>
+			<List>Vasconcelos, C.</List>
+			<List>Renaut, A.</List>
+			<List>Hancox, J.</List>
+			<List>Yates, A.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title><em>Dolichuranus primaevus</em> (Therapisda: Anomodontia) from the Middle Triassic of Namibia and its phylogenetic relationships</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>50</Volume>
+		<Pages>1531-1546</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="24">
+		<List>Patranomodon</List>
+		<List>Aulacephalodon</List>
+		<List>Cistecephalus</List>
+		<List>Daptocephalus</List>
+		<List>Dicynodon</List>
+		<List>Diictodon</List>
+		<List>Dinanomodon</List>
+		<List>Dolichuranus</List>
+		<List>Endothiodon</List>
+		<List>Eodicynodon</List>
+		<List>Ischigualastia</List>
+		<List>Kannemeyeria</List>
+		<List>Kingoria</List>
+		<List>Lystrosaurus</List>
+		<List>Myosaurus</List>
+		<List>Oudenodon</List>
+		<List>Pelanomodon</List>
+		<List>Pristerodon</List>
+		<List>Rhachiocephalus</List>
+		<List>Robertia</List>
+		<List>Shansiodon</List>
+		<List>Stahleckeria</List>
+		<List>Tetragonias</List>
+		<List>Vinceria</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="56">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Damiani_etal_2007a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

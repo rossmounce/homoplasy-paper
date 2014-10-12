@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Jalil, N.-E.</List>
+			<List>Janvier, P.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>Les pareiasaures (Amniota, Parareptilia) du Permien supérieur du Bassin d’Argana, Maroc</Title>
+		<Journal>Geodiversitas</Journal>
+		<Volume>27</Volume>
+		<Pages>35-132</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="32">
+		<List>Millerettidae</List>
+		<List>Nycteroleteridae</List>
+		<List>Nyctiphruretidae</List>
+		<List>Owenetta</List>
+		<List>Barasaurus</List>
+		<List>Procolophonidae</List>
+		<List>Lanthanosuchidae</List>
+		<List>Sclerosaurus</List>
+		<List>Bradysaurus_baini</List>
+		<List>Bradysaurus_seeleyi</List>
+		<List>Nochelesaurus</List>
+		<List>Embrithosaurus</List>
+		<List>Deltavjatia</List>
+		<List>Shansisaurus</List>
+		<List>Shihtienfenia</List>
+		<List>Pareiasuchus_peringueyi</List>
+		<List>Pareiasuchus_nasicornis</List>
+		<List>Pareiassaure_de_Welgevonden</List>
+		<List>Pareiasaurus</List>
+		<List>Scutosaurus</List>
+		<List>Sanchuansaurus</List>
+		<List>Pareiasaure_de_Kupferschiefer</List>
+		<List>Elginia</List>
+		<List>Provelosaurus_americanus</List>
+		<List>Anthodon_serrarius</List>
+		<List>Pumiliopareia_pricei</List>
+		<List>Nanoparia_luckhoffi</List>
+		<List>Bunostegos_akokanensis</List>
+		<List>Tortues</List>
+		<List>Arganaceras_vacanti</List>
+		<List>Pareiasauria_Argana1</List>
+		<List>Pareiasauria_Argana2</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="128">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Jalil_et_Janvier_2005a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

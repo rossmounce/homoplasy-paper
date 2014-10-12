@@ -1,0 +1,87 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Nesbitt, S. J.</List>
+			<List>Turner, A. H.</List>
+			<List>Spaulding, M.</List>
+			<List>Conrad, J. L.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>The theropod furcula</Title>
+		<Journal>Journal of Morphology</Journal>
+		<Volume>270</Volume>
+		<Pages>856-879</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="50">
+		<List>Euparkeria_capensis</List>
+		<List>Pseudosuchia</List>
+		<List>Ornithischia</List>
+		<List>Sauropodomorpha</List>
+		<List>Coelophysis_bauri</List>
+		<List>Coelophysis_rhodesiensis</List>
+		<List>Syntarsus_kayentakatae</List>
+		<List>Segisaurus_halli</List>
+		<List>Allosaurus_fragilis</List>
+		<List>Aerosteon_riocoloradensis</List>
+		<List>Suchomimus_tenerensis</List>
+		<List>Huaxiagnathus_orientalis</List>
+		<List>Scipionyx_samniticus</List>
+		<List>Protarchaeopteryx_robusta</List>
+		<List>Tyrannosaurus_rex</List>
+		<List>Albertosaurus_sarcophagus</List>
+		<List>Gorgosaurus_libratus</List>
+		<List>Daspltosaurus_torosus</List>
+		<List>UUVP_11689</List>
+		<List>Beipiaosaurus_inexpectus</List>
+		<List>Falcarius_utahensis</List>
+		<List>Neimongosaurus_yangi</List>
+		<List>Caudipteryx_zoui</List>
+		<List>Mei_long</List>
+		<List>Sinornithoides_youngi</List>
+		<List>Velociraptor_mongoliensis</List>
+		<List>Sinornithosaurus_millenii</List>
+		<List>Bambiraptor_feinbergorum</List>
+		<List>Buitreraptor_gonzalezorum</List>
+		<List>Microraptor_zhaoianus</List>
+		<List>Archaeopteryx_lithographica</List>
+		<List>Sapeornis_chaoyangensis</List>
+		<List>Jeholornis_prima</List>
+		<List>Jixiangornis_orientalis</List>
+		<List>Confuciusornis_sanctus</List>
+		<List>Changchengornis_hengdaoziensis</List>
+		<List>Iberomesornis_romerali</List>
+		<List>Concornis_lacustris</List>
+		<List>Yixianornis_graubai</List>
+		<List>Yanornis_martini</List>
+		<List>Hongshanornis_longicresta</List>
+		<List>Ichthyornis_dispar</List>
+		<List>Gansus_yumenensis</List>
+		<List>Hesperornis_regalis</List>
+		<List>Iaceornis_marshi</List>
+		<List>Oviraptor_philoceratops</List>
+		<List>Citipati_osmolskae</List>
+		<List>Khaan_mckennai</List>
+		<List>Heyuannia_huangi</List>
+		<List>Ingenia_yanshini</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="14">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix (first 100,000 mpts only).</Notes>
+	<Filename>Nesbitt_etal_2009c</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

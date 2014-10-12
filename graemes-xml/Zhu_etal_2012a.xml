@@ -1,0 +1,68 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Zhu, M.</List>
+			<List>Yu, X.-B.</List>
+			<List>Lu, J.</List>
+			<List>Qiao, T.</List>
+			<List>Zhao, W.-J.</List>
+			<List>Jia, L.-T.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>Earliest known coelacanth skull extends the range of anatomically modern coelacanths to the Early Devonian</Title>
+		<Journal>Nature Communications</Journal>
+		<Volume>3</Volume>
+		<Pages>772</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="29">
+		<List>Actinopterygii</List>
+		<List>Porolepiformes</List>
+		<List>Allenypterus</List>
+		<List>Axelrodichthys</List>
+		<List>Caridosuctor</List>
+		<List>Chinlea</List>
+		<List>Coccoderma</List>
+		<List>Coelacanthus</List>
+		<List>Diplocercides</List>
+		<List>Diplurus</List>
+		<List>Euporosteus</List>
+		<List>Gavinia</List>
+		<List>Garnbergia</List>
+		<List>Hadronector</List>
+		<List>Holophagus</List>
+		<List>Holopterygius</List>
+		<List>Latimeria</List>
+		<List>Laugia</List>
+		<List>Libys</List>
+		<List>Lochmocercus</List>
+		<List>Macropoma</List>
+		<List>Mawsonia</List>
+		<List>Miguashaia</List>
+		<List>Polyosteorhynchus</List>
+		<List>Rhabdoderma</List>
+		<List>Sassenia</List>
+		<List>Spermatodus</List>
+		<List>Undina</List>
+		<List>Whiteia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="115">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Zhu_etal_2012a</Filename>
+	<Parent>Friedman_et_Coates_2006a</Parent>
+	<Sibling/>
+</SourceTree>

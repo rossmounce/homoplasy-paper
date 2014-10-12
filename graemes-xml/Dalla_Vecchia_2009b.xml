@@ -1,0 +1,61 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Dalla Vecchia, F. M.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>Anatomy and systematics of the pterosaur Carniadactylus gen. n. rosenfeldi (Dalla Vecchia, 1995)</Title>
+		<Journal>Rivista Italiana di Paleontologia e Stratigrafia</Journal>
+		<Volume>115</Volume>
+		<Pages>159-188</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="27">
+		<List>Macrocnemus_bassanii</List>
+		<List>Ticinosuchus_ferox</List>
+		<List>Herrerasaurus_ischigualastensis</List>
+		<List>Preondactylus_buffarinii</List>
+		<List>Austriadactylus_cristatus</List>
+		<List>BSP1994_I_51</List>
+		<List>Eudimorphodon_cromptonellus</List>
+		<List>MCSNB_3359</List>
+		<List>Peteinosaurus_zambellii</List>
+		<List>Dimorphodon_macronyx</List>
+		<List>Campylognathoides_spp</List>
+		<List>Eudimorphodon_ranzii</List>
+		<List>MCSNB_8950</List>
+		<List>Carniadactylus_rosenfeldi</List>
+		<List>Caviramus_schesaplanensis</List>
+		<List>Raeticodactylus_filisurensis</List>
+		<List>Dorygnathus_banthensis</List>
+		<List>Sordes_pilosus</List>
+		<List>Scaphognathus_crassirostris</List>
+		<List>Rhamphorhynchus_muensteri</List>
+		<List>Anurognathus_ammoni</List>
+		<List>Jeholopterus_ningchengensis</List>
+		<List>Batrachognathus_volans</List>
+		<List>Dendrorhynchoides_curvidentatus</List>
+		<List>Pterodactylus_antiquus</List>
+		<List>Pteranodon_longiceps</List>
+		<List>Anhanguera_spp</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="73">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Dalla_Vecchia_2009b</Filename>
+	<Parent>Unwin_2003b</Parent>
+	<Sibling/>
+</SourceTree>

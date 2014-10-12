@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Taylor, R. S.</List>
+			<List>Shen, Y.-B.</List>
+			<List>Schram, F. R.</List>
+		</Author>
+		<Year>1998</Year>
+		<Title>New pygocephalomorph crustaceans from the Permian of China and their phylogenetic relationships</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>41</Volume>
+		<Pages>815-834</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="31">
+		<List>Hypothetical_Ancestor</List>
+		<List>Lophogaster_intermedius</List>
+		<List>Gnathophausia_longispina</List>
+		<List>Paralophogaster_glaber</List>
+		<List>Eucopia_unguiculata</List>
+		<List>Chalaraspidium_alatum</List>
+		<List>Ceratolepis_hamata</List>
+		<List>Neognathophausia_ingens</List>
+		<List>Peachocaris_strongi</List>
+		<List>Schimperella_beneckei</List>
+		<List>Mysis_flexuosa</List>
+		<List>Pygocephalus_cooperi</List>
+		<List>Pygocephalus_dubius</List>
+		<List>Pygocephalus_aisenvergi</List>
+		<List>Tealliocaris_woodwardi</List>
+		<List>Pseudogalathea_macconochiei</List>
+		<List>Fujianocaris_bifurcatus</List>
+		<List>Tylocaris_asiaticus</List>
+		<List>Chaocaris_chinensis</List>
+		<List>Anthracaris_gracilis</List>
+		<List>Pseudotealliocaris_caudifimbria</List>
+		<List>Pseudotealliocaris_etheridgei</List>
+		<List>Pseudotealliocaris_palinscari</List>
+		<List>Jerometichenoria_grandis</List>
+		<List>Mamayocaris_jepseni</List>
+		<List>Mamayocaris_jaskoski</List>
+		<List>Notocaris_tapscotti</List>
+		<List>Paulocaris_pachecoi</List>
+		<List>Liocaris</List>
+		<List>Pygaspis_brasiliensis</List>
+		<List>Pygaspis_ginsburghi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="33">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Taylor_etal_1998a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

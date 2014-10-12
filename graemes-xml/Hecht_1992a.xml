@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Hecht, M. K.</List>
+		</Author>
+		<Year>1992</Year>
+		<Title>A new choristodere (Reptilia, Diapsida) from the Oligocene of France: an example of the Lazarus Effect</Title>
+		<Journal>Geobios</Journal>
+		<Volume>25</Volume>
+		<Pages>115-131</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="8">
+		<List>Araeoscelidia</List>
+		<List>Khurendukbosaurus</List>
+		<List>Cteniogenys</List>
+		<List>Lazarussuchus</List>
+		<List>Champsosaurus</List>
+		<List>Tchoira</List>
+		<List>Ikechosaurus</List>
+		<List>Simoedosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="58">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Hecht_1992a</Filename>
+	<Parent>Evans_1990a</Parent>
+	<Sibling/>
+</SourceTree>

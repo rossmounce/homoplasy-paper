@@ -1,0 +1,71 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Mateus, O.</List>
+			<List>Jacobs, L. E.</List>
+			<List>Schulp, A. S.</List>
+			<List>Polcyn, M. J.</List>
+			<List>Tavares, T. S.</List>
+			<List>Neto, A. B.</List>
+			<List>Morais, M. L.</List>
+			<List>Antunes, M. T.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title><em>Angolatitan adamastor</em>, a new sauropod dinosaur and the first record from Angola</Title>
+		<Journal>Anais da Academia Brasileira de Ciencias</Journal>
+		<Volume>83</Volume>
+		<Pages>221-233</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="30">
+		<List>Theropoda</List>
+		<List>Prosauropoda</List>
+		<List>Vulcanodon</List>
+		<List>Shunosaurus</List>
+		<List>Barapasaurus</List>
+		<List>Patagosaurus</List>
+		<List>Omeisaurus</List>
+		<List>Mamenchisaurus</List>
+		<List>Jobaria</List>
+		<List>Haplocanthosaurus</List>
+		<List>Apatosaurus</List>
+		<List>Barosaurus</List>
+		<List>Diplodocus</List>
+		<List>Dicraeosaurus</List>
+		<List>Amargasaurus</List>
+		<List>Nigersaurus</List>
+		<List>Rayososaurus</List>
+		<List>Rebbachisaurus</List>
+		<List>Camarasaurus</List>
+		<List>Brachiosaurus</List>
+		<List>Angolatitan</List>
+		<List>Euhelopus</List>
+		<List>Malawisaurus</List>
+		<List>T.colberti</List>
+		<List>Alamosaurus</List>
+		<List>Opisthocoelicaudia</List>
+		<List>Neuquensaurus</List>
+		<List>Saltasaurus</List>
+		<List>Nemegtosaurus</List>
+		<List>Rapetosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="234">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Mateus_etal_2011aa</Filename>
+	<Parent>Wilson_2002a</Parent>
+	<Sibling/>
+</SourceTree>

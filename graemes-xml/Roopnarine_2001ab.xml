@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Roopnarine, P. D.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>A history of diversification, extinction, and invasion in tropical America as derived from species-level phylogenies of chionine genera (Family Veneridae)</Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>75</Volume>
+		<Pages>644-657</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="19">
+		<List>Panchione_ulocyma</List>
+		<List>Lirophora_athleta</List>
+		<List>Chione_chipolana</List>
+		<List>Chione_cancellata</List>
+		<List>Chionopsis_gnidia</List>
+		<List>C_amathusia</List>
+		<List>C_jamaniana</List>
+		<List>C_ornatissima</List>
+		<List>C_montanitensis</List>
+		<List>C_procancellata</List>
+		<List>C_woodwardi</List>
+		<List>Puberella_pubera</List>
+		<List>P_pulicaria</List>
+		<List>P_intapurpurea</List>
+		<List>P_purpurissata</List>
+		<List>P_cortinaria</List>
+		<List>P_sawkinsi</List>
+		<List>P_cribraria</List>
+		<List>P_bainbridgensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="24">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Roopnarine_2001ab</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

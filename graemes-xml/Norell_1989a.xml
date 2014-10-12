@@ -1,0 +1,40 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Norell, M. A.</List>
+		</Author>
+		<Year>1989</Year>
+		<Title>The higher level relationships of the extant Crocodylia</Title>
+		<Journal>Journal of Herpetology</Journal>
+		<Volume>23</Volume>
+		<Pages>325-335</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="6">
+		<List>Outgroup_2</List>
+		<List>Outgroup_1</List>
+		<List>Gavialids</List>
+		<List>Crocodylids</List>
+		<List>Alligatorids</List>
+		<List>Tomistoma</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="12">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Norell_1989a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Gauthier, J.</List>
+			<List>Estes, R.</List>
+			<List>de Queiroz, K.</List>
+		</Author>
+		<Year>1988</Year>
+		<Title>A phylogenetic analysis of Lepidosauromorpha</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>15-98</Pages>
+		<Booktitle>The Phylogenetic Relationships of the Lizard Families</Booktitle>
+		<Publisher>Stanford University Press</Publisher>
+		<City>Palo Alto</City>
+		<Editor>
+			<List>Estes, R.</List>
+			<List>Pregill, G.</List>
+		</Editor>
+	</Source>
+	<Taxa number="13">
+		<List>Tangasaurs</List>
+		<List>Youngina</List>
+		<List>Acerosodontosaurus</List>
+		<List>Paliguana</List>
+		<List>Palaeagama</List>
+		<List>Saurosternon</List>
+		<List>Kuehneosaurs</List>
+		<List>Sphenodonts</List>
+		<List>Homoeosaurs</List>
+		<List>Sapheosaurs</List>
+		<List>Clevosaurs</List>
+		<List>Gephyrosaurus</List>
+		<List>Squamates</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="171">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Gauthier_etal_1988c</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,60 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Martinez, R. N.</List>
+			<List>Sereno, P. C.</List>
+			<List>Alcober, O. A.</List>
+			<List>Colombi, C. E.</List>
+			<List>Renne, P. R.</List>
+			<List>Montanez, I. P.</List>
+			<List>Currie, B. S.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>A basal dinosaur from the dawn of the dinosaur era in southwestern Pangaea</Title>
+		<Journal>Science</Journal>
+		<Volume>331</Volume>
+		<Pages>206-210</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="20">
+		<List>DINOSAUROMORPH_ANC</List>
+		<List>LAGERPETIDAE</List>
+		<List>Marasuchus</List>
+		<List>SILESAURIDAE</List>
+		<List>Lesothosaurus</List>
+		<List>HETERODONTOSAURIDAE</List>
+		<List>GENASAURIA</List>
+		<List>SAUROPODIFORMES</List>
+		<List>Eoraptor</List>
+		<List>Panphagia</List>
+		<List>Saturnalia</List>
+		<List>Herrerasaurus</List>
+		<List>Staurikosaurus</List>
+		<List>Eodromaeus</List>
+		<List>Ceratosaurus</List>
+		<List>Tawa</List>
+		<List>Dilophosaurus</List>
+		<List>Syntarsus_k</List>
+		<List>Coelophysis</List>
+		<List>Syntarsus_r</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="139">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Martinez_etal_2011a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

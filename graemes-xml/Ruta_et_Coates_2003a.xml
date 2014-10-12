@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ruta, M.</List>
+			<List>Coates, M. I.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>Bones, molecules, and crown-tetrapod origins</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>224-262</Pages>
+		<Booktitle>Telling the Evolutionary Time: Molecular Clocks and the Fossil Record</Booktitle>
+		<Publisher>Taylor &amp; Francis</Publisher>
+		<City>London</City>
+		<Editor>
+			<List>Donoghue, P. C. J.</List>
+			<List>Smith, M. P.</List>
+		</Editor>
+	</Source>
+	<Taxa number="27">
+		<List>Panderichthys</List>
+		<List>Elginerpeton</List>
+		<List>Obruchevichthys</List>
+		<List>Ichthyostega</List>
+		<List>Ventastega</List>
+		<List>Metaxygnathus</List>
+		<List>Acanthostega</List>
+		<List>Whatcheeria</List>
+		<List>Tulerpeton</List>
+		<List>Crassigyrinus</List>
+		<List>Greererpeton</List>
+		<List>Megalocephalus</List>
+		<List>Pholiderpeton</List>
+		<List>Cochleosaurus</List>
+		<List>Phonerpeton</List>
+		<List>Eoherpeton</List>
+		<List>Proterogyrinus</List>
+		<List>Gephyrostegus</List>
+		<List>Balanerpeton</List>
+		<List>Platyrhinops</List>
+		<List>Microbrachis</List>
+		<List>Discosauriscus</List>
+		<List>Eocaptorhinus</List>
+		<List>Diploceraspis</List>
+		<List>Sauropleura</List>
+		<List>Ophiacodon</List>
+		<List>Caerorhachis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="61">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ruta_et_Coates_2003a</Filename>
+	<Parent>Ahlberg_et_Clack_1998a</Parent>
+	<Sibling/>
+</SourceTree>

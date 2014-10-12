@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Averianov, A. O.</List>
+			<List>Voronkevich, A. V.</List>
+			<List>Leshchinskiy, S. V.</List>
+			<List>Fayngertz, A. V.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>A ceratopsian dinosaur Psittacosaurus sibiricus from the Early Cretaceous of West Siberia, Russia and its phylogenetic relationships</Title>
+		<Journal>Journal of Systematic Palaeontology</Journal>
+		<Volume>4</Volume>
+		<Pages>359-395</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List>Heterodontosaurus_tucki</List>
+		<List>Hypsilophodon_foxii</List>
+		<List>Protoceratops_andrewsi</List>
+		<List>P._neimongoliensis</List>
+		<List>P._ordosensis</List>
+		<List>P._mongoliensis</List>
+		<List>P._meileyingensis</List>
+		<List>P._xinjiangensis</List>
+		<List>P._mazongshanensis</List>
+		<List>Psittacosaurus_sp</List>
+		<List>P._sinensis</List>
+		<List>P._sibiricus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="31">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Averianov_etal_2006a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

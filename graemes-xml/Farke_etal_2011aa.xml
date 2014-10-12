@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Farke, A. A.</List>
+			<List>Ryan, M. J.</List>
+			<List>Barrett, P. M.</List>
+			<List>Tanke, D. H.</List>
+			<List>Braman, D. R.</List>
+			<List>Loewen, M. A.</List>
+			<List>Graham, M. R.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>A new centrosaurine from the Late Cretaceous of Alberta, Canada, and the evolution of parietal ornamentation in horned dinosaurs</Title>
+		<Journal>Acta Palaeontologica Polonica</Journal>
+		<Volume>56</Volume>
+		<Pages>691-702</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="18">
+		<List>Protoceratops_andrewsi</List>
+		<List>Turanoceratops_tardabilis</List>
+		<List>Zuniceratops_christopheri</List>
+		<List>Diabloceratops_eatoni</List>
+		<List>Albertaceratops_nesmoi</List>
+		<List>Avaceratops_lammersi</List>
+		<List>Sinoceratops_zhuchengensis</List>
+		<List>Centrosaurus_apertus</List>
+		<List>Centrosaurus_brinkmani</List>
+		<List>Styracosaurus_albertensis</List>
+		<List>Spinops_sternbergorum</List>
+		<List>Rubeosaurus_ovatus</List>
+		<List>Einiosaurus_procurvicornis</List>
+		<List>Achelousaurus_horneri</List>
+		<List>Pachyrhinosaurus_canadensis</List>
+		<List>Pachyrhinosaurus_lakustai</List>
+		<List>Chasmosaurus_belli</List>
+		<List>Pentaceratops_sternbergii</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="97">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Farke_etal_2011aa</Filename>
+	<Parent/>
+	<Sibling>Farke_etal_2011ab</Sibling>
+</SourceTree>

@@ -1,0 +1,78 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lamanna, M. C.</List>
+			<List>Sues, H.-D.</List>
+			<List>Schachner, E. R.</List>
+			<List>Lyson, T. R.</List>
+		</Author>
+		<Year>2014</Year>
+		<Title>A new large-bodied oviraptorosaurian theropod dinosaur from the latest Cretaceous of western North America</Title>
+		<Journal>PLOS ONE</Journal>
+		<Volume>9</Volume>
+		<Pages>e92022</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="41">
+		<List>Herrerasaurus_ischigualastensis</List>
+		<List>Velociraptor_mongoliensis</List>
+		<List>Archaeopteryx_lithographica</List>
+		<List>Incisivosaurus_gauthieri</List>
+		<List>Caudipteryx_zoui</List>
+		<List>Avimimus_portentosus</List>
+		<List>Microvenator_celer</List>
+		<List>Oviraptor_philoceratops</List>
+		<List>Rinchenia_mongoliensis</List>
+		<List>Citipati_osmolskae</List>
+		<List>Zamyn_Khondt_oviraptorid</List>
+		<List>Khaan_mckennai</List>
+		<List>Conchoraptor_gracilis</List>
+		<List>Machairasaurus_leptonychus</List>
+		<List>Nemegtomaia_barsboldi</List>
+		<List>Heyuannia_huangi</List>
+		<List>Ingenia_yanshini</List>
+		<List>Gigantoraptor_erlianensis</List>
+		<List>Caenagnathasia_martinsoni</List>
+		<List>Elmisaurus_elegans</List>
+		<List>Leptorhynchos_gaddisi</List>
+		<List>Chirostenotes_pergracilis</List>
+		<List>Caenagnathus_collinsi</List>
+		<List>Anzu_wyliei</List>
+		<List>Hagryphus_giganteus</List>
+		<List>Elmisaurus_rarus</List>
+		<List>Nomingia_gobiensis</List>
+		<List>Epichirostenotes_curriei</List>
+		<List>Alberta_dentary_morph_3</List>
+		<List>Caenagnathus_sternbergi</List>
+		<List>Macrophalangia_canadensis</List>
+		<List>Banji_long</List>
+		<List>Caudipteryx_dongi</List>
+		<List>Ganzhousaurus_nankangensis</List>
+		<List>Jiangxisaurus_ganzhouensis</List>
+		<List>Nankangia_jiangxiensis</List>
+		<List>Ojoraptorsaurus_boerei</List>
+		<List>Shixinggia_oblita</List>
+		<List>Similicaudipteryx_yixianensis</List>
+		<List>Wulatelong_gobiensis</List>
+		<List>Yulong_mini</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="230">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lamanna_etal_2014a</Filename>
+	<Parent>Longrich_etal_2013a</Parent>
+	<Sibling/>
+</SourceTree>

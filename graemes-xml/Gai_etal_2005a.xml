@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Gai, Z.-K.</List>
+			<List>Zhu, M.</List>
+			<List>Zhao, W.-J.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>New material of eugaleaspids from the Silurian of Changxing, Zhejiang, China, with a discussion of the eugaleaspid phylogeny</Title>
+		<Journal>Vertebrata PalAsiatica</Journal>
+		<Volume>43</Volume>
+		<Pages>61-75</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="15">
+		<List>D_hunanensis</List>
+		<List>E_xujiachongensis</List>
+		<List>E_lianhuashanensis</List>
+		<List>E_changi</List>
+		<List>E_xiushanensis</List>
+		<List>P_yuhaii</List>
+		<List>T_magnoculus</List>
+		<List>N_maeandrine</List>
+		<List>Y_major</List>
+		<List>S_shankouensis</List>
+		<List>S_xikengensis</List>
+		<List>S_zhejiangensis</List>
+		<List>M_lehmani</List>
+		<List>C_gui</List>
+		<List>H_guodingshanensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="23">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Gai_etal_2005a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lee, M. S. Y.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>Molecules, morphology, and the monophyly of diapsid reptiles</Title>
+		<Journal>Contributions to Zoology</Journal>
+		<Volume>70</Volume>
+		<Pages>1-18</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="29">
+		<List>OUTGROUP</List>
+		<List>Caseidae</List>
+		<List>Ophiacodontidae</List>
+		<List>Edaphosauridae</List>
+		<List>Sphenacodontidae</List>
+		<List>Gorgonopsia</List>
+		<List>CYNODONTIA</List>
+		<List>Millerettidae</List>
+		<List>Acleistorhinidae</List>
+		<List>Lanthanosuchidae</List>
+		<List>Nycteroleteridae</List>
+		<List>Procolophonoidea</List>
+		<List>Pareiasauridae</List>
+		<List>TESTUDINES</List>
+		<List>Captorhinidae</List>
+		<List>Protorothyrididae</List>
+		<List>Araeoscelididae</List>
+		<List>Claudiosauridae</List>
+		<List>Younginiformes</List>
+		<List>Placodontia</List>
+		<List>Eosauropterygia</List>
+		<List>Kuehneosauridae</List>
+		<List>RHYNCHOCEPHALIA</List>
+		<List>SQUAMATA</List>
+		<List>Choristodera</List>
+		<List>Prolacertiformes</List>
+		<List>ARCHOSAURIFORMES</List>
+		<List>Rhynchosauria</List>
+		<List>Trilophosauridae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="216">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lee_2001a</Filename>
+	<Parent>deBraga_et_Rieppel_1997a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Holmes, R. B.</List>
+			<List>Forster, C. A.</List>
+			<List>Ryan, M. J.</List>
+			<List>Shepherd, K. M.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>A new species of <em>Chasmosaurus</em> (Dinosauria: Ceratopsia) from the Dinosaur Park Formation of southern Alberta</Title>
+		<Journal>Canadian Journal of Earth Sciences</Journal>
+		<Volume>38</Volume>
+		<Pages>1423-1438</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="8">
+		<List>Outgroup</List>
+		<List>centrosaurines</List>
+		<List>Other_chasmosaurines</List>
+		<List>Chasmosaurus_mariscalensis</List>
+		<List>Pentaceratops_sternbergi</List>
+		<List>Chasmosaurus_russelli</List>
+		<List>Chasmosaurus_irvinensis</List>
+		<List>Chasmosaurus_belli</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="30">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Holmes_etal_2001aa</Filename>
+	<Parent/>
+	<Sibling>Holmes_etal_2001ab</Sibling>
+</SourceTree>

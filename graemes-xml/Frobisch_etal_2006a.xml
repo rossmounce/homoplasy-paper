@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Frobisch, N. B.</List>
+			<List>Sander, P. M.</List>
+			<List>Rieppel, O.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>A new species of <em>Cymbospondylus</em> (Diapsida, Ichthyosauria) from the Middle Triassic of Nevada and a re-evaluation of the skull osteology of the genus</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>147</Volume>
+		<Pages>515-538</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="15">
+		<List>Utatsusaurus</List>
+		<List>Chaohusaurus</List>
+		<List>Mixosaurus_cornalianus</List>
+		<List>Cymbospondylus_petrinus</List>
+		<List>Cymbospondylus_buchseri</List>
+		<List>Cymbospondylus_nichollsi</List>
+		<List>Shastasaurus</List>
+		<List>Shonisaurus</List>
+		<List>Basanosaurus</List>
+		<List>Toretocnemus</List>
+		<List>Californosaurus</List>
+		<List>Metashastasaurus</List>
+		<List>Suevoleviathan</List>
+		<List>Ichthyosaurus</List>
+		<List>Stenopterygius</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="44">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Frobisch_etal_2006a</Filename>
+	<Parent>Nicholls_et_Manabe_2001a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Hastings, A. K.</List>
+			<List>Bloch, J. I.</List>
+			<List>Cadena, E. A.</List>
+			<List>Jaramillo, C. A.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>A new small short-snouted dyrosaurid (Crocodylomorpha, Mesoeucrocodylia) from the Paleocene of northeastern Colombia</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>30</Volume>
+		<Pages>139-162</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="16">
+		<List>Sarcosuchus_imperator</List>
+		<List>Terminonaris_robusta</List>
+		<List>Elosuchus_cherifiensis</List>
+		<List>Arambourgisuchus_khouribgaensis</List>
+		<List>Hyposaurus_rogersii</List>
+		<List>Rhabdognathus_keiniensis</List>
+		<List>Rhabdognathus_aslerensis</List>
+		<List>Dyrosaurus_phosphaticus</List>
+		<List>Dyrosaurus_maghribensis</List>
+		<List>Chenanisuchus_lateroculi</List>
+		<List>Sokotosuchus_ianwilsoni</List>
+		<List>Phosphatosaurus_gavialoides</List>
+		<List>Congosaurus_bequaerti</List>
+		<List>Atlantosuchus_coupatezi</List>
+		<List>Guarinisuchus_munizi</List>
+		<List>Cerrejonisuchus_improcerus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="82">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Hastings_etal_2010a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

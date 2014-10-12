@@ -1,0 +1,70 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Bittencourt, J. S.</List>
+			<List>Arcucci, A. B.</List>
+			<List>Marsicano, C. A.</List>
+			<List>Langer, M. C.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>Osteology of the Middle Triassic archosaur <em>Lewisuchus admixtus</em> Romer (Chanares Formation, Argentina), its inclusivity, and relationships amongst early dinosauromorphs</Title>
+		<Journal>Journal of Systematic Palaeontology</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="33">
+		<List>Euparkeria_capensis</List>
+		<List>Lagerpeton_chanarensis</List>
+		<List>Dromomeron_gregorii</List>
+		<List>Dromomeron_romeri</List>
+		<List>Marasuchus_lilloensis</List>
+		<List>Eucoelophysis_baldwini</List>
+		<List>Lewisuchus_admixtus</List>
+		<List>Silesaurus_opolensis</List>
+		<List>Pseudolagosuchus_major</List>
+		<List>Sacisaurus_agudoensis</List>
+		<List>Saturnalia_tupiniquim</List>
+		<List>Efraasia_minor</List>
+		<List>Plateosaurus_engelhardti</List>
+		<List>Eoraptor_lunensis</List>
+		<List>Staurikosaurus_pricei</List>
+		<List>Herrerasaurus_ischigualastensis</List>
+		<List>Tawa_hallae</List>
+		<List>Coelophysis_bauri</List>
+		<List>Dilophosaurus_wetherelli</List>
+		<List>Allosaurus_fragilis</List>
+		<List>Pisanosaurus_mertii</List>
+		<List>Heterodontosaurus_tucki</List>
+		<List>Lesothosaurus_diagnosticus</List>
+		<List>Eocursor_parvus</List>
+		<List>Scutellosaurus_lawleri</List>
+		<List>Panphagia_protos</List>
+		<List>Pampadromaeus_barberenai</List>
+		<List>Guaibasaurus_candelariensis</List>
+		<List>Chromogisaurus_novasi</List>
+		<List>Sanjuansaurus_gordilloi</List>
+		<List>Eodromaeus_murphi</List>
+		<List>Diodorus_scytobrachion</List>
+		<List>Asilisaurus_kongwe</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="291">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Bittencourt_etal_inpressa</Filename>
+	<Parent>Nesbitt_2011aa</Parent>
+	<Sibling/>
+</SourceTree>

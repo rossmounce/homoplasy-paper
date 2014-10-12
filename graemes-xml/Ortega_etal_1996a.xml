@@ -1,0 +1,44 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ortega, F.</List>
+			<List>Buscalioni, A. D.</List>
+			<List>Gasparini, Z.</List>
+		</Author>
+		<Year>1996</Year>
+		<Title>Reinterpretation and new denomination of Atacisaurus crassiproratus (Middle Eocene; Issel, France) as cf. Iberosuchus (Crocodylomorpha, Metasuchia)</Title>
+		<Journal>Geobios</Journal>
+		<Volume>29</Volume>
+		<Pages>353-364</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="8">
+		<List>Notosuchus</List>
+		<List>Sebecus</List>
+		<List>Baurusuchus</List>
+		<List>cf_Iberosuchus</List>
+		<List>Eremosuchus</List>
+		<List>Peirosauridae</List>
+		<List>Trematochampsa</List>
+		<List>Neosuchia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="15">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ortega_etal_1996a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

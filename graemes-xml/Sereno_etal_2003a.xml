@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sereno, P. C.</List>
+			<List>Sidor, C. A.</List>
+			<List>Larsson, H. C. E.</List>
+			<List>Gado, B.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>A new notosuchian from the Early Cretaceous of Niger</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>23</Volume>
+		<Pages>477-482</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="22">
+		<List>PROTOSUCHIA</List>
+		<List>Hsisosuchus</List>
+		<List>THALATTOSUCHIA</List>
+		<List>Baurusuchus</List>
+		<List>Sebecus</List>
+		<List>Notosuchus</List>
+		<List>Malawisuchus</List>
+		<List>Simosuchus</List>
+		<List>Araripesuchus</List>
+		<List>Stolokrosuchus</List>
+		<List>Peirosaurus</List>
+		<List>ATOPOSAURIDAE</List>
+		<List>Sunosuchus</List>
+		<List>Goniopholis</List>
+		<List>Pholidosaurus</List>
+		<List>Sarcosuchus</List>
+		<List>Terminonaris</List>
+		<List>Dyrosaurus</List>
+		<List>Bernissartia</List>
+		<List>CROCODYLIA</List>
+		<List>Anatosuchus</List>
+		<List>Comahuesuchus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="75">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sereno_etal_2003a</Filename>
+	<Parent>Sereno_etal_2001a</Parent>
+	<Sibling/>
+</SourceTree>

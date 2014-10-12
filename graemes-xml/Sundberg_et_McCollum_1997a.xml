@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sundberg, F. A.</List>
+			<List>McCollum, L. B.</List>
+		</Author>
+		<Year>1997</Year>
+		<Title>Oryctocephalids (Corynexochida: Trilobita) of the Lower-Middle Cambrian boundary interval from California and Nevada</Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>71</Volume>
+		<Pages>1065-1090</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="22">
+		<List>Arthricocephalus_chauveaui</List>
+		<List>Changaspis_placenta</List>
+		<List>Lancastria_roddyi</List>
+		<List>Opsiosoryctocephalus_ophis</List>
+		<List>Oryctocephalites_burgessensis</List>
+		<List>Oryctocephalites_opiki</List>
+		<List>Oryctocephalites_palmeri</List>
+		<List>Oryctocephalites_rasettii</List>
+		<List>Oryctocephalites_resseri</List>
+		<List>Oryctocephalites_reynoldsi</List>
+		<List>Oryctocephalites_reynoldsformis</List>
+		<List>Oryctocephalites_runcinatus</List>
+		<List>Oryctocephalites_salteri</List>
+		<List>Oryctocephalites_typicalis</List>
+		<List>Oryctocephalites_walcotti</List>
+		<List>Oryctocephalops_frischenfeldi</List>
+		<List>Oryctocephalus_indicus</List>
+		<List>Oryctocephalus_lancastrioides</List>
+		<List>Oryctocephalus_nyensis</List>
+		<List>Oryctocephalus_orientalis</List>
+		<List>Oryctocephalus_primus</List>
+		<List>Protoryctocephalus_wuxunensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="36">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sundberg_et_McCollum_1997a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,79 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Grande, L.</List>
+			<List>Bemis, W. E.</List>
+		</Author>
+		<Year>1998</Year>
+		<Title>A comprehensive phylogenetic study of amiid fishes (Amiidae) based on comparative skeletal anatomy: an empirical search for interconnected patterns of natural history</Title>
+		<Journal>Memoirs of the Society of Vertebrate Paleontology</Journal>
+		<Volume>4</Volume>
+		<Pages>1-690</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="44">
+		<List>A_spatula</List>
+		<List>E_speciosus</List>
+		<List>P_bechei</List>
+		<List>P_macrocephalus</List>
+		<List>S_zdanskyi</List>
+		<List>I_orientalis</List>
+		<List>I_meridionalis</List>
+		<List>C_furcatus</List>
+		<List>A_pachyurus</List>
+		<List>L_gracilis</List>
+		<List>L_sprattiformis</List>
+		<List>I_cyprinoides</List>
+		<List>O_procera</List>
+		<List>M_arenatus</List>
+		<List>O_brevis</List>
+		<List>W_eugnathoides</List>
+		<List>A_prisca</List>
+		<List>A_lepidota</List>
+		<List>A_woodwardi</List>
+		<List>A_damoni</List>
+		<List>A_dolloi</List>
+		<List>S_elongata</List>
+		<List>C_cylindricus</List>
+		<List>P_latimaxillaris</List>
+		<List>P_mexicana</List>
+		<List>V_catalunica</List>
+		<List>C_oligocenicus</List>
+		<List>C_macrocephalus</List>
+		<List>C_ignotus</List>
+		<List>C_valenciennesi</List>
+		<List>C_fragosus</List>
+		<List>C_efremovi</List>
+		<List>C_gurleyi</List>
+		<List>C_kehreri</List>
+		<List>A_pattersoni</List>
+		<List>A_hesperia</List>
+		<List>A_scutata</List>
+		<List>A_calva</List>
+		<List>M_gigas</List>
+		<List>C_mawsoni</List>
+		<List>M_thomasi</List>
+		<List>M_chauliodus</List>
+		<List>M_satoi</List>
+		<List>P_heintzi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="69">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Grande_et_Bemis_1998a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

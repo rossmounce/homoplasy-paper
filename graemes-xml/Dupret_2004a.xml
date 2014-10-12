@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Dupret, V.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>The pleurosaurs: anatomy and phylogeny</Title>
+		<Journal>Revue de Paleobiologie</Journal>
+		<Volume>9</Volume>
+		<Pages>61-80</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="18">
+		<List>Prolacerta_broomi</List>
+		<List>Brachyrhinodon_taylori</List>
+		<List>Clevosaurus_hudsoni</List>
+		<List>Cynosphenodon_huizachalensis</List>
+		<List>Diphydontosaurus_sp</List>
+		<List>Gephyrosaurus_bridensis</List>
+		<List>Homoeosaurus_maximilliani</List>
+		<List>Iguana_iguana</List>
+		<List>Lacerta_lepida</List>
+		<List>Palaeopleurosaurus_posidoniae</List>
+		<List>Planocephalosaurus_robinsonae</List>
+		<List>Pleurosaurus_ginsburgi</List>
+		<List>Pleurosaurus_goldfussi</List>
+		<List>Polysphenodon_muelleri</List>
+		<List>Saphaeosaurus_thiolleri</List>
+		<List>Sphenodon_punctatus</List>
+		<List>Varanus_griseus</List>
+		<List>Youngina_capensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="83">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Dupret_2004a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

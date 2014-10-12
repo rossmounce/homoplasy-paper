@@ -1,0 +1,110 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Naish, D.</List>
+			<List>Dyke, G.</List>
+			<List>Cau, A.</List>
+			<List>Escuillie, F.</List>
+			<List>Godefroit, P.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>A gigantic bird from the Upper Cretaceous of central Asia</Title>
+		<Journal>Biology Letters</Journal>
+		<Volume>8</Volume>
+		<Pages>97-100</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="72">
+		<List>Herrerasaurus</List>
+		<List>Tawa</List>
+		<List>Monolophosaurus</List>
+		<List>Allosaurus</List>
+		<List>Sinraptor</List>
+		<List>Zuolong</List>
+		<List>Ornitholestes</List>
+		<List>Haplocheirus</List>
+		<List>Alvarezsaurus</List>
+		<List>Patagonykus</List>
+		<List>Mononykus</List>
+		<List>Shuvuuia</List>
+		<List>Anchiornis</List>
+		<List>Sinovenator</List>
+		<List>Troodon</List>
+		<List>Sinornithosaurus</List>
+		<List>Velociraptor</List>
+		<List>Archaeopteryx</List>
+		<List>Jeholornis</List>
+		<List>Sapeornis</List>
+		<List>Zhongjianornis</List>
+		<List>Archaeorhynchus</List>
+		<List>Ichthyornis</List>
+		<List>Neornithes</List>
+		<List>Patagopteryx</List>
+		<List>Samrukia</List>
+		<List>Hongshanornis</List>
+		<List>Longicrusavis</List>
+		<List>Yanornis</List>
+		<List>Yixianornis</List>
+		<List>Iberomesornis</List>
+		<List>Huoshanornis</List>
+		<List>Gobipteryx</List>
+		<List>Hebeiornis</List>
+		<List>Longipteryx</List>
+		<List>Longirostravis</List>
+		<List>Pengornis</List>
+		<List>Protopteryx</List>
+		<List>Confuciusornis</List>
+		<List>Zhongornis</List>
+		<List>Epidendrosaurus</List>
+		<List>Epidexipteryx</List>
+		<List>Caenagnathus</List>
+		<List>Caudipteryx</List>
+		<List>Avimimus</List>
+		<List>Chirostenotes</List>
+		<List>Citipati</List>
+		<List>Rinchenia</List>
+		<List>Incisivosaurus</List>
+		<List>Protarchaeopteryx</List>
+		<List>Beipiaosaurus</List>
+		<List>Erlicosaurus</List>
+		<List>Segnosaurus</List>
+		<List>Pelecanimimus</List>
+		<List>Shenzhousaurus</List>
+		<List>Harpymimus</List>
+		<List>Garudimimus</List>
+		<List>Gallimimus</List>
+		<List>Ornithomimus</List>
+		<List>Compsognathus</List>
+		<List>Sinosauropteryx</List>
+		<List>Guanlong</List>
+		<List>Dilong</List>
+		<List>Tyrannosaurus</List>
+		<List>Baryonyx</List>
+		<List>Eustreptospondylus</List>
+		<List>Ceratosaurus</List>
+		<List>Majungasaurus</List>
+		<List>Limusaurus</List>
+		<List>Masiakasaurus</List>
+		<List>Dilophosaurus</List>
+		<List>Syntarsus_kayentakatae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="1025">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Naish_etal_2012a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Steyer, J. S.</List>
+		</Author>
+		<Year>2002</Year>
+		<Title>The first articulated trematosaur 'amphibian' from the Lower Triassic of Madagascar: implications for the phylogeny of the group</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>45</Volume>
+		<Pages>771-793</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="18">
+		<List>Onchiodon</List>
+		<List>Almasaurus</List>
+		<List>Aphaneramma</List>
+		<List>Archegosaurus</List>
+		<List>Benthosuchus</List>
+		<List>Cosgriffus</List>
+		<List>Dutuitosaurus</List>
+		<List>Erythrobatrachus</List>
+		<List>Inflectosaurus</List>
+		<List>Luzocephalus</List>
+		<List>Lyrocephaliscus</List>
+		<List>Platystega</List>
+		<List>Stoschiosaurus</List>
+		<List>Tertrema</List>
+		<List>Trematosaurus</List>
+		<List>Trematosuchus</List>
+		<List>Wantzosaurus</List>
+		<List>Watsonisuchus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="69">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Steyer_2002a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

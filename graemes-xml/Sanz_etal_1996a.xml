@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sanz, J. L.</List>
+			<List>Chiappe, L. M.</List>
+			<List>Perez-Moreno, B. P.</List>
+			<List>Buscalioni, A. D.</List>
+			<List>Moratalla, J. J.</List>
+			<List>Ortega, F.</List>
+			<List>Poyato-Ariza, F. J.</List>
+		</Author>
+		<Year>1996</Year>
+		<Title>An Early Cretaceous bird from Spain and its implications for the evolution of avian flight</Title>
+		<Journal>Nature</Journal>
+		<Volume>382</Volume>
+		<Pages>442-445</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="8">
+		<List>Dromaeosauridae</List>
+		<List>Archaeopteryx</List>
+		<List>Iberomesornis</List>
+		<List>Enantiornithes</List>
+		<List>Concornis</List>
+		<List>Hesperornithiformes</List>
+		<List>Ichthyornithiformes</List>
+		<List>Neornithes</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="84">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sanz_etal_1996a</Filename>
+	<Parent>Sanz_etal_1995aa</Parent>
+	<Sibling/>
+</SourceTree>

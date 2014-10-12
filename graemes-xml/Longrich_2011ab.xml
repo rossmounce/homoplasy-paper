@@ -1,0 +1,60 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Longrich, N. R.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>Titanoceratops ouranos, a giant horned dinosaur from the late Campanian of New Mexico</Title>
+		<Journal>Cretaceous Research</Journal>
+		<Volume>32</Volume>
+		<Pages>264-276</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="26">
+		<List>Leptoceratops_gracilis</List>
+		<List>Protoceratops_andrewsi</List>
+		<List>Zuniceratops_christopheri</List>
+		<List>Turanoceratops_tardabilis</List>
+		<List>Albertaceratops_nesmoi</List>
+		<List>Centrosaurus_apertus</List>
+		<List>Pachyrhinosaurus_lakustai</List>
+		<List>Chasmosaurus_belli</List>
+		<List>Chasmosaurus_russelli</List>
+		<List>Mojoceratops_perifania</List>
+		<List>Agujaceratops_mariscalensis</List>
+		<List>Coahuilaceratops_magnacuerna</List>
+		<List>Vagaceratops_irvinensis</List>
+		<List>Kosmoceratops_richardsoni</List>
+		<List>Anchiceratops_ornatus</List>
+		<List>Arrhinoceratops_brachyops</List>
+		<List>Ojoceratops_fowleri</List>
+		<List>Eotriceratops_xerinsularis</List>
+		<List>Torosaurus_utahensis</List>
+		<List>Torosaurus_latus</List>
+		<List>Titanoceratops_ouranous</List>
+		<List>Nedoceratops_hatcheri</List>
+		<List>Triceratops_horridus</List>
+		<List>Triceratops_prorsus</List>
+		<List>Utahceratops_gettyi</List>
+		<List>Pentaceratops_sternbergii</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="148">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Longrich_2011ab</Filename>
+	<Parent>Sampson_etal_2010a</Parent>
+	<Sibling/>
+</SourceTree>

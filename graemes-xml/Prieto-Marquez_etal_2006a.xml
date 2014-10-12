@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Prieto-Marquez, A.</List>
+			<List>Weishampel, D. B.</List>
+			<List>Horner, J. R.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>The dinosaur Hadrosaurus foulkii from the Campanian of the East Coast of North America, with a reevaluation of the genus</Title>
+		<Journal>Acta Palaeontologica Polonica</Journal>
+		<Volume>51</Volume>
+		<Pages>77-98</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Iguanodon</List>
+		<List>Telmatosaurus</List>
+		<List>Edmontosaurus</List>
+		<List>Gryposaurus</List>
+		<List>Hadrosaurus</List>
+		<List>Kritosaurus</List>
+		<List>Prosaurolophus</List>
+		<List>Saurolophus</List>
+		<List>Brachylophosaurus</List>
+		<List>Maiasaura</List>
+		<List>Parasaurolophus</List>
+		<List>Corythosaurus</List>
+		<List>Hypacrosaurus</List>
+		<List>Lambeosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="90">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Prieto-Marquez_etal_2006a</Filename>
+	<Parent>Horner_etal_2004a</Parent>
+	<Sibling/>
+</SourceTree>

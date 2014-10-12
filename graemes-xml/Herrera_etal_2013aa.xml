@@ -1,0 +1,97 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Herrera, Y.</List>
+			<List>Gasparini, Z.</List>
+			<List>Fernandez, M. S.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>A new Patagonian species of <em>Cricosaurus</em> (Crocodyliformes, Thalattosuchia): first evidence of <em>Cricosaurus</em> in middle-upper Tithonian lithographic limestone from Gondwana</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>56</Volume>
+		<Pages>663-678</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="61">
+		<List>Gracilisuchus</List>
+		<List>Terrestrisuchus</List>
+		<List>Dibothrosuchus</List>
+		<List>P_richardsoni</List>
+		<List>Hemiprotosuchus</List>
+		<List>Orthosuchus</List>
+		<List>Kayenta_Form</List>
+		<List>Edentosuchus</List>
+		<List>Zaraasuchus</List>
+		<List>Gobiosuchus</List>
+		<List>Sichuanosuchus</List>
+		<List>Shantungosuchus</List>
+		<List>Zosuchus</List>
+		<List>Fruitachampsa</List>
+		<List>Notosuchus</List>
+		<List>Comahuesuchus</List>
+		<List>Mariliasuchus</List>
+		<List>Uruguaysuchus</List>
+		<List>Chimaerasuchus</List>
+		<List>Malawisuchus</List>
+		<List>Candidodon</List>
+		<List>Simosuchus</List>
+		<List>Sphagesaurus</List>
+		<List>Bretesuchus</List>
+		<List>Baurusuchus</List>
+		<List>Iberosuchus</List>
+		<List>Libycosuchus</List>
+		<List>A_gomesii</List>
+		<List>A_patagonicus</List>
+		<List>A_buitreraensis</List>
+		<List>A_wegeneri</List>
+		<List>Lomasuchus</List>
+		<List>Peirosaurus</List>
+		<List>Theriosuchus</List>
+		<List>Alligatorium</List>
+		<List>Goniopholis</List>
+		<List>Eutretauranosuchus</List>
+		<List>Bernissartia</List>
+		<List>Hylaeochampsa</List>
+		<List>Borealosuchus</List>
+		<List>Gavialis</List>
+		<List>Crocodylus</List>
+		<List>Alligator</List>
+		<List>Hsisosuchus</List>
+		<List>Pelagosaurus_typus</List>
+		<List>Steneosaurus_bollensis</List>
+		<List>Teleosaurus_cadomensis</List>
+		<List>M_superciliosus</List>
+		<List>M_casamiquelai</List>
+		<List>Cricosaurus_araucanensis</List>
+		<List>Cricosaurus_suevicus</List>
+		<List>MOZ_dash_PV_5787</List>
+		<List>Dakosaurus_maximus</List>
+		<List>Dakosaurus_andiniensis</List>
+		<List>Rhabdognathus</List>
+		<List>Sokotosuchus</List>
+		<List>Dyrosaurus</List>
+		<List>Hyposaurus</List>
+		<List>Pholidosaurus</List>
+		<List>Sarcosuchus</List>
+		<List>Terminonaris_robusta</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="288">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Herrera_etal_2013aa</Filename>
+	<Parent>Pol_et_Gasparini_2009a</Parent>
+	<Sibling/>
+</SourceTree>

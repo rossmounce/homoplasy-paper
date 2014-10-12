@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Brown, C. M.</List>
+			<List>Evans, D. C.</List>
+			<List>Ryan, M. J.</List>
+			<List>Russell, A. P.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>New data on the diversity and abundance of small-bodied ornithopods (Dinosauria, Ornithischia) from the Belly River Group (Campanian) of Alberta</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>33</Volume>
+		<Pages>495-520</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="30">
+		<List>Herrerasaurus</List>
+		<List>Scutellosaurus</List>
+		<List>Heterodontosaurus</List>
+		<List>Lesothosaurus</List>
+		<List>Agilisaurus</List>
+		<List>Yandusaurus</List>
+		<List>Othnielia</List>
+		<List>Zephyrosaurus</List>
+		<List>Orodromeus</List>
+		<List>Parksosaurus</List>
+		<List>Hypsilophodon</List>
+		<List>Tenontosaurus</List>
+		<List>Dryosaurus_a</List>
+		<List>Dryosaurus_l</List>
+		<List>Rhabdodon</List>
+		<List>Iguanodon</List>
+		<List>Ouranosaurus</List>
+		<List>Camptosaurus</List>
+		<List>Gasparinisaura</List>
+		<List>Oryctodromeus</List>
+		<List>T_neglectus</List>
+		<List>T_assiniboiensis</List>
+		<List>T_garbanii</List>
+		<List>TMP_2008_dot_45_dot_02</List>
+		<List>TMP_2009_dot_37_dot_44</List>
+		<List>TMP_2002_dot_12_dot_135</List>
+		<List>TMP_1997_dot_128_dot_01</List>
+		<List>Changchunsaurus</List>
+		<List>Jeholosaurus</List>
+		<List>Haya</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="137">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Brown_etal_2013a</Filename>
+	<Parent>Boyd_etal_2009a</Parent>
+	<Sibling/>
+</SourceTree>

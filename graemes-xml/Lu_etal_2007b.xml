@@ -1,0 +1,61 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lu, J.-C.</List>
+			<List>Ji, Q.</List>
+			<List>Gao, Y.</List>
+			<List>Li, Z.-X.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>A new species of the ankylosaurid dinosaur Crichtonsaurus (Ankylosauridae: Ankylosauria) from the Cretaceous of Liaoning Province, China</Title>
+		<Journal>Acta Geologica Sinica</Journal>
+		<Volume>81</Volume>
+		<Pages>883-897</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="24">
+		<List>Lesothosaurus</List>
+		<List>Huayangosaurus</List>
+		<List>Gargoyleosaurus</List>
+		<List>Minmi</List>
+		<List>Gastonia</List>
+		<List>Tsagantegia</List>
+		<List>Crichtonsaurus</List>
+		<List>Tarchia</List>
+		<List>Ankylosaurus</List>
+		<List>Euoplocephalus</List>
+		<List>Saichania</List>
+		<List>Talarurus</List>
+		<List>Pin._grangeri</List>
+		<List>Pin._mesphistoce</List>
+		<List>Tianzhenosaurus</List>
+		<List>Gobisaurus</List>
+		<List>Shamosaurus</List>
+		<List>Cedarpelta</List>
+		<List>Pawpawsaurus</List>
+		<List>Sauropelta</List>
+		<List>Silvisaurus</List>
+		<List>Panoplosaurus</List>
+		<List>Ed._longiceps</List>
+		<List>Ed._rugosidens</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="63">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lu_etal_2007b</Filename>
+	<Parent>Vickaryous_etal_2004a</Parent>
+	<Sibling/>
+</SourceTree>

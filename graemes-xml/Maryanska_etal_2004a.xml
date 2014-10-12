@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Maryanska, T.</List>
+			<List>Chapman, R. E.</List>
+			<List>Weishampel, D. B.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>Pachycephalosauria</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>464-477</Pages>
+		<Booktitle>The Dinosauria (Second Edition)</Booktitle>
+		<Publisher>University of California Press</Publisher>
+		<City>Berkeley</City>
+		<Editor>
+			<List>Weishampel, D. B.</List>
+			<List>Dodson, P.</List>
+			<List>Osmolska, H.</List>
+		</Editor>
+	</Source>
+	<Taxa number="13">
+		<List>Outgroup</List>
+		<List>Ornithopoda</List>
+		<List>Ceratopsia</List>
+		<List>Wannanosaurus</List>
+		<List>Goyocephale</List>
+		<List>Homalocephale</List>
+		<List>Ornathotholus</List>
+		<List>Stygimoloch</List>
+		<List>Stegoceras_validum</List>
+		<List>Stegoceras_edmontonese</List>
+		<List>Tylocephale</List>
+		<List>Prenocephale</List>
+		<List>Pachycephalosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="35">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Maryanska_etal_2004a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

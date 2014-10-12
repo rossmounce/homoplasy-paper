@@ -1,0 +1,113 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Xu, X.</List>
+			<List>Clark, J. M.</List>
+			<List>Mo, J.-Y.</List>
+			<List>Choiniere, J.</List>
+			<List>Forster, C. A.</List>
+			<List>Erickson, G. M.</List>
+			<List>Hone, D. W. E.</List>
+			<List>Sullivan, C.</List>
+			<List>Eberth, D. A.</List>
+			<List>Nesbitt, S.</List>
+			<List>Zhao, Q.</List>
+			<List>Hernandez, R.</List>
+			<List>Jia, C.-K.</List>
+			<List>Han, F.-L.</List>
+			<List>Guo, Y.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>A Jurassic ceratosaur from China helps clarify avian digit homologies</Title>
+		<Journal>Nature</Journal>
+		<Volume>459</Volume>
+		<Pages>940-944</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="65">
+		<List>Marasuchus</List>
+		<List>Silesaurus</List>
+		<List>Herrerasaurus</List>
+		<List>Eoraptor</List>
+		<List>Saturnalia</List>
+		<List>Plateosaurus</List>
+		<List>Zupaysaurus</List>
+		<List>Deltadromeus</List>
+		<List>Spinostropheus</List>
+		<List>Ceratosaurus</List>
+		<List>Abelisaurus</List>
+		<List>Aucasaurus</List>
+		<List>Carnotaurus</List>
+		<List>Ekrixinatosaurus</List>
+		<List>Ilokelesia</List>
+		<List>Majungasaurus</List>
+		<List>Rugops</List>
+		<List>Masiakasaurus</List>
+		<List>Noasaurus</List>
+		<List>Elaphrosaurus</List>
+		<List>Limusaurus</List>
+		<List>Monolophosaurus</List>
+		<List>Allosaurus</List>
+		<List>Neovenator</List>
+		<List>Acrocanthosaurus</List>
+		<List>Sinraptor</List>
+		<List>Carcharodontosaurus</List>
+		<List>Tyrannotitan</List>
+		<List>Giganotosaurus</List>
+		<List>Mapusaurus</List>
+		<List>Tugulusaurus</List>
+		<List>Ornitholestes</List>
+		<List>Archaeopteryx</List>
+		<List>Confuciusornis</List>
+		<List>Deinonychus</List>
+		<List>Velociraptor</List>
+		<List>Shenzhousaurus</List>
+		<List>Sinornithomimus</List>
+		<List>Sinosauropteryx</List>
+		<List>Coelurus</List>
+		<List>Compsognathus</List>
+		<List>Dilong</List>
+		<List>Tyrannosaurus</List>
+		<List>Afrovenator</List>
+		<List>Dubreuillosaurus</List>
+		<List>Torvosaurus</List>
+		<List>Baryonyx</List>
+		<List>Eustreptospondylus</List>
+		<List>Irritator</List>
+		<List>Megaraptor</List>
+		<List>NMV_P186076</List>
+		<List>Streptospondylus</List>
+		<List>Suchomimus</List>
+		<List>Condorraptor</List>
+		<List>Piatnitzkysaurus</List>
+		<List>Berberosaurus</List>
+		<List>Cryolophosaurus</List>
+		<List>Dilophosaurus_sinensis</List>
+		<List>Dilophosaurus_wetherilli</List>
+		<List>Dracovenator</List>
+		<List>Liliensternus</List>
+		<List>Coelophysis_bauri</List>
+		<List>Coelophysis_rhodesiensis</List>
+		<List>Segisaurus</List>
+		<List>Syntarsus_kayentakae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="413">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Xu_etal_2009a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

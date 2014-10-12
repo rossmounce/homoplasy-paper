@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Bell, P. R.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>Redescription of the skull of Saurolophus osborni Brown 1912 (Ornithischia: Hadrosauridae)</Title>
+		<Journal>Cretaceous Research</Journal>
+		<Volume>32</Volume>
+		<Pages>30-44</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List>Iguanodon_bernissartensis</List>
+		<List>Bactrosaurus_johnsoni</List>
+		<List>Lambeosaurus_lambei</List>
+		<List>Hypacrosaurus_altispinus</List>
+		<List>Maiasaura_peeblesorum</List>
+		<List>Brachylophosaurus_canadensis</List>
+		<List>Gryposaurus_notabilis</List>
+		<List>Edmontosaurus_annectens</List>
+		<List>Kerberosaurus_manakini</List>
+		<List>Prosaurolophus_maximus</List>
+		<List>Saurolophus_osborni</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="44">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Bell_2011a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

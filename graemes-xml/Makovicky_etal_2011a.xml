@@ -1,0 +1,89 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Makovicky, P. J.</List>
+			<List>Kilbourne, B. M.</List>
+			<List>Sadleir, R. W.</List>
+			<List>Norell, M. A.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>A new basal ornithopod (Dinosauria, Ornithischia) from the Late Cretaceous of Mongolia</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>31</Volume>
+		<Pages>626-640</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="52">
+		<List>Euparkeria_capensis</List>
+		<List>Marasuchus_liloensis</List>
+		<List>Herrerasaurus</List>
+		<List>Pisanosaurus_mertii</List>
+		<List>Abrictosaurus_consors</List>
+		<List>BMNH_A100</List>
+		<List>Echinodon_becklesii</List>
+		<List>Fruitadens_haagarorum</List>
+		<List>Heterodontosaurus_tucki</List>
+		<List>Lycorhinus_angustidens</List>
+		<List>Eocursor_parvus</List>
+		<List>Lesothosaurus_diagnosticus</List>
+		<List>Stormbergia_dangershoeki</List>
+		<List>Agilisaurus_louderbacki</List>
+		<List>Hexinlusaurus_multidens</List>
+		<List>Othnieliosaurus_consors</List>
+		<List>Bugenasaura_infernalis</List>
+		<List>Hypsilophodon_foxii</List>
+		<List>Orodromeus_makelai</List>
+		<List>Yandusaurus_hongheensis</List>
+		<List>Zephyrosaurus_schaffi</List>
+		<List>Wannanosaurus_yansiensis</List>
+		<List>Tianyulong</List>
+		<List>Thescelosaurus_neglectus</List>
+		<List>Scutellosaurus_lawleri</List>
+		<List>Emausaurus_ernstii</List>
+		<List>Scelidosaurus_harrisonii</List>
+		<List>Stegosauria</List>
+		<List>Ankylosauria</List>
+		<List>Anabisetia_saldiviai</List>
+		<List>Talenkauen_santacrucensis</List>
+		<List>Rhabdodontidae</List>
+		<List>Tenontosaurus_tilleti</List>
+		<List>Tenontosaurus_dossi</List>
+		<List>Dryosauridae</List>
+		<List>Ankylopollexia</List>
+		<List>Gasparinisaura_cincosaltensis</List>
+		<List>Parksosaurus_warreni</List>
+		<List>Micropachycephalosaurus_hongtuyanensis</List>
+		<List>Stenopelix_valdensis</List>
+		<List>Chaoyangosaurus_youngi</List>
+		<List>Yinlong_downsi</List>
+		<List>Psittacosauridae</List>
+		<List>Liaoceratops_yanzigouensis</List>
+		<List>Archaeoceratops_oshimai</List>
+		<List>Unnamed_taxon_Coronosauria_plus_Leptoceratopsidae</List>
+		<List>Goyocephale_lattimorei</List>
+		<List>Homalocephale_calathocercos</List>
+		<List>Pachycephalosauridae</List>
+		<List>Haya_griva</List>
+		<List>Changchunsaurus_parvus</List>
+		<List>Jeholosaurus_shangyuanensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="227">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Makovicky_etal_2011a</Filename>
+	<Parent>Butler_etal_2011b</Parent>
+	<Sibling/>
+</SourceTree>

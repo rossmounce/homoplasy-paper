@@ -1,0 +1,73 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Cloutier, R.</List>
+			<List>Ahlberg, P. E.</List>
+		</Author>
+		<Year>1996</Year>
+		<Title>Morphology, characters, and the interrelationships of basal sarcopterygians</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>445-479</Pages>
+		<Booktitle>Interrelationships of Fishes</Booktitle>
+		<Publisher>Academic Press</Publisher>
+		<City>San Diego</City>
+		<Editor>
+			<List>Stiassny, M. L. J.</List>
+			<List>Parenti, L. R.</List>
+			<List>Johnson, G. D.</List>
+		</Editor>
+	</Source>
+	<Taxa number="34">
+		<List>Outgroup</List>
+		<List>Acanthostega</List>
+		<List>Allenypterus</List>
+		<List>Barmda</List>
+		<List>Beelarongia</List>
+		<List>Cheirolcpis</List>
+		<List>Crassigyrinus</List>
+		<List>Diabolepis</List>
+		<List>Diploccrcides_kacseri</List>
+		<List>D_heiligenstockicnsis</List>
+		<List>Dipnorhynchus</List>
+		<List>Dipterus</List>
+		<List>Elpistostege</List>
+		<List>Eusthenoptcron</List>
+		<List>Glyptolepis</List>
+		<List>Gyroptychius</List>
+		<List>Holoptychius</List>
+		<List>Howqualepis</List>
+		<List>Ichthyostega</List>
+		<List>Miguashaia</List>
+		<List>Mimia</List>
+		<List>Moythomasia</List>
+		<List>Onychodus</List>
+		<List>Osteolepis</List>
+		<List>Panderichthys</List>
+		<List>Polypterus</List>
+		<List>Porolepis</List>
+		<List>Powichthys</List>
+		<List>Speonesydrion</List>
+		<List>Strepsodus</List>
+		<List>Strunius</List>
+		<List>Uranolophus</List>
+		<List>Ventastega</List>
+		<List>Youngolepis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="140">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Cloutier_et_Ahlberg_1996a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

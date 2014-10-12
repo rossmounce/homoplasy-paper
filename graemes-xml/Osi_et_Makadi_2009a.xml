@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Osi, A.</List>
+			<List>Makadi, L.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>New remains of Hungarosaurus tormai (Ankylosauria, Dinosauria) from the Upper Cretaceous of Hungary: skeletal reconstruction and body mass estimation</Title>
+		<Journal>Palaontologische Zeitschrift</Journal>
+		<Volume>83</Volume>
+		<Pages>227-245</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="18">
+		<List>Scelidosaurus</List>
+		<List>Huayangosaurus</List>
+		<List>Struthiosaurus</List>
+		<List>Hungarosaurus</List>
+		<List>Pawpawsaurus</List>
+		<List>Edmontonia</List>
+		<List>Panoplosaurus</List>
+		<List>Silvisaurus</List>
+		<List>Sauropelta</List>
+		<List>Gargoyleosaurus</List>
+		<List>Minmi</List>
+		<List>Gastonia</List>
+		<List>Pinacosaurus</List>
+		<List>Saichania</List>
+		<List>Euoplocephalus</List>
+		<List>Ankylosaurus</List>
+		<List>Gobisaurus</List>
+		<List>Shamosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="63">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Osi_et_Makadi_2009a</Filename>
+	<Parent>Osi_2005a</Parent>
+	<Sibling/>
+</SourceTree>

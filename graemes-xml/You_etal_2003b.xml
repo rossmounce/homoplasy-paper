@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>You, H.-L.</List>
+			<List>Li, J.-L.</List>
+			<List>Li, Y.-X.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>A new hadrosauroid dinosaur from the mid-Cretaceous of Liaoning, China</Title>
+		<Journal>Acta Geologica Sinica</Journal>
+		<Volume>77</Volume>
+		<Pages>148-154</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="17">
+		<List>Dryosaurus</List>
+		<List>Camptosaurus</List>
+		<List>Mazongshan_sp.</List>
+		<List>Iguanodon_a</List>
+		<List>Ouranosaurus</List>
+		<List>Protohadros</List>
+		<List>Probactrosaurus</List>
+		<List>Telmatosaurus</List>
+		<List>Bactrosaurus</List>
+		<List>Shuangmiaosaurus</List>
+		<List>Saurolophus</List>
+		<List>Edmontosaurus</List>
+		<List>Brachylophosaurus</List>
+		<List>Parasaurolophus</List>
+		<List>Corythosaurus</List>
+		<List>Altirhinus</List>
+		<List>Eolambia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="67">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>You_etal_2003b</Filename>
+	<Parent>Norman_2002a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ahlberg, P. E.</List>
+			<List>Clack, J. A.</List>
+			<List>Luksevics, E.</List>
+			<List>Blom, H.</List>
+			<List>Zupins, I.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title><em>Ventastega curonica</em> and the origin of tetrapod morphology</Title>
+		<Journal>Nature</Journal>
+		<Volume>453</Volume>
+		<Pages>1199-1204</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="21">
+		<List>Eusthenopteron</List>
+		<List>Acanthostega</List>
+		<List>Balanerpeton</List>
+		<List>Baphetes</List>
+		<List>Crassigyrinus</List>
+		<List>Dendrerpeton</List>
+		<List>Densignathus</List>
+		<List>Elginerpeton</List>
+		<List>Elpistostege</List>
+		<List>Eoherpeton</List>
+		<List>Greererpeton</List>
+		<List>Ichthyostega</List>
+		<List>Metaxygnathus</List>
+		<List>Panderichthys</List>
+		<List>Pederpes</List>
+		<List>Proterogyrinus</List>
+		<List>Silvanerpeton</List>
+		<List>Tiktaalik</List>
+		<List>Ventastega</List>
+		<List>Whatcheeria</List>
+		<List>MGUH_VP_6088</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="117">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ahlberg_etal_2008a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,87 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Royo-Torres, R.</List>
+			<List>Cobos, A.</List>
+			<List>Alcala, L.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>A giant European dinosaur and a new sauropod clade</Title>
+		<Journal>Science</Journal>
+		<Volume>314</Volume>
+		<Pages>1925-1927</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="51">
+		<List>Marasuchus</List>
+		<List>Pseudolagosuchus</List>
+		<List>Ornithischia</List>
+		<List>Herrerasaurus</List>
+		<List>Neotheropoda</List>
+		<List>Prosauropoda</List>
+		<List>Vulcanodon</List>
+		<List>Kotasaurus</List>
+		<List>Shunosaurus</List>
+		<List>Atlasaurus</List>
+		<List>Barapasaurus</List>
+		<List>Bellusaurus</List>
+		<List>Camarasaurus</List>
+		<List>Cetiosaurus</List>
+		<List>Euhelopus</List>
+		<List>Haplocanthosaurus</List>
+		<List>Jobaria</List>
+		<List>Lourinhasaurus</List>
+		<List>Mamenchisaurus</List>
+		<List>Nemegtosaurus</List>
+		<List>Nigersaurus</List>
+		<List>Omeisaurus</List>
+		<List>Patagosaurus</List>
+		<List>Quaesitosaurus</List>
+		<List>Rayososaurus</List>
+		<List>Tehuelchesaurus</List>
+		<List>Aragosaurus</List>
+		<List>Losillasaurus</List>
+		<List>Turiasaurus</List>
+		<List>Galveosaurus</List>
+		<List>Andesaurus</List>
+		<List>Austrosaurus</List>
+		<List>Lapparentosaurus</List>
+		<List>Phuwiangosaurus</List>
+		<List>Pleurocoelus_dash_tex</List>
+		<List>Malawisaurus</List>
+		<List>Gondwanatitan</List>
+		<List>Titanosaurus</List>
+		<List>Lirainosaurus</List>
+		<List>Alamosaurus</List>
+		<List>Argentinosaurus</List>
+		<List>Opisthocoelicaudia</List>
+		<List>Pellegrinisaurus</List>
+		<List>Saltasaurus</List>
+		<List>Brachiosaurus</List>
+		<List>Cedarosaurus</List>
+		<List>Amargasaurus</List>
+		<List>Dicraeosaurus</List>
+		<List>Apatosaurus</List>
+		<List>Barosaurus</List>
+		<List>Diplodocus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="309">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix (first 100,000 mpts only).</Notes>
+	<Filename>Royo-Torres_etal_2006a</Filename>
+	<Parent>Upchurch_etal_2004b</Parent>
+	<Sibling/>
+</SourceTree>

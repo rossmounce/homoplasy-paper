@@ -1,0 +1,71 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Bandyopahyay, S.</List>
+			<List>Gillette, D. D.</List>
+			<List>Ray, S.</List>
+			<List>Sengupta, D. P.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>Osteology of Barapasaurus tagorei (Dinosauria: Sauropoda) from the Early Jurassic of India</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>53</Volume>
+		<Pages>533-569</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="34">
+		<List>Marasuchus</List>
+		<List>Eoraptor</List>
+		<List>Herrerasaurus</List>
+		<List>Guaibasaurus</List>
+		<List>Coelophysis</List>
+		<List>Camelotia</List>
+		<List>Coloradisaurus</List>
+		<List>Efraasia</List>
+		<List>Gyposaurus</List>
+		<List>Lessemsaurus</List>
+		<List>Lufengosaurus</List>
+		<List>Massospondylus</List>
+		<List>Melanorosaurus</List>
+		<List>Mussaurus</List>
+		<List>Plateosauravus</List>
+		<List>Saturnalia</List>
+		<List>Thecodontosaurus</List>
+		<List>Yunnanosaurus</List>
+		<List>Heterodontosaurus</List>
+		<List>Lesothosaurus</List>
+		<List>Ammosaurus</List>
+		<List>Anchisaurus</List>
+		<List>Blikanasaurus</List>
+		<List>Jingshanosaurus</List>
+		<List>Antetonitrus</List>
+		<List>Chinshakiangosaurus</List>
+		<List>Kotasaurus</List>
+		<List>Vulcanodon</List>
+		<List>Barapasaurus</List>
+		<List>Shunosaurus</List>
+		<List>Camarasaurus</List>
+		<List>Omeisaurus</List>
+		<List>Plateosaurus</List>
+		<List>Riojasaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="292">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Bandyopadhyhy_etal_2010a</Filename>
+	<Parent>Upchurch_etal_2007a</Parent>
+	<Sibling/>
+</SourceTree>

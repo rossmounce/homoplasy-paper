@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sues, H.-D.</List>
+		</Author>
+		<Year>1997</Year>
+		<Title>On Chirostenotes, a Late Cretaceous oviraptorosaur (Dinosauria: Theropoda) from western North America</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>17</Volume>
+		<Pages>698-716</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="8">
+		<List>Coelophysis</List>
+		<List>Allosaurus</List>
+		<List>Tyrannosauridae</List>
+		<List>Ornithomimidae</List>
+		<List>Dromaeosauridae</List>
+		<List>Troodontidae</List>
+		<List>Oviraptorosauria</List>
+		<List>Therizinosauroidea</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="47">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sues_1997a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

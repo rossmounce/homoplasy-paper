@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Zhang, J.-Y.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>New fossil osteoglossomorph from Ningxia, China</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>24</Volume>
+		<Pages>515-524</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Outgroup</List>
+		<List>Hiodon</List>
+		<List>Huashia</List>
+		<List>Jinanichthys</List>
+		<List>Jiuquanichthys</List>
+		<List>Kuntulunia</List>
+		<List>Kuyangichthys</List>
+		<List>Lycoptera</List>
+		<List>Notopterus</List>
+		<List>Osteoglossum</List>
+		<List>Paralycoptera</List>
+		<List>Tongxinichthys</List>
+		<List>Xixiaichthys</List>
+		<List>Jiaohichthys</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="27">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Zhang_2004a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

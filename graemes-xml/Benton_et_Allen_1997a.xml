@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Benton, M. J.</List>
+			<List>Allen, J. L.</List>
+		</Author>
+		<Year>1997</Year>
+		<Title><em>Boreopricea</em> from the Lower Triassic of Russia, and the relationships of the prolacertiform reptiles</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>40</Volume>
+		<Pages>931-953</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="21">
+		<List>Youngina</List>
+		<List>Rhynchosaurus</List>
+		<List>Trilophosaurus</List>
+		<List>Megalancosaurus</List>
+		<List>Protorosaurus</List>
+		<List>Boreopricea</List>
+		<List>Kadimakara</List>
+		<List>Prolacerta</List>
+		<List>Prolacertoides</List>
+		<List>Trachelosaurus</List>
+		<List>Tanystropheus_antiquus</List>
+		<List>Rhombopholis</List>
+		<List>Cosesaurus</List>
+		<List>Macrocnemus</List>
+		<List>Tanystropheus_lonobardicus</List>
+		<List>Tanystropheus_meridensis</List>
+		<List>Malerisaurus_langstoni</List>
+		<List>Malerisaurus_robinsonae</List>
+		<List>Tanytrachelos</List>
+		<List>Tanystropheus_fossai</List>
+		<List>Langobardisaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="48">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Benton_et_Allen_1997a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

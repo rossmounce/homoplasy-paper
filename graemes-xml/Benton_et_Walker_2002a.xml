@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Benton, M. J.</List>
+			<List>Walker, A. D.</List>
+		</Author>
+		<Year>2002</Year>
+		<Title>Erpetosuchus, a crocodile-like basal archosaur from the Late Triassic of Elgin, Scotland</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>136</Volume>
+		<Pages>25-47</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Parasuchus</List>
+		<List>Ornithosuchus</List>
+		<List>Stagonolepis</List>
+		<List>Ticinosuchus</List>
+		<List>Batrachotomus</List>
+		<List>Prestosuchus</List>
+		<List>Saurosuchus</List>
+		<List>Fasolasuchus</List>
+		<List>Gracilisuchus</List>
+		<List>Postosuchus</List>
+		<List>Erpetosuchus</List>
+		<List>Sphenosuchus</List>
+		<List>Protosuchus</List>
+		<List>Alligator</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="56">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Benton_et_Walker_2002a</Filename>
+	<Parent>Olsen_etal_2000a</Parent>
+	<Sibling/>
+</SourceTree>

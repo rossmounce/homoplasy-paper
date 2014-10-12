@@ -1,0 +1,64 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Pardo, J. D.</List>
+			<List>Huttenlocker, A. K.</List>
+			<List>Small, B. J.</List>
+		</Author>
+		<Year>2014</Year>
+		<Title>An exceptionally preserved transitional lungfish from the Lower Permian of Nebraska, USA, and the origin of modern lungfishes</Title>
+		<Journal>PLOS ONE</Journal>
+		<Volume>9</Volume>
+		<Pages>e108542</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="28">
+		<List>Psarolepis_romeri</List>
+		<List>Chirodipterus_australis</List>
+		<List>Chirodipterus_liangchengi</List>
+		<List>Chirodipterus_wildungensis</List>
+		<List>Diabolepis_speratus</List>
+		<List>Diplocercides_kayseri</List>
+		<List>Dipnorhynchus_kurikae</List>
+		<List>Dipnorhynchus_sussmilchi</List>
+		<List>Dipterus_valenciennesi</List>
+		<List>Eusthenopteron_foordi</List>
+		<List>Glyptolepis_spp</List>
+		<List>Gogodipterus_paddyensis</List>
+		<List>Gogonasus_andrewsae</List>
+		<List>Griphognathus_minutidens</List>
+		<List>Griphognathus_whitei</List>
+		<List>Holodipterus_gogoensis</List>
+		<List>Melanognathus_canadensis</List>
+		<List>Orlovichthys_limnatis</List>
+		<List>Pillararhynchus_longi</List>
+		<List>Porolepis_spp</List>
+		<List>Powichthys_thorsteinssoni</List>
+		<List>Soederberghia_groenlandica</List>
+		<List>Sorbitorhynchus_deleaskitus</List>
+		<List>Stomiahykus_thlaodus</List>
+		<List>Uranolophus_wyomingensis</List>
+		<List>Youngolepis_praecursor</List>
+		<List>Persephonichthys_chthonica</List>
+		<List>Rhinodipterus_kimberleyensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="70">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Pardo_etal_2014ab</Filename>
+	<Parent>Qiao_et_Zhu_2009a</Parent>
+	<Sibling/>
+</SourceTree>

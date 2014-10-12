@@ -1,0 +1,44 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Calvo, J. O.</List>
+			<List>Rubilar-Rogers, D.</List>
+			<List>Moreno, K.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>A new Abelisauridae (Dinosauria: Theropoda) from northwest Patagonia</Title>
+		<Journal>Ameghiniana</Journal>
+		<Volume>41</Volume>
+		<Pages>555-563</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="8">
+		<List>TETANURAE</List>
+		<List>Ceratosaurus</List>
+		<List>Masiakasaurus</List>
+		<List>Ilokelesia</List>
+		<List>Ekrixnatosaurus</List>
+		<List>Majungatholus</List>
+		<List>Carnotaurus</List>
+		<List>Aucasaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="13">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Calvo_etal_2004a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,72 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Clack, J. A.</List>
+			<List>Witzmann, F.</List>
+			<List>Muller, J.</List>
+			<List>Snyder, D.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>A colosteid-like early tetrapod from the St. Louis Limestone (Early Carboniferous, Meramecian), St. Louis, Missouri, USA</Title>
+		<Journal>Fieldiana Life and Earth Sciences</Journal>
+		<Volume>5</Volume>
+		<Pages>17-39</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="35">
+		<List>Acanthostega</List>
+		<List>Adelogyrinus</List>
+		<List>Anthracosaurus</List>
+		<List>Archeria</List>
+		<List>Ariekanerpeton</List>
+		<List>Balanerpeton</List>
+		<List>Baphetes</List>
+		<List>Bruktererpeton</List>
+		<List>Caerorhachis</List>
+		<List>Casineria</List>
+		<List>Chroniosaurus</List>
+		<List>Crassigyrinus</List>
+		<List>Dendrerpeton</List>
+		<List>Discosauriscus</List>
+		<List>Eoherpeton</List>
+		<List>Eucritta</List>
+		<List>Eusthenopteron</List>
+		<List>Gephyrostegus</List>
+		<List>Greererpeton</List>
+		<List>Ichthyostega</List>
+		<List>Loxomma</List>
+		<List>Megalocephalus</List>
+		<List>Microbrachis</List>
+		<List>Paleothyris</List>
+		<List>Pederpes</List>
+		<List>Pholiderpeton</List>
+		<List>Proterogyrinus</List>
+		<List>Ptyonius</List>
+		<List>Saxonerpeton</List>
+		<List>Seymouria</List>
+		<List>Silvanerpeton</List>
+		<List>Utegenia</List>
+		<List>Westlothiana</List>
+		<List>Whatcheeria</List>
+		<List>St_Louis_tetrapod</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="331">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Clack_etal_2012a</Filename>
+	<Parent>Clack_et_Klembara_2009a</Parent>
+	<Sibling/>
+</SourceTree>

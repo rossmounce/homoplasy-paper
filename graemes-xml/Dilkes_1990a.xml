@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Dilkes, D. W.</List>
+		</Author>
+		<Year>1990</Year>
+		<Title>A new trematopsid amphibian (Temnospondyli: Dissorophoidea) from the Lower Permian of Texas</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>10</Volume>
+		<Pages>222-243</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="5">
+		<List>Amphibamus</List>
+		<List>Tersomius</List>
+		<List>Anconastes</List>
+		<List>Phonerpeton</List>
+		<List>Acheloma</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="7">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Dilkes_1990a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

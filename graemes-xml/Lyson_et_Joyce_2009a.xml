@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lyson, T. R.</List>
+			<List>Joyce, W. G.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>A new species of <em>Palatobaena</em> (Testudines: Baenidae) and a maximum parsimony and Bayesian phylogenetic analysis of Baenidae</Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>83</Volume>
+		<Pages>457-470</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="16">
+		<List>Pleurosternon_bullockii</List>
+		<List>Glyptops_plicatulus</List>
+		<List>Trinitichelys_hiatti</List>
+		<List>Neurankylus_exemius</List>
+		<List>Hayemys_latifrons</List>
+		<List>Plesiobaena_antiqua</List>
+		<List>Boremys_pulchra</List>
+		<List>Boremys_grandis</List>
+		<List>Eubaena_cephalica</List>
+		<List>Palatobaena_cohen</List>
+		<List>Palatobaena_bairdi</List>
+		<List>Palatobaena_gaffneyi</List>
+		<List>Stygiochelys_estesi</List>
+		<List>Baena_arenosa</List>
+		<List>Chisternon_undatum</List>
+		<List>Goleremys_mckennai</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="54">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lyson_et_Joyce_2009a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

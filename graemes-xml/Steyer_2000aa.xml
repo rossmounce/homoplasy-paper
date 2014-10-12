@@ -1,0 +1,40 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Steyer, J. S.</List>
+		</Author>
+		<Year>2000</Year>
+		<Title>Ontogeny and phylogeny in temnospondyls: a new method of analysis</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>130</Volume>
+		<Pages>449-467</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="6">
+		<List>Dendrerpeton</List>
+		<List>Acanthostomatops</List>
+		<List>Cheliderpeton</List>
+		<List>Onchiodon</List>
+		<List>Apateon</List>
+		<List>Parotosuchus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="41">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Steyer_2000aa</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

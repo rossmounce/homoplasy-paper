@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Bell, P. R.</List>
+			<List>Evans, D. C.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>Revision of the status of Saurolophus (Hadrosauridae) from California, USA</Title>
+		<Journal>Canadian Journal of Earth Sciences</Journal>
+		<Volume>47</Volume>
+		<Pages>1417-1426</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="21">
+		<List>Iguanodon</List>
+		<List>Probactrosaurus</List>
+		<List>Eolambia</List>
+		<List>Protohadros</List>
+		<List>Telmatosaurus</List>
+		<List>Corythosaurus</List>
+		<List>Edmontosaurus</List>
+		<List>Gryposaurus</List>
+		<List>Hypacrosaurus</List>
+		<List>K._australis</List>
+		<List>Lambeosaurus</List>
+		<List>Lophorhothon</List>
+		<List>Naashoibitosaurus</List>
+		<List>Nipponosaurus</List>
+		<List>Parasaurolophus</List>
+		<List>Prosaurolophus</List>
+		<List>Saurolophus</List>
+		<List>Tsintaosaurus</List>
+		<List>LACM_slash_CIT_2852</List>
+		<List>Brachylophosaurus</List>
+		<List>Maiasaura</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="105">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Bell_et_Evans_2010ab</Filename>
+	<Parent>Horner_etal_2004a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Parrish, J. M.</List>
+		</Author>
+		<Year>1991</Year>
+		<Title>A new specimen of an early crocodylomorph (cf. Sphenosuchus sp.) from the Upper Triassic Chinle Formation of Petrified Forest National Park, Arizona</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>11</Volume>
+		<Pages>198-212</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="13">
+		<List>Chasmatosaurus</List>
+		<List>Rutiodon</List>
+		<List>Desmatosuchus</List>
+		<List>Postosuchus</List>
+		<List>Pseudhesperosuchus</List>
+		<List>Hesperosuchus</List>
+		<List>Saltoposuchus</List>
+		<List>Dibrothrosuchus</List>
+		<List>Sphenosuchus</List>
+		<List>Protosuchus</List>
+		<List>Hemiprotosuchus</List>
+		<List>Alligator</List>
+		<List>UCMP_129740</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="60">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Parrish_1991a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

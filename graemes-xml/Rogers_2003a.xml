@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Rogers, J. V.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title><em>Pachycheilosuchus trinquei</em>, a new procoelous crocodyliform from the Lower Cretaceous (Albian) Glen Rose Formation of Texas</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>23</Volume>
+		<Pages>128-145</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="15">
+		<List>Protosuchus</List>
+		<List>Notosuchus</List>
+		<List>Libycosuchus</List>
+		<List>Barusuchus</List>
+		<List>Sebecus</List>
+		<List>Araripesuchus</List>
+		<List>Alligatorium</List>
+		<List>Theriosuchus</List>
+		<List>Pachycheilosuchus</List>
+		<List>Goniopholis</List>
+		<List>Sunosuchus</List>
+		<List>Bernissartia</List>
+		<List>Crocodylia</List>
+		<List>Pholidosaurus</List>
+		<List>Dyrosauridae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="112">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Rogers_2003a</Filename>
+	<Parent>Clark_1994a</Parent>
+	<Sibling/>
+</SourceTree>

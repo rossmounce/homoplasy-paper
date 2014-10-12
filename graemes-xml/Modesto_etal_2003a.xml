@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Modesto, S. P.</List>
+			<List>Damiani, R. J.</List>
+			<List>Sues, H.-D.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>A reappraisal of <em>Coletta seca</em>, a basal procolophonoid reptile from the Lower Triassic of South Africa</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>45</Volume>
+		<Pages>883-895</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="9">
+		<List>Owenetta</List>
+		<List>Coletta</List>
+		<List>Contritosaurus</List>
+		<List>Tichvinskia</List>
+		<List>Procolophon</List>
+		<List>Thelegnathus</List>
+		<List>Scoloparia</List>
+		<List>Leptopleuron</List>
+		<List>Hypsognathus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="25">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Modesto_etal_2003a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

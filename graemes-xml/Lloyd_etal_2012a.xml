@@ -1,0 +1,122 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lloyd, G. T.</List>
+			<List>Wang, S. C.</List>
+			<List>Brusatte, S. L.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>Identifying heterogeneity in rates of morphological evolution: discrete character change in the evolution of lungfish (Sarcopterygii; Dipnoi)</Title>
+		<Journal>Evolution</Journal>
+		<Volume>66</Volume>
+		<Pages>330-348</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="86">
+		<List>Psarolepis_romeri</List>
+		<List>Diabolepis_speratus</List>
+		<List>Adololopas_moyasmithae</List>
+		<List>Adelargo_schultzei</List>
+		<List>Amadeodipterus_kencampbelli</List>
+		<List>Andreyevichthys_epitomus</List>
+		<List>Archaeonectes_pertusus</List>
+		<List>Asthenorhynchus_meemannae</List>
+		<List>Barwickia_downunda</List>
+		<List>Chirodipterus_australis</List>
+		<List>Chirodipterus_onawwayensis</List>
+		<List>Chirodipterus_rhenanus</List>
+		<List>Chirodipterus_wildungensis</List>
+		<List>Dipnorhynch_cathlesae</List>
+		<List>Dipnorhynchus_sussmilchi</List>
+		<List>Dipnorhynchus_kiandrensis</List>
+		<List>Dipnorhynchus_kurikae</List>
+		<List>Dipterus_cf_valenciennesi</List>
+		<List>Dipterus_valenciennesi</List>
+		<List>Eoctenodus_microsoma</List>
+		<List>Fleurantia_denticulata</List>
+		<List>Gogodipterus_paddyensis</List>
+		<List>Griphognathus_minutidens</List>
+		<List>Griphognathus_sculpta</List>
+		<List>Griphognathus_whitei</List>
+		<List>Grossipterus_crassus</List>
+		<List>Holodipterus_elderae</List>
+		<List>Holodipterus_gogoensis</List>
+		<List>Holodipterus_santacrucensis</List>
+		<List>Howidipterus_donnae</List>
+		<List>Ichnomylax_kurnai</List>
+		<List>Iowadipterus_halli</List>
+		<List>Jarvikia_arctica</List>
+		<List>Jessenia_concentrica</List>
+		<List>Melanognathus_canadensis</List>
+		<List>Nielsenia_nordica</List>
+		<List>Oervigia_nordica</List>
+		<List>Orlovichthys_limnatis</List>
+		<List>Palaeodaphus_insignis</List>
+		<List>Pentlandia_macroptera</List>
+		<List>Phaneropleuron_andersoni</List>
+		<List>Pillararhynchus_longi</List>
+		<List>Rhinodipterus_secans</List>
+		<List>Rhinodipterus_ulrichi</List>
+		<List>Rhynchodipterus_elginensis</List>
+		<List>Robinsondipterus_longi</List>
+		<List>Scaumenacia_curta</List>
+		<List>Soederberghia_groenlandica</List>
+		<List>Sorbitorhynchus_deleaskitus</List>
+		<List>Speonesydrion_iani</List>
+		<List>Stomiahykus_thlaodus</List>
+		<List>Sunwapta_grandiceps</List>
+		<List>Tarachomylax_oepiki</List>
+		<List>Uranolophus_wyomingensis</List>
+		<List>Westollrhynchus_lehmanni</List>
+		<List>Aphelodus_anapes</List>
+		<List>Archaeoceratodus_avus</List>
+		<List>Arganodus_atlantis</List>
+		<List>Ariguna_formosa</List>
+		<List>Asiatoceratodus_sharovi</List>
+		<List>Beltanodus_ambilobensis</List>
+		<List>Ceratodus_formosa</List>
+		<List>Ceratodus_latissimus</List>
+		<List>Conchopoma_gadiforme</List>
+		<List>Ctenodus_romeri</List>
+		<List>Delatitia_breviceps</List>
+		<List>Ferganoceratodus_jurassicus</List>
+		<List>Ganopristodus_splendens</List>
+		<List>Gnathorhiza_serrata</List>
+		<List>Gosfordia_truncata</List>
+		<List>Lepidosiren_paradoxa</List>
+		<List>Megapleuron_zangerli</List>
+		<List>Metaceratodus_wollastoni</List>
+		<List>Microceratodus_angolensis</List>
+		<List>Mioceratodus_gregoryi</List>
+		<List>Namatozodia_pitikanta</List>
+		<List>Neoceratodus_forsteri</List>
+		<List>Palaeophichthys_parvulus</List>
+		<List>Paraceratodus_germaini</List>
+		<List>Parasagenodus_sibiricus</List>
+		<List>Protopterus_annectens</List>
+		<List>Ptychoceratodus_serratus</List>
+		<List>Sagenodus_inaequalis</List>
+		<List>Straitonia_waterstoni</List>
+		<List>Tellerodus_sturi</List>
+		<List>Tranodis_castrensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="91">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lloyd_etal_2012a</Filename>
+	<Parent>Schultze_et_Marshall_1993a</Parent>
+	<Sibling/>
+</SourceTree>

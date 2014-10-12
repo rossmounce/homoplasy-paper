@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Zhou, Z.-H.</List>
+			<List>Zhang, F.-C.</List>
+		</Author>
+		<Year>2002</Year>
+		<Title>Largest bird from the Early Cretaceous and its implications for the earliest avian ecological diversification</Title>
+		<Journal>Naturwissenschaften</Journal>
+		<Volume>89</Volume>
+		<Pages>34-38</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="17">
+		<List>Dromaeosauridae</List>
+		<List>Archaeopteryx_lithographica</List>
+		<List>Rahonavis_ostromi</List>
+		<List>Sapeornis_chaoyangensis</List>
+		<List>Confuciusornis_sanctus</List>
+		<List>Patagopteryx_deferrariisi</List>
+		<List>Apsaravis_ukhaana</List>
+		<List>Ichthyornis</List>
+		<List>Crypturellus_undulatus</List>
+		<List>Gallus_gallus</List>
+		<List>Crax_pauxi</List>
+		<List>Anas_platyrhynchos</List>
+		<List>Chauna_torquata</List>
+		<List>Gobipteryx_minuta</List>
+		<List>Neuquenornis_volans</List>
+		<List>Cathayornis_yandica</List>
+		<List>Concornis_lacustris</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="201">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Zhou_et_Zhang_2002b</Filename>
+	<Parent>Norell_et_Clarke_2001a</Parent>
+	<Sibling/>
+</SourceTree>

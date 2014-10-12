@@ -1,0 +1,147 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Halliday, T. J. D.</List>
+			<List>Brandalise De Andrade, M.</List>
+			<List>Benton, M. J.</List>
+			<List>Efrimov, M. B.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>A re-evaluation of goniopholidid crocodylomorph material from Central Asia: biogeographic and phylogenetic implications</Title>
+		<Journal>Acta Palaeontologica Polonica</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="110">
+		<List>Gracilisuchus</List>
+		<List>Pseudhesperosuchus</List>
+		<List>Sphenosuchus</List>
+		<List>Junggarsuchus</List>
+		<List>Protosuchus</List>
+		<List>Hemiprotosuchus</List>
+		<List>Gobiosuchus</List>
+		<List>Hsisosuchus_chowi</List>
+		<List>Hsisosuchus_dashanpuensis</List>
+		<List>Hsisosuchus_chungkingensis</List>
+		<List>Platysuchus</List>
+		<List>Steneosaurus_herberti</List>
+		<List>Steneosaurus_bollensis</List>
+		<List>Pelagosaurus</List>
+		<List>Cricosaurus_araucanensis</List>
+		<List>Cricosaurus_suevicus</List>
+		<List>Rhacheosaurus</List>
+		<List>Metriorhynchus</List>
+		<List>Dakosaurus_carpenteri</List>
+		<List>Dakosaurus_maximus</List>
+		<List>Dakosaurus_andiniensis</List>
+		<List>Geosaurus_giganteus</List>
+		<List>Geosaurus_grandis</List>
+		<List>Geosaurus_SMNS81834</List>
+		<List>Notosuchus</List>
+		<List>Mariliasuchus</List>
+		<List>Yacarerani</List>
+		<List>Adamantinasuchus</List>
+		<List>Armadillosuchus</List>
+		<List>Sphagesaurus_huenei</List>
+		<List>Sphagesaurus_montealtensis</List>
+		<List>DGM1411R</List>
+		<List>Comahuesuchus</List>
+		<List>Baurusuchus</List>
+		<List>Stratiotosuchus</List>
+		<List>Malawisuchus</List>
+		<List>Candidodon</List>
+		<List>Uruguaysuchus</List>
+		<List>Araripesuchus_patagonicus</List>
+		<List>Araripesuchus_gomesii</List>
+		<List>Araripesuchus_wegeneri</List>
+		<List>Araripesuchus_buitreraensis</List>
+		<List>Araripesuchus_tsangatsangana</List>
+		<List>Crato_Form</List>
+		<List>Libycosuchus</List>
+		<List>Lomasuchus</List>
+		<List>Montealtosuchus</List>
+		<List>Uberabasuchus</List>
+		<List>cf_Hamadasuchus</List>
+		<List>Caririsuchus</List>
+		<List>Sebecus</List>
+		<List>Bergisuchus</List>
+		<List>SMNS81977</List>
+		<List>Anatosuchus</List>
+		<List>Kaprosuchus</List>
+		<List>Mahajangasuchus</List>
+		<List>Theriosuchus_pusillus</List>
+		<List>Theriosuchus_guimarotae</List>
+		<List>Stolokrosuchus</List>
+		<List>Calsoyasuchus</List>
+		<List>Eutretauranosuchus</List>
+		<List>Sunosuchus_junggarensis</List>
+		<List>Sunosuchus_miaoi</List>
+		<List>Sunosuchus_thailandicus</List>
+		<List>Siamosuchus_phuphokensis</List>
+		<List>Amphicotylus_lucasii</List>
+		<List>Nannosuchus</List>
+		<List>Goniopholis_simus</List>
+		<List>Goniopholis_kiplingi</List>
+		<List>Goniopholis_baryglyphaeus</List>
+		<List>Hooley_goniopholidid</List>
+		<List>Dollo_goniopholidid</List>
+		<List>Hulke_goniopholidid</List>
+		<List>Pholidosaurus_schaumburgensis</List>
+		<List>Sarcosuchus_hartti</List>
+		<List>Sarcosuchus_imperator</List>
+		<List>Elosuchus</List>
+		<List>Vectisuchus</List>
+		<List>Dyrosaurus_maghribensis</List>
+		<List>Dyrosaurus_phosphaticus</List>
+		<List>Congosaurus</List>
+		<List>Guarinisuchus</List>
+		<List>Rugosuchus</List>
+		<List>Bernissartia</List>
+		<List>Susisuchus</List>
+		<List>Isisfordia</List>
+		<List>Allodaposuchus</List>
+		<List>Iharkutosuchus</List>
+		<List>Hylaeochampsa</List>
+		<List>Gavialis</List>
+		<List>Piscogavialis</List>
+		<List>Eosuchus</List>
+		<List>Tomistoma</List>
+		<List>Crocodylus_niloticus</List>
+		<List>Crocodylus_porosus</List>
+		<List>Osteolaemus</List>
+		<List>Voay</List>
+		<List>Brachychampsa</List>
+		<List>Diplocynodon</List>
+		<List>Alligator_mississipiensis</List>
+		<List>Caiman_crocodilus</List>
+		<List>Caiman_latirostris</List>
+		<List>Melanosuchus</List>
+		<List>Paleosuchus</List>
+		<List>Denazinosuchus</List>
+		<List>Goniopholis_phuwiangensis</List>
+		<List>Siamosuchus_pupokensis_plus_Goniopholis_phuwiangensis</List>
+		<List>Kansajsuchus_extensus</List>
+		<List>PIN_4174_dash_1</List>
+		<List>PIN_2229</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="486">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Halliday_etal_inpressa</Filename>
+	<Parent>Andrade_etal_2011a</Parent>
+	<Sibling/>
+</SourceTree>

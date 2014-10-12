@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Andrade, M. B.</List>
+			<List>Bertini, R. J.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>Morphological and anatomical observations about Mariliasuchus amarali and Notosuchus terrestris (Mesoeucrocodylia) and their relationships with other South American notosuchians</Title>
+		<Journal>Arquivos do Museu Nacional Rio de Janeiro</Journal>
+		<Volume>66</Volume>
+		<Pages>5-62</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="20">
+		<List>Sphenosuchia</List>
+		<List>Protosuchia</List>
+		<List>Alligatoridae</List>
+		<List>Anatosuchus</List>
+		<List>Araripesuchus_gomesii</List>
+		<List>Araripesuchus_patagonicus</List>
+		<List>Baurusuchidae</List>
+		<List>Bernissartia</List>
+		<List>Candidodon</List>
+		<List>Chimaerasuchus</List>
+		<List>Comahuesuchus</List>
+		<List>Crocodylidae</List>
+		<List>Malawisuchus</List>
+		<List>Mariliasuchus</List>
+		<List>Notosuchus</List>
+		<List>Sebecus</List>
+		<List>Simosuchus</List>
+		<List>Sphagesaurus_huenei</List>
+		<List>Thalattosuchia</List>
+		<List>Uruguaysuchus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="183">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Andrade_et_Bertini_2008aa</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

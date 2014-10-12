@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Yates, A. M.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>A new species of the primitive dinosaur Thecodontosaurus (Saurischia: Sauropodomorpha) and its implications for the systematics of early dinosaurs</Title>
+		<Journal>Journal of Systematic Palaeontology</Journal>
+		<Volume>1</Volume>
+		<Pages>1-42</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="21">
+		<List>Crurotarsi</List>
+		<List>Marasuchus</List>
+		<List>Ornithischia</List>
+		<List>Herrerasauridae</List>
+		<List>Neotheropoda</List>
+		<List>Saturnalia</List>
+		<List>T._antiquus</List>
+		<List>T._caducus</List>
+		<List>Efraasia</List>
+		<List>Plateosaurus</List>
+		<List>Anchisaurus</List>
+		<List>Riojasaurus</List>
+		<List>Lufengosaurus</List>
+		<List>Coloradisaurus</List>
+		<List>Massospondylus</List>
+		<List>Yunnanosaurus</List>
+		<List>Euskelosaurus</List>
+		<List>Melanorosaurus</List>
+		<List>Blikanosaurus</List>
+		<List>Vulcanodon</List>
+		<List>Eusauropoda</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="164">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Yates_2003b</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

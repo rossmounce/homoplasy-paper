@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Langer, M. C.</List>
+			<List>Benton, M. J.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>Early dinosaurs: a phylogenetic study</Title>
+		<Journal>Journal of Systematic Palaeontology</Journal>
+		<Volume>4</Volume>
+		<Pages>309-358</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List>Outgroup</List>
+		<List>Silesaurus</List>
+		<List>Pisanosaurus</List>
+		<List>Ornithischians</List>
+		<List>Herrerasaurus</List>
+		<List>Staurikosaurus</List>
+		<List>Eoraptor</List>
+		<List>Guaibasaurus</List>
+		<List>Theropods</List>
+		<List>Saturnalia</List>
+		<List>Sauropodomorpha</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="98">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Langer_et_Benton_2006a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

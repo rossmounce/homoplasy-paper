@@ -1,0 +1,68 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Huttenlocker, A. K.</List>
+			<List>Sidor, C. A.</List>
+			<List>Smith, R. M. H.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>A new specimen of <em>Promoschorhynchus</em> (Therapsida: Therocephalia: Akidnognathidae) from the Lower Triassic of South Africa and its implications for theriodont survivorship across the Permo-Triassic boundary</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>31</Volume>
+		<Pages>405-421</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="32">
+		<List>Biarmosuchus</List>
+		<List>Titanophoneus</List>
+		<List>Gorgonopsia</List>
+		<List>Anomodontia</List>
+		<List>Charassognathus</List>
+		<List>Dvinia</List>
+		<List>Procynosuchus</List>
+		<List>Lycosuchus</List>
+		<List>Glanosuchus</List>
+		<List>Ictidosaurus</List>
+		<List>Pristerognathus</List>
+		<List>Olivierosuchus</List>
+		<List>Moschorhinus</List>
+		<List>Euchambersia</List>
+		<List>Mirotenthes</List>
+		<List>Hofmeyria</List>
+		<List>Ictidostoma</List>
+		<List>Viatkosuchus</List>
+		<List>Moschowhaitsia</List>
+		<List>Theriognathus</List>
+		<List>SAM_PK_K10014</List>
+		<List>RC_116</List>
+		<List>Cerdops</List>
+		<List>Ictidosuchus</List>
+		<List>Ictidosuchops</List>
+		<List>Ictidosuchoides</List>
+		<List>Regisaurus</List>
+		<List>Lycideops</List>
+		<List>Tetracynodon_darti</List>
+		<List>Scaloposaurus</List>
+		<List>Ericiolacerta</List>
+		<List>Bauria</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="121">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Huttenlocker_etal_2011a</Filename>
+	<Parent>Huttenlocker_2009a</Parent>
+	<Sibling/>
+</SourceTree>

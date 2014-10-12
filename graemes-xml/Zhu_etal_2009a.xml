@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Zhu, M.</List>
+			<List>Zhao, W.-J.</List>
+			<List>Jia, L.-T.</List>
+			<List>Lu, J.</List>
+			<List>Qiao, T.</List>
+			<List>Qu, Q.-M.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>The oldest articulated osteichthyan reveals mosaic gnathostome characters</Title>
+		<Journal>Nature</Journal>
+		<Volume>458</Volume>
+		<Pages>469-474</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="23">
+		<List>Akmonistion</List>
+		<List>Acanthodes</List>
+		<List>Dicksonosteus</List>
+		<List>Lophosteus</List>
+		<List>Andreolepis</List>
+		<List>Guiyu</List>
+		<List>Ligulalepis</List>
+		<List>Dialipina</List>
+		<List>Cheirolepis</List>
+		<List>Osorioichthys</List>
+		<List>Howqualepis</List>
+		<List>Mimia</List>
+		<List>Moythomasia</List>
+		<List>Meemannia</List>
+		<List>Psarolepis</List>
+		<List>Achoania</List>
+		<List>Onychodus</List>
+		<List>Miguashaia</List>
+		<List>Styloichthys</List>
+		<List>Youngolepis</List>
+		<List>Diabolepis</List>
+		<List>Powichthys</List>
+		<List>Kenichthys</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="153">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Zhu_etal_2009a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

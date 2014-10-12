@@ -1,0 +1,95 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Averianov, A. O.</List>
+			<List>Krasnolutskiii, S. A.</List>
+			<List>Ivantsov, S. V.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>A new basal coelurosaur (Dinosauria: Theropoda) from the Middle Jurassic of Siberia</Title>
+		<Journal>Proceedings of the Zoological Institute RAS</Journal>
+		<Volume>314</Volume>
+		<Pages>42-57</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="59">
+		<List>Marasuchus</List>
+		<List>Silesaurus</List>
+		<List>Herrerasaurus</List>
+		<List>Eoraptor</List>
+		<List>Saturnalia</List>
+		<List>Plateosaurus</List>
+		<List>Liliensternus_liliensterni</List>
+		<List>Coelophysis_bauri</List>
+		<List>Coelophysis_rhodesiensis</List>
+		<List>Syntarsus_kayentakatae</List>
+		<List>Segisaurus</List>
+		<List>Zupaysaurus</List>
+		<List>Dilophosaurus_sinensis</List>
+		<List>Dracovenator</List>
+		<List>Dilophosaurus_wetherilli</List>
+		<List>Cryolophosaurus</List>
+		<List>Ceratosaurus</List>
+		<List>Elaphrosaurus</List>
+		<List>Ilokelesia</List>
+		<List>Abelisaurus</List>
+		<List>Carnotaurus</List>
+		<List>Majungatholus</List>
+		<List>Masiakasaurus</List>
+		<List>Noasaurus</List>
+		<List>Piatnitzkysaurus</List>
+		<List>Condorraptor</List>
+		<List>Dubreuillosaurus</List>
+		<List>Afrovenator</List>
+		<List>Torvosaurus</List>
+		<List>Eustreptospondylus</List>
+		<List>Streptospondylus</List>
+		<List>Baryonyx</List>
+		<List>Suchomimus</List>
+		<List>Irritator</List>
+		<List>Monolophosaurus</List>
+		<List>Allosaurus</List>
+		<List>Neovenator</List>
+		<List>Sinraptor</List>
+		<List>Acrocanthosaurus</List>
+		<List>Tyrannotitan</List>
+		<List>Carcharodontosaurus</List>
+		<List>Giganotosaurus</List>
+		<List>Mapusaurus</List>
+		<List>Tugulusaurus</List>
+		<List>Tyrannosaurus</List>
+		<List>Dilong</List>
+		<List>Kileskus</List>
+		<List>Proceratosaurus</List>
+		<List>Guanlong</List>
+		<List>Sinosauropteryx</List>
+		<List>Coelurus</List>
+		<List>Compsognathus</List>
+		<List>Shenzhousaurus</List>
+		<List>Sinornithomimus</List>
+		<List>Ornitholestes</List>
+		<List>Deinonychus</List>
+		<List>Velociraptor</List>
+		<List>Archaeopteryx</List>
+		<List>Confuciusornis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="353">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Averianov_etal_2010a</Filename>
+	<Parent>Smith_etal_2008a</Parent>
+	<Sibling/>
+</SourceTree>

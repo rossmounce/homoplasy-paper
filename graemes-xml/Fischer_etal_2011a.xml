@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Fischer, V.</List>
+			<List>Masure, E.</List>
+			<List>Arkhangelsky, M. A.</List>
+			<List>Godefroit, P.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>A new Barremian (Early Cretaceous) ichthyosaur from western Russia</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>31</Volume>
+		<Pages>1010-1025</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="15">
+		<List>Temnodontosaurus</List>
+		<List>Ichthyosaurus</List>
+		<List>Stenopterygius</List>
+		<List>O_icenicus</List>
+		<List>Chacaicosaurus</List>
+		<List>Brachypterygius</List>
+		<List>Arthropterygius</List>
+		<List>Mollesaurus</List>
+		<List>Caypullisaurus</List>
+		<List>Aegirosaurus</List>
+		<List>P_australis</List>
+		<List>P_hercynicus</List>
+		<List>Maiaspondylus</List>
+		<List>Athabascasaurus</List>
+		<List>Sveltonectes</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="50">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Fischer_etal_2011a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

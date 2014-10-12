@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ebbestad, J. O. R.</List>
+			<List>Budd, G. E.</List>
+		</Author>
+		<Year>2002</Year>
+		<Title>Burlingiid trilobites from Norway, with a discussion of their affinities and relationships</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>45</Volume>
+		<Pages>1171-1195</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="21">
+		<List>Olenua</List>
+		<List>Peltura</List>
+		<List>Kleptothula</List>
+		<List>Dolerolenua</List>
+		<List>Lancastria</List>
+		<List>B_angusta</List>
+		<List>B_hectora</List>
+		<List>B_jagoa</List>
+		<List>B_cf_jagoa</List>
+		<List>B_obscura</List>
+		<List>B_ovata</List>
+		<List>S_acutangula</List>
+		<List>S_amphionura</List>
+		<List>S_amphionura_Russian</List>
+		<List>S_athrotrypha</List>
+		<List>S_gostinensia</List>
+		<List>S_longa</List>
+		<List>S_sinensia</List>
+		<List>S_spinulosa</List>
+		<List>S_cf_spinulosa</List>
+		<List>S_transversa</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="22">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ebbestad_et_Budd_2002a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

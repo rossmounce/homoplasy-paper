@@ -1,0 +1,71 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Liu, J.</List>
+			<List>Rieppel, O.</List>
+			<List>Jiang, D.-Y.</List>
+			<List>Aitchison, J. C.</List>
+			<List>Motani, R.</List>
+			<List>Zhang, Q.-Y.</List>
+			<List>Zhou, C.-Y.</List>
+			<List>Sun, Y.-Y.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>A new pachypleurosaur (Reptilia: Sauropterygia) from the lower Middle Triassic of southwestern China and the phylogenetic relationships of Chinese pachypleurosaurs</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>31</Volume>
+		<Pages>292-302</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="30">
+		<List>Ancestor</List>
+		<List>Captorhinidae</List>
+		<List>Araeoscelidia</List>
+		<List>Claudiosaurus</List>
+		<List>Younginiformes</List>
+		<List>Rhynchosauria</List>
+		<List>Trilophosaurus</List>
+		<List>Prolacertiformes</List>
+		<List>Choristodera</List>
+		<List>Archosauriformes</List>
+		<List>Kuehneosauridae</List>
+		<List>Rhynchocephalia</List>
+		<List>Squamata</List>
+		<List>Testudines</List>
+		<List>Placodus</List>
+		<List>Cyamodus</List>
+		<List>Corosaurus</List>
+		<List>Cymatosaurus</List>
+		<List>Augustasaurus</List>
+		<List>Pistosaurus</List>
+		<List>Plesiosaurus</List>
+		<List>Simosaurus</List>
+		<List>Germanosaurus</List>
+		<List>Nothosaurus</List>
+		<List>Lariosaurus</List>
+		<List>Wumengosaurus</List>
+		<List>Serpiano_Neustico</List>
+		<List>Anaro_Dactylo</List>
+		<List>Keichousaurus</List>
+		<List>Dianopachysaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="137">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Liu_etal_2011a</Filename>
+	<Parent>Rieppel_etal_2002a</Parent>
+	<Sibling/>
+</SourceTree>

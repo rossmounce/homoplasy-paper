@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Li, D.-Q.</List>
+			<List>You, H.-L.</List>
+			<List>Zhang, J.-P.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>A new specimen of <em>Suzhousaurus megatherioides</em> (Dinosauria: Therizinosauroidea) from the Early Cretaceous of northwestern China</Title>
+		<Journal>Canadian Journal of Earth Sciences</Journal>
+		<Volume>45</Volume>
+		<Pages>769-779</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="18">
+		<List>Oviraptorosauria</List>
+		<List>Ornithomimosauria</List>
+		<List>Dromaeosauridae</List>
+		<List>Troodontidae</List>
+		<List>Alvarezsauridae</List>
+		<List>Eshanosaurus</List>
+		<List>Beipiaosaurus</List>
+		<List>Alxasaurus</List>
+		<List>Enigmosaurus</List>
+		<List>Erlikosaurus</List>
+		<List>Segnosaurus</List>
+		<List>N_brevispinus</List>
+		<List>Therizinosaurus</List>
+		<List>Neimongosaurus</List>
+		<List>Nothronychus</List>
+		<List>Suzhousaurus</List>
+		<List>Erliansaurus</List>
+		<List>Falcarius</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="40">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Li_etal_2008b</Filename>
+	<Parent>Li_etal_2007a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,86 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Prieto-Marquez, A.</List>
+			<List>Wagner, J. R.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>Saurolophus morrisi, a new species of hadrosaurid dinosaur from the Late Cretaceous of the Pacific coast of North America</Title>
+		<Journal>Acta Palaeontologica Polonica</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="51">
+		<List>Iguanodon_bernissartensis</List>
+		<List>Mantellisaurus_atherfieldensis</List>
+		<List>Equijubus_normani</List>
+		<List>Probactrosaurus_gobiensis</List>
+		<List>Tanius_sinensis</List>
+		<List>Bactrosaurus_johnsoni</List>
+		<List>Gilmoreosaurus_mongoliensis</List>
+		<List>Telmatosaurus_transsylvanicus</List>
+		<List>Lophorhothon_atopus</List>
+		<List>Hadrosaurus_foulkii</List>
+		<List>Shantungosaurus_giganteus</List>
+		<List>Kerberosaurus_manakini</List>
+		<List>Sabinosaur</List>
+		<List>Prosaurolophus_maximus</List>
+		<List>Saurolophus_morrisi</List>
+		<List>Saurolophus_angustirostris</List>
+		<List>Saurolophus_osborni</List>
+		<List>Wulagasaurus_dongi</List>
+		<List>Kritosaurus_navajovius</List>
+		<List>UTEP_OTU</List>
+		<List>Secernosaurus_koerneri</List>
+		<List>Willinakaqe_salitralensis</List>
+		<List>Gryposaurus_latidens</List>
+		<List>Gryposaurus_monumentensis</List>
+		<List>Gryposaurus_notabilis</List>
+		<List>Edmontosaurus_annectens</List>
+		<List>Edmontosaurus_regalis</List>
+		<List>Two_Medicine_OTU</List>
+		<List>Brachylophosaurus_canadensis</List>
+		<List>Maiasaura_peeblesorum</List>
+		<List>Aralosaurus_tuberiferus</List>
+		<List>Jaxartosaurus_aralensis</List>
+		<List>Olorotitan_ararhensis</List>
+		<List>Amurosaurus_riabinini</List>
+		<List>Sahaliyania_elunchunorum</List>
+		<List>Velafrons_coahuilensis</List>
+		<List>Hypacrosaurus_altispinus</List>
+		<List>Lambeosaurus_laticaudus</List>
+		<List>Hypacrosaurus_stebingeri</List>
+		<List>Corythosaurus_casuarius</List>
+		<List>Corythosaurus_intermedius</List>
+		<List>Lambeosaurus_lambei</List>
+		<List>Lambeosaurus_magnicristatus</List>
+		<List>Charonosaurus_jiayinensis</List>
+		<List>Parasaurolophus_cyrtocristatus</List>
+		<List>Parasaurolophus_tubicen</List>
+		<List>Parasaurolophus_walkeri</List>
+		<List>Pararhabdodon_isonensis</List>
+		<List>Tsintaosaurus_spinorhinus</List>
+		<List>Eolambia_caroljonesa</List>
+		<List>Protohadros_byrdi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="289">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Prieto-Marquez_et_Wagner_inpressa</Filename>
+	<Parent>Prieto-Marquez_2010a</Parent>
+	<Sibling/>
+</SourceTree>

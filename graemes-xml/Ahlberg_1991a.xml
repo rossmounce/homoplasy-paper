@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ahlberg, P. E.</List>
+		</Author>
+		<Year>1991</Year>
+		<Title>A re-examination of sarcopterygian interrelationships, with special reference to the Porolepiformes</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>103</Volume>
+		<Pages>241-287</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List>Actinopterygii</List>
+		<List>Onychodontia</List>
+		<List>Actinistia</List>
+		<List>Tetrapoda</List>
+		<List>Panderichthyiidae</List>
+		<List>Osteolepiformes</List>
+		<List>Rhizodontida</List>
+		<List>Porolepiformes</List>
+		<List>Powichthys</List>
+		<List>Youngolepis</List>
+		<List>Diabolepis</List>
+		<List>Dipnoi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="54">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ahlberg_1991a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

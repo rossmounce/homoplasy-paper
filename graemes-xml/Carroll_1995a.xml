@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Carroll, R. L.</List>
+		</Author>
+		<Year>1995</Year>
+		<Title>Problems of the phylogenetic analysis of Paleozoic choanates</Title>
+		<Journal>Bulletin du Museum national d'Histoire naturelle, Paris, 4e ser.</Journal>
+		<Volume>17</Volume>
+		<Pages>389-445</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="18">
+		<List>eusthenopteron</List>
+		<List>panderichthys</List>
+		<List>acanthostega</List>
+		<List>ichthyostega</List>
+		<List>crassigyrinus</List>
+		<List>loxommatids</List>
+		<List>anthracosaurs</List>
+		<List>seymouriamorphs</List>
+		<List>westlothiana</List>
+		<List>diadectomorphs</List>
+		<List>amniotes</List>
+		<List>colosteids</List>
+		<List>temnospondyls</List>
+		<List>nectrideans</List>
+		<List>microsaurs</List>
+		<List>adelogyrinids</List>
+		<List>lysorophids</List>
+		<List>aistopods</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="184">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Carroll_1995a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

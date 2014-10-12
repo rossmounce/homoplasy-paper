@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Watabe, M.</List>
+			<List>Tsogtbaatar, K.</List>
+			<List>Sullivan, R. M.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>A new pachycephalosaurid from the Baynshire Formation (Cenomanian-late Santonian), Gobi Desert, Mongolia</Title>
+		<Journal>Bulletin of the New Mexico Museum of Natural History &amp; Science</Journal>
+		<Volume>53</Volume>
+		<Pages>489-497</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="18">
+		<List>Yinlong</List>
+		<List>Stenopelix</List>
+		<List>Wannanosaurus</List>
+		<List>Goyocephale</List>
+		<List>Homalocephale</List>
+		<List>Stegoceras_validum</List>
+		<List>S_novomexicanum</List>
+		<List>Tylocephale</List>
+		<List>Prenocephale_prenes</List>
+		<List>P_brevis</List>
+		<List>P_edmontonensis</List>
+		<List>P_goodwini</List>
+		<List>Colepiocephale</List>
+		<List>Hanssuesia</List>
+		<List>Stygimoloch</List>
+		<List>Dracorex_plus_Sandy_Site_pachy</List>
+		<List>Pachycephalosaurus</List>
+		<List>Amtocephale</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="48">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Watabe_etal_2011a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

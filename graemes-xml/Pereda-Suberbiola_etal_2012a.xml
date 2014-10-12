@@ -1,0 +1,96 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Pereda-Suberbiola, X.</List>
+			<List>Knoll, F.</List>
+			<List>Ruiz-Omenaca, J. I.</List>
+			<List>Company, J.</List>
+			<List>Torcida Fernandez-Baldor, F.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>Reassessment of <em>Prejanopterus curvirostris</em>, a basal pterodactyloid pterosaur from the Early Cretaceous of Spain</Title>
+		<Journal>Acta Geologica Sinica</Journal>
+		<Volume>86</Volume>
+		<Pages>1389-1401</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="58">
+		<List>Outgroup</List>
+		<List>Preondactylus</List>
+		<List>Dimorphodon</List>
+		<List>Peteinosaurus</List>
+		<List>Anurognathus</List>
+		<List>Batrachognathus</List>
+		<List>Dendrorhynchoides</List>
+		<List>Jeholopterus</List>
+		<List>Austriadactylus</List>
+		<List>Campylognathoides</List>
+		<List>Eudimorphodon</List>
+		<List>Raeticodactylus</List>
+		<List>Scaphognathus</List>
+		<List>Sordes</List>
+		<List>Pterorhynchus</List>
+		<List>Cacibupteryx</List>
+		<List>Dorygnathus</List>
+		<List>Nesodactylus</List>
+		<List>Rhamphorhynchus</List>
+		<List>Darwinopterus</List>
+		<List>Pterodactylus</List>
+		<List>Cycnorhamphus</List>
+		<List>Eosipterus</List>
+		<List>Pterodactylus_longicolum</List>
+		<List>Gnathosaurus</List>
+		<List>Cearadactylus</List>
+		<List>Gegepterus</List>
+		<List>Ctenochasma</List>
+		<List>Pterodaustro</List>
+		<List>Istiodactylus</List>
+		<List>Nurhachius</List>
+		<List>Haopterus</List>
+		<List>Ornithocheirus</List>
+		<List>Anhanguera</List>
+		<List>Coloborhynchus</List>
+		<List>Ludodactylus</List>
+		<List>Boreopterus</List>
+		<List>Nyctosaurus</List>
+		<List>Muzquizopteryx</List>
+		<List>Pteranodon</List>
+		<List>Germanodactylus_cristatus</List>
+		<List>Germanodactylus_rhamphastinus</List>
+		<List>Dsungaripterus</List>
+		<List>Tatal_pterosaur</List>
+		<List>Noripterus</List>
+		<List>Lonchodectes</List>
+		<List>Tapejara</List>
+		<List>Tupandactylus</List>
+		<List>Sinopterus</List>
+		<List>Huaxiapterus</List>
+		<List>Shenzhoupterus</List>
+		<List>Chaoyangopterus</List>
+		<List>Tupuxuara</List>
+		<List>Thalassodromeus</List>
+		<List>Quetzalcoatlus</List>
+		<List>Zhejiangopterus</List>
+		<List>Azhdarcho</List>
+		<List>Prejanopterus_curvirostris</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="117">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Pereda-Suberbiola_etal_2012a</Filename>
+	<Parent>Lu_etal_2010b</Parent>
+	<Sibling/>
+</SourceTree>

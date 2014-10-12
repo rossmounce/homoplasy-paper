@@ -1,0 +1,68 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Klembara, J.</List>
+			<List>Ruta, M.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>The seymouriamorph tetrapod <em>Ariekanerpeton sigalovi</em> from the Lower Permian of Tadzhikistan. Part II: postcranial anatomy and relationships</Title>
+		<Journal>Transactions of the Royal Society of Edinburgh: Earth Sciences</Journal>
+		<Volume>96</Volume>
+		<Pages>71-93</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="33">
+		<List>OUTGROUP</List>
+		<List>Acanthostega</List>
+		<List>Archeria</List>
+		<List>Ariekanerpeton</List>
+		<List>Balanerpeton</List>
+		<List>Baphetes</List>
+		<List>Crassigyrinus</List>
+		<List>Dendrerpeton</List>
+		<List>Diadectes</List>
+		<List>Discosauriscus_austriacus</List>
+		<List>Discosauriscus_pulcherrimus</List>
+		<List>Ecolsonia</List>
+		<List>Eocaptorhinus</List>
+		<List>Eoherpeton</List>
+		<List>Eryops</List>
+		<List>Gephyrostegus</List>
+		<List>Greererpeton</List>
+		<List>Ichthyostega</List>
+		<List>Lethiscus</List>
+		<List>Limnoscelis</List>
+		<List>Makowskia</List>
+		<List>Megalocephalus</List>
+		<List>Microbrachis</List>
+		<List>Petrolacosaurus</List>
+		<List>Pholiderpeton</List>
+		<List>Proterogyrinus</List>
+		<List>Sauropleura</List>
+		<List>Saxonerpeton</List>
+		<List>Seymouria_baylorensis</List>
+		<List>Seymouria_sanjuanensis</List>
+		<List>Tseajaia</List>
+		<List>Utegenia</List>
+		<List>Whatcheeria</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="150">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Klembara_et_Ruta_2005a</Filename>
+	<Parent>Klembara_et_Ruta_2003a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,88 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Prieto-Marquez, A.</List>
+			<List>Salinas, G. C.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>A re-evaluation of Secernosaurus koerneri and Kritosaurus australis (Dinosauria, Hadrosauridae) from the Late Cretaceous of Argentina</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>30</Volume>
+		<Pages>813-837</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="53">
+		<List>Ouranosaurus_nigeriensis</List>
+		<List>Iguanodon_spp.</List>
+		<List>Equijubus_normani</List>
+		<List>Probactrosaurus_spp.</List>
+		<List>Tanius_sinensis</List>
+		<List>Bactrosaurus_johnsoni</List>
+		<List>Gilmoreosaurus_mongoliensis</List>
+		<List>Claosaurus_agilis</List>
+		<List>Lophorhothon_atopus</List>
+		<List>Telmatosaurus_transsylvanicus</List>
+		<List>Hadrosaurus_foulkii</List>
+		<List>Barsboldia_sicinskii</List>
+		<List>Edmontosaurus_annectens</List>
+		<List>Edmontosaurus_regalis</List>
+		<List>Kerberosaurus_manakini</List>
+		<List>Kritosaurus_navajovius</List>
+		<List>Sabinas_OTU</List>
+		<List>Shantungosaurus_giganteus</List>
+		<List>Wulagasaurus_dongi</List>
+		<List>Gryposaurus_latidens</List>
+		<List>Gryposaurus_monumentensis</List>
+		<List>Gryposaurus_notabilis</List>
+		<List>UTEP_OTU</List>
+		<List>Salitral_Moreno_OTU</List>
+		<List>Secernosaurus_koerneri</List>
+		<List>Prosaurolophus_maximus</List>
+		<List>Saurolophus_angustirostris</List>
+		<List>Saurolophus_osborni</List>
+		<List>Aralosaurus_tuberiferus</List>
+		<List>Jaxartosaurus_aralensis</List>
+		<List>Olorotitan_ararhensis</List>
+		<List>Amurosaurus_riabinini</List>
+		<List>Sahaliyania_elunchunorum</List>
+		<List>Hypacrosaurus_altispinus</List>
+		<List>Lambeosaurus_laticaudus</List>
+		<List>Nipponosaurus_sachalinensis</List>
+		<List>Velafrons_coahuilensis</List>
+		<List>Hypacrosaurus_stebingeri</List>
+		<List>Corythosaurus_casuarius</List>
+		<List>Corythosaurus_intermedius</List>
+		<List>Lambeosaurus_lambei</List>
+		<List>Lambeosaurus_magnicristatus</List>
+		<List>Charonosaurus_jiayinensis</List>
+		<List>Parasaurolophus_cyrtocristatus</List>
+		<List>Parasaurolophus_tubicen</List>
+		<List>Parasaurolophus_walkeri</List>
+		<List>Pararhabdodon_isonensis</List>
+		<List>Tsintaosaurus_spinorhinus</List>
+		<List>Wahweap_OTU</List>
+		<List>Brachylophosaurus_canadensis</List>
+		<List>Maiasaura_peeblesorum</List>
+		<List>Eolambia_caroljonesa</List>
+		<List>Protohadros_byrdi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="299">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Prieto-Marquez_et_Salinas_2010a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

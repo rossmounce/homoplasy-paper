@@ -1,0 +1,60 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Burns, M. E.</List>
+			<List>Currie, P. J.</List>
+			<List>Sissons, R. L.</List>
+			<List>Arbour, V. M.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>Juvenile specimens of Pinacosaurus grangeri Gilmore, 1933 (Ornithischia: Ankylosauria) from the Late Cretaceous of China, with comments on the specific taxonomy of Pinacosaurus</Title>
+		<Journal>Cretaceous Research</Journal>
+		<Volume>32</Volume>
+		<Pages>174-186</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="23">
+		<List>Scelidosaurus</List>
+		<List>Huayangosaurus</List>
+		<List>Gargoyleosaurus</List>
+		<List>Gastonia</List>
+		<List>Gobisaurus</List>
+		<List>Shamosaurus</List>
+		<List>Tsagantegia</List>
+		<List>Talarurus</List>
+		<List>Minmi</List>
+		<List>Tarchia</List>
+		<List>Saichania</List>
+		<List>P._grangeri</List>
+		<List>P._mephistocephalus</List>
+		<List>Tianzhenosaurus</List>
+		<List>Nodocephalosaurus</List>
+		<List>Ankylosaurus</List>
+		<List>Euoplocephalus</List>
+		<List>Pawpawsaurus</List>
+		<List>Silvisaurus</List>
+		<List>Sauropelta</List>
+		<List>Panoplosaurus</List>
+		<List>E._longiceps</List>
+		<List>E._rugosidens</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="66">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Burns_etal_2011a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

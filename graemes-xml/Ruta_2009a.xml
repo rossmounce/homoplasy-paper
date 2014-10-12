@@ -1,0 +1,90 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ruta, M.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>Patterns of morphological evolution in major groups of Palaeozoic Temnospondyli (Amphibia: Tetrapoda)</Title>
+		<Journal>Special Papers in Palaeontology</Journal>
+		<Volume>81</Volume>
+		<Pages>91-120</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="56">
+		<List>Panderichthys_rhombolepis</List>
+		<List>Acanthostomatops_vorax</List>
+		<List>Acheloma_cumminsi</List>
+		<List>Acroplous_vorax</List>
+		<List>Adamanterpeton_ohioensis</List>
+		<List>Amphibamus_grandiceps</List>
+		<List>Anconastes_vesperus</List>
+		<List>Apateon_pedestris</List>
+		<List>Balanerpeton_woodi</List>
+		<List>Broiliellus_brevis</List>
+		<List>Capetus_palustris</List>
+		<List>Cheliderpeton_latirostre</List>
+		<List>Chenoprosopus_lewisi</List>
+		<List>Chenoprosopus_milleri</List>
+		<List>Cochleosaurus_bohemicus</List>
+		<List>Cochelosaurus_florensis</List>
+		<List>Dendrerpeton_acadianum</List>
+		<List>Dendrerpeton_confusum</List>
+		<List>Doleserpeton_annectens</List>
+		<List>Dvinosaurus_primus</List>
+		<List>Ecolsonia_cutlerensis</List>
+		<List>Edops_craigi</List>
+		<List>Eoscopus_lockardi</List>
+		<List>Eryops_megacephalus</List>
+		<List>Eugyrinus_wildi</List>
+		<List>Isodectes_obtusus</List>
+		<List>Leptorophus_tener</List>
+		<List>Micromelerpeton_credneri</List>
+		<List>Micropholis_stowi_1_long_dash_skulled_morph</List>
+		<List>Micropholis_stowi_2_short_dash_skulled_morph</List>
+		<List>Neldasaurus_wrightae</List>
+		<List>Onchiodon_labyrinthicus</List>
+		<List>Perryella_olsoni</List>
+		<List>Phonerpeton_pricei</List>
+		<List>Platyrhinops_lyelli</List>
+		<List>Procochleosaurus_jarrowensis</List>
+		<List>Schoenfeldereton_prescheri</List>
+		<List>Sclerocephalus_haeuseri</List>
+		<List>Slaugenhopia_texensis</List>
+		<List>Thabanchuia_oomiae</List>
+		<List>Trimerorhachis_insignis</List>
+		<List>Tupilakosaurus_wetlugensis</List>
+		<List>Zatrachys_serratus</List>
+		<List>Acanthostega_gunnari</List>
+		<List>Baphetes_kirkbyi</List>
+		<List>Colosteus_scutellatus</List>
+		<List>Crassigyrinus_scoticus</List>
+		<List>Eucritta_melanolimnetes</List>
+		<List>Greererpeton_burkemorani</List>
+		<List>Ichthyostega_stensioei</List>
+		<List>Loxomma_rankini</List>
+		<List>Megalocephalus_pachycephalus</List>
+		<List>Ossinodus_pueri</List>
+		<List>Pederpes_finneyae</List>
+		<List>Tulerpeton_curtum</List>
+		<List>Whatcheeria_deltae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="246">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ruta_2009a</Filename>
+	<Parent>Ruta_et_Bolt_2006a</Parent>
+	<Sibling/>
+</SourceTree>

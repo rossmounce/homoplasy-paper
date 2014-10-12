@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Loconte, H.</List>
+			<List>Stevenson, D. W.</List>
+		</Author>
+		<Year>1990</Year>
+		<Title>Cladistics of the Spermatophyta</Title>
+		<Journal>Brittonia</Journal>
+		<Volume>42</Volume>
+		<Pages>197-211</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="15">
+		<List>Pteridophyte</List>
+		<List>Stangerineae</List>
+		<List>Cycadineae</List>
+		<List>Ginkgoales</List>
+		<List>Taxineae</List>
+		<List>Pinineae</List>
+		<List>Ephedra</List>
+		<List>Gnetum</List>
+		<List>Welwitschia</List>
+		<List>Calycanthales</List>
+		<List>Magnoliales</List>
+		<List>laurales</List>
+		<List>Illiciales</List>
+		<List>Lactoridales</List>
+		<List>Palmates</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="39">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Loconte_et_Stevenson_1990a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Reisz, R. R.</List>
+			<List>Frobisch, J.</List>
+		</Author>
+		<Year>2014</Year>
+		<Title>The oldest caseid synapsid from the Late Pennsylvanian of Kansas, and the evolution of herbivory in terrestrial vertebrates</Title>
+		<Journal>PLOS ONE</Journal>
+		<Volume>9</Volume>
+		<Pages>e94518</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="15">
+		<List>Reptilia</List>
+		<List>Diadectes</List>
+		<List>Limnoscelis</List>
+		<List>Mycterosaurus</List>
+		<List>Varanops</List>
+		<List>Eothyris</List>
+		<List>Oromycter_dolesorum</List>
+		<List>Casea_broilii</List>
+		<List>Casea_rutena</List>
+		<List>Cotylorhynchus</List>
+		<List>Angelosaurus</List>
+		<List>Ennatosaurus_tecton</List>
+		<List>Hamiltonia</List>
+		<List>Oedaleops</List>
+		<List>Ophiacodon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="108">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Reisz_et_Frobisch_2014a</Filename>
+	<Parent>Maddin_etal_2008a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,71 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Skelton, P. W.</List>
+			<List>Smith, A. B.</List>
+		</Author>
+		<Year>2000</Year>
+		<Title>A preliminary phylogeny for rudist bivalves: sifting clades from grades</Title>
+		<Journal>Geological Society Special Publications</Journal>
+		<Volume>177</Volume>
+		<Pages>97-127</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="36">
+		<List>Pachyrisma_grande</List>
+		<List>Epidiceras_sinistrum</List>
+		<List>Matheronia_salevensis</List>
+		<List>Toucasia_carinata</List>
+		<List>Diceras_arietinum</List>
+		<List>Valletia_auris</List>
+		<List>Retha_tulae</List>
+		<List>Amphitriscoeus_waringi</List>
+		<List>Coalcomana_ramos</List>
+		<List>Pacytraga_tubiconcha</List>
+		<List>Praecaprina_varians</List>
+		<List>Caprina_adversa</List>
+		<List>Monopleura_taurica</List>
+		<List>Monopleura_varians</List>
+		<List>Agriopleura</List>
+		<List>Eoradiolites_plicatus</List>
+		<List>Sauvagesia</List>
+		<List>Durania_cornupastoris</List>
+		<List>Osculigera</List>
+		<List>Pseudosabinia_klinghardti</List>
+		<List>Chiapasell_radiolitiformis</List>
+		<List>Horiopleura_dumortieri</List>
+		<List>Horiopleura_lamberti</List>
+		<List>Praecaprotina_yaegashii</List>
+		<List>Tepeyacia_corrugata</List>
+		<List>Glossomyophorus_costatus</List>
+		<List>Himeraelites</List>
+		<List>Caprotina_striata</List>
+		<List>Plagioptychus</List>
+		<List>Dictyoptychus_morgani</List>
+		<List>Icnthyosarcolites_triangularis</List>
+		<List>Anitllocaprina_occidentalis</List>
+		<List>Hipurites</List>
+		<List>Barrettia_monilifera</List>
+		<List>Pratorreites_omanensis</List>
+		<List>Torreites_sanchezi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="32">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Skelton_et_Smith_2000a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,44 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lehman, T. M.</List>
+		</Author>
+		<Year>1996</Year>
+		<Title>A horned dinosaur from the El Picacho Formation of west Texas, and review of ceratopsian dinosaurs from the American southwest</Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>70</Volume>
+		<Pages>494-508</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="10">
+		<List>Centrosaurinae</List>
+		<List>Chasmosaurus_belli</List>
+		<List>Chasmosaurus_canadensis</List>
+		<List>Chasmosaurus_mariscalensis</List>
+		<List>Pentaceratops_sternbergii</List>
+		<List>Anchiceratops_ornatus</List>
+		<List>Arrhinoceratops_brachyops</List>
+		<List>Torosaurus_latus</List>
+		<List>Torosaurus_utahensis</List>
+		<List>Trieratops_horridus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="14">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lehman_1996a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

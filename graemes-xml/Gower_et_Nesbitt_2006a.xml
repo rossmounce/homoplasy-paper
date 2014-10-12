@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Gower, D. J.</List>
+			<List>Nesbitt, S. J.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>The braincase of <em>Arizonasaurus babbitti</em> - further evidence for the non-monophyly of 'rauisuchian' archosaurs</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>26</Volume>
+		<Pages>79-87</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="13">
+		<List>Proterosuchus_fergusi</List>
+		<List>Garjainia_prima</List>
+		<List>Euparkeria_capensis</List>
+		<List>Phytosaurs</List>
+		<List>Saurosuchus_galilei</List>
+		<List>Batrachotomus_kupferzellensis</List>
+		<List>Tikisuchus_romeri</List>
+		<List>Postosuchus_kirkpatricki</List>
+		<List>Aetosaurians</List>
+		<List>Sphenosuchus_acutus</List>
+		<List>Dibothrosuchus_elaphos</List>
+		<List>Crocodylus_sp</List>
+		<List>Arizonasaurus_babbitti</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="27">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Gower_et_Nesbitt_2006a</Filename>
+	<Parent>Gower_2002a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Holtz, T. R.</List>
+		</Author>
+		<Year>1994</Year>
+		<Title>The phylogenetic position of the Tyrannosauridae; implications for theropod systematics</Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>68</Volume>
+		<Pages>1100-1117</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="19">
+		<List>Coelophysidae</List>
+		<List>Dilophosaurus</List>
+		<List>Ceratosaurus</List>
+		<List>Abelisauridae</List>
+		<List>Elaphrosaurus</List>
+		<List>Torvosaurus</List>
+		<List>Megalosaurus</List>
+		<List>Allosaurus</List>
+		<List>Acrocanthosaurus</List>
+		<List>Compsognathus</List>
+		<List>Ornitholestes</List>
+		<List>Dromaeosauridae</List>
+		<List>Archaeopteryx</List>
+		<List>Oviraptoridae</List>
+		<List>Elmisauridae</List>
+		<List>Avimimus</List>
+		<List>Tyrannosauridae</List>
+		<List>Troodontidae</List>
+		<List>Ornithomimosauria</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="126">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Holtz_1994a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

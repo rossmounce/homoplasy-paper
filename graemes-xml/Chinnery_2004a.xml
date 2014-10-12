@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Chinnery, B. J.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>Description of Prenoceratops pieganensis gen. et sp. nov. (Dinosauria: Neoceratopsia) from the Two Medicine Formation of Montana</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>24</Volume>
+		<Pages>572-590</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="16">
+		<List>Pachycephalosauria</List>
+		<List>Psittacosauridae</List>
+		<List>Chaoyangosaurus</List>
+		<List>Archaeoceratops</List>
+		<List>Graciliceratops</List>
+		<List>Bagaceratops</List>
+		<List>Protoceratops</List>
+		<List>Asiaceratops</List>
+		<List>Liaoceratops</List>
+		<List>Montanoceratops</List>
+		<List>Prenoceratops</List>
+		<List>Udanoceratops</List>
+		<List>Leptoceratops</List>
+		<List>Zuniceratops</List>
+		<List>Centrosaurus</List>
+		<List>Triceratops</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="102">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Chinnery_2004a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

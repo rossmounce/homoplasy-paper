@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Modesto, S. P.</List>
+			<List>Rubidge, B.</List>
+			<List>Welman, J.</List>
+		</Author>
+		<Year>1999</Year>
+		<Title>The most basal anomodont therapsid and the primacy of Gondwana in the evolution of the anomodonts</Title>
+		<Journal>Proceedings of the Royal Society of London B</Journal>
+		<Volume>266</Volume>
+		<Pages>331-337</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List>Dinocephalia</List>
+		<List>Gorgonopsia</List>
+		<List>Therocephalia</List>
+		<List>Patranomodon</List>
+		<List>Otsheria</List>
+		<List>Ulemica</List>
+		<List>Suminia</List>
+		<List>Galeops</List>
+		<List>Eodicynodon</List>
+		<List>Pristerodon</List>
+		<List>Diictodon</List>
+		<List>Anomocephalus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="40">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Modesto_etal_1999a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

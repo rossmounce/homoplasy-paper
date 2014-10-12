@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Forster, C. A.</List>
+			<List>Sampson, S. D.</List>
+			<List>Chiappe, L. M.</List>
+			<List>Krause, D. W.</List>
+		</Author>
+		<Year>1998</Year>
+		<Title>The theropod ancestry of birds: new evidence from the Late Cretaceous of Madagascar</Title>
+		<Journal>Science</Journal>
+		<Volume>279</Volume>
+		<Pages>1915-1919</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="15">
+		<List>Allosaurus</List>
+		<List>Tyrannosauridae</List>
+		<List>Compsognathus</List>
+		<List>Oviraptoridae</List>
+		<List>Ornithomimidae</List>
+		<List>Dromaeosauridae</List>
+		<List>Troodontidae</List>
+		<List>Unenlagia</List>
+		<List>Archaeopteryx</List>
+		<List>Rahona</List>
+		<List>Alvarezsauridae</List>
+		<List>Iberomesornis</List>
+		<List>Enantiornithes</List>
+		<List>Ornithurae</List>
+		<List>Patagopteryx</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="113">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Forster_etal_1998a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

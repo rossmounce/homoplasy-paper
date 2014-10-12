@@ -1,0 +1,68 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>deBraga, M.</List>
+			<List>Rieppel, O.</List>
+		</Author>
+		<Year>1997</Year>
+		<Title>Reptile phylogeny and the interrelationships of turtles</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>120</Volume>
+		<Pages>281-354</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="33">
+		<List>Seymouriadae</List>
+		<List>Diadectomorpha</List>
+		<List>Caseidae</List>
+		<List>Ophiacodontidae</List>
+		<List>Edaphosauridae</List>
+		<List>Sphenacodontidae</List>
+		<List>Gorganopsia</List>
+		<List>Cynodontia</List>
+		<List>Captorhinidae</List>
+		<List>Paleothyris</List>
+		<List>Millerettidae</List>
+		<List>Acleistorhinus</List>
+		<List>Lanthanosuchidae</List>
+		<List>Macroleter</List>
+		<List>Bradysaurus</List>
+		<List>Scutosaurus</List>
+		<List>Anthodon</List>
+		<List>Procolophon</List>
+		<List>Owenetta</List>
+		<List>Araeoscelidia</List>
+		<List>Claudiosaurus</List>
+		<List>Younginiformes</List>
+		<List>Kuehneosauridae</List>
+		<List>Testudines</List>
+		<List>Rhynchocephalia</List>
+		<List>Squamata</List>
+		<List>Choristodera</List>
+		<List>Rhynchosauria</List>
+		<List>Prolacertiformes</List>
+		<List>Trilophosaurus</List>
+		<List>Archisauriformes</List>
+		<List>Placodus</List>
+		<List>Eosauropterygia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="168">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>deBraga_et_Rieppel_1997a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

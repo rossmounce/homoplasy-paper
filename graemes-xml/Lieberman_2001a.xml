@@ -1,0 +1,60 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lieberman, B. S.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>Phylogenetic analysis of the <em>Olenellina</em> Walcott, 1890 (Trilobita, Cambrian)</Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>75</Volume>
+		<Pages>96-115</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="26">
+		<List>Daguinaspis_ambroggii</List>
+		<List>Parafallotaspis_grata</List>
+		<List>Pseudojudomiae_gregia</List>
+		<List>Plesionevadia_burri</List>
+		<List>Nevadia_weeksi</List>
+		<List>Nevadella_cartlandi</List>
+		<List>Nevadella_eucharis</List>
+		<List>Nevadella_mountjoyi</List>
+		<List>Nevadella_perfecta</List>
+		<List>Cirquella_espinata</List>
+		<List>Cirquella_nummularia</List>
+		<List>Cirquella_nelsoni</List>
+		<List>Bradyfallotaspis_fusa</List>
+		<List>Paranevadella_subgroenlandicus</List>
+		<List>Cambroinyoella_wallacei</List>
+		<List>Geraldinella_corneiliana</List>
+		<List>Cambropallas_telesto</List>
+		<List>Andalusia_nacornuta</List>
+		<List>Gabriellus_sp.</List>
+		<List>Olenelloidea</List>
+		<List>Callavia_broeggeri</List>
+		<List>Callavalonia_callavei</List>
+		<List>Sdzuyomia_lotzei</List>
+		<List>Judomia_tera</List>
+		<List>Bondonella_typica</List>
+		<List>Neltneria_jacqueti</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="57">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lieberman_2001a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

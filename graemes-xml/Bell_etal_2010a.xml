@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Bell, A. K.</List>
+			<List>Chiappe, L. M.</List>
+			<List>Erickson, G. M.</List>
+			<List>Suzuki, S.</List>
+			<List>Watabe, M.</List>
+			<List>Barsbold, R.</List>
+			<List>Tsogtbaatar, K.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>Description and ecologic analysis of Hollanda luceria, a Late Cretaceous bird from the Gobi Desert (Mongolia)</Title>
+		<Journal>Cretaceous Research</Journal>
+		<Volume>31</Volume>
+		<Pages>16-26</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="16">
+		<List>Dromaeosauridae</List>
+		<List>Archaeopteryx</List>
+		<List>Hollanda_luceria</List>
+		<List>Zhongornis</List>
+		<List>Jeholornis</List>
+		<List>Sapeornis</List>
+		<List>Confuciusornis</List>
+		<List>Changchengornis</List>
+		<List>Longipteryx</List>
+		<List>Eoenantiornis</List>
+		<List>Concornis</List>
+		<List>Patagopteryx</List>
+		<List>Yixianornis</List>
+		<List>Gansus</List>
+		<List>Anas</List>
+		<List>Gallus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="242">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Bell_etal_2010a</Filename>
+	<Parent>Gao_etal_2008a</Parent>
+	<Sibling/>
+</SourceTree>

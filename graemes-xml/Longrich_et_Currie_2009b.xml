@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Longrich, N. R.</List>
+			<List>Currie, P. J.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>A microraptorine (Dinosauria-Dromaeosauridae) from the Late Cretaceous of North America</Title>
+		<Journal>Proceedings of the National Academy of Sciences, USA</Journal>
+		<Volume>106</Volume>
+		<Pages>5002-5007</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="27">
+		<List>Archaeopteryx</List>
+		<List>Sinovenator_changii</List>
+		<List>Byronosaurus_jaffei</List>
+		<List>Troodon</List>
+		<List>Mahakala_omnogovae</List>
+		<List>Rahonavis_ostromi</List>
+		<List>Unenlagia_comahuensis</List>
+		<List>Unenlagia_paynemili</List>
+		<List>Buitreraptor_gonzalezorum</List>
+		<List>Neuquenraptor_argentinus</List>
+		<List>Austroraptor_cabazai</List>
+		<List>Microraptor</List>
+		<List>Graciliraptor_lujiatensis</List>
+		<List>Shanag_ashile</List>
+		<List>Sinornithosaurus_millennii</List>
+		<List>Hesperonychus_elizabethae</List>
+		<List>Bambiraptor_feinbergi</List>
+		<List>Saurornitholestes_langstoni</List>
+		<List>Atrociraptor_marshalli</List>
+		<List>Deinonychus_antirrhopus</List>
+		<List>Velociraptor_mongoliensis</List>
+		<List>Itemirus_medullaris</List>
+		<List>Tsaagan_mangas</List>
+		<List>Adasaurus_mongoliensis</List>
+		<List>Dromaeosaurus_albertensis</List>
+		<List>Utahraptor_ostrommaysi</List>
+		<List>Achillobator_giganticus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="114">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Longrich_et_Currie_2009b</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

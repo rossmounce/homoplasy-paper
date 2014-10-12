@@ -1,0 +1,134 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Brochu, C. A.</List>
+			<List>Parris, D. C.</List>
+			<List>Grandstaff, B. S.</List>
+			<List>Denton, R. K.</List>
+			<List>Gallagher W. B.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>A new species of <em>Borealosuchus</em> (Crocodyliformes, Eusuchia) from the Late Cretaceous-early Paleogene of New Jersey</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>32</Volume>
+		<Pages>105-116</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="96">
+		<List>bern</List>
+		<List>allodap</List>
+		<List>iberocc</List>
+		<List>adriat</List>
+		<List>iharku</List>
+		<List>hylae</List>
+		<List>eothor</List>
+		<List>thneo</List>
+		<List>thmacro</List>
+		<List>eomin</List>
+		<List>eoler</List>
+		<List>eogav</List>
+		<List>pisco</List>
+		<List>grypo</List>
+		<List>gavlew</List>
+		<List>gavgan</List>
+		<List>bthreee</List>
+		<List>bform</List>
+		<List>bwilsoni</List>
+		<List>bacut</List>
+		<List>bstern</List>
+		<List>pvor</List>
+		<List>pgeis</List>
+		<List>pheng</List>
+		<List>pdat</List>
+		<List>leidy</List>
+		<List>deino</List>
+		<List>diprat</List>
+		<List>diphan</List>
+		<List>dipmuel</List>
+		<List>diptor</List>
+		<List>dipdar</List>
+		<List>bary</List>
+		<List>bmont</List>
+		<List>bseal</List>
+		<List>stanger</List>
+		<List>cerato</List>
+		<List>hassiac</List>
+		<List>navajo</List>
+		<List>polyodon</List>
+		<List>wartheni</List>
+		<List>prkayi</List>
+		<List>prutah</List>
+		<List>aramb</List>
+		<List>wannagan</List>
+		<List>alsin</List>
+		<List>almiss</List>
+		<List>almeff</List>
+		<List>althom</List>
+		<List>alols</List>
+		<List>almcg</List>
+		<List>alpre</List>
+		<List>eocai</List>
+		<List>tsoa</List>
+		<List>purus</List>
+		<List>orthog</List>
+		<List>moura</List>
+		<List>caiyac</List>
+		<List>caicroc</List>
+		<List>cailat</List>
+		<List>cailut</List>
+		<List>melf</List>
+		<List>meln</List>
+		<List>paltrig</List>
+		<List>palpal</List>
+		<List>mecis</List>
+		<List>crnil</List>
+		<List>crpor</List>
+		<List>crrhom</List>
+		<List>euth</List>
+		<List>osteotet</List>
+		<List>osteoos</List>
+		<List>voay</List>
+		<List>rima</List>
+		<List>pigotti</List>
+		<List>megarh</List>
+		<List>australo</List>
+		<List>kambara</List>
+		<List>triloph</List>
+		<List>tomlus</List>
+		<List>toyota</List>
+		<List>eggen</List>
+		<List>paratom</List>
+		<List>tomcai</List>
+		<List>thant</List>
+		<List>tompet</List>
+		<List>dollo</List>
+		<List>kenti</List>
+		<List>eversol</List>
+		<List>acer</List>
+		<List>depres</List>
+		<List>affinis</List>
+		<List>germanic</List>
+		<List>prodip</List>
+		<List>tomsch</List>
+		<List>quink</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="179">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Brochu_etal_2012a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

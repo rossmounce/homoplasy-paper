@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Johanson, Z.</List>
+			<List>Ahlberg, P. E.</List>
+		</Author>
+		<Year>1998</Year>
+		<Title>A complete primitive rhizodont from Australia</Title>
+		<Journal>Nature</Journal>
+		<Volume>394</Volume>
+		<Pages>569-573</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="10">
+		<List>Glyptolepis</List>
+		<List>Gooloogongia</List>
+		<List>Barameda</List>
+		<List>Sauripterus</List>
+		<List>Strepsodus</List>
+		<List>Rhizodus</List>
+		<List>Screbinodus</List>
+		<List>Eusthenopteron</List>
+		<List>Panderichthys</List>
+		<List>Acanthostega</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="29">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Johanson_et_Ahlberg_1998a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Norell, M. A.</List>
+			<List>Makovicky, P. J.</List>
+			<List>Clark, J. M.</List>
+		</Author>
+		<Year>2000</Year>
+		<Title>A new troodontid theropod from Ukhaa Tolgod, Mongolia</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>20</Volume>
+		<Pages>7-11</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="10">
+		<List>Ornithomimidae</List>
+		<List>Dromaeosauridae</List>
+		<List>Oviraptorosauria</List>
+		<List>Avialae</List>
+		<List>IGM_100_slash_144</List>
+		<List>Sinornithoides_youngi</List>
+		<List>Byronosaurus_jaffei</List>
+		<List>Troodon_formosus</List>
+		<List>Saurornithoides_mongoliensis</List>
+		<List>Sauronrithoides_junior</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="38">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Norell_etal_2000a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

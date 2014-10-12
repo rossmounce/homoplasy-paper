@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Novas, F. E.</List>
+			<List>Cambiaso, A. V.</List>
+			<List>Ambrosio, A.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>A new basal iguanodontian (Dinosauria, Ornithischia) from the Upper Cretaceous of Patagonia</Title>
+		<Journal>Ameghiniana</Journal>
+		<Volume>41</Volume>
+		<Pages>75-82</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="13">
+		<List>Lesothosaurus</List>
+		<List>Scutellosaurus</List>
+		<List>Marginocephalia</List>
+		<List>Heterodontosaurus</List>
+		<List>Talenkauen</List>
+		<List>Thescelosaurus</List>
+		<List>Hypsilophodon</List>
+		<List>Gasparinisaura</List>
+		<List>Anabisetia</List>
+		<List>Muttaburrasaurus</List>
+		<List>Tenontosaurus</List>
+		<List>Dryosaurus</List>
+		<List>Ankylopollexia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="47">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Novas_etal_2004a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

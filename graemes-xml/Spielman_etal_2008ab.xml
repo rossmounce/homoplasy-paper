@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Spielmann, J. A.</List>
+			<List>Lucas, S. G.</List>
+			<List>Rineheart, L. F.</List>
+			<List>Heckert, A. B.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>The Late Triassic archosauromorph <em>Trilophosaurus</em></Title>
+		<Journal>Bulletin of the New Mexico Museum of Natural History &amp; Science</Journal>
+		<Volume>43</Volume>
+		<Pages>1-</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="25">
+		<List>Petrolacosaurus</List>
+		<List>Youngina</List>
+		<List>Gephyrosaurus</List>
+		<List>Squamata</List>
+		<List>Prolacerta</List>
+		<List>Macrocnemus</List>
+		<List>Tanystropheus</List>
+		<List>Trilophosaurus</List>
+		<List>Howesia</List>
+		<List>Mesosuchus</List>
+		<List>Rhynchosaurus</List>
+		<List>Scaphonyx</List>
+		<List>Stenaulorhynchus</List>
+		<List>Hyperodapedon</List>
+		<List>Proterosuchus</List>
+		<List>Euparkeria</List>
+		<List>Champsosaurus</List>
+		<List>Cteniogenys</List>
+		<List>Lazurussuchus</List>
+		<List>Protorosaurus</List>
+		<List>Megalancosaurus</List>
+		<List>Langobardisaurus</List>
+		<List>Drepanosaurus</List>
+		<List>T_buettneri</List>
+		<List>T_jacobsi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="144">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Spielman_etal_2008ab</Filename>
+	<Parent>Dilkes_1998a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Polly, P. D.</List>
+		</Author>
+		<Year>1996</Year>
+		<Title>The skeleton of <em>Gazinocyon vulpeculus</em> gen. et comb. nov. and the cladistic relationships of Hyaenodontidae (Eutheria, Mammalia)</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>16</Volume>
+		<Pages>303-319</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="17">
+		<List>composit_outgroup</List>
+		<List>Proviverra</List>
+		<List>Arfia</List>
+		<List>Dissopsalis</List>
+		<List>Prototomus</List>
+		<List>Gazinocyon</List>
+		<List>Prolimncyon</List>
+		<List>Thinocyon</List>
+		<List>Sinopa</List>
+		<List>Eurotherium</List>
+		<List>Propterodon</List>
+		<List>Pterodon</List>
+		<List>Hyainailourous</List>
+		<List>Pterodon_hyaenoides</List>
+		<List>Hyaenodon</List>
+		<List>Diedelphodus_altidens</List>
+		<List>Cimolestes_magnus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="60">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Polly_1996a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

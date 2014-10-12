@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Carr, T. D.</List>
+			<List>Williamson, T. E.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>Diversity of late Maastrichtian Tyrannosauridae (Dinosauria: Theropoda) from western North America</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>142</Volume>
+		<Pages>479-523</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="7">
+		<List>Embryo</List>
+		<List>LACM_28471</List>
+		<List>CMNH_7541</List>
+		<List>LACM_23845</List>
+		<List>AMNH_5027</List>
+		<List>LACM_23844</List>
+		<List>Artificial_adult</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="84">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Carr_et_Williamson_2004a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

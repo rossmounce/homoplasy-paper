@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Dilkes, D.</List>
+			<List>Arcucci, A.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title><em>Proterochampsa barrionuevoi</em> (Archosauriformes: Proterochampsia) from the Late Triassic (Carnian) of Argentina and a phylogenetic analysis of <em>Proterochampsia</em></Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>55</Volume>
+		<Pages>853-885</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="15">
+		<List>Proterosuchus_fergusi</List>
+		<List>Euparkeria_capensis</List>
+		<List>Doswellia_kaltenbachi</List>
+		<List>Erythrosuchus_africanus</List>
+		<List>Parasuchus_hislopi</List>
+		<List>Proterochampsa_barrionuevoi</List>
+		<List>Tropidosuchus_romeri</List>
+		<List>Gualosuchus_reigi</List>
+		<List>Chanaresuchus_bonapartei</List>
+		<List>Cerritosaurus_binsfeldi</List>
+		<List>Vancleavea_campi</List>
+		<List>Riojasuchus_tenuisceps</List>
+		<List>Aetosaurus_ferratus</List>
+		<List>Silesaurus_opolensis</List>
+		<List>Herrerasaurus_ischigualastensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="103">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Dilkes_et_Arcucci_inpressa</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Bardet, N.</List>
+			<List>Godefroit, P.</List>
+			<List>Sciau, J.</List>
+		</Author>
+		<Year>1999</Year>
+		<Title>A new elasmosaurid plesiosaur from the Lower Jurassic of southern France</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>42</Volume>
+		<Pages>927-952</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List>P_dolichodeirus_outgroup</List>
+		<List>P_brachypterygius</List>
+		<List>P_guilelmiimperatoris</List>
+		<List>Tricleidus</List>
+		<List>Cryptoclidus</List>
+		<List>Occitanosaurus</List>
+		<List>Microcleidus</List>
+		<List>Muraenosaurus</List>
+		<List>Alzadasaurus</List>
+		<List>Hydrotherosaurus</List>
+		<List>Thalassomedon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="29">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Bardet_etal_1999a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

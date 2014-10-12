@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Druckenmiller, P. S.</List>
+			<List>Maxwell, E. E.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>A Middle Jurassic (Bajocian) ophthalmosaurid (Reptilia, Ichthyosauria) from the Tuxedni Formation, Alaska and the early diversification of the clade</Title>
+		<Journal>Geological Magazine</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="18">
+		<List>Temnodontosaurus</List>
+		<List>Ichthyosaurus_communis</List>
+		<List>Stenopterygius_quadriscissus</List>
+		<List>Ophthalmosaurus_icenicus</List>
+		<List>Ophthalmosaurus_natans</List>
+		<List>Chacaicosaurus_cayi</List>
+		<List>Brachypterygius_extremus</List>
+		<List>Arthropterygius_chrisorum</List>
+		<List>Mollesaurus_perialus</List>
+		<List>Caypullisaurus_bonpartei</List>
+		<List>Aegirosaurus_leptospondylus</List>
+		<List>Platypterygius_australis</List>
+		<List>Platypterygius_hercynicus</List>
+		<List>Maiaspondylus_lindoei</List>
+		<List>Athabascasaurus_bitumineus</List>
+		<List>Sveltonectes_insolitus</List>
+		<List>Acamptonectes_densus</List>
+		<List>UAMES_3411</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="51">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Druckenmiller_et_Maxwell_inpressa</Filename>
+	<Parent>Fischer_etal_2012a</Parent>
+	<Sibling/>
+</SourceTree>

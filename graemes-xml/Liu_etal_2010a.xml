@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Liu, J.</List>
+			<List>Rubidge, B.</List>
+			<List>Li, J.-L.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>A new specimen of <em>Biseridens qilianicus</em> indicates its phylogenetic position as the most basal anomodont</Title>
+		<Journal>Proceedings of the Royal Society of London B</Journal>
+		<Volume>277</Volume>
+		<Pages>285-292</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="15">
+		<List>Dimetrodon</List>
+		<List>Biarmosuchus</List>
+		<List>Herpetoskylax</List>
+		<List>Syodon</List>
+		<List>Titanophoneus</List>
+		<List>Estemmenosuchus</List>
+		<List>Biseridens</List>
+		<List>Anomocephalus</List>
+		<List>Patranomodon</List>
+		<List>Otsheria</List>
+		<List>Ulemica</List>
+		<List>Suminia</List>
+		<List>Galeops</List>
+		<List>Eodicynodon</List>
+		<List>Gorgonops</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="75">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Liu_etal_2010a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sues, H.-D.</List>
+			<List>Shubin, N. H.</List>
+			<List>Olsen, P. E.</List>
+		</Author>
+		<Year>1994</Year>
+		<Title>A new sphenodontian (Lepidosauria: Rhynchocephalia) from the McCoy Brook Formation (Lower Jurassic) of Nova Scotia, Canada</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>14</Volume>
+		<Pages>327-340</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>outgroup</List>
+		<List>Gephyrosaurus</List>
+		<List>Diphydontosaurus</List>
+		<List>Planocephalosaurus</List>
+		<List>Polyspenodon</List>
+		<List>Brachyrhinodon</List>
+		<List>Clevosaurus_hudsoni</List>
+		<List>C_bairdi</List>
+		<List>C_petilus</List>
+		<List>C_mcgilli</List>
+		<List>Homoeosaurus</List>
+		<List>Kallimodon</List>
+		<List>Palaeopleurosaurus</List>
+		<List>Sphenodon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="34">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sues_etal_1994a</Filename>
+	<Parent>Wu_1994a</Parent>
+	<Sibling/>
+</SourceTree>

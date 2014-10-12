@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Andres, B.</List>
+			<List>Clark, J. M.</List>
+			<List>Xu, X.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>A new rhamphorhynchid pterosaur from the Upper Jurassic of Xinjiang, China, and the phylogenetic relationships of basal pterosaurs</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>30</Volume>
+		<Pages>163-187</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="22">
+		<List>Ornithosuchus_longidens</List>
+		<List>Herrerasaurus_ischigualastensis</List>
+		<List>Scleromochlus_taylori</List>
+		<List>Preondactylus_buffarinii</List>
+		<List>Eudimorphodon_ranzii</List>
+		<List>Austriadactytlus_cristatus</List>
+		<List>Peteinosaurus_zambelli</List>
+		<List>Dimorphodon_macronyx</List>
+		<List>Campylognathoides_liasicus</List>
+		<List>Sericipterus_wucaiwanensis</List>
+		<List>Angustinaripterus_longicephalus</List>
+		<List>Harpactognathus_gentryii</List>
+		<List>Cacibupteryx_caribensis</List>
+		<List>Rhamphorhynchus_muensteri</List>
+		<List>Dorygnathus_banthensis</List>
+		<List>Scaphognathus_crassirostris</List>
+		<List>Sordes_pilosus</List>
+		<List>Jeholopterus_ningchengensis</List>
+		<List>Dendrorhynchoides_curvidentatus</List>
+		<List>Batrachognathus_volans</List>
+		<List>Anurognathus_ammoni</List>
+		<List>Pterodactyloidea</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="75">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Andres_etal_2010a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,76 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Frobisch, J.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>The cranial anatomy of <em>Kombuisia frerensis</em> Hotton (Synapsida, Dicynodontia) and a new phylogeny of anomodont therapsids</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>150</Volume>
+		<Pages>117-144</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="42">
+		<List>Titanophoneus</List>
+		<List>Gorgonops</List>
+		<List>Lycosuchidae</List>
+		<List>Anomocephalus</List>
+		<List>Patranomodon</List>
+		<List>Otsheria</List>
+		<List>Suminia</List>
+		<List>Ulemica</List>
+		<List>Galeops</List>
+		<List>Eodicynodon</List>
+		<List>Colobodectes</List>
+		<List>Robertia</List>
+		<List>Diictodon</List>
+		<List>Pristerodon</List>
+		<List>Endothiodon</List>
+		<List>Chelydontops</List>
+		<List>Emydops</List>
+		<List>Kingoria</List>
+		<List>Cistecephalus</List>
+		<List>Myosaurus</List>
+		<List>Tropidostoma</List>
+		<List>Oudenodon</List>
+		<List>Rhachiocephalus</List>
+		<List>Pelanomodon</List>
+		<List>Aulacephalodon</List>
+		<List>D_lacerticeps</List>
+		<List>Lystrosaurus</List>
+		<List>Kannemeyeria</List>
+		<List>Idelisaurus</List>
+		<List>Interpresosaurus</List>
+		<List>Elph</List>
+		<List>D_trautscholdi</List>
+		<List>Delectosaurus</List>
+		<List>Vivaxosaurus</List>
+		<List>D_amalitzkii</List>
+		<List>Australobarbarus</List>
+		<List>Geikia_elginensis</List>
+		<List>Geikia_locusticeps</List>
+		<List>Kombuisia</List>
+		<List>Kawingasaurus</List>
+		<List>Cistecephaloides</List>
+		<List>Lanthanostegus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="100">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Frobisch_2007a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

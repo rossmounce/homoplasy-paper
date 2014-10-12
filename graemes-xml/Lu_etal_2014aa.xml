@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lu, J.-C.</List>
+			<List>Yi, L.-Q.</List>
+			<List>Brusatte, S. L.</List>
+			<List>Yang, L.</List>
+			<List>Li, H.</List>
+			<List>Chen, L.</List>
+		</Author>
+		<Year>2014</Year>
+		<Title>A new clade of Asian Late Cretaceous long-snouted tyrannosaurids</Title>
+		<Journal>Nature Communications</Journal>
+		<Volume>5</Volume>
+		<Pages>3788</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="9">
+		<List>Embryo</List>
+		<List>LACM_28471</List>
+		<List>LACM_23845</List>
+		<List>CMNH_7541</List>
+		<List>AMNH_5027</List>
+		<List>LACM_23844</List>
+		<List>Adult</List>
+		<List>Alioramus_altai_Holotype</List>
+		<List>Qianzhousaurus_sinensis_Holotype</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="84">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lu_etal_2014aa</Filename>
+	<Parent>Brusatte_etal_2009ba</Parent>
+	<Sibling/>
+</SourceTree>

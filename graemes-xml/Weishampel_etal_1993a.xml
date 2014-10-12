@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Weishampel, D. B.</List>
+			<List>Norman, D. B.</List>
+			<List>Grigorescu, D.</List>
+		</Author>
+		<Year>1993</Year>
+		<Title>Telmatosaurus transsylvanicus from the Late Cretaceous of Romania; the most basal hadrosaurid dinosaur</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>36</Volume>
+		<Pages>361-385</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="15">
+		<List>OUTGROUP</List>
+		<List>Iguanodon</List>
+		<List>Ouranosaurus</List>
+		<List>Telmatosaurus</List>
+		<List>Edmontosaurus</List>
+		<List>Anatosaurus</List>
+		<List>Gryposaurus</List>
+		<List>Maiasaura</List>
+		<List>Brachylophosaurus</List>
+		<List>Prosaurolophus</List>
+		<List>Saurolophus</List>
+		<List>Parasaurolophus</List>
+		<List>Lambeosaurus</List>
+		<List>Corythosaurus</List>
+		<List>Hypacrosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="37">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Weishampel_etal_1993a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

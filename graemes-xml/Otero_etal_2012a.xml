@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Otero, R. A.</List>
+			<List>Soto-Acuna, S.</List>
+			<List>Rubilar-Rogers, D.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>A postcranial skeleton of an elasmosaurid plesiosaur from the Maastrichtian of central Chile, with comments on the affinities of Late Cretaceous plesiosauroids from the Weddellian Biogeographic Province</Title>
+		<Journal>Cretaceous Research</Journal>
+		<Volume>37</Volume>
+		<Pages>89-99</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="22">
+		<List>Plesiosaurus</List>
+		<List>Muraenosaurus</List>
+		<List>Cryptoclidus</List>
+		<List>Tricleidus</List>
+		<List>Kimmerosaurus</List>
+		<List>Edgarosaurus</List>
+		<List>Polycotylus</List>
+		<List>Dolichorhynchops</List>
+		<List>Trinacromerum</List>
+		<List>Brancasaurus</List>
+		<List>Tatenectes</List>
+		<List>Thalassiodracon</List>
+		<List>Kaiwhekea_katiki</List>
+		<List>Callawayasaurus_columbiensis</List>
+		<List>Mauisaurus_haasti</List>
+		<List>Aristonectes_sp</List>
+		<List>Futabasaurus_suzukii</List>
+		<List>Microcleidus_tournemirensis</List>
+		<List>SGO_PV_260</List>
+		<List>Styxosaurus_snowii</List>
+		<List>Thalassomedon_haningtoni</List>
+		<List>Tuarangisaurus_keyesi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="90">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Otero_etal_2012a</Filename>
+	<Parent>OKeefe_et_Street_2009a</Parent>
+	<Sibling/>
+</SourceTree>

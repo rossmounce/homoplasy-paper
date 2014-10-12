@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sereno, P. C.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>Taxonomy, morphology, masticatory function and phylogeny of heterodontosaurid dinosaurs</Title>
+		<Journal>ZooKeys</Journal>
+		<Volume>226</Volume>
+		<Pages>1-225</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="13">
+		<List>Eoraptor</List>
+		<List>Eodromaeus</List>
+		<List>Lesothosaurus</List>
+		<List>Neornithischia</List>
+		<List>Thyreophora</List>
+		<List>Echinodon</List>
+		<List>Fruitadens</List>
+		<List>Tianyulong</List>
+		<List>Lycorhinus</List>
+		<List>Manidens</List>
+		<List>Pegomastax</List>
+		<List>Abrictosaurus</List>
+		<List>Heterodontosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="30">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sereno_2012a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

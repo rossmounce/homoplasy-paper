@@ -1,0 +1,66 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Turner, A. H.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>Osteology and phylogeny of a new species of <em>Araripesuchus</em> (Crocodyliformes: Mesoeucrocodylia) from the Late Cretaceous of Madagascar</Title>
+		<Journal>Historical Biology</Journal>
+		<Volume>18</Volume>
+		<Pages>255-369</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="32">
+		<List>Protosuchus_richardsoni</List>
+		<List>Hemiprotosuchus_leali</List>
+		<List>Orthosuchus_strombergi</List>
+		<List>Hsisosuchus_chungkingensis</List>
+		<List>Notosuchus_terrestris</List>
+		<List>Baurusuchus_pacheoi</List>
+		<List>Sebecus_icaeorhinus</List>
+		<List>Araripesuchus_tsangatsangana</List>
+		<List>Araripesuchus_patagonicus</List>
+		<List>Araripesuchus_gomesii</List>
+		<List>Araripesuchus_wegeneri</List>
+		<List>Alligatorium</List>
+		<List>Theriosuchus_pusillus</List>
+		<List>Pelagosaurus</List>
+		<List>Teleosauridae</List>
+		<List>Metriorhynchidae</List>
+		<List>Eutretauranosuchus_delfsi</List>
+		<List>Goniopholis</List>
+		<List>Bernissartia_fagesii</List>
+		<List>Crocodylia</List>
+		<List>Mahajangasuchus_insignis</List>
+		<List>Peirosauridae</List>
+		<List>Trematochampsa</List>
+		<List>Uruguaysuchus_aznarezi</List>
+		<List>Malawisuchus_mwakayasyunguti</List>
+		<List>Comahuesuchus_brachybuccalis</List>
+		<List>Anatosuchus_minor</List>
+		<List>Simosuchus_clarki</List>
+		<List>Pehuenchesuchus_enderi</List>
+		<List>Bretesuchus_bonapartei</List>
+		<List>Iberosuchus_macrodon</List>
+		<List>Pabwehshi_pakistanensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="129">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Turner_2006a</Filename>
+	<Parent>Buckley_etal_2000a</Parent>
+	<Sibling/>
+</SourceTree>

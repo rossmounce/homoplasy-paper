@@ -1,0 +1,74 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>You, H.-L.</List>
+			<List>Lamanna, M. C.</List>
+			<List>Harris, J. D.</List>
+			<List>Chiappe, L. M.</List>
+			<List>O'Connor, J.-M.</List>
+			<List>Ji, S.-A.</List>
+			<List>Lu, J.-C.</List>
+			<List>Yuan, C.-X.</List>
+			<List>Li, D.-Q.</List>
+			<List>Zhang, X.</List>
+			<List>Lacovara, K. J.</List>
+			<List>Dodson, P.</List>
+			<List>Ji, Q.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>A nearly modern amphibious bird from the Early Cretaceous of northwestern China</Title>
+		<Journal>Science</Journal>
+		<Volume>312</Volume>
+		<Pages>1640-1643</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="28">
+		<List>Dromeosauridae</List>
+		<List>Archaeopteryx_lithographica</List>
+		<List>Jeholornis_prima</List>
+		<List>Sapeornis_chaoyangensis</List>
+		<List>Liaoningornis_longidigitus</List>
+		<List>Archaeorhychus_spathula</List>
+		<List>Yanornis_chaoyangensis</List>
+		<List>Yixianornis_grabaui</List>
+		<List>Gansus</List>
+		<List>Ichthyornis</List>
+		<List>Apsaravis_ukhaana</List>
+		<List>Anas_platyrhynchos</List>
+		<List>Chauna_torquata</List>
+		<List>Gallus_gallus</List>
+		<List>Crax_pauxi</List>
+		<List>Crypturellus_undulatus</List>
+		<List>Lithornis</List>
+		<List>Hesperornis_regalis</List>
+		<List>Baptornis_adventus</List>
+		<List>Patagopteryx_deferrariisi</List>
+		<List>Ambiortus</List>
+		<List>Hongshanornis_longicresta</List>
+		<List>Confuciusornis_sanctus</List>
+		<List>Cathayornis_yandica</List>
+		<List>Concornis_lacustris</List>
+		<List>Neuquenornis_volans</List>
+		<List>Gobipteryx_minuta</List>
+		<List>Vorona_berivotrensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="202">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>You_etal_2006b</Filename>
+	<Parent>Zhou_et_Zhang_2005a</Parent>
+	<Sibling/>
+</SourceTree>

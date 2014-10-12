@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Cracraft, J.</List>
+			<List>Clarke, J.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>The basal clades of modern birds</Title>
+		<Journal> Peabody Museum Special Publication</Journal>
+		<Volume/>
+		<Pages>143-156</Pages>
+		<Booktitle>New Perspectives on the Origin and Early Evolution of Birds</Booktitle>
+		<Publisher>Peabody Museum</Publisher>
+		<City>New Haven</City>
+		<Editor>
+			<List>Gauthier, J.</List>
+			<List>Gall, L. F.</List>
+		</Editor>
+	</Source>
+	<Taxa number="8">
+		<List>Outgroup</List>
+		<List>Hesperonithes</List>
+		<List>Ichthyornis</List>
+		<List>Tinamous</List>
+		<List>Ratites</List>
+		<List>Neoaves</List>
+		<List>Galliformes</List>
+		<List>Anseriformes</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="44">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Cracraft_et_Clarke_2001a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

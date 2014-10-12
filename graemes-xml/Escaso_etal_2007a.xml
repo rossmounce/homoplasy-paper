@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Escaso, F.</List>
+			<List>Ortega, F.</List>
+			<List>Dantas, P.</List>
+			<List>Malafaia, E.</List>
+			<List>Pimentel, N. L.</List>
+			<List>Pereda-Suberbiola, X.</List>
+			<List>Sanz, J. L.</List>
+			<List>Kullberg, J. C.</List>
+			<List>Kullberg, M. C.</List>
+			<List>Barriga, F.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>New evidence of shared dinosaur across Upper Jurassic Proto-North Atlantic: Stegosaurus from Portugal</Title>
+		<Journal>Naturwissenschaften</Journal>
+		<Volume>94</Volume>
+		<Pages>367-374</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="13">
+		<List>Lesothosaurus</List>
+		<List>Huayangosaurus</List>
+		<List>Dacentrurus</List>
+		<List>Chialingosaurus</List>
+		<List>Tuojiangosaurus</List>
+		<List>Kentrosaurus</List>
+		<List>Chungkingosaurus</List>
+		<List>Hesperosaurus</List>
+		<List>Wuerhosaurus</List>
+		<List>Lexovisaurus</List>
+		<List>S._stenops</List>
+		<List>S._ungulatus</List>
+		<List>LHNB_CN__1</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="60">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Escaso_etal_2007a</Filename>
+	<Parent>Galton_et_Upchurch_2004b</Parent>
+	<Sibling/>
+</SourceTree>

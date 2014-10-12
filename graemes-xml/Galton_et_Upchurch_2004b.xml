@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Galton, P. M.</List>
+			<List>Upchurch, P.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>Stegosauria</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>343-362</Pages>
+		<Booktitle>The Dinosauria (Second Edition)</Booktitle>
+		<Publisher>University of California Press</Publisher>
+		<City>Berkeley</City>
+		<Editor>
+			<List>Weishampel, D. B.</List>
+			<List>Dodson, P.</List>
+			<List>Osmolska, H.</List>
+		</Editor>
+	</Source>
+	<Taxa number="12">
+		<List>Ancestor</List>
+		<List>Huayangosaurus</List>
+		<List>Chialingosaurus</List>
+		<List>Chungkingosaurus</List>
+		<List>Dacentrurus</List>
+		<List>Hesperosaurus</List>
+		<List>Kentrosaurus</List>
+		<List>Lexovisaurus</List>
+		<List>Paranthodon</List>
+		<List>S._stenops</List>
+		<List>Tuojiangosaurus</List>
+		<List>Wuerhosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="55">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Galton_et_Upchurch_2004b</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

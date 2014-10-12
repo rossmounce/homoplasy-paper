@@ -1,0 +1,111 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sadleir, R, Barrett, P. M.</List>
+			<List>Powell, H. P.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>The anatomy and systematics of Eustreptospondylus oxoniensis, a theropod dinosaur from the Middle Jurassic of Oxfordshire</Title>
+		<Journal>Monograph of the Palaeontographical Society</Journal>
+		<Volume>627</Volume>
+		<Pages>1-82</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="76">
+		<List>Herrerasauridae</List>
+		<List>Ceratosaurus</List>
+		<List>Abelisaurus</List>
+		<List>Carnotaurus</List>
+		<List>Szechuanoraptor</List>
+		<List>Megalosaurus</List>
+		<List>Poekilopleuron</List>
+		<List>Torvosaurus</List>
+		<List>Lourinhanosaurus</List>
+		<List>Monolophosaurus</List>
+		<List>Sinraptoridae</List>
+		<List>Allosaurus</List>
+		<List>Neovenator</List>
+		<List>Acrocanthosaurus</List>
+		<List>Carcharodontosaurus</List>
+		<List>Giganotosaurus</List>
+		<List>Nedcolbertia</List>
+		<List>Nqwebasaurus</List>
+		<List>Scipionyx</List>
+		<List>Bagaraatan</List>
+		<List>Dryptosaurus</List>
+		<List>Stokesosaurus</List>
+		<List>Eotyrannus</List>
+		<List>Albertosaurus</List>
+		<List>Alectrosaurus</List>
+		<List>Alioramus</List>
+		<List>Appalachiosaurus</List>
+		<List>Gorgosaurus</List>
+		<List>Daspletosaurus</List>
+		<List>Tarbosaurus</List>
+		<List>Tyrannosaurus</List>
+		<List>Coelurus</List>
+		<List>Alvarezsaurus</List>
+		<List>Mononykinae</List>
+		<List>Patagonykus</List>
+		<List>Protarchaeopteryx</List>
+		<List>Archaeopteryx</List>
+		<List>Rahonavis</List>
+		<List>Confuciusornis</List>
+		<List>Ornithothoraces</List>
+		<List>Bambiraptor</List>
+		<List>Sinornithosaurus</List>
+		<List>Velociraptor</List>
+		<List>Deinonychus</List>
+		<List>Dromaeosaurus</List>
+		<List>Sinovenator</List>
+		<List>Sinornithoides</List>
+		<List>Troodon_et_Saurornithoides</List>
+		<List>Nothronychus</List>
+		<List>Beipiaosaurus</List>
+		<List>Erlikosaurus</List>
+		<List>Caudipteryx</List>
+		<List>Chirostenotes</List>
+		<List>Khaan</List>
+		<List>Oviraptor</List>
+		<List>Harpymimus</List>
+		<List>Pelecanimimus</List>
+		<List>Garudimimus</List>
+		<List>Ornithomiminae</List>
+		<List>Xuanhanosaurus</List>
+		<List>Ornitholestes</List>
+		<List>Proceratosaurus</List>
+		<List>Compsognathus</List>
+		<List>Sinosauropteryx</List>
+		<List>Fukuiraptor</List>
+		<List>Siamotyrannus</List>
+		<List>Afrovenator</List>
+		<List>Piatnitzkysaurus</List>
+		<List>P.valesdunensis</List>
+		<List>Eustreptospondylus</List>
+		<List>Baryonychinae</List>
+		<List>Irritator</List>
+		<List>Spinosaurus</List>
+		<List>Dilophosaurus</List>
+		<List>Coelophysidae</List>
+		<List>Elaphrosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="638">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sadleir_etal_2008ab</Filename>
+	<Parent>Holtz_etal_2004a</Parent>
+	<Sibling/>
+</SourceTree>

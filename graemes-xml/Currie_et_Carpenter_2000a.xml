@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Currie, P. J.</List>
+			<List>Carpenter, K.</List>
+		</Author>
+		<Year>2000</Year>
+		<Title>New specimen of Acrocanthosaurus atokensis (Theropoda, Dinosauria) from the Lower Cretaceous Antlers Formation (Lower Cretaceous, Aptian) of Oklahoma, USA</Title>
+		<Journal>Geodiversitas</Journal>
+		<Volume>22</Volume>
+		<Pages>207-246</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List>Herrerasaurus__outgroup_</List>
+		<List>Abelisauridae__outgroup_</List>
+		<List>Monolophosaurus</List>
+		<List>Sinraptoridae</List>
+		<List>Acrocanthosaurus</List>
+		<List>Allosaurus</List>
+		<List>Carcharodontosaurus</List>
+		<List>Giganotosaurus</List>
+		<List>Tyrannosauridae</List>
+		<List>Dromaeosauridae</List>
+		<List>Oviraptorosauria</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="110">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Currie_et_Carpenter_2000a</Filename>
+	<Parent>Harris_1998a</Parent>
+	<Sibling/>
+</SourceTree>

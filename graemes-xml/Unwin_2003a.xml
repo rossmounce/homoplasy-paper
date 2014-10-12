@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Unwin, D. M.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>On the phylogeny and evolutionary history of pterosaurs</Title>
+		<Journal>Geological Society of London Special Publications</Journal>
+		<Volume>217</Volume>
+		<Pages>139-190</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="20">
+		<List>Outgroup</List>
+		<List>Preondactylus</List>
+		<List>Dimorphodontidae</List>
+		<List>Anurognathidae</List>
+		<List>Campylognathoididae</List>
+		<List>Scaphognathinae</List>
+		<List>Rhamphorhynchinae</List>
+		<List>Istiodactylus</List>
+		<List>Nyctosaurus</List>
+		<List>Ornithocheiridae</List>
+		<List>Pteranodontidae</List>
+		<List>Lonchodectidae</List>
+		<List>Pterodactylus</List>
+		<List>Cycnorhamphus</List>
+		<List>Ctenochasmatidae</List>
+		<List>Germanodactylus</List>
+		<List>Dsungaripteridae</List>
+		<List>Tapejara</List>
+		<List>Tupuxuara</List>
+		<List>Azhdarchidae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="60">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Unwin_2003a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

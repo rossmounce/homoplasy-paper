@@ -1,0 +1,85 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Clark, J. M.</List>
+			<List>Norell, M. A.</List>
+			<List>Makovicky, P. J.</List>
+		</Author>
+		<Year>2002</Year>
+		<Title>Cladistic approaches to the relationships of birds to other theropod dinosaurs</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>31-61</Pages>
+		<Booktitle>Mesozoic Birds: Above the Heads of Dinosaurs</Booktitle>
+		<Publisher>University of California Press</Publisher>
+		<City>Berkeley</City>
+		<Editor>
+			<List>Chiappe, L. M.</List>
+			<List>Witmer, L. M.</List>
+		</Editor>
+	</Source>
+	<Taxa number="46">
+		<List>Allosaurus_fragilis</List>
+		<List>Sinraptor_dongi</List>
+		<List>Ornitholestes_hermanni</List>
+		<List>Microvenator_celer</List>
+		<List>Caudipteryx_zoui</List>
+		<List>Ingenia_yanshini</List>
+		<List>Oviraptor_mongoliensis</List>
+		<List>Oviraptor_philoceratops</List>
+		<List>Conchoraptor_gracilis</List>
+		<List>IGM_100_slash_42</List>
+		<List>Chirostenotes_pergracilis</List>
+		<List>Avimimus_portentosus</List>
+		<List>Segnosaurus_galbinensis</List>
+		<List>Erlikosaurus_andrewsi</List>
+		<List>Alxasaurus_elesitaiensis</List>
+		<List>Microraptor_zhaoianus</List>
+		<List>Sinornithosaurus_milleni</List>
+		<List>Dromaeosaurus_albertensis</List>
+		<List>Deinonychus_antirrhopus</List>
+		<List>Velociraptor_mongoliensis</List>
+		<List>Unenlagia_comahuensis</List>
+		<List>Adasaurus_mongoliensis</List>
+		<List>Utahraptor_ostrommaysorum</List>
+		<List>Saurornitholestes_langstoni</List>
+		<List>Achillobator_giganticus</List>
+		<List>IGM_100_slash_1015</List>
+		<List>Sinovenator_changii</List>
+		<List>Byronosaurus_jaffei</List>
+		<List>Sinornithoides_youngi</List>
+		<List>Troodon_formosus</List>
+		<List>Saurornithoides_mongoliensis</List>
+		<List>Saurornithoides_junior</List>
+		<List>Rahonavis_ostromi</List>
+		<List>Archeopteryx_lithographica</List>
+		<List>Confuciusornis_sanctus</List>
+		<List>Alvarezsaurus_calvoi</List>
+		<List>Patagonykus_puertai</List>
+		<List>Mononykus_olecranus</List>
+		<List>Shuuvuia_deserti</List>
+		<List>Garudimimus_brevipes</List>
+		<List>Pelecanimimus_polyodon</List>
+		<List>Harpymimus_okladnikovi</List>
+		<List>Struthiomimus_altus</List>
+		<List>Gallimimus_bullatus</List>
+		<List>Tyrannosaurus_rex</List>
+		<List>Albertosaurus_libratus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="208">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Clark_etal_2002a</Filename>
+	<Parent>Hwang_etal_2002a</Parent>
+	<Sibling/>
+</SourceTree>

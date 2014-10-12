@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ortega, F.</List>
+			<List>Gasparini, Z.</List>
+			<List>Buscalioni, A. D.</List>
+			<List>Calvo, J. O.</List>
+		</Author>
+		<Year>2000</Year>
+		<Title>A new species of Araripesuchus (Crocodylomorpha, Mesoeucrocodylia) from the Lower Cretaceous of Patagonia (Argentina)</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>20</Volume>
+		<Pages>57-76</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="30">
+		<List>Postosuchus</List>
+		<List>Sphenosuchus</List>
+		<List>Dibothrosuchus</List>
+		<List>Protosuchus</List>
+		<List>Orthosuchus</List>
+		<List>Sichuanosuchus</List>
+		<List>Shantungosuchus</List>
+		<List>Gobiosuchus</List>
+		<List>Las_Hoyas_Croc</List>
+		<List>Fruita_Fm_Croc</List>
+		<List>Notosuchus</List>
+		<List>Baurusuchus</List>
+		<List>Itaborai_Croc</List>
+		<List>Bretesuchus</List>
+		<List>Sebecus</List>
+		<List>Iberosuchus</List>
+		<List>Libycosuchus</List>
+		<List>Ar_gomesi</List>
+		<List>Ar_patagonicus</List>
+		<List>Lomasuchus</List>
+		<List>Itasuchus</List>
+		<List>Theriosuchus</List>
+		<List>Pelagosaurus</List>
+		<List>Steneosaurus</List>
+		<List>Goniopholis</List>
+		<List>Bernissartia</List>
+		<List>Las_Hoyas_Neos</List>
+		<List>Hylaeochampsa</List>
+		<List>Alligator</List>
+		<List>Crocodylus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="182">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ortega_etal_2000a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

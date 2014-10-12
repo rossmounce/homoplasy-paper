@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Rieppel, O.</List>
+		</Author>
+		<Year>1993</Year>
+		<Title>Status of the pachycephalosauroid <em>Psilotrachelosaurus toeplitschi</em> Nopcsa (Reptilia, Sauropterygia), from the Middle Triassic of Austria</Title>
+		<Journal>Fieldiana: Geology, New Series</Journal>
+		<Volume>27</Volume>
+		<Pages>1-17</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List>Petrolacosaurus</List>
+		<List>Claudiosaurus</List>
+		<List>Youngina</List>
+		<List>Keichousaurus</List>
+		<List>Dactylosaurus</List>
+		<List>Anarosaurus</List>
+		<List>Psilotrachelosaurus</List>
+		<List>Serpianosaurus</List>
+		<List>N_pusillus</List>
+		<List>N_peyeri</List>
+		<List>N_edwardsii</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="11">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Rieppel_1993a</Filename>
+	<Parent>Rieppel_1993b</Parent>
+	<Sibling/>
+</SourceTree>

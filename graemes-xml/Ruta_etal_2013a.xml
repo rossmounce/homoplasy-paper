@@ -1,0 +1,91 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ruta, M.</List>
+			<List>Botha-Brink, J.</List>
+			<List>Mitchell, S. A.</List>
+			<List>Benton, M. J.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>The radiation of cynodonts and the ground plan of mammalian morphological diversity</Title>
+		<Journal>Proceedings of the Royal Society of London B</Journal>
+		<Volume>280</Volume>
+		<Pages>20131865</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="54">
+		<List>Charassognathus</List>
+		<List>Procynosuchus</List>
+		<List>Dvinia</List>
+		<List>Cynosaurus</List>
+		<List>Galesaurus</List>
+		<List>Progalesaurus</List>
+		<List>Thrinaxodon</List>
+		<List>Nanictosaurus</List>
+		<List>Platycraniellus</List>
+		<List>Cynognathus</List>
+		<List>Diademodon</List>
+		<List>Trirachodon</List>
+		<List>Langbergia</List>
+		<List>Cricodon</List>
+		<List>Sinognathus</List>
+		<List>Beishanodon</List>
+		<List>Pascualgnathus</List>
+		<List>Traversodon</List>
+		<List>Andescynodon</List>
+		<List>Scalenodon_angustifrons</List>
+		<List>Luangwa</List>
+		<List>Boreogomphodon</List>
+		<List>Arctotraversodon</List>
+		<List>Nanogomphodon</List>
+		<List>Massetognathus</List>
+		<List>Santacruzodon</List>
+		<List>Dadadon</List>
+		<List>Scalenodon_hirschoni</List>
+		<List>Scalenodon_attridgei</List>
+		<List>Gomphodontosuchus</List>
+		<List>Menadon</List>
+		<List>Exaeretodon</List>
+		<List>Scalenodontoides</List>
+		<List>Protuberum</List>
+		<List>Lumkuia</List>
+		<List>Ecteninion</List>
+		<List>Trucidocynodon</List>
+		<List>Chiniquodon</List>
+		<List>Aleodon</List>
+		<List>Probainognathus</List>
+		<List>Therioherpeton</List>
+		<List>Oligokyphus</List>
+		<List>Kayentatherium</List>
+		<List>Tritylodon</List>
+		<List>Bienotherium</List>
+		<List>Riograndia</List>
+		<List>Chaliminia</List>
+		<List>Elliotherium</List>
+		<List>Pachygenelus</List>
+		<List>Diarthrognathus</List>
+		<List>Brasilodon</List>
+		<List>Brasilitherium</List>
+		<List>Sinoconodon</List>
+		<List>Morganucodon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="150">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ruta_etal_2013a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

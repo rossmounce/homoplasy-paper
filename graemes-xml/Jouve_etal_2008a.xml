@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Jouve, S.</List>
+			<List>Bouya, B.</List>
+			<List>Amaghzaz, M.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>A long-snouted dyrosaurid (Crocodyliformes, Mesoeucrocodylia) from the Paleocene of Morocco: phylogenetic and palaeobiogeographic implications</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>51</Volume>
+		<Pages>281-294</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="15">
+		<List>Eutretauranosuchus</List>
+		<List>Elosuchus</List>
+		<List>Sarcosuchus</List>
+		<List>Terminonaris</List>
+		<List>Arambourgisuchus</List>
+		<List>H_rogersii</List>
+		<List>R_keiniensis</List>
+		<List>R_aslerensis</List>
+		<List>D_phosphaticus</List>
+		<List>D_maghribensis</List>
+		<List>Chenanisuchus</List>
+		<List>Sokotosuchus</List>
+		<List>Phosphatosaurus</List>
+		<List>Congosaurus</List>
+		<List>Atlantosuchus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="43">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Jouve_etal_2008a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

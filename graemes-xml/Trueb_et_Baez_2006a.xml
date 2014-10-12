@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Trueb, L.</List>
+			<List>Baez, A. M.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>Revision of the Early Cretaceous <em>Cordicephalus</em> from Israel and an assessment of its relationships among pipoid frogs</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>26</Volume>
+		<Pages>44-59</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="21">
+		<List>Ascaphus</List>
+		<List>Bombina</List>
+		<List>Chelomophyrnus</List>
+		<List>Cordicephalus</List>
+		<List>Discoglossus</List>
+		<List>Eoxenopoides</List>
+		<List>Hymenochirus</List>
+		<List>Llankibatrachus</List>
+		<List>Pachycentrata</List>
+		<List>Palaeobatrachus</List>
+		<List>Pipa</List>
+		<List>Pseudhymenochirus</List>
+		<List>Rhinophrynus</List>
+		<List>Saltenia</List>
+		<List>Shelania_laurenti</List>
+		<List>Shelania_pascuali</List>
+		<List>Silurana</List>
+		<List>Singidella</List>
+		<List>Thoraciliacus</List>
+		<List>Xenopus</List>
+		<List>Xenopus_romeri</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="56">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Trueb_et_Baez_2006a</Filename>
+	<Parent>Baez_et_Pugener_2003a</Parent>
+	<Sibling/>
+</SourceTree>

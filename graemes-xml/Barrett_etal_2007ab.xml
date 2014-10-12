@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Barrett, P. M.</List>
+			<List>Upchurch, P.</List>
+			<List>Zhou, X.-D.</List>
+			<List>Wang, X.-L.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>The skull of Yunnanosaurus huangi Young, 1942 (Dinosauria: Prosauropoda) from the Lower Lufeng Formation (Lower Jurassic) of Yunnan, China</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>150</Volume>
+		<Pages>319-341</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="21">
+		<List>Crurotarsi</List>
+		<List>Marasuchus</List>
+		<List>Ornithischia</List>
+		<List>Herrerasauridae</List>
+		<List>Neotheropoda</List>
+		<List>Saturnalia</List>
+		<List>T._antiquus</List>
+		<List>T._caducus</List>
+		<List>Efraasia</List>
+		<List>Plateosaurus</List>
+		<List>Anchisaurus</List>
+		<List>Riojasaurus</List>
+		<List>Lufengosaurus</List>
+		<List>Coloradisaurus</List>
+		<List>Massospondylus</List>
+		<List>Yunnanosaurus</List>
+		<List>Euskelosaurus</List>
+		<List>Melanorosaurus</List>
+		<List>Blikanosaurus</List>
+		<List>Vulcanodon</List>
+		<List>Eusauropoda</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="164">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Barrett_etal_2007ab</Filename>
+	<Parent>Yates_2003b</Parent>
+	<Sibling/>
+</SourceTree>

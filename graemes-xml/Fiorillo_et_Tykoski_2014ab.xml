@@ -1,0 +1,92 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Fiorillo, A. R.</List>
+			<List>Tykoski, R. S.</List>
+		</Author>
+		<Year>2014</Year>
+		<Title>A diminutive new tyrannosaur from the top of the world</Title>
+		<Journal>PLOS ONE</Journal>
+		<Volume>9</Volume>
+		<Pages>e91287</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="57">
+		<List>Tawa_hallae</List>
+		<List>Coelophysis_bauri</List>
+		<List>Dilophosaurus_wetherilli</List>
+		<List>Ceratosaurus_nasicornis</List>
+		<List>Dubreuillosaurus_valesdunensis</List>
+		<List>Piatnitzkysaurus_floresi</List>
+		<List>Eustreptospondylus_oxoniensis</List>
+		<List>Monolophosaurus_jiangi</List>
+		<List>Sinraptor_dongi</List>
+		<List>Allosaurus_fragilis</List>
+		<List>Tanycolagreus_topwilsoni</List>
+		<List>Coelurus_fragilis</List>
+		<List>Sinosauropteryx_prima</List>
+		<List>Compsognathus_longipes</List>
+		<List>Juravenator_starki</List>
+		<List>Scipionyx_samniticus</List>
+		<List>Ornitholestes_hermanni</List>
+		<List>Haplocheirus_sollers</List>
+		<List>Utahraptor_ostrommaysorum</List>
+		<List>Deinonychus_antirrhopus</List>
+		<List>Linheraptor_exquisitus</List>
+		<List>Velociraptor_mongolienesis</List>
+		<List>Archaeopteryx_lithographica</List>
+		<List>Pelecanimimus_polydon</List>
+		<List>Shenzhousaurus_orientalis</List>
+		<List>Harpymimus_okladnikovi</List>
+		<List>Gallimimus_bullatus</List>
+		<List>Proceratosaurus_bradleyi</List>
+		<List>Kileskus_aristotocus</List>
+		<List>Guanlong_wucaii</List>
+		<List>Sinotyrannus_kazuoensis</List>
+		<List>Juratyrant_langhami</List>
+		<List>Stokesosaurus_clevelandi</List>
+		<List>Dilong_paradoxus</List>
+		<List>Eotyrannus_lengi</List>
+		<List>Bagaraatan_ostromi</List>
+		<List>Raptorex_kriegsteini</List>
+		<List>Dryptosaurus_aquilunguis</List>
+		<List>Xiongguanlong_baimoensis</List>
+		<List>Alectrosaurus_olseni</List>
+		<List>Appalachiosaurus_montgomeriensis</List>
+		<List>Alioramus_altai</List>
+		<List>Alioramus_remotus</List>
+		<List>Gorgosaurus_libratus</List>
+		<List>Albertosaurus_sarcophagus</List>
+		<List>DPF_tyrannosaurid_B</List>
+		<List>Daspletosaurus_torosus</List>
+		<List>TMF_tyrannosaurid_LSB</List>
+		<List>Teratophoneus_curriei</List>
+		<List>Bistahieversor_sealeyi</List>
+		<List>Lythronax_argestes</List>
+		<List>Tyrannosaurus_rex</List>
+		<List>Tarbosaurus_bataar</List>
+		<List>Zhuchengtyrannus_magnus</List>
+		<List>T_curriei_UMNH_VP_16690</List>
+		<List>T_curriei_type</List>
+		<List>Nanuqsaurus_hoglundi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="501">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Fiorillo_et_Tykoski_2014ab</Filename>
+	<Parent>Loewen_etal_2013a</Parent>
+	<Sibling/>
+</SourceTree>

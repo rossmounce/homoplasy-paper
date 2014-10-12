@@ -1,0 +1,79 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Neenan, J. M.</List>
+			<List>Klein, N.</List>
+			<List>Scheyer, T. M.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>European origin of placodont marine reptiles and the evolution of crushing dentition in Placodontia</Title>
+		<Journal>Nature Communications</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="43">
+		<List>Ancestor</List>
+		<List>Captorhinidae</List>
+		<List>Araeoscelidia</List>
+		<List>Claudiosaurus</List>
+		<List>Youngina</List>
+		<List>Rhynchosauria</List>
+		<List>Trilophosaurus</List>
+		<List>Prolacertiformes</List>
+		<List>Choristodera</List>
+		<List>Archosauriformes</List>
+		<List>Kuehneosauridae</List>
+		<List>Rhynchocephalia</List>
+		<List>Squamata</List>
+		<List>Corosaurus</List>
+		<List>Cymatosaurus</List>
+		<List>Augustasaurus</List>
+		<List>Pistosaurus</List>
+		<List>Plesiosaurus</List>
+		<List>Simosaurus</List>
+		<List>Germanosaurus</List>
+		<List>Nothosaurus</List>
+		<List>Lariosaurus</List>
+		<List>Wumengosaurus</List>
+		<List>SerpianoNeustico</List>
+		<List>AnaroDactylo</List>
+		<List>Keichousaurus</List>
+		<List>Dianopachysaurus</List>
+		<List>Hovasaurus</List>
+		<List>Eusaurosphargis</List>
+		<List>Thalattosauria</List>
+		<List>Yunguisaurus</List>
+		<List>Diandongosaurus</List>
+		<List>Psephoderma</List>
+		<List>Cyamodus</List>
+		<List>Placodus</List>
+		<List>Paraplacodus</List>
+		<List>Sinosaurosphargis</List>
+		<List>WinterswijkSkull</List>
+		<List>Testudines</List>
+		<List>Helveticosaurus</List>
+		<List>Odontochelys</List>
+		<List>Hanosaurus</List>
+		<List>Ichthyopterygia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="140">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Neenan_etal_inpressa</Filename>
+	<Parent>Liu_etal_2011a</Parent>
+	<Sibling/>
+</SourceTree>

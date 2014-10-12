@@ -1,0 +1,68 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Clement, A. M.</List>
+			<List>Long, J. A.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title><em>Xeradipterus hatcheri</em>, a new dipnoan from the Late Devonian (Frasnian) Gogo Formation, Western Australia, and other new holodontid material</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>30</Volume>
+		<Pages>681-695</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="33">
+		<List>Diabolepis</List>
+		<List>Dipnorhynchus</List>
+		<List>Speonesydrion</List>
+		<List>Ichnomylax</List>
+		<List>Uranolophus</List>
+		<List>Tarachomylax</List>
+		<List>Jessenia</List>
+		<List>Stomiahykus</List>
+		<List>H_gogoensis</List>
+		<List>H_elderae</List>
+		<List>Xeradipterus</List>
+		<List>H_longi</List>
+		<List>H_A_meemannae</List>
+		<List>Griphognathus</List>
+		<List>Chirodipterus</List>
+		<List>Pillararhynchus</List>
+		<List>Gogodipterus</List>
+		<List>Adololopas</List>
+		<List>Andreyevichthys</List>
+		<List>Sorbitorhynchus</List>
+		<List>Fleurantia</List>
+		<List>Dipterus</List>
+		<List>Howidipterus</List>
+		<List>Barwickia</List>
+		<List>Scaumenacia</List>
+		<List>Sagenodus</List>
+		<List>Ctenodus</List>
+		<List>Neoceratodus</List>
+		<List>Melanognathus</List>
+		<List>Soederberghia</List>
+		<List>Conchopoma</List>
+		<List>Gnathoriza</List>
+		<List>Orlovichthys</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="82">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Clement_et_Long_2010a</Filename>
+	<Parent>Ahlberg_etal_2006a</Parent>
+	<Sibling/>
+</SourceTree>

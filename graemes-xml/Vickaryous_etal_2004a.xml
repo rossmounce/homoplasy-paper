@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Vickaryous, M. K.</List>
+			<List>Maryanska, T.</List>
+			<List>Weishampel, D. B.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>Ankylosauria</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>363-392</Pages>
+		<Booktitle>The Dinosauria (Second Edition)</Booktitle>
+		<Publisher>University of California Press</Publisher>
+		<City>Berkeley</City>
+		<Editor>
+			<List>Weishampel, D. B.</List>
+			<List>Dodson, P.</List>
+			<List>Osmolska, H.</List>
+		</Editor>
+	</Source>
+	<Taxa number="23">
+		<List>Lesothosaurus</List>
+		<List>Huayangosaurus</List>
+		<List>Gargoyleosaurus</List>
+		<List>Minmi</List>
+		<List>Gastonia</List>
+		<List>Tsagantegia</List>
+		<List>Tarchia</List>
+		<List>Ankylosaurus</List>
+		<List>Euoplocephalus</List>
+		<List>Saichania</List>
+		<List>Talarurus</List>
+		<List>Pin._grangeri</List>
+		<List>Pin._mesphistoce</List>
+		<List>Tianzhenosaurus</List>
+		<List>Gobisaurus</List>
+		<List>Shamosaurus</List>
+		<List>Cedarpelta</List>
+		<List>Pawpawsaurus</List>
+		<List>Sauropelta</List>
+		<List>Silvisaurus</List>
+		<List>Panoplosaurus</List>
+		<List>Ed._longiceps</List>
+		<List>Ed._rugosidens</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="63">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Vickaryous_etal_2004a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

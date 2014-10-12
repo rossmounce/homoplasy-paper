@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Klein, N.</List>
+			<List>Albers, P. C. H.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>A new species of the sauropsid reptile <em>Nothosaurus</em> from the Lower Muschelkalk of the western Germanic Basin, Winterswijk, The Netherlands</Title>
+		<Journal>Acta Palaeontologica Polonica</Journal>
+		<Volume>54</Volume>
+		<Pages>589-598</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="15">
+		<List>Pachypleurosauria</List>
+		<List>Simosaurus</List>
+		<List>Germanosaurus</List>
+		<List>Nothosaurus_edingerae</List>
+		<List>Nothosaurus_giganteus</List>
+		<List>Nothosaurus_juvenilis</List>
+		<List>Nothosaurus_marchicus</List>
+		<List>Nothosaurus_mirabilis</List>
+		<List>Nothosaurus_hassi</List>
+		<List>Nothosaurus_tchernovi</List>
+		<List>Nothosaurus_winterswijkensis</List>
+		<List>Nothosaurus_jagisteus</List>
+		<List>Nothosaurus_youngi</List>
+		<List>Nothosaurus_yangiuanensis</List>
+		<List>NMNHL_RGM_443825</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="25">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Klein_et_Albers_2009a</Filename>
+	<Parent>Rieppel_2001b</Parent>
+	<Sibling/>
+</SourceTree>

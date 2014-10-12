@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Muller, J.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>The anatomy of <em>Askeptosaurus italicus</em> from the Middle Triassic of Monte San Giorgio and the interrelationships of thalattosaurs (Reptilia, Diapsida)</Title>
+		<Journal>Canadian Journal of Earth Sciences</Journal>
+		<Volume>42</Volume>
+		<Pages>1347-1367</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List>Araeoscelidia</List>
+		<List>Younginiformes</List>
+		<List>Askeptosaurus</List>
+		<List>Thalattosaurus</List>
+		<List>Anshunsaurus</List>
+		<List>Clarazia</List>
+		<List>Hescheleria</List>
+		<List>Xinpusaurus</List>
+		<List>Nectosaurus</List>
+		<List>Paralonectes</List>
+		<List>Agkistrognathus</List>
+		<List>Endennasaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="39">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Muller_2005a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

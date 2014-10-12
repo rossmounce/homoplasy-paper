@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lieberman, B. S.</List>
+		</Author>
+		<Year>1994</Year>
+		<Title>Evolution of the trilobite subfamily Proetinae Salter, 1864, and the origin, diversification, evolutionary affinity, and extinction of the Middle Devonian proetid fauna of eastern North America</Title>
+		<Journal>Bulletin of the American Museum of Natural History</Journal>
+		<Volume>223</Volume>
+		<Pages>1-176</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Crassiproetus_turgidus</List>
+		<List>Crassiproetus_globosus</List>
+		<List>Crassiproetus_alpenensis</List>
+		<List>Crassiproetus_crassimarginatus</List>
+		<List>Crassiproetus_traversensis</List>
+		<List>Crassiproetus_canadensis</List>
+		<List>Crassiproetus_microgranulatus</List>
+		<List>Crassiproetus_sibleyensis</List>
+		<List>Crassiproetus_calhounensis</List>
+		<List>Crassiproetus_norwoodensis</List>
+		<List>Crassiproetus_stummi</List>
+		<List>Crassiproetus_schohariensis</List>
+		<List>Crassiproetus_neoturgidus</List>
+		<List>Crassiproetus_halliturgidus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="33">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lieberman_1994aa</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

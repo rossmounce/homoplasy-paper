@@ -1,0 +1,115 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Benson, R. B. J.</List>
+			<List>Druckenmiller, P. S.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>Faunal turnover of marine tetrapods during the Jurassic-Cretaceous transition</Title>
+		<Journal>Biological Reviews</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="80">
+		<List>Yunguisaurus_liae</List>
+		<List>Pistosaurus_postcranium</List>
+		<List>Pistosaurus_skull</List>
+		<List>Augustasaurus_hagdorni</List>
+		<List>Bobosaurus_forojuliensis</List>
+		<List>Macroplata_tenuiceps</List>
+		<List>Anningasaura_lymense</List>
+		<List>Stratesaurus_taylori</List>
+		<List>Avalonnectes_arturi</List>
+		<List>Eurycleidus_arcuatus</List>
+		<List>Meyerasaurus_victor</List>
+		<List>Maresaurus_coccai</List>
+		<List>Borealonectes_russelli</List>
+		<List>Rhomaleosaurus_megacephalus</List>
+		<List>Archaeonectrus_rostratus</List>
+		<List>Rhomaleosaurus_cramptoni</List>
+		<List>Rhomaleosaurus_zetlandicus</List>
+		<List>Rhomaleosaurus_thorntoni</List>
+		<List>Thalassiodracon_hawkinsii</List>
+		<List>Hauffiosaurus_longirostris</List>
+		<List>Hauffiosaurus_tomistomimus</List>
+		<List>Hauffiosaurus_zanoni</List>
+		<List>Marmornectes_candrewi</List>
+		<List>Peloneustes_philarchus</List>
+		<List>Simolestes_vorax</List>
+		<List>Pliosaurus_funkei</List>
+		<List>Pliosaurus_BRSMG_Cc332</List>
+		<List>Pliosaurus_brachydeirus</List>
+		<List>Gallardosaurus_iturraldei</List>
+		<List>Liopleurodon_rossicus</List>
+		<List>Pliosaurus_irgisensis</List>
+		<List>Pliosaurus_andrewsi</List>
+		<List>Liopleurodon_ferox</List>
+		<List>Kronosaurus_MCZ_1285</List>
+		<List>Brachauchenius_eulerti</List>
+		<List>Brachauchenius_lucasi</List>
+		<List>Brachauchenius_MNA_V9433</List>
+		<List>QM_F51291</List>
+		<List>Attenborosaurus_conybeari</List>
+		<List>Plesiosaurus_dolichodeirus</List>
+		<List>Eopleiosaurus_antiquior</List>
+		<List>Eretmosaurus_rugosus</List>
+		<List>Westphaliasaurus_simonsensii</List>
+		<List>Seelyosaurus_guilelmiimperatoris</List>
+		<List>Microcleidus_tournemirensis</List>
+		<List>Microcleidus_brachypterygius</List>
+		<List>Microcleidus_homalospondylus</List>
+		<List>Plesiopterys_wildi</List>
+		<List>Cryptoclidus_eurymerus</List>
+		<List>Tricleidus_seeleyi</List>
+		<List>Muraenosaurus_leedsii</List>
+		<List>Kimmerosaurus_langhami</List>
+		<List>Pantosaurus_striatus</List>
+		<List>Picrocleidus_beloclis</List>
+		<List>Tatenectes_laramiensis</List>
+		<List>Plesiosaurus_mansellii</List>
+		<List>Colymbosaurus_trochanterius</List>
+		<List>Djupedallia_engeri</List>
+		<List>Spitrasaurus_spp</List>
+		<List>Abyssosaurus_nataliae</List>
+		<List>Umoonasaurus_demoscyllus</List>
+		<List>Nichollssaura_borealis</List>
+		<List>Leptocleidus_capensis</List>
+		<List>Leptocleidus_superstes</List>
+		<List>Cimoliasaurus_valdensis</List>
+		<List>MIWG_1997_302</List>
+		<List>Brancasaurus_brancai</List>
+		<List>GWWU_A3_B2</List>
+		<List>Speeton_Clay_plesiosaurian</List>
+		<List>Wapuskanectes_betsynichollsae</List>
+		<List>Futabasaurus_suzukii</List>
+		<List>Callawayasaurus_colombiensis</List>
+		<List>Eromangasaurus_australis</List>
+		<List>Kaiwhekea_katiki</List>
+		<List>Aristonectes_parvidens</List>
+		<List>Libonectes_morgani</List>
+		<List>Hydrotherosaurus_alexandrae</List>
+		<List>Edgarosaurus_muddi</List>
+		<List>Plesiopleurodon_wellesi</List>
+		<List>QM_F51291</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="270">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Benson_et_Druckenmiller_inpressa</Filename>
+	<Parent>Benson_etal_2012a</Parent>
+	<Sibling/>
+</SourceTree>

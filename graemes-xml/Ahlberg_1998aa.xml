@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ahlberg, P. E.</List>
+		</Author>
+		<Year>1998</Year>
+		<Title>Postcranial stem tetrapod remains from the Devonian of Scat Craig, Morayshire, Scotland</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>122</Volume>
+		<Pages>99-141</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="18">
+		<List>Eusthenopteron</List>
+		<List>Panderichthys</List>
+		<List>Elginerpeton</List>
+		<List>Ventastega</List>
+		<List>Metaxygnathus</List>
+		<List>Acanthostega</List>
+		<List>Ichthyostega</List>
+		<List>Hynerpeton</List>
+		<List>Greerepeton</List>
+		<List>Eryops</List>
+		<List>Balanerpeton</List>
+		<List>Saxonerpeton</List>
+		<List>Tulerpeton</List>
+		<List>Whatcheeria</List>
+		<List>Crassigyrinus</List>
+		<List>Westlothiana</List>
+		<List>Proterogyrinus</List>
+		<List>Archeria</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="80">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ahlberg_1998aa</Filename>
+	<Parent>Coates_1996a</Parent>
+	<Sibling/>
+</SourceTree>

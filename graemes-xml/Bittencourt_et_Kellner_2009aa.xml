@@ -1,0 +1,89 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Bittencourt, J. S.</List>
+			<List>Kellner, A. W. A.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>The anatomy and phylogenetic position of the Triassic dinosaur Staurikosurus pricei Colbert, 1970</Title>
+		<Journal>Zootaxa</Journal>
+		<Volume>2079</Volume>
+		<Pages>1-56</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="54">
+		<List>Euparkeria</List>
+		<List>Marasuchus</List>
+		<List>Ornithischia</List>
+		<List>Sauropodomorpha</List>
+		<List>Eoraptor</List>
+		<List>Herrerasaurus</List>
+		<List>Staurikosaurus</List>
+		<List>Coelophysis</List>
+		<List>Gojirasaurus</List>
+		<List>Shuvosaurus</List>
+		<List>Syntarsus</List>
+		<List>Segisaurus</List>
+		<List>L.liliensterni</List>
+		<List>L.airelensis</List>
+		<List>Dilophosaurus</List>
+		<List>Ceratosaurus</List>
+		<List>Elaphrosaurus</List>
+		<List>Abelisauridae</List>
+		<List>Magnosaurus</List>
+		<List>Monolophosaurus</List>
+		<List>Piatnitzkysaurus</List>
+		<List>Poekilopleuron</List>
+		<List>Proceratosaurus</List>
+		<List>Xuanhanosaurus</List>
+		<List>S._zigongensis</List>
+		<List>Ornitholestes</List>
+		<List>Coelurus</List>
+		<List>Compsognathus</List>
+		<List>Stokesosaurus</List>
+		<List>Tyrannosauridae</List>
+		<List>SMNK_2349Pal</List>
+		<List>C._maortuensis</List>
+		<List>Sinosauropteryx</List>
+		<List>Torvosaurus</List>
+		<List>Chilantaisaurus</List>
+		<List>Baryonychidae</List>
+		<List>Allosaurus</List>
+		<List>Sinraptoridae</List>
+		<List>Afrovenator</List>
+		<List>Siamotyrannus</List>
+		<List>Carcharodontosauridae</List>
+		<List>Neovenator</List>
+		<List>Deltadromeus</List>
+		<List>Ornithomimosauria</List>
+		<List>Bagaraatan</List>
+		<List>Aves</List>
+		<List>Unenlagia</List>
+		<List>Dromaeosauridae</List>
+		<List>Troodontidae</List>
+		<List>Therizinosauroidea</List>
+		<List>Caudipteryx</List>
+		<List>Microvenator</List>
+		<List>Avimimus</List>
+		<List>Oviraptorosauria</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="224">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Bittencourt_et_Kellner_2009aa</Filename>
+	<Parent>Rauhut_2003a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Modesto, S. P.</List>
+			<List>Rybczynski, N.</List>
+		</Author>
+		<Year>2000</Year>
+		<Title>THe amniote faunas of the Rusian Permian: implications for Late Permian terrestrial vertebrate biogeography</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>17-34</Pages>
+		<Booktitle>The Age of Dinosaurs in Russia and Mongolia</Booktitle>
+		<Publisher>Cambridge University Press</Publisher>
+		<City>Cambridge</City>
+		<Editor>
+			<List>Benton, M. J.</List>
+			<List>Shishkin, M. A.</List>
+		</Editor>
+	</Source>
+	<Taxa number="11">
+		<List>Titanophoneus</List>
+		<List>Gorgonops</List>
+		<List>Pristerognathus</List>
+		<List>Patranomodon</List>
+		<List>Otsheria</List>
+		<List>Ulemica</List>
+		<List>Suminia</List>
+		<List>Galeops</List>
+		<List>Eodicynodon</List>
+		<List>Pristerodon</List>
+		<List>Dicynodon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="38">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Modesto_et_Rybczynski_2000a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

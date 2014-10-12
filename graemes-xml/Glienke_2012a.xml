@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Glienke, S.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>A new &quot;microsaur&quot; (Amphibia; Lepospondyli) from the Rotliegend of the Saar-Palatinate region (Carboniferous/Permian transition; West Germany)</Title>
+		<Journal>Palaontologische Zeitschrift</Journal>
+		<Volume>86</Volume>
+		<Pages>297-311</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="19">
+		<List>Proterogyrinus</List>
+		<List>Acanthostega</List>
+		<List>Altenglanerpeton</List>
+		<List>Batropetes</List>
+		<List>Cardiocephalus_peabodyi</List>
+		<List>Cardiocephalus_sternbergi</List>
+		<List>Carrolla</List>
+		<List>Eocaecilia</List>
+		<List>Euryodus_dalyae</List>
+		<List>Euryodus_primus</List>
+		<List>Micraroter</List>
+		<List>Microbrachis</List>
+		<List>Pantylus</List>
+		<List>Pelodosotis</List>
+		<List>Quasicaecilia</List>
+		<List>Rhynchonkos</List>
+		<List>Sparodus</List>
+		<List>Stegotretus</List>
+		<List>Tambaroter</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="152">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Glienke_2012a</Filename>
+	<Parent>Anderson_2007a</Parent>
+	<Sibling/>
+</SourceTree>

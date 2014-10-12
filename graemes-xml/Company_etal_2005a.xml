@@ -1,0 +1,69 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Company, J.</List>
+			<List>Pereda Suberbiola, X.</List>
+			<List>Ruiz-Omenaca, J. I.</List>
+			<List>Buscalioni, A. D.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>A new species of <em>Doratodon</em> (Crocodyliformes: Ziphosuchia) from the Late Cretaceous of Spain</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>25</Volume>
+		<Pages>343-353</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="32">
+		<List>Postosuchus</List>
+		<List>Sphenosuchus</List>
+		<List>Dibothrosuchus</List>
+		<List>Protosuchus</List>
+		<List>Orthosuchus</List>
+		<List>Sichuanosuchus</List>
+		<List>Shantungosuchus</List>
+		<List>Gobiosuchus</List>
+		<List>Las_Hoyas_Croc</List>
+		<List>Fruita_Fm_Croc</List>
+		<List>Notosuchus</List>
+		<List>Baurusuchus</List>
+		<List>Itaborai_Croc</List>
+		<List>Bretesuchus</List>
+		<List>Sebecus</List>
+		<List>Iberosuchus</List>
+		<List>Libycosuchus</List>
+		<List>Ar_gomesi</List>
+		<List>Ar_patagonicus</List>
+		<List>Lomasuchus</List>
+		<List>Itasuchus</List>
+		<List>Theriosuchus</List>
+		<List>Pelagosaurus</List>
+		<List>Steneosaurus</List>
+		<List>Goniopholis</List>
+		<List>Bernissartia</List>
+		<List>Las_Hoyas_Neos</List>
+		<List>Hylaeochampsa</List>
+		<List>Alligator</List>
+		<List>Crocodylus</List>
+		<List>Doratodon</List>
+		<List>Bergisuchus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="184">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Company_etal_2005a</Filename>
+	<Parent>Ortega_etal_2000a</Parent>
+	<Sibling/>
+</SourceTree>

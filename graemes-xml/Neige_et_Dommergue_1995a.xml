@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Neige, P.</List>
+			<List>Dommergues, J.-L.</List>
+		</Author>
+		<Year>1995</Year>
+		<Title>Morphometrics and phenetic versus cladistic analysis of the early Harpoceratinae (Pliensbachian ammonites)</Title>
+		<Journal>Neues Jahrbuch fur Geologie und Palaontologie - Abhandlungen</Journal>
+		<Volume>196</Volume>
+		<Pages>411-438</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="8">
+		<List>P_dilectum</List>
+		<List>P_curionii</List>
+		<List>F_cornacaldens</List>
+		<List>P_celebratum</List>
+		<List>P_marianii</List>
+		<List>F_gr_brevi_isseli</List>
+		<List>F_gr_portisi_laevi</List>
+		<List>P_volubile</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="10">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Neige_et_Dommergue_1995a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

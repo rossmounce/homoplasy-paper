@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Xu, X.</List>
+			<List>Forster, C. A.</List>
+			<List>Clark, J. M.</List>
+			<List>Mo, J.-Y.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>A basal ceratopsian with transitional features from the Late Jurassic of northwestern China</Title>
+		<Journal>Proceedings of the Royal Society of London B</Journal>
+		<Volume>273</Volume>
+		<Pages>2135-2140</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Lesothosaurus_diagnosticus</List>
+		<List>Thyreophora</List>
+		<List>Hypsilophodon_foxii</List>
+		<List>Jeholosaurus_lujiatunensis</List>
+		<List>Heterodontosauridae</List>
+		<List>Iguanodontia</List>
+		<List>Pachycephalosauria</List>
+		<List>Chaoyangsaurus_youngi</List>
+		<List>Yinlong_downsi</List>
+		<List>Psittacosaurus_mongoliensis</List>
+		<List>Liaoceratops_yanzigouensis</List>
+		<List>Archaeoceratops_oshimai</List>
+		<List>Ceratopsidae</List>
+		<List>Agilisaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="106">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Xu_etal_2006b</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

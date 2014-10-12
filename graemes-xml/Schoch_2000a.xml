@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Schoch, R. R.</List>
+		</Author>
+		<Year>2000</Year>
+		<Title>The origin and intrarelationships of Triassic capitosaurid amphibians</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>43</Volume>
+		<Pages>705-727</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="18">
+		<List>Balanerpeton</List>
+		<List>Sclerocephalus</List>
+		<List>Uranocentrodon</List>
+		<List>Wetlugasaurus</List>
+		<List>Benthosuchus</List>
+		<List>Thoosuchus</List>
+		<List>Trematosaurus</List>
+		<List>Parotosuchus_madagascariensis</List>
+		<List>Parotosuchus_nasutus</List>
+		<List>Parotosuchus_orenburgensis</List>
+		<List>Mastodonsaurus</List>
+		<List>Eryosuchus</List>
+		<List>Wellesaurus</List>
+		<List>Parotosuchus_pronus</List>
+		<List>Kupferzellia</List>
+		<List>Eocyclotosaurus</List>
+		<List>Quasicyclotosaurus</List>
+		<List>Cyclotosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="71">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Schoch_2000a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,72 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sander, P. M.</List>
+			<List>Chen, X.-H.</List>
+			<List>Cheng, L.</List>
+			<List>Wang, X.-F.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>Short-snouted toothless ichthyosaur from China suggests Late Triassic diversification of suction feeding ichthyosaurs</Title>
+		<Journal>PLOS ONE</Journal>
+		<Volume>6</Volume>
+		<Pages>e19480</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="35">
+		<List>Petrolacosaurus</List>
+		<List>Thadeosaurus</List>
+		<List>Claudiosaurus</List>
+		<List>Hupehsuchus</List>
+		<List>Utatsusaurus</List>
+		<List>Grippia</List>
+		<List>Parvinatator</List>
+		<List>Chaohusaurus</List>
+		<List>Cymbospondylus_petrinus</List>
+		<List>Cymbospondylus_buchseri</List>
+		<List>Mixosaurus_cornalianus</List>
+		<List>Mixosaurus_atavus</List>
+		<List>Mixosaurus_nordenskioeldii</List>
+		<List>Besanosaurus</List>
+		<List>Shonisaurus_popularis</List>
+		<List>Californosaurus</List>
+		<List>Toretocnemus</List>
+		<List>Hudsonelpidia</List>
+		<List>Macgowania</List>
+		<List>Suevoleviathan</List>
+		<List>Temnodontosaurus</List>
+		<List>Leptonectes</List>
+		<List>Excalibosaurus</List>
+		<List>Eurhinosaurus</List>
+		<List>Ichthyosaurus</List>
+		<List>Stenopterygius</List>
+		<List>Brachypterygius</List>
+		<List>Ophthalmosaurus</List>
+		<List>Caypullisaurus</List>
+		<List>Platypterygius</List>
+		<List>Guizhouichthyosaurus</List>
+		<List>Shonisaurus_sikanniensis</List>
+		<List>Shastasaurus_pacificus_own_obs</List>
+		<List>Shastasaurus_liangae</List>
+		<List>Callawaya</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="111">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sander_etal_2011a</Filename>
+	<Parent>Motani_1999a</Parent>
+	<Sibling/>
+</SourceTree>

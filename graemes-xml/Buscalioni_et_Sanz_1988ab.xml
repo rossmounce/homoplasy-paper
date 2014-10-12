@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Buscalioni, A. D.</List>
+			<List>Sanz, J. L.</List>
+		</Author>
+		<Year>1988</Year>
+		<Title>Phylogenetic relationships of the Atoposauridae (Archosauria, Crocodylomorpha)</Title>
+		<Journal>Historical Biology</Journal>
+		<Volume>1</Volume>
+		<Pages>233-250</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="7">
+		<List>Protosuchids</List>
+		<List>Orthosuchus</List>
+		<List>Atoposaurus</List>
+		<List>Alligatorellus</List>
+		<List>Alligatorium</List>
+		<List>Montsecosuchus</List>
+		<List>Theriosuchus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="28">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Buscalioni_et_Sanz_1988ab</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

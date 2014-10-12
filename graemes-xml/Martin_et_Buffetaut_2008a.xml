@@ -1,0 +1,81 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Martin, J. E.</List>
+			<List>Buffetaut, E.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title><em>Crocodilus affuvelensis</em> Matheron, 1869 from the Late Cretaceous of southern France: a reassessment</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>152</Volume>
+		<Pages>567-580</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="46">
+		<List>Theriosuchus_spp</List>
+		<List>Goniopholis_spp</List>
+		<List>Bernissartia_fagesii</List>
+		<List>Susisuchus_anatoceps</List>
+		<List>Hylaeochampsa_vectiana</List>
+		<List>Isisfordia_duncani</List>
+		<List>Borealosuchus_formidabilis</List>
+		<List>Borealosuchus_wilsoni</List>
+		<List>Borealosuchus_acutidentatus</List>
+		<List>Borealosuchus_sternbergii</List>
+		<List>Leidyosuchus_canadensis</List>
+		<List>Eothoracosaurus_mississippiensis</List>
+		<List>Thecoachampsoides_minor</List>
+		<List>Siquisiquesuchus_venezuelensis</List>
+		<List>Thoracosaurus_macrorhynchus</List>
+		<List>Eogavialis_africanum</List>
+		<List>Gryposuchus_colombianus</List>
+		<List>Gavialis_gangeticus</List>
+		<List>Pristichampsus_spp</List>
+		<List>Diplocynodon_darwinii</List>
+		<List>Baryphracta_deponiae</List>
+		<List>Stangerochampsa_mccabei</List>
+		<List>Brachychampsa_montana</List>
+		<List>Alligator_mississippiensis</List>
+		<List>Navajosuchus_mooki</List>
+		<List>Hassiacosuchus_haupti</List>
+		<List>Caiman_yacare</List>
+		<List>Caiman_latirostris</List>
+		<List>Melanosuchus_niger</List>
+		<List>Paleosuchus_trigonatus</List>
+		<List>Crocodylus_cataphractus</List>
+		<List>Crocodylus_porosus</List>
+		<List>Osteolaemus_tetraspis</List>
+		<List>Crocodylus_robustus</List>
+		<List>Crocodylus_megarhinus</List>
+		<List>Tomistoma_schlegelii</List>
+		<List>Tomistoma_lusitanica</List>
+		<List>Gavialosuchus_americanus</List>
+		<List>Crocodylus_spenceri</List>
+		<List>Brachyuranochampsa_eversolei</List>
+		<List>Crocodylus_acer</List>
+		<List>Crocodylus_affinis</List>
+		<List>Asiatosuchus_germanicus</List>
+		<List>Prodiplocynodon_langi</List>
+		<List>Australosuchus_clarkae</List>
+		<List>Massaliasuchus_affuvelensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="176">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Martin_et_Buffetaut_2008a</Filename>
+	<Parent>Salisbury_etal_2006a</Parent>
+	<Sibling/>
+</SourceTree>

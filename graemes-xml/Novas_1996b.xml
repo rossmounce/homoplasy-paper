@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Novas, F. E.</List>
+		</Author>
+		<Year>1996</Year>
+		<Title>Dinosaur monophyly</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>16</Volume>
+		<Pages>723-741</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="8">
+		<List>Crurotarsi</List>
+		<List>Pterosauria</List>
+		<List>Scleromochlus</List>
+		<List>Lagerpeton</List>
+		<List>Marasuchus</List>
+		<List>Pseudolagosuchus</List>
+		<List>Ornithischia</List>
+		<List>Saurischia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="37">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Novas_1996b</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

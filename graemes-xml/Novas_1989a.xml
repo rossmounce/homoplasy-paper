@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Novas, F. E.</List>
+		</Author>
+		<Year>1989</Year>
+		<Title>The tibia and tarsus in Herrerasauridae (Dinosauria, incertae sedis) and the origin and evolution of the dinosaurian tarsus</Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>63</Volume>
+		<Pages>677-690</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="9">
+		<List>Euparkeria</List>
+		<List>Riojasuchus</List>
+		<List>Lagosuchidae</List>
+		<List>Herrerasauridae</List>
+		<List>Plateosaurus</List>
+		<List>Riojasaurus</List>
+		<List>Pisanosaurus</List>
+		<List>Scutellosaurus</List>
+		<List>Theropoda</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="17">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Novas_1989a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

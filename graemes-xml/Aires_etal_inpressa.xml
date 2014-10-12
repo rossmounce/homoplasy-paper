@@ -1,0 +1,72 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Aires, A. S. S.</List>
+			<List>Kellner, A. W. A.</List>
+			<List>Muller, R. T.</List>
+			<List>Da Silva, L. R.</List>
+			<List>Pacheco, C. P.</List>
+			<List>Dias-Da-Silva, S.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>New postcranial elements of the Thalassodrominae (Pterodactyloidea, Tapejariae) from the Romualdo Formation (Aptian-Albian), Santana Group, Araripe Basin, Brazil</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="33">
+		<List>Ornithosuchus_longidens</List>
+		<List>Herrerasaurus_ischigualastensis</List>
+		<List>Scleromochlus_taylori</List>
+		<List>Anurognathus_ammoni</List>
+		<List>Rhamphorhynchus_muensteri</List>
+		<List>Pterodactylus_antiquus</List>
+		<List>Nyctosaurus_gracilis</List>
+		<List>Nemicolopterus_crypticus</List>
+		<List>Pteranodon_longiceps</List>
+		<List>Istiodactylus_latidens</List>
+		<List>Nurhachius_ignaciobritoi</List>
+		<List>Tropeognathus_mesembrinus</List>
+		<List>Anhanguera_santanae</List>
+		<List>Anhanguera_blittersdorffi</List>
+		<List>Anhanguera_piscator</List>
+		<List>Ludodactylus_sibbicki</List>
+		<List>Guidraco_venator_gen_et_sp_nov</List>
+		<List>Dsungaripterus_weii</List>
+		<List>Phobetor_parvus</List>
+		<List>Quetzalcoatlus_sp</List>
+		<List>Azhdarcho_lancicollis</List>
+		<List>Zhejiangopterus_linhaiensis</List>
+		<List>Chaoyangopterus_zhangi</List>
+		<List>Shenzhoupterus_chaoyangensis</List>
+		<List>Tupuxuara_leonardii</List>
+		<List>Thalassodromeus_sethi</List>
+		<List>Tupandactylus_imperator</List>
+		<List>Tapejara_wellnhoferi</List>
+		<List>Sinopterus_dongi</List>
+		<List>Eopteranodon_lii</List>
+		<List>Huaxipterus_corollatus</List>
+		<List>Huaxipterus_benxiensis</List>
+		<List>AMNH_22567</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="106">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Aires_etal_inpressa</Filename>
+	<Parent>Wang_etal_2012b</Parent>
+	<Sibling/>
+</SourceTree>

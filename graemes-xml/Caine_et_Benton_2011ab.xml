@@ -1,0 +1,69 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Caine, H.</List>
+			<List>Benton, M. J.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>Ichthyosauria from the Upper Lias of Strawberry Bank, England</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>54</Volume>
+		<Pages>1069-1093</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="34">
+		<List>Allzero</List>
+		<List>Thaisaurus</List>
+		<List>Utatsusaurus</List>
+		<List>Grippia</List>
+		<List>Chaohusaurus</List>
+		<List>Parvinatator</List>
+		<List>Wimanius</List>
+		<List>Mixosaurus</List>
+		<List>Phalarodon</List>
+		<List>Contectopalatus</List>
+		<List>Toretocnemus</List>
+		<List>Qianichthyosaurus</List>
+		<List>Cymbospondylus</List>
+		<List>Phantomosaurus</List>
+		<List>Besanosaurus</List>
+		<List>Shastasaurus</List>
+		<List>Shonisaurus</List>
+		<List>Mikadocephalus</List>
+		<List>Californosaurus</List>
+		<List>Callawayia</List>
+		<List>Macgowania</List>
+		<List>Hudsonelpidia</List>
+		<List>Temnodontosaurus</List>
+		<List>Leptonectes</List>
+		<List>Eurhinosaurus</List>
+		<List>Suevoleviathan</List>
+		<List>Ichthyosaurus</List>
+		<List>Stenopterygius</List>
+		<List>Aegirosaurus</List>
+		<List>Brachypterygius</List>
+		<List>Platypterygius</List>
+		<List>Ophthalmosaurus</List>
+		<List>Caypullisaurus</List>
+		<List>Hauffiopteryx</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="128">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Caine_et_Benton_2011ab</Filename>
+	<Parent>Maisch_et_Matzke_2000a</Parent>
+	<Sibling/>
+</SourceTree>

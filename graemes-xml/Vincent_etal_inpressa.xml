@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Vincent, P.</List>
+			<List>Bardet, N.</List>
+			<List>Mattioli, E.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>A new pliosaurid from the Pliensbachian (Early Jurassic) of Normandy (Northern France)</Title>
+		<Journal>Acta Palaeontologica Polonica</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="15">
+		<List>Simosaurus_gaillardoti</List>
+		<List>Serpianosaurus_mirigiolensis</List>
+		<List>Thalassiodracon_hawkinsii</List>
+		<List>Hauffiosaurus_tomistomimus</List>
+		<List>Dolichorhynchops_osborni</List>
+		<List>Nichollssaura_borealis</List>
+		<List>Hauffiosaurus_longirostris</List>
+		<List>Archaeonectrus_rostratus</List>
+		<List>Rhomaleosaurus_cramptoni</List>
+		<List>Meyerasaurus_victor</List>
+		<List>Cryonectes_neustriacus</List>
+		<List>Pliosaurus_brachyspondylus</List>
+		<List>Peloneustes_philarchus</List>
+		<List>Liopleurodon_ferox</List>
+		<List>Simolestes_vorax</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="66">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Vincent_etal_inpressa</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

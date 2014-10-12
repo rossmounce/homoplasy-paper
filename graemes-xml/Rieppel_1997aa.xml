@@ -1,0 +1,44 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Rieppel, O.</List>
+		</Author>
+		<Year>1997</Year>
+		<Title>Revision of the sauropterygian reptile genus <em>Cymatosaurus</em> v. Fritsch, 1894, and the relationships of <em>Germanosaurus</em> Nopcsa, 1928, from the Middle Triassic of Europe</Title>
+		<Journal>Fieldiana: Geology, New Series</Journal>
+		<Volume>36</Volume>
+		<Pages>1-38</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="10">
+		<List>All_zero_ancestor</List>
+		<List>Cymatosaurus_erythreus</List>
+		<List>Cymatosaurus_fridericianus</List>
+		<List>Cymatosaurus_gracilis_I</List>
+		<List>Cymatosaurus_gracilis_II</List>
+		<List>Cymatosaurus_latifrons</List>
+		<List>Cymatosaurus_latissimus</List>
+		<List>Cymatosaurus_silesiacus_I</List>
+		<List>Cymatosaurus_SMNS_10977</List>
+		<List>Cymatosaurus_BRG_uncat</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="5">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Rieppel_1997aa</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

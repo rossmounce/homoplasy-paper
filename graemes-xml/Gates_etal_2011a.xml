@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Gates, T. A.</List>
+			<List>Horner, J. R.</List>
+			<List>Hanna, R. R.</List>
+			<List>Nelson, C. R.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>New unadorned hadrosaurine hadrosaurid (Dinosauria, Ornithopoda) from the Campanian of North America</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>31</Volume>
+		<Pages>798-811</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="15">
+		<List>Iguanodon_bernissartensis</List>
+		<List>Bactrosaurus</List>
+		<List>Protohadros</List>
+		<List>Telmatosaurus</List>
+		<List>Corythosaurus</List>
+		<List>Lophorothon</List>
+		<List>Brachylophosaurus</List>
+		<List>Maiasaura</List>
+		<List>Acristavus</List>
+		<List>Gryposaurus_spp.</List>
+		<List>Kritosaurus</List>
+		<List>Edmontosaurus_spp.</List>
+		<List>Prosaurolophus_spp.</List>
+		<List>Kerberosaurus</List>
+		<List>Saurolophus_spp.</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="116">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Gates_etal_2011a</Filename>
+	<Parent>Horner_etal_2004a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Schoch, R. R.</List>
+			<List>Milner, A. R.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>The intrarelationships and evolutionary history of the temnospondyl family Branchiosauridae</Title>
+		<Journal>Journal of Systematic Palaeontology</Journal>
+		<Volume>6</Volume>
+		<Pages>409-431</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="19">
+		<List>Balanerpeton_woodi</List>
+		<List>Sclerocephalus_haeuseri</List>
+		<List>Ecolsonia_cutlerensis</List>
+		<List>Micromelerpeton_credneri</List>
+		<List>Platyrhinops_lyelli</List>
+		<List>Amphibamus_grandiceps</List>
+		<List>Micropholis_stowii</List>
+		<List>Branchiosaurus_salamandroides</List>
+		<List>Apateon_pedestris</List>
+		<List>Apateon_gracilis</List>
+		<List>Apateon_caducus</List>
+		<List>Apateon_kontheri</List>
+		<List>Apateon_flagrifer</List>
+		<List>Apateon_dracyiensis</List>
+		<List>Melanerpeton_humbergense</List>
+		<List>Leptorophus_tener</List>
+		<List>Schoenfelderpeton_prescheri</List>
+		<List>Melanerpeton_sembachense</List>
+		<List>Melanerpeton_eisfeldi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="40">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Schoch_et_Milner_2008a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

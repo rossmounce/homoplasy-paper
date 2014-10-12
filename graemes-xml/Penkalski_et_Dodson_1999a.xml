@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Penkalski, P.</List>
+			<List>Dodson, P.</List>
+		</Author>
+		<Year>1999</Year>
+		<Title>The morphology and systematics of Avaceratops, a primitive horned dinosaur from the Judith River Formation (late Campanian) of Montana, with the description of a second skull</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>19</Volume>
+		<Pages>692-711</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List>Bagaceratops</List>
+		<List>Montanoceratops</List>
+		<List>Chasmosaurinae</List>
+		<List>Monoclonius</List>
+		<List>Centrosaurus</List>
+		<List>Styracosaurus</List>
+		<List>Einiosaurus</List>
+		<List>Achelousaurus</List>
+		<List>Pachyrhinosaurus</List>
+		<List>Avaceratops</List>
+		<List>MOR_692</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="25">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Penkalski_et_Dodson_1999a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

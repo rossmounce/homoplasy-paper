@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sereno, P. C.</List>
+		</Author>
+		<Year>1999</Year>
+		<Title>The evolution of dinosaurs</Title>
+		<Journal>Science</Journal>
+		<Volume>284</Volume>
+		<Pages>2137-2147</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List>THEROPODA</List>
+		<List>SAUROPODA</List>
+		<List>Riojasaurus</List>
+		<List>Griposaurus_sinensis</List>
+		<List>Ammosaurus</List>
+		<List>Yunnanosaurus</List>
+		<List>Massospondylus</List>
+		<List>Lufengosaurus</List>
+		<List>Coloradisaurus</List>
+		<List>Sellosaurus</List>
+		<List>Plateosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="32">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sereno_1999ae</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

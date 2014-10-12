@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sidor, C. A.</List>
+			<List>Steyer, J. S.</List>
+			<List>Hammer, W. R.</List>
+		</Author>
+		<Year>2014</Year>
+		<Title>A new capitosauroid temnospondyl from the Middle Triassic upper Fremouw Formation of Antarctica</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>34</Volume>
+		<Pages>539-548</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="27">
+		<List>Lydekkerina</List>
+		<List>Antarctican_taxon</List>
+		<List>Angusaurus</List>
+		<List>Benthosuchus</List>
+		<List>Cherninia</List>
+		<List>Cyclotosaurus</List>
+		<List>St_pronus</List>
+		<List>Eocyclotosaurus</List>
+		<List>Mastodonsaurus</List>
+		<List>Paracyclotosaurus</List>
+		<List>Parotosuchus</List>
+		<List>Tatrasuchus</List>
+		<List>Thoosuchus</List>
+		<List>Trematosaurus</List>
+		<List>St_birdi</List>
+		<List>Rhineceps</List>
+		<List>Quasicyclotosaurus</List>
+		<List>Xenotosuchus</List>
+		<List>Procycloto</List>
+		<List>Calmasuchus_acri</List>
+		<List>Watsonisuchus</List>
+		<List>Vladlenosaurus</List>
+		<List>Odenwaldia</List>
+		<List>Eryosuchus</List>
+		<List>Wetlugasaurus</List>
+		<List>Edingerella</List>
+		<List>Uranocentrodon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="53">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sidor_etal_2014a</Filename>
+	<Parent>Fortuny_etal_2011a</Parent>
+	<Sibling/>
+</SourceTree>

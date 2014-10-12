@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Arantes, B. A.</List>
+			<List>Soares, M. B.</List>
+			<List>Schultz, C. L.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title><em>Clevosaurus brasiliensis</em> (Lepidosauria, Sphenodontia) do Triassico Superior do Rio Grande do Sul: anatomica pos-craniana e relacoes filogeneticas</Title>
+		<Journal>Revista Brasileira de Paleontologia</Journal>
+		<Volume>12</Volume>
+		<Pages>43-54</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="18">
+		<List>Squamata</List>
+		<List>Diphydontosaurus</List>
+		<List>Brachyrhinodon</List>
+		<List>Homoeosaurus</List>
+		<List>Kallimodon</List>
+		<List>Sapheosaurus</List>
+		<List>Palaeopleurosaurus</List>
+		<List>Polysphenodon</List>
+		<List>C_hudsoni</List>
+		<List>C_brasiliensis</List>
+		<List>Pamizinsaurus</List>
+		<List>Zapatadon</List>
+		<List>Sphenodon</List>
+		<List>Cynosphenodon</List>
+		<List>Opisthias</List>
+		<List>Toxolophosaurus</List>
+		<List>Eilenodon</List>
+		<List>Priosphenodon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="67">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Arantes_etal_2009a</Filename>
+	<Parent>Apesteguia_et_Novas_2003a</Parent>
+	<Sibling/>
+</SourceTree>

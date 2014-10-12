@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Kammer, T. W.</List>
+			<List>Gahn, F. J.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>Primitive cladid crinoids from the early Osagean Burlington Limestone and the phylogenetics of Mississippian species of <em>Cyathocrinites</em></Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>77</Volume>
+		<Pages>121-138</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Cyathocrinites_chouteauensis_Miller_and_Gurley_1896</List>
+		<List>Cyathocrinites_asperrimus_Springer_1911</List>
+		<List>Cyathocrinites_barrisi_Hall_1861a</List>
+		<List>Cyathocrinites_barydactylus_Wachsmuth_and_Springer_1878</List>
+		<List>Cyathocrinites_deroseari_n_sp</List>
+		<List>Cyathocrinites_farleyi_Meek_and_Worthen_1866</List>
+		<List>Cyathocrinites_gilesi_Wachsmuth_and_Springer_1878</List>
+		<List>Cyathocrinites_harrodi_Wachsmuth_and_Springer_1880</List>
+		<List>Cyathocrinites_iowensis_Owen_and_Shumard_1850</List>
+		<List>Cyathocrinites_kelloggi_White_1862</List>
+		<List>Cyathocrinites_lamellosus_White_1863</List>
+		<List>Cyathocrinites_multibrachiatus_Lyon_and_Casseday_1859</List>
+		<List>Cyathocrinites_rigidus_White_1865</List>
+		<List>Cyathocrinites_sampsoni_Miller_1891b</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="14">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Kammer_et_Gahn_2003a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

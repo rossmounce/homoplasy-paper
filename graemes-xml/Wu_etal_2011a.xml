@@ -1,0 +1,71 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Wu, X.-C.</List>
+			<List>Cheng, Y.-N.</List>
+			<List>Li, C.</List>
+			<List>Zhao, L.-J.</List>
+			<List>Sato, T.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>New information on <em>Wumengosaurus delicatomandibularis</em> Jiang et al., 2008 (Diapsida: Sauropterygia), with a revision of the osteology and phylogeny of the taxon</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>31</Volume>
+		<Pages>70-83</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="33">
+		<List>Ancestor</List>
+		<List>Captorhinidae</List>
+		<List>Testudines</List>
+		<List>Araeoscelidia</List>
+		<List>Younginiformes</List>
+		<List>Kuehneosauridae</List>
+		<List>Rhynchocephalia</List>
+		<List>Squamata</List>
+		<List>Rhynchosauria</List>
+		<List>Prolacertiformes</List>
+		<List>Trilophosaurus</List>
+		<List>Choristodera</List>
+		<List>Archosauriformes</List>
+		<List>Claudiosaurus</List>
+		<List>AnaroDactylo</List>
+		<List>Serpiano_dash_Neustico</List>
+		<List>Simosaurus</List>
+		<List>Nothosaurus</List>
+		<List>Lariosaurus</List>
+		<List>Corosaurus</List>
+		<List>Cymatosaurus</List>
+		<List>Germanosaurus</List>
+		<List>Pistosaurus</List>
+		<List>Placodus</List>
+		<List>Chinchenia</List>
+		<List>Kwangsisaurus</List>
+		<List>Sanchiaosaurus</List>
+		<List>Cyamodus</List>
+		<List>Augustasaurus</List>
+		<List>Plesiosaurus</List>
+		<List>Keichousaurus</List>
+		<List>Wumengosaurus</List>
+		<List>Odontochelys</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="137">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Wu_etal_2011a</Filename>
+	<Parent>Holmes_etal_2008ab</Parent>
+	<Sibling/>
+</SourceTree>

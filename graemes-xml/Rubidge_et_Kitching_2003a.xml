@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Rubidge, B.</List>
+			<List>Kitching, J. W.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>A new burnetiamorph (Therapsida: Biarmosuchia) from the Lower Beaufort Group of South Africa</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>46</Volume>
+		<Pages>199-210</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="8">
+		<List>Dimetrodon</List>
+		<List>Hipposaurus</List>
+		<List>Proburnetia</List>
+		<List>Burnetia</List>
+		<List>Bullacephalus</List>
+		<List>Gorgonopsidae</List>
+		<List>Australosyodon</List>
+		<List>Scylacosauridae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="32">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Rubidge_et_Kitching_2003a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

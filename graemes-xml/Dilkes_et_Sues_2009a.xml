@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Dilkes, D.</List>
+			<List>Sues, H.-D.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>Redescription and phylogenetic relationships of Doswellia kaltenbachi (Diapsida: Archosauriformes) from the Upper Triassic of Virginia</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>29</Volume>
+		<Pages>58-79</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="15">
+		<List>Prolacerta</List>
+		<List>Mesosuchus</List>
+		<List>Proterosuchus</List>
+		<List>Euparkeria</List>
+		<List>Doswellia</List>
+		<List>Erythrosuchus</List>
+		<List>Proterochampsidae</List>
+		<List>Parasuchus</List>
+		<List>Stagonolepididae</List>
+		<List>Gracilisuchus</List>
+		<List>Scleromochlus</List>
+		<List>Turfanosuchus</List>
+		<List>Yonghesuchus</List>
+		<List>Marasuchus</List>
+		<List>Qianosuchus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="85">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Dilkes_et_Sues_2009a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

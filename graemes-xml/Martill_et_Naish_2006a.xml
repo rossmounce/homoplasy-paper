@@ -1,0 +1,44 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Martill, D. M.</List>
+			<List>Naish, D.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>Cranial crest development in the azhdarcoid pterosaur <em>Tupuxuara</em>, with a review of the genus and tapejarid monophyly</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>49</Volume>
+		<Pages>925-941</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="9">
+		<List>Outgroup</List>
+		<List>Azhdarcho</List>
+		<List>Quetzalcoatlus_sp</List>
+		<List>Sinopterus_dongi</List>
+		<List>Tap_imperator</List>
+		<List>Tap_navigans</List>
+		<List>Tap_wellnhoferi</List>
+		<List>Tupuxuara</List>
+		<List>Zhejiangopterus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="23">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Martill_et_Naish_2006a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

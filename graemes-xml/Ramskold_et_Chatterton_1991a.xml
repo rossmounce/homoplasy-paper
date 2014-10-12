@@ -1,0 +1,99 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ramskold, L.</List>
+			<List>Chatterton, B. D. E.</List>
+		</Author>
+		<Year>1991</Year>
+		<Title>Revision and subdivision of the polyphyletic '<em>Leonaspis</em>' (Trilobita)</Title>
+		<Journal>Transactions of the Royal Society of Edinburgh: Earth Sciences</Journal>
+		<Volume>82</Volume>
+		<Pages>333-371</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="64">
+		<List>A_cincinnatiensis</List>
+		<List>D_scitula</List>
+		<List>E_bufo</List>
+		<List>E_acarescola</List>
+		<List>E_coronata</List>
+		<List>E_deflexa</List>
+		<List>E_cf_illinoiensis</List>
+		<List>E_lothiana</List>
+		<List>E_muldensis</List>
+		<List>E_mutica</List>
+		<List>E_quadrimucronata_1</List>
+		<List>E_quadrimucronata_2</List>
+		<List>E_varbolensis</List>
+		<List>K_belli</List>
+		<List>K_beni</List>
+		<List>K_besti</List>
+		<List>K_bispinosa</List>
+		<List>K_boltoni</List>
+		<List>K_centrina</List>
+		<List>K_chacaltayana</List>
+		<List>K_clavata</List>
+		<List>K_crenata_crenata</List>
+		<List>K_crenata_angelini</List>
+		<List>K_crenata_brutoni</List>
+		<List>K_dormitzeri</List>
+		<List>K_elliptica</List>
+		<List>K_franconica</List>
+		<List>K_geinitziana</List>
+		<List>K_hirta</List>
+		<List>K_jaanussoni</List>
+		<List>K_lenzi</List>
+		<List>K_leridae</List>
+		<List>K_leucothea</List>
+		<List>K_longstaffei</List>
+		<List>K_myops</List>
+		<List>K_orphana</List>
+		<List>K_parkini</List>
+		<List>K_pigra_pigra</List>
+		<List>K_pigra_ornata</List>
+		<List>K_rattei</List>
+		<List>K_risbeyi</List>
+		<List>K_tuberculata_tuberculata</List>
+		<List>K_tuberculata_favonia</List>
+		<List>K_wellingtonensis</List>
+		<List>K_williamsi_A</List>
+		<List>K_williamsi_B</List>
+		<List>K_cf_williamsi</List>
+		<List>K_sp_A</List>
+		<List>K_sp_nov_NSW</List>
+		<List>L_argentea</List>
+		<List>L_belisarius</List>
+		<List>L_britannica</List>
+		<List>L_confluens</List>
+		<List>L_ezellina</List>
+		<List>L_glabrata</List>
+		<List>L_hastata</List>
+		<List>L_hoernesi</List>
+		<List>L_jenkinsi</List>
+		<List>L_lochkovnsis</List>
+		<List>L_leonhardi</List>
+		<List>L_maura</List>
+		<List>L_truncata</List>
+		<List>M_ascita</List>
+		<List>D_cooperi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="35">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ramskold_et_Chatterton_1991a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

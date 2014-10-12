@@ -1,0 +1,73 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Bentley, C. J.</List>
+			<List>Jago, J. B.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>Wuaniid trilobites of Australia</Title>
+		<Journal>Memoirs of the Association of Australasian Palaeontologists</Journal>
+		<Volume>30</Volume>
+		<Pages>179-191</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="38">
+		<List>Ellipsocephalus</List>
+		<List>Agraulos</List>
+		<List>Paralevisia</List>
+		<List>Ruichengaspis</List>
+		<List>Qiannanagraulos</List>
+		<List>Batenoides</List>
+		<List>Wuhushania</List>
+		<List>Lenagraulos</List>
+		<List>Jiangjunshania</List>
+		<List>Agaso</List>
+		<List>Litavkaspis</List>
+		<List>Veragraulos</List>
+		<List>Paraporilorenzella</List>
+		<List>Plesiagraulos</List>
+		<List>Parachittidilla</List>
+		<List>Poriagraulos</List>
+		<List>Metagraulos</List>
+		<List>Shahaspis</List>
+		<List>Inouyella</List>
+		<List>Taitzuia</List>
+		<List>Tylotaitzuia</List>
+		<List>Wanshania</List>
+		<List>Skreiaspis</List>
+		<List>Latilorenzella</List>
+		<List>Arminoepikus</List>
+		<List>Tasmacephalus</List>
+		<List>Proampyx</List>
+		<List>Wuanoides</List>
+		<List>Lophodesella</List>
+		<List>Ptyctolorenzella</List>
+		<List>Megagraulos</List>
+		<List>Chittidilla</List>
+		<List>Houmaia</List>
+		<List>Yunmengshania</List>
+		<List>Paraplesiagraulos</List>
+		<List>Eotatizuia</List>
+		<List>Tianjingshania</List>
+		<List>Taitzuina</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="14">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Bentley_et_Jago_2004a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

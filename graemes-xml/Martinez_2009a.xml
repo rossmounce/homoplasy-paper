@@ -1,0 +1,69 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Martinez, R. N.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>Adeopapposaurus mognai, gen. et sp. nov. (Dinosauria: Sauropodomorpha), with comments on adaptations of basal Sauropodomorpha</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>29</Volume>
+		<Pages>142-164</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="35">
+		<List>Marasuchus</List>
+		<List>Herrerasaurus</List>
+		<List>Guaibasaurus</List>
+		<List>Coelophysis</List>
+		<List>Ammosaurus</List>
+		<List>Anchisaurus</List>
+		<List>Blikanasaurus</List>
+		<List>Camelotia</List>
+		<List>Efraasia</List>
+		<List>Gyposaurus</List>
+		<List>Jingshanosaurus</List>
+		<List>Lessemsaurus</List>
+		<List>Melanorosaurus</List>
+		<List>Mussaurus</List>
+		<List>Saturnalia</List>
+		<List>Thecodontosaurus</List>
+		<List>Eoraptor</List>
+		<List>Heterodontosaurus</List>
+		<List>Lesothosaurus</List>
+		<List>Antetonitrus</List>
+		<List>Chinshakiangosaurus</List>
+		<List>Kotasaurus</List>
+		<List>Vulcanodon</List>
+		<List>Barapasaurus</List>
+		<List>Shunosaurus</List>
+		<List>Camarasaurus</List>
+		<List>Omeisaurus</List>
+		<List>Plateosauravus</List>
+		<List>Yunnanosaurus</List>
+		<List>Lufengosaurus</List>
+		<List>Coloradisaurus</List>
+		<List>Plateosaurus</List>
+		<List>Riojasaurus</List>
+		<List>Massospondylus</List>
+		<List>Adeopapposaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="292">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Martinez_2009a</Filename>
+	<Parent>Upchurch_etal_2007a</Parent>
+	<Sibling/>
+</SourceTree>

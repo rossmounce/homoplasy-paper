@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Schultze, H.-P.</List>
+		</Author>
+		<Year>1994</Year>
+		<Title>Comparison of hypotheses on the relationships of sarcopterygians</Title>
+		<Journal>Systematic Biology</Journal>
+		<Volume>43</Volume>
+		<Pages>155-173</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="8">
+		<List>Actinopterygii</List>
+		<List>Tetrapoda</List>
+		<List>Panderichthyida</List>
+		<List>Osteolepiformes</List>
+		<List>Porolepiformes</List>
+		<List>Diabolepis</List>
+		<List>Dipnoi</List>
+		<List>Actinistia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="216">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Schultze_1994a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

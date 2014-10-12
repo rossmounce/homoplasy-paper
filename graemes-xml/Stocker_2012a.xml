@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Stocker, M. R.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>A new phytosaur (Archosauriformes, Phytosauria) from the Lot's Wife beds (Sonsela Member) within the Chinle Formation (Upper Triassic) of Petrified Forest National Park, Arizona</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>32</Volume>
+		<Pages>573-586</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="24">
+		<List>Euparkeria_capensis</List>
+		<List>Paleorhinus_scurriensis</List>
+		<List>Paleorhinus_bransoni</List>
+		<List>Paleorhinus_sawini</List>
+		<List>Brachysuchus_megalodon</List>
+		<List>Angistorhinus</List>
+		<List>Rutiodon_carolinensis</List>
+		<List>Phytosaurus_doughtyi</List>
+		<List>Leptosuchus_crosbiensis</List>
+		<List>Leptosuchus_imperfecta</List>
+		<List>Leptosuchus_studeri</List>
+		<List>Leptosuchus_adamanensis</List>
+		<List>Machaeroprosopus_lithodendrorum</List>
+		<List>Machaeroprosopus_zunii</List>
+		<List>Smilosuchus_gregorii</List>
+		<List>PEFO_31218</List>
+		<List>PEFO_34239</List>
+		<List>AMNH_FR_30646</List>
+		<List>Protome_batalaria</List>
+		<List>TMM_31173_dash_120</List>
+		<List>Pseudopalatus_jablonskiae</List>
+		<List>Pseudopalatus_mccauleyi</List>
+		<List>Pseudopalatus_pristinus</List>
+		<List>Mystriosuchus_westphali</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="43">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Stocker_2012a</Filename>
+	<Parent>Stocker_2010a</Parent>
+	<Sibling/>
+</SourceTree>

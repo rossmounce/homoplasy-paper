@@ -1,0 +1,60 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ezcurra, M. D.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>A review of the systematic position of the dinosauriform archosaur Eucoelophysis baldwini Sullivan &amp; Lucas, 1999 from the Upper Triassic of New Mexico, USA</Title>
+		<Journal>Geodiversitas</Journal>
+		<Volume>28</Volume>
+		<Pages>649-684</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="26">
+		<List>Lagerpeton_chanarensis</List>
+		<List>Marasuchus_lilloensis</List>
+		<List>Pseudolagosuchus_major</List>
+		<List>Silesaurus_opolensis</List>
+		<List>Eucoelophysis_baldwini</List>
+		<List>Lesothosaurus_diagnosticus</List>
+		<List>Scutellosaurus_lawleri</List>
+		<List>Heterodontosaurus_tucki</List>
+		<List>Saturnalia_tupiniquim</List>
+		<List>Thecodontosaurus</List>
+		<List>Plateosaurus</List>
+		<List>Eoraptor_lunensis</List>
+		<List>Dilophosaurus_wetherilli</List>
+		<List>Liliensternus_liliensterni</List>
+		<List>Syntarsus_kayentakatae</List>
+		<List>Coelophysis_bauri</List>
+		<List>Coelophysis_rhodesiensis</List>
+		<List>Carnotaurus_sastrei</List>
+		<List>Ceratosaurus</List>
+		<List>Torvosaurus_tanneri</List>
+		<List>Spinosauridae</List>
+		<List>Allosaurus_fragilis</List>
+		<List>Sinraptor_dongi</List>
+		<List>Acrocanthosaurus_atokensis</List>
+		<List>Herrerasaurus_ischigualastensis</List>
+		<List>Staurikosaurus_pricei</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="287">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ezcurra_2006a</Filename>
+	<Parent>Ezcurra_et_Novas_2007a</Parent>
+	<Sibling/>
+</SourceTree>

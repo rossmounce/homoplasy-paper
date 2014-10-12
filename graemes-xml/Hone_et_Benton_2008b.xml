@@ -1,0 +1,80 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Hone, D. W. E.</List>
+			<List>Benton, M. J.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>Contrasting supertree and total-evidence methods: the origin of the pterosaurs</Title>
+		<Journal>Zitteliana</Journal>
+		<Volume>B28</Volume>
+		<Pages>35-60</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="45">
+		<List>Petrolacosaurus</List>
+		<List>Boreopricea</List>
+		<List>Champsosaurus</List>
+		<List>Choristodera</List>
+		<List>Cosesaurus</List>
+		<List>Cteniogenys</List>
+		<List>Dinosauria</List>
+		<List>Drepanosaurus</List>
+		<List>Erythrosuchidae</List>
+		<List>Euparkeria</List>
+		<List>Gephyrosaurus</List>
+		<List>Howesia</List>
+		<List>Hyperodapedon</List>
+		<List>Jesairosaurus</List>
+		<List>Kadimakara</List>
+		<List>Lagosuchus</List>
+		<List>Langobardisaurus</List>
+		<List>Lazurussuchus</List>
+		<List>Lepidosauromorpha</List>
+		<List>Macrocnemus</List>
+		<List>Malerisaurus</List>
+		<List>Megalancosaurus</List>
+		<List>Mesosuchus</List>
+		<List>Ornithosuchidae</List>
+		<List>Parasuchia</List>
+		<List>Prolacerta</List>
+		<List>Prolacertoides</List>
+		<List>Proterochampsidae</List>
+		<List>Proterosuchidae</List>
+		<List>Protorosaurus</List>
+		<List>Pterosauria</List>
+		<List>Rhombopholis</List>
+		<List>Rhynchosauridae</List>
+		<List>Scaphonyx</List>
+		<List>Scleromochlus</List>
+		<List>Sphenodontia</List>
+		<List>Squamata</List>
+		<List>Stenaulorhynchus</List>
+		<List>Suchia</List>
+		<List>Tanystropheus</List>
+		<List>Tanytrachelos</List>
+		<List>Thalattosauria</List>
+		<List>Trachelosaurus</List>
+		<List>Trilophosaurus</List>
+		<List>Youngina</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="324">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Hone_et_Benton_2008b</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

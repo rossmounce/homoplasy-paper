@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Clarke, J. A, Tambussi, C. P.</List>
+			<List>Noriega, J. I.</List>
+			<List>Erickson, G. M.</List>
+			<List>Ketcham, R. A.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>Definitive fossil evidence for the extant avian radiation in the Cretaceous</Title>
+		<Journal>Nature</Journal>
+		<Volume>433</Volume>
+		<Pages>305-308</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="20">
+		<List>Dromaeosauridae</List>
+		<List>Archaeopteryx_lithographica</List>
+		<List>Confucisornis_sanctus</List>
+		<List>Vorona_berivotrensis</List>
+		<List>Patagopteryx_deferrariisi</List>
+		<List>Apsaravis_ukhaana</List>
+		<List>Ichthyornis_dispar</List>
+		<List>Vegavis</List>
+		<List>Anas_platyrhynchos</List>
+		<List>Chauna_torquata</List>
+		<List>Gallus_gallus</List>
+		<List>Crax_pauxi</List>
+		<List>Crypturellus_undulatus</List>
+		<List>Lithornis</List>
+		<List>Hesperornis_regalis</List>
+		<List>Baptornis_advenus</List>
+		<List>Cathayornis_yandica</List>
+		<List>Concornis_lacustris</List>
+		<List>Neuquenornis_volans</List>
+		<List>Gobipteryx_minuta</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="202">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Clarke_etal_2005aa</Filename>
+	<Parent>Clarke_et_Norell_2002a</Parent>
+	<Sibling/>
+</SourceTree>

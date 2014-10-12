@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Xu, G.-H.</List>
+			<List>Gao, K.-Q.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>A new scanilepiform from the Lower Triassic of northern Gansu Province, China, and phylogenetic relationships of non-teleostean Actinopterygii</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>161</Volume>
+		<Pages>595-612</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="22">
+		<List>Eusthenopteron</List>
+		<List>Cheirolepis</List>
+		<List>Kentuckia</List>
+		<List>Mimia</List>
+		<List>Moythomasia</List>
+		<List>Mesopoma</List>
+		<List>Australosomus</List>
+		<List>Birgeria</List>
+		<List>Boreosomus</List>
+		<List>Perleidus</List>
+		<List>Pteronisculus</List>
+		<List>Saurichthys</List>
+		<List>Watsonulus</List>
+		<List>Beishanichthys</List>
+		<List>Evenkia</List>
+		<List>Fukangichthys</List>
+		<List>Scanilepis</List>
+		<List>Chondrosteus</List>
+		<List>Acipenser</List>
+		<List>Amia</List>
+		<List>Lepisosteus</List>
+		<List>Polypterus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="72">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Xu_et_Gao_2011a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

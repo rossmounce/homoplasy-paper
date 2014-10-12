@@ -1,0 +1,71 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Prieto-Marquez, A.</List>
+			<List>Dalla Vecchia, F. M.</List>
+			<List>Gaete, R.</List>
+			<List>Galobart, A.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>Diversity, relationships, and biogeography of the lambeosaurine dinosaurs from the European Archipelago, with description of the new aralosaurin <em>Canardia garonnensis</em></Title>
+		<Journal>PLOS ONE</Journal>
+		<Volume>8</Volume>
+		<Pages>e69835</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="34">
+		<List>Bactrosaurus_johnsoni</List>
+		<List>Eolambia_caroljonesa</List>
+		<List>Equijubus_normani</List>
+		<List>Lophorhothon_atopus</List>
+		<List>Probactrosaurus_gobiensis</List>
+		<List>Protohadros_byrdi</List>
+		<List>Tanius_sinensis</List>
+		<List>Telmatosaurus_transsylvanicus</List>
+		<List>Tethyshadros_insularis</List>
+		<List>Hadrosaurus_foulkii</List>
+		<List>Brachylophosaurus_canadensis</List>
+		<List>Edmontosaurus_annectens</List>
+		<List>Amurosaurus_riabinini</List>
+		<List>Aralosaurus_tuberiferus</List>
+		<List>Arenysaurus_ardevoli</List>
+		<List>Blasisaurus_canudoi</List>
+		<List>Charonosaurus_jiayinensis</List>
+		<List>Corythosaurus_casuarius</List>
+		<List>Corythosaurus_intermedius</List>
+		<List>Hypacrosaurus_stebingeri</List>
+		<List>Hypacrosaurus_altispinus</List>
+		<List>Jaxartosaurus_aralensis</List>
+		<List>Lambeosaurus_lambei</List>
+		<List>Lambeosaurus_magnicristatus</List>
+		<List>Magnapaulia_laticaudus</List>
+		<List>Olorotitan_ararhensis</List>
+		<List>Parasaurolophus_walkeri</List>
+		<List>Parasaurolophus_cyrtocristatus</List>
+		<List>Parasaurolophus_tubicen</List>
+		<List>Pararhabdodon_isonensis</List>
+		<List>Sahaliyania_elunchunorum</List>
+		<List>Tsintaosaurus_spinorhinus</List>
+		<List>Velafrons_coahuilensis</List>
+		<List>Canardia_akripraeceps</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="265">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Prieto-Marquez_etal_2013a</Filename>
+	<Parent>Prieto-Marquez_2010a</Parent>
+	<Sibling/>
+</SourceTree>

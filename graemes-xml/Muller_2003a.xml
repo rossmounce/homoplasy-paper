@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Muller, J.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>Early loss and multiple return of the lower temporal arcade in diapsid reptiles</Title>
+		<Journal>Naturwissenschaften</Journal>
+		<Volume>90</Volume>
+		<Pages>473-476</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="23">
+		<List>Seymouriidae</List>
+		<List>Synapsida</List>
+		<List>Parareptilia</List>
+		<List>Captorhinidae</List>
+		<List>Araeoscelidia</List>
+		<List>Rhynchocephalia</List>
+		<List>Squamata</List>
+		<List>Prolacerta</List>
+		<List>Tanystropheus</List>
+		<List>Trilophosaurus</List>
+		<List>Rhynchosauria</List>
+		<List>Archosauriformes</List>
+		<List>Choristodera</List>
+		<List>Eosauropterygia</List>
+		<List>Placodontia</List>
+		<List>Claudiosaurus</List>
+		<List>Thalattosaurifor</List>
+		<List>Testudines</List>
+		<List>Coelurosauravus</List>
+		<List>Younginiformes</List>
+		<List>Apsisaurus</List>
+		<List>Ichthyopterygia</List>
+		<List>Kuehneosauridae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="144">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Muller_2003a</Filename>
+	<Parent>Muller_2004a</Parent>
+	<Sibling/>
+</SourceTree>

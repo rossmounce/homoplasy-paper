@@ -1,0 +1,82 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sadleir, R, Barrett, P. M.</List>
+			<List>Powell, H. P.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>The anatomy and systematics of Eustreptospondylus oxoniensis, a theropod dinosaur from the Middle Jurassic of Oxfordshire</Title>
+		<Journal>Monograph of the Palaeontographical Society</Journal>
+		<Volume>627</Volume>
+		<Pages>1-82</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="47">
+		<List>allzero</List>
+		<List>Herrerasauridae</List>
+		<List>Prosauropoda</List>
+		<List>Coelophysidae</List>
+		<List>Dilophosaurus</List>
+		<List>Elaphrosaurus</List>
+		<List>Ceratosaurus</List>
+		<List>Abelisaurus</List>
+		<List>Carnotaurus</List>
+		<List>Torvosaurus</List>
+		<List>Piatnitzkysaurus</List>
+		<List>Megbucklandi</List>
+		<List>Afrovenator</List>
+		<List>Bagaraatan</List>
+		<List>Coelurus</List>
+		<List>Compsognathidae</List>
+		<List>Dryptosaurus</List>
+		<List>Eustreptospondylus</List>
+		<List>Gasosaurus</List>
+		<List>Monolophosaurus</List>
+		<List>Ornitholestes</List>
+		<List>Proceratosaurus</List>
+		<List>Scipionyx</List>
+		<List>Spinosauridae</List>
+		<List>Deltadromeus</List>
+		<List>Mhesperis</List>
+		<List>Acrocanthosaurus</List>
+		<List>Carcharodontosaurus</List>
+		<List>Giganotosaurus</List>
+		<List>Allosaurus</List>
+		<List>Neovenator</List>
+		<List>Sinraptor</List>
+		<List>Yangchuanosaurus</List>
+		<List>Dromaeosauridae</List>
+		<List>Alvarezsauridae</List>
+		<List>Archaeopteryx</List>
+		<List>Ornithothoraces</List>
+		<List>Rahonavis</List>
+		<List>Unenlagia</List>
+		<List>Therizinosauroidea</List>
+		<List>Caenagnathidae</List>
+		<List>Microvenator</List>
+		<List>Oviraptoridae</List>
+		<List>Tyrannosauridae</List>
+		<List>Troodontidae</List>
+		<List>Ornithomimidae</List>
+		<List>Pelecanimimus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="386">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sadleir_etal_2008aa</Filename>
+	<Parent>Holtz_1998a</Parent>
+	<Sibling/>
+</SourceTree>

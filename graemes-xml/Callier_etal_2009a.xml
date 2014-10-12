@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Callier, V.</List>
+			<List>Clack, J. A.</List>
+			<List>Ahlberg, P. E.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>Contrasting developmental trajectories in the earliest known tetrapod forelimbs</Title>
+		<Journal>Science</Journal>
+		<Volume>324</Volume>
+		<Pages>364-367</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="22">
+		<List>Eusthenopteron</List>
+		<List>Acanthostega</List>
+		<List>Balanerpeton</List>
+		<List>Baphetes</List>
+		<List>Crassigyrinus</List>
+		<List>Dendrerpeton</List>
+		<List>Densignathus</List>
+		<List>Elginerpeton</List>
+		<List>Elpistostege</List>
+		<List>Eoherpeton</List>
+		<List>Greererpeton</List>
+		<List>Ichthyostega</List>
+		<List>Metaxygnathus</List>
+		<List>Panderichthys</List>
+		<List>Pederpes</List>
+		<List>Proterogyrinus</List>
+		<List>Silvanerpeton</List>
+		<List>Tiktaalik</List>
+		<List>Ventastega</List>
+		<List>Whatcheeria</List>
+		<List>MGUH_VP_6088</List>
+		<List>ANSP_21350</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="115">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Callier_etal_2009a</Filename>
+	<Parent>Ahlberg_etal_2008a</Parent>
+	<Sibling/>
+</SourceTree>

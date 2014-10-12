@@ -1,0 +1,68 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Tsuji, L. A.</List>
+			<List>Sidor, C. A.</List>
+			<List>Steyer, J.-S.</List>
+			<List>Smith, R. M. H.</List>
+			<List>Tabor, N. J.</List>
+			<List>Ide, O.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>The vertebrate fauna of the Upper Permian of Niger - VII. Cranial anatomy and relationships of <em>Bunostegos akokanensis</em> (Pareiasauria)</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>33</Volume>
+		<Pages>747-763</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="29">
+		<List>Millerettidae</List>
+		<List>Owenetta</List>
+		<List>B_bashkyricus</List>
+		<List>B_mesensis</List>
+		<List>Rhipaeosaurus</List>
+		<List>Nycteroleter</List>
+		<List>Emeroleter</List>
+		<List>Macroleter</List>
+		<List>B_baini</List>
+		<List>B_seeleyi</List>
+		<List>Nochelesaurus</List>
+		<List>Embrithosaurus</List>
+		<List>Deltavjatia</List>
+		<List>Shansisaurus</List>
+		<List>Shihtienfenia</List>
+		<List>P_peringueyi</List>
+		<List>P_nasicornis</List>
+		<List>Pareiasaurus</List>
+		<List>Scutosaurus</List>
+		<List>Sanchuansaurus</List>
+		<List>Parasaurus</List>
+		<List>Elginia</List>
+		<List>Provelosaurus</List>
+		<List>Anthodon</List>
+		<List>Pumiliopareia</List>
+		<List>Nanoparia</List>
+		<List>Arganaceras</List>
+		<List>Obirkovia</List>
+		<List>Bunostegos</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="127">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Tsuji_etal_2013a</Filename>
+	<Parent>Tsuji_2013a</Parent>
+	<Sibling/>
+</SourceTree>

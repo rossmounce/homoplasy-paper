@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Gasparini, Z.</List>
+			<List>Chiappe, L. M.</List>
+			<List>Marta Fernandez, M.</List>
+		</Author>
+		<Year>1991</Year>
+		<Title>A new Senonian peirosaurid (Crocodylomorpha) from Argentina and a synopsis of the South American Cretaceous crocodilians</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>11</Volume>
+		<Pages>316-333</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="10">
+		<List>Protosuchidae</List>
+		<List>Notosuchus</List>
+		<List>Lomasuchus</List>
+		<List>Peirosaurus</List>
+		<List>Caririsuchus</List>
+		<List>Araripesuchus</List>
+		<List>Baurusuchus</List>
+		<List>Sebecus</List>
+		<List>Uruguaysuchus</List>
+		<List>Trematochampsa</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="19">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Gasparini_etal_1991a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

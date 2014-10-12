@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Kool, S. P.</List>
+		</Author>
+		<Year>1993</Year>
+		<Title>Phylogenetic analysis of the Rapaninae (Neogastropoda: Muricidae)</Title>
+		<Journal>Malacologia</Journal>
+		<Volume>35</Volume>
+		<Pages>155-259</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="24">
+		<List>Muricanthus</List>
+		<List>Haustrum</List>
+		<List>Nucella</List>
+		<List>Forreria</List>
+		<List>Acanthina</List>
+		<List>Cymia</List>
+		<List>Stramonita</List>
+		<List>Rapana</List>
+		<List>Cocnolepas</List>
+		<List>Dicathais</List>
+		<List>Vexilla</List>
+		<List>Nassa</List>
+		<List>Pinaxia</List>
+		<List>Drupa</List>
+		<List>Plicopurpura</List>
+		<List>Morula</List>
+		<List>Cronia</List>
+		<List>Vaula</List>
+		<List>Thais</List>
+		<List>Purpura</List>
+		<List>Mancinella</List>
+		<List>Neorapana</List>
+		<List>Tribulus</List>
+		<List>Trochia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="18">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Kool_1993a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

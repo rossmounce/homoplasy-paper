@@ -1,0 +1,81 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Benson, R. B. J.</List>
+			<List>Carrano, M. T.</List>
+			<List>Brusatte, S. L.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>A new clade of archaic large-bodied predatory dinosaurs (Theropoda: Allosauroidea) that survived to the latest Mesozoic</Title>
+		<Journal>Naturwissenschaften</Journal>
+		<Volume>97</Volume>
+		<Pages>71-78</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="45">
+		<List>Syntarsus_kayentakae</List>
+		<List>Dilophosaurus_wetherilli</List>
+		<List>Monolophosaurus_jiangi</List>
+		<List>Chuandongocoelurus_primitivus</List>
+		<List>Allosaurus_fragilis</List>
+		<List>Neovenator_salerii</List>
+		<List>Aerosteon_ricocoloradensis</List>
+		<List>Australovenator_wintonensis</List>
+		<List>Chilantaisaurus_tashuikouensis</List>
+		<List>Fukuiraptor_kitadanensis</List>
+		<List>Megaraptor_namunhuaiquii</List>
+		<List>Orkoraptor_burkei</List>
+		<List>Eocarcharia_dinops</List>
+		<List>Acrocanthosaurus_atokensis</List>
+		<List>Shaochilong_maortuensis</List>
+		<List>Tyrannotitan_chubutensis</List>
+		<List>Carcharodontosaurus</List>
+		<List>Giganotosaurus_carolinii</List>
+		<List>Mapusaurus_roseae</List>
+		<List>Lourinhanosaurus_antunesi</List>
+		<List>Poekilopleuron_bucklandii</List>
+		<List>Metriacanthosaurus_parkeri</List>
+		<List>Sinraptor_dongi</List>
+		<List>Compsognathus_longipes</List>
+		<List>Guanlong_wucaii</List>
+		<List>Tanycolagreus_topwilsoni</List>
+		<List>Afrovenator_abakensis</List>
+		<List>Dubreuillosaurus_valesdunensis</List>
+		<List>Eustreptospondylus_oxoniensis</List>
+		<List>Magnosaurus_nethercombensis</List>
+		<List>Megalosaurus_bucklandii</List>
+		<List>Duriavenator_hesperis</List>
+		<List>Streptospondylus_altdorfensis</List>
+		<List>Torvosaurus_tanneri</List>
+		<List>Piveteausaurus_divesensis</List>
+		<List>Baryonyx_walkeri</List>
+		<List>Suchomimus_tenerensis</List>
+		<List>Irritator_challengeri</List>
+		<List>Spinosaurus_aegyptiacus</List>
+		<List>Xuanhanosaurus_qilixianensis</List>
+		<List>Marshosaurus_bicentissimus</List>
+		<List>Condorraptor_currumili</List>
+		<List>Piatnitzkysaurus_floresi</List>
+		<List>ABELISAURIDAE</List>
+		<List>Ceratosaurus_nasicornis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="233">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Benson_etal_2010a</Filename>
+	<Parent>Benson_2010a</Parent>
+	<Sibling/>
+</SourceTree>

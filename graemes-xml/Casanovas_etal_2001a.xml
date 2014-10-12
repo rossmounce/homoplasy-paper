@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Casanovas, M. L.</List>
+			<List>Santafe, J. V.</List>
+			<List>Sanz, J. L.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>Losillasaurus giganteus, un nuevo sauropodo del transito Jurasico - Cretacico de la cuenca de Los Serranos (Valencia, Espana)</Title>
+		<Journal>Paleontologia i Evolucio</Journal>
+		<Volume>1</Volume>
+		<Pages>99-122</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="10">
+		<List>Shunosaurus</List>
+		<List>Cetiosaurus</List>
+		<List>Patagosaurus</List>
+		<List>Losillasaurus</List>
+		<List>Dicraeosaurus</List>
+		<List>Barosaurus</List>
+		<List>Diplodocus</List>
+		<List>Haplocanthosaurus</List>
+		<List>Brachiosaurus</List>
+		<List>Camarasaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="48">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Casanovas_etal_2001a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

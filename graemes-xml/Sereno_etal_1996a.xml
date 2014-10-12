@@ -1,0 +1,57 @@
+œ<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sereno, P. C.</List>
+			<List>Dutheil, D. B.</List>
+			<List>Iarochene, M.</List>
+			<List>Larsson, H. C. E.</List>
+			<List>Lyon, G. H.</List>
+			<List>Magwene, P. M.</List>
+			<List>Sidor, C. A.</List>
+			<List>Varricchio, D. J.</List>
+			<List>Wilson, J. A.</List>
+		</Author>
+		<Year>1996</Year>
+		<Title>Predatory dinosaurs from the Sahara and Late Cretaceous faunal differentiation</Title>
+		<Journal>Science</Journal>
+		<Volume>272</Volume>
+		<Pages>986-991</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="15">
+		<List>Outgroup__Eoraptor__plus__Herrerasauridae_</List>
+		<List>Ceratosauria</List>
+		<List>Afrovenator</List>
+		<List>Torvosauridae</List>
+		<List>Splnosauridae</List>
+		<List>Sinraptoridae</List>
+		<List>Cryolophosaurus</List>
+		<List>Monolophosaurus</List>
+		<List>Allosaurus</List>
+		<List>Giganotosaurus</List>
+		<List>Acrocanthosaur</List>
+		<List>Carcharodontosaurus</List>
+		<List>Ornitholestes</List>
+		<List>Deltadromeus</List>
+		<List>Other_coelurosaurs</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="63">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sereno_etal_1996a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

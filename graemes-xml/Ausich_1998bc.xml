@@ -1,0 +1,79 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ausich, W. I.</List>
+		</Author>
+		<Year>1998</Year>
+		<Title>Phylogeny of Arenig to Caradoc crinoids (Phylum Echinodermata) and suprageneric classification of the Crinoidea</Title>
+		<Journal>The University of Kansas Paleontological Contributions</Journal>
+		<Volume>9</Volume>
+		<Pages>1-36</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="45">
+		<List>Pogonipocrinus</List>
+		<List>Acolocrinus</List>
+		<List>Apodasmocrinus</List>
+		<List>Calceocrinus</List>
+		<List>Caleidocrinus_C</List>
+		<List>Caleidocrinus_H</List>
+		<List>Cataraquicrinus</List>
+		<List>Cincinnaticrinus</List>
+		<List>Columbicrinus</List>
+		<List>Cornucrinus</List>
+		<List>Cremacrinus</List>
+		<List>Daedalocrinus</List>
+		<List>Difficilicrinus</List>
+		<List>Doliocrinus</List>
+		<List>Ectenocrinus</List>
+		<List>Eustenocrinus</List>
+		<List>Geraocrinus</List>
+		<List>Glaucrinus</List>
+		<List>Hoplocrinus</List>
+		<List>Hybocrinus</List>
+		<List>Hybocystites</List>
+		<List>Ibexocrinus</List>
+		<List>Inyocrinus</List>
+		<List>Iocrinus</List>
+		<List>Isotomocrinus</List>
+		<List>Maennilicrinus</List>
+		<List>Ohiocrinus</List>
+		<List>Othneiocrinus</List>
+		<List>Paracremacrinus</List>
+		<List>Pariocrinus</List>
+		<List>Peltacrinus</List>
+		<List>Penicillicrinus</List>
+		<List>Peniculoctinus</List>
+		<List>Praecursoricrinus</List>
+		<List>Pultivocrinus</List>
+		<List>Ramseyocrinus</List>
+		<List>Revalocrinus</List>
+		<List>Ristnucrinus</List>
+		<List>Tetragonocrinus</List>
+		<List>Tomatilicrinus</List>
+		<List>Tripatocrinus</List>
+		<List>Tryssocrinus</List>
+		<List>Tunguskocrinus</List>
+		<List>Virucrinus</List>
+		<List>Vosekocrinus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="31">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ausich_1998bc</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

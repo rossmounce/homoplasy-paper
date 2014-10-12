@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Zhu, M.</List>
+			<List>Yu, X.-B.</List>
+		</Author>
+		<Year>2002</Year>
+		<Title>A primitive fish close to the common ancestor of tetrapods and lungfish</Title>
+		<Journal>Nature</Journal>
+		<Volume>418</Volume>
+		<Pages>767-770</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="27">
+		<List>Acanthodes</List>
+		<List>Achoania</List>
+		<List>Ligulalepis</List>
+		<List>Cheirolepis</List>
+		<List>Ctenacanthus</List>
+		<List>Diabolepis</List>
+		<List>Dicksonosteus</List>
+		<List>Diplocercides</List>
+		<List>Dipnorhynchus</List>
+		<List>Dipterus</List>
+		<List>Eusthenopteron</List>
+		<List>Glyptolepis</List>
+		<List>Ichthyostega</List>
+		<List>Kenichthys</List>
+		<List>Miguashaia</List>
+		<List>Mimia</List>
+		<List>Moythomasia</List>
+		<List>Onychodus</List>
+		<List>Osteolepis</List>
+		<List>Panderichthys</List>
+		<List>Porolepis</List>
+		<List>Powichthys</List>
+		<List>Psarolepis</List>
+		<List>Speonesydrion</List>
+		<List>Uranolophus</List>
+		<List>Youngolepis</List>
+		<List>Styloichthys</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="158">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Zhu_et_Yu_2002a</Filename>
+	<Parent>Zhu_etal_2001a</Parent>
+	<Sibling/>
+</SourceTree>

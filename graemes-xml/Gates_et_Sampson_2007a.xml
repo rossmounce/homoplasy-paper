@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Gates, T. A.</List>
+			<List>Sampson, S. D.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>A new species of <em>Gryposaurus</em> (Dinosauria: Hadrosauridae) from the late Campanian Kaiparowits Formation, southern Utah, USA</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>151</Volume>
+		<Pages>351-376</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="15">
+		<List>Igaunodon</List>
+		<List>Eolambia</List>
+		<List>Telmatosaurus</List>
+		<List>Corythosaurus</List>
+		<List>Lophorothon</List>
+		<List>Naashoibitosaurus</List>
+		<List>Brachylophosaurus</List>
+		<List>Maiasaura</List>
+		<List>Gryposaurus_notabilis</List>
+		<List>G._incurvimanus</List>
+		<List>G._latidens</List>
+		<List>G._monumentensis</List>
+		<List>Edmontosaurus_spp.</List>
+		<List>Prosaurolophus_spp.</List>
+		<List>Saurolophus_spp.</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="120">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Gates_et_Sampson_2007a</Filename>
+	<Parent>Horner_etal_2004a</Parent>
+	<Sibling/>
+</SourceTree>

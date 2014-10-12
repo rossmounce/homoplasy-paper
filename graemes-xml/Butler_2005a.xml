@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Butler, R. J.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>The 'fabrosaurid' ornithischian dinosaurs of the Upper Elliot Formation (Lower Jurassic) of South Africa and Lesotho</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>145</Volume>
+		<Pages>175-218</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="23">
+		<List>Marasuchus</List>
+		<List>Saurischia</List>
+		<List>Pisanosaurus</List>
+		<List>Lesothosaurus</List>
+		<List>SAM_dash_PK_dash_K8025</List>
+		<List>Stormbergia</List>
+		<List>Agilisaurus</List>
+		<List>Yandsaurus</List>
+		<List>Heterodontosaurus</List>
+		<List>Abrictosaurus</List>
+		<List>Jeholosaurus</List>
+		<List>Hypsilophodon</List>
+		<List>Gasparinisaura</List>
+		<List>Thescelosaurus</List>
+		<List>Parksosaurus</List>
+		<List>Iguanodontia</List>
+		<List>Pachycephalosauria</List>
+		<List>Ceratopsia</List>
+		<List>Scutellosaurus</List>
+		<List>Emausaurus</List>
+		<List>Scelidosaurus</List>
+		<List>Stegosauria</List>
+		<List>Ankylosauria</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="73">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Butler_2005a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

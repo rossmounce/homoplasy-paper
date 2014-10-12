@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Munter, R. C.</List>
+			<List>Clark, J. M.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>Theropod dinosaurs from the Early Jurassic of Huizachal Canyon, Mexico</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>53-75</Pages>
+		<Booktitle>Amniote Paleobiology: Perspectives on the Evolution of Mammals, Birds, and Reptiles</Booktitle>
+		<Publisher>Chicago University Press</Publisher>
+		<City>Chicago</City>
+		<Editor>
+			<List>Carrano, M. T.</List>
+			<List>Gaudin, T. J.</List>
+			<List>Blob, R. W.</List>
+			<List>Wible, J. R.</List>
+		</Editor>
+	</Source>
+	<Taxa number="25">
+		<List>Ornithischia</List>
+		<List>Sauropodomorpha</List>
+		<List>Eoraptor</List>
+		<List>Herrerasaurus</List>
+		<List>Staurikosaurus</List>
+		<List>Coelophysis</List>
+		<List>Gojirasaurus</List>
+		<List>L.airelensis</List>
+		<List>L.liliensterni</List>
+		<List>Procompsognathus</List>
+		<List>Shuvosaurus</List>
+		<List>Dilophosaurus</List>
+		<List>Segisaurus</List>
+		<List>Syntarsus</List>
+		<List>Magnosaurus</List>
+		<List>Metriacanthosaurus</List>
+		<List>Monolophosaurus</List>
+		<List>Piatnitzkysaurus</List>
+		<List>Piveteausaurus</List>
+		<List>Proceratosaurus</List>
+		<List>Allosaurus</List>
+		<List>Ceratosaurus</List>
+		<List>Sinraptoridae</List>
+		<List>Aristosuchus</List>
+		<List>IGM_6624</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="224">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Munter_et_Clark_2006ab</Filename>
+	<Parent>Rauhut_2003a</Parent>
+	<Sibling/>
+</SourceTree>

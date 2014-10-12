@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Burns, M. E.</List>
+			<List>Currie, P. J.</List>
+		</Author>
+		<Year>2014</Year>
+		<Title>External and internal structure of ankylosaur (Dinosauria, Ornithischia) osteoderms and their systematic relevance</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>34</Volume>
+		<Pages>835-851</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="16">
+		<List>Scelidosaurus</List>
+		<List>Minmi</List>
+		<List>Mymoorapelta</List>
+		<List>Pawpawsaurus</List>
+		<List>Sauropelta</List>
+		<List>Edmontonia</List>
+		<List>Panoplosaurus</List>
+		<List>Polacanthus</List>
+		<List>Shamosaurus</List>
+		<List>Tsagantegia</List>
+		<List>Pinacosaurus</List>
+		<List>Euoplocephalus</List>
+		<List>Saichania</List>
+		<List>Tarchia</List>
+		<List>Ankylosaurus</List>
+		<List>Gastonia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="66">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Burns_et_Currie_2014ad</Filename>
+	<Parent>Kirkland_1998b</Parent>
+	<Sibling/>
+</SourceTree>

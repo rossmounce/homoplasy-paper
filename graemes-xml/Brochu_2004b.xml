@@ -1,0 +1,73 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Brochu, C. A.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>Alligatorine phylogeny and the status of Allognathosuchus Mook, 1921</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>24</Volume>
+		<Pages>857-873</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="39">
+		<List>Borealosuchus_sternbergii</List>
+		<List>Asiatosuchus_germanicus</List>
+		<List>Leidyosuchus_canadensis</List>
+		<List>Diplocynodon_hantoniensis</List>
+		<List>Diplocynodon_ratelii</List>
+		<List>Diplocynodon_darwini</List>
+		<List>Baryphracta_deponiae</List>
+		<List>Stangerochampsa_mccabei</List>
+		<List>Albertochampsa_langstoni</List>
+		<List>Brachychampsa_montana</List>
+		<List>Brachychampsa_sealeyi</List>
+		<List>Alligator_sinensis</List>
+		<List>Alligator_mississippiensis</List>
+		<List>Alligator_mefferdi</List>
+		<List>Alligator_olseni</List>
+		<List>Alligator_mcgrewi</List>
+		<List>Alligator_prenasalis</List>
+		<List>Ceratosuchus_burdoshi</List>
+		<List>Navajosuchus_mooki</List>
+		<List>Hassiacosuchus_haupti</List>
+		<List>Allognathosuchus_polyodon</List>
+		<List>Willwood_alligatorid</List>
+		<List>Wannaganosuchus_brachymanus</List>
+		<List>Procaimanoidea_kayi</List>
+		<List>Procaimanoidea_utahensis</List>
+		<List>Arambourgia_gaudryi</List>
+		<List>Hispanochampsa_mulleri</List>
+		<List>Purussaurus_neivensis</List>
+		<List>Mourasuchus_spp</List>
+		<List>Caiman_yacare</List>
+		<List>Caiman_crocodilus</List>
+		<List>Caiman_latirostris</List>
+		<List>Melanosuchus_niger</List>
+		<List>Paleosuchus_trigonatus</List>
+		<List>Paleosuchus_palpebrosus</List>
+		<List>Eocaiman_cavernensis</List>
+		<List>Orthogenysuchus_olseni</List>
+		<List>Caiman_lutescens</List>
+		<List>Melanosuchus_fisheri</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="167">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Brochu_2004b</Filename>
+	<Parent>Brochu_1999a</Parent>
+	<Sibling/>
+</SourceTree>

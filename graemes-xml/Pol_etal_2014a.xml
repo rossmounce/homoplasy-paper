@@ -1,0 +1,148 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Pol, D.</List>
+			<List>Nascimento, P. M.</List>
+			<List>Carvalho, A. B.</List>
+			<List>Riccomini, C.</List>
+			<List>Pires-Domingues, R. A.</List>
+			<List>Zaher, H.</List>
+		</Author>
+		<Year>2014</Year>
+		<Title>A new notosuchian from the Late Cretaceous of Brazil and the phylogeny of advanced notosuchians</Title>
+		<Journal>PLOS ONE</Journal>
+		<Volume>9</Volume>
+		<Pages>e93105</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="109">
+		<List>Gracilisuchus</List>
+		<List>Terrestrisuchus</List>
+		<List>Dibothrosuchus</List>
+		<List>Protosuchus_richardsoni</List>
+		<List>Protosuchus_haughtoni</List>
+		<List>Hemiprotosuchus</List>
+		<List>Orthosuchus</List>
+		<List>Edentosuchus</List>
+		<List>KayentaForm</List>
+		<List>Zaraasuchus</List>
+		<List>Gobiosuchus</List>
+		<List>Sichuanosuchus_shuhanensis</List>
+		<List>Sichuanosuchus_huidongensis</List>
+		<List>Shantungosuchus</List>
+		<List>Zosuchus</List>
+		<List>Hsisosuchus_chowi</List>
+		<List>Hsisosuchus_chungkingensis</List>
+		<List>Fruitachampsa</List>
+		<List>Uruguaysuchus</List>
+		<List>Candidodon</List>
+		<List>Libycosuchus</List>
+		<List>Simosuchus</List>
+		<List>Malawisuchus</List>
+		<List>Pakasuchus</List>
+		<List>Chimaerasuchus</List>
+		<List>Notosuchus</List>
+		<List>Comahuesuchus</List>
+		<List>Mariliasuchus</List>
+		<List>Labidiosuchus</List>
+		<List>Caryonosuchus</List>
+		<List>S_huenei</List>
+		<List>Armadillosuchus</List>
+		<List>Caipirasuchus_stenognathus</List>
+		<List>Caipirasuchus_montealtensis</List>
+		<List>Caipirasuchus_paulistanus</List>
+		<List>Yacarerani</List>
+		<List>Adamantinasuchus</List>
+		<List>Coringasuchus</List>
+		<List>Morrinhosuchus</List>
+		<List>Campinasuchus</List>
+		<List>Pissarrachampsa</List>
+		<List>B_albertoi</List>
+		<List>B_pachecoi</List>
+		<List>B_salgadoensis</List>
+		<List>Stratiotosuchus</List>
+		<List>Pehuenchesuchus</List>
+		<List>Cynodontosuchus</List>
+		<List>Bergisuchus</List>
+		<List>Iberosuchus</List>
+		<List>Bretesuchus</List>
+		<List>Barinasuchus</List>
+		<List>S_huilensis</List>
+		<List>S_icaeorhinus</List>
+		<List>S_querejazus</List>
+		<List>Ayllusuchus</List>
+		<List>Lorosuchus</List>
+		<List>Lumbrera_form</List>
+		<List>Pabhwehshi</List>
+		<List>A_gomesii</List>
+		<List>A_patagonicus</List>
+		<List>A_buitreraensis</List>
+		<List>A_wegeneri</List>
+		<List>A_tsangatsangana</List>
+		<List>Anatosuchus</List>
+		<List>Montealtosuchus</List>
+		<List>Uberabasuchus</List>
+		<List>Lomasuchus</List>
+		<List>Gasparinisuchus</List>
+		<List>Hamadasuchus</List>
+		<List>Mahajangasuchus</List>
+		<List>Kaprosuchus</List>
+		<List>Stolokrosuchus</List>
+		<List>Theriosuchus</List>
+		<List>Alligatorium</List>
+		<List>Goniopholis_simus</List>
+		<List>Goniopholis_stovalli</List>
+		<List>Eutretauranosuchus</List>
+		<List>Calsoyasuchus</List>
+		<List>Sunosuchus</List>
+		<List>Shamosuchus</List>
+		<List>Bernissartia</List>
+		<List>Hylaeochampsa</List>
+		<List>Glen_Rose_Form</List>
+		<List>Borealosuchus</List>
+		<List>Pristichampsus_vorax</List>
+		<List>Eothoracosaurus_mississippiensi</List>
+		<List>Gavialis</List>
+		<List>Leidyosuchus_canadensis</List>
+		<List>Asiatosuchus_germanicus</List>
+		<List>Crocodylus</List>
+		<List>Diplocynodon_hantoniensis</List>
+		<List>Alligator</List>
+		<List>Pelagosaurus</List>
+		<List>Steneosaurus_bollensis</List>
+		<List>M_superciliousus</List>
+		<List>M_casamequelai</List>
+		<List>C_araucaniensis</List>
+		<List>C_suevicus</List>
+		<List>D_maximus</List>
+		<List>D_andiniensis</List>
+		<List>Rhabdognathus</List>
+		<List>Sokotosuchus</List>
+		<List>Dyrosaurus</List>
+		<List>Hyposaurus</List>
+		<List>Pholidosaurus</List>
+		<List>Sarcosuchus</List>
+		<List>Terminonaris</List>
+		<List>Rugosuchus</List>
+		<List>Argochampsa</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="412">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Pol_etal_2014a</Filename>
+	<Parent>Pol_etal_2012a</Parent>
+	<Sibling/>
+</SourceTree>

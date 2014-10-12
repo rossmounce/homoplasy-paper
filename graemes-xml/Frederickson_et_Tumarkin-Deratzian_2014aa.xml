@@ -1,0 +1,83 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Frederickson, J. A.</List>
+			<List>Tumarkin-Deratzian, A. R.</List>
+		</Author>
+		<Year>2014</Year>
+		<Title>Craniofacial ontogeny in <em>Centrosaurus apertus</em></Title>
+		<Journal>PeerJ</Journal>
+		<Volume>2</Volume>
+		<Pages>e252</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="48">
+		<List>_Embryo</List>
+		<List>_TMP_66_dot_33_dot_17</List>
+		<List>_TMP_1982_dot_18_dot__164</List>
+		<List>_TMP_1987_dot_18_dot_20</List>
+		<List>_TMP_1992_dot_36_dot_224</List>
+		<List>_TMP_1979_dot_11_dot_83</List>
+		<List>TMP_1987_dot_18_dot_39</List>
+		<List>_TMP_1982_dot_18_dot_44</List>
+		<List>_TMP_1995_dot_401_dot_045</List>
+		<List>_TMP_1980_dot_18_dot_66</List>
+		<List>_TMP_1995_dot_176_dot_0076</List>
+		<List>TMP_1992_dot_36_dot_780_dot_</List>
+		<List>_TMP_1990_dot_57_dot_20</List>
+		<List>_TMP_1995_dot_401_dot_0007</List>
+		<List>_TMP_1981_dot_39_dot_24</List>
+		<List>_TMP_1981_dot_18_dot_56</List>
+		<List>_TMP_1993_dot_36_dot_1940</List>
+		<List>_TMP_1989_dot_18_dot_9</List>
+		<List>_TMP_1995_dot_401_dot_0004</List>
+		<List>_TMP_1995_dot_401_dot_044</List>
+		<List>_TMP_1979_dot_11_dot_20</List>
+		<List>_TMP_1980_dot_18_dot_83</List>
+		<List>_TMP_1979_dot_11_dot_89</List>
+		<List>_TMP_1980_dot_18_dot_221</List>
+		<List>_TMP_1979_dot_11_dot_80</List>
+		<List>_TMP_1982_dot_16_dot_11</List>
+		<List>_TMP_1995_dot_401_dot_0016</List>
+		<List>_TMP_1979_dot_11_dot_76</List>
+		<List>_TMP_1982_dot_18_dot_79</List>
+		<List>_TMP_1982_dot_18_dot_277</List>
+		<List>_TMP_2001_dot_00_dot_001</List>
+		<List>_TMP_1978_dot_06_dot_001</List>
+		<List>_TMP_1980_dot_54_dot_1</List>
+		<List>_TMP_1993_dot_70_dot_01</List>
+		<List>_TMP_1994_dot_182_dot_1</List>
+		<List>_TMP_1992_dot_82_dot_1</List>
+		<List>_UALVP_11735</List>
+		<List>_NMC_8795</List>
+		<List>_NMC_348</List>
+		<List>_NMC_11837</List>
+		<List>_NMC_8798</List>
+		<List>_NMC_11839</List>
+		<List>_NMC_971</List>
+		<List>_NMC_1229</List>
+		<List>_YPM_2015</List>
+		<List>_AMNH_5351</List>
+		<List>_ROM_767</List>
+		<List>_USNM_8897</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="130">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Frederickson_et_Tumarkin-Deratzian_2014aa</Filename>
+	<Parent/>
+	<Sibling>Frederickson_et_Tumarkin-Deratzian_2014ab</Sibling>
+</SourceTree>

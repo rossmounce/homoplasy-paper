@@ -1,0 +1,66 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Li, L.-G.</List>
+			<List>Li, D.-Q.</List>
+			<List>You, H.-L.</List>
+			<List>Dodson, P.</List>
+		</Author>
+		<Year>2014</Year>
+		<Title>A new titanosaurian sauropod from the Hekou Group (Lower Cretaceous) of the Lanzhou-Minhe Basin, Gansu Province, China</Title>
+		<Journal>PLOS ONE</Journal>
+		<Volume>9</Volume>
+		<Pages>e85979</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="29">
+		<List>Shunosaurus</List>
+		<List>Omeisaurus</List>
+		<List>Jobaria</List>
+		<List>Atlasaurus</List>
+		<List>Diplodocoidea</List>
+		<List>Camarasaurus</List>
+		<List>Tehuelchesaurus</List>
+		<List>Giraffatitan</List>
+		<List>Brachio_altithorax</List>
+		<List>Cedarosaurus</List>
+		<List>Abydosaurus</List>
+		<List>Europasaurus</List>
+		<List>Saltasaurini</List>
+		<List>Alamosaurus</List>
+		<List>Opisthocoelicaudia</List>
+		<List>Malawisaurus</List>
+		<List>Daxiatitan</List>
+		<List>Erketu</List>
+		<List>Euhelopus</List>
+		<List>Chubutisaurus</List>
+		<List>Phuwiangosaurus</List>
+		<List>Sauroposeidon</List>
+		<List>Tangvayosaurus</List>
+		<List>Tastavinsaurus</List>
+		<List>Venenosaurus</List>
+		<List>Qiaowanlong</List>
+		<List>Andesaurus</List>
+		<List>Ligabuesaurus</List>
+		<List>Yongjinglong_datangi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="119">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Li_etal_2014bb</Filename>
+	<Parent>DEmic_2012a</Parent>
+	<Sibling/>
+</SourceTree>

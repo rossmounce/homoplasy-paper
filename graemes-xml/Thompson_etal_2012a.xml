@@ -1,0 +1,88 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Thompson, R. S.</List>
+			<List>Parish, J. C.</List>
+			<List>Maidment, S. C. R.</List>
+			<List>Barrett, P. M.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>Phylogeny of the ankylosaurian dinosaurs (Ornithischia: Thyreophora)</Title>
+		<Journal>Journal of Systematic Palaeontology</Journal>
+		<Volume>10</Volume>
+		<Pages>301-312</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="51">
+		<List>Lesothosaurus_diagnotsicus</List>
+		<List>Scutellosaurus</List>
+		<List>Emausaurus</List>
+		<List>Scelidosaurus</List>
+		<List>Huayangosaurus_tabaii</List>
+		<List>Stegosaurus</List>
+		<List>Anoplosaurus_curtonotus</List>
+		<List>Animantarx_ramaljonsei</List>
+		<List>Antarctopelta_oliveroi</List>
+		<List>Edmontonia</List>
+		<List>Gargoyleosaurus_parkpinorum</List>
+		<List>Gastonia_burgei</List>
+		<List>Hoplitosaurus_marshi</List>
+		<List>Hungarosaurus_tormai</List>
+		<List>Hylaeosaurus_armatus</List>
+		<List>Mymoorapelta_maysi</List>
+		<List>Niobrarasaurus_coleii</List>
+		<List>Nodosaurus_textillis</List>
+		<List>Panoplosaurus_mirus</List>
+		<List>Pawpawsaurus_cambelli</List>
+		<List>Peloroplites_cedrimontanus</List>
+		<List>Polacanthus_foxii</List>
+		<List>Polacanthus_rudgwickensis</List>
+		<List>Sauropelta_edwardsi</List>
+		<List>Silvisaurus_condrayi</List>
+		<List>Stegopelta_landerensis</List>
+		<List>Struthiosaurus_austriacus</List>
+		<List>Struthiosaurus_languedocensis</List>
+		<List>Tatankocephalus_cooneyorum</List>
+		<List>Texasetes_pleurohalio</List>
+		<List>Zhejiangosaurus_lishuiensis</List>
+		<List>Minmi_paravertebra</List>
+		<List>Liaoningosaurus_paradoxus</List>
+		<List>Cedarpelta_bilbeyhallorum</List>
+		<List>Gobisaurus_domoculus</List>
+		<List>Shamosaurus_scutatus</List>
+		<List>Tsagantegia_longicranialis</List>
+		<List>Zhonguansaurus_lauyangensis</List>
+		<List>Ankylosaurus_marginoventris</List>
+		<List>Chrichtonsaurus_benxiensis</List>
+		<List>Euoplocephalus_tutus</List>
+		<List>Nodocephalosaurus_kirtlandensis</List>
+		<List>Pinacosaurus_mephistocephalus</List>
+		<List>Saichania_chulsanensis</List>
+		<List>Shanxia_tianzhenensis</List>
+		<List>Talarurus_plicatospineus</List>
+		<List>Tarchia_gigantea</List>
+		<List>Tianzhenosaurus_youngi</List>
+		<List>Dyoplosaurus_acutosquameus</List>
+		<List>Minotaurasaurus_ramachandrani</List>
+		<List>Pinacosaurus_grangeri</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="170">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Thompson_etal_2012a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

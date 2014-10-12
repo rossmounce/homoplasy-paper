@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Jiang, D.-Y.</List>
+			<List>Motani, R.</List>
+			<List>Hao, W.-C.</List>
+			<List>Rieppel, O.</List>
+			<List>Sun, Y.-L.</List>
+			<List>Schmitz, L.</List>
+			<List>Sun, Z.-Y.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>First record of Placodontoidea (Reptilia, Sauropterygia, Placodontia) from the Eastern Tethys</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>28</Volume>
+		<Pages>904-908</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List>Pachypleurosaurs</List>
+		<List>Simosaurus</List>
+		<List>Nothosaurus</List>
+		<List>Placodus_gigas</List>
+		<List>Placodus_inexpectatus</List>
+		<List>Paraplacodus</List>
+		<List>Cyamodus</List>
+		<List>Henodus</List>
+		<List>Macroplacus</List>
+		<List>Placochelys</List>
+		<List>Protenodontosaurus</List>
+		<List>Psephoderma</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="69">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Jiang_etal_2008a</Filename>
+	<Parent>Rieppel_2000a</Parent>
+	<Sibling/>
+</SourceTree>

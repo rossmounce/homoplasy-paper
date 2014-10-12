@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sereno, P. C.</List>
+			<List>Arcucci, A. B.</List>
+		</Author>
+		<Year>1991</Year>
+		<Title>The monophyly of crurotarsal archosaurs and the origin of bird and crocodile ankle joints</Title>
+		<Journal>Neues Jahrbuch fur Geologie und Palaontologie Abhandlungen</Journal>
+		<Volume>180</Volume>
+		<Pages>21-52</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="8">
+		<List>Ancestor</List>
+		<List>Euparkeria</List>
+		<List>Proterochampsidae</List>
+		<List>Ornithosuchidae</List>
+		<List>Parasuchia</List>
+		<List>Suchia</List>
+		<List>Pterosauria</List>
+		<List>Lagosuchus_plus_Dinosauria</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="34">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sereno_et_Arcucci_1990a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

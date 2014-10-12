@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Apesteguia, S.</List>
+			<List>Novas, F. E.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>Large Cretaceous sphenodontian from Patagonia provides insight into lepidosaur evolution in Gondwana</Title>
+		<Journal>Nature</Journal>
+		<Volume>425</Volume>
+		<Pages>609-612</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="16">
+		<List>SQUAMATA</List>
+		<List>Diphydontosaurus</List>
+		<List>Brachyrhinodon</List>
+		<List>Homoeosaurus</List>
+		<List>Kallimodon</List>
+		<List>Sapheosaurus</List>
+		<List>Palaeopleurosaurus</List>
+		<List>Clevosaurus_hudsoni</List>
+		<List>Pamizinsaurus</List>
+		<List>Zapatadon</List>
+		<List>Sphenodon</List>
+		<List>Cynosphenodon</List>
+		<List>Opisthias</List>
+		<List>Toxolophosaurus</List>
+		<List>Eilenodon</List>
+		<List>Priosphenodon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="67">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Apesteguia_et_Novas_2003a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

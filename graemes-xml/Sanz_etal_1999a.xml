@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sanz, J. L.</List>
+			<List>Powell, J. E.</List>
+			<List>Le Loeff, J.</List>
+			<List>Martinez, R.</List>
+			<List>Pereda Suberbiola, X.</List>
+		</Author>
+		<Year>1999</Year>
+		<Title>Sauropod remains from the Upper Cretaceous of Lano (Northcentral Spain). Titanosaur phylogenetic relationships</Title>
+		<Journal>Estudios del Museo de Ciencias Naturales de Alava</Journal>
+		<Volume>14</Volume>
+		<Pages>235-225</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="9">
+		<List>Patagosaurus</List>
+		<List>Haplocanthosaurus</List>
+		<List>Andesaurus</List>
+		<List>Opishtocoelicaudia</List>
+		<List>Epachtosaurus</List>
+		<List>Saltasaurus</List>
+		<List>Agyrosaurus</List>
+		<List>Lirainosaurus</List>
+		<List>Peiropolis_titanosaur</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="43">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sanz_etal_1999a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

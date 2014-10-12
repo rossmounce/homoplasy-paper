@@ -1,0 +1,66 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Geng, B.-H.</List>
+			<List>Zhu, M.</List>
+			<List>Jin, F.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>A revision and phylogenetic analysis of <em>Guizhoucoelacanthus</em> (Sarcopterygii, Actinistia) from the Triassic of China</Title>
+		<Journal>Vertebrata PalAsiatica</Journal>
+		<Volume>47</Volume>
+		<Pages>165-177</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="30">
+		<List>Actinopterygii</List>
+		<List>Porolepiformes</List>
+		<List>Miguashaia</List>
+		<List>Diplocercides</List>
+		<List>Lochmocercus</List>
+		<List>Hadronector</List>
+		<List>Polyosteorhynchus</List>
+		<List>Allenypterus</List>
+		<List>Caridosuctor</List>
+		<List>Rhabdoderma</List>
+		<List>Sassenia</List>
+		<List>Spermatodus</List>
+		<List>Coccoderma</List>
+		<List>Laugia</List>
+		<List>Coelacanthus</List>
+		<List>Whiteia</List>
+		<List>Latimeria</List>
+		<List>Macropoma</List>
+		<List>Undina</List>
+		<List>Holophagus</List>
+		<List>Garnbergia</List>
+		<List>Libys</List>
+		<List>Diplurus</List>
+		<List>Chinlea</List>
+		<List>Mawsonia</List>
+		<List>Axelrodichthys</List>
+		<List>Wenzia</List>
+		<List>Holopterygius</List>
+		<List>Piveteauia</List>
+		<List>Guizhoucoelacanthus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="109">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Geng_etal_2009a</Filename>
+	<Parent>Friedman_et_Coates_2006a</Parent>
+	<Sibling/>
+</SourceTree>

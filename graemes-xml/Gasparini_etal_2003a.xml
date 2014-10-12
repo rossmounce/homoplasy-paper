@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Gasparini, Z.</List>
+			<List>Bardet, N.</List>
+			<List>Martin, J. E.</List>
+			<List>Fernandez, M.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>The elasmosaurid plesiosaur <em>Aristonectes</em> Cabrera from the latest Cretaceous of South America and Antarctica</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>23</Volume>
+		<Pages>104-115</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="10">
+		<List>P_dolichodeirus</List>
+		<List>Tricleidus</List>
+		<List>Cryptoclidus</List>
+		<List>Occitanosaurus</List>
+		<List>Microcleidus</List>
+		<List>Muraenosaurus</List>
+		<List>Callawayasaurus</List>
+		<List>Libonectes</List>
+		<List>Hydrotherosaurus</List>
+		<List>Aristonectes</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="20">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Gasparini_etal_2003a</Filename>
+	<Parent>Bardet_etal_1999a</Parent>
+	<Sibling/>
+</SourceTree>

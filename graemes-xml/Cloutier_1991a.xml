@@ -1,0 +1,66 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Cloutier, R.</List>
+		</Author>
+		<Year>1991</Year>
+		<Title>Patterns, trends, and rates of evolution within the Actinistia</Title>
+		<Journal>Environmental Biology of Fishes</Journal>
+		<Volume>32</Volume>
+		<Pages>23-58</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="32">
+		<List>Outgroup</List>
+		<List>ALCOVBR</List>
+		<List>ALLENMO</List>
+		<List>AXELIRO</List>
+		<List>AXELRAR</List>
+		<List>CARIDPO</List>
+		<List>CHINLSO</List>
+		<List>COELAGR</List>
+		<List>DIPLOKA</List>
+		<List>DIPLULO</List>
+		<List>DIPLUNE</List>
+		<List>GARNBOM</List>
+		<List>HADRODO</List>
+		<List>HOLOPPE</List>
+		<List>LATIMCH</List>
+		<List>LAUGIGR</List>
+		<List>LOCHMAC</List>
+		<List>MACROMA</List>
+		<List>MAWSOGI</List>
+		<List>MIGUABU</List>
+		<List>NESIDSC</List>
+		<List>NESIDHE</List>
+		<List>POLYOSI</List>
+		<List>RHABDEL</List>
+		<List>RHABDEX</List>
+		<List>RHABDMA</List>
+		<List>RHABSPl</List>
+		<List>SYNAPNE</List>
+		<List>TICINPE</List>
+		<List>WHITETU</List>
+		<List>WHITEWO</List>
+		<List>WIMANSI</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="75">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Cloutier_1991a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

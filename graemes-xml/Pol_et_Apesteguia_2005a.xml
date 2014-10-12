@@ -1,0 +1,85 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Pol, D.</List>
+			<List>Apesteguia, S.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>New <em>Araripesuchus</em> remains from the early Late Cretaceous (Cenomanian-Turonian) of Patagonia</Title>
+		<Journal>American Museum Novitates</Journal>
+		<Volume>3490</Volume>
+		<Pages>1-38</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="50">
+		<List>Gracilisuchus</List>
+		<List>Terrestrisuchus</List>
+		<List>Dibothrosuchus</List>
+		<List>Protosuchus</List>
+		<List>Hemiprotosuchus</List>
+		<List>Orthosuchus</List>
+		<List>Kayenta_Form</List>
+		<List>Edentosuchus</List>
+		<List>Gobiosuchus</List>
+		<List>Sichuanosuchus</List>
+		<List>Shantungosuchus</List>
+		<List>Hsisosuchus</List>
+		<List>Fruita_Form</List>
+		<List>Notosuchus</List>
+		<List>Comahuesuchus</List>
+		<List>Uruguaysuchus</List>
+		<List>Chimaeresuchus</List>
+		<List>Malawisuchus</List>
+		<List>Candidodon</List>
+		<List>Simosuchus</List>
+		<List>Sphagesaurus</List>
+		<List>Bretesuchus</List>
+		<List>Baurusuchus</List>
+		<List>Iberosuchus</List>
+		<List>Lybicosuchus</List>
+		<List>Araripesuchus_gomesii</List>
+		<List>Araripesuchus_patagonicus</List>
+		<List>Araripesuchus_buitreraensis</List>
+		<List>MPCA_dash_PV_236</List>
+		<List>Araripesuchus_wegeneri</List>
+		<List>Lomasuchus</List>
+		<List>Peirosaurus</List>
+		<List>Theriosuchus</List>
+		<List>Alligatorium</List>
+		<List>Goniopholis</List>
+		<List>Eutretauranosuchus</List>
+		<List>Pelagosaurus</List>
+		<List>Teleosauridae</List>
+		<List>Metriorhynchidae</List>
+		<List>Sokotosuchus</List>
+		<List>Dyrosauridae</List>
+		<List>Pholidosaurus</List>
+		<List>Bernissartia</List>
+		<List>Borealosuchus</List>
+		<List>Gavialis</List>
+		<List>Crocodylus</List>
+		<List>Alligator</List>
+		<List>Hylaeochampsa</List>
+		<List>Zaraasuchus</List>
+		<List>Zosuchus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="230">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Pol_et_Apesteguia_2005a</Filename>
+	<Parent>Clark_1994a</Parent>
+	<Sibling/>
+</SourceTree>

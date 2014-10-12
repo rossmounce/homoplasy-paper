@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Xu, X.</List>
+			<List>Upchurch, P.</List>
+			<List>Ma, Q.</List>
+			<List>Pittman, M.</List>
+			<List>Choiniere, J.</List>
+			<List>Sullivan, C.</List>
+			<List>Hone, D. W. E.</List>
+			<List>Tan, Q.</List>
+			<List>Tan, L.</List>
+			<List>Xiao, D.</List>
+			<List>Han, F.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>Osteology of the Late Cretaceous alvarezsauroid <em>Linhenykus monodactylus</em> from China and comments on alvarezsauroid biogeography</Title>
+		<Journal>Acta Palaeontologica Polonica</Journal>
+		<Volume>58</Volume>
+		<Pages>25-46</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Tyrannosauridae</List>
+		<List>Dromaeosauridae</List>
+		<List>Achillesaurus_manazzonei</List>
+		<List>Alvarezsaurus_calvoi</List>
+		<List>Patagonykus_puertai</List>
+		<List>Albertonykus_borealis</List>
+		<List>Mononykus_olecranus</List>
+		<List>Shuvuuia_deserti</List>
+		<List>Parvicursor_remotus</List>
+		<List>YPM_1049</List>
+		<List>Tugriken_Shireh_alvarezsaur</List>
+		<List>Xixianykus_zhangi</List>
+		<List>Haplocheirus</List>
+		<List>Linhenykus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="77">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Xu_etal_2013a</Filename>
+	<Parent>Xu_etal_2011d</Parent>
+	<Sibling/>
+</SourceTree>

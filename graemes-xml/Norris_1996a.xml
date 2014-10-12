@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Norris, R. D.</List>
+		</Author>
+		<Year>1996</Year>
+		<Title>Symbiosis as an evolutionary innovation in the radiation of Paleocene planktic Foraminifera</Title>
+		<Journal>Paleobiology</Journal>
+		<Volume>22</Volume>
+		<Pages>461-480</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="16">
+		<List>Outgroup</List>
+		<List>G_compressa</List>
+		<List>A_strabocella</List>
+		<List>A_nitida</List>
+		<List>I_pusilla</List>
+		<List>I_tadjikistanensis</List>
+		<List>Pr_taurica</List>
+		<List>Pr_inconstans</List>
+		<List>Pr_uncinata</List>
+		<List>M_apanthesma</List>
+		<List>M_angulata</List>
+		<List>M_conicotruncata</List>
+		<List>M_velascoensis</List>
+		<List>E_eobulloides</List>
+		<List>S_triloculinoides</List>
+		<List>Ps_varianata</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="31">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Norris.1996a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

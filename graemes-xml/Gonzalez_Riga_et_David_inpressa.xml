@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Gonzalez Riga, B. J.</List>
+			<List>David, L. O.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>A new titanosaur (Dinosauria, Sauropoda) from the Upper Cretaceous (Cerro Lisandro Formation) of Mendoza Province, Argentina</Title>
+		<Journal>Ameghiniana</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="22">
+		<List>Camarasaurus</List>
+		<List>Brachiosaurus</List>
+		<List>Chubutisaurus</List>
+		<List>Andesaurus</List>
+		<List>Malawisaurus</List>
+		<List>Ligabuesaurus</List>
+		<List>Mendozasaurus</List>
+		<List>Futalognkosaurus</List>
+		<List>Quetecsaurus</List>
+		<List>Epachthosaurus</List>
+		<List>Rapetosaurus</List>
+		<List>Lirainosaurus</List>
+		<List>Rinconsaurus</List>
+		<List>Muyelensaurus</List>
+		<List>Bonitasaura</List>
+		<List>Gondwanatitan</List>
+		<List>Aeolosaurus</List>
+		<List>Opisthocoelicaudia</List>
+		<List>Alamosaurus</List>
+		<List>Neuquensaurus</List>
+		<List>Saltasaurus</List>
+		<List>Rocasaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="82">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Gonzalez_Riga_et_David_inpressa</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

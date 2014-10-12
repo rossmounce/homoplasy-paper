@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Gay, R.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>Kayentavenator elysiae, a new tetanuran from the Early Jurassic of Arizona</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>27-43</Pages>
+		<Booktitle>Notes on Early Mesozoic Theropods</Booktitle>
+		<Publisher>Lulu Press</Publisher>
+		<City>Page</City>
+		<Editor>
+			<List>Gay, R. J.</List>
+		</Editor>
+	</Source>
+	<Taxa number="11">
+		<List>Rauisuchidae</List>
+		<List>Kayentavenator</List>
+		<List>Allosaurus</List>
+		<List>Tyrannosauridae</List>
+		<List>Archaeopteryx</List>
+		<List>Dromeosauridae</List>
+		<List>Carnotaurus</List>
+		<List>Ceratosaurus</List>
+		<List>Dilophosaurus</List>
+		<List>Coelophysisidae</List>
+		<List>Herresaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="28">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Gay_2010a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

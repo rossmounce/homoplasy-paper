@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ahlberg, P. E.</List>
+			<List>Johanson, Z.</List>
+		</Author>
+		<Year>1997</Year>
+		<Title>Second tristichopterid (Sarcopterygii, Osteolepiformes) from the Upper Devonian of Canowindra, New South Wales, Australia, and phylogeny of the Tristichopteridae</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>17</Volume>
+		<Pages>653-673</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="8">
+		<List>OG1</List>
+		<List>Tristichopterus</List>
+		<List>Eusthenopteron</List>
+		<List>Jarvikina</List>
+		<List>Platycephalichthys</List>
+		<List>Eusthenodon</List>
+		<List>Mandageria</List>
+		<List>Cabonnichthys</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="14">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ahlberg_et_Johanson_1997aa</Filename>
+	<Parent/>
+	<Sibling>Ahlberg_et_Johanson_1997ab</Sibling>
+</SourceTree>

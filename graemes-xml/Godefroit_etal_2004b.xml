@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Godefroit, P.</List>
+			<List>Alifanov, V.</List>
+			<List>Bolotsky, Y.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>A re-appraisal of Aralosaurus tuberiferus (Dinosauria, Hadrosauridae) from the Late Cretaceous of Kazakhstan</Title>
+		<Journal>Bulletin Institut royal des sciences naturelles de Belgique: Sciences de la terre</Journal>
+		<Volume> 74 (supp)</Volume>
+		<Pages>139-154</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="19">
+		<List>Bactrosaurus</List>
+		<List>Aralosaurus</List>
+		<List>Tsintaosaurus</List>
+		<List>Jaxartosaurus</List>
+		<List>Amurosaurus</List>
+		<List>Parasaurolophus</List>
+		<List>Charonosaurus</List>
+		<List>Lambeosaurus</List>
+		<List>Olorotitan</List>
+		<List>Corythosaurus</List>
+		<List>Hypacrosaurus</List>
+		<List>Maiasaura</List>
+		<List>Brachylophosaurus</List>
+		<List>Gryposaurus</List>
+		<List>Kerberosaurus</List>
+		<List>Saurolophus</List>
+		<List>Prosaurolophus</List>
+		<List>Edmontosaurus</List>
+		<List>Anatotitan</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="36">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Godefroit_etal_2004b</Filename>
+	<Parent>Godefroit_etal_2003a</Parent>
+	<Sibling/>
+</SourceTree>

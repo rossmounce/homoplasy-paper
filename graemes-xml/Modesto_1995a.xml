@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Modesto, S. P.</List>
+		</Author>
+		<Year>1995</Year>
+		<Title>The skull of the herbivorous synapsid <em>Edaphosaurus boanerges</em> from the Lower Permian of Texas</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>38</Volume>
+		<Pages>213-239</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="8">
+		<List>Mycterosaurus</List>
+		<List>Haptodus</List>
+		<List>1anthasaurus</List>
+		<List>Glaucosaurus</List>
+		<List>E_novomexicanus</List>
+		<List>E_boanerges</List>
+		<List>E_cruciger</List>
+		<List>E_pogonias</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="36">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Modesto_1995a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

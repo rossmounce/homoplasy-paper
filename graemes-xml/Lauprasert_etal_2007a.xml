@@ -1,0 +1,69 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lauprasert, K.</List>
+			<List>Cuny, G.</List>
+			<List>Buffetaut, E.</List>
+			<List>Suteethorn, V.</List>
+			<List>Thirakhupt, K.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>Siamosuchus phuphokensis, a new goniopholidid from the Early Cretaceous (ante-Aptian) of northeastern Thailand</Title>
+		<Journal>Bulletin de la Societe Geologique de France</Journal>
+		<Volume>178</Volume>
+		<Pages>201-216</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="31">
+		<List>Protosuchus</List>
+		<List>Hemiprotosuchus</List>
+		<List>Orthosuchus</List>
+		<List>Notosuchus</List>
+		<List>Baurusuchus</List>
+		<List>Libycosuchus</List>
+		<List>Sebecus</List>
+		<List>Araripesuchus</List>
+		<List>Alligatorium</List>
+		<List>Theriosuchus</List>
+		<List>Pelagosaurus</List>
+		<List>Teleosauridae</List>
+		<List>Metriorhynchidae</List>
+		<List>Eutretauranosuchus</List>
+		<List>Goniopholis_lucasii</List>
+		<List>Bernissartia</List>
+		<List>Crocodylia</List>
+		<List>Mahajangasuchus</List>
+		<List>Peirosauridae</List>
+		<List>Hsisosuchus</List>
+		<List>Trematochampsa</List>
+		<List>Uruguaysuchus</List>
+		<List>Malawisuchus</List>
+		<List>Comahuesuchus</List>
+		<List>Simosuchus</List>
+		<List>Sunosuchus_junggarensis</List>
+		<List>Sunosuchus_miaoi</List>
+		<List>Calsoyasuchus</List>
+		<List>Siamosuchus_phuphokensis</List>
+		<List>Goniopholis_simus</List>
+		<List>G_baryglyphaeus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="100">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lauprasert_etal_2007a</Filename>
+	<Parent>Tykoski_etal_2002aa</Parent>
+	<Sibling/>
+</SourceTree>

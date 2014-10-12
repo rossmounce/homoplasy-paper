@@ -1,0 +1,61 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Monks, N.</List>
+		</Author>
+		<Year>2002</Year>
+		<Title>Cladistic analysis of a problematic ammonite group: the Hamitidae (Cretaceous, Albian-Turonian) and proposals for new cladistic terms</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>45</Volume>
+		<Pages>689-707</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="27">
+		<List>Hamites_sp_nov</List>
+		<List>Hamitella_annulata</List>
+		<List>Hamites_attenuatus</List>
+		<List>Hamites_compressus</List>
+		<List>Hamites_dixoni</List>
+		<List>Hamites_funatus</List>
+		<List>Hamites_gibbosus</List>
+		<List>Hamites_hybridus</List>
+		<List>Hamites_maximus</List>
+		<List>Hamites_nokonsis</List>
+		<List>Hamites_parkinsoni</List>
+		<List>Hamites_praegibbosus</List>
+		<List>Hamites_pseudattenuatus</List>
+		<List>Hamites_ptychoceratoides</List>
+		<List>Hamites_tenuicostatus</List>
+		<List>Hamites_tenuis</List>
+		<List>Hamites_virgulatus</List>
+		<List>Hamitoides_studeri</List>
+		<List>Hemiptychoceras_gaultinum</List>
+		<List>Lytohamites_similis</List>
+		<List>Psilohemites_bouchardianus</List>
+		<List>P_corrugatus</List>
+		<List>Scaphemites_passendorferi</List>
+		<List>Eoscaphites</List>
+		<List>Proturrilitoides</List>
+		<List>Lechites</List>
+		<List>Protanisoceras</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="30">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Monks_2002a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

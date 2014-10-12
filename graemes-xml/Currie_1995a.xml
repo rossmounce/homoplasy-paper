@@ -1,0 +1,40 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Currie, P. J.</List>
+		</Author>
+		<Year>1995</Year>
+		<Title>New information on the anatomy and relationships of Dromaeosaurus albertensis (Dinosauria: Theropoda)</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>15</Volume>
+		<Pages>576-591</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="6">
+		<List>Herrerasaurus</List>
+		<List>Coelophysis</List>
+		<List>Sinraptor</List>
+		<List>Dromaeosaurus</List>
+		<List>Velociraptorinae</List>
+		<List>Itemirus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="27">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Currie_1995a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

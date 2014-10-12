@@ -1,0 +1,70 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Gohlich, U. B.</List>
+			<List>Chiappe, L. M.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>A new carnivorous dinosaur from the Late Jurassic Solnhofen archipelago</Title>
+		<Journal>Nature</Journal>
+		<Volume>440</Volume>
+		<Pages>329-332</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="35">
+		<List>Coelophysis</List>
+		<List>Dilophosaurus</List>
+		<List>Allosaurus</List>
+		<List>Sinraptor</List>
+		<List>Albertosaurus</List>
+		<List>Tyrannosaurus</List>
+		<List>Ornitholestes</List>
+		<List>Huaxiagnathus</List>
+		<List>Sinosauropteryx</List>
+		<List>Compsognathus</List>
+		<List>Juravenator</List>
+		<List>Mirischia</List>
+		<List>Scipionyx</List>
+		<List>Nqwebasaurus</List>
+		<List>Coelurus</List>
+		<List>Nedcolbertia</List>
+		<List>Microraptor</List>
+		<List>Sinornithosaurus</List>
+		<List>Velociraptor</List>
+		<List>Sinovenator</List>
+		<List>Troodon</List>
+		<List>Saurornithoides</List>
+		<List>Confuciusornis</List>
+		<List>Archaeopteryx</List>
+		<List>Patagonykus</List>
+		<List>Shuuvuia</List>
+		<List>Mononykus</List>
+		<List>Caudipteryx</List>
+		<List>Conchoraptor</List>
+		<List>Citipati</List>
+		<List>Alxasaurus</List>
+		<List>Erlikosaurus</List>
+		<List>Shenzhousaurus</List>
+		<List>Ornithomimus</List>
+		<List>Gallimimus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="189">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Gohlich_et_Chiappe_2006a</Filename>
+	<Parent>Hwang_etal_2004a</Parent>
+	<Sibling/>
+</SourceTree>

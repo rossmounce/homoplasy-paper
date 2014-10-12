@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Fernandez-Baldor, F. T.</List>
+			<List>Canudo, J. L.</List>
+			<List>Huerta, P.</List>
+			<List>Montero, D.</List>
+			<List>Pereda Suberbiola, X.</List>
+			<List>Salgado, L.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>Demandasaurus darwini, a new rebbachisaurid sauropod from the Early Cretaceous of the Iberian Peninsula</Title>
+		<Journal>Acta Palaeontologica Polonica</Journal>
+		<Volume>56</Volume>
+		<Pages>535-552</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="16">
+		<List>Omeisaurus</List>
+		<List>Jobaria</List>
+		<List>MACRONARIA</List>
+		<List>Suuwassea</List>
+		<List>Apatosaurus</List>
+		<List>Diplodocus</List>
+		<List>Amargasaurus</List>
+		<List>Brachytrachelopan</List>
+		<List>Dicraeosaurus</List>
+		<List>Histriasaurus</List>
+		<List>Limaysaurus</List>
+		<List>Rebbachisaurus</List>
+		<List>Cathartesaura</List>
+		<List>Zapalasaurus</List>
+		<List>Nigersaurus</List>
+		<List>Demandasaurus_darwini</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="102">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Fernandez-Baldor_etal_2011a</Filename>
+	<Parent>Sereno_etal_2007a</Parent>
+	<Sibling/>
+</SourceTree>

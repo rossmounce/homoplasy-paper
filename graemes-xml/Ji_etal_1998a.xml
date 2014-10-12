@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ji, Q.</List>
+			<List>Currie, P. J.</List>
+			<List>Norell, M. A.</List>
+			<List>Ji, S.-A.</List>
+		</Author>
+		<Year>1998</Year>
+		<Title>Two feathered dinosaurs from Northeastern China</Title>
+		<Journal>Nature</Journal>
+		<Volume>393</Volume>
+		<Pages>753-761</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="8">
+		<List>Velociraptor</List>
+		<List>Protarchaeopteryx</List>
+		<List>Caudipteryx</List>
+		<List>Archaeopteryx</List>
+		<List>Mononykus</List>
+		<List>Shuvuuia</List>
+		<List>Enantiornithes</List>
+		<List>Ornithurae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="90">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ji_etal_1998a</Filename>
+	<Parent>Chiappe_etal_1998a</Parent>
+	<Sibling/>
+</SourceTree>

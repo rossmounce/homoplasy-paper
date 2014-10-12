@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Chatterjee, S.</List>
+		</Author>
+		<Year>2002</Year>
+		<Title>The morphology and systematics of Polarornis, a Cretaceous loon (Aves: Gaviidae) from Antarctica</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>125-155</Pages>
+		<Booktitle>Proceedings of the 5th Symposium of the Society of Avian Paleontology and Evolution</Booktitle>
+		<Publisher>Science Press</Publisher>
+		<City>Beijing</City>
+		<Editor>
+			<List>Zhou, Z.-H.</List>
+			<List>Zhang, F.-C.</List>
+		</Editor>
+	</Source>
+	<Taxa number="10">
+		<List>Velociraptor</List>
+		<List>Archaeopteryx</List>
+		<List>Enantiornithes</List>
+		<List>Hesperornis</List>
+		<List>Lithornis</List>
+		<List>Galliformes</List>
+		<List>Polarornis</List>
+		<List>Gavia</List>
+		<List>Sphenisciformes</List>
+		<List>Procellariformes</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="52">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Chatterjee_2002a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

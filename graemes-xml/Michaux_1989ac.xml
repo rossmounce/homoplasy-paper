@@ -1,0 +1,44 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Michaux, B.</List>
+		</Author>
+		<Year>1989</Year>
+		<Title>Cladograms can reconstruct phylogenies: an example from the fossil record</Title>
+		<Journal>Alcheringa</Journal>
+		<Volume>13</Volume>
+		<Pages>21-36</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="10">
+		<List>Outgroup</List>
+		<List>Alocospira</List>
+		<List>Baryspira</List>
+		<List>Spin_slash_Gemaspira</List>
+		<List>GG</List>
+		<List>GBEN</List>
+		<List>GW</List>
+		<List>GM</List>
+		<List>GN</List>
+		<List>GE</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="38">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Michaux_1989ac</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

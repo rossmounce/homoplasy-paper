@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Longrich, N. R.</List>
+			<List>Barnes, K.</List>
+			<List>Clark, S.</List>
+			<List>Millar, L.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>Caenagnathidae from the upper Campanian Aguja Formation of west Texas, and a revision of the Caenagnathinae</Title>
+		<Journal>Bulletin of the Peabody Museum of Natural History</Journal>
+		<Volume>54</Volume>
+		<Pages>23-49</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="28">
+		<List>Herrerasaurus_ischigualastensis</List>
+		<List>Velociraptor_mongoliensis</List>
+		<List>Archaeopteryx_lithographica</List>
+		<List>Incisivosaurus_gauthieri</List>
+		<List>Caudipteryx_zoui</List>
+		<List>Avimimus_portentosus</List>
+		<List>Microvenator_celer</List>
+		<List>Oviraptor_philoceratops</List>
+		<List>Rinchenia_mongoliensis</List>
+		<List>Citipati_osmolskae</List>
+		<List>Zamin_Khondt</List>
+		<List>Khaan_mckennai</List>
+		<List>Conchoraptor_gracilis</List>
+		<List>Machairasaurus_leptonychus</List>
+		<List>Nemegtomaia_barsboldi</List>
+		<List>Heyuannia_huangi</List>
+		<List>Ingenia_yanshini</List>
+		<List>Gigantoraptor_erlianensis</List>
+		<List>Caenagnathasia_martinsoni</List>
+		<List>Leptorhynchos_elegans</List>
+		<List>Leptorhynchos_gaddisi</List>
+		<List>Chirostenotes_pergracilis</List>
+		<List>Caenagnathus_collinsi</List>
+		<List>Caenagnathus_sp_Hell_Creek</List>
+		<List>Hagryphus_giganteus</List>
+		<List>Elmisaurus_rarus</List>
+		<List>Nomingia_barsboldi</List>
+		<List>Epichirostenotes_currei</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="205">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Longrich_etal_2013a</Filename>
+	<Parent>Longrich_etal_2010b</Parent>
+	<Sibling/>
+</SourceTree>

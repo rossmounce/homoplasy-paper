@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Taylor, P. D.</List>
+			<List>Weedon, M. J.</List>
+		</Author>
+		<Year>2000</Year>
+		<Title>Skeletal ultrastructure and phylogeny of cyclostome bryozoans</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>128</Volume>
+		<Pages>337-399</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="30">
+		<List>Cuveyella</List>
+		<List>Bicrisia</List>
+		<List>Borgiola</List>
+		<List>Cinctipora</List>
+		<List>Collapora</List>
+		<List>Crisia</List>
+		<List>Crisina</List>
+		<List>Crisulipora</List>
+		<List>Diaperoecia</List>
+		<List>Diplosolen</List>
+		<List>Disporella</List>
+		<List>Fasciculipora</List>
+		<List>Favosipora</List>
+		<List>Fenestulipora</List>
+		<List>Foricula</List>
+		<List>Heteropora_magna</List>
+		<List>H_neozelanica</List>
+		<List>H_parapelliculata</List>
+		<List>Hornera</List>
+		<List>Idmidronea</List>
+		<List>Meliceritites</List>
+		<List>Patinella</List>
+		<List>Plagioecia</List>
+		<List>Platonea</List>
+		<List>Stegohornera</List>
+		<List>Stomatopora_Jurassic</List>
+		<List>Stomatopora_Recent</List>
+		<List>Reptomultisparsa</List>
+		<List>Tubulipora</List>
+		<List>Trepostome</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="46">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Taylor_etal_2000a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

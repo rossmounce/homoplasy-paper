@@ -1,0 +1,68 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Manegold, A.</List>
+			<List>Louchart, A.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>Biogeographic and paleoenvironmental implications of a new woodpecker species (Aves, Picidae) from the early Pliocene of South Africa</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>32</Volume>
+		<Pages>926-938</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="33">
+		<List>Nystalus_chacuru</List>
+		<List>Lybius_dubius</List>
+		<List>Megalaima_asiatica</List>
+		<List>Megalaima_javensis</List>
+		<List>Megalaima_virens</List>
+		<List>Pogoniulus_bilineatus</List>
+		<List>Psilopogon_pyrolophus</List>
+		<List>Trachyphonus_erythrocephalus</List>
+		<List>Trachyphonus_margaritatus</List>
+		<List>Indicator_variegatus</List>
+		<List>Australopicus_nelsonmandelai</List>
+		<List>Campethera_abingoni</List>
+		<List>Campethera_cailliautii</List>
+		<List>Campethera_nivosa</List>
+		<List>Celeus_flavescens</List>
+		<List>Chrysocolaptes_lucidus</List>
+		<List>Colaptes_auratus</List>
+		<List>Dendrocopos_major</List>
+		<List>Dendropicos_fuscescens</List>
+		<List>Dinopium_javanense</List>
+		<List>Dryocopus_lineatus</List>
+		<List>Dryocopus_martius</List>
+		<List>Geocolaptes_olivaceus</List>
+		<List>Hemicircus_concretus</List>
+		<List>Jynx_ruficollis</List>
+		<List>Jynx_torquilla</List>
+		<List>Melanerpes_carolinus</List>
+		<List>Picoides_pubescens</List>
+		<List>Picumnus_albosquamatus</List>
+		<List>Picus_canus</List>
+		<List>Picus_viridis</List>
+		<List>Sphyrapicus_varius</List>
+		<List>Veniliornis_passerinus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="50">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Manegold_et_Louchart_2012a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

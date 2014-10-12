@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Damiani, R. J.</List>
+			<List>Kitching, J. W.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>A new brachyopid temnospondyl from the Cynognathus Assemblage Zone, Upper Beaufort Group, South Africa</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>23</Volume>
+		<Pages>67-78</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="27">
+		<List>Outgroup</List>
+		<List>Dvinosauridae</List>
+		<List>Tupilakosauridae</List>
+		<List>Rhineceps</List>
+		<List>Watsonisuchus</List>
+		<List>Rhytidosteidae</List>
+		<List>Brachyops</List>
+		<List>Bothriceps</List>
+		<List>Platycepsion</List>
+		<List>B_browni</List>
+		<List>B_watsoni</List>
+		<List>Xenobrachyops</List>
+		<List>B_concordi</List>
+		<List>B_henwoodi</List>
+		<List>Banksiops</List>
+		<List>Vigilius</List>
+		<List>Notobrachyops</List>
+		<List>Batrachosuchoides</List>
+		<List>Sinobrachyops</List>
+		<List>K_australis</List>
+		<List>Keratobrachyops</List>
+		<List>Pelorocephalus_spp</List>
+		<List>Kuttycephalus</List>
+		<List>Compsocerops</List>
+		<List>Siderops</List>
+		<List>Koolasuchus</List>
+		<List>Vanastega</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="61">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Damiani_et_Kitching_2003a</Filename>
+	<Parent>Warren_et_Marsicano_2000a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,96 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Brusatte, S. L.</List>
+			<List>Benson, R. B. J.</List>
+			<List>Chure, D. J.</List>
+			<List>Xu, X.</List>
+			<List>Sullivan, C.</List>
+			<List>Hone, D. W. E.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>The first definitive carcharodontosaurid (Dinosauria: Theropoda) from Asia and the delayed ascent of tyrannosaurids</Title>
+		<Journal>Naturwissenschaften</Journal>
+		<Volume>96</Volume>
+		<Pages>1051-1058</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="57">
+		<List>Marasuchus</List>
+		<List>Silesaurus</List>
+		<List>Herrerasaurus</List>
+		<List>Eoraptor</List>
+		<List>Saturnalia</List>
+		<List>Plateosaurus</List>
+		<List>Liliensternus_liliensterni</List>
+		<List>Coelophysis_bauri</List>
+		<List>Coelophysis_rhodesiensis</List>
+		<List>“Syntarsus”_kayentakatae</List>
+		<List>Segisaurus</List>
+		<List>Zupaysaurus</List>
+		<List>Dilophosaurus_sinensis</List>
+		<List>Dracovenator</List>
+		<List>Dilophosaurus_wetherilli</List>
+		<List>Cryolophosaurus</List>
+		<List>Ceratosaurus</List>
+		<List>Elaphrosaurus</List>
+		<List>Ilokelesia</List>
+		<List>Abelisaurus</List>
+		<List>Carnotaurus</List>
+		<List>Majungatholus</List>
+		<List>Masiakasaurus</List>
+		<List>Noasaurus</List>
+		<List>Piatnitzkysaurus</List>
+		<List>Condorraptor</List>
+		<List>Dubreuillosaurus</List>
+		<List>Afrovenator</List>
+		<List>Torvosaurus</List>
+		<List>Eustreptospondylus</List>
+		<List>Streptospondylus</List>
+		<List>Baryonyx</List>
+		<List>Suchomimus</List>
+		<List>Irritator</List>
+		<List>Monolophosaurus</List>
+		<List>Sinraptor</List>
+		<List>Acrocanthosaurus</List>
+		<List>Tyrannotitan</List>
+		<List>Shaochilong</List>
+		<List>Carcharodontosaurus</List>
+		<List>Giganotosaurus</List>
+		<List>Mapusaurus</List>
+		<List>Allosaurus</List>
+		<List>Neovenator</List>
+		<List>Tugulusaurus</List>
+		<List>Dilong</List>
+		<List>Tyrannosaurus</List>
+		<List>Sinosauropteryx</List>
+		<List>Coelurus</List>
+		<List>Compsognathus</List>
+		<List>Shenzhousaurus</List>
+		<List>Sinornithomimus</List>
+		<List>Ornitholestes</List>
+		<List>Deinonychus</List>
+		<List>Velociraptor</List>
+		<List>Archaeopteryx</List>
+		<List>Confuciusornis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="347">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Brusatte_etal_2009aa</Filename>
+	<Parent>Smith_etal_2007a</Parent>
+	<Sibling/>
+</SourceTree>

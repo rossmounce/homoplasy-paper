@@ -1,0 +1,70 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Harris, J. D.</List>
+		</Author>
+		<Year>1998</Year>
+		<Title>A reanalysis of Acrocanthosaurus atokensis, its phylogenetic status, and paleobiogeographic implications, based on a new specimen from Texas</Title>
+		<Journal>Bulletin of the New Mexico Museum of Natural History &amp; Science</Journal>
+		<Volume>13</Volume>
+		<Pages>1-75</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="36">
+		<List>Herrerasaurus</List>
+		<List>Ceratosauria</List>
+		<List>Abelisauroidea</List>
+		<List>Megalosaurus</List>
+		<List>Poekilopleuron</List>
+		<List>Brontoraptor</List>
+		<List>Eustrepyospondylus</List>
+		<List>Torvosaurus</List>
+		<List>Piatnitzkysaurus</List>
+		<List>Afrovenator</List>
+		<List>Edmarka</List>
+		<List>Gasosaurus</List>
+		<List>Szechuanosaurus</List>
+		<List>Metriacanthosaurus</List>
+		<List>Cryolophosaurus</List>
+		<List>Allosaurus</List>
+		<List>Acrocanthosaurus</List>
+		<List>Chilantaisaurus</List>
+		<List>Saurophaganax</List>
+		<List>Monolophosaurus</List>
+		<List>Neovenator</List>
+		<List>Carcharodontosaurus</List>
+		<List>Giganotosaurus</List>
+		<List>Sigilmassasaurus</List>
+		<List>Baryonyx</List>
+		<List>Compsognathus</List>
+		<List>Sinraptor</List>
+		<List>Yangchuanosaurus</List>
+		<List>Tyrannosauridae</List>
+		<List>Ornithomimosauria</List>
+		<List>Therizinosauroidea</List>
+		<List>Ornitholestes</List>
+		<List>Oviraptorosauria</List>
+		<List>Dromaeosauridae</List>
+		<List>Troodontidae</List>
+		<List>Archaeopteryx</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="145">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Harris_1998a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

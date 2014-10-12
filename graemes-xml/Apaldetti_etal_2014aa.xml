@@ -1,0 +1,89 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Apaldetti, C.</List>
+			<List>Martinez, R. N.</List>
+			<List>Pol, D.</List>
+			<List>Souter, T.</List>
+		</Author>
+		<Year>2014</Year>
+		<Title>Redescription of the skull of <em>Coloradisaurus brevis</em> (Dinosauria, Sauropodomorpha) from the Late Triassic Los Colorados Formation of the Ischigualasto-Villa Union Basin, northwestern Argentina</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>34</Volume>
+		<Pages>1113-1132</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="52">
+		<List>Euparkeria</List>
+		<List>Crurotarsi</List>
+		<List>Marasuchus</List>
+		<List>Agnosphitys</List>
+		<List>Anchisaurus</List>
+		<List>Antetonitrus</List>
+		<List>Barapasaurus</List>
+		<List>Blikanasaurus</List>
+		<List>Camelotia</List>
+		<List>Cetiosaurus</List>
+		<List>Chindesaurus</List>
+		<List>Efraasia</List>
+		<List>Eoraptor</List>
+		<List>Eucnemosaurus</List>
+		<List>Gongxianosaurus</List>
+		<List>Plateosaurus_ingens</List>
+		<List>Guaibasaurus</List>
+		<List>Herrerasaurus</List>
+		<List>Isanosaurus</List>
+		<List>Jingshanosaurus</List>
+		<List>Lessemsaurus</List>
+		<List>Lufengosaurus</List>
+		<List>Mamenchisaurus</List>
+		<List>Melanorosaurus</List>
+		<List>Neosauropoda</List>
+		<List>Neotheropoda</List>
+		<List>Omeisaurus</List>
+		<List>Ornithischia</List>
+		<List>Patagosaurus</List>
+		<List>Plateosaurus_engelhardti</List>
+		<List>Plateosaurus_gracilis</List>
+		<List>Plateosauravus</List>
+		<List>Riojasaurus</List>
+		<List>Ruehleia</List>
+		<List>Saturnalia</List>
+		<List>Shunosaurus</List>
+		<List>Silesaurus</List>
+		<List>Staurikosaurus</List>
+		<List>Tazoudasaurus</List>
+		<List>Thecodontosaurus</List>
+		<List>Pantydraco</List>
+		<List>Unaysaurus</List>
+		<List>Vulcanodon</List>
+		<List>Yunnanosaurus</List>
+		<List>Glacialisaurus</List>
+		<List>Aardonyx</List>
+		<List>Massospondylus</List>
+		<List>Seitaad</List>
+		<List>Adeopapposaurus</List>
+		<List>Sarahsaurus</List>
+		<List>Coloradisaurus</List>
+		<List>Leyesaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="363">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Apaldetti_etal_2014aa</Filename>
+	<Parent>Apaldetti_etal_inpressaa</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Falconnet, J.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>First evidence of a bolosaurid parareptile in France (latest Carboniferous-earliest Permian of the Autun basin) and the spatiotemporal distribution of the Bolosauridae</Title>
+		<Journal>Bulletin de la Societe Geologique de France</Journal>
+		<Volume>183</Volume>
+		<Pages>495-508</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List>Mesosauridae</List>
+		<List>Millerettidae</List>
+		<List>Owenettidae</List>
+		<List>Acleistorhinus</List>
+		<List>Eudibamus</List>
+		<List>Bolosaurus_striatus</List>
+		<List>Bolosaurus_grandis</List>
+		<List>Belebey_augustodunensis</List>
+		<List>Belebey_vegrandis</List>
+		<List>Belebey_maximi</List>
+		<List>Belebey_chengi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="27">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Falconnet_2012a</Filename>
+	<Parent>Muller_etal_2008a</Parent>
+	<Sibling/>
+</SourceTree>

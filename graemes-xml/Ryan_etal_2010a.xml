@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ryan, M. J.</List>
+			<List>Eberth, D. A.</List>
+			<List>Brinkman, D. B.</List>
+			<List>Currie, P. J.</List>
+			<List>Tanke, D. H.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>A new Pachyrhinosaurus-like ceratopsid from the Upper Dinosaur Park Formation (late Campanian) of southern Alberta, Canada</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>141-155</Pages>
+		<Booktitle>New Perspectives on Horned Dinosaurs</Booktitle>
+		<Publisher>Indiana University Press</Publisher>
+		<City>Bloomington</City>
+		<Editor>
+			<List>Ryan, M. J.</List>
+			<List>Chinnery-Allgeier, B. J.</List>
+			<List>Eberth, D. A.</List>
+		</Editor>
+	</Source>
+	<Taxa number="11">
+		<List>Outgroup</List>
+		<List>Chasmosaurine</List>
+		<List>Albertaceratops</List>
+		<List>C._apertus</List>
+		<List>C._brinkmani</List>
+		<List>Styracosaurus</List>
+		<List>Einiosaurus</List>
+		<List>Achelousaurus</List>
+		<List>TMP_2002.76.1</List>
+		<List>P._n._sp.</List>
+		<List>P._canadensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="16">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ryan_etal_2010a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

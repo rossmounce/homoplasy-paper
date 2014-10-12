@@ -1,0 +1,68 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Evans, S. E.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>An early kuehneosaurid reptile (Reptilia: Diapsida) from the Early Triassic of Poland</Title>
+		<Journal>Palaeontologia Polonica</Journal>
+		<Volume>65</Volume>
+		<Pages>145-178</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="34">
+		<List>Seymouriidae</List>
+		<List>Synapsida</List>
+		<List>Parareptilia</List>
+		<List>Captorhinidae</List>
+		<List>Araeoscelidia</List>
+		<List>Rhynchocephalia</List>
+		<List>Squamata</List>
+		<List>Prolacerta</List>
+		<List>Tanystropheus</List>
+		<List>Trilophosaurus</List>
+		<List>Rhynchosauria</List>
+		<List>Archosauriformes</List>
+		<List>Choristodera</List>
+		<List>Pachypleurosaurs</List>
+		<List>Simosaurus</List>
+		<List>Placodus</List>
+		<List>Pistosauridae</List>
+		<List>Claudiosaurus</List>
+		<List>Askeptosaurus</List>
+		<List>Clarazia</List>
+		<List>Thalattosaurus</List>
+		<List>Testudines</List>
+		<List>Palaeagama</List>
+		<List>Saurosternon</List>
+		<List>Coelurosauravus</List>
+		<List>Younginiformes</List>
+		<List>Macrocnemus</List>
+		<List>Helveticosaurus</List>
+		<List>Apsisaurus</List>
+		<List>Ichthyopterygia</List>
+		<List>Drepanosauridae</List>
+		<List>Hupehsuchus</List>
+		<List>Pamelina</List>
+		<List>Kuehneosauridae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="184">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Evans_2009a</Filename>
+	<Parent>Muller_2004a</Parent>
+	<Sibling/>
+</SourceTree>

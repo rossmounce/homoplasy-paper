@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Liu, J.</List>
+			<List>Li, J.-L.</List>
+			<List>Cheng, Z.-W.</List>
+		</Author>
+		<Year>2002</Year>
+		<Title>The <em>Lystrosaurus</em> fossils from Xinjiang and their bearing on the terrestrial Permian-Triassic boundary</Title>
+		<Journal>Vertebrata PalAsiatica</Journal>
+		<Volume>40</Volume>
+		<Pages>267-275</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List>Kwazulusaurus_shakai</List>
+		<List>L_curvatus</List>
+		<List>L_youngi</List>
+		<List>L_platyceps</List>
+		<List>L_oviceps</List>
+		<List>L_murrayi</List>
+		<List>L_declivus</List>
+		<List>L_maccaigi</List>
+		<List>L_hedini</List>
+		<List>L_broomi</List>
+		<List>L_robustus</List>
+		<List>L_shichanggouensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="11">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Liu_etal_2002a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

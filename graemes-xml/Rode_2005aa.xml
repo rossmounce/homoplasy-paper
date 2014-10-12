@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Stigall Rode, A. L.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>Systematic revision of the Middle and Late Devonian Brachiopods <em>Schizophoria (Schizophoria)</em> and '<em>Schuchertella</em>' from North America</Title>
+		<Journal>Journal of Systematic Palaeontology</Journal>
+		<Volume>3</Volume>
+		<Pages>133-167</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="25">
+		<List>S_Rhenoschizophoria_provulvaria</List>
+		<List>S_Eoschizophoria_oriskania</List>
+		<List>S_Eoschizophoria_parafragilis</List>
+		<List>S_Eoschizophoria_paraprima</List>
+		<List>S_Schizophoria_amanaensis</List>
+		<List>S_Schizophoria_australis</List>
+		<List>S_Schizophoria_choteueauensis</List>
+		<List>S_Schizophoria_ferronensis</List>
+		<List>S_Schizophoria_impressa</List>
+		<List>S_Schizophoria_iowensis_A</List>
+		<List>S_Schizophoria_iowensis_B</List>
+		<List>S_Schizophoria_macfarlanii</List>
+		<List>S_Schizophoria_magna</List>
+		<List>S_Schizophoria_marylandica</List>
+		<List>S_Schizophoria_meeki</List>
+		<List>S_Schizophoria_mesacarina</List>
+		<List>S_Schizophoria_multistriata</List>
+		<List>S_Schizophoria_resupinata</List>
+		<List>S_Schizophoria_subelliptica</List>
+		<List>S_Schizophoria_sulcata</List>
+		<List>S_Schizophoria_swallovi</List>
+		<List>S_Schizophoria_traversensis</List>
+		<List>S_Schizophoria_tulliensis</List>
+		<List>S_Schizophoria_macfarlanii_rev</List>
+		<List>S_Schizophoria_magna_rev</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="36">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Rode_2005aa</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,95 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Prieto-Marquez, A.</List>
+			<List>Bolort, M.-J.</List>
+			<List>Horner, J. R.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>A diminutive deinonychosaur (Dinosauria: Theropoda) from the Early Cretaceous of Oosh (Ovorkhangai, Mongolia)</Title>
+		<Journal>Alcheringa</Journal>
+		<Volume>36</Volume>
+		<Pages>117-136</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="59">
+		<List>Allosaurus_fragilis</List>
+		<List>Sinraptor_dongi</List>
+		<List>Ingenia_yanshani</List>
+		<List>Citipati_osmolskae</List>
+		<List>Oviraptor_mongoliensis</List>
+		<List>Oviraptor_philoceratops</List>
+		<List>Conchoraptor_gracilis</List>
+		<List>Incisivosaurus_gauthieri</List>
+		<List>Microvenator_celer</List>
+		<List>Chirostenotes_pergracilis</List>
+		<List>Dromaeosaurus_albertensis</List>
+		<List>Deinonychus_antirrhopus</List>
+		<List>Velociraptor_mongoliensis</List>
+		<List>Utahraptor_ostrommaysorum</List>
+		<List>Adasaurus_mongoliensis</List>
+		<List>Achillobator_giganticus</List>
+		<List>Tsaagan_mangas</List>
+		<List>Saurornitholestes_langsto</List>
+		<List>Sinornithosaurus_millenii</List>
+		<List>Microraptor_zhaoianus</List>
+		<List>Rahonavis_ostromi</List>
+		<List>Mononykus_olecranus</List>
+		<List>Shuuvia_deserti</List>
+		<List>Patagonykus_puertai</List>
+		<List>Alvarezsaurus_calvoi</List>
+		<List>Ornitholestes_hermanni</List>
+		<List>Archaeopteryx_lithographi</List>
+		<List>Avimimus_portentosus</List>
+		<List>Caudipteryx_zoui</List>
+		<List>Confuciusornis_sanctus</List>
+		<List>Struthiomimus_altus</List>
+		<List>Gallimimus_bullatus</List>
+		<List>Garudimimus_brevipes</List>
+		<List>Pelecanimimus_polydon</List>
+		<List>Harpymimus_okladnikovi</List>
+		<List>Troodon_formosus</List>
+		<List>Saurornithoides_mongolien</List>
+		<List>Saurornithoides_junior</List>
+		<List>Byronosaurus_jaffei</List>
+		<List>Sinornithoides_youngi</List>
+		<List>Sinovenator_changii</List>
+		<List>Mei_long</List>
+		<List>EK_troodontid__IGM_100_slash_44</List>
+		<List>Segnosaurus_galbinensis</List>
+		<List>Erlikosaurus_andrewsi</List>
+		<List>Alxasaurus_elesitaiensis</List>
+		<List>Tyrannosaurus_rex</List>
+		<List>Albertosaurus_libratus</List>
+		<List>Shenzhousaurus_orientalis</List>
+		<List>Ornithomimus_edmonticus</List>
+		<List>Archaeornithomimus_asiati</List>
+		<List>Anserimimus_planinychus</List>
+		<List>Huaxiagnathus_orientalis</List>
+		<List>Sinosauropteryx_prima</List>
+		<List>Compsognathus_longipes</List>
+		<List>Buitreraptor_gonzalozorum</List>
+		<List>Neuquenraptor__plus__Unenlagia</List>
+		<List>IGM1001119</List>
+		<List>ISMD_dash_VP09</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="251">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Prieto-Marquez_etal_2012b</Filename>
+	<Parent>Turner_etal_2007a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Alvarado-Ortega, J.</List>
+			<List>Espinosa-Arrubarrena, L.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>A new genus of ionoscopiform fish (Halecomorphi) from the Lower Cretaceous (Albian) Lithographic Limestones of the Tlayua Quarry, Puebla, Mexico</Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>82</Volume>
+		<Pages>163-175</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="7">
+		<List>Watsonulus</List>
+		<List>Ionoscopus</List>
+		<List>Quetzalichtys</List>
+		<List>Oshunia</List>
+		<List>Ophiopsis</List>
+		<List>Macrepistius</List>
+		<List>Teoichthys</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="23">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Alvarado-Ortega_et_Espinosa-Arrubarrena_2008a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

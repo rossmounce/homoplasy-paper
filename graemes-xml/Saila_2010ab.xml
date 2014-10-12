@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Saila, L. K.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>The phylogenetic position of <em>Nyctiphruretus acudens</em>, a parareptile from the Permian of Russia</Title>
+		<Journal>Journal of Iberian Geology</Journal>
+		<Volume>36</Volume>
+		<Pages>123-143</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="28">
+		<List>Seymouria</List>
+		<List>Limnoscelidae</List>
+		<List>Diadectidae</List>
+		<List>Synapsida</List>
+		<List>Mesosauridae</List>
+		<List>Eunotosaurus</List>
+		<List>Millerettidae</List>
+		<List>Eudibamus</List>
+		<List>Belebey</List>
+		<List>Acleistorhinus</List>
+		<List>Lanthanosuchus</List>
+		<List>Bradysaurus</List>
+		<List>Pareiasuchus</List>
+		<List>Scutosaurus</List>
+		<List>Procolophon</List>
+		<List>Owenetta</List>
+		<List>Barasaurus</List>
+		<List>Captorhinidae</List>
+		<List>Paleothyris</List>
+		<List>Araeoscelidia</List>
+		<List>Younginiformes</List>
+		<List>Macroleter</List>
+		<List>Bashkyroleter_mesensis</List>
+		<List>Bashkyroleter_bashkyricus</List>
+		<List>Nycteroleter</List>
+		<List>Emeroleter</List>
+		<List>Tokosaurus</List>
+		<List>Nyctiphruretus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="137">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Saila_2010ab</Filename>
+	<Parent>Muller_et_Tsuji_2007a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Wilson, J. A.</List>
+			<List>Sereno, P. C.</List>
+		</Author>
+		<Year>1998</Year>
+		<Title>Early evolution and higher-level phylogeny of sauropod dinosaurs</Title>
+		<Journal>Society of Vertebrate Paleontology Memoir</Journal>
+		<Volume>5</Volume>
+		<Pages>1-68</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List>Theropoda</List>
+		<List>Prosauropoda</List>
+		<List>Vulcanodon</List>
+		<List>Shunosaurus</List>
+		<List>Barapasaurus</List>
+		<List>Omeisaurus</List>
+		<List>Diplodocoidea</List>
+		<List>Haplocanthosaurus</List>
+		<List>Camarasaurus</List>
+		<List>Brachiosauridae</List>
+		<List>Euhelopus</List>
+		<List>Titanosauria</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="109">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Wilson_et_Sereno_1998a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

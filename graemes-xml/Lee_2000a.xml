@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lee, M. S. Y.</List>
+		</Author>
+		<Year>2000</Year>
+		<Title>Soft anatomy, diffuse homoplasy, and the relationships of lizards and snakes</Title>
+		<Journal>Zoologica Scripta</Journal>
+		<Volume>29</Volume>
+		<Pages>101-130</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="20">
+		<List>Sphenodon</List>
+		<List>Iguanidae</List>
+		<List>Agamidae</List>
+		<List>Chamaeleonidae</List>
+		<List>Xantusiidae</List>
+		<List>Gekkonidae</List>
+		<List>Pygopodidae</List>
+		<List>Dibamidae</List>
+		<List>Amphisbaenia</List>
+		<List>Lacertidae</List>
+		<List>Teiidae</List>
+		<List>Gymnophthalmidae</List>
+		<List>Cordylidae</List>
+		<List>Scincidae</List>
+		<List>Anguidae</List>
+		<List>Xenosauridae</List>
+		<List>Heloderma</List>
+		<List>Lanthanotus</List>
+		<List>Varanus</List>
+		<List>Serpentes</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="126">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lee_2000a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

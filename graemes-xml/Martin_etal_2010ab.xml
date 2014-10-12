@@ -1,0 +1,127 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Martin, J. E.</List>
+			<List>Rabi, M.</List>
+			<List>Csiki, Z.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>Survival of <em>Theriosuchus</em> (Mesoeucrocodylia: Atoposauridae) in a Late Cretaceous archipelago: a new species from the Maastrichtian of Romania</Title>
+		<Journal>Naturwissenschaften</Journal>
+		<Volume>97</Volume>
+		<Pages>845-854</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="91">
+		<List>Erpetosuchus_granti</List>
+		<List>Hesperosuchus_agilis</List>
+		<List>Terrestrisuchus_gracilis</List>
+		<List>Dromicosuchus_grallator</List>
+		<List>Protosuchus</List>
+		<List>Alligator_mississippiensis</List>
+		<List>Alligatorium</List>
+		<List>Arambourgisuchus_khouribgaensis</List>
+		<List>Atlantosuchus_coupatezi</List>
+		<List>Calsoyasuchus_valliceps</List>
+		<List>Chenanisuchus_lateroculi</List>
+		<List>Crocodylus_niloticus</List>
+		<List>Crocodylus_porosus</List>
+		<List>Dyrosaurus_maghribensis</List>
+		<List>Dyrosaurus_phosphaticus</List>
+		<List>Elosuchus_cherifiensis</List>
+		<List>Eutretauranosuchus_delfsi</List>
+		<List>Gavialis_gangeticus</List>
+		<List>Goniopholis_baryglphaeus</List>
+		<List>Goniopholis_simus</List>
+		<List>Goniopholis_stovalli</List>
+		<List>Guarinisuchus_munizi</List>
+		<List>Isisfordia_duncani</List>
+		<List>Oceanosuchus_boecensis</List>
+		<List>Pholidosaurus</List>
+		<List>Rhabdognathus_sp</List>
+		<List>Sarcosuchus_imperator</List>
+		<List>Susisuchus_anatoceps</List>
+		<List>Terminonaris_robusta</List>
+		<List>Theriosuchus_guimarotae</List>
+		<List>Vectisuchus_leptognathus</List>
+		<List>Adamantinasuchus_navae</List>
+		<List>Araripesuchus_patagonicus</List>
+		<List>Baurusuchus</List>
+		<List>Mariliasuchus_amarali</List>
+		<List>Notosuchus_terrestris</List>
+		<List>Sphagesaurus</List>
+		<List>Hamadasuchus_rebouli</List>
+		<List>Mahajangasuchus_insignis</List>
+		<List>Montealtosuchus_arrudacamposi</List>
+		<List>Sebecus_icaeorhinus</List>
+		<List>Uberabasuchus_terrificus</List>
+		<List>Cricosaurus_elegans</List>
+		<List>Cricosaurus_grandis</List>
+		<List>Dakosaurus_andiniensis</List>
+		<List>Dakosaurus_carpenteri</List>
+		<List>Dakosaurus_lapparenti</List>
+		<List>Dakosaurus_manselii</List>
+		<List>Dakosaurus_maximus</List>
+		<List>Dakosaurus_sp</List>
+		<List>Enaliosuchus_macrospondylus</List>
+		<List>Enaliosuchus_schroederi</List>
+		<List>Geosaurus_araucanensis</List>
+		<List>Geosaurus_giganteus</List>
+		<List>Geosaurus_gracilis</List>
+		<List>Geosaurus_saltillense</List>
+		<List>Geosaurus_suevicus</List>
+		<List>Geosaurus_sp_Cuba</List>
+		<List>Geosaurus_vignaudi</List>
+		<List>Metriorhynchidae_indet_USNM_19640</List>
+		<List>Metriorhynchus_sp_Chile</List>
+		<List>Metriorhynchus_acutus</List>
+		<List>Metriorhynchus_aff_M_brachyrhynchus</List>
+		<List>Metriorhynchus_brachyrhynchus</List>
+		<List>Metriorhynchus_casamiquelai</List>
+		<List>Metriorhynchus_cultridens</List>
+		<List>Metriorhynchus_durobrivensis</List>
+		<List>Metriorhynchus_gracilis</List>
+		<List>Metriorhynchus_hastifer</List>
+		<List>Metriorhynchus_laeve</List>
+		<List>Metriorhynchus_leedsi</List>
+		<List>Metriorhynchus_moreli</List>
+		<List>Metriorhynchus_palpebrosus</List>
+		<List>Metriorhynchus_potens</List>
+		<List>Metriorhynchus_superciliosus</List>
+		<List>Metriorhynchus_superciliosus_Buffetaut_1977</List>
+		<List>Oregon_crocodile</List>
+		<List>Pelagosaurus_typus</List>
+		<List>Platysuchus_multiscrobiculatus</List>
+		<List>Portomaggiore_crocodile</List>
+		<List>Steneosaurus_leedsi</List>
+		<List>Steneosaurus_bollensis</List>
+		<List>Teleidosaurus_bathonicus</List>
+		<List>Teleidosaurus_calvadosii</List>
+		<List>Teleidosaurus_gaudryi</List>
+		<List>Teleosaurus_cadomensis</List>
+		<List>Theriosuchus_sympiestodon</List>
+		<List>Theriosuchus_pusillus</List>
+		<List>Theriosuchus_guimarotae</List>
+		<List>Araripesuchus_buitreraensis</List>
+		<List>Araripesuchus_tsangatsangana</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="166">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Martin_etal_2010ab</Filename>
+	<Parent>Young_et_Andrade_2009a</Parent>
+	<Sibling/>
+</SourceTree>

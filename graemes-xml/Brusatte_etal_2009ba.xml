@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Brusatte, S. L.</List>
+			<List>Carr, T. D.</List>
+			<List>Erickson, G. M.</List>
+			<List>Bever, G. S.</List>
+			<List>Norell, M. A.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>A long-snouted, multihorned tyrannosaurid from the Late Cretaceous of Mongolia</Title>
+		<Journal>Proceedings of the National Academy of Sciences, USA</Journal>
+		<Volume>106</Volume>
+		<Pages>17261-17266</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="8">
+		<List>Embryo</List>
+		<List>LACM_28471</List>
+		<List>CMNH_7541</List>
+		<List>A._altai</List>
+		<List>LACM_23845</List>
+		<List>LACM_23844</List>
+		<List>AMNH_5027</List>
+		<List>Artificial_adult</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="84">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Brusatte_etal_2009ba</Filename>
+	<Parent>Carr_et_Williamson_2004a</Parent>
+	<Sibling/>
+</SourceTree>

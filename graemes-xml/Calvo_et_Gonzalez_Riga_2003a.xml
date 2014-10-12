@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Calvo, J. O.</List>
+			<List>Gonzalez Riga, B. J.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>Rinconsaurus caudamirus gen. et sp. nov., a new titanosaurid (Dinosauria, Sauropoda) from the Late Cretaceous of Patagonia, Argentina</Title>
+		<Journal>Revista Geologica de Chile</Journal>
+		<Volume>30</Volume>
+		<Pages>333-353</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List>Camarasaurus_grandis</List>
+		<List>Brachiosaurus_brancai</List>
+		<List>Andesaurus_delgadoi</List>
+		<List>Malawisaurus_dixeyi</List>
+		<List>Titanosaurus_colberti</List>
+		<List>Lirainosaurus_aristbiae</List>
+		<List>Opisthocoelicaudia_skarzynskii</List>
+		<List>Aeolosaurus_rionegrinus</List>
+		<List>Rinconsaurus_caudamirus</List>
+		<List>Alamosaurus_sanjuanensis</List>
+		<List>Neuquensaurus_australis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="46">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Calvo_et_Gonzalez_Riga_2003a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

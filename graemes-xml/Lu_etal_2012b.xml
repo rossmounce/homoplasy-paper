@@ -1,0 +1,78 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lu, J.</List>
+			<List>Zhu, M.</List>
+			<List>Long, J. A.</List>
+			<List>Zhao, W.-J.</List>
+			<List>Senden, T. J.</List>
+			<List>Jia, L.-T.</List>
+			<List>Qiao, T.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>The earliest known stem-tetrapod from the Lower Devonian of China</Title>
+		<Journal>Nature Communications</Journal>
+		<Volume>3</Volume>
+		<Pages>1-7</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="38">
+		<List>Guiyu</List>
+		<List>Psarolepis</List>
+		<List>Achoania</List>
+		<List>Strunius</List>
+		<List>Onychodus</List>
+		<List>Gavinia</List>
+		<List>Miguashaia</List>
+		<List>Diplocercides</List>
+		<List>Latimeria</List>
+		<List>Styloichthys</List>
+		<List>Youngolepis</List>
+		<List>Powichthys</List>
+		<List>Porolepis</List>
+		<List>Glyptolepis</List>
+		<List>Diabolepis</List>
+		<List>Dipterus</List>
+		<List>Dipnorhynchus</List>
+		<List>Kenichthys</List>
+		<List>Gooloogongia</List>
+		<List>Barameda</List>
+		<List>Gyroptychius</List>
+		<List>Osteolepis</List>
+		<List>Gogonasus</List>
+		<List>Medoevia</List>
+		<List>Cladarosymblema</List>
+		<List>Megalichthys</List>
+		<List>Beelarongia</List>
+		<List>Canowindra</List>
+		<List>Koharalepis</List>
+		<List>Marsdenichthys</List>
+		<List>Spodichthys</List>
+		<List>Tristichopterus</List>
+		<List>Eusthenopteron</List>
+		<List>Panderichthys</List>
+		<List>Tiktaalik</List>
+		<List>Acanthostega</List>
+		<List>Ichthyostega</List>
+		<List>Tungsenia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="263">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lu_etal_2012b</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

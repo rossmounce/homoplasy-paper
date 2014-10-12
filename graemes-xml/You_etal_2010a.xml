@@ -1,0 +1,73 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>You, H.-L.</List>
+			<List>Atterholt, J.</List>
+			<List>O'Connor, J. K.</List>
+			<List>Harris, J. D.</List>
+			<List>Lamanna, M. C.</List>
+			<List>Li, D.-Q.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>A second Cretaceous ornithuromorph bird from the Changma Basin, Gansu Province, northwestern China</Title>
+		<Journal>Acta Palaeontologica Polonica</Journal>
+		<Volume>55</Volume>
+		<Pages>617-625</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="34">
+		<List>Dromaeosauridae</List>
+		<List>Archaeopteryx</List>
+		<List>Sapeornis</List>
+		<List>Jeholornis</List>
+		<List>Zhongornis</List>
+		<List>Confuciusornis</List>
+		<List>Changchengornis</List>
+		<List>Longipteryx</List>
+		<List>Longirostravis</List>
+		<List>DNHM_D1878</List>
+		<List>Eoenantiornis</List>
+		<List>Neuquenornis</List>
+		<List>Concornis</List>
+		<List>FRDC_06_CM_012</List>
+		<List>FRDC_05_CM_004</List>
+		<List>Gobipteryx</List>
+		<List>Vescornis</List>
+		<List>Eoalulavis</List>
+		<List>Liaoningornis</List>
+		<List>Iberomesornis</List>
+		<List>FRDC_07_CM_001</List>
+		<List>Archaeorhynchus</List>
+		<List>Patagopteryx</List>
+		<List>Apsaravis</List>
+		<List>Hongshanornis</List>
+		<List>Gansus</List>
+		<List>FRDC_05_CM_021</List>
+		<List>Yixianornis</List>
+		<List>Yanornis</List>
+		<List>Songlingornis</List>
+		<List>Hesperornis</List>
+		<List>Icthyornis</List>
+		<List>Anas</List>
+		<List>Gallus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="242">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>You_etal_2010a</Filename>
+	<Parent>OConnor_etal_2009a</Parent>
+	<Sibling/>
+</SourceTree>

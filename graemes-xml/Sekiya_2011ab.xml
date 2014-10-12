@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sekiya, T.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>Re-examination of <em>Chuanjiesaurus anaensis</em> (Dinosauria: Sauropoda) from the Middle Jurassic Chuanjie Formation, Lufeng County, Yunnan Province, southwest China</Title>
+		<Journal>Memoir of the Fukui Prefectural Dinosaur Museum</Journal>
+		<Volume>10</Volume>
+		<Pages>1-54</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="31">
+		<List>Marasuchus</List>
+		<List>Herrerasaurus</List>
+		<List>Prosauropoda</List>
+		<List>Apatosaurus</List>
+		<List>Barapasaurus</List>
+		<List>Bellusaurus</List>
+		<List>Brachiosaurus</List>
+		<List>Camarasaurus</List>
+		<List>Cetiosaurus</List>
+		<List>Chinshakiangosaurus</List>
+		<List>Chuanjiesaurus</List>
+		<List>Datousaurus</List>
+		<List>Dicraeosaurus</List>
+		<List>Diplodocus</List>
+		<List>Euhelopus</List>
+		<List>Gongxianosaurus</List>
+		<List>Jobaria</List>
+		<List>Kotasaurus</List>
+		<List>M_constructus</List>
+		<List>M_hochuanensis_holotype</List>
+		<List>M_sinocanadorum</List>
+		<List>M_hochuan_ZDM0126</List>
+		<List>M_youngi</List>
+		<List>Omeisaurus</List>
+		<List>Patagosaurus</List>
+		<List>Phuwiangosaurus</List>
+		<List>Saltasaurus</List>
+		<List>Shunosaurus</List>
+		<List>Tienshanosaurus</List>
+		<List>Vulcanodon</List>
+		<List>Yuanmousaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="327">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sekiya_2011ab</Filename>
+	<Parent>Upchurch_etal_2004b</Parent>
+	<Sibling/>
+</SourceTree>

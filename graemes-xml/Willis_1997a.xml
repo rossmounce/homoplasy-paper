@@ -1,0 +1,44 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Willis, P. M. A.</List>
+		</Author>
+		<Year>1997</Year>
+		<Title>Review of fossil crocodilians from Australasia</Title>
+		<Journal>Australian Zoologist</Journal>
+		<Volume>30</Volume>
+		<Pages>287-298</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="10">
+		<List>Brachyuranochampsa</List>
+		<List>Crocodylus</List>
+		<List>Mekosuchus</List>
+		<List>Trilophosuchus</List>
+		<List>Quinkana</List>
+		<List>Baru</List>
+		<List>Kambara</List>
+		<List>Australosuchus</List>
+		<List>Pallimnarchus</List>
+		<List>Harpacochampsa</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="15">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Willis_1997a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

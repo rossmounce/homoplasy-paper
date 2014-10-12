@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Fernandez, M.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>Redescription and phylogenetic position of <em>Caypullisaurus</em> (Ichthyosauria: Ophthalmosauridae)</Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>81</Volume>
+		<Pages>368-375</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="9">
+		<List>Cymbospondylus_piscosus</List>
+		<List>Stenopterygius</List>
+		<List>Ichthyosaurus</List>
+		<List>Mollesaurus</List>
+		<List>Brachypterygius</List>
+		<List>Aegirosaurus</List>
+		<List>Ophthalmosaurus</List>
+		<List>Caypullisaurus</List>
+		<List>Platypterygius</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="25">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Fernandez_2007a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

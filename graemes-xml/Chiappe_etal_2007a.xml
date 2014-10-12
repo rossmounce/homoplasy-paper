@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Chiappe, L. M.</List>
+			<List>Suzuki, S.</List>
+			<List>Dyke, G. J.</List>
+			<List>Watabe, M.</List>
+			<List>Tsogtbaatar, K.</List>
+			<List>Barsbold, R.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>A new enantiornithine bird from the Late Cretaceous of the Gobi Desert</Title>
+		<Journal>Journal of Systematic Palaeontology</Journal>
+		<Volume>5</Volume>
+		<Pages>193-208</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="16">
+		<List>Archaopteryx_lithographica</List>
+		<List>Confuciusornis_sanctus</List>
+		<List>Patagopteryx_deferrariisi</List>
+		<List>Anas_platyrhynchos</List>
+		<List>Protopteryx_fengningensis</List>
+		<List>Elsornis_keni</List>
+		<List>Gobipteryx_minuta</List>
+		<List>Enantiornis_leali</List>
+		<List>Neuquenornis_volans</List>
+		<List>Sinornis_santensis</List>
+		<List>Concornis_lacustris</List>
+		<List>Eoalulavis_hoyasi</List>
+		<List>Vescornis_hebeiensis</List>
+		<List>Eoenantiornis_buhleri</List>
+		<List>Longipteryx_chaoyangensis</List>
+		<List>Longirostravis_hani</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="46">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Chiappe_etal_2007a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

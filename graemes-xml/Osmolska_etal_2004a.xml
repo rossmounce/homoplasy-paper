@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Osmolska, H.</List>
+			<List>Currie, P. J.</List>
+			<List>Barsbold, R.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>Oviraptorosauria</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>165-183</Pages>
+		<Booktitle>The Dinosauria (Second Edition)</Booktitle>
+		<Publisher>University of California Press</Publisher>
+		<City>Berkeley</City>
+		<Editor>
+			<List>Weishampel, D. B.</List>
+			<List>Dodson, P.</List>
+			<List>Osmolska, H.</List>
+		</Editor>
+	</Source>
+	<Taxa number="12">
+		<List>Herrerasaurus_ischigualastensis</List>
+		<List>Velociraptor_mongoliensis</List>
+		<List>Archaeopteryx_lithographica</List>
+		<List>Avimimus_portentosus</List>
+		<List>Caudipteryx_zoui</List>
+		<List>Chirostenotes_pergracilis</List>
+		<List>Rinchenia_mongoliensis</List>
+		<List>Unnamed_Zamin_Khondt_oviraptorid</List>
+		<List>Citipati_osmolskae</List>
+		<List>Conchoraptor_gracilis</List>
+		<List>Ingenia_yanshini</List>
+		<List>Khaan_mckennai</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="161">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Osmolska_etal_2004a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

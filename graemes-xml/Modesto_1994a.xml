@@ -1,0 +1,44 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Modesto, S. P.</List>
+		</Author>
+		<Year>1994</Year>
+		<Title>The Lower Permian synapsid <em>Glaucosaurus</em> from Texas</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>37</Volume>
+		<Pages>51-60</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="10">
+		<List>Seymouria</List>
+		<List>Captorhinus</List>
+		<List>Caseidae</List>
+		<List>Eothyris</List>
+		<List>Mycterosaurus</List>
+		<List>Ophiacodontidae</List>
+		<List>Haptodus</List>
+		<List>Glaucosaurus</List>
+		<List>Ianthasaurus</List>
+		<List>Edaphosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="34">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Modesto_1994a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

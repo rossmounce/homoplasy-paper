@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Modesto, S. P.</List>
+			<List>Lamb, A. J.</List>
+			<List>Reisz, R. R.</List>
+		</Author>
+		<Year>2014</Year>
+		<Title>The captorhinid reptile <em>Captorhinikos valensis</em> from the lower Permian Vale Formation of Texas, and the evolution of herbivory in eureptiles</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>34</Volume>
+		<Pages>291-302</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="20">
+		<List>Protorothyris</List>
+		<List>Paleothyris</List>
+		<List>Thuringothyris</List>
+		<List>Concordia</List>
+		<List>Romeria_prima</List>
+		<List>Romeria_texana</List>
+		<List>Protocaptorhinus</List>
+		<List>Rhiodenticulatus</List>
+		<List>Saurorictus</List>
+		<List>Captorhinus_laticeps</List>
+		<List>Captorhinus_aguti</List>
+		<List>Captorhinus_magnus</List>
+		<List>Labidosaurus</List>
+		<List>Labidosaurikos</List>
+		<List>Moradisaurus</List>
+		<List>Rothianiscus</List>
+		<List>Captorhinikos_valensis</List>
+		<List>Gansurhinus</List>
+		<List>Captorhinikos_chozensis</List>
+		<List>Reiszorhinus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="75">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Modesto_etal_2014a</Filename>
+	<Parent>Reisz_etal_2011b</Parent>
+	<Sibling/>
+</SourceTree>

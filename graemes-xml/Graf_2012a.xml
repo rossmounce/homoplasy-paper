@@ -1,0 +1,69 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Graf, J.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>A new Early Cretaceous coelacanth from Texas</Title>
+		<Journal>Historical Biology</Journal>
+		<Volume>24</Volume>
+		<Pages>441-452</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="35">
+		<List>Actinopterygians</List>
+		<List>Porolepiforms</List>
+		<List>Allenypterus</List>
+		<List>Axelia</List>
+		<List>Axelrodichtys</List>
+		<List>Caridosuctor</List>
+		<List>Chinlea</List>
+		<List>Coccoderma</List>
+		<List>Coelacanthus</List>
+		<List>Diplocerides</List>
+		<List>Diplurus</List>
+		<List>Euporosteus</List>
+		<List>Garnbergia</List>
+		<List>Hadronector</List>
+		<List>Holophagus</List>
+		<List>Holopterygius</List>
+		<List>Indocoelacanthus</List>
+		<List>Latimeria</List>
+		<List>Laugia</List>
+		<List>Libys</List>
+		<List>Lochmocerus</List>
+		<List>Lualabea</List>
+		<List>Macropoma</List>
+		<List>Mawsonia</List>
+		<List>Miguashaia</List>
+		<List>Polyosteorhynchus</List>
+		<List>Rhabdoderma</List>
+		<List>Sassenia</List>
+		<List>Spermatodus</List>
+		<List>Ticinepomis</List>
+		<List>Undia</List>
+		<List>Wenzia</List>
+		<List>Whiteia</List>
+		<List>Wimania</List>
+		<List>Reidus_hilli</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="109">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Graf_2012a</Filename>
+	<Parent>Forey_1998aa</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Hill, R. V.</List>
+			<List>McCartney, J. A.</List>
+			<List>Roberts, E. M.</List>
+			<List>Bouare, M. L.</List>
+			<List>Sissoko, F.</List>
+			<List>O'Leary, M. A.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>Dyrosaurid (Crocodyliformes, Mesoeucrocodylia) fossils from the Upper Cretaceous and Paleogene of Mali: implications for phylogeny and survivorship across the K-T boundary</Title>
+		<Journal>American Museum Novitates</Journal>
+		<Volume>3631</Volume>
+		<Pages>1-19</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Eutretauranosuchus</List>
+		<List>Elosuchus</List>
+		<List>Sarcosuchus</List>
+		<List>Terminonaris</List>
+		<List>Arambourgisuchus</List>
+		<List>Hyposaurus</List>
+		<List>Rhabdognathus_aslerensis</List>
+		<List>Rhabdognathus_keiniensis</List>
+		<List>Dyrosaurus_phosphaticus</List>
+		<List>Dyrosaurus_maghribensis</List>
+		<List>Chenanisuchus</List>
+		<List>Sokotosuchus</List>
+		<List>Phosphatosaurus</List>
+		<List>Congosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="39">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Hill_etal_2008a</Filename>
+	<Parent>Jouve_etal_2005a</Parent>
+	<Sibling/>
+</SourceTree>

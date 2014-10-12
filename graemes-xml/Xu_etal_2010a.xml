@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Xu, X. Wang, D.-Y.</List>
+			<List>Sullivan, C.</List>
+			<List>Hone, D. W. E.</List>
+			<List>Han, F.-L.</List>
+			<List>Yan, R.-H.</List>
+			<List>Du, F.-M.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>A basal parvicursorine (Theropoda: Alvarezsauridae) from the Upper Cretaceous of China</Title>
+		<Journal>Zootaxa</Journal>
+		<Volume>2413</Volume>
+		<Pages>1-19</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="13">
+		<List>Tyrannosauridae</List>
+		<List>Dromaeosauridae</List>
+		<List>Achillesaurus_manazzonei</List>
+		<List>Alvarezsaurus_calvoi</List>
+		<List>Patagonykus_puertai</List>
+		<List>Albertonykus_borealis</List>
+		<List>YPM_1049</List>
+		<List>Xixianykus_zhangi</List>
+		<List>Mononykus_olecranus</List>
+		<List>Shuvuuia_deserti</List>
+		<List>Parvicursor_remotus</List>
+		<List>UCMP_154584</List>
+		<List>Tugriken_Shireh_alvarezsaur</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="77">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Xu_etal_2010a</Filename>
+	<Parent>Longrich_et_Currie_2009a</Parent>
+	<Sibling/>
+</SourceTree>

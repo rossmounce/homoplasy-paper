@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>deBraga, M.</List>
+			<List>Reisz, R. R.</List>
+		</Author>
+		<Year>1996</Year>
+		<Title>The Early Permian reptile <em>Acleistorhinus pteroticus</em> and its phylogenetic position</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>16</Volume>
+		<Pages>384-395</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="8">
+		<List>Synapsida</List>
+		<List>Mesosauridae</List>
+		<List>Millerettidae</List>
+		<List>Macroleter</List>
+		<List>Acleistorhinus</List>
+		<List>Lanthanosuchidae</List>
+		<List>Procolophonia</List>
+		<List>Eureptilia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="60">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>deBraga_et_Reisz_1996a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

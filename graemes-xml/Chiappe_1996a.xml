@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Chiappe, L. M.</List>
+		</Author>
+		<Year>1996</Year>
+		<Title>Late Cretaceous birds of southern South America</Title>
+		<Journal>Munchner Geowissenschaftliche Abhandlungen Reihe A: Geologie und Palaontologie</Journal>
+		<Volume>30</Volume>
+		<Pages>203-244</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="8">
+		<List>Dromaeosauridae</List>
+		<List>Archaeopteryx_lithographica</List>
+		<List>Iberomesornis_romerali</List>
+		<List>Enantiornithes</List>
+		<List>Patagopteryx_deferrariisi</List>
+		<List>Hesperornithiformes</List>
+		<List>Ichthyornithiformes</List>
+		<List>Neornithes</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="67">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Chiappe_1996a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

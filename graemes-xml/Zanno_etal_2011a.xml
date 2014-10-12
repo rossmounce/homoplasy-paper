@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Zanno, L. E.</List>
+			<List>Varricchio, D. J.</List>
+			<List>O'Connor, P. M.</List>
+			<List>Titus, A. L.</List>
+			<List>Knell, M. J.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>A new troodontid theropod, Talos sampsoni gen. et sp.nov., from the Upper Cretaceous Western Interior Basin of North America</Title>
+		<Journal>PLoS One</Journal>
+		<Volume>6</Volume>
+		<Pages>1-20</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List>Dromaeosauridae</List>
+		<List>Avialae</List>
+		<List>Mei_long</List>
+		<List>Sinovenator_changi</List>
+		<List>IGM_100_44</List>
+		<List>Sinornithoides_youngi</List>
+		<List>Byronosaurus_jaffei</List>
+		<List>Zanabazar_junior</List>
+		<List>Saurornithoides_mongoliensis</List>
+		<List>Troodon_formosus</List>
+		<List>Talos_sampsoni</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="44">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Zanno_etal_2011a</Filename>
+	<Parent>Norell_etal_2000a</Parent>
+	<Sibling/>
+</SourceTree>

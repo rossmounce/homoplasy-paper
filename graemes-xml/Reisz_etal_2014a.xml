@@ -1,0 +1,69 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Reisz, R. R.</List>
+			<List>Macdougall, M. J.</List>
+			<List>Modesto, S. P.</List>
+		</Author>
+		<Year>2014</Year>
+		<Title>A new species of the parareptile genus <em>Delorhynchus</em>, based on articulated skeletal remains from Richards Spur, Lower Permian of Oklahoma</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>34</Volume>
+		<Pages>1033-1043</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="33">
+		<List>Seymouria</List>
+		<List>Limnoscelidae</List>
+		<List>Diadectidae</List>
+		<List>Synapsida</List>
+		<List>Captorhinidae</List>
+		<List>Paleothyris</List>
+		<List>Araeoscelidia</List>
+		<List>Younginiformes</List>
+		<List>Mesosauridae</List>
+		<List>Eunotosaurus</List>
+		<List>Millerettidae</List>
+		<List>Australothyris</List>
+		<List>Microleter</List>
+		<List>Nyctiphruretus</List>
+		<List>Eudibamus</List>
+		<List>Belebey</List>
+		<List>Macroleter</List>
+		<List>Bradysaurus</List>
+		<List>Pareiasuchus</List>
+		<List>Scutosaurus</List>
+		<List>Procolophon</List>
+		<List>Owenetta</List>
+		<List>Barasaurus</List>
+		<List>Bashkyroleter_mesensis</List>
+		<List>Bashkyroleter_bashkyricus</List>
+		<List>Nycteroleter</List>
+		<List>Emeroleter</List>
+		<List>Rhipaeosaurus</List>
+		<List>Lanthanosuchus</List>
+		<List>Acleistorhinus</List>
+		<List>Feeserpeton</List>
+		<List>Colobomycter</List>
+		<List>Delorhynchus_new_species</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="137">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Reisz_etal_2014a</Filename>
+	<Parent>MacDougall_et_Reisz_2012a</Parent>
+	<Sibling/>
+</SourceTree>

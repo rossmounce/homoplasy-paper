@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Nicholls, E. L.</List>
+		</Author>
+		<Year>1999</Year>
+		<Title>A reexamination of <em>Thalattosaurus</em> and <em>Nectosaurus</em> and the relationships of the Thalattosauria (Reptilia: Diapsida)</Title>
+		<Journal>PaleoBios</Journal>
+		<Volume>19</Volume>
+		<Pages>1-29</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="9">
+		<List>Younginiformes</List>
+		<List>Endennasaurus</List>
+		<List>Askeptosaurus</List>
+		<List>Nectosaurus</List>
+		<List>Clarazia</List>
+		<List>Thalattosaurus</List>
+		<List>Paralonectes</List>
+		<List>Ankistrognathus</List>
+		<List>Hescheleria</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="39">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Nicholls_1999a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

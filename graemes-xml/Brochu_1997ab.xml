@@ -1,0 +1,96 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Brochu, C. A.</List>
+		</Author>
+		<Year>1997</Year>
+		<Title>Morphology, fossils, divergence timing, and the phylogenetic relationships of Gavialis</Title>
+		<Journal>Systematic Biology</Journal>
+		<Volume>46</Volume>
+		<Pages>479-522</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="62">
+		<List>Bernissartia_fagesii</List>
+		<List>Glen_Rose_Form</List>
+		<List>Alligator_mcgrewi</List>
+		<List>Alligator_mefferdi</List>
+		<List>Alligator_mississippiensis</List>
+		<List>Alligator_olseni</List>
+		<List>Alligator_prenasalis</List>
+		<List>Alligator_sinensis</List>
+		<List>Allognathosuchus_mooki</List>
+		<List>Allognathosuchus_wartheni</List>
+		<List>Arambourgia_gaudryi</List>
+		<List>Asiatosuchus_germanicus</List>
+		<List>Australosuchus_clarkae</List>
+		<List>Brachychampsa_montana</List>
+		<List>Brachyuranochampsa_eversolei</List>
+		<List>Caiman_crocodilus</List>
+		<List>Caiman_latirostris</List>
+		<List>Caiman_yacare</List>
+		<List>Crocodylus_acer</List>
+		<List>Crocodylus_affinis</List>
+		<List>Crocodylus_cataphractus</List>
+		<List>Crocodylus_lloidi</List>
+		<List>Crocodylus_megarhinus</List>
+		<List>Crocodylus_niloticus</List>
+		<List>Crocodylus_palaeindicus</List>
+		<List>Crocodylus_porosus</List>
+		<List>Crocodylus_rhombifer</List>
+		<List>Crocodylus_robustus</List>
+		<List>Crocodylus_spenceri</List>
+		<List>Diplocynodon_darwini</List>
+		<List>Diplocynodon_hantoniensis</List>
+		<List>Diplocynodon_ratelii</List>
+		<List>Dormaal_crocodyloid</List>
+		<List>Dromaeus_novaehollandiae</List>
+		<List>Eocaiman_cavernensis</List>
+		<List>Eogavialis_africanus</List>
+		<List>Euthecodon_arambourgii</List>
+		<List>Gavialis_gangeticus</List>
+		<List>Gavialis_lewisi</List>
+		<List>Gavialosuchus_americanus</List>
+		<List>Gryposuchus_colombianus</List>
+		<List>Hylaeochampsa_vectiana</List>
+		<List>Leidyosuchus_acutidentatus</List>
+		<List>Leidyosuchus_canadensis</List>
+		<List>Leidyosuchus_formidabilis</List>
+		<List>Leidyosuchus_sternbergii</List>
+		<List>Leidyosuchus_wilsoni</List>
+		<List>Melanosuchus_niger</List>
+		<List>Nettosuchidae</List>
+		<List>Osteolaemus_tetraspis</List>
+		<List>Paleosuchus_palpebrosus</List>
+		<List>Paleosuchus_trigonatus</List>
+		<List>Pristichampsus_vorax</List>
+		<List>Procaimanoidea_kayi</List>
+		<List>Prodiplocynodon_langi</List>
+		<List>Purussaurus_neivensis</List>
+		<List>Stangerochampsa_mccabei</List>
+		<List>Thoracosaurus_scanicus</List>
+		<List>Tomistoma_cairense</List>
+		<List>Tomistoma_lusitanica</List>
+		<List>Tomistoma_schlegelii</List>
+		<List>Wannaganosuchus_brachymanus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="164">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Brochu_1997ab</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

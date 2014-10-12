@@ -1,0 +1,127 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Montefeltro, F. C.</List>
+			<List>Larsson, H. C. E.</List>
+			<List>de Franca, M. A. G.</List>
+			<List>Langer, M. C.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>A new neosuchian with Asian affinities from the Jurassic of northeastern Brazil</Title>
+		<Journal>Naturwissenschaften</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="90">
+		<List>Orthosuchus_strombergi</List>
+		<List>Adamantinasuchus_navae</List>
+		<List>Alligator_mississipiensis</List>
+		<List>Allodaposuchus_precedens</List>
+		<List>Amphicotilus_lucasii</List>
+		<List>Anatosuchus_minor</List>
+		<List>Araripesuchus_buitreaensis</List>
+		<List>Araripesuchus_gomesi</List>
+		<List>Araripesuchus_patagonicus</List>
+		<List>Araripesuchus_tsangatsangana</List>
+		<List>Araripesuchus_wegneri</List>
+		<List>Armadillosuchus_arrudai</List>
+		<List>Barreirosuchus_fransciscoi</List>
+		<List>Batrachomimus_pastosbonensis</List>
+		<List>Baurusuchus_pachecoi</List>
+		<List>Baurusuchus_salgadoensis</List>
+		<List>Bergisuchus_dietrichbergi</List>
+		<List>Bernissatia_fagesi</List>
+		<List>Bretesuchus_bonapartei</List>
+		<List>Caipirasuchus_paulistanus</List>
+		<List>Comahuesuchus_brachybuccalis</List>
+		<List>Cricosaurus_araucanensis</List>
+		<List>Cricosaurus_schroederi</List>
+		<List>Cricosaurus_suevicus</List>
+		<List>Cricosaurus_vignaudi</List>
+		<List>Crocodylus</List>
+		<List>Cynodontosuchus_rothi</List>
+		<List>Dakosaurus_andiniensis</List>
+		<List>Dibothrosuchus_elaphros</List>
+		<List>Doratodon_carcharidens</List>
+		<List>Dyrosaurus_phosphaticus</List>
+		<List>Eutretauranosuchus_delfisi</List>
+		<List>Fruitachampsa_callisoni</List>
+		<List>Gasparinisuchus_peirosauroides</List>
+		<List>Gavialis_gangeticus</List>
+		<List>Gobiosuchus_kielanae</List>
+		<List>Goniopholis_kiplingi</List>
+		<List>Goniopholis_simus</List>
+		<List>Guarinisuchus_munizi</List>
+		<List>Hamadasuchus_rebouli</List>
+		<List>Hemiprotosuchus_leali</List>
+		<List>Hsisosuchus</List>
+		<List>Hylaeochampsa_vectiana</List>
+		<List>Hyposaurus_rogersii</List>
+		<List>Iharkutosuchus_makadii</List>
+		<List>Isisfordia_duncani</List>
+		<List>Itasuchus_jesuinoi</List>
+		<List>Kaprosuchus_saharicus</List>
+		<List>Khoratosuchus_jintasakuli</List>
+		<List>Litargosuchus_leptorhynchus</List>
+		<List>Lomasuchus_palpebrosus</List>
+		<List>Lorosuchus_nodosus</List>
+		<List>Libycosuchus_brevirostris</List>
+		<List>Mahajangasuchus_insignis</List>
+		<List>Malawisuchus_mwakasyungutiensis</List>
+		<List>Mariliasuchus_amarali</List>
+		<List>Metriorhynchus_casamiquelai</List>
+		<List>Metriorhynchus_superciliosum</List>
+		<List>Montealtosuchus_arrudacamposi</List>
+		<List>Notosuchus_terrestris</List>
+		<List>Pelagosuchus_typus</List>
+		<List>Pepesuchus_deiseae</List>
+		<List>Pholidosaurus_pueberckensis</List>
+		<List>Pietraroiasuchus_ormezzanoi</List>
+		<List>Pissarrachampsa_sera</List>
+		<List>Protosuchus_haughtoni</List>
+		<List>Protosuchus_richardsoni</List>
+		<List>Racheosaurus_gracilis</List>
+		<List>Rugosuchus_nonganensis</List>
+		<List>Sarcosuchus_imperator</List>
+		<List>Sebecus_icaeorhynus</List>
+		<List>Sebecus_querejazuis</List>
+		<List>Shamosuchus_djadochtaensis</List>
+		<List>Shantungosuchus</List>
+		<List>Sichuanosuchus</List>
+		<List>Simosuchus_clarki</List>
+		<List>Sphagesaurus_huenei</List>
+		<List>Sphagesaurus_montealtensis</List>
+		<List>Sphenosuchus_acutus</List>
+		<List>Steneosaurus_bollensis</List>
+		<List>Stolokrosuchus_lapparenti</List>
+		<List>Stratiotosuchus_maxhechti</List>
+		<List>Sunosuchus</List>
+		<List>Susisuchus_anatoceps</List>
+		<List>Terminonaris_robusta</List>
+		<List>Theriosuchus</List>
+		<List>Uberabasuchus_terrificus</List>
+		<List>Urugaysuchus_aznarezi</List>
+		<List>Yacarerani_boliviensis</List>
+		<List>Zosuchus_davidisoni</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="484">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Montefeltro_etal_inpressa</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

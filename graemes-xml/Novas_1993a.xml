@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Novas, F. E.</List>
+		</Author>
+		<Year>1993</Year>
+		<Title>New information on the systematics and postcranial skeleton of Herrerasaurus ischigualastensis (Theropoda; Herrerasauridae) from the Ischigualasto Formation (Upper Triassic) of Argentina</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>13</Volume>
+		<Pages>400-423</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="8">
+		<List>Pterosauria</List>
+		<List>Lagerpeton</List>
+		<List>Lagosuchus</List>
+		<List>Ornithischia</List>
+		<List>Sauropodomorpha</List>
+		<List>Eoraptor</List>
+		<List>Herrerasauridae</List>
+		<List>Ceratosauria_et_Tetanurae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="51">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Novas_1993a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

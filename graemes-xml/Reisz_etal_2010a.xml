@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Reisz, R. R.</List>
+			<List>Laurin, M.</List>
+			<List>Marjanovic, D.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title><em>Apsisaurus witteri</em> from the Lower Permian of Texas: yet another small varanopid synapsid, not a diapsid</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>30</Volume>
+		<Pages>1628-1631</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="27">
+		<List>Tseajaia</List>
+		<List>Casea</List>
+		<List>Eothyris</List>
+		<List>Archaeothyris</List>
+		<List>Ophiacodon</List>
+		<List>Mycterosaurus</List>
+		<List>Mesenosaurus</List>
+		<List>Elliotsmithia</List>
+		<List>Aerosaurus</List>
+		<List>Varanops</List>
+		<List>Varanodon</List>
+		<List>Archaeovenator</List>
+		<List>Captorhinus</List>
+		<List>Paleothyris</List>
+		<List>Petrolacosaurus</List>
+		<List>Araeoscelis</List>
+		<List>Apsisaurus</List>
+		<List>Coelurosauravus</List>
+		<List>Acerosodontosaurus</List>
+		<List>Youngina</List>
+		<List>Trilophosaurus</List>
+		<List>Hyperodapedon</List>
+		<List>Prolacerta</List>
+		<List>Planocephalosaurus</List>
+		<List>Chalarodon_m</List>
+		<List>Huehuecuetzpalli</List>
+		<List>Dalinghosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="113">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Reisz_etal_2010a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

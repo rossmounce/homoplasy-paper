@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Casanovas, M. L. Pereda Suberbiola, X.</List>
+			<List>Satnafe, J. V.</List>
+			<List>Weishampel, D. B.</List>
+		</Author>
+		<Year>1999</Year>
+		<Title>A primitive euhadrosaurian dinosaur from the uppermost Cretaceous of the Ager syncline (southern Pyrenees, Catalonia)</Title>
+		<Journal>Geologie en Mijnbouw</Journal>
+		<Volume>78</Volume>
+		<Pages>345-356</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="9">
+		<List>outgroup</List>
+		<List>Iguanodon</List>
+		<List>Ouranosaurus</List>
+		<List>Probactrosaurus</List>
+		<List>Bactrosaurus</List>
+		<List>Telmatosaurus</List>
+		<List>Fontllonga</List>
+		<List>Hadrosaurinae</List>
+		<List>Lambeosaurinae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="17">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Casanovas_etal_1999a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,66 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Brusatte, S. L.</List>
+			<List>Norell, M. A.</List>
+			<List>Carr, T. D.</List>
+			<List>Erickson, G. M.</List>
+			<List>Hutchinson, J. R.</List>
+			<List>Balanoff, A. M.</List>
+			<List>Bever, G. S.</List>
+			<List>Choiniere, J. N.</List>
+			<List>Makovicky, P. J.</List>
+			<List>Xu, X.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>Tyrannosaur paleobiology: new research on ancient exemplar organisms</Title>
+		<Journal>Science</Journal>
+		<Volume>329</Volume>
+		<Pages>1481-1485</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="23">
+		<List>Allosaurus</List>
+		<List>Compsogs</List>
+		<List>Maniraptora</List>
+		<List>Ornithomimos</List>
+		<List>Kileskus</List>
+		<List>Guanlong</List>
+		<List>Proceratosaurus</List>
+		<List>Sinotyrannus</List>
+		<List>Dilong</List>
+		<List>Eotyrannus</List>
+		<List>Stokesosaurus</List>
+		<List>Xiongguanlong</List>
+		<List>Dryptosaurus</List>
+		<List>Raptorex</List>
+		<List>Appalachiosaurus</List>
+		<List>Bistahieversor</List>
+		<List>Albertosaurus</List>
+		<List>Gorgosaurus</List>
+		<List>Alioramus</List>
+		<List>Utah</List>
+		<List>Daspletosaurus</List>
+		<List>Tarbosaurus</List>
+		<List>Tyrannosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="307">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Brusatte_etal_2010a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

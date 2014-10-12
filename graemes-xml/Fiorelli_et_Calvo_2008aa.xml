@@ -1,0 +1,102 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Fiorelli, L.</List>
+			<List>Calvo, J. O.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>New remains of <em>Notosuchus terrestris</em> Woodward, 1896 (Crocodyliformes: Mesoeucrocodylia) from Late Cretaceous of Neuquen, Patagonia, Argentina</Title>
+		<Journal>Arquivos do Museu Nacional Rio de Janeiro</Journal>
+		<Volume>66</Volume>
+		<Pages>83-124</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="67">
+		<List>Gracilisuchus_stipanicicorum</List>
+		<List>Effigia_okeeffeae</List>
+		<List>Sillosuchus_longicervix</List>
+		<List>Erpetosuchus_granti</List>
+		<List>Terrestrisuchus_gracilis</List>
+		<List>Pseudhesperosuchus_jachaleri</List>
+		<List>Dromicosuchus_grallator</List>
+		<List>Sphenosuchus_acutus</List>
+		<List>Dibothrosuchus_elaphros</List>
+		<List>Junggarsuchus_sloani</List>
+		<List>Eopneumatosuchus_colberti</List>
+		<List>Protosuchus_richardsoni</List>
+		<List>Hemiprotosuchus_leali</List>
+		<List>Kayenta_Form</List>
+		<List>Edentosuchus_tienshanensis</List>
+		<List>Orthosuchus_stormbergi</List>
+		<List>Gobiosuchus_kielanae</List>
+		<List>Zaraasuchus_shepardi</List>
+		<List>Shantungosuchus_hangjinensis</List>
+		<List>Neuquensuchus_universitas</List>
+		<List>Sichuanosuchus_shuhanensis</List>
+		<List>Zosuchus_davidsoni</List>
+		<List>Shartegosuchus_asperopalatum</List>
+		<List>Fruita_Form</List>
+		<List>Hsisosuchus_chungkingensis</List>
+		<List>Mahajangasuchus_insignis</List>
+		<List>Anatosuchus_minor</List>
+		<List>Lomasuchus_palpebrosus</List>
+		<List>Peirosaurus_torminni</List>
+		<List>Uberabasuchus_terrificus</List>
+		<List>Bretesuchus_bonapartei</List>
+		<List>Iberosuchus_macrodon</List>
+		<List>Baurusuchus_pachecoi</List>
+		<List>Stratiotosuchus_maxhechti</List>
+		<List>Uruguaysuchus_aznarezi</List>
+		<List>Candidodon_itapecuruense</List>
+		<List>Araripesuchus_gomesii</List>
+		<List>Araripesuchus_patagonicus</List>
+		<List>Araripesuchus_buitreraensis</List>
+		<List>Araripesuchus_tsangatsangana</List>
+		<List>Libycosuchus_brevirostris</List>
+		<List>Simosuchus_clarki</List>
+		<List>Malawisuchus_mwakasyungutiensis</List>
+		<List>Notosuchus_terrestris</List>
+		<List>Mariliasuchus_amarali</List>
+		<List>Adamantinasuchus_navae</List>
+		<List>Comahuesuchus_brachybuccalis</List>
+		<List>Sphagesaurus_huenei</List>
+		<List>Chimaeresuchus_paradoxus</List>
+		<List>Elosuchus</List>
+		<List>Stolokrosuchus_lapparenti</List>
+		<List>Pholidosaurus_decipiens</List>
+		<List>Dyrosaurus_phosphaticus</List>
+		<List>Sokotosuchus_ianwilsoni</List>
+		<List>Teleosauridae</List>
+		<List>Metriorhynchidae</List>
+		<List>Pelagosaurus_typus</List>
+		<List>Theriosuchus_pusillus</List>
+		<List>Alligatorium</List>
+		<List>Eutretauranosuchus_delfsi</List>
+		<List>Goniopholis</List>
+		<List>Bernissartia_fagessi</List>
+		<List>Hylaeochampsa_vectiana</List>
+		<List>Gavialis_gangeticus</List>
+		<List>Borealosuchus_formidabilis</List>
+		<List>Crocodylus_niloticus</List>
+		<List>Alligator_mississippiensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="245">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Fiorelli_et_Calvo_2008aa</Filename>
+	<Parent>Fiorelli_et_Calvo_2007a</Parent>
+	<Sibling/>
+</SourceTree>

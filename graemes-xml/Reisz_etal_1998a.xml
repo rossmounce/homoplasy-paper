@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Reisz, R. R.</List>
+			<List>Dilkes, D. W.</List>
+			<List>Berman, D. S.</List>
+		</Author>
+		<Year>1998</Year>
+		<Title>Anatomy and relationships of <em>Elliotsmithia longiceps</em> Broom, a small synapsid (Eupelycosauria: Varanopseidae) from the late Permian of South Africa</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>18</Volume>
+		<Pages>602-611</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="9">
+		<List>Sauropsida</List>
+		<List>Caseasauria</List>
+		<List>Ophiacodontidae</List>
+		<List>Mycterosaurus</List>
+		<List>Mesenosaurus</List>
+		<List>Elliotsmithia</List>
+		<List>Aerosaurus</List>
+		<List>Varanops</List>
+		<List>Varanodon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="31">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Reisz_etal_1998a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

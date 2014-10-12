@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Damiani, R. J.</List>
+			<List>Yates, A. M.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>The Triassic amphibian <em>Thoosuchus yakovlevi</em> and the relationships of the Trematosauroidea (Temnospondyli: Stereospondyli)</Title>
+		<Journal>Records of the Australian Museum</Journal>
+		<Volume>55</Volume>
+		<Pages>331-342</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="20">
+		<List>Archegosauridae</List>
+		<List>Rhinesuchidae</List>
+		<List>Almasaurus</List>
+		<List>Angusaurus</List>
+		<List>Aphaneramma</List>
+		<List>Benthosuchus</List>
+		<List>Cosgriffius</List>
+		<List>Luzocephalus</List>
+		<List>Lydekkerinidae</List>
+		<List>Lyrocephaliscus</List>
+		<List>Metoposauridae</List>
+		<List>Microposaurus</List>
+		<List>Parotosuchus</List>
+		<List>Platystega</List>
+		<List>Rhytidosteidae</List>
+		<List>Tertrema</List>
+		<List>Thoosuchus</List>
+		<List>Trematosaurus</List>
+		<List>Watsonisuchus</List>
+		<List>Wetlugasaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="40">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Damiani_et_Yates_2003a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Rieppel, O.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>A new species of <em>Nothosaurus</em> (Reptilia: Sauropterygia) from the Upper Muschelkalk (Lower Ladinian) of southwestern Germany</Title>
+		<Journal>Palaeontographica Abteilung A</Journal>
+		<Volume>263</Volume>
+		<Pages>137-161</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List>Pachypleurosauria</List>
+		<List>Simosaurus</List>
+		<List>Germanosaurus</List>
+		<List>N_edingerae</List>
+		<List>N_giganteus</List>
+		<List>N_juvenilis</List>
+		<List>N_marchicus</List>
+		<List>N_mirabilis</List>
+		<List>N_haasi</List>
+		<List>N_tchemovi</List>
+		<List>Winterswijk</List>
+		<List>N_jagisteus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="25">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Rieppel_2001b</Filename>
+	<Parent>Rieppel_1999a</Parent>
+	<Sibling/>
+</SourceTree>

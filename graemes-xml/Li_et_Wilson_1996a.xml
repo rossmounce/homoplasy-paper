@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Li, G.-Q.</List>
+			<List>Wilson, M. V. H.</List>
+		</Author>
+		<Year>1996</Year>
+		<Title>The discovery of Heterotidinae (Teleostei: Osteoglossidae) from the Paleocene Paskapoo Formation of Alberta, Canada</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>16</Volume>
+		<Pages>198-209</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List>Presumed_ancestor</List>
+		<List>Arapaima</List>
+		<List>Heterotis</List>
+		<List>Sinoglossus</List>
+		<List>Joffrichthys_gen_nov</List>
+		<List>Brychaetus</List>
+		<List>Phareodus</List>
+		<List>Cretophareodus</List>
+		<List>Pantodon</List>
+		<List>Singida</List>
+		<List>Scleropages</List>
+		<List>Osteoglossum</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="28">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Li_et_Wilson_1996a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,70 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Maisch, M. W.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>Phylogeny, systematics, and origin of the Ichthyosauria - the state of the art</Title>
+		<Journal>Palaeodiversity</Journal>
+		<Volume>3</Volume>
+		<Pages>151-214</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="36">
+		<List>Seymouriidae</List>
+		<List>Diadectomorpha</List>
+		<List>Caseidae</List>
+		<List>Ophiacodontidae</List>
+		<List>Edaphosauridae</List>
+		<List>Sphenacodontidae</List>
+		<List>Gorgonopsia</List>
+		<List>Cynodontia</List>
+		<List>Captorhinidae</List>
+		<List>Palaeothyris</List>
+		<List>Millerettidae</List>
+		<List>Acleistorhinus</List>
+		<List>Lanthanosuchidae</List>
+		<List>Macroleter</List>
+		<List>Bradysaurus</List>
+		<List>Scutosaurus</List>
+		<List>Anthodon</List>
+		<List>Procolophon</List>
+		<List>Owenetta</List>
+		<List>Araeoscelidae</List>
+		<List>Claudiosaurus</List>
+		<List>Younginiformes</List>
+		<List>Kuehneosauridae</List>
+		<List>Testudines</List>
+		<List>Rhynchocephalia</List>
+		<List>Squamata</List>
+		<List>Choristodera</List>
+		<List>Rhynchosauria</List>
+		<List>Prolacertiformes</List>
+		<List>Trilophosaurus</List>
+		<List>Archosauromorpha</List>
+		<List>Placodus</List>
+		<List>Cyamodus</List>
+		<List>Eosauropterygia</List>
+		<List>Mesosauria</List>
+		<List>Ichthyosauria</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="166">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Maisch_2010aa</Filename>
+	<Parent>Rieppel_et_Reisz_1999a</Parent>
+	<Sibling/>
+</SourceTree>

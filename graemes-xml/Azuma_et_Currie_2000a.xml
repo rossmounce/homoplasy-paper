@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Azuma, Y.</List>
+			<List>Currie. P. J.</List>
+		</Author>
+		<Year>2000</Year>
+		<Title>A new carnosaur (Dinosauria: Theropoda) from the Lower Cretaceous of Japan</Title>
+		<Journal>Canadian Journal of Earth Sciences</Journal>
+		<Volume>37</Volume>
+		<Pages>1735-1753</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="10">
+		<List>Herrerasaurus</List>
+		<List>Fukuiraptor</List>
+		<List>Sinraptor</List>
+		<List>Acrocanthosaurus</List>
+		<List>Allosaurus</List>
+		<List>Sinosauropteryx</List>
+		<List>Dromaeosauridae</List>
+		<List>Oviraptoridae</List>
+		<List>Ornithomimidae</List>
+		<List>Tyrannosauridae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="110">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Azuma_et_Currie_2000a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

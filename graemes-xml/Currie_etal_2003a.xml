@@ -1,0 +1,44 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Currie, P. J.</List>
+			<List>Hurum, J. H.</List>
+			<List>Sabath, K.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>Skull structure and evolution in tyrannosaurid dinosaurs</Title>
+		<Journal>Acta Palaeontologica Polonica</Journal>
+		<Volume>48</Volume>
+		<Pages>227-234</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="8">
+		<List>Allosaurus</List>
+		<List>Albertosaurus</List>
+		<List>Gorgosaurus</List>
+		<List>Alioramus</List>
+		<List>Daspletosaurus</List>
+		<List>Tarbosaurus</List>
+		<List>Nanotyrannus</List>
+		<List>Tyrannosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="77">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Currie_etal_2003a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

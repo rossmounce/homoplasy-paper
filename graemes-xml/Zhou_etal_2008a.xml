@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Zhou, Z.</List>
+			<List>Clarke, J.</List>
+			<List>Zhang, F.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>Insight into diversity, body size and morphological evolution from the largest Early Cretaceous enantiornithine bird</Title>
+		<Journal>Journal of Anatomy</Journal>
+		<Volume>212</Volume>
+		<Pages>565-577</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="29">
+		<List>Dromaeosauridae</List>
+		<List>Archaeopteryx_lithographica</List>
+		<List>Jeholornis</List>
+		<List>Sapeornis</List>
+		<List>Confuciusornis_sanctus</List>
+		<List>Archaeorynchus</List>
+		<List>Vorona_berivotrensis</List>
+		<List>Patagopteryx_deferrariisi</List>
+		<List>Hongshanornis</List>
+		<List>Apsaravis_ukhaana</List>
+		<List>Ichthyornis</List>
+		<List>Iaceornis_marshii</List>
+		<List>Anas_platyrhynchos</List>
+		<List>Chauna_torquata</List>
+		<List>Gallus_gallus</List>
+		<List>Crax_pauxi</List>
+		<List>Crypturellus_undulatus</List>
+		<List>Lithornis</List>
+		<List>Hesperornis_regalis</List>
+		<List>Baptornis_adventus</List>
+		<List>Yanornis_martini</List>
+		<List>Songlingornis_linghensis</List>
+		<List>Yixianornis_grabaui</List>
+		<List>Protopteryx</List>
+		<List>Pengornis</List>
+		<List>Neuquenornis_volans</List>
+		<List>Gobipteryx_minuta</List>
+		<List>Cathayornis_yandica</List>
+		<List>Concornis_lacustris</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="205">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Zhou_etal_2008a</Filename>
+	<Parent>Clarke_etal_2006a</Parent>
+	<Sibling/>
+</SourceTree>

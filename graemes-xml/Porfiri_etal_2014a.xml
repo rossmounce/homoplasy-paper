@@ -1,0 +1,84 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Porfiri, J. D.</List>
+			<List>Novas, F. E.</List>
+			<List>Calvo, J. O.</List>
+			<List>Agnolin, F. L.</List>
+			<List>Ezcurra, M. D.</List>
+			<List>Cerda, I. A.</List>
+		</Author>
+		<Year>2014</Year>
+		<Title>Juvenile specimen of <em>Megaraptor</em> (Dinosauria, Theropoda) sheds light about tyrannosauroid radiation</Title>
+		<Journal>Cretaceous Research</Journal>
+		<Volume>51</Volume>
+		<Pages>35-55</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="45">
+		<List>Ceratosaurus</List>
+		<List>Allosaurus</List>
+		<List>Monolophosaurus</List>
+		<List>Piatnitzkysaurus</List>
+		<List>Sinraptor</List>
+		<List>Acrocanthosaurus</List>
+		<List>Afrovenator</List>
+		<List>Torvosaurus</List>
+		<List>Megalosaurus</List>
+		<List>Baryonyx</List>
+		<List>Carcharod_ig</List>
+		<List>Carcharod_sa</List>
+		<List>Giganotosaurus</List>
+		<List>Mapusaurus</List>
+		<List>Suchomimus</List>
+		<List>Tyrannotitan</List>
+		<List>Shaochilong</List>
+		<List>Concavenator</List>
+		<List>Spinosaurus</List>
+		<List>Irritator</List>
+		<List>Australovenator</List>
+		<List>Aerosteon</List>
+		<List>Neovenator</List>
+		<List>Orkoraptor</List>
+		<List>Fukuiraptor</List>
+		<List>Eotyrannus</List>
+		<List>Tanycolagreus</List>
+		<List>Velociraptor</List>
+		<List>Tyrannosaurus</List>
+		<List>Compsognathus</List>
+		<List>Sinosauropteryx</List>
+		<List>Guanlong</List>
+		<List>Ornithomimus</List>
+		<List>Sinornithomimus</List>
+		<List>Caudipteryx</List>
+		<List>Dilong</List>
+		<List>Chilantaisaurus</List>
+		<List>Xiongguanlong</List>
+		<List>Kileskus</List>
+		<List>Proceratosaurus</List>
+		<List>Appalachiosaurus</List>
+		<List>Albertosaurus</List>
+		<List>Santanaraptor</List>
+		<List>Eocarcharia</List>
+		<List>Megaraptor</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="284">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Porfiri_etal_2014a</Filename>
+	<Parent>Novas_etal_inpressaa</Parent>
+	<Sibling/>
+</SourceTree>

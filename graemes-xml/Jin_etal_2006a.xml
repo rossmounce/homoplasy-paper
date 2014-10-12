@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Jin, J.</List>
+			<List>Zhan, R.-B.</List>
+			<List>Rong, J.-Y.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>Taxonomic reassessment of two virgianid brachiopod genera from the Upper Ordovician and Lower Silurian of South China</Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>80</Volume>
+		<Pages>72-82</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List>Pentamerus_palaformis</List>
+		<List>Deloprosopus_jiangshanensis</List>
+		<List>Tcherskidium_unicum</List>
+		<List>Virgiana_barrandei</List>
+		<List>Virgiana_mayvillensis</List>
+		<List>Virgiana_decussata</List>
+		<List>Viridita_lenticualris</List>
+		<List>Proconchidium_munsteri</List>
+		<List>Eoconchidium_indigiricum</List>
+		<List>Pseudoconchidium_kozhimicum</List>
+		<List>Paraconchidium_shiqianensis</List>
+		<List>Brevilamnulella_thebesensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="24">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Jin_etal_2006a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

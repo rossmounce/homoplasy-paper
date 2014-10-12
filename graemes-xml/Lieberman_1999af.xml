@@ -1,0 +1,40 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lieberman, B. S.</List>
+		</Author>
+		<Year>1999</Year>
+		<Title>Systematic revision of the Olenelloidea (Trilobita, Cambrian)</Title>
+		<Journal>Bulletin of the Peabody Museum of Natural History</Journal>
+		<Volume>45</Volume>
+		<Pages>1-150</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="6">
+		<List>Fritzolenellus_truemani</List>
+		<List>Mummaspis_occidens</List>
+		<List>Mummaspis_truncatooculatus</List>
+		<List>Mummaspis_oblisooculatus</List>
+		<List>Mummaspis_macer</List>
+		<List>Mummaspis_muralensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="5">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lieberman_1999af</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

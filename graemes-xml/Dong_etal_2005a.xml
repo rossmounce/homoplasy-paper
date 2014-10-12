@@ -1,0 +1,69 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Dong, X.-P.</List>
+			<List>Donoghue, P. C. J.</List>
+			<List>Cunningham, J. A.</List>
+			<List>Liu, J.-B.</List>
+			<List>Cheng, H.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>The anatomy, affinity, and phylogenetic significance of <em>Markuelia</em></Title>
+		<Journal>Evolution &amp; Development</Journal>
+		<Volume>7</Volume>
+		<Pages>468-482</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="31">
+		<List>Gastrotricha</List>
+		<List>Acanthopriapulus</List>
+		<List>Ancalagon</List>
+		<List>Cricocosmia</List>
+		<List>Fieldia</List>
+		<List>Halicryptus</List>
+		<List>Louisella</List>
+		<List>Maccabeus</List>
+		<List>Maotianshania</List>
+		<List>Meiopriapulus</List>
+		<List>Ottoia</List>
+		<List>Palaeoscolex</List>
+		<List>Priapulites</List>
+		<List>Priapulopsis</List>
+		<List>Priapulus</List>
+		<List>Scolecofurca</List>
+		<List>Selkirkia</List>
+		<List>Tubiluchus</List>
+		<List>Kinorhyncha</List>
+		<List>Loricifera</List>
+		<List>Markuelia</List>
+		<List>Nematomorpha</List>
+		<List>Nematoda</List>
+		<List>Aysheaia</List>
+		<List>Peripatus</List>
+		<List>Kerygmachela</List>
+		<List>Palaeopriapulites</List>
+		<List>Sicyophorus</List>
+		<List>Xiaoheiqingella</List>
+		<List>Yunnanpriapulus</List>
+		<List>Corynetis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="88">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Dong_etal_2005a</Filename>
+	<Parent>Dong_etal_2004a</Parent>
+	<Sibling/>
+</SourceTree>

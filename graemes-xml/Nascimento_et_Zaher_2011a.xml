@@ -1,0 +1,98 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Nascimento, P. M.</List>
+			<List>Zaher, H.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>The skull of the Upper Cretaceous baurusuchid crocodile <em>Baurusuchus albertoi</em> Nascimento &amp; Zaher 2010, and its phylogenetic affinities</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>163</Volume>
+		<Pages>S116-S131</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="63">
+		<List>Gracilisuchus</List>
+		<List>Terrestrisuchus</List>
+		<List>Dibothrosuchus</List>
+		<List>Protosuchus_richardsoni</List>
+		<List>Hemiprotosuchus</List>
+		<List>Orthosuchus</List>
+		<List>Kayenta_Form</List>
+		<List>Edentosuchus</List>
+		<List>Zaraasuchus</List>
+		<List>Gobiosuchus</List>
+		<List>Sichuanosuchus</List>
+		<List>Shantungosuchus</List>
+		<List>Zosuchus</List>
+		<List>Fruita_Form</List>
+		<List>Notosuchus</List>
+		<List>Comahuesuchus</List>
+		<List>Mariliasuchus</List>
+		<List>Uruguaysuchus</List>
+		<List>Chimaerasuchus</List>
+		<List>Malawisuchus</List>
+		<List>Candidodon</List>
+		<List>Simosuchus</List>
+		<List>Sphagesaurus</List>
+		<List>Bretesuchus</List>
+		<List>Iberosuchus</List>
+		<List>Lybicosuchus</List>
+		<List>A_gomesii</List>
+		<List>A_patagonicus</List>
+		<List>A_buitreraensis</List>
+		<List>A_wegeneri</List>
+		<List>Lomasuchus</List>
+		<List>Peirosaurus</List>
+		<List>Theriosuchus</List>
+		<List>Alligatorium</List>
+		<List>Goniopholis</List>
+		<List>Eutretauranosuchus</List>
+		<List>Bernissartia</List>
+		<List>Hylaeochampsa</List>
+		<List>Borealosuchus</List>
+		<List>Gavialis</List>
+		<List>Crocodylus</List>
+		<List>Alligator</List>
+		<List>Hsisosuchus</List>
+		<List>Pelagosaurus</List>
+		<List>Steneosaurus_bollensis</List>
+		<List>Metriorhynchus_superciliosus</List>
+		<List>Metriorhynchus_casamiquelai</List>
+		<List>Geosaurus_araucaniensis</List>
+		<List>Geosaurus_suevicus</List>
+		<List>Dakosaurus_maximus</List>
+		<List>Dakosaurus_andiniensis</List>
+		<List>Rhabdognathus</List>
+		<List>Sokotosuchus</List>
+		<List>Dyrosaurus</List>
+		<List>Hyposaurus</List>
+		<List>Pholidosaurus</List>
+		<List>Sarcosuchus</List>
+		<List>Terminonaris_robusta</List>
+		<List>Baurusuchus_albertoi</List>
+		<List>Pabwehshi_pakistanensis</List>
+		<List>Baurusuchus_pachecoi</List>
+		<List>Baurusuchus_salgadoensis</List>
+		<List>Stratiotosuchus_maxhechti</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="262">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Nascimento_et_Zaher_2011a</Filename>
+	<Parent>Gasparini_etal_2006a</Parent>
+	<Sibling/>
+</SourceTree>

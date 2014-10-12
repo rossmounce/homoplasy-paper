@@ -1,0 +1,69 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Haasl, D. M.</List>
+		</Author>
+		<Year>2000</Year>
+		<Title>Phylogenetic relationships among nassariid gastropods</Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>74</Volume>
+		<Pages>839-852</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="35">
+		<List>Neptunea</List>
+		<List>Phos</List>
+		<List>Northia</List>
+		<List>Antillophos</List>
+		<List>Bullia</List>
+		<List>Buccinanops</List>
+		<List>Dorsanum</List>
+		<List>Nassarius_ss</List>
+		<List>Alectrion</List>
+		<List>Uzita</List>
+		<List>Hima</List>
+		<List>Hebra</List>
+		<List>Gussonea</List>
+		<List>Sphaeronassa</List>
+		<List>Caesia</List>
+		<List>Phrontis</List>
+		<List>Hinia</List>
+		<List>Telasco</List>
+		<List>Plicarcularia</List>
+		<List>Niotha</List>
+		<List>Zeuxis</List>
+		<List>Profundinassa</List>
+		<List>Demondia</List>
+		<List>Buccinopsis</List>
+		<List>Thanetinassa</List>
+		<List>Colwellia</List>
+		<List>Keepingia</List>
+		<List>Whitecliffia</List>
+		<List>Pseudocominella</List>
+		<List>Desorinassa</List>
+		<List>Bulliopsis</List>
+		<List>N_schlotheimi</List>
+		<List>Buccitriton</List>
+		<List>Ilyanassa_peralta</List>
+		<List>Buccinum</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="36">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Haasl_2000a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

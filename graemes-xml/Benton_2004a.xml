@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Benton, M. J.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>Origin and relationships of Dinosauria</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>7-19</Pages>
+		<Booktitle>The Dinosauria (Second Edition)</Booktitle>
+		<Publisher>University of California Press</Publisher>
+		<City>Berkeley</City>
+		<Editor>
+			<List>Weishampel, D. B.</List>
+			<List>Dodson, P.</List>
+			<List>Osmolska, H.</List>
+		</Editor>
+	</Source>
+	<Taxa number="24">
+		<List>Hyperodapedon</List>
+		<List>Prolacerta</List>
+		<List>Proterosuchus</List>
+		<List>Erythrosuchus</List>
+		<List>Euparkeria</List>
+		<List>Proterochampsidae</List>
+		<List>Phytosauridae</List>
+		<List>Ornithosuchidae</List>
+		<List>Stagonolepididae</List>
+		<List>Gracilisuchus</List>
+		<List>Fasolasuchus</List>
+		<List>Ticinosuchus</List>
+		<List>Prestosuchus</List>
+		<List>Saurosuchus</List>
+		<List>Postosuchus</List>
+		<List>Crocodylomorpha</List>
+		<List>Scleromochlus</List>
+		<List>Pterosauria</List>
+		<List>Lagerpeton</List>
+		<List>Marasuchus</List>
+		<List>Ornithischia</List>
+		<List>Sauropodomorpha</List>
+		<List>Herrerasaurus</List>
+		<List>Theropoda</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="95">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Benton_2004a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

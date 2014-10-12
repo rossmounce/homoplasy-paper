@@ -1,0 +1,75 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Frobisch, N. B.</List>
+			<List>Frobisch, J.</List>
+			<List>Sander, P. M.</List>
+			<List>Schmitz, L.</List>
+			<List>Rieppel, O.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>Macropredatory ichthyosaur from the Middle Triassic and the origin of modern trophic networks</Title>
+		<Journal>Proceedings of the National Academy of Sciences, USA</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="37">
+		<List>Petrolacosaurus</List>
+		<List>Thadeosaurus</List>
+		<List>Claudiosaurus</List>
+		<List>Hovasaurus</List>
+		<List>Hupehsuchus</List>
+		<List>Utatsusaurus</List>
+		<List>Grippia</List>
+		<List>Parvinatator</List>
+		<List>Chaohusaurus</List>
+		<List>Cymbospondylus_petrinus</List>
+		<List>Cymbospondylus_buchseri</List>
+		<List>Mixosaurus_cornalianus</List>
+		<List>Mixosaurus_atavus</List>
+		<List>Phalarodon_fraasi</List>
+		<List>Besanosaurus</List>
+		<List>Shonisaurus_popularis</List>
+		<List>Californosaurus</List>
+		<List>Toretocnemus</List>
+		<List>Hudsonelpidia</List>
+		<List>Macgowania</List>
+		<List>Suevoleviathan</List>
+		<List>Temnodontosaurus</List>
+		<List>Leptonectes</List>
+		<List>Excalibosaurus</List>
+		<List>Eurhinosaurus</List>
+		<List>Ichthyosaurus</List>
+		<List>Stenopterygius</List>
+		<List>Brachypterygius</List>
+		<List>Ophthalmosaurus</List>
+		<List>Caypullisaurus</List>
+		<List>Platypterygius</List>
+		<List>Guizhouichthyosaurus</List>
+		<List>Shastasaurus_sikanniensis</List>
+		<List>Shastasaurus_pacificus</List>
+		<List>Shastasaurus_liangae</List>
+		<List>Callawaya</List>
+		<List>Thalattoarchon_saurophagis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="111">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Frobisch_etal_inpressa</Filename>
+	<Parent>Sander_etal_2011a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Currie, P. J.</List>
+			<List>Varricchio, D. J.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>A new dromaeosaurid from the Horseshoe Canyon Formation (Upper Cretaceous) of Alberta, Canada</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>112-132</Pages>
+		<Booktitle>Feathered Dragons</Booktitle>
+		<Publisher>Indiana University Press</Publisher>
+		<City>Bloomington</City>
+		<Editor>
+			<List>Currie, P. J.</List>
+			<List>Kopplehus, E. B.</List>
+			<List>Shugar, M. A.</List>
+			<List>Wright, J. L.</List>
+		</Editor>
+	</Source>
+	<Taxa number="9">
+		<List>Coelophysis</List>
+		<List>Allosaurus</List>
+		<List>Troodontidae</List>
+		<List>Dromaeosaurus</List>
+		<List>Saurornitholestes</List>
+		<List>Velociraptor</List>
+		<List>Bambiraptor</List>
+		<List>Atrociraptor</List>
+		<List>Deinonychus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="42">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Currie_et_Varricchio_2004a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

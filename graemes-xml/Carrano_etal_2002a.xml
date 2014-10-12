@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Carrano, M. T.</List>
+			<List>Sampson, S. D.</List>
+			<List>Forster, C. A.</List>
+		</Author>
+		<Year>2002</Year>
+		<Title>The osteology of Masiakasaurus knopfleri, a small abelisauroid (Dinosauria: Theropoda) from the Late Cretaceous of Madagascar</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>22</Volume>
+		<Pages>510-534</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="23">
+		<List>Eoraptor</List>
+		<List>Herrerasaurus</List>
+		<List>Liliensternus</List>
+		<List>Coelophysis</List>
+		<List>Syntarsus</List>
+		<List>Dilophosaurus</List>
+		<List>Elaphrosaurus</List>
+		<List>Ceratosaurus</List>
+		<List>Genusaurus</List>
+		<List>Ilokelesia</List>
+		<List>Laevisuchus</List>
+		<List>Masiakasaurus</List>
+		<List>Noasaurus</List>
+		<List>Xenotarsosaurus</List>
+		<List>Abelisaurus</List>
+		<List>Carnotaurus</List>
+		<List>Majungatholus</List>
+		<List>Afrovenator</List>
+		<List>Eustreptospondylus</List>
+		<List>Torvosaurus</List>
+		<List>Ornitholestes</List>
+		<List>Allosaurus</List>
+		<List>Sinraptor</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="158">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Carrano_etal_2002a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

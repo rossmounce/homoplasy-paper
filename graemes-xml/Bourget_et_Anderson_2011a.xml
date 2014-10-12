@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Bourget, H.</List>
+			<List>Anderson, J. S.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>A new amphibamid (Temnospondyli: Dissorophoidea) from the Early Permian of Texas</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>31</Volume>
+		<Pages>32-49</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="19">
+		<List>Dendrerpeton</List>
+		<List>Sclerocephalus</List>
+		<List>Eryopidae</List>
+		<List>Micromelerpeton</List>
+		<List>Ecolsonia</List>
+		<List>Trematopidae</List>
+		<List>Dissorophinae</List>
+		<List>Cacopinae</List>
+		<List>Amphibamus</List>
+		<List>Platyrhinops</List>
+		<List>Doleserpeton</List>
+		<List>Eoscopus</List>
+		<List>Micropholis</List>
+		<List>Tersomius</List>
+		<List>Pasawioops</List>
+		<List>Plemmyradytes</List>
+		<List>Georgenthalia</List>
+		<List>Gerobatrachus</List>
+		<List>Rubeostratilia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="66">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Bourget_et_Anderson_2011a</Filename>
+	<Parent>Frobisch_et_Reisz_2008b</Parent>
+	<Sibling/>
+</SourceTree>

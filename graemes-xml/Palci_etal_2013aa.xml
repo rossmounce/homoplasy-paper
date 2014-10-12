@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Palci, A.</List>
+			<List>Caldwell, M. W.</List>
+			<List>Albino, A. M.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>Emended diagnosis and phylogenetic relationships of the Upper Cretaceous fossil snake <em>Najash rionegrina</em> Apesteguía and Zaher, 2006</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>33</Volume>
+		<Pages>131-140</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="27">
+		<List>Heloderma</List>
+		<List>Lanthanotus</List>
+		<List>Varanus</List>
+		<List>Mosasauroidea</List>
+		<List>Madtsoiidae</List>
+		<List>Dinilysia</List>
+		<List>Leptotyphlopidae</List>
+		<List>Typhlopidae</List>
+		<List>Anomalepididae</List>
+		<List>Anomochilus</List>
+		<List>Uropeltidae</List>
+		<List>Cylindrophis</List>
+		<List>Anilius</List>
+		<List>Xenopeltis</List>
+		<List>Loxocemus</List>
+		<List>Pythoninae</List>
+		<List>Boinae</List>
+		<List>Erycinae</List>
+		<List>Ungaliophiinae</List>
+		<List>Tropidophiinae</List>
+		<List>Bolyeriinae</List>
+		<List>Acrochordus</List>
+		<List>Colubroidea</List>
+		<List>Pachyrhachis</List>
+		<List>Haasiophis</List>
+		<List>Eupodophis</List>
+		<List>Najash</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="210">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Palci_etal_2013aa</Filename>
+	<Parent>Lee_et_Scanlon_2002a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Bolotsky, Y. L.</List>
+			<List>Godefroit, P.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>A new hadrosaurine dinosaur from the Late Cretaceous of Far Eastern Russia</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>24</Volume>
+		<Pages>351-365</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="10">
+		<List>Bactrosaurus</List>
+		<List>Lambeosaurinae</List>
+		<List>Gryposaurus</List>
+		<List>Kerberosaurus</List>
+		<List>Saurolophus</List>
+		<List>Prosaurolophus</List>
+		<List>Edmontosaurus</List>
+		<List>Anatotitan</List>
+		<List>Maiasaura</List>
+		<List>Brachylophosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="21">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Bolotsky_et_Godefroit_2004a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

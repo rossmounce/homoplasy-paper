@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Reynoso, V.-H.</List>
+		</Author>
+		<Year>1997</Year>
+		<Title>A &quot;beaded&quot; sphenodontian (Diapsida: Lepidosauria) from the Early Cretaceous of Central Mexico</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>17</Volume>
+		<Pages>52-59</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="20">
+		<List>Youngina</List>
+		<List>Squamata</List>
+		<List>Gephyrosaurus</List>
+		<List>Diphydontosaurus</List>
+		<List>Planocephalosaurus</List>
+		<List>Palaeopleurosaurus</List>
+		<List>Polysphenodon</List>
+		<List>Brachyrhinodon</List>
+		<List>Clevosaurus_hudsoni</List>
+		<List>Clevosaurus_bairdi</List>
+		<List>Clevosaurus_petilus</List>
+		<List>Clevosaurus_mcgilli</List>
+		<List>Homoeosaurus</List>
+		<List>Kallimodon</List>
+		<List>Sapheosaurus</List>
+		<List>Eilenodon</List>
+		<List>Toxolophosaurus</List>
+		<List>Cynosphenodon</List>
+		<List>Sphenodon</List>
+		<List>Pamizinsaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="48">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Reynoso_1997a</Filename>
+	<Parent>Reynoso_1996a</Parent>
+	<Sibling/>
+</SourceTree>

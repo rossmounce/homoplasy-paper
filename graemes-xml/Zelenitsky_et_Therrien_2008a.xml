@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Zelenitsky, D. K.</List>
+			<List>Therrien, F.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>Phylogenetic analysis of reproductive traits of maniraptoran theropods and its implications for egg parataxonomy</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>51</Volume>
+		<Pages>807-816</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="7">
+		<List>Maiasaura</List>
+		<List>Titanosauridae</List>
+		<List>Citipati</List>
+		<List>Troodon</List>
+		<List>Protoceratops_idovum</List>
+		<List>Parvoolithus</List>
+		<List>Numida</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="12">
+			<Type>Eggs and nesting</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Zelenitsky_et_Therrien_2008a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

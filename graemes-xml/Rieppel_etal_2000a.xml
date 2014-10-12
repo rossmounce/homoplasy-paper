@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Rieppel, O.</List>
+			<List>Liu, J.</List>
+			<List>Bucher, H.</List>
+		</Author>
+		<Year>2000</Year>
+		<Title>The first record of a thalattosaur reptile from the Late Triassic of southern China (Guizhou Province, PR China)</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>20</Volume>
+		<Pages>507-514</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="6">
+		<List>Ancestor</List>
+		<List>Askeptosaurus</List>
+		<List>Thalattosaurus</List>
+		<List>Anshunsaurus</List>
+		<List>Clarazia</List>
+		<List>Hescheleria</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="16">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Rieppel_etal_2000a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

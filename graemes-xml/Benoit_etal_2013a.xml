@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Benoit, J.</List>
+			<List>Adnet, S.</List>
+			<List>Mabrouk, E. E.</List>
+			<List>Khayati, H.</List>
+			<List>Ali, M. B. H.</List>
+			<List>Marivaux, L.</List>
+			<List>Merzeraud, G.</List>
+			<List>Merigeaud, S.</List>
+			<List>Vianey-Liaud, M.</List>
+			<List>Tabuce, R.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>Cranial remain from Tunisia provides new clues for the origin and evolution of Sirenia (Mammalia, Afrotheria) in Africa</Title>
+		<Journal>PLoS One</Journal>
+		<Volume>8</Volume>
+		<Pages>e54307</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="22">
+		<List>Kulbeckia</List>
+		<List>Phenacodus</List>
+		<List>Meniscotherium</List>
+		<List>Hyopsodus</List>
+		<List>Pleuraspidotherium</List>
+		<List>Arctocyon</List>
+		<List>Orycteropus</List>
+		<List>Megalohyrax</List>
+		<List>Procavia</List>
+		<List>Arsinoitherium</List>
+		<List>Phosphatherium</List>
+		<List>Numidotherium</List>
+		<List>Moeritherium</List>
+		<List>Elephantoidea</List>
+		<List>Chambi_sirenian</List>
+		<List>Prorastomus</List>
+		<List>Eosiren</List>
+		<List>Eotheroides</List>
+		<List>Protosirenidae_n_gen_n_sp</List>
+		<List>Protosiren</List>
+		<List>Dugong</List>
+		<List>Trichechus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="27">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Benoit_etal_2013a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

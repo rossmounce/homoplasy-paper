@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Carvalho, I. S.</List>
+			<List>Ribeiro, L. C. B.</List>
+			<List>Avilla, L. S.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title><em>Uberabasuchus terrificus</em> sp. nov., a new crocodylomorpha from the Bauru Basin (Upper Cretaceous), Brazil</Title>
+		<Journal>Gondwana Research</Journal>
+		<Volume>7</Volume>
+		<Pages>975-1002</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="22">
+		<List>Postosuchus</List>
+		<List>Sphenosuchus</List>
+		<List>Dibothrosuchus</List>
+		<List>Protosuchus</List>
+		<List>Uberabasuchus</List>
+		<List>Lomasuchus</List>
+		<List>Peirosaurus</List>
+		<List>Mahajangasuchus</List>
+		<List>Notosuchus</List>
+		<List>Araripesuchus</List>
+		<List>Malawisuchus</List>
+		<List>Candidodon</List>
+		<List>Mariliasuchus</List>
+		<List>Uruguaysuchus</List>
+		<List>Comahuesuchus</List>
+		<List>Chimaerasuchus</List>
+		<List>Simosuchus</List>
+		<List>Baurusuchidae</List>
+		<List>Sebecus</List>
+		<List>Libycosuchus</List>
+		<List>Stolokrosuchus</List>
+		<List>Itasuchus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="183">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Carvalho_etal_2004a</Filename>
+	<Parent>Ortega_etal_2000a</Parent>
+	<Sibling/>
+</SourceTree>

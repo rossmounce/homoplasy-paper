@@ -1,0 +1,73 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Yates, A. M.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>A new theropod dinosaur from the Early Jurassic of South Africa and its implications for the early evolution of theropods</Title>
+		<Journal>Palaeontologia Africana</Journal>
+		<Volume>41</Volume>
+		<Pages>105-122</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="39">
+		<List>Euparkeria</List>
+		<List>Marasuchus</List>
+		<List>Ornithischia</List>
+		<List>Eoraptor</List>
+		<List>Sauropodomorpha</List>
+		<List>Dilophosaurus</List>
+		<List>Zupaysaurus</List>
+		<List>Dracovenator</List>
+		<List>Coelophysis_bauri</List>
+		<List>Gojirasaurus</List>
+		<List>Segisaurus</List>
+		<List>Coelophysis_rhodesiensis</List>
+		<List>S._kayentakatae</List>
+		<List>L.airelensis</List>
+		<List>L.liliensterni</List>
+		<List>Magnosaurus</List>
+		<List>Monolophosaurus</List>
+		<List>Piatnitzkysaurus</List>
+		<List>Proceratosaurus</List>
+		<List>S._zigongensis</List>
+		<List>Allosaurus</List>
+		<List>Ceratosaurus</List>
+		<List>Elaphrosaurus</List>
+		<List>Sinraptoridae</List>
+		<List>Afrovenator</List>
+		<List>Neovenator</List>
+		<List>Deltadromeus</List>
+		<List>Abelisauridae</List>
+		<List>Acrocanthosaurus</List>
+		<List>Carcharodontosauridae</List>
+		<List>other_coelurosaurs</List>
+		<List>P._valesdunensis</List>
+		<List>Masiakosaurus</List>
+		<List>Tugulusaurus</List>
+		<List>Torvosaurus</List>
+		<List>Chilantaisaurus</List>
+		<List>Spinosauridae</List>
+		<List>Herrerasaurus</List>
+		<List>Staurikosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="252">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Yates_2005a</Filename>
+	<Parent>Rauhut_2003a</Parent>
+	<Sibling/>
+</SourceTree>

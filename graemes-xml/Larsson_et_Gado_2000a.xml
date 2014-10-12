@@ -1,0 +1,71 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Larsson, H. C. E.</List>
+			<List>Gado, B.</List>
+		</Author>
+		<Year>2000</Year>
+		<Title>A new Early Cretaceous crocodyliform from Niger</Title>
+		<Journal>Neues Jahrbuch fur Geologie und Palaontologie Abhandlungen</Journal>
+		<Volume>217</Volume>
+		<Pages>131-141</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="36">
+		<List>Postosuchus</List>
+		<List>Sphenosuchus</List>
+		<List>Dibothrosuchus</List>
+		<List>Protosuchus</List>
+		<List>Hemiprotosuchus</List>
+		<List>Kayenta_taxon</List>
+		<List>Orthosuchus</List>
+		<List>Gobiosuchus</List>
+		<List>Pelagosaurus</List>
+		<List>Teleaauridae</List>
+		<List>Metriorhynchidae</List>
+		<List>Fruita_taxon</List>
+		<List>Notosuchus</List>
+		<List>Baurusuchus</List>
+		<List>Sebecus</List>
+		<List>Libycowchus</List>
+		<List>Araripesuchus</List>
+		<List>Theriosuchus</List>
+		<List>Alligatorium</List>
+		<List>Eutretauranosuchus</List>
+		<List>Goniopholis</List>
+		<List>Phalidosaurus</List>
+		<List>Dyrosaurus</List>
+		<List>Bernissartia</List>
+		<List>Leidyosuchus</List>
+		<List>Gavialis</List>
+		<List>Crocodylinae</List>
+		<List>Alligatorinae</List>
+		<List>Shantungosuchus</List>
+		<List>Sichuanosuchus</List>
+		<List>Hsisosuchus</List>
+		<List>Sunosuchus</List>
+		<List>Gracilisuchus</List>
+		<List>Stolokrosuchus</List>
+		<List>Peirosaurus</List>
+		<List>Lomasuchus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="128">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Larsson_et_Gado_2000a</Filename>
+	<Parent>Wu_etal_1997a</Parent>
+	<Sibling/>
+</SourceTree>

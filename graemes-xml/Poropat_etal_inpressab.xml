@@ -1,0 +1,104 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Poropat, S. F.</List>
+			<List>Upchurch, P.</List>
+			<List>Mannion, P. D.</List>
+			<List>Hocknull, S. A.</List>
+			<List>Kear, B. P.</List>
+			<List>Sloan, T.</List>
+			<List>Sinapius, G. H. K.</List>
+			<List>Elliott, D. A.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>Revision of the sauropod dinosaur <em>Diamantinasaurus matildae</em> Hocknull et al. 2009 from the mid-Cretaceous of Australia: implications for Gondwanan titanosauriform dispersal</Title>
+		<Journal>Gondwana Research</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="63">
+		<List>Shunosaurus</List>
+		<List>Omeisaurus</List>
+		<List>Mamenchisaurus</List>
+		<List>Camarasaurus</List>
+		<List>Nigersaurus</List>
+		<List>Apatosaurus</List>
+		<List>Diplodocus</List>
+		<List>Abydosaurus</List>
+		<List>Alamosaurus</List>
+		<List>Andesaurus</List>
+		<List>Angolatitan</List>
+		<List>Aragosaurus</List>
+		<List>Astrophocaudia</List>
+		<List>Atlasaurus</List>
+		<List>Australodocus</List>
+		<List>Baotianmansaurus</List>
+		<List>Brachiosaurus</List>
+		<List>Brontomerus</List>
+		<List>Cedarosaurus</List>
+		<List>Chubutisaurus</List>
+		<List>Cloverly_titanosauriform</List>
+		<List>Daxiatitan</List>
+		<List>Diamantinasaurus</List>
+		<List>Dongbeititan</List>
+		<List>Dongyangosaurus</List>
+		<List>Erketu</List>
+		<List>Euhelopus</List>
+		<List>Europasaurus</List>
+		<List>French_Bothriospondylus</List>
+		<List>Fukuititan</List>
+		<List>Fusuisaurus</List>
+		<List>Galveosaurus</List>
+		<List>Giraffatitan</List>
+		<List>Gobititan</List>
+		<List>HMN_MB_dot_R_dot_2091_dot_1_dash_30</List>
+		<List>Huanghetitan_liujiaxiaensis</List>
+		<List>Huanghetitan_ruyangensis</List>
+		<List>Janenschia</List>
+		<List>Jiangshanosaurus</List>
+		<List>Lapparentosaurus</List>
+		<List>Ligabuesaurus</List>
+		<List>Liubangosaurus</List>
+		<List>Lusotitan</List>
+		<List>Malarguesaurus</List>
+		<List>Malawisaurus</List>
+		<List>Mongolosaurus</List>
+		<List>Opisthocoelicaudia</List>
+		<List>Paluxysaurus</List>
+		<List>Pelorosaurus_becklesii</List>
+		<List>Phuwiangosaurus</List>
+		<List>Qiaowanlong</List>
+		<List>Rapetosaurus</List>
+		<List>Ruyangosaurus</List>
+		<List>Saltasaurus</List>
+		<List>Sauroposeidon</List>
+		<List>Sonorasaurus</List>
+		<List>Tangvayosaurus</List>
+		<List>Tastavinsaurus</List>
+		<List>Tehuelchesaurus</List>
+		<List>Tendaguria</List>
+		<List>Venenosaurus</List>
+		<List>Wintonotitan</List>
+		<List>Xianshanosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="279">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Poropat_etal_inpressab</Filename>
+	<Parent>Mannion_etal_inpressb</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lieberman, B. S.</List>
+			<List>Edgecombe, G. D.</List>
+			<List>Eldredge, N.</List>
+		</Author>
+		<Year>1991</Year>
+		<Title>Systematics and biogeography of the &quot;<em>Malvinella</em> Group,&quot; Calmoniidae (Trilobita, Devonian)</Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>65</Volume>
+		<Pages>824-843</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>M_giganteus</List>
+		<List>Metacryphaeus_tuberculatus</List>
+		<List>Plesiomalvinella_boulei</List>
+		<List>Plesiomalvinella_pujravii</List>
+		<List>Parabouleia</List>
+		<List>Bouleia</List>
+		<List>australis</List>
+		<List>buddeae</List>
+		<List>haugi</List>
+		<List>donegalenus</List>
+		<List>gemellus</List>
+		<List>goeldi</List>
+		<List>aspera</List>
+		<List>lacunafera</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="51">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lieberman_etal_1991a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

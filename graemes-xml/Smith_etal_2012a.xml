@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Smith, A. S.</List>
+			<List>Araujo, R.</List>
+			<List>Mateus, O.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>A new plesiosauroid from the Toarcian (Lower Jurassic) of Alhadas, Portugal</Title>
+		<Journal>Acta Palaeontologica Polonica</Journal>
+		<Volume>57</Volume>
+		<Pages>257-266</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Pistosaurus</List>
+		<List>Thalassiodracon</List>
+		<List>Plesiosaurus</List>
+		<List>Cryptoclidus</List>
+		<List>Kimmerosaurus</List>
+		<List>SMNS16812</List>
+		<List>Seeleyosaurus</List>
+		<List>Muraenosaurus</List>
+		<List>Occitanosaurus</List>
+		<List>Hydrorion</List>
+		<List>Microcleidus</List>
+		<List>Brancasaurus</List>
+		<List>Libonectes</List>
+		<List>Lusonectes</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="33">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Smith_etal_2012a</Filename>
+	<Parent>Grossmann_2007a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Rieppel, O.</List>
+			<List>Zanon, R. T.</List>
+		</Author>
+		<Year>1996</Year>
+		<Title>The interrelationships of Placodontia</Title>
+		<Journal>Historical Biology</Journal>
+		<Volume>12</Volume>
+		<Pages>211-227</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List>Ancestor</List>
+		<List>Claudiosaurus</List>
+		<List>Youngina</List>
+		<List>Pachypleurosaur</List>
+		<List>Eusauropterygia</List>
+		<List>Paraplacodus</List>
+		<List>Placodus</List>
+		<List>Cyamodus</List>
+		<List>Psephoderma</List>
+		<List>Placochelys</List>
+		<List>Henodus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="31">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Rieppel_et_Zanon_1997a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

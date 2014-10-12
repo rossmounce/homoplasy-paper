@@ -1,0 +1,77 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Cavin, L.</List>
+			<List>Gradinaru, E.</List>
+		</Author>
+		<Year>2014</Year>
+		<Title><em>Dobrogeria aegyssensis</em>, a new early Spathian (Early Triassic) coelacanth from North Dobrogea (Romania)</Title>
+		<Journal>Acta Geologica Polonica</Journal>
+		<Volume>64</Volume>
+		<Pages>161-187</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="42">
+		<List>Actinopterygians</List>
+		<List>Porolepiforms</List>
+		<List>Diplocercides</List>
+		<List>Rhabdoderma</List>
+		<List>Caridosuctor</List>
+		<List>Hadronector</List>
+		<List>Rebellatrix</List>
+		<List>Polyosteorhynchus</List>
+		<List>Allenypterus</List>
+		<List>Lochmocercus</List>
+		<List>Coelacanthus</List>
+		<List>Spermatodus</List>
+		<List>Whiteia</List>
+		<List>Laugia</List>
+		<List>Sassenia</List>
+		<List>Chinlea</List>
+		<List>Diplurus</List>
+		<List>Holophagus</List>
+		<List>Undina</List>
+		<List>Coccoderma</List>
+		<List>Libys</List>
+		<List>Mawsonia</List>
+		<List>Macropoma</List>
+		<List>Lotimeria</List>
+		<List>Miguashaia</List>
+		<List>Axelrodichthys</List>
+		<List>Holopterygius</List>
+		<List>Garnbergia</List>
+		<List>Parnaibaia</List>
+		<List>Swenzia</List>
+		<List>Guizhoucoelacanthus</List>
+		<List>Plveteauia</List>
+		<List>Euporosteus</List>
+		<List>Axelia</List>
+		<List>Wimania</List>
+		<List>Ticinepomis</List>
+		<List>Megalocoelacanthus</List>
+		<List>Luopingcoelacanthus</List>
+		<List>Yunnancoelacanthus</List>
+		<List>Indocoelacanthus</List>
+		<List>Lualabea</List>
+		<List>Dobrogeria</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="110">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Cavin_et_Gradinaru_2014a</Filename>
+	<Parent>Forey_1998aa</Parent>
+	<Sibling/>
+</SourceTree>

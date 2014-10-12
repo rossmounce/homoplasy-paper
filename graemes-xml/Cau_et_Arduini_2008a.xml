@@ -1,0 +1,71 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Cau, A.</List>
+			<List>Arduini, P.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title><em>Enantiophoenix electrophyla</em> gen. et sp. nov. (Aves, Enantiornithes) from the Upper Cretaceous (Cenomanian) of Lebanon and its phylogenetic relationships</Title>
+		<Journal>Atti della Societa Italiana di Scienze Naturali e del Museo Civico di Storia Naturale in Milano</Journal>
+		<Volume>149</Volume>
+		<Pages>293-324</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="36">
+		<List>Archaeopteryx</List>
+		<List>Jeholornis</List>
+		<List>Sapeornis</List>
+		<List>Confuciusornis</List>
+		<List>Vorona</List>
+		<List>Patagopteryx</List>
+		<List>Hongshanornis</List>
+		<List>Archaeorhynchus</List>
+		<List>Aberratiodontus</List>
+		<List>Yanornis</List>
+		<List>Yixianornis</List>
+		<List>Apsaravis</List>
+		<List>Gansus</List>
+		<List>Ichthyornis</List>
+		<List>Neornithes</List>
+		<List>Iberomesornis</List>
+		<List>Protopteryx</List>
+		<List>Elsornis</List>
+		<List>Dalingheornis</List>
+		<List>Eoalulavis</List>
+		<List>Eocathayornis</List>
+		<List>Sinornis</List>
+		<List>MSNM_V3882</List>
+		<List>Halimornis</List>
+		<List>Concornis</List>
+		<List>Neuquenornis</List>
+		<List>Avisaurus</List>
+		<List>Soroavisaurus</List>
+		<List>CAGS_IG_02_0901</List>
+		<List>CAGS_IG_04_CM_007</List>
+		<List>Eoenantiornis</List>
+		<List>Longipteryx</List>
+		<List>Longirostravis</List>
+		<List>Vescornis</List>
+		<List>Boluochia</List>
+		<List>Gobipteryx</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="192">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Cau_et_Arduini_2008a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

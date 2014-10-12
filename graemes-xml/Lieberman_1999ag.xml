@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lieberman, B. S.</List>
+		</Author>
+		<Year>1999</Year>
+		<Title>Systematic revision of the Olenelloidea (Trilobita, Cambrian)</Title>
+		<Journal>Bulletin of the Peabody Museum of Natural History</Journal>
+		<Volume>45</Volume>
+		<Pages>1-150</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List>Laudonia_bispinata</List>
+		<List>Laudonia_amputata</List>
+		<List>Lochmanolenellus_mexicana</List>
+		<List>Fremontella_halli</List>
+		<List>Bristolia_bristolensis</List>
+		<List>Bristolia_insolens</List>
+		<List>Bristolia_anteros</List>
+		<List>Bristolia_sp</List>
+		<List>Bristolia_mohavensis</List>
+		<List>Bristolia_harringtoni</List>
+		<List>Bristolia_fragilis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="17">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lieberman_1999ag</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

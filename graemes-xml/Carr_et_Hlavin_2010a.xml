@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Carr, R. K.</List>
+			<List>Hlavin, W. J.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>Two new species of <em>Dunkleosteus</em> Lehman, 1956, from the Ohio Shale Formation (USA, Famennian) and the Kettle Point Formation (Canada, Upper Devonian), and a cladistic analysis of the Eubrachythoraci (Placodermi, Arthrodira)</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>159</Volume>
+		<Pages>195-222</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="23">
+		<List>Dicksonosteus</List>
+		<List>Buchanosteus</List>
+		<List>Holonema</List>
+		<List>Homostius</List>
+		<List>Camuropiscis</List>
+		<List>Coccosteus</List>
+		<List>Dinichthys</List>
+		<List>Dunkleosteus_terrelli</List>
+		<List>Dunkleosteus_raveri_sp_nov</List>
+		<List>Dunkleosteus_amblyodoratus_sp_nov</List>
+		<List>Eastmanosteus_calliaspis</List>
+		<List>Eastmanosteus_pustulosus</List>
+		<List>Golshanichthys</List>
+		<List>Gorgonichthys</List>
+		<List>Gymnotrachelus</List>
+		<List>Hadrosteus</List>
+		<List>Harrytoombsia</List>
+		<List>Heintzichthys</List>
+		<List>Janiosteus</List>
+		<List>Kiangyousteus</List>
+		<List>Panxiosteus</List>
+		<List>Rhinosteus</List>
+		<List>Westralichthys</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="98">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Carr_et_Hlavin_2010a</Filename>
+	<Parent>Carr_1991a</Parent>
+	<Sibling/>
+</SourceTree>

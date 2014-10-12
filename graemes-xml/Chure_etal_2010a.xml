@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Chure, D.</List>
+			<List>Britt, B. B.</List>
+			<List>Whitlock, J. A.</List>
+			<List>Wilson, J. A.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>First complete sauropod dinosaur skull from the Cretaceous of the Americas and the evolution of sauropod dentition</Title>
+		<Journal>Naturwissenschaften</Journal>
+		<Volume>97</Volume>
+		<Pages>379-391</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List>Shunosaurus</List>
+		<List>Omeisaurus</List>
+		<List>Haplocanthosaurus</List>
+		<List>Jobaria</List>
+		<List>Flagellicaudata</List>
+		<List>Rebbachisauridae</List>
+		<List>Camarasaurus</List>
+		<List>Brachiosaurus</List>
+		<List>Abydosaurus</List>
+		<List>Euhelopus</List>
+		<List>Malawisaurus</List>
+		<List>Lithostrotia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="151">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Chure_etal_2010a</Filename>
+	<Parent>Wilson_2002a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,68 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Qiao, T.</List>
+			<List>Zhu, M.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>A new tooth-plated lungfish from the Middle Devonian of Yunnan, China, and its phylogenetic relationships</Title>
+		<Journal>Acta Zoologica</Journal>
+		<Volume>90</Volume>
+		<Pages>236-252</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="33">
+		<List>Psarolepis_romeri</List>
+		<List>Youngolepis_praecursor</List>
+		<List>Diabolepis_speratus</List>
+		<List>Chirodipterus_australis</List>
+		<List>Chirodipterus_liangchengi</List>
+		<List>Chirodipterus_wildungensis</List>
+		<List>Dipnorhynchus_sussmilchi</List>
+		<List>Dipterus_valenciennesi</List>
+		<List>Gogodipterus_paddyensis</List>
+		<List>Griphognathus_minutidens</List>
+		<List>Holodipterus_gogoensis</List>
+		<List>Melanognathus_canadensis</List>
+		<List>Orlovichthys_limnatis</List>
+		<List>Pillararhynchus_longi</List>
+		<List>Soederberghia_groenlandica</List>
+		<List>Sorbitorhynchus_deleaskitus</List>
+		<List>Stomiahykus_thlaodus</List>
+		<List>Uranolophus_wyomingensis</List>
+		<List>Speonesydrion_iani</List>
+		<List>Westollrhynchus_lehmanni</List>
+		<List>Jessenia_concentrica</List>
+		<List>Fleurantia_denticulate</List>
+		<List>Scaumenacia_curta</List>
+		<List>Howidipterus_donnae</List>
+		<List>Barwickia_downunda</List>
+		<List>Andreyevichthys_epitomes</List>
+		<List>Rhinodipterus_ulr</List>
+		<List>Adelargo_schultzei</List>
+		<List>Ichnomylax_kurnai</List>
+		<List>Adololopas_moyasmithae</List>
+		<List>Tarachomylax_oepiki</List>
+		<List>Iowadipterus_halli</List>
+		<List>Sinodipterus_beibei</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="150">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Qiao_et_Zhu_2009a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

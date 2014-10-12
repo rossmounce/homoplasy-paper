@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lieberman, B. S.</List>
+		</Author>
+		<Year>1994</Year>
+		<Title>Evolution of the trilobite subfamily Proetinae Salter, 1864, and the origin, diversification, evolutionary affinity, and extinction of the Middle Devonian proetid fauna of eastern North America</Title>
+		<Journal>Bulletin of the American Museum of Natural History</Journal>
+		<Volume>223</Volume>
+		<Pages>1-176</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="19">
+		<List>Lacunoporaspis_norrisi</List>
+		<List>Pedinodechenella_modelli</List>
+		<List>DecheneIla_perscheii</List>
+		<List>Dechenella_bathurstensis</List>
+		<List>Dechenella_algida</List>
+		<List>Dechenella_osborni</List>
+		<List>Dechenella_maclareni</List>
+		<List>Dechenella_haldemani</List>
+		<List>Dechenella_alpenensis</List>
+		<List>Dechenella_vaIentini</List>
+		<List>Dechenella_setosa</List>
+		<List>Dechenella_rittbergensis</List>
+		<List>Dechenella_verneuili</List>
+		<List>Dechenella_struvei</List>
+		<List>Dechenella_gigouti</List>
+		<List>Dechenella_planimarginata</List>
+		<List>Dechenella_wehleri</List>
+		<List>Dechenella_polonica</List>
+		<List>Dechenella_carvalhoae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="49">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lieberman_1994ac</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

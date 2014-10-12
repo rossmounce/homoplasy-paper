@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Modesto, S.</List>
+			<List>Sues, H.-D.</List>
+			<List>Damiani, R.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>A new Triassic procolophonoid reptile and its implications for procolophonoid survivorship during the Permo-Triassic extinction event</Title>
+		<Journal>Proceedings of the Royal Society of London B</Journal>
+		<Volume>268</Volume>
+		<Pages>2047-2052</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="10">
+		<List>Marcoleter</List>
+		<List>O_rubidgei</List>
+		<List>Owenetta_sp</List>
+		<List>Barasaurus</List>
+		<List>Coletta</List>
+		<List>Contritosaurus</List>
+		<List>Tichvinskia</List>
+		<List>Procolophon</List>
+		<List>Hypsognathus</List>
+		<List>Sauropareion</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="25">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Modesto_etal_2001b</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

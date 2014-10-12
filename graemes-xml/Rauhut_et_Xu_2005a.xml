@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Rauhut, O. W. M.</List>
+			<List>Xu, X.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>The small theropod dinosaurs Tugulusaurus and Phaedrolosaurus from the Early Cretaceous of Xinjiang, China</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>25</Volume>
+		<Pages>107-118</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="17">
+		<List>Allosaurus</List>
+		<List>Tugulusaurus</List>
+		<List>Coelurus</List>
+		<List>Compsognathidae</List>
+		<List>Nqwebasaurus</List>
+		<List>Ornitholestes</List>
+		<List>Ornithomimosauria</List>
+		<List>Tyrannosauridae</List>
+		<List>Aves</List>
+		<List>Dromaeosauridae</List>
+		<List>Troodontidae</List>
+		<List>Bagaraatan</List>
+		<List>Xinjiangovenator</List>
+		<List>Oviraptorosauria</List>
+		<List>Therizinosauroidea</List>
+		<List>Ceratosaurus</List>
+		<List>Dilophosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="136">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Rauhut_et_Xu_2005a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

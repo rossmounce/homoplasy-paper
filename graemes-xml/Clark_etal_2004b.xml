@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Clark, J. M.</List>
+			<List>Xu, X.</List>
+			<List>Forster, C. A.</List>
+			<List>Wang, Y.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>A Middle Jurassic 'sphenosuchian' from China and the origin of the crocodylian skull</Title>
+		<Journal>Nature</Journal>
+		<Volume>430</Volume>
+		<Pages>1021-1024</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="17">
+		<List>Stagonolepis</List>
+		<List>Gracilisuchus</List>
+		<List>Postosuchus</List>
+		<List>Erpetosuchus</List>
+		<List>Litargosuchus</List>
+		<List>Pseudhesperosuchus</List>
+		<List>Hesperosuchus</List>
+		<List>Saltoposuchus</List>
+		<List>Terrestrisuchus</List>
+		<List>Kayentasuchus</List>
+		<List>Dromicosuchus</List>
+		<List>Sphenosuchus</List>
+		<List>Dibothrosuchus</List>
+		<List>Junggarsuchus</List>
+		<List>Protosuchus</List>
+		<List>Gobiosuchus</List>
+		<List>Alligator</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="55">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Clark_etal_2004b</Filename>
+	<Parent>Sues_etal_2003a</Parent>
+	<Sibling/>
+</SourceTree>

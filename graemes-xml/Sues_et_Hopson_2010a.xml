@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sues, H.-D.</List>
+			<List>Hopson, J. A.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>Anatomy and phylogenetic relationships of <em>Boreogomphodon jeffersoni</em> (Cynodontia: Gomphodontia) from the Upper Triassic of Virginia</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>30</Volume>
+		<Pages>1202-1220</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="21">
+		<List>Procynosuchus</List>
+		<List>Thrinaxodon</List>
+		<List>Cynognathus</List>
+		<List>Diademodon</List>
+		<List>Trirachodon</List>
+		<List>Pascualgnathus</List>
+		<List>Scalenodon_angustifrons</List>
+		<List>Scalenodon_hirschsoni</List>
+		<List>Luangwa</List>
+		<List>Boreogomphodon</List>
+		<List>Massetognathus</List>
+		<List>Gomphodontosuchus</List>
+		<List>Exaeretodon</List>
+		<List>Traversodon</List>
+		<List>Arctotraversodon</List>
+		<List>Nanogomphodon</List>
+		<List>Andescynodon</List>
+		<List>Menadon</List>
+		<List>Dadadon</List>
+		<List>Santacruzodon</List>
+		<List>Scalenodontoides</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="36">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sues_et_Hopson_2010a</Filename>
+	<Parent>Hopson_et_Kitching_2001a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Cheng, L.</List>
+			<List>Chen, X.-H.</List>
+			<List>Zhang, B.-M.</List>
+			<List>Cai, Y.-J.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>New study of <em>Anshunsaurus huangnihensis</em> Cheng, 2007 (Reptilia: Thalattosauria): revealing its traditional position in Askeptosauridae</Title>
+		<Journal>Acta Geologica Sinica</Journal>
+		<Volume>85</Volume>
+		<Pages>1231-1237</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="15">
+		<List>Araeoscelidia</List>
+		<List>Younginiformes</List>
+		<List>Askeptosaurus</List>
+		<List>Thalattosaurus</List>
+		<List>Anshunsaurus_huangguoshuensis</List>
+		<List>Anshunsaurus_wushaensis</List>
+		<List>Clarazia</List>
+		<List>Hescheleria</List>
+		<List>Xinpusaurus</List>
+		<List>Nectosaurus</List>
+		<List>Paralonectes</List>
+		<List>Agkistrognathus</List>
+		<List>Endennasaurus</List>
+		<List>Miodentosaurus</List>
+		<List>Anshunsaurus_huangnihensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="42">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Cheng_etal_2011a</Filename>
+	<Parent>Wu_etal_2009a</Parent>
+	<Sibling/>
+</SourceTree>

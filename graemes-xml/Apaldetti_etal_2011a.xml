@@ -1,0 +1,91 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Apaldetti, C.</List>
+			<List>Martinez, R. N.</List>
+			<List>Alcober, O. A.</List>
+			<List>Pol, D.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>A new basal sauropodomorph (Dinosauria: Saurischia) from Quebrada del Barro Formation (Marayes-El Carrizal Basin), northwestern Argentina</Title>
+		<Journal>PLoS One</Journal>
+		<Volume>6</Volume>
+		<Pages>1-19</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="54">
+		<List>Euparkeria</List>
+		<List>Crurotarsi</List>
+		<List>Marasuchus</List>
+		<List>Silesaurus</List>
+		<List>Ornithischia</List>
+		<List>Eoraptor</List>
+		<List>Agnosphitys</List>
+		<List>Pantydraco</List>
+		<List>Thecodontosaurus</List>
+		<List>Efraasia</List>
+		<List>Plateosauravus</List>
+		<List>Ruehleia</List>
+		<List>Jingshanosaurus</List>
+		<List>Yunnanosaurus</List>
+		<List>Seitaad</List>
+		<List>Anchisaurus</List>
+		<List>Aardonyx</List>
+		<List>Blikanasaurus</List>
+		<List>Camelotia</List>
+		<List>Melanorosaurus</List>
+		<List>Antetonitrus</List>
+		<List>Lessemsaurus</List>
+		<List>Gongxianosaurus</List>
+		<List>Isanosaurus</List>
+		<List>Tazoudasaurus</List>
+		<List>Vulcanodon</List>
+		<List>Barapasaurus</List>
+		<List>Mamenchisaurus</List>
+		<List>Omeisaurus</List>
+		<List>Patagosaurus</List>
+		<List>Shunosaurus</List>
+		<List>Cetiosaurus</List>
+		<List>Neosauropoda</List>
+		<List>Massospondylus</List>
+		<List>Adeopapposaurus</List>
+		<List>Leyesaurus</List>
+		<List>Coloradisaurus</List>
+		<List>Glacialisaurus</List>
+		<List>Lufengosaurus</List>
+		<List>Ignavusaurus</List>
+		<List>Sarahsaurus</List>
+		<List>Eucnemosaurus</List>
+		<List>Riojasaurus</List>
+		<List>Unaysaurus</List>
+		<List>Plateosaurus_gracilis</List>
+		<List>Plateosaurus_engelhardti</List>
+		<List>Plateosaurus_ingens</List>
+		<List>Chromogisaurus</List>
+		<List>Saturnalia</List>
+		<List>Guaibasaurus</List>
+		<List>Chindesaurus</List>
+		<List>Neotheropoda</List>
+		<List>Herrerasaurus</List>
+		<List>Staurikosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="361">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Apaldetti_etal_2011a</Filename>
+	<Parent>Yates_etal_2010ab</Parent>
+	<Sibling/>
+</SourceTree>

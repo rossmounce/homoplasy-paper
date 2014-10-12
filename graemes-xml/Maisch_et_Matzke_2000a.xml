@@ -1,0 +1,68 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Maisch, M. W.</List>
+			<List>Matzke, A. T.</List>
+		</Author>
+		<Year>2000</Year>
+		<Title>The Ichthyosauria</Title>
+		<Journal>Stuttgarter Beitrage zur Naturkunde Serie B (Geologie und Palaontologie)</Journal>
+		<Volume>298</Volume>
+		<Pages>1-159</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="33">
+		<List>Allzero</List>
+		<List>Thaisaurus</List>
+		<List>Utatsusaurus</List>
+		<List>Grippia</List>
+		<List>Chaohusaurus</List>
+		<List>Parvinatator</List>
+		<List>Wimanius</List>
+		<List>Mixosaurus</List>
+		<List>Phalarodon</List>
+		<List>Contectopalatus</List>
+		<List>Toretocnemus</List>
+		<List>Qianichthyosaurus</List>
+		<List>Cymbospondylus</List>
+		<List>Phantomosaurus</List>
+		<List>Besanosaurus</List>
+		<List>Shastasaurus</List>
+		<List>Shonisaurus</List>
+		<List>Mikadocephalus</List>
+		<List>Californosaurus</List>
+		<List>Callawayia</List>
+		<List>Macgowania</List>
+		<List>Hudsonelpidia</List>
+		<List>Temnodontosaurus</List>
+		<List>Leptonectes</List>
+		<List>Eurhinosaurus</List>
+		<List>Suevoleviathan</List>
+		<List>Ichthyosaurus</List>
+		<List>Stenopterygius</List>
+		<List>Aegirosaurus</List>
+		<List>Brachypterygius</List>
+		<List>Platypterygius</List>
+		<List>Ophthalmosaurus</List>
+		<List>Caypullisaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="128">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Maisch_et_Matzke_2000a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,69 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Spielmann, J. A.</List>
+			<List>Lucas, S. G.</List>
+			<List>Rineheart, L. F.</List>
+			<List>Heckert, A. B.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>The Late Triassic archosauromorph <em>Trilophosaurus</em></Title>
+		<Journal>Bulletin of the New Mexico Museum of Natural History &amp; Science</Journal>
+		<Volume>43</Volume>
+		<Pages>1-</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="32">
+		<List>Ancestor</List>
+		<List>Casea</List>
+		<List>Ophiacodon</List>
+		<List>Edaphosaurus</List>
+		<List>Sphenacodontinae</List>
+		<List>Biarmosuchia</List>
+		<List>Dinocephalia</List>
+		<List>Gorgonopsia</List>
+		<List>Dicynodontia</List>
+		<List>Therocephalia</List>
+		<List>Procynosuchus</List>
+		<List>Thrinaxodon</List>
+		<List>Diademodon</List>
+		<List>Exaeretodon</List>
+		<List>Tritylodontidae</List>
+		<List>Morganucodontidae</List>
+		<List>Mammalia</List>
+		<List>Testudines</List>
+		<List>Captorhinidae</List>
+		<List>Araeoscelidia</List>
+		<List>Lepidosauromorpha</List>
+		<List>Rhynchosauria</List>
+		<List>Trilophosaurus</List>
+		<List>Choristodera</List>
+		<List>Protorosauria</List>
+		<List>Proterosuchidae</List>
+		<List>Erythrosuchidae</List>
+		<List>Proterochampsidae</List>
+		<List>Pseudosuchia</List>
+		<List>Ornithosuchia</List>
+		<List>T_buettneri</List>
+		<List>T_jacobsi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="207">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Spielman_etal_2008aa</Filename>
+	<Parent>Gauthier_etal_1988a</Parent>
+	<Sibling/>
+</SourceTree>

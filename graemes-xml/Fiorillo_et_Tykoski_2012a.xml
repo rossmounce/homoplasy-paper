@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Fiorillo, A. R.</List>
+			<List>Tykoski, R. S.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>A new species of the centrosaurine ceratopsid Pachyrhinosaurus from the North Slope (Prince Creek Formation: Maastrichtian) of Alaska</Title>
+		<Journal>Acta Palaeontologica Polonica</Journal>
+		<Volume>57</Volume>
+		<Pages>561-573</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="16">
+		<List>Protoceratops</List>
+		<List>Zuniceratops</List>
+		<List>Chasmosaurus</List>
+		<List>Triceratops</List>
+		<List>Diabloceratops</List>
+		<List>Albertaceratops</List>
+		<List>C._brinkmani</List>
+		<List>C._apertus</List>
+		<List>Styracosaurus</List>
+		<List>Rubeosaurus</List>
+		<List>Einiosaurus</List>
+		<List>Achelousaurus</List>
+		<List>TMP_2002.76.1</List>
+		<List>P._lakustai</List>
+		<List>P._canadensis</List>
+		<List>P._perotorum</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="54">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Fiorillo_et_Tykoski_2012a</Filename>
+	<Parent>Currie_etal_2008a</Parent>
+	<Sibling/>
+</SourceTree>

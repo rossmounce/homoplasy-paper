@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Godefroit, P.</List>
+			<List>Dong, Z.-M.</List>
+			<List>Bultynck, P.</List>
+			<List>Li, H.</List>
+			<List>Feng, L.</List>
+			<List>Shang, C.-Y.</List>
+			<List>Guo, D.-Y.</List>
+			<List>Dong, Y.-L.</List>
+			<List>Sun, Y.</List>
+			<List>Zhang, Z.-M.</List>
+			<List>De Potter, H.</List>
+			<List>Lenglet, G.</List>
+			<List>Smith, T.</List>
+			<List>Dermience, E.</List>
+		</Author>
+		<Year>1998</Year>
+		<Title>Sino-Belgian Cooperation Program - Cretaceous Dinosaurs and Mammals from Inner Mongolia. 1. New Bactrosaurus (Dinosauria: Hadrosauroidea) material from Iren Dabasu (Inner Mongolia, P. R. China)</Title>
+		<Journal>Bulletin Institut royal des sciences naturelles de Belgique: Sciences de la terre</Journal>
+		<Volume>68</Volume>
+		<Pages>3-70</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="8">
+		<List>Hypsilophodon</List>
+		<List>Camptosaurus</List>
+		<List>Iguanodon</List>
+		<List>Ouranosaurus</List>
+		<List>Bactrosaurus</List>
+		<List>Telmatosaurus</List>
+		<List>Hadrosaurinae</List>
+		<List>Lambeosaurinae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="56">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Godefroit_etal_1998a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

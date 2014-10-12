@@ -1,0 +1,80 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Westrop, S. R.</List>
+			<List>Ludvigsen, R.</List>
+			<List>Kindle, C. H.</List>
+		</Author>
+		<Year>1996</Year>
+		<Title>Marjuman (Cambrian) agnostoid trilobites of the Cow Head Group, western Newfoundland</Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>70</Volume>
+		<Pages>804-829</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="44">
+		<List>Agnostus_pisiformis_Belt</List>
+		<List>Peronopsis_brighamensis_Resser</List>
+		<List>Agnostus_punctuosus_Angelin</List>
+		<List>Agnostus_affinis_Brogger</List>
+		<List>Zeteagnostus_incautus_Opik</List>
+		<List>Zeteagnostus_scarifatus_Opik</List>
+		<List>Acidusus_atavus_Tullberg</List>
+		<List>Acidusus_acidusus_Opik</List>
+		<List>Acidusus_germanus_Opik</List>
+		<List>Acidusus_occultutus_Opik</List>
+		<List>Ptychagnostus_michueli_Robison</List>
+		<List>Ptychagnostus_akanthodes_Robiso</List>
+		<List>Ptychagnostus_cassis_Opik</List>
+		<List>Agnostus_aculeatus_Angelin</List>
+		<List>Agnostus_hybridus_Broggger</List>
+		<List>Agnostus_serninulu_Whitehouse</List>
+		<List>Onymagnostus_semiermis_Opik</List>
+		<List>Agnostus_praecurrens_WestergArd</List>
+		<List>Agnostus_gibbus_Linnarsson</List>
+		<List>Triplagnostus_scopus_Opik</List>
+		<List>Triplagnostus_ultimus_Opik</List>
+		<List>Aotagnostus_culminosus_Opik</List>
+		<List>Aotagnostus_aotus_Opik</List>
+		<List>Aotagnostus_magniceps_Opik</List>
+		<List>Myrmecomimus_tribulis_Opik</List>
+		<List>Myrmecomimus_saltus_Opik</List>
+		<List>Agnostus_nathorsti_Brogger</List>
+		<List>Goniagnostus_scarabaeus_Whiteho</List>
+		<List>Agnostus_spiniger_Westergard</List>
+		<List>Cryotypus_oxytaurus_Opik</List>
+		<List>Cryotypus_lemniscatus_Opik</List>
+		<List>Agnostus_fissus_Linnarsson</List>
+		<List>Agnostus_perrugatus_Gronwall</List>
+		<List>Lejopyge_acantha_Robison</List>
+		<List>Agnostus_armatus_Linnarsson</List>
+		<List>Lejopyge_calva_Robison</List>
+		<List>Battus_laevigatus_Dalman</List>
+		<List>Lejopyge_multifora_Opik</List>
+		<List>Phalacroma_dubium_Whitehouse</List>
+		<List>Agnostus_lundgreni_Tullberg</List>
+		<List>Lejopyge_rigbyi_Robison</List>
+		<List>Tomagnostus_bothrus_Robison</List>
+		<List>Agnostus_elegans_Tullberg</List>
+		<List>Agnostus_barrandei_Hicks</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="28">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Westrop_etal_1996ab</Filename>
+	<Parent/>
+	<Sibling>Westrop_etal_1996aa</Sibling>
+</SourceTree>

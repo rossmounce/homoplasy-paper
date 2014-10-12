@@ -1,0 +1,79 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Wang, R.-F.</List>
+			<List>You, H.-L.</List>
+			<List>Xu, S.-C.</List>
+			<List>Wang, S.-Z.</List>
+			<List>Yi, J.</List>
+			<List>Xie, L.-J.</List>
+			<List>Jia, L.</List>
+			<List>Li, Y.-X.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>A new hadrosauroid dinosaur from the early Late Cretaceous of Shanxi Province, China</Title>
+		<Journal>PLOS ONE</Journal>
+		<Volume>8</Volume>
+		<Pages>e77058</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="38">
+		<List>Hypsilophodon</List>
+		<List>Iguanodon</List>
+		<List>Ouranosaurus</List>
+		<List>Fukuisaurus</List>
+		<List>Altirhinus</List>
+		<List>Eolambia</List>
+		<List>Probactrosaurus</List>
+		<List>Equijubus</List>
+		<List>Protohadros</List>
+		<List>Telmatosaurus</List>
+		<List>Bactrosaurus</List>
+		<List>Levnesovia</List>
+		<List>Tanius</List>
+		<List>Aralosaurus</List>
+		<List>Tsintaosaurus</List>
+		<List>Jaxartosaurus</List>
+		<List>Nipponosaurus</List>
+		<List>Amurosaurus</List>
+		<List>Lambeosaurus</List>
+		<List>Corythosaurus</List>
+		<List>Hypacrosaurus</List>
+		<List>Olorotitan</List>
+		<List>Parasaurolophus</List>
+		<List>Charonosaurus</List>
+		<List>Lophorhothon</List>
+		<List>Kritosaurus</List>
+		<List>Maiasaura</List>
+		<List>Brachylophosaurus</List>
+		<List>Gryposaurus</List>
+		<List>Kerberosaurus</List>
+		<List>Saurolophus</List>
+		<List>Prosaurolophus</List>
+		<List>Edmontosaurus</List>
+		<List>K_australis</List>
+		<List>Jintasaurus</List>
+		<List>Yunganglong</List>
+		<List>Nanyangosaurus</List>
+		<List>Shuangmiaosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="138">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Wang_etal_2013e</Filename>
+	<Parent>Sues_et_Averianov_2009b</Parent>
+	<Sibling/>
+</SourceTree>

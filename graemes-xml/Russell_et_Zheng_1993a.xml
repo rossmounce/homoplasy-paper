@@ -1,0 +1,44 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Russell, D. A.</List>
+			<List>Zheng, Z.</List>
+		</Author>
+		<Year>1993</Year>
+		<Title>A large mamenchisaurid from the Junggar Basin, Xinjiang, People's Republic of China</Title>
+		<Journal>Canadian Journal of Earth Sciences</Journal>
+		<Volume> 10-11</Volume>
+		<Pages>2082-2095</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="9">
+		<List>Plateosaurus</List>
+		<List>Shunosaurus</List>
+		<List>Mamenchisaurus</List>
+		<List>Omeisaurus</List>
+		<List>Dicraeosaurus</List>
+		<List>Apatosaurus</List>
+		<List>Camarasaurus</List>
+		<List>Euhelopus</List>
+		<List>Brachiosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="21">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Russell_et_Zheng_1993a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

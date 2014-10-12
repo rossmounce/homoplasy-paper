@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Coria, R. A.</List>
+			<List>Currie, P. J.</List>
+		</Author>
+		<Year>2002</Year>
+		<Title>The braincase of Giganotosaurus carolinii (Dinosauria: Theropoda) from the Upper Cretaceous of Argentina</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>22</Volume>
+		<Pages>802-811</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List>Herrerasaurus</List>
+		<List>Dromaeosauridae</List>
+		<List>Abelisaurus</List>
+		<List>Acrocanthosaurus</List>
+		<List>Allosaurus</List>
+		<List>Carnotaurus</List>
+		<List>Sinraptor</List>
+		<List>Carcharodontosaurus</List>
+		<List>Giganotosaurus</List>
+		<List>Troodontidae</List>
+		<List>Tyrannosauridae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="15">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Coria_et_Currie_2002a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

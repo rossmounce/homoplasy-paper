@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Khonsari, R. H.</List>
+			<List>Li, B.</List>
+			<List>Vernier, P.</List>
+			<List>Northcutt, R. G.</List>
+			<List>Janvier, P.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>Agnathan brain anatomy and craniate phylogeny</Title>
+		<Journal>Acta Zoologica</Journal>
+		<Volume>90 (Supplement 1)</Volume>
+		<Pages>52-68</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="9">
+		<List>Amphioxus</List>
+		<List>Ciona</List>
+		<List>Hagfish</List>
+		<List>Lamprey</List>
+		<List>Dogfish</List>
+		<List>Bichir</List>
+		<List>Lungfish</List>
+		<List>Coelacanth</List>
+		<List>Salamander</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="123">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Khonsari_etal_2009a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

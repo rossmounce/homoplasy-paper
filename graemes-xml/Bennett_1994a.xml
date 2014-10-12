@@ -1,0 +1,61 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Bennett, S. C.</List>
+		</Author>
+		<Year>1994</Year>
+		<Title>Taxonomy and systematics of the Late Cretaceous pterosaur <em>Pteranodon</em> (Pterosauria, Pterodactyloidea)</Title>
+		<Journal>Occasional Papers of the Museum of Natural History University of Kansas</Journal>
+		<Volume>169</Volume>
+		<Pages>1-70</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="27">
+		<List>Rhamphorhynchus</List>
+		<List>Pterodactylus_kochi</List>
+		<List>Pterodaustro</List>
+		<List>Ctenochasma</List>
+		<List>Germanodactylus</List>
+		<List>Gnathosaurus_subulatus</List>
+		<List>Huanhepterus</List>
+		<List>Gallodactylus</List>
+		<List>Nyctosaurus_gracilis</List>
+		<List>Nyctosaurus_lamegoi</List>
+		<List>Dsungaripterus_weii</List>
+		<List>Dsungaripterus_parvus</List>
+		<List>Santanadactylus_spixi</List>
+		<List>Doratorhynchus</List>
+		<List>Azhdarco</List>
+		<List>Arambourgiania</List>
+		<List>Quetzalcoatlus</List>
+		<List>Pteranodon</List>
+		<List>Ornithodesmus_latidens</List>
+		<List>Santanadactylus_brasiliensis</List>
+		<List>Santanadactylus_araripensis</List>
+		<List>Santanadactylus_pricei</List>
+		<List>Anhanguera</List>
+		<List>Tropeognathus</List>
+		<List>Brasileodactylus</List>
+		<List>Ornithocheirus_ss</List>
+		<List>Criorhynchus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="37">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Bennett_1994a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Liu, J.</List>
+			<List>Wang, Y.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>The first complete mastodonsauroid skull from the Triassic of China: <em>Yuanansuchus laticeps</em> gen. et sp. nov</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>25</Volume>
+		<Pages>725-728</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="27">
+		<List>Konshukovia</List>
+		<List>Angusaurus</List>
+		<List>Benthosuchus</List>
+		<List>Cherninia</List>
+		<List>Chomatobatrachus</List>
+		<List>Cyclotosaurus</List>
+		<List>Deltacephalus</List>
+		<List>Eryosuchus</List>
+		<List>Eocyclotosaurus</List>
+		<List>Lydekkerina</List>
+		<List>Mastodonsaurus</List>
+		<List>Odenwaldia</List>
+		<List>P.madagascariensis</List>
+		<List>Paracyclotosaurus</List>
+		<List>Parotosuchus</List>
+		<List>Stenotosaurus</List>
+		<List>Tatrasuchus</List>
+		<List>Thoosuchus</List>
+		<List>Trematosaurus</List>
+		<List>Watsonisuchus</List>
+		<List>Wellesaurus</List>
+		<List>Wetlugasaurus</List>
+		<List>Rhineceps</List>
+		<List>Rhinesuchus</List>
+		<List>Uranocentrodon</List>
+		<List>Yuanansuchus</List>
+		<List>Quasicyclotosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="47">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Liu_et_Wang_2005a</Filename>
+	<Parent>Damiani_2001a</Parent>
+	<Sibling/>
+</SourceTree>

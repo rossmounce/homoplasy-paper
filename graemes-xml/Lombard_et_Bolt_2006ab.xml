@@ -1,0 +1,142 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lombard, R. E.</List>
+			<List>Bolt, J. R.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>The mandible of <em>Whatcheeria deltae</em>, an early tetrapod from the late Mississippian of Iowa</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>21-52</Pages>
+		<Booktitle>Amniote Paleobiology: Perspectives on the Evolution of Mammals, Birds, and Reptiles</Booktitle>
+		<Publisher>Chicago University Press</Publisher>
+		<City>Chicago</City>
+		<Editor>
+			<List>Carrano, M. T.</List>
+			<List>Gaudin, T. J.</List>
+			<List>Blob, R. W.</List>
+			<List>Wible, J. R.</List>
+		</Editor>
+	</Source>
+	<Taxa number="102">
+		<List>Eusthenopteron</List>
+		<List>Acanthostega</List>
+		<List>Acherontiscus</List>
+		<List>Adelogyrinus</List>
+		<List>Adelospondylus</List>
+		<List>Albanerpeton</List>
+		<List>Amphibamus</List>
+		<List>Anthracosaurus</List>
+		<List>Apateon</List>
+		<List>Archeria</List>
+		<List>Ariekanerpeton</List>
+		<List>Asaphestera</List>
+		<List>Balanerpeton</List>
+		<List>Baphetes</List>
+		<List>Batrachiderpeton</List>
+		<List>Batropetes</List>
+		<List>Brachydectes</List>
+		<List>Broiliellus</List>
+		<List>Bruktererpeton</List>
+		<List>Caerorhachis</List>
+		<List>Capetus</List>
+		<List>Captorhinus</List>
+		<List>Cardiocephalus</List>
+		<List>Chenoprosopus</List>
+		<List>Cochleosaurus</List>
+		<List>Colosteus</List>
+		<List>Crassigyrinus</List>
+		<List>Dendrerpeton</List>
+		<List>Diadectes</List>
+		<List>Diceratosaurus</List>
+		<List>Diplocaulus</List>
+		<List>Diploceraspis</List>
+		<List>Discosauriscus</List>
+		<List>Doleserpeton</List>
+		<List>Dolichopareias</List>
+		<List>Ecolsonia</List>
+		<List>Edops</List>
+		<List>Eocaecilia</List>
+		<List>Eogyrinus</List>
+		<List>Eoherpeton</List>
+		<List>Eoscopus</List>
+		<List>Eryops</List>
+		<List>Eucritta</List>
+		<List>Euryodus</List>
+		<List>Gephyrostegus</List>
+		<List>Greererpeton</List>
+		<List>Hapsidopareion</List>
+		<List>Hyloplesion</List>
+		<List>Ichthyostega</List>
+		<List>Isodectes</List>
+		<List>Karaurus</List>
+		<List>Keraterpeton</List>
+		<List>Kotlassia</List>
+		<List>Leptoropha</List>
+		<List>Leptorophus</List>
+		<List>Lethiscus</List>
+		<List>Limnoscelis</List>
+		<List>Megalocephalus</List>
+		<List>Micraroter</List>
+		<List>Microbrachis</List>
+		<List>Micromelerpeton</List>
+		<List>Microphon</List>
+		<List>Neldasaurus</List>
+		<List>Notobatrachus</List>
+		<List>Odonterpeton</List>
+		<List>Oestocephalus</List>
+		<List>Orobates</List>
+		<List>Ossinodus</List>
+		<List>Paleothyris</List>
+		<List>Panderichthys</List>
+		<List>Pantylus</List>
+		<List>Pederpes</List>
+		<List>Pelodosotis</List>
+		<List>Petrolacosaurus</List>
+		<List>Phlegethontia</List>
+		<List>Pholiderpeton</List>
+		<List>Phonerpeton</List>
+		<List>Platyrhinops</List>
+		<List>Proterogyrinus</List>
+		<List>Ptyonius</List>
+		<List>Rhynchonkos</List>
+		<List>Sauropleura</List>
+		<List>Saxonerpeton</List>
+		<List>Schoenfelderpeton</List>
+		<List>Scincosaurus</List>
+		<List>Seymouria</List>
+		<List>Silvanerpeton</List>
+		<List>Solenodonsaurus</List>
+		<List>Stegotretus</List>
+		<List>Trematops</List>
+		<List>Triadobatrachus</List>
+		<List>Trimerorhachis</List>
+		<List>Tseajaia</List>
+		<List>Tuditanus</List>
+		<List>Tulerpeton</List>
+		<List>Urocordylus</List>
+		<List>Utegenia</List>
+		<List>Valdotriton</List>
+		<List>Ventastega</List>
+		<List>Viaerella</List>
+		<List>Westlothiana</List>
+		<List>Whatcheeria</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="339">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lombard_et_Bolt_2006ab</Filename>
+	<Parent>Ruta_etal_2003a</Parent>
+	<Sibling/>
+</SourceTree>

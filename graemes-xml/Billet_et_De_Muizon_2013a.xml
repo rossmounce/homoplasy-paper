@@ -1,0 +1,96 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Billet, G.</List>
+			<List>De Muizon, C.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>External and internal anatomy of a petrosal from the Late Paleocene of Itaboraí, Brazil, referred to Notoungulata (Placentalia)</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>33</Volume>
+		<Pages>455-469</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="61">
+		<List>Zalambdalestes</List>
+		<List>Macrauchenia</List>
+		<List>Leptictis</List>
+		<List>Phenacodus</List>
+		<List>Meniscotherium</List>
+		<List>Protolipterna</List>
+		<List>Proterotherium</List>
+		<List>Trigonostylops</List>
+		<List>Astrapotherium</List>
+		<List>Pyrotherium</List>
+		<List>Notostylops</List>
+		<List>Henricosbornia</List>
+		<List>Simpsonotus</List>
+		<List>Pleurostylodon</List>
+		<List>Thomashuxleya</List>
+		<List>Pampahippus</List>
+		<List>Periphragnis</List>
+		<List>Ryphodon</List>
+		<List>Puelia</List>
+		<List>Leontinia</List>
+		<List>Colpodon</List>
+		<List>Ancylocoelus</List>
+		<List>Scarittia</List>
+		<List>Homalodotherium</List>
+		<List>Asmodeus</List>
+		<List>Rhynchippus</List>
+		<List>Eurygenium</List>
+		<List>Pascualihippus</List>
+		<List>Eomorphippus</List>
+		<List>Morphippus</List>
+		<List>Argyrohippus</List>
+		<List>Nesodon</List>
+		<List>Adinotherium</List>
+		<List>Hoffstetterius</List>
+		<List>Ponanskytherium</List>
+		<List>Toxodon</List>
+		<List>Colbertia</List>
+		<List>Oldfieldthomasia</List>
+		<List>Campanorco</List>
+		<List>Acropithecus</List>
+		<List>Ultrapithecus</List>
+		<List>Notopithecus</List>
+		<List>Archaeophylus</List>
+		<List>Cochilius</List>
+		<List>Plagiarthrus</List>
+		<List>Protypotherium</List>
+		<List>Miocochilius</List>
+		<List>Interatherium</List>
+		<List>Federicoanaya</List>
+		<List>Trachytherus</List>
+		<List>Plesiotypotherium</List>
+		<List>Mesotherium</List>
+		<List>Eohyrax</List>
+		<List>Pseudhyrax</List>
+		<List>Archaeotypotherium</List>
+		<List>Archaeohyrax</List>
+		<List>Prohegetotherium</List>
+		<List>Hegetotherium</List>
+		<List>Prosotherium</List>
+		<List>Paedotherium</List>
+		<List>MNHN_F_BRD_23</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="143">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Billet_et_De_Muizon_2013a</Filename>
+	<Parent>Billet_2010a</Parent>
+	<Sibling/>
+</SourceTree>

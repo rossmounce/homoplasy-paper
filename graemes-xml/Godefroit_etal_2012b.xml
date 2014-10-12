@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Godefroit, P.</List>
+			<List>Bolotsky, Y. L.</List>
+			<List>Lauters, P.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>A new saurolophine dinosaur from the latest Cretaceous of Far Eastern Russia</Title>
+		<Journal>PLoS One</Journal>
+		<Volume>7</Volume>
+		<Pages>1-22</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="21">
+		<List>Probactrosaurus_gobiensis</List>
+		<List>Bactrosaurus_johnsoni</List>
+		<List>Parasaurolophus_walkeri</List>
+		<List>Olorotitan_arharensis</List>
+		<List>Wulagasaurus_dongi</List>
+		<List>Acritavus_gaglarsoni</List>
+		<List>Maiasaura_peeblesorum</List>
+		<List>Brachylophosaurus_canadensis</List>
+		<List>Kritosaurus_navajovius</List>
+		<List>Gryposaurus_latidens</List>
+		<List>Gryposaurus_notabilis</List>
+		<List>Gryposaurus_monumentensis</List>
+		<List>Kerberosaurus_manakini</List>
+		<List>Kundurosaurus_nagornyi</List>
+		<List>Prosaurolophus_maximus</List>
+		<List>Saurolophus_osborni</List>
+		<List>Saurolophus_angustirostris</List>
+		<List>Edmontosaurus_annectens</List>
+		<List>Edmontosaurus_regalis</List>
+		<List>Hadrosaurus_foulkii</List>
+		<List>Lophorhoton_atopus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="176">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Godefroit_etal_2012b</Filename>
+	<Parent>Prieto-Marquez_2010a</Parent>
+	<Sibling/>
+</SourceTree>

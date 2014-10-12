@@ -1,0 +1,91 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Novas, F. E.</List>
+			<List>Pais, D. F.</List>
+			<List>Pol, D.</List>
+			<List>Carvalho, I. S.</List>
+			<List>Scanferla, A.</List>
+			<List>Mones, A.</List>
+			<List>Riglos, M. S.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>Bizarre notosuchian crocodyliform with associated eggs from the Upper Cretaceous of Bolivia</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>29</Volume>
+		<Pages>1316-1320</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="51">
+		<List>Gracilisuchus</List>
+		<List>Terrestrisuchus</List>
+		<List>Dibothrosuchus</List>
+		<List>Protosuchus</List>
+		<List>Hemiprotosuchus</List>
+		<List>Orthosuchus</List>
+		<List>Kayenta_Form</List>
+		<List>Edentosuchus</List>
+		<List>Zaraasuchus</List>
+		<List>Gobiosuchus</List>
+		<List>Sichuanosuchus</List>
+		<List>Shantungosuchus</List>
+		<List>Zosuchus</List>
+		<List>Fruita_Form</List>
+		<List>Notosuchus</List>
+		<List>Comahuesuchus</List>
+		<List>Uruguaysuchus</List>
+		<List>Chimaeresuchus</List>
+		<List>Malawisuchus</List>
+		<List>Candidodon</List>
+		<List>Simosuchus</List>
+		<List>Sphagesaurus</List>
+		<List>Bretesuchus</List>
+		<List>Baurusuchus</List>
+		<List>Iberosuchus</List>
+		<List>Lybicosuchus</List>
+		<List>Araripesuchus_gomesii</List>
+		<List>Araripesuchus_patagonicus</List>
+		<List>Araripesuchus_buitreraensis</List>
+		<List>Araripesuchus_wegeneri</List>
+		<List>Lomasuchus</List>
+		<List>Peirosaurus</List>
+		<List>Theriosuchus</List>
+		<List>Alligatorium</List>
+		<List>Goniopholis</List>
+		<List>Bernissartia</List>
+		<List>Hylaeochampsa</List>
+		<List>Borealosuchus</List>
+		<List>Gavialis</List>
+		<List>Crocodylus</List>
+		<List>Alligator</List>
+		<List>Hsisosuchus</List>
+		<List>Pelagosaurus</List>
+		<List>Steneosaurus</List>
+		<List>Metriorhynchus</List>
+		<List>Sokotosuchus</List>
+		<List>Dyrosaurus</List>
+		<List>Pholidosaurus</List>
+		<List>Mariliasuchus</List>
+		<List>Adamantinasuchus</List>
+		<List>Yacarerani</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="234">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Novas_etal_2009b</Filename>
+	<Parent>Pol_et_Apesteguia_2005a</Parent>
+	<Sibling/>
+</SourceTree>

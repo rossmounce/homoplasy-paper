@@ -1,0 +1,83 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Salisbury, S. W.</List>
+			<List>Molnar, R. E.</List>
+			<List>Frey, E.</List>
+			<List>Willis, P. M. A.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>The origin of modern crocodyliforms: new evidence from the Cretaceous of Australia</Title>
+		<Journal>Proceedings of the Royal Society of London B</Journal>
+		<Volume>273</Volume>
+		<Pages>2439-2448</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="46">
+		<List>Theriosuchus_spp</List>
+		<List>Goniopholis_spp</List>
+		<List>Bernissartia_fagesii</List>
+		<List>Susisuchus_anatoceps</List>
+		<List>Hylaeochampsa_vectiana</List>
+		<List>Isisfordia_duncani</List>
+		<List>Allodaposuchus_precedens</List>
+		<List>Borealosuchus_formidabilis</List>
+		<List>Borealosuchus_wilsoni</List>
+		<List>Borealosuchus_acutidentatus</List>
+		<List>Borealosuchus_sternbergii</List>
+		<List>Leidyosuchus_canadensis</List>
+		<List>Eothoracosaurus_mississippiensis</List>
+		<List>Thecoachampsoides_minor</List>
+		<List>Siquisiquesuchus_venezuelensis</List>
+		<List>Thoracosaurus_macrorhynchus</List>
+		<List>Eogavialis_africanum</List>
+		<List>Gryposuchus_colombianus</List>
+		<List>Gavialis_gangeticus</List>
+		<List>Pristichampsus_spp</List>
+		<List>Diplocynodon_darwinii</List>
+		<List>Baryphracta_deponiae</List>
+		<List>Stangerochampsa_mccabei</List>
+		<List>Brachychampsa_montana</List>
+		<List>Alligator_mississippiensis</List>
+		<List>Navajosuchus_mooki</List>
+		<List>Hassiacosuchus_haupti</List>
+		<List>Caiman_yacare</List>
+		<List>Caiman_latirostris</List>
+		<List>Melanosuchus_niger</List>
+		<List>Paleosuchus_trigonatus</List>
+		<List>Crocodylus_cataphractus</List>
+		<List>Crocodylus_porosus</List>
+		<List>Osteolaemus_tetraspis</List>
+		<List>Crocodylus_robustus</List>
+		<List>Crocodylus_megarhinus</List>
+		<List>Tomistoma_schlegelii</List>
+		<List>Tomistoma_lusitanica</List>
+		<List>Gavialosuchus_americanus</List>
+		<List>Crocodylus_spenceri</List>
+		<List>Brachyuranochampsa_eversolei</List>
+		<List>Crocodylus_acer</List>
+		<List>Crocodylus_affinis</List>
+		<List>Asiatosuchus_germanicus</List>
+		<List>Prodiplocynodon_langi</List>
+		<List>Australosuchus_clarkae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="176">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Salisbury_etal_2006a</Filename>
+	<Parent>Brochu_1997ab</Parent>
+	<Sibling/>
+</SourceTree>

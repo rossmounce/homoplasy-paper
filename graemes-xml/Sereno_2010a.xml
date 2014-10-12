@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sereno, P. C.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>Taxonomy, cranial morphology, and relationships of parrot-beaked dinosaurs</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>21-58</Pages>
+		<Booktitle>New Perspectives on Horned Dinosaurs</Booktitle>
+		<Publisher>Indiana University Press</Publisher>
+		<City>Bloomington</City>
+		<Editor>
+			<List>Ryan, M. J.</List>
+			<List>Chinnery-Allgeier, B. J.</List>
+			<List>Eberth, D. A.</List>
+		</Editor>
+	</Source>
+	<Taxa number="12">
+		<List>Protoceratops</List>
+		<List>Liaoceratops</List>
+		<List>Yinlong</List>
+		<List>P._mongoliensis</List>
+		<List>P._meileyingensis</List>
+		<List>P._lujiatunensis</List>
+		<List>P._major</List>
+		<List>P._sibiricus</List>
+		<List>Psittacosaurus_sp.</List>
+		<List>P._xinjiangensis</List>
+		<List>P._neimongoliensis</List>
+		<List>P._sinensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="10">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sereno_2010a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

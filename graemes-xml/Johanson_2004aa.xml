@@ -1,0 +1,68 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Johanson, Z.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>Late Devonian sarcopterygian fishes from eastern Gondwana (Australia and Antarctica) and their importance in phylogeny and biogeography</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>287-308</Pages>
+		<Booktitle>Recent Advances in the Origin and Early Radiation of Vertebrates</Booktitle>
+		<Publisher>Verlag Dr. Friedrich Pfeil</Publisher>
+		<City>Munchen</City>
+		<Editor>
+			<List>Arratia, G.</List>
+			<List>Wilson, M. V. H.</List>
+			<List>Cloutier, R.</List>
+		</Editor>
+	</Source>
+	<Taxa number="30">
+		<List>Porolepis</List>
+		<List>Powichthys</List>
+		<List>Youngolepis</List>
+		<List>Diabolepis</List>
+		<List>Dipterus</List>
+		<List>Cabonnichthys</List>
+		<List>Mandageria</List>
+		<List>Eusthenodon</List>
+		<List>Eusthenopteron</List>
+		<List>Platyichthys</List>
+		<List>Jarvikina</List>
+		<List>Tristichopterus</List>
+		<List>Koharalepis</List>
+		<List>Canowindra</List>
+		<List>Beelarongia</List>
+		<List>Gyroptychius</List>
+		<List>Medoevia</List>
+		<List>Gogonasus</List>
+		<List>Osteolepis</List>
+		<List>Megalichthys</List>
+		<List>Ectosteorhachis</List>
+		<List>Cladarosymblema</List>
+		<List>Barameda</List>
+		<List>Gooloogongia</List>
+		<List>Panderichthys</List>
+		<List>Acanthostega</List>
+		<List>Ichthyostega</List>
+		<List>Kenichthys</List>
+		<List>Glyptolepis</List>
+		<List>Notorhizodon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="99">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Johanson_2004aa</Filename>
+	<Parent>Johanson_et_Ahlberg_2001aa</Parent>
+	<Sibling/>
+</SourceTree>

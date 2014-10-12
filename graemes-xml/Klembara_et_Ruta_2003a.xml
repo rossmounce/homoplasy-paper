@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Klembara, J.</List>
+			<List>Ruta, M.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>The seymouriamorph tetrapod <em>Utegenia shpinari</em> from the ?Upper Carboniferous-Lower Permian of Kazakhstan. Part II: postcranial anatomy and relationships</Title>
+		<Journal>Transactions of the Royal Society of Edinburgh: Earth Sciences</Journal>
+		<Volume>94</Volume>
+		<Pages>75-93</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="32">
+		<List>OUTGROUP</List>
+		<List>Acanthostega_gunnari</List>
+		<List>Archeria_crassidisca</List>
+		<List>Ariekanerpeton_sigalovi</List>
+		<List>Balanerpeton_woodi</List>
+		<List>Baphetes_kirkbyi</List>
+		<List>Crassigyrinus_scoticus</List>
+		<List>Dendrerpeton_acadianum</List>
+		<List>Diadectes_absitus</List>
+		<List>Discosauriscus_austriacus</List>
+		<List>D_pulcherrimus</List>
+		<List>Ecolsonia_cutlerensis</List>
+		<List>Eocaptorhinus_laticeps</List>
+		<List>Eoherpeton_watsoni</List>
+		<List>Eryops_megacephalus</List>
+		<List>Gephyrostegus_bohemicus</List>
+		<List>Greererpeton_burkemorani</List>
+		<List>Ichthyostega_stensioei</List>
+		<List>Lethiscus_stocki</List>
+		<List>Limnoscelis_paludis</List>
+		<List>Megalocephalus_pachycephalus</List>
+		<List>Microbrachis_pelikani</List>
+		<List>Petrolacosaurus_kansensis</List>
+		<List>Pholiderpeton_scutigerum</List>
+		<List>Proterogyrinus_scheelei</List>
+		<List>Sauropleura_pectinata_slash_scalaris</List>
+		<List>Saxonerpeton_geinitzi</List>
+		<List>Seymouria_baylorensis</List>
+		<List>S_sanjuanensis</List>
+		<List>Tseajaia_campi</List>
+		<List>Utegenia_shpinari</List>
+		<List>Whatcheeria_deltae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="150">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Klembara_et_Ruta_2003a</Filename>
+	<Parent>Ruta_etal_2003a</Parent>
+	<Sibling/>
+</SourceTree>

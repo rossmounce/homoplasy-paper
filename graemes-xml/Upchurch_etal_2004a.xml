@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Upchurch, P.</List>
+			<List>Yukimitsu, T.</List>
+			<List>Barrett, P. M.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>A new specimen of Apatosaurus ajax (Sauropoda: Diplodocidae) from the Morrison Formation (Upper Jurassic) of Wyoming, USA</Title>
+		<Journal>National Science Museum Monographs</Journal>
+		<Volume>26</Volume>
+		<Pages>1-108</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="16">
+		<List>Omeisaurus</List>
+		<List>Camarasaurus</List>
+		<List>Rayososaurus</List>
+		<List>Diplodocus</List>
+		<List>Dicraeosaurus</List>
+		<List>CMNH_3018</List>
+		<List>CMNH_3378</List>
+		<List>FMNH_P25112</List>
+		<List>YPM_1980</List>
+		<List>NSMT_dash_PV_20375</List>
+		<List>YPM_1860</List>
+		<List>YPM_1840</List>
+		<List>AMNH_460</List>
+		<List>YPM_1861</List>
+		<List>CMNH_566</List>
+		<List>UWGM_15556</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="32">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Upchurch_etal_2004a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

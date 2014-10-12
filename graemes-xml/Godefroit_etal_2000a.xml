@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Godefroit, P.</List>
+			<List>Zan, S.</List>
+			<List>Jin, L.</List>
+		</Author>
+		<Year>2000</Year>
+		<Title>Charonosaurus jiayinensis n. g. n. sp., a lambeosaurine dinosaur from the Late Maastrichtian of Northeastern China</Title>
+		<Journal>Comptes Rendus de l'Academie des Sciences Series IIA Earth and Planetary Science</Journal>
+		<Volume>330</Volume>
+		<Pages>875-882</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="9">
+		<List>Iguanodon</List>
+		<List>Bactrosaurus</List>
+		<List>Telmatosaurus</List>
+		<List>Hadrosaurinae</List>
+		<List>Corythosaurus</List>
+		<List>Hypacrosaurus</List>
+		<List>Lambeosaurus</List>
+		<List>Charonosaurus</List>
+		<List>Parasaurolophus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="33">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Godefroit_etal_2000a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

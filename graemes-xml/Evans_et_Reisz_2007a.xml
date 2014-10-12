@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Evans, D. C.</List>
+			<List>Reisz, R. R.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>Anatomy and relationships of Lambeosaurus magnicristatus, a crested hadrosaurid dinosaur (Ornithischia) from the Dinosaur Park Formation, Alberta</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>27</Volume>
+		<Pages>373-393</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="18">
+		<List>Probactrosaurus_gobiensis</List>
+		<List>Telmatosaurus_transsylvanicus</List>
+		<List>Gryposaurus_incurvimanus</List>
+		<List>Aralosaurus_tuberiferus</List>
+		<List>Tsintaosaurus_spinorhinus</List>
+		<List>Jaxartosaurus_aralensis</List>
+		<List>Amurosaurus_riabinini</List>
+		<List>Charonosaurus_jiayinensis</List>
+		<List>Parasaurolophus_cyrtocristatus</List>
+		<List>Parasaurolophus_walkeri</List>
+		<List>Parasaurolophus_tubicen</List>
+		<List>Nipponosaurus_sachalinensis</List>
+		<List>Olorotitan_arharensis</List>
+		<List>Corythosaurus_casuarius</List>
+		<List>Hypacrosaurus_altispinus</List>
+		<List>Hypacrosaurus_stebingeri</List>
+		<List>Lambeosaurus_lambei</List>
+		<List>Lambeosaurus_magnicristatus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="94">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Evans_et_Reisz_2007a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

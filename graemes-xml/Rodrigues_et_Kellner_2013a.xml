@@ -1,0 +1,116 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Rodrigues, T.</List>
+			<List>Kellner, A. W. A.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>Taxonomic review of the <em>Ornithocheirus</em> complex (Pterosauria) from the Cretaceous of England</Title>
+		<Journal>ZooKeys</Journal>
+		<Volume>308</Volume>
+		<Pages>1-112</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="81">
+		<List>Ornithosuchus_longidens</List>
+		<List>Scleromochlus_taylori</List>
+		<List>Herrerasaurus_ischigualastensis</List>
+		<List>Anurognathus_ammoni</List>
+		<List>Jeholopterus_ningchengensis</List>
+		<List>Dendrorhynchoides_curvidentatus</List>
+		<List>Batrachognathus_volans</List>
+		<List>Cacibupteryx_caribensis</List>
+		<List>Eudimorphodon_ranzii</List>
+		<List>Eudimorphodon_cromptonellus</List>
+		<List>Carniadactylus_rosenfeldi</List>
+		<List>Peteinosaurus_zambellii</List>
+		<List>Dimorphodon_macronyx</List>
+		<List>Wukongopterus_lii</List>
+		<List>Dorygnathus_banthensis</List>
+		<List>Scaphognathus_crassirostris</List>
+		<List>Preondactylus_buffarinii</List>
+		<List>Sordes_pilosus</List>
+		<List>Austriadactylus_cristatus</List>
+		<List>Angustinaripterus_longicephalus</List>
+		<List>Harpactognathus_gentryii</List>
+		<List>Campylognathoides_zitteli</List>
+		<List>Campylognathoides_liasicus</List>
+		<List>Caviramus_schesaplanensis</List>
+		<List>Raeticodactylus_filisurensis</List>
+		<List>Rhamphorhynchus_longicaudus</List>
+		<List>Rhamphorhynchus_muensteri</List>
+		<List>Pterodactylus_antiquus</List>
+		<List>Pterodactylus_kochi</List>
+		<List>Germanodactylus_ramphastinus</List>
+		<List>Germanodactylus_cristatus</List>
+		<List>Gnathosaurus_subulatus</List>
+		<List>Pterodaustro_guinazui</List>
+		<List>Ctenochasma_gracile</List>
+		<List>Feilongus_youngi</List>
+		<List>Cycnorhamphus_suevicus</List>
+		<List>Gallodactylus_canjuersensis</List>
+		<List>Nyctosaurus_bonneri</List>
+		<List>Nyctosaurus_gracilis</List>
+		<List>Nemicolopterus_crypticus</List>
+		<List>Aussiedraco_molnari</List>
+		<List>Ornithocheirus_polyodon</List>
+		<List>Ornithocheirus_denticulatus</List>
+		<List>Pterodactylus_daviesii</List>
+		<List>Ornithocheirus_platystomus</List>
+		<List>Ornithocheirus_simus</List>
+		<List>Cimoliopterus_cuvieri</List>
+		<List>Pteranodon_longiceps</List>
+		<List>Nurhachius_ignaciobritoi</List>
+		<List>Istiodactylus_latidens</List>
+		<List>Noripterus_complicidens</List>
+		<List>Phobetor_parvus</List>
+		<List>Dsungaripterus_weii</List>
+		<List>Lonchodraco_microdon</List>
+		<List>Lonchodraco_machaerorhynchus</List>
+		<List>Lonchodraco_giganteus</List>
+		<List>Zhejiangopterus_linhaiensis</List>
+		<List>Azhdarcho_lancicollis</List>
+		<List>Quetzalcoatlus_sp</List>
+		<List>Tupandactylus_imperator</List>
+		<List>Tapejara_wellnhoferi</List>
+		<List>Thalassodromeus_sethi</List>
+		<List>Tupuxuara_leonardii</List>
+		<List>Cearadactylus_ligabuei</List>
+		<List>Camposipterus_colorhinus</List>
+		<List>Camposipterus_sedgwickii</List>
+		<List>Camposipterus_nasutus</List>
+		<List>Brasileodactylus_araripensis</List>
+		<List>Ludodactylus_sibbicki</List>
+		<List>Cearadactylus_atrox</List>
+		<List>Caulkicephalus_trimicrodon</List>
+		<List>Ornithocheirus_capito</List>
+		<List>Coloborhynchus_clavirostris</List>
+		<List>Liaoningopterus_gui</List>
+		<List>Anhanguera_araripensis</List>
+		<List>Anhanguera_spielbergi</List>
+		<List>Anhanguera_robustus</List>
+		<List>Anhanguera_piscator</List>
+		<List>Anhanguera_blittersdorffi</List>
+		<List>Anhanguera_santanae</List>
+		<List>Tropeognathus_mesembrinus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="94">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Rodrigues_et_Kellner_2013a</Filename>
+	<Parent>Wang_etal_2009a</Parent>
+	<Sibling/>
+</SourceTree>

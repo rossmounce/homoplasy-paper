@@ -1,0 +1,82 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Smith, A. B.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>Probing the cassiduloid origins of clypeasteroid echinoids using stratigraphically restricted parsimony analysis</Title>
+		<Journal>Paleobiology</Journal>
+		<Volume>27</Volume>
+		<Pages>392-404</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="48">
+		<List>Nucleolites</List>
+		<List>Nucleopygus</List>
+		<List>Pygopistes</List>
+		<List>Plagiochasma</List>
+		<List>Amblypygus</List>
+		<List>Catopygus</List>
+		<List>Parapygus</List>
+		<List>Zuffardia</List>
+		<List>Faujasia</List>
+		<List>Domechinus</List>
+		<List>Oolopygus</List>
+		<List>Studeria_elegans</List>
+		<List>Notolampas</List>
+		<List>Petalobrissus</List>
+		<List>Paralampas</List>
+		<List>Hardouinia_mortonis</List>
+		<List>Hardouinia_kellumi</List>
+		<List>Gongrochanus</List>
+		<List>Platypygus</List>
+		<List>Stigmatopygus</List>
+		<List>Rhynchopygus</List>
+		<List>Procassidulus</List>
+		<List>Rhyncholampus</List>
+		<List>Eurhodia</List>
+		<List>Cassidulus</List>
+		<List>Pygurostoma</List>
+		<List>Clypeolampas</List>
+		<List>Vologesia</List>
+		<List>Gitolampas</List>
+		<List>Neocatopygus</List>
+		<List>Amaudaster</List>
+		<List>Plesiolampas</List>
+		<List>Apatopygus</List>
+		<List>Oriolampas</List>
+		<List>Termieria</List>
+		<List>Pseudopygaulus</List>
+		<List>Conoclypus</List>
+		<List>Oligopygus</List>
+		<List>Haimea</List>
+		<List>Togocyamus</List>
+		<List>Echinolampas_alta</List>
+		<List>Echinolampas_leymeriei</List>
+		<List>Oligopodia</List>
+		<List>Eurhodia_relicta</List>
+		<List>Studeria_recens</List>
+		<List>Echinoneus</List>
+		<List>Clypeaster</List>
+		<List>Neolampas</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="41">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Smith_2001a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

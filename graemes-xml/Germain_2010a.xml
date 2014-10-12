@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Germain, D.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>The Moroccan diplocaulid: the last lepospondyl, the single one on Gondwana</Title>
+		<Journal>Historical Biology</Journal>
+		<Volume>22</Volume>
+		<Pages>4-39</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List>Ptyonius</List>
+		<List>Sauropleura</List>
+		<List>Urocordylus</List>
+		<List>Scincosaurus</List>
+		<List>Keraterpeton</List>
+		<List>Diceratosaurus</List>
+		<List>Batrachiderpeton</List>
+		<List>Diplocaulus</List>
+		<List>D_minimus</List>
+		<List>Diploceraspis</List>
+		<List>Peronedon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="49">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Germain_2010a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

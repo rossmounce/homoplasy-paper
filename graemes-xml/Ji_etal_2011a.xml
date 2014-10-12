@@ -1,0 +1,74 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ji, S.-A.</List>
+			<List>Atterholt, J.</List>
+			<List>O'Connor, J.-M. K.</List>
+			<List>Lamanna, M. C.</List>
+			<List>Harris, J. D.</List>
+			<List>Li, D.-Q.</List>
+			<List>You, H.-L.</List>
+			<List>Dodson, P.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>A new, three-dimensionally preserved enantiornithine bird (Aves: Ornithothoraces) from Gansu Province, north-western China</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>162</Volume>
+		<Pages>201-219</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="33">
+		<List>Dromaeosauridae</List>
+		<List>Archaeopteryx</List>
+		<List>Jeholornis</List>
+		<List>Zhongornis</List>
+		<List>Sapeornis</List>
+		<List>Longipteryx</List>
+		<List>Longirostravis</List>
+		<List>DNHM_D1878</List>
+		<List>Eoenantiornis</List>
+		<List>Concornis</List>
+		<List>Gobipteryx</List>
+		<List>Neuquenornis</List>
+		<List>Vescornis</List>
+		<List>Soravisaurus</List>
+		<List>CAGS_06_012</List>
+		<List>CAGS_05_004</List>
+		<List>Eoalulavis</List>
+		<List>Iberomesornis</List>
+		<List>Qiliania</List>
+		<List>CAGS_07_001</List>
+		<List>Archaeorhynchus</List>
+		<List>Patagopteryx</List>
+		<List>Hongshanornis</List>
+		<List>Gansus</List>
+		<List>Apsaravis</List>
+		<List>Hesperornis</List>
+		<List>Icthyornis</List>
+		<List>Anas</List>
+		<List>Gallus</List>
+		<List>Yanornis</List>
+		<List>Yixianornis</List>
+		<List>Confuciusornis</List>
+		<List>Changchengornis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="242">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ji_etal_2011a</Filename>
+	<Parent>OConnor_etal_2009a</Parent>
+	<Sibling/>
+</SourceTree>

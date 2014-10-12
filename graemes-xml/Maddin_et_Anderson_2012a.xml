@@ -1,0 +1,90 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Maddin, H. C.</List>
+			<List>Anderson, J. S.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>Evolution of the amphibian ear with implications for lissamphibian phylogeny: insight gained from the caecilian inner ear</Title>
+		<Journal>Fieldiana Life and Earth Sciences</Journal>
+		<Volume>5</Volume>
+		<Pages>59-76</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="55">
+		<List>Acanthostega</List>
+		<List>Proterogyrinus</List>
+		<List>Balanerpeton</List>
+		<List>Dendrerpeton</List>
+		<List>Tuditanus</List>
+		<List>Asaphestera</List>
+		<List>Hapsidoparion</List>
+		<List>Saxonerpeton</List>
+		<List>Pantylus</List>
+		<List>Cardiocephalus_sternbergi</List>
+		<List>Cardiocephalus_peabodyi</List>
+		<List>Euryodus_primus</List>
+		<List>Euryodus_dalyae</List>
+		<List>Pelodosotis</List>
+		<List>Micraroter</List>
+		<List>Rhynchonkos</List>
+		<List>Eocaecilia</List>
+		<List>Microbrachis</List>
+		<List>Batropetes</List>
+		<List>Utaherpeton</List>
+		<List>Stegotretus</List>
+		<List>Sauropleura_scalaris</List>
+		<List>Ptyonius</List>
+		<List>Urocordylus</List>
+		<List>Keraterpeton_galvani</List>
+		<List>Batrachiderpeton</List>
+		<List>Diceratosaurus</List>
+		<List>Diplocaulus_magnicornis</List>
+		<List>Diploceraspis</List>
+		<List>Scincosaurus</List>
+		<List>Brachydectes</List>
+		<List>Adelogyrinus</List>
+		<List>Oestocephalus</List>
+		<List>Phlegethontia</List>
+		<List>Greererpeton</List>
+		<List>Seymouria_baylorensis</List>
+		<List>Limnoscelis</List>
+		<List>Branchiosauridae</List>
+		<List>Micromelerpetontidae</List>
+		<List>Tersomius</List>
+		<List>Ecolsonia</List>
+		<List>Trematops_slash_Acheloma</List>
+		<List>Eryops</List>
+		<List>Doleserpeton</List>
+		<List>Salamanders</List>
+		<List>Frogs</List>
+		<List>Albanerpeontidae</List>
+		<List>Micropholis</List>
+		<List>Eoscopus</List>
+		<List>Tambachia</List>
+		<List>Triadobatrachus</List>
+		<List>Gerobatrachus</List>
+		<List>Platyrhinops</List>
+		<List>Amphibamus</List>
+		<List>Caecilians</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="219">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Maddin_et_Anderson_2012a</Filename>
+	<Parent>Anderson_etal_2008a</Parent>
+	<Sibling/>
+</SourceTree>

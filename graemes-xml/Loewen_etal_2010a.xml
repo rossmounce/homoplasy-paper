@@ -1,0 +1,64 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Loewen, M. A.</List>
+			<List>Sampson, S. D.</List>
+			<List>Lund, E. K.</List>
+			<List>Farke, A. A.</List>
+			<List>Aguillon-Martinez, M. C.</List>
+			<List>De Leon, C. A.</List>
+			<List>Rodriguez-De La Rosa, R. A.</List>
+			<List>Getty, M. A.</List>
+			<List>Eberth, D. A.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>Horned dinosaurs (Ornithischia: Ceratopsidae) from the Upper Cretaceous (Campanian) Cerro del Pueblo Formation, Coahuila, Mexico</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>99-116</Pages>
+		<Booktitle>New Perspectives on Horned Dinosaurs</Booktitle>
+		<Publisher>Indiana University Press</Publisher>
+		<City>Bloomington</City>
+		<Editor>
+			<List>Ryan, M. J.</List>
+			<List>Chinnery-Allgeier, B. J.</List>
+			<List>Eberth, D. A.</List>
+		</Editor>
+	</Source>
+	<Taxa number="18">
+		<List>Protoceratops</List>
+		<List>Zuniceratops</List>
+		<List>Avaceratops</List>
+		<List>Einiosaurus</List>
+		<List>Achelousaurus</List>
+		<List>Pachyrhinosaurus</List>
+		<List>Centrosaurus</List>
+		<List>Styracosaurus</List>
+		<List>Agujaceratops</List>
+		<List>Anchiceratops</List>
+		<List>Arrhinoceratops</List>
+		<List>Chasmosaurus</List>
+		<List>Coahuilaceratops</List>
+		<List>Pentaceratops</List>
+		<List>Triceratops</List>
+		<List>Eotriceratops</List>
+		<List>Diceratops</List>
+		<List>Torosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="76">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Loewen_etal_2010a</Filename>
+	<Parent>Wu_etal_2007a</Parent>
+	<Sibling/>
+</SourceTree>

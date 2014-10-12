@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Farke, A. A.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>Cranial osteology and phylogenetic relationships of the chasmosaurine ceratopsid Torosaurus latus</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>235-257</Pages>
+		<Booktitle>Horns and Beaks</Booktitle>
+		<Publisher>Indiana University Press</Publisher>
+		<City>Bloomington</City>
+		<Editor>
+			<List>Carpenter, K.</List>
+		</Editor>
+	</Source>
+	<Taxa number="7">
+		<List>Chasmosaurus_belli</List>
+		<List>Anchiceratops_ornatus</List>
+		<List>Arrhinoceratops_brachyops</List>
+		<List>Torosaurus_latus</List>
+		<List>Diceratops_hatcheri</List>
+		<List>Triceratops_horridus</List>
+		<List>Triceratops_porosus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="10">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Farke_2007a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Muller, J.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>First record of a thalattosaur from the Upper Triassic of Austria</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>27</Volume>
+		<Pages>236-240</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="13">
+		<List>Araeoscelidia</List>
+		<List>Younginiformes</List>
+		<List>Askeptosaurus</List>
+		<List>Thalattosaurus</List>
+		<List>Anshunsaurus</List>
+		<List>Clarazia</List>
+		<List>Hescheleria</List>
+		<List>Xinpusaurus</List>
+		<List>Nectosaurus</List>
+		<List>Paralonectes</List>
+		<List>Agkistrognathus</List>
+		<List>Endennasaurus</List>
+		<List>Kössen_thalattosaur</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="42">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Muller_2007a</Filename>
+	<Parent>Muller_2005a</Parent>
+	<Sibling/>
+</SourceTree>

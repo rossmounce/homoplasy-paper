@@ -1,0 +1,82 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Smith, N. D.</List>
+			<List>Pol, D.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>Anatomy of a basal sauropodomorph dinosaur from the Early Jurassic Hanson Formation of Antarctica</Title>
+		<Journal>Acta Palaeontologica Polonica</Journal>
+		<Volume>52</Volume>
+		<Pages>657-674</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="47">
+		<List>Euparkeria</List>
+		<List>Crurotarsi</List>
+		<List>Marasuchus</List>
+		<List>Silesaurus</List>
+		<List>Ornithischia</List>
+		<List>Eoraptor</List>
+		<List>Agnosphitys</List>
+		<List>Guaibasaurus</List>
+		<List>Chindesaurus</List>
+		<List>Neotheropoda</List>
+		<List>Saturnalia</List>
+		<List>Thecodontosaurus_antiquus</List>
+		<List>Thecodontosaurus_caducus</List>
+		<List>Efraasia</List>
+		<List>Plateosauravus</List>
+		<List>Ruehleia</List>
+		<List>Jingshanosaurus</List>
+		<List>Anchisaurus</List>
+		<List>Yunnanosaurus</List>
+		<List>Melanorosaurus</List>
+		<List>Blikanasaurus</List>
+		<List>Antetonitrus</List>
+		<List>Lessemsaurus</List>
+		<List>Camelotia</List>
+		<List>Gongxianosaurus</List>
+		<List>Isanosaurus</List>
+		<List>Tazoudasaurus</List>
+		<List>Vulcanodon</List>
+		<List>Shunosaurus</List>
+		<List>Barapasaurus</List>
+		<List>Patagosaurus</List>
+		<List>Cetiosaurus</List>
+		<List>Neosauropoda</List>
+		<List>Mamenchisaurus</List>
+		<List>Omeisaurus</List>
+		<List>Massospondylus</List>
+		<List>Coloradisaurus</List>
+		<List>Lufengosaurus</List>
+		<List>Glacialisaurus</List>
+		<List>Eucnemosaurus</List>
+		<List>Riojasaurus</List>
+		<List>Unaysaurus</List>
+		<List>Plateosaurus_gracilis</List>
+		<List>Plateosaurus__=Gresslyosaurus__ingens</List>
+		<List>Plateosaurus_engelhardti</List>
+		<List>Herrerasaurus</List>
+		<List>Staurikosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="361">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Smith_et_Pol_2007a</Filename>
+	<Parent>Yates_2007b</Parent>
+	<Sibling/>
+</SourceTree>

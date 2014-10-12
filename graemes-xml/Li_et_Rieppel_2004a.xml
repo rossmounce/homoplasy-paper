@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Li, J.-L.</List>
+			<List>Rieppel, O.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>A new nothosaur from Middle triassic of Guizhou, China</Title>
+		<Journal>Vertebrata PalAsiatica</Journal>
+		<Volume>42</Volume>
+		<Pages>1-12</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="13">
+		<List>Pachypleurosauria</List>
+		<List>Simosaurus</List>
+		<List>Germanosaurus</List>
+		<List>N_edingerae</List>
+		<List>N_giganteus</List>
+		<List>N_juvenilis</List>
+		<List>N_marchicus</List>
+		<List>N_mirabilis</List>
+		<List>N_haasi</List>
+		<List>N_tchemovi</List>
+		<List>Winterswijk</List>
+		<List>N_jagisteus</List>
+		<List>N_youngi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="25">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Li_et_Rieppel_2004a</Filename>
+	<Parent>Rieppel_2001b</Parent>
+	<Sibling/>
+</SourceTree>

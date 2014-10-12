@@ -1,0 +1,127 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Senter, P.</List>
+			<List>Kirkland, J. I.</List>
+			<List>Bird, J.</List>
+			<List>Bartlett, J. A.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>A new troodontid theropod dinosaur from the Lower Cretaceous of Utah</Title>
+		<Journal>PLoS One</Journal>
+		<Volume>5</Volume>
+		<Pages>1-5</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="90">
+		<List>Dilophosaurus_wetherilli</List>
+		<List>Allosaurus_fragilis</List>
+		<List>Sinraptor_dongi</List>
+		<List>Dilong_paradoxus</List>
+		<List>Guanlong_wucaiwanensis</List>
+		<List>Eotyrannus_lengi</List>
+		<List>Raptorex_kriegsteini</List>
+		<List>Tyrannosaurus_rex</List>
+		<List>Gorgosaurus_libratus</List>
+		<List>Tanycolagreus_topwilsoni</List>
+		<List>Coelurus_fragilis</List>
+		<List>Ornitholestes_hermanni</List>
+		<List>Falcarius_utahensis</List>
+		<List>Beipiaosaurus_inexpectus</List>
+		<List>Alxasaurus_elesitaiensis</List>
+		<List>Erliansaurus_bellamanus</List>
+		<List>Neimongosaurus_yangi</List>
+		<List>Segnosaurus_galbiensis</List>
+		<List>Erlikosaurus_andrewsi</List>
+		<List>Therizinosaurus_cheloniformis</List>
+		<List>Alvarezsaurus_calvoi</List>
+		<List>Patagonykus_puertai</List>
+		<List>Parvicursor_remotus</List>
+		<List>Mononykus_olecranus</List>
+		<List>Shuvuuia_deserti</List>
+		<List>Incisivosaurus_gauthieri</List>
+		<List>Protarchaeopteryx_robusta</List>
+		<List>Caudipteryx_spp.</List>
+		<List>Avimimus_portentosus</List>
+		<List>Microvenator_celer</List>
+		<List>Oviraptor_philoceratops</List>
+		<List>Rinchenia_mongoliensis</List>
+		<List>IGM_100_42_Zamyn_Khondt_oviraptorine_of_Osmólska_et_al_2004</List>
+		<List>Citipati_osmolskae</List>
+		<List>Hagryphus_giganteus</List>
+		<List>Elmisaurus_rarus</List>
+		<List>Chirostenotes_pergracilis</List>
+		<List>Ingenia_yanshini</List>
+		<List>Heyuannia_huangi</List>
+		<List>Conchoraptor_gracilis</List>
+		<List>Khaan_mckennai</List>
+		<List>Anchiornis_huxleyi</List>
+		<List>Sinovenator_changii</List>
+		<List>Mei_long</List>
+		<List>Byronosaurus_jaffei</List>
+		<List>Sinornithoides_youngi</List>
+		<List>Sinusonasus_magnodens</List>
+		<List>Geminiraptor</List>
+		<List>Troodon_formosus</List>
+		<List>Saurornithoides_mongoliensis</List>
+		<List>Zanabazar_junior</List>
+		<List>Unenlagia_spp.</List>
+		<List>Buitreraptor_gonzalezorum</List>
+		<List>Rahonavis_ostromi</List>
+		<List>Bambiraptor_feinbergorum</List>
+		<List>Sinornithosaurus_millenii</List>
+		<List>Microraptor_spp.</List>
+		<List>NGMC91_unnamed_dromaeosaurid_described_in_Ji_et_al_2001</List>
+		<List>Adasaurus_mongoliensis</List>
+		<List>Tsaagan_mangas</List>
+		<List>Velociraptor_mongoliensis</List>
+		<List>Deinonychus_antirrhopus</List>
+		<List>Achillobator_giganteus</List>
+		<List>Dromaeosaurus_albertensis</List>
+		<List>Utahraptor_ostrommaysorum</List>
+		<List>Epidendrosaurus_ninchengensis</List>
+		<List>Epidexipteryx_hui</List>
+		<List>Archaeopteryx_without_data_from_London_specimen</List>
+		<List>Wellnhoferia_grandis</List>
+		<List>Jeholornis_prima</List>
+		<List>Sapeornis_chaoyangensis</List>
+		<List>Confuciusornis_sanctus</List>
+		<List>Protopteryx_fengningensis</List>
+		<List>Yanornis_martini</List>
+		<List>Harpymimus_okladnikovi</List>
+		<List>Deinocheirus_mirificus</List>
+		<List>Shenzhousaurus_orientalis</List>
+		<List>Pelecanimimus_polyodon</List>
+		<List>Garudimimus_brevipes</List>
+		<List>Archaeornithomimus_asiaticus</List>
+		<List>Sinornithomimus_dongi</List>
+		<List>Gallimimus_bullatus</List>
+		<List>Struthiomimus_altus</List>
+		<List>Anserimimus_planinychus</List>
+		<List>Ornithomimus_edmontonicus</List>
+		<List>Huaxiagnathus_orientalis</List>
+		<List>Sinosauropteryx_prima</List>
+		<List>Compsognathus_longipes</List>
+		<List>Scipionyx_samniticus</List>
+		<List>Juravenator_starki</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="364">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Senter_etal_2010a</Filename>
+	<Parent>Senter_2010a</Parent>
+	<Sibling/>
+</SourceTree>

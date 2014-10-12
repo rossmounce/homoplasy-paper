@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Calvo, J. O.</List>
+			<List>Salgado, L.</List>
+		</Author>
+		<Year>1995</Year>
+		<Title>Rebbachisaurus tesonei sp. nov. a new Sauropoda from the Albian-Cenomanian of Argentina; new evidence on the origin of the Diplodocidae</Title>
+		<Journal>Gaia</Journal>
+		<Volume>11</Volume>
+		<Pages>13-33</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="15">
+		<List>PROSAUROPODA</List>
+		<List>Barapasaurus_tagorei</List>
+		<List>Omeisaurus</List>
+		<List>Camarasaurus</List>
+		<List>Brachiosaurus</List>
+		<List>Andesaurus_delgadoi</List>
+		<List>TITANOSAURIDAE</List>
+		<List>Haplocanthosaurus_delfsi</List>
+		<List>Haplocanthosaurus_priscus</List>
+		<List>Rebbachisaurus_tessonei</List>
+		<List>Apatosaurus_lousiae</List>
+		<List>Diplodocus</List>
+		<List>Barosaurus_lentus</List>
+		<List>Dicraeosaurus</List>
+		<List>Amargasaurus_cazaui</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="49">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Calvo_et_Salgado_1995a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>You, H.-L.</List>
+			<List>Luo, Z.-X.</List>
+			<List>Shubin, N. H.</List>
+			<List>Witmer, L. M.</List>
+			<List>Tang, Z.-L.</List>
+			<List>Tang, F.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>The earliest-known duck-billed dinosaur from deposits of late Early Cretaceous age in northwest China and hadrosaur evolution</Title>
+		<Journal>Cretaceous Research</Journal>
+		<Volume>24</Volume>
+		<Pages>347-355</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="15">
+		<List>Hypsilophodon</List>
+		<List>Dryosaurus</List>
+		<List>Camptosaurus</List>
+		<List>Nanyangosaurus</List>
+		<List>Jinzhousaurus</List>
+		<List>Iguanoden</List>
+		<List>Altirhinus</List>
+		<List>Ouranosaurus</List>
+		<List>Equijubus</List>
+		<List>Probactrosaurus</List>
+		<List>Bactrosaurus</List>
+		<List>Protohadros</List>
+		<List>Telmatosaurus</List>
+		<List>Hadrosaurinae</List>
+		<List>Lambeosaurinae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="66">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>You_etal_2003a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

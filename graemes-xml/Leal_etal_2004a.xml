@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Leal, L. A.</List>
+			<List>Azevedo, S. A.</List>
+			<List>Kellner, A. W. A.</List>
+			<List>Da Rosa, A. A. S.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>A new early dinosaur (Sauropodomorpha) from the Caturrita Formation (Late Triassic), Paran Basin, Brazil</Title>
+		<Journal>Zootaxa</Journal>
+		<Volume>690</Volume>
+		<Pages>1-24</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="22">
+		<List>Crurotarsi</List>
+		<List>Marasuchus</List>
+		<List>Ornithischia</List>
+		<List>Herrerasauridae</List>
+		<List>Neotheropoda</List>
+		<List>Saturnalia</List>
+		<List>T._antiquus</List>
+		<List>T._caducus</List>
+		<List>Efraasia</List>
+		<List>Anchisaurus</List>
+		<List>Riojasaurus</List>
+		<List>Lufengosaurus</List>
+		<List>Coloradisaurus</List>
+		<List>Massospondylus</List>
+		<List>Yunnanosaurus</List>
+		<List>Euskelosaurus</List>
+		<List>Melanorosaurus</List>
+		<List>Blikanosaurus</List>
+		<List>Vulcanodon</List>
+		<List>Eusauropoda</List>
+		<List>Plateosaurus</List>
+		<List>Unaysaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="164">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Leal_etal_2004a</Filename>
+	<Parent>Yates_2003b</Parent>
+	<Sibling/>
+</SourceTree>

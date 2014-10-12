@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Wang, S.</List>
+			<List>Sun, C.-K.</List>
+			<List>Sullivan, C.</List>
+			<List>Xu, X.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>A new oviraptorid (Dinosauria: Theropoda) from the Upper Cretaceous of southern China</Title>
+		<Journal>Zootaxa</Journal>
+		<Volume>3640</Volume>
+		<Pages>242-257</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="19">
+		<List>Herrerasaurus_ischigualastensis</List>
+		<List>Velociraptor_mongoliensis</List>
+		<List>Archaeopteryx_lithographica</List>
+		<List>Avimimus_portentosus</List>
+		<List>Caudipteryx_zoui</List>
+		<List>Chirostenotes_pergracilis</List>
+		<List>Gigantoraptor_erlianensis</List>
+		<List>Rinchenia_mongoliensis</List>
+		<List>Zamyn_Khondt_oviraptorid</List>
+		<List>Conchoraptor_gracilis</List>
+		<List>Ingenia_yanshini</List>
+		<List>Citipati_osmolskae</List>
+		<List>Khaan_mckennai</List>
+		<List>Machairasaurus_leptonychus</List>
+		<List>Heyuannia_huangi</List>
+		<List>Nemegtomaia_barsboldi</List>
+		<List>Oviraptor_philoceratops</List>
+		<List>Banji_long</List>
+		<List>Ganzhousaurus_nankangensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="185">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Wang_etal_2013b</Filename>
+	<Parent>Longrich_etal_2010b</Parent>
+	<Sibling/>
+</SourceTree>

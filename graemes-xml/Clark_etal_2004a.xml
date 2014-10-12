@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Clark, J. M.</List>
+			<List>Maryanska, T.</List>
+			<List>Barsbold, R.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>Therizinosauroidea</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>151-164</Pages>
+		<Booktitle>The Dinosauria (Second Edition)</Booktitle>
+		<Publisher>University of California Press</Publisher>
+		<City>Berkeley</City>
+		<Editor>
+			<List>Weishampel, D. B.</List>
+			<List>Dodson, P.</List>
+			<List>Osmolska, H.</List>
+		</Editor>
+	</Source>
+	<Taxa number="15">
+		<List>Oviraptorosauria</List>
+		<List>Ornithomimosauria</List>
+		<List>Dromaeosauridae</List>
+		<List>Troodontidae</List>
+		<List>Alvarezsauridae</List>
+		<List>Eshanosaurus</List>
+		<List>Beipiaosaurus</List>
+		<List>Alxasaurus</List>
+		<List>Enigmosaurus</List>
+		<List>Erlikosaurus</List>
+		<List>Segnosaurus</List>
+		<List>N._brevispinus</List>
+		<List>Therizinosaurus</List>
+		<List>Neimongosaurus</List>
+		<List>Nothronychus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="40">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Clark_etal_2004a</Filename>
+	<Parent>Xu_etal_1999a</Parent>
+	<Sibling/>
+</SourceTree>

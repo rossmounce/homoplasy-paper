@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Schott, R. K.</List>
+			<List>Evans, D. C.</List>
+			<List>Williamson, T. E.</List>
+			<List>Carr, T. D.</List>
+			<List>Goodwin, M. B.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>The anatomy and systematics of <em>Colepiocephale lambei</em> (Dinosauria: Pachycephalosauridae)</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>29</Volume>
+		<Pages>771-786</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="21">
+		<List>Psittacosaurus_mongoliensis</List>
+		<List>Stenopelix_valdensis</List>
+		<List>Wannanosaurus_yanshiensis</List>
+		<List>Yaverlandia_bitholus</List>
+		<List>Goyocephale_lattimorei</List>
+		<List>Homalocephale_calathocercos</List>
+		<List>Pachycephalosauridae_indet_Ornatotholus_browni_holotype_AMNH_5450</List>
+		<List>Tylocephale_gilmorei</List>
+		<List>Prenocephale_prenes</List>
+		<List>Pachycephalosauridae_indet_SMP_VP_1084</List>
+		<List>Stegoceras_edmontonense_holotype_CMN_8830</List>
+		<List>Sphaerotholus_goodwini_holotype_NMMNH_P_27403</List>
+		<List>Sphaerotholus_buchholtzae_holotype_TMP_87.113.3</List>
+		<List>Stygimoloch_spinifer</List>
+		<List>Pachycephalosaurus_wyomingensis</List>
+		<List>Stegoceras_breve_holotype_CMN_1423</List>
+		<List>Stegoceras_sternbergi_holotype_CMN_8817</List>
+		<List>Stegoceras_lambei_holotype_CMN_8818</List>
+		<List>Stegoceras_validum_UA_2</List>
+		<List>Stegoceras_sp._Gravitholus_albertae_holotype_TMP_72.27.1</List>
+		<List>Stegoceras_sp._UCMP_130051</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="53">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Schott_etal_2009ab</Filename>
+	<Parent>Williamson_et_Carr_2002a</Parent>
+	<Sibling/>
+</SourceTree>

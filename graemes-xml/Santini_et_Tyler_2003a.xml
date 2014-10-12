@@ -1,0 +1,93 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Santini, F.</List>
+			<List>Tyler, J. C.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>A phylogeny of the families of fossil and extant tetraodontiform fishes (Acanthomorpha, Tetraodontiformes), Upper Cretaceous to Recent</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>139</Volume>
+		<Pages>565-617</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="58">
+		<List>Antigonia_capros</List>
+		<List>Cyttus_novaezelandiae</List>
+		<List>Cretatriacanthus_guidottii</List>
+		<List>Plectocretacicus_clarae</List>
+		<List>Protriacanthus_gortanii</List>
+		<List>Parahollardia_lineata</List>
+		<List>Triacanthodes_anomalus</List>
+		<List>Prohollardia_avita</List>
+		<List>Carpathospinosus_propheticus</List>
+		<List>Protacanthodes_ombonii</List>
+		<List>Protacanthodes_nimesensis</List>
+		<List>Pseudotriacanthus_strigilifer</List>
+		<List>Triacanthus_biaculeatus</List>
+		<List>Acanthopleurus_serratus</List>
+		<List>Acanthopleurus_collettei</List>
+		<List>Acanthopleurus_trispinosus</List>
+		<List>Cryptobalistes_brevis</List>
+		<List>Spinacanthus_cuneiformis</List>
+		<List>Protobalistum_imperialis</List>
+		<List>Balistapus_undulatus</List>
+		<List>Balistes_vetula</List>
+		<List>Bolcabalistes_varii</List>
+		<List>Moclaybalistes_danekrus</List>
+		<List>Eospinus_daniltshenkoi</List>
+		<List>Balistomorphus_orbiculatus</List>
+		<List>Balistomorphus_ovalis</List>
+		<List>Balistomorphus_spinosus</List>
+		<List>Oligobalistes_robustus</List>
+		<List>Monacanthus_ciliatus</List>
+		<List>Stephanolepis_hispidus</List>
+		<List>Kentrocapros_aculeatus</List>
+		<List>Aracana_aurita</List>
+		<List>Proaracana_dubia</List>
+		<List>Acanthostracion_quadricornis</List>
+		<List>Ostracion_tuberculatus</List>
+		<List>Eolactoria_sorbinii</List>
+		<List>Oligolactoria_bubiki</List>
+		<List>Triodon_macropterus</List>
+		<List>Triodon_antiquus</List>
+		<List>Eoplectus_bloti</List>
+		<List>Zignoichthys_oblongus</List>
+		<List>Lagocephalus_laevigatus</List>
+		<List>Sphoeroides_maculatus</List>
+		<List>Canthigaster_rostrata</List>
+		<List>Eotetraodon_pygmaeus</List>
+		<List>Archaeotetraodon_winterbottomi</List>
+		<List>Archaeotetraodon_jamestyleri</List>
+		<List>Sphoeroides_hyperostosus</List>
+		<List>Diodon_holocanthus</List>
+		<List>Chilomycterus_schoepfi</List>
+		<List>Pshekhadiodon_parini</List>
+		<List>Prodiodon_tenuispinus</List>
+		<List>Prodiodon_erinaceus</List>
+		<List>Heptadiodon_echinus</List>
+		<List>Zignodon_fornasieroae</List>
+		<List>Mola_mola</List>
+		<List>Ranzania_laevis</List>
+		<List>Eomola_bimaxillaria</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="219">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Santini_et_Tyler_2003a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

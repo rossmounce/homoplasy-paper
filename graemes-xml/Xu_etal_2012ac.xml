@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Xu, X.</List>
+			<List>Wang, K.-B.</List>
+			<List>Zhang, K.</List>
+			<List>Ma, Q.-Y.</List>
+			<List>Xing, L.</List>
+			<List>Sullivan, C.</List>
+			<List>Hu, D.-Y.</List>
+			<List>Cheng, S.-Q.</List>
+			<List>Wang, S.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>A gigantic feathered dinosaur from the Lower Cretaceous of China</Title>
+		<Journal>Nature</Journal>
+		<Volume>484</Volume>
+		<Pages>92-95</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="25">
+		<List>Allosaurus</List>
+		<List>Compsogs</List>
+		<List>Maniraptora</List>
+		<List>Ornithomimos</List>
+		<List>Kileskus</List>
+		<List>Guanlong</List>
+		<List>Proceratosaurus</List>
+		<List>Dilong</List>
+		<List>Stokesosaurus</List>
+		<List>Sinotyrannus</List>
+		<List>Yutyrannus_huali</List>
+		<List>Eotyrannus</List>
+		<List>Xiongguanlong</List>
+		<List>Dryptosaurus</List>
+		<List>Raptorex</List>
+		<List>Appalachiosaurus</List>
+		<List>Bistahieversor</List>
+		<List>Albertosaurus</List>
+		<List>Gorgosaurus</List>
+		<List>Alioramus</List>
+		<List>Daspletosaurus</List>
+		<List>Tarbosaurus</List>
+		<List>Tyrannosaurus</List>
+		<List>Utah</List>
+		<List>Teratophoneus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="307">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Xu_etal_2012ac</Filename>
+	<Parent>Brusatte_etal_2010a</Parent>
+	<Sibling>Xu_etal_2012ab</Sibling>
+</SourceTree>

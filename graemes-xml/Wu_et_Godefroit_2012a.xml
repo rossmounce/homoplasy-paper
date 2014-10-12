@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Wu, W.-H.</List>
+			<List>Godefroit, P.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>Anatomy and relationships of <em>Bolong yixianensis</em>, an Early Cretaceous iguanodontoid dinosaur from western Liaoning, China</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>292-333</Pages>
+		<Booktitle>Bernisssart Dinosaurs and Early Cretaceous Terrestrial Ecosystems</Booktitle>
+		<Publisher>Indiana University Press</Publisher>
+		<City>Bloomington</City>
+		<Editor>
+			<List>Godefroit, P.</List>
+		</Editor>
+	</Source>
+	<Taxa number="25">
+		<List>Hypsilophodon</List>
+		<List>Zalmoxes</List>
+		<List>Tenontosaurus</List>
+		<List>Dryosaurus</List>
+		<List>Camptosaurus</List>
+		<List>Iguanodon</List>
+		<List>Mantellisaurus</List>
+		<List>Ouranosaurus</List>
+		<List>Bolong</List>
+		<List>Jinzhousaurus</List>
+		<List>Equijubus</List>
+		<List>Altirhinus</List>
+		<List>Batyrosaurus</List>
+		<List>Probactrosaurus</List>
+		<List>Eolambia</List>
+		<List>Protohadros</List>
+		<List>Shangmiaosaurus</List>
+		<List>Bactrosaurus</List>
+		<List>Levnesovia</List>
+		<List>Tethyshadros</List>
+		<List>Telmatosaurus</List>
+		<List>Brachylophosaurus</List>
+		<List>Edmontosaurus</List>
+		<List>Parasaurolophus</List>
+		<List>Corythosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="108">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Wu_et_Godefroit_2012a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

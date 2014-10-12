@@ -1,0 +1,70 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Zhu, M.</List>
+			<List>Schultze, H.-P.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>Interrelationships of basal osteichthyans</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>289-314</Pages>
+		<Booktitle>Major Events in Early Vertebrate Evolution: Palaeontology, Phylogeny, Genetics and Development</Booktitle>
+		<Publisher>CRC Press</Publisher>
+		<City>London</City>
+		<Editor>
+			<List>Ahlberg, P. E.</List>
+		</Editor>
+	</Source>
+	<Taxa number="33">
+		<List>Acanthodes</List>
+		<List>Barameda</List>
+		<List>Beelarongia</List>
+		<List>Cheirolepis</List>
+		<List>Crassigyrinus</List>
+		<List>Ctenacanthus</List>
+		<List>Dlabolepis</List>
+		<List>Dialipina</List>
+		<List>Dicksonosteus</List>
+		<List>Diplocercides</List>
+		<List>Dipnorhynchus</List>
+		<List>Elpistostege</List>
+		<List>Eusthenopteron</List>
+		<List>Glyptolepis</List>
+		<List>Gyroptychius</List>
+		<List>Holoptychius</List>
+		<List>Ichthyostega</List>
+		<List>Kenichthys</List>
+		<List>Miguashaia</List>
+		<List>Mimia</List>
+		<List>Moythomasia</List>
+		<List>Onychodus</List>
+		<List>Osteolepis</List>
+		<List>Panderichthys</List>
+		<List>Polypterus</List>
+		<List>Porolepis</List>
+		<List>Powichthys</List>
+		<List>Psarolepis</List>
+		<List>Speonesydrion</List>
+		<List>Strepsodus</List>
+		<List>Strunius</List>
+		<List>Uranolophus</List>
+		<List>Youngolepis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="216">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Zhu_et_Schultze_2001a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

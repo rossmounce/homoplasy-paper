@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Novas, F. E.</List>
+			<List>Valais, S.</List>
+			<List>Vickers-Rich, P.</List>
+			<List>Rich, T.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>A large Cretaceous theropod from Patagonia, Argentina, and the evolution of carcharodontosaurids</Title>
+		<Journal>Naturwissenschaften</Journal>
+		<Volume>92</Volume>
+		<Pages>226-230</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="15">
+		<List>Herrerasaurus</List>
+		<List>Ceratosaurus</List>
+		<List>Abelisaurus</List>
+		<List>Majungatholus</List>
+		<List>Carnotaurus</List>
+		<List>Acrocanthosaurus</List>
+		<List>Allosaurus</List>
+		<List>Monolophosaurus</List>
+		<List>Sinraptor</List>
+		<List>Tyrannotitan</List>
+		<List>Carcharodontosaurus</List>
+		<List>Giganotosaurus</List>
+		<List>Tyrannosaurus</List>
+		<List>Dromaeosauridae</List>
+		<List>Oviraptor</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="106">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Novas_etal_2005a</Filename>
+	<Parent>Currie_et_Carpenter_2000a</Parent>
+	<Sibling/>
+</SourceTree>

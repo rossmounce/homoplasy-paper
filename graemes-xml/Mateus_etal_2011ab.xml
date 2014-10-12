@@ -1,0 +1,90 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Mateus, O.</List>
+			<List>Jacobs, L. E.</List>
+			<List>Schulp, A. S.</List>
+			<List>Polcyn, M. J.</List>
+			<List>Tavares, T. S.</List>
+			<List>Neto, A. B.</List>
+			<List>Morais, M. L.</List>
+			<List>Antunes, M. T.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title><em>Angolatitan adamastor</em>, a new sauropod dinosaur and the first record from Angola</Title>
+		<Journal>Anais da Academia Brasileira de Ciencias</Journal>
+		<Volume>83</Volume>
+		<Pages>221-233</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="49">
+		<List>Marasuchus</List>
+		<List>Pseudolagosuchus</List>
+		<List>Ornithischia</List>
+		<List>Herrerasaurus</List>
+		<List>Neotheropoda</List>
+		<List>Prosauropoda</List>
+		<List>Vulcanodon</List>
+		<List>Kotasaurus</List>
+		<List>Shunosaurus</List>
+		<List>Atlasaurus</List>
+		<List>Barapasaurus</List>
+		<List>Bellusaurus</List>
+		<List>Camarasaurus</List>
+		<List>Cetiosaurus</List>
+		<List>Euhelopus</List>
+		<List>Haplocanthosaurus</List>
+		<List>Jobaria</List>
+		<List>Lourinhasaurus</List>
+		<List>Mamenchisaurus</List>
+		<List>Nemegtosaurus</List>
+		<List>Nigersaurus</List>
+		<List>Patagosaurus</List>
+		<List>Quaesitosaurus</List>
+		<List>Rayososaurus</List>
+		<List>Aragosaurus</List>
+		<List>Andesaurus</List>
+		<List>Austrosaurus</List>
+		<List>Lapparentosaurus</List>
+		<List>Phuwiangosaurus</List>
+		<List>Pleurocoelus_tex</List>
+		<List>Angolatitan</List>
+		<List>Malawisaurus</List>
+		<List>Gondwanatitan</List>
+		<List>Titanosaurus</List>
+		<List>Lirainosaurus</List>
+		<List>Argentinosaurus</List>
+		<List>Alamosaurus</List>
+		<List>Pellegrinisaurus</List>
+		<List>Opisthocoelicaudia</List>
+		<List>Saltasaurus</List>
+		<List>Brachiosaurus</List>
+		<List>Cedarosaurus</List>
+		<List>Amargasaurus</List>
+		<List>Dicraeosaurus</List>
+		<List>Apatosaurus</List>
+		<List>Barosaurus</List>
+		<List>Diplodocus</List>
+		<List>Omeisaurus</List>
+		<List>Tehuelchesaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="309">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Mateus_etal_2011ab</Filename>
+	<Parent>Upchurch_etal_2004b</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Castro, M. C.</List>
+			<List>Ribeiro, A. M.</List>
+			<List>Ferigolo, J.</List>
+			<List>Langer, M. C.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>Redescription of <em>Dasypus punctatus</em> Lund, 1840 and considerations on the genus <em>Propraopus</em> Ameghino, 1881 (Xenarthra, Cingulata)</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>33</Volume>
+		<Pages>434-447</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="9">
+		<List>Stegotherium_tauberi</List>
+		<List>Anadasypus_hondanus</List>
+		<List>Dasypus_punctatus</List>
+		<List>Dasypus_hybridus</List>
+		<List>Dasypus_kappleri</List>
+		<List>Dasypus_novemcinctus</List>
+		<List>Dasypus_septemcinctus</List>
+		<List>Propraopus_grandis</List>
+		<List>Propraopus_sulcatus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="18">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Castro_etal_2013aa</Filename>
+	<Parent/>
+	<Sibling>Castro_etal_2013ab</Sibling>
+</SourceTree>

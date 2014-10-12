@@ -1,0 +1,66 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sander, P. M.</List>
+			<List>Mateus, O.</List>
+			<List>Laven, T.</List>
+			<List>Knotschke, N.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>Bone histology indicates insular dwarfism in a new Late Jurassic sauropod dinosaur</Title>
+		<Journal>Nature</Journal>
+		<Volume>441</Volume>
+		<Pages>739-741</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="29">
+		<List>Ancestor</List>
+		<List>Vulcanodon</List>
+		<List>Barapasaurus</List>
+		<List>Patagosaurus</List>
+		<List>Cetiosaurus</List>
+		<List>Camarasaurus</List>
+		<List>Haplocanthosaurus</List>
+		<List>Phuwiangosaurus</List>
+		<List>Andesaurus</List>
+		<List>Malawisaurus</List>
+		<List>Alamosaurus</List>
+		<List>Opisthocoelicaudia</List>
+		<List>Saltasaurus</List>
+		<List>Brachiosaurus</List>
+		<List>Lapparentosaurus</List>
+		<List>Europasaurus</List>
+		<List>Antarctosaurus</List>
+		<List>Rebbachisaurus</List>
+		<List>Amargasaurus</List>
+		<List>Dicraeosaurus</List>
+		<List>Apatosaurus</List>
+		<List>Barosaurus</List>
+		<List>Diplodocus</List>
+		<List>Nemegtosaurus</List>
+		<List>Quaesitosaurus</List>
+		<List>Shunosaurus</List>
+		<List>Euhelopus</List>
+		<List>Mamenchisaurus</List>
+		<List>Omeisaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="219">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sander_etal_2006ab</Filename>
+	<Parent>Upchurch_1999a</Parent>
+	<Sibling/>
+</SourceTree>

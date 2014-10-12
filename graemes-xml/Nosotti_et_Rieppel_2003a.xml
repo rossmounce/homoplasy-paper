@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Nosotti, S.</List>
+			<List>Rieppel, O.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title><em>Eusaurophargis dalsassoi</em> n. gen. n. sp., a new, unusual diapsid reptile from the Middle Triassic of Besano (Lomabrdy, Italy)</Title>
+		<Journal>Memoire della Societa Italiana di Scienze Naturali e del Museo Civico di Storia Naturale di Milano</Journal>
+		<Volume>31</Volume>
+		<Pages>1-33</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="32">
+		<List>Ancestor</List>
+		<List>Captorhinidae</List>
+		<List>Testudines</List>
+		<List>Araeoscelidia</List>
+		<List>Younginiformes</List>
+		<List>Kuehneosauridae</List>
+		<List>Rhynchocephalia</List>
+		<List>Squamata</List>
+		<List>Rhynchosauria</List>
+		<List>Prolacertiformes</List>
+		<List>Trilophosaurus</List>
+		<List>Choristodera</List>
+		<List>Archosauriformes</List>
+		<List>Claudiosaurus</List>
+		<List>Anaro_dash_Dactylo</List>
+		<List>Serpiano_dash_Neustico</List>
+		<List>Simosaurus</List>
+		<List>Nothosaurus</List>
+		<List>Lariosaurus</List>
+		<List>Corosaurus</List>
+		<List>Cymatosaurus</List>
+		<List>Germanosaurus</List>
+		<List>Pistosaurus</List>
+		<List>Placodus</List>
+		<List>Cyamodus</List>
+		<List>Augustasaurus</List>
+		<List>Plesiosaurus</List>
+		<List>Helveticosaurus</List>
+		<List>Thalattosauria</List>
+		<List>BES_SC_390</List>
+		<List>Paraplacodus</List>
+		<List>Saurosphargis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="143">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Nosotti_et_Rieppel_2003a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

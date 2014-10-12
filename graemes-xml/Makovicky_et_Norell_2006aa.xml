@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Makovicky, P. J.</List>
+			<List>Norell, M. A.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>Yamaceratops dorngobiensis, a new primitive ceratopsian (Dinosauria: Ornithischia) from the Cretaceous of Mongolia</Title>
+		<Journal>American Museum Novitates</Journal>
+		<Volume>3530</Volume>
+		<Pages>1-42</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="20">
+		<List>Hypsilophodon_foxi</List>
+		<List>Stegoceras_validus</List>
+		<List>Liaoceratops_yanzhiguouensis</List>
+		<List>Archaeoceratops_oshimai</List>
+		<List>Asiaceratops_salsopaludalis</List>
+		<List>Yamaceratops_gobiensis</List>
+		<List>Graciliceratops_mongoliensis</List>
+		<List>Bagaceratops_rozhdestvenskyi</List>
+		<List>Protoceratops_andrewsi</List>
+		<List>Zuniceratops_christopheri</List>
+		<List>Centrosaurus_apertus</List>
+		<List>Triceratops_horridus</List>
+		<List>Montanoceratops_cerorhynchus</List>
+		<List>Leptoceratops_gracilis</List>
+		<List>Udanoceratops_tahizhovi</List>
+		<List>Prenoceratops_peiganensis</List>
+		<List>Psittacosaurus_mongoliensis</List>
+		<List>Psittacosaurus_sinensis</List>
+		<List>Chaoyangsaurus_youngi</List>
+		<List>IVPP_V12722</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="133">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Makovicky_et_Norell_2006aa</Filename>
+	<Parent/>
+	<Sibling>Makovicky_et_Norell_2006ab</Sibling>
+</SourceTree>

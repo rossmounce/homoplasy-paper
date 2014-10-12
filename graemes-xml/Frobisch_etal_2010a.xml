@@ -1,0 +1,80 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Frobisch, J.</List>
+			<List>Angielczyk, K. D.</List>
+			<List>Sidor, C. A.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>The Triassic dicynodont <em>Kombuisia</em> (Synapsida, Anomodontia) from Antarctica, a refuge from the terrestrial Permian-Triassic mass extinction</Title>
+		<Journal>Naturwissenschaften</Journal>
+		<Volume>97</Volume>
+		<Pages>187-196</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="44">
+		<List>Titanophoneus</List>
+		<List>Gorgonops</List>
+		<List>Lycosuchidae</List>
+		<List>Anomocephalus</List>
+		<List>Patranomodon</List>
+		<List>Otsheria</List>
+		<List>Suminia</List>
+		<List>Ulemica</List>
+		<List>Galeops</List>
+		<List>Eodicynodon</List>
+		<List>Colobodectes</List>
+		<List>Robertia</List>
+		<List>Diictodon</List>
+		<List>Pristerodon</List>
+		<List>Endothiodon</List>
+		<List>Chelydontops</List>
+		<List>Dicynodontoides</List>
+		<List>Cistecephalus</List>
+		<List>Myosaurus</List>
+		<List>Tropidostoma</List>
+		<List>Oudenodon</List>
+		<List>Rhachiocephalus</List>
+		<List>Pelanomodon</List>
+		<List>Aulacephalodon</List>
+		<List>Dicynodon_lacerticeps</List>
+		<List>Lystrosaurus</List>
+		<List>Kannemeyeria</List>
+		<List>Idelesaurus</List>
+		<List>Interpresosaurus</List>
+		<List>Elph</List>
+		<List>Dicynodon_trautscholdi</List>
+		<List>Delectosaurus</List>
+		<List>Vivaxosaurus</List>
+		<List>Dicynodon_amalitzkii</List>
+		<List>Australobarbarus</List>
+		<List>Geikiaelginensis</List>
+		<List>Geikialocusticeps</List>
+		<List>Kawingasaurus</List>
+		<List>Cistecephaloides</List>
+		<List>Lanthanostegus</List>
+		<List>Emydops_arctatus</List>
+		<List>Emydops_oweni</List>
+		<List>Kombuisia_frerensis</List>
+		<List>Kombuisia_antarctica</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="102">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Frobisch_etal_2010a</Filename>
+	<Parent>Frobisch_et_Reisz_2008a</Parent>
+	<Sibling/>
+</SourceTree>

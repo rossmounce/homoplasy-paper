@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Modesto, S. P.</List>
+			<List>Rubidge, B. S.</List>
+			<List>Welman, J.</List>
+		</Author>
+		<Year>2002</Year>
+		<Title>A new dicynodont therapsid from the lowermost Beaufort Group, Upper Permian of South Africa</Title>
+		<Journal>Canadian Journal of Earth Sciences</Journal>
+		<Volume>39</Volume>
+		<Pages>1755-1765</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="23">
+		<List>Patranomodon</List>
+		<List>Otsheria</List>
+		<List>Eodicynodon</List>
+		<List>Robertia</List>
+		<List>Diictodon</List>
+		<List>Endothiodon</List>
+		<List>Chelydontops</List>
+		<List>Pristerodon</List>
+		<List>Emydops</List>
+		<List>Kingoria</List>
+		<List>Cistecephalus</List>
+		<List>Myosaurus</List>
+		<List>Tropidostoma</List>
+		<List>Oudenodon</List>
+		<List>Rhachiocephalus</List>
+		<List>Pelanomodon</List>
+		<List>Aulacephalodon</List>
+		<List>Dicynodon</List>
+		<List>Lystrosaurus</List>
+		<List>Kannemeyeria</List>
+		<List>Odontocyclops</List>
+		<List>Dicynodon_lacerticeps</List>
+		<List>Lanthanocephalus_mohoii</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="40">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Modesto_etal_2002a</Filename>
+	<Parent>Angielczyk_2001a</Parent>
+	<Sibling/>
+</SourceTree>

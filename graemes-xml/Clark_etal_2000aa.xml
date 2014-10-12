@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Clark, J. M.</List>
+			<List>Sues, H.-D.</List>
+			<List>Berman, D. S.</List>
+		</Author>
+		<Year>2000</Year>
+		<Title>A new specimen of Hesperosuchus agilis from the Upper Triassic of New Mexico and the interrelationships of basal crocodylomorph archosaurs</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>20</Volume>
+		<Pages>683-704</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Stagonolepis</List>
+		<List>Gracilisuchus</List>
+		<List>Postosuchus</List>
+		<List>BP_slash_1_slash_5237</List>
+		<List>Pseudhesperosuchus</List>
+		<List>Hesperosuchus_AMNH_6758</List>
+		<List>Hesperosuchus_CM_29894</List>
+		<List>Hesperosuchus_UCMP_129470</List>
+		<List>Saltoposuchus</List>
+		<List>Terrestrisuchus</List>
+		<List>Dibothrosuchus</List>
+		<List>Sphenosuchus</List>
+		<List>Protosuchus</List>
+		<List>Alligator</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="33">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Clark_etal_2000aa</Filename>
+	<Parent/>
+	<Sibling>Clark_etal_2000ab</Sibling>
+</SourceTree>

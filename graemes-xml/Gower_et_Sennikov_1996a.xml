@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Gower, D. J.</List>
+			<List>Sennikov, A. G.</List>
+		</Author>
+		<Year>1996</Year>
+		<Title>Morphology and phylogenetic informativeness of early archosaur braincases</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>39</Volume>
+		<Pages>883-906</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List>Prolacerta</List>
+		<List>Proterosuchus</List>
+		<List>Fugusuchus</List>
+		<List>Sarmatosuchus</List>
+		<List>Xilousuchus</List>
+		<List>Vjushkovia</List>
+		<List>Erythrosuchus</List>
+		<List>Shansisuchus</List>
+		<List>Euparkeria</List>
+		<List>Sphenosuchus</List>
+		<List>Parasuchia</List>
+		<List>Stagonolepis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="17">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Gower_et_Sennikov_1996a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

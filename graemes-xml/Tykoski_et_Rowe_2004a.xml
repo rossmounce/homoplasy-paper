@@ -1,0 +1,61 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Tykoski, R. S.</List>
+			<List>Rowe, T.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>Ceratosauria</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>47-70</Pages>
+		<Booktitle>The Dinosauria (Second Edition)</Booktitle>
+		<Publisher>University of California Press</Publisher>
+		<City>Berkeley</City>
+		<Editor>
+			<List>Weishampel, D. B.</List>
+			<List>Dodson, P.</List>
+			<List>Osmolska, H.</List>
+		</Editor>
+	</Source>
+	<Taxa number="22">
+		<List>Ornithischia</List>
+		<List>Prosauropoda</List>
+		<List>Herrerasaurus</List>
+		<List>Allosaurus</List>
+		<List>Torvosaurus</List>
+		<List>Spinosauridae</List>
+		<List>Dilophosaurus</List>
+		<List>Liliensternus</List>
+		<List>Procompsognathus</List>
+		<List>Segisaurus</List>
+		<List>Coelophysis</List>
+		<List>S._kayentakatae</List>
+		<List>S._rhodesiensis</List>
+		<List>Elaphrosaurus</List>
+		<List>Ceratosaurus</List>
+		<List>Xenotarsosaurus</List>
+		<List>Noasaurus</List>
+		<List>Masiakasaurus</List>
+		<List>Ilokelesia</List>
+		<List>Abelisaurus</List>
+		<List>Majungatholus</List>
+		<List>Carnotaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="175">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Tykoski_et_Rowe_2004a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

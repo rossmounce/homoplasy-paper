@@ -1,0 +1,97 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Hu, H.</List>
+			<List>Zhou, Z.-H.</List>
+			<List>O'Connor, J.-M.</List>
+		</Author>
+		<Year>2014</Year>
+		<Title>A subadult specimen of <em>Pengornis</em> and character evolution in Enantiornithes</Title>
+		<Journal>Vertebrata PalAsiatica</Journal>
+		<Volume>52</Volume>
+		<Pages>77-97</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="61">
+		<List>Dromaeosauridae</List>
+		<List>Archaeopteryx</List>
+		<List>Jeholornis</List>
+		<List>Rahonavis</List>
+		<List>Shenzhouraptor</List>
+		<List>Jixiangornis</List>
+		<List>Zhongornis</List>
+		<List>Sapeornis</List>
+		<List>Didactylornis</List>
+		<List>Confuciusornis_sanctus</List>
+		<List>Changchengornis</List>
+		<List>Eoconfuciusornis</List>
+		<List>Jinzhouornis_zhangjiyingia</List>
+		<List>Confuciusornis_dui</List>
+		<List>Chaoyangia</List>
+		<List>Zhongjianornis</List>
+		<List>Boluochia</List>
+		<List>Shenqiornis</List>
+		<List>Cathyaornis</List>
+		<List>Concornis</List>
+		<List>Elsornis</List>
+		<List>Eoalulavis</List>
+		<List>Eocathayornis</List>
+		<List>Eoenantiornis</List>
+		<List>Gobipteryx</List>
+		<List>Iberomesornis</List>
+		<List>Longipteryx</List>
+		<List>Longirostravis</List>
+		<List>Neuquenornis</List>
+		<List>Otogornis</List>
+		<List>Pengornis_houi</List>
+		<List>Protopteryx</List>
+		<List>Rapaxavis</List>
+		<List>Shanweiniao</List>
+		<List>Vescornis</List>
+		<List>Vorona</List>
+		<List>Schizooura</List>
+		<List>Jianchangornis</List>
+		<List>Archaeorhynchus</List>
+		<List>Liaoningornis</List>
+		<List>Songlingornis</List>
+		<List>Ambiortus</List>
+		<List>Longicrusavis</List>
+		<List>Apsaravis</List>
+		<List>Hongshanornis</List>
+		<List>Yanornis</List>
+		<List>Patagopteryx</List>
+		<List>Hollanda</List>
+		<List>Yixianornis</List>
+		<List>Gansus</List>
+		<List>Ichthyornis</List>
+		<List>Hesperornis</List>
+		<List>Parahesperornis</List>
+		<List>Enaliornis</List>
+		<List>Baptornis_advenus</List>
+		<List>Baptornis_varneri</List>
+		<List>Limenavis</List>
+		<List>Vegavis</List>
+		<List>Anas</List>
+		<List>Gallus</List>
+		<List>IVPP_V_18632</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="246">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Hu_etal_2014a</Filename>
+	<Parent>OConnor_et_Zhou_inpressa</Parent>
+	<Sibling/>
+</SourceTree>

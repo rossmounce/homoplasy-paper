@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Casanovas, M. L. Pereda Suberbiola, X.</List>
+			<List>Satnafe, J. V.</List>
+			<List>Weishampel, D. B.</List>
+		</Author>
+		<Year>1999</Year>
+		<Title>First lambeosaurine hadrosaurid from Europe; palaeobiogeographical implications</Title>
+		<Journal>Geological Magazine</Journal>
+		<Volume>136</Volume>
+		<Pages>205-211</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="7">
+		<List>Outgroup</List>
+		<List>Ouranosaurus</List>
+		<List>Telmatosaurus</List>
+		<List>Hadrosaurinae</List>
+		<List>Pararhabdodon</List>
+		<List>Parasaurolophus</List>
+		<List>Corythosaurinii</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="26">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Casanovas_etal_1999b</Filename>
+	<Parent>Weishampel_etal_1993a</Parent>
+	<Sibling/>
+</SourceTree>

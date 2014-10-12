@@ -1,0 +1,79 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Tortosa, T.</List>
+			<List>Buffetaut, E.</List>
+			<List>Vialle, N.</List>
+			<List>Dutour, Y.</List>
+			<List>Turini, E.</List>
+			<List>Cheylan, G.</List>
+		</Author>
+		<Year>2014</Year>
+		<Title>A new abelisaurid dinosaur from the Late Cretaceous of southern France: palaeobiogeographical implications</Title>
+		<Journal>Annales de Paleontologie</Journal>
+		<Volume>100</Volume>
+		<Pages>63-86</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="40">
+		<List>Herrerasaurus</List>
+		<List>Abelisaurus</List>
+		<List>Allosaurus</List>
+		<List>Arcovenator</List>
+		<List>Aucasaurus</List>
+		<List>Austrocheirus</List>
+		<List>Berberosaurus</List>
+		<List>Caramillasaurus</List>
+		<List>Carnotaurus</List>
+		<List>Ceratosaurus</List>
+		<List>Coelophysis</List>
+		<List>Dahalokely</List>
+		<List>Deltadromeus</List>
+		<List>Ekrixinatosaurus</List>
+		<List>Elaphrosaurus</List>
+		<List>Eoabelisaurus</List>
+		<List>Genusaurus</List>
+		<List>Genyodectes</List>
+		<List>Ilokelesia</List>
+		<List>Indosaurus</List>
+		<List>Kryptops</List>
+		<List>La_Boucharde_abelisaurid</List>
+		<List>Laevisuchus</List>
+		<List>Ligabueino</List>
+		<List>Limusaurus</List>
+		<List>Majungasaurus</List>
+		<List>Masiakasaurus</List>
+		<List>MCF_dash_PVPH_dash_237_abelisaurid</List>
+		<List>Noasaurus</List>
+		<List>Pourcieux_abelisaurid</List>
+		<List>Pycnonemosaurus</List>
+		<List>Quilmesaurus</List>
+		<List>Rahiolisaurus</List>
+		<List>Rajasaurus</List>
+		<List>Rugops</List>
+		<List>Skorpiovenator</List>
+		<List>Spinostropheus</List>
+		<List>Tarascosaurus</List>
+		<List>Velocisaurus</List>
+		<List>Xenotarsosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="335">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Tortosa_etal_2014a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

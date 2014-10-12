@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Weishampel, D. B.</List>
+			<List>Heinrich, R. E.</List>
+		</Author>
+		<Year>1992</Year>
+		<Title>Systematics of Hypsilophodontidae and basal Iguanodontia (Dinosauria: Ornithopoda)</Title>
+		<Journal>Historical Biology</Journal>
+		<Volume>6</Volume>
+		<Pages>159-184</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List>Hypothetical_Ancestor</List>
+		<List>Heterodontosaurus</List>
+		<List>Tenontosaurus</List>
+		<List>Camptosaurus</List>
+		<List>Dryosaurus</List>
+		<List>Thescelosaurus</List>
+		<List>Yandusaurus</List>
+		<List>Othnielia</List>
+		<List>Parksosaurus</List>
+		<List>Hypsilophodon</List>
+		<List>Zephyrosaurus</List>
+		<List>Orodromeus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="37">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Weishampel_et_Heinrich_1992a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

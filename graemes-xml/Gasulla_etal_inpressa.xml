@@ -1,0 +1,105 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Gasulla, J. M.</List>
+			<List>Escaso, F.</List>
+			<List>Ortega, F.</List>
+			<List>Sanz, J. L.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>New hadrosauriform cranial remains from the Arcillas de Morella Formation (lower Aptian) of Morella, Spain</Title>
+		<Journal>Cretaceous Research</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="68">
+		<List>Lesothosaurus_diagnosticus</List>
+		<List>Hypsilophodon_foxii</List>
+		<List>Rhabdodon_sp</List>
+		<List>Zalmoxes_robustus</List>
+		<List>Zalmoxes_shqiperorum</List>
+		<List>Muttaburrasaurus_langdoni</List>
+		<List>Tenontosaurus_dossi</List>
+		<List>Tenontosaurus_tilletti</List>
+		<List>Callovosaurus_leedsi</List>
+		<List>Camptosaurus_valdensis</List>
+		<List>Dryosaurus_altus</List>
+		<List>Dysalotosaurus_lettowvorbecki</List>
+		<List>Kangnasaurus_coetzeei</List>
+		<List>Elrhazosaurus_nigeriensis</List>
+		<List>Valdosaurus_canaliculatus</List>
+		<List>Uteodon_aphanoecetes</List>
+		<List>Camptosaurus_dispar</List>
+		<List>Draconyx_loureiroi</List>
+		<List>Cumnoria_prestwichii</List>
+		<List>Owenodon_hoggii</List>
+		<List>NHMUK_R8676</List>
+		<List>Iguanacolossus_fortis</List>
+		<List>Hippodraco_scutodens</List>
+		<List>Theiophytalia_kerri</List>
+		<List>Cedrorestes_crichtoni</List>
+		<List>Planicoxa_venenica</List>
+		<List>Osmakasaurus_depressus</List>
+		<List>Dakotadon_lakotaensis</List>
+		<List>Lurdusaurus_arenatus</List>
+		<List>Barilium_dawsoni</List>
+		<List>Hypselospinus_fittoni</List>
+		<List>NHMUK_R1831</List>
+		<List>Lanzhousaurus_magnidens</List>
+		<List>Fukuisaurus_tetoriensis</List>
+		<List>Kukufeldia_tilgatensis</List>
+		<List>Iguanodon_bernissartensis</List>
+		<List>Mantellisaurus_atherfieldensis</List>
+		<List>NHMUK_R3741</List>
+		<List>Delapparentia_turolensis</List>
+		<List>Ouranosaurus_nigeriensis</List>
+		<List>Altirhinus_kurzanovi</List>
+		<List>Jinzhousaurus_yangi</List>
+		<List>Jintasaurus_meniscus</List>
+		<List>Equijubus_normani</List>
+		<List>Penelopognathus_weishampeli</List>
+		<List>Ratchasimasaurus_suranareae</List>
+		<List>Xuwulong_yueluni</List>
+		<List>Probactrosaurus_mazongshanensis</List>
+		<List>Probactrosaurus_gobiensis</List>
+		<List>Eolambia_caroljonesa</List>
+		<List>Jeyawati_rugoculus</List>
+		<List>Protohadros_byrdi</List>
+		<List>Glishades_ericksoni</List>
+		<List>Shuangmiaosaurus_gilmorei</List>
+		<List>Nanyangosaurus_zhugeii</List>
+		<List>Bactrosaurus_johnsoni</List>
+		<List>Gilmoreosaurus_mongoliensis</List>
+		<List>Levnesovia_transoxiana</List>
+		<List>Tanius_sinensis</List>
+		<List>Tethyshadros_insularis</List>
+		<List>Telmatosaurus_transsylvanicus</List>
+		<List>Claosaurus_agilis</List>
+		<List>Lophorhothon_atopus</List>
+		<List>Hadrosaurus_foulkii</List>
+		<List>Edmontosaurus_annectens</List>
+		<List>Corythosaurus_casuarius</List>
+		<List>Proa_valdearinnoensis</List>
+		<List>CMP_dash_11_dash_1</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="135">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Gasulla_etal_inpressa</Filename>
+	<Parent>McDonald_etal_2012a</Parent>
+	<Sibling/>
+</SourceTree>

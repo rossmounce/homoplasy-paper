@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Maddin, H. C.</List>
+			<List>Evans, D. C.</List>
+			<List>Reisz, R. R.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>An Early Permian varanodontine varanopid (Synapsida: Eupelycosauria) from the Richards Spur locality, Oklahoma</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>26</Volume>
+		<Pages>957-966</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="15">
+		<List>Reptilia</List>
+		<List>Cotylorhynchus</List>
+		<List>Eothyris</List>
+		<List>Archaeothyris</List>
+		<List>Ophiacodon</List>
+		<List>Mycterosaurus</List>
+		<List>Mesenosaurus</List>
+		<List>Elliotsmithia</List>
+		<List>Aerosaurus</List>
+		<List>Varanops</List>
+		<List>Varanodon</List>
+		<List>Archaeovenator</List>
+		<List>Watongia</List>
+		<List>RS_varanopid</List>
+		<List>Pyozia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="60">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Maddin_etal_2006a</Filename>
+	<Parent>Reisz_et_Laurin_2004a</Parent>
+	<Sibling/>
+</SourceTree>

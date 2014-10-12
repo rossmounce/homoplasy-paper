@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lieberman, B. S.</List>
+		</Author>
+		<Year>1999</Year>
+		<Title>Systematic revision of the Olenelloidea (Trilobita, Cambrian)</Title>
+		<Journal>Bulletin of the Peabody Museum of Natural History</Journal>
+		<Volume>45</Volume>
+		<Pages>1-150</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List>Mesonacis_fremonti</List>
+		<List>Olenellus_romensis</List>
+		<List>Olenellus_agellus</List>
+		<List>Olenellus_transitans</List>
+		<List>Olenellus_roddyi</List>
+		<List>Olenellus_clarki</List>
+		<List>Olenellus_nevadensis</List>
+		<List>Olenellus_parvofrontatus</List>
+		<List>Olenellus_thompsoni</List>
+		<List>Olenellus_robsonensis</List>
+		<List>Olenellus_getzi</List>
+		<List>Olenellus_crassimarginatus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="13">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lieberman_1999aa</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

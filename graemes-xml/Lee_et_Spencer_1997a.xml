@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lee, M. S. Y.</List>
+			<List>Spencer, P. S.</List>
+		</Author>
+		<Year>1997</Year>
+		<Title>Crown-clades, key characters and taxonomic stability: when is an amniote not an amniote?</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>61-84</Pages>
+		<Booktitle>Amniote Origins: Completing the Transition to Land</Booktitle>
+		<Publisher>Academic Press</Publisher>
+		<City>San Diego</City>
+		<Editor>
+			<List>Sumida, S. S.</List>
+			<List>Martin, K. L. M.</List>
+		</Editor>
+	</Source>
+	<Taxa number="8">
+		<List>Ancestor</List>
+		<List>Embolomeri</List>
+		<List>Gephyrostegidae</List>
+		<List>Seymouriamorpha</List>
+		<List>Solenodonsauridae</List>
+		<List>Diadectomorpha</List>
+		<List>Synapsida</List>
+		<List>Sauropsida</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="45">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lee_et_Spencer_1997a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

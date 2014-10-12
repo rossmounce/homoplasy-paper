@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Frankfurt, N. G.</List>
+			<List>Chiappe, L. M.</List>
+		</Author>
+		<Year>1999</Year>
+		<Title>A possible oviraptorosaur from the Late Cretaceous of northwestern Argentina</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>19</Volume>
+		<Pages>101-105</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="19">
+		<List>Herrerasaurus</List>
+		<List>Coelophysis</List>
+		<List>Ornithomimid</List>
+		<List>Troodon</List>
+		<List>Deinonychus</List>
+		<List>Coelurus</List>
+		<List>Ornitholestes</List>
+		<List>Shuvuuia</List>
+		<List>Carnotaurus</List>
+		<List>Noasaurus</List>
+		<List>Allosaurus</List>
+		<List>Tyrannosaurid</List>
+		<List>Quarry_9</List>
+		<List>Therizinosaurid</List>
+		<List>Chirostenotes</List>
+		<List>Oviraptoridae</List>
+		<List>El_Brete</List>
+		<List>Hesperornis</List>
+		<List>Casuaris</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="10">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Frankfurt_et_Chiappe_1999a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

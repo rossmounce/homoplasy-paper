@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Brown, C. M.</List>
+			<List>Boyd, C. A.</List>
+			<List>Russell, A. P.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>A new basal ornithopod dinosaur (Frenchman Formation, Saskatchewan, Canada), and implications for late Maastrichtian ornithischian diversity in North America</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>163</Volume>
+		<Pages>1157-1198</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="23">
+		<List>Herrerasaurus</List>
+		<List>Heterodontosaurus</List>
+		<List>Scutellosaurus</List>
+		<List>Lesothosaurus</List>
+		<List>Agilisaurus</List>
+		<List>Hexinlusaurus</List>
+		<List>Othnielosaurus</List>
+		<List>Oryctodromeus</List>
+		<List>Zephyrosaurus</List>
+		<List>Orodromeus</List>
+		<List>Parksosaurus</List>
+		<List>Thescelosaurus_neglectus</List>
+		<List>Thescelosaurus_assinaboiensis</List>
+		<List>Thescelosaurus_garbanii</List>
+		<List>Hypsilophodon</List>
+		<List>Gasparinisaura</List>
+		<List>Tenontosaurus</List>
+		<List>Rhabdodon</List>
+		<List>Dryosaurus_altus</List>
+		<List>Dryosaurus_lettowvorbecki</List>
+		<List>Camptosaurus</List>
+		<List>Iguanodon</List>
+		<List>Ouranosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="140">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Brown_etal_2011a</Filename>
+	<Parent>Boyd_etal_2009a</Parent>
+	<Sibling/>
+</SourceTree>

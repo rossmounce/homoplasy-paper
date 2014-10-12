@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Forey, P. L.</List>
+		</Author>
+		<Year>1998</Year>
+		<Title/>
+		<Journal/>
+		<Volume/>
+		<Pages>1-419</Pages>
+		<Booktitle>History of the Coelacanth Fishes</Booktitle>
+		<Publisher>Chapman &amp; Hall</Publisher>
+		<City>London</City>
+		<Editor/>
+	</Source>
+	<Taxa number="23">
+		<List>Minmi</List>
+		<List>Polypterus</List>
+		<List>Miguashia</List>
+		<List>Rhabdoderma</List>
+		<List>Latimeria</List>
+		<List>Barameda</List>
+		<List>Cladarosymblema</List>
+		<List>Youngolepis</List>
+		<List>Powichthys</List>
+		<List>Porolepis</List>
+		<List>Glyptolepis</List>
+		<List>Holoptychius</List>
+		<List>Diabolepis</List>
+		<List>Uranolophus</List>
+		<List>Chirodipterus</List>
+		<List>Griphognathus</List>
+		<List>Neoceratodus</List>
+		<List>Osteolepis</List>
+		<List>Eusthenopteron</List>
+		<List>Panderichthys</List>
+		<List>Ichthyostega</List>
+		<List>Crassigyrinus</List>
+		<List>Acanthostega</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="108">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Forey_1998ab</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

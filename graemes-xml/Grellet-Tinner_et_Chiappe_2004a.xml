@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Grellet-Tinner, G.</List>
+			<List>Chiappe, L. M.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>Dinosaur eggs and nesting: implications for understanding the origin of birds</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>185-214</Pages>
+		<Booktitle>Feathered Dragons</Booktitle>
+		<Publisher>Indiana University Press</Publisher>
+		<City>Bloomington</City>
+		<Editor>
+			<List>Currie, P. J.</List>
+			<List>Kopplehus, E. B.</List>
+			<List>Shugar, M. A.</List>
+			<List>Wright, J. L.</List>
+		</Editor>
+	</Source>
+	<Taxa number="11">
+		<List>Chelonia</List>
+		<List>Alligator_mississippiensis</List>
+		<List>Hadrosauridae</List>
+		<List>Titanosauria</List>
+		<List>Oviraptoridae</List>
+		<List>Troodon_formosus</List>
+		<List>Dromaius_novaehollandiae</List>
+		<List>Struthio_camelus</List>
+		<List>Rhea_americana</List>
+		<List>Anser_anser</List>
+		<List>Meleagris_gallopavo</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="11">
+			<Type>Eggs and nesting</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Grellet-Tinner_et_Chiappe_2004a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

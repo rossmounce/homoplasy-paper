@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Carroll, R. L.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>The Palaeozoic ancestry of salamanders, frogs and caecilians</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>150</Volume>
+		<Pages>1-140</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="23">
+		<List>Acanthostega</List>
+		<List>Whatcheeridae</List>
+		<List>Crassigyrinus</List>
+		<List>Anthracosauroidea</List>
+		<List>Baphetidae</List>
+		<List>Caerorhachis</List>
+		<List>Colosteidae</List>
+		<List>Basal_temnospondyls</List>
+		<List>Branchiosauridae</List>
+		<List>Amphibamidae</List>
+		<List>Rhynchonkos</List>
+		<List>Acherontiscus</List>
+		<List>Aïstopoda</List>
+		<List>Adelospondyli</List>
+		<List>Lysorophia</List>
+		<List>Microsauria</List>
+		<List>Nectridea</List>
+		<List>Early_amniotes</List>
+		<List>Albanerpetontidae</List>
+		<List>Urodela</List>
+		<List>Triadobatrachidae</List>
+		<List>Anura</List>
+		<List>Caecilia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="118">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Carroll_2007a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

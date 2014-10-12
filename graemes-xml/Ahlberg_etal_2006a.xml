@@ -1,0 +1,69 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ahlberg, P. E.</List>
+			<List>Smith, M. M.</List>
+			<List>Johanson, Z.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>Developmental plasticity and disparity in early dipnoan (lungfish) dentitions</Title>
+		<Journal>Evolution &amp; Development</Journal>
+		<Volume>8</Volume>
+		<Pages>331-349</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="33">
+		<List>Glyptolepis_groenlandica</List>
+		<List>Youngolepis_praecursor</List>
+		<List>Diabolepis_speratus</List>
+		<List>Dipnorhynchus_sussmilchi</List>
+		<List>Speonesydrion_iani</List>
+		<List>Ichnomylax_kurnai_plus_karatajae</List>
+		<List>Uranolophus_wyomingensis</List>
+		<List>Tarachomylax_oepiki</List>
+		<List>Jessenia_concentrica</List>
+		<List>Stomiahykus_thlaodus</List>
+		<List>Holodipterus_gogoensis</List>
+		<List>Holodipterus_longi</List>
+		<List>Holodipterus_meemannae</List>
+		<List>Griphognathus_whitei</List>
+		<List>Chirodipterus_australis</List>
+		<List>Pillararhynchus_longi</List>
+		<List>Gogodipterus_paddyensis</List>
+		<List>Adololopas_moyasmithae</List>
+		<List>Andreyevichthys_epitomes</List>
+		<List>Sorbitorhynchus_deleaskitus</List>
+		<List>Fleurantia_denticulate</List>
+		<List>Dipterus_valenciennesi</List>
+		<List>Howidipterus_donnae</List>
+		<List>Barwickia_downunda</List>
+		<List>Scaumenacia_curta</List>
+		<List>Sagenodus_inequalis</List>
+		<List>Ctenodus_spp</List>
+		<List>Neoceratodus_forsteri</List>
+		<List>Melanognathus_canadensis</List>
+		<List>Soederberghia_groenlandica</List>
+		<List>Conchopoma_gadiforme</List>
+		<List>Gnathorhiza_sp_Berman_1976</List>
+		<List>Orlovichthys_limnatus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="79">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ahlberg_etal_2006a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

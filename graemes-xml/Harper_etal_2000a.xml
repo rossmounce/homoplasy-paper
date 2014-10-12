@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Harper, E. M.</List>
+			<List>Hide, E. A.</List>
+			<List>Morton, B.</List>
+		</Author>
+		<Year>2000</Year>
+		<Title>Relationships between the extant Anomalodesmata: a cladistic test</Title>
+		<Journal>Geological Society Special Publications</Journal>
+		<Volume>177</Volume>
+		<Pages>129-143</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="16">
+		<List>Brechites</List>
+		<List>Clavagella</List>
+		<List>Cleidothaeridae</List>
+		<List>Cuspidariidae</List>
+		<List>Laternulidae</List>
+		<List>Lyonsiellidae</List>
+		<List>Lyonsiidae</List>
+		<List>Myadora</List>
+		<List>Myochama</List>
+		<List>Pandoridae</List>
+		<List>Parilimyidae</List>
+		<List>Periplomatidae</List>
+		<List>Pholadomyidae</List>
+		<List>Poromyidae</List>
+		<List>Thraciidae</List>
+		<List>Verticordiidae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="43">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Harper_etal_2000a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

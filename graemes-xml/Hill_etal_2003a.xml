@@ -1,0 +1,60 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Hill, R. V.</List>
+			<List>Witmer, L. M.</List>
+			<List>Norell, M. A.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>A new specimen of Pinacosaurus grangeri (Dinosauria: Ornithischia) from the Late Cretaceous of Mongolia: ontogeny and phylogeny of ankylosaurs</Title>
+		<Journal>American Museum Novitates</Journal>
+		<Volume>3395</Volume>
+		<Pages>1-29</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="24">
+		<List>Scelidosaurus</List>
+		<List>Emausaurus</List>
+		<List>Huayangosaurus</List>
+		<List>Gargoyleosaurus</List>
+		<List>Gastonia</List>
+		<List>Gobisaurus</List>
+		<List>Minmi</List>
+		<List>Pinacosaurus</List>
+		<List>Talarurus</List>
+		<List>Shamosaurus</List>
+		<List>Tsagantegia</List>
+		<List>Tianzhenosaurus</List>
+		<List>Nodocephalosaurus</List>
+		<List>Shanxia</List>
+		<List>Ankylosaurus</List>
+		<List>Euoplocephalus</List>
+		<List>Tarchia</List>
+		<List>Saichania</List>
+		<List>Pawpawsaurus</List>
+		<List>Silvisaurus</List>
+		<List>Sauropelta</List>
+		<List>Animantarx</List>
+		<List>Panoplosaurus</List>
+		<List>Edmontonia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="50">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Hill_etal_2003a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Cronier, C.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>Systematic relationships of the blind phacopine trilobite <em>Trimerocephalus</em>, with a new species from Causses−et−Veyran, Montagne Noire</Title>
+		<Journal>Acta Palaeontologica Polonica</Journal>
+		<Volume>48</Volume>
+		<Pages>55-70</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Acuticryphops_acuticeps</List>
+		<List>Trimerocephalus_caecus</List>
+		<List>Trimerocephalus_lelievrei</List>
+		<List>Trimerocephalus_shotoriensis</List>
+		<List>Trimerocephalus_dianopsoides</List>
+		<List>Trimerocephalus_tardispinosus</List>
+		<List>Trimerocephalus_procurvus</List>
+		<List>Trimerocephalus_interruptus</List>
+		<List>Trimerocephalus_sponsor</List>
+		<List>Trimerocephalus_polonicus</List>
+		<List>Trimerocephalus_mastophthalmus</List>
+		<List>Trimerocephalus_Trifoliops_nigritus</List>
+		<List>Trimerocephalus_Trifoliops_trifolius</List>
+		<List>Trimerocephalus_steinachensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="23">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Cronier_2003a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

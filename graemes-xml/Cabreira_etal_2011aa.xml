@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Cabreira, S. F.</List>
+			<List>Schultz, C. L.</List>
+			<List>Bittencourt, J. S.</List>
+			<List>Soares, M. B.</List>
+			<List>Fortier, D. C.</List>
+			<List>Silva, L. R.</List>
+			<List>Langer, M. C.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>New stem-sauropodomorph (Dinosauria, Saurischia) from the Triassic of Brazil</Title>
+		<Journal>Naturwissenschaften</Journal>
+		<Volume>98</Volume>
+		<Pages>1035-1040</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="13">
+		<List>Outgroup</List>
+		<List>Silesaurus</List>
+		<List>Pisanosaurus</List>
+		<List>Ornithischians</List>
+		<List>Herrerasaurus</List>
+		<List>Staurikosaurus</List>
+		<List>Eoraptor</List>
+		<List>Guaibasaurus</List>
+		<List>Theropods</List>
+		<List>Saturnalia</List>
+		<List>Sauropodomorpha</List>
+		<List>Panphagia</List>
+		<List>Pampadromaeus_barberenai</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="98">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Cabreira_etal_2011aa</Filename>
+	<Parent>Martinez_et_Alcober_2009a</Parent>
+	<Sibling/>
+</SourceTree>

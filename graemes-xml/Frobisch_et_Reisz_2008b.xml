@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Frobisch, N. B.</List>
+			<List>Reisz, R. R.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>A new Lower Permian amphibamid (Dissorophoidea, Temnospondyli) from the fissure fill deposits near Richards Spur, Oklahoma</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>28</Volume>
+		<Pages>1015-1030</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="18">
+		<List>Dendrerpeton</List>
+		<List>Sclerocephalus</List>
+		<List>Eryopidae</List>
+		<List>Micromelerpeton</List>
+		<List>Amphibamus</List>
+		<List>Platyrhinops</List>
+		<List>Doleserpeton</List>
+		<List>Eoscopus</List>
+		<List>Micropholis</List>
+		<List>Tersomius</List>
+		<List>Ecolsonia</List>
+		<List>Trematopidae</List>
+		<List>Dissorophinae</List>
+		<List>Cacopinae</List>
+		<List>Pasawioops</List>
+		<List>Plemmyradytes</List>
+		<List>Georgenthalia</List>
+		<List>Gerobatrachus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="62">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Frobisch_et_Reisz_2008b</Filename>
+	<Parent>Schoch_et_Rubidge_2005a</Parent>
+	<Sibling/>
+</SourceTree>

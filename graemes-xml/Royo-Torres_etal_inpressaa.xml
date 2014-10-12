@@ -1,0 +1,78 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Royo-Torres, R.</List>
+			<List>Upchurch, P.</List>
+			<List>Mannion, P. D.</List>
+			<List>Mas, R.</List>
+			<List>Cobos, A.</List>
+			<List>Gasco, F.</List>
+			<List>Alcala, L.</List>
+			<List>Sanz, J. L.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>The anatomy, phylogenetic relationships, and stratigraphic position of the Tithonian-Berriasian Spanish sauropod dinosaur <em>Aragosaurus ischiaticus</em></Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="37">
+		<List>Theropoda</List>
+		<List>Prosauropoda</List>
+		<List>Vulcanodon</List>
+		<List>Barapasaurus</List>
+		<List>Omeisaurus</List>
+		<List>Shunosaurus</List>
+		<List>Patagosaurus</List>
+		<List>Mamenchisaurus</List>
+		<List>Apatosaurus</List>
+		<List>Barosaurus</List>
+		<List>Camarasaurus</List>
+		<List>Dicraeosaurus</List>
+		<List>Diplodocus</List>
+		<List>Haplocanthosaurus</List>
+		<List>Amargasaurus</List>
+		<List>Euhelopus</List>
+		<List>Jobaria</List>
+		<List>Malawisaurus</List>
+		<List>Nigersaurus</List>
+		<List>Rayososaurus</List>
+		<List>Rebbachisaurus</List>
+		<List>Alamosaurus</List>
+		<List>Nemegtosaurus</List>
+		<List>Neuquensaurus</List>
+		<List>Opisthocoelicaudia</List>
+		<List>Rapetosaurus</List>
+		<List>Saltasaurus</List>
+		<List>T_colberti</List>
+		<List>Brachiosaurus_altithorax</List>
+		<List>Giraffatitan_brancai</List>
+		<List>Cedarosaurus_weiskopfae</List>
+		<List>Europasaurus_holgeri</List>
+		<List>Lourinhasaurus_alenquerensis</List>
+		<List>Tastavinsaurus_sanzi</List>
+		<List>Tehuelchesaurus_benitezii</List>
+		<List>Venenosaurus_dicrocei</List>
+		<List>Aragosaurus_ischiaticus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="234">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Royo-Torres_etal_inpressaa</Filename>
+	<Parent>Wilson_2002a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Tomida, Y.</List>
+			<List>Tsumura, Y.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>A partial skeleton of titanosaurian sauropod from the Early Cretaceous of Toba City, Central Japan</Title>
+		<Journal>Journal of the Paleontological Society of Korea</Journal>
+		<Volume>22</Volume>
+		<Pages>217-238</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="28">
+		<List>Ancestor</List>
+		<List>Vulcanodon</List>
+		<List>Barapasaurus</List>
+		<List>Patagosaurus</List>
+		<List>Cetiosaurus</List>
+		<List>Haplocanthosaurus</List>
+		<List>Camarasaurus</List>
+		<List>Phuwiangosaurus</List>
+		<List>Andesaurus</List>
+		<List>Malawisaurus</List>
+		<List>Alamosaurus</List>
+		<List>Saltasaurus</List>
+		<List>Opisthocoelicaudia</List>
+		<List>Toba_titanosaur</List>
+		<List>Brachiosaurus</List>
+		<List>Lapparentosaurus</List>
+		<List>Rebbachisaurus</List>
+		<List>Amargasaurus</List>
+		<List>Dicraeosaurus</List>
+		<List>Apatosaurus</List>
+		<List>Barosaurus</List>
+		<List>Diplodocus</List>
+		<List>Nemegtosaurus</List>
+		<List>Quaesitosaurus</List>
+		<List>Shunosaurus</List>
+		<List>Euhelopus</List>
+		<List>Mamenchisaurus</List>
+		<List>Omeisaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="205">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Tomida_et_Tsumura_2006a</Filename>
+	<Parent>Upchurch_1998a</Parent>
+	<Sibling/>
+</SourceTree>

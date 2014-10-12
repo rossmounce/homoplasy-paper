@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Varricchio, D. J.</List>
+			<List>Martin, A. J.</List>
+			<List>Katsura, Y.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>First trace and body fossil evidence of a burrowing, denning dinosaur</Title>
+		<Journal>Proceedings of the Royal Society of London B</Journal>
+		<Volume>274</Volume>
+		<Pages>1361-1368</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="21">
+		<List>Scutellosaurus</List>
+		<List>Lesothosaurus</List>
+		<List>Heterodontosaurus</List>
+		<List>Agilisaurus</List>
+		<List>Yandusaurus</List>
+		<List>Othnielia</List>
+		<List>Oryctodromeus</List>
+		<List>Zephyrosaurus</List>
+		<List>Orodromeus</List>
+		<List>Thescelosaurus</List>
+		<List>Parksosaurus</List>
+		<List>Bugenasaura</List>
+		<List>Hypsilophodon</List>
+		<List>Gasparinisaura</List>
+		<List>Tenontosaurus</List>
+		<List>Rhabdodon</List>
+		<List>Dryosaurus</List>
+		<List>Dysalotosaurus</List>
+		<List>Camptosaurus</List>
+		<List>Iguanodon</List>
+		<List>Ouranosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="125">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Varricchio_etal_2007a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Wu, X.-C.</List>
+			<List>Brinkman, D. B.</List>
+			<List>Eberth, D. A.</List>
+			<List>Braman, D. R.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>A new ceratopsid dinosaur (Ornithischia) from the uppermost Horseshoe Canyon Formation (upper Maastrichtian), Alberta, Canada</Title>
+		<Journal>Canadian Journal of Earth Sciences</Journal>
+		<Volume>44</Volume>
+		<Pages>1243-1265</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="16">
+		<List>Protoceratops</List>
+		<List>Zuniceratops</List>
+		<List>Avaceratops</List>
+		<List>Einiosaurus</List>
+		<List>Achelousaurus</List>
+		<List>Pachyrhinosaurus</List>
+		<List>Centrosaurus</List>
+		<List>Styracosaurus</List>
+		<List>Anchiceratops</List>
+		<List>Arrhinoceratops</List>
+		<List>Triceratops</List>
+		<List>Eotriceratops</List>
+		<List>Diceratops</List>
+		<List>Torosaurus</List>
+		<List>Chasmosaurus</List>
+		<List>Pentaceratops</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="76">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Wu_etal_2007a</Filename>
+	<Parent>Dodson_etal_2004a</Parent>
+	<Sibling/>
+</SourceTree>

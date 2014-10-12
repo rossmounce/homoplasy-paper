@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Cusack, M.</List>
+			<List>Williams, A.</List>
+			<List>Buckman, J. O.</List>
+		</Author>
+		<Year>1999</Year>
+		<Title>Chemico-structural evolution of linguloid brachiopod shells</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>42</Volume>
+		<Pages>799-840</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="23">
+		<List>Acrothele</List>
+		<List>Acrotreta</List>
+		<List>Schizotreta</List>
+		<List>Lingula</List>
+		<List>Glottidia</List>
+		<List>Pseudolingula</List>
+		<List>Bicarinata</List>
+		<List>O_apollonis</List>
+		<List>O_eichwaldi</List>
+		<List>Experilingula</List>
+		<List>Lingulella</List>
+		<List>Oepikites</List>
+		<List>Ungula</List>
+		<List>Pseudolingula_q</List>
+		<List>Eoobolus</List>
+		<List>Zhanatella</List>
+		<List>Rowellella</List>
+		<List>Broeggeria</List>
+		<List>Aulanotreta</List>
+		<List>Lingulellotreta</List>
+		<List>Lingulasma</List>
+		<List>Paterula</List>
+		<List>Dysoristus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="46">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Cusack_etal_1999a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

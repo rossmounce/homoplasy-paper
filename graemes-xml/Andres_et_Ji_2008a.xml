@@ -1,0 +1,96 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Andres, B.</List>
+			<List>Ji, Q.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>A new pterosaur from the Liaoning Province of China, the phylogeny of the Pterodactyloidea, and convergence in their cervical vertebrae</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>51</Volume>
+		<Pages>453-469</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="61">
+		<List>Dimorphodon_macronyx</List>
+		<List>Campylognathoides_liasicus</List>
+		<List>Rhamphorhynchus_muensteri</List>
+		<List>Anurognathus_ammoni</List>
+		<List>Gnathosaurus_macrurus</List>
+		<List>Gnathosaurus_subulatus</List>
+		<List>Plataleorhynchus_streptophorodon</List>
+		<List>Huanhepterus_quingyangensis</List>
+		<List>Elanodactylus_prolatus</List>
+		<List>Kepodactylus_insperatus</List>
+		<List>Mesadactylus_ornithosphysos</List>
+		<List>Beipiaopterus_chenianus</List>
+		<List>Boreopterus_cuiae</List>
+		<List>Feilongus_youngi</List>
+		<List>Eosipterus_yangi</List>
+		<List>Pterodaustro_guinazui</List>
+		<List>Ctenochasma_elegans</List>
+		<List>Ctenochasma_porocristata</List>
+		<List>Gegepterus_changi</List>
+		<List>Cycnorhamphus_suevicus</List>
+		<List>Gallodactylus_canjuersensis</List>
+		<List>Pterodactylus_longicollum</List>
+		<List>Pterodactylus_kochi</List>
+		<List>Pterodactylus_antiquus</List>
+		<List>Germanodactylus_cristatus</List>
+		<List>Germanodactylus_rhamphastinus</List>
+		<List>Haopterus_gracilis</List>
+		<List>Anhanguera_piscator</List>
+		<List>Anhanguera_santanae</List>
+		<List>Anhanguera_blittersdorffi</List>
+		<List>Liaoningopterus_gui</List>
+		<List>Tropeognathus_mesembrinus</List>
+		<List>Lonchodectes_compressirostris</List>
+		<List>Liaoxipterus_brachyognathus</List>
+		<List>Nurhachius_ignaciobritoi</List>
+		<List>Istiodactylus_latidens</List>
+		<List>Istiodactylus_sinensis</List>
+		<List>Pteranodon_longiceps</List>
+		<List>Pteranodon_sternbergi</List>
+		<List>Nyctosaurus_gracilis</List>
+		<List>Nyctosaurus_bonneri</List>
+		<List>Tupuxuara_longicristatus</List>
+		<List>Tupuxuara_leonardii</List>
+		<List>Thalassodromeus_sethi</List>
+		<List>Tapejara_imperator</List>
+		<List>Tapejara_navigans</List>
+		<List>Tapejara_wellnhoferi</List>
+		<List>Huaxiapterus_jii</List>
+		<List>Sinopterus_dongi</List>
+		<List>Sinopterus_gui</List>
+		<List>Eopteranodon_lii</List>
+		<List>Noripterus_complicidens</List>
+		<List>Phobetor_parvus</List>
+		<List>Dsungaripterus_weii</List>
+		<List>Eoazhdarcho_liaoxiensis</List>
+		<List>Jidapterus_edentus</List>
+		<List>Chaoyangopterus_zhangi</List>
+		<List>Bakonydraco_galaczi</List>
+		<List>Azhdarcho_lancicollis</List>
+		<List>Zhejiangopterus_linhaiensis</List>
+		<List>Quetzalcoatlus_sp</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="111">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Andres_et_Ji_2008a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

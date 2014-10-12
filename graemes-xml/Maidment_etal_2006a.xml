@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Maidment, S. C. R.</List>
+			<List>Weiz, G. B.</List>
+			<List>Norman, D. B.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>Re-description of the postcranial skeleton of the Middle Jurassic stegosaur <em>Huayangosaurus taibaii</em></Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>26</Volume>
+		<Pages>944-956</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="10">
+		<List>Scutellosaurus</List>
+		<List>Scelidosaurus</List>
+		<List>Huayangosaurus</List>
+		<List>Tuojiangosaurus</List>
+		<List>Dacentrurus</List>
+		<List>Kentrosaurus</List>
+		<List>Hesperosaurus</List>
+		<List>Stegosaurus</List>
+		<List>Euoplocephalus</List>
+		<List>Sauropelta</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="80">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Maidment_etal_2006a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

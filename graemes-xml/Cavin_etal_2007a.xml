@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Cavin, L.</List>
+			<List>Suteethorn, V.</List>
+			<List>Bufetaut, E.</List>
+			<List>Tong, H.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>A new Thai Mesozoic lungfish (Sarcopterygii, Dipnoi) with an insight into post-Palaeozoic dipnoan evolution</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>149</Volume>
+		<Pages>141-177</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="16">
+		<List>Dipterus_valenciennesi</List>
+		<List>Arganodus_atlantis</List>
+		<List>Asiatoceratodus_sharovi</List>
+		<List>Beltanodus_ambilobensis</List>
+		<List>Ceratodus_sturii</List>
+		<List>Ferganoceratodus_jurassicus</List>
+		<List>Ferganoceratodus_martini</List>
+		<List>Gnathorhiza_spp</List>
+		<List>Gosfordia_truncata</List>
+		<List>Microceratodus_angolensis</List>
+		<List>Neoceratodus_forsteri</List>
+		<List>Paraceratodus_germanini</List>
+		<List>Protopterus_spp</List>
+		<List>Ptychoceratodus_serratus</List>
+		<List>Ptychoceratodus_philippsi</List>
+		<List>Sagenodus_spp</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="14">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Cavin_etal_2007a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Arbour, V. M.</List>
+			<List>Burns, M. E.</List>
+			<List>Sissons, R. L.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>A redescription of the ankylosaurid dinosaur Dyoplosaurus acutosquameus Parks, 1924 (Ornithischia: Ankylosauria) and a revision of the genus</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>29</Volume>
+		<Pages>1117-1135</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List>Gargoyleosaurus</List>
+		<List>Sauropelta</List>
+		<List>Tsagantegia</List>
+		<List>Ankylosaurus</List>
+		<List>Euoplocephalus</List>
+		<List>Saichania</List>
+		<List>Talarurus</List>
+		<List>Tarchia</List>
+		<List>Dyoplosaurus</List>
+		<List>P.grangeri</List>
+		<List>P.mesphistocephalus</List>
+		<List>Tianzhenosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="70">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Arbour_etal_2009a</Filename>
+	<Parent>Vickaryous_etal_2004a</Parent>
+	<Sibling/>
+</SourceTree>

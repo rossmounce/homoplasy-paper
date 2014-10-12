@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Godefroit, P.</List>
+			<List>Hai, S.-L.</List>
+			<List>Yu, T.-X.</List>
+			<List>Lauters, P.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>New hadrosaurid dinosaurs from the uppermost Cretaceous of northeastern China</Title>
+		<Journal>Acta Palaeontologica Polonica</Journal>
+		<Volume>53</Volume>
+		<Pages>47-74</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="21">
+		<List>Bactrosaurus</List>
+		<List>Aralosaurus</List>
+		<List>Tsintaosaurus</List>
+		<List>Jaxartosaurus</List>
+		<List>Amurosaurus</List>
+		<List>Corythosaurus</List>
+		<List>Hypacrosaurus</List>
+		<List>Olorotitan</List>
+		<List>Lambeosaurus</List>
+		<List>Sahaliyania</List>
+		<List>Parasaurolophus</List>
+		<List>Charonosaurus</List>
+		<List>Wulagasaurus</List>
+		<List>Maiasaura</List>
+		<List>Brachylophosaurus</List>
+		<List>Gryposaurus</List>
+		<List>Kerberosaurus</List>
+		<List>Saurolophus</List>
+		<List>Prosaurolophus</List>
+		<List>Anatotitan</List>
+		<List>Edmontosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="56">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Godefroit_etal_2008a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

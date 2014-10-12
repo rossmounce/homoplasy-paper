@@ -1,0 +1,80 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Pol, D.</List>
+			<List>Norell, M. A.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>A new gobiosuchid crocodyliform taxon from the Cretaceous of Mongolia</Title>
+		<Journal>American Museum Novitates</Journal>
+		<Volume>3458</Volume>
+		<Pages>1-31</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="45">
+		<List>Gracilisuchus_stipanicicorum</List>
+		<List>Terrestrisuchus_gracilis</List>
+		<List>Dibothrosuchus_elaphros</List>
+		<List>Protosuchus_richardsoni</List>
+		<List>Hemiprotosuchus_leali</List>
+		<List>Orthosuchus_stormbergi</List>
+		<List>Kayenta_form</List>
+		<List>Zaraasuchus_shepardi</List>
+		<List>Gobiosuchus_kielanae</List>
+		<List>Sichuanosuchus_shuhanensis</List>
+		<List>Shantungosuchus_hangjinensis</List>
+		<List>Zosuchus_davidsoni</List>
+		<List>Fruita_form</List>
+		<List>Hsisosuchus_chungkingensis</List>
+		<List>Notosuchus_terrestris</List>
+		<List>Comahuesuchus_brachybuccalis</List>
+		<List>Uruguaysuchus_aznarezi</List>
+		<List>Simosuchus_clarki</List>
+		<List>Malawisuchus_mwakayasyunguti</List>
+		<List>Candidodon_itapecurense</List>
+		<List>Chimaerasuchus_paradoxus</List>
+		<List>Sphagesaurus_huenei</List>
+		<List>Baurusuchus_pachecoi</List>
+		<List>Bretesuchus_bonapartei</List>
+		<List>Iberosuchus_macrodon</List>
+		<List>Araripesuchus_gomesii</List>
+		<List>Araripesuchus_patagonicus</List>
+		<List>Lomasuchus_palpebrosus</List>
+		<List>Peirosaurus_tormini</List>
+		<List>Theriosuchus_pusillus</List>
+		<List>Alligatorium</List>
+		<List>Pelagosaurus_typus</List>
+		<List>Teleosauridae</List>
+		<List>Metriorhynchidae</List>
+		<List>Sokotosuchus_ianwilsoni</List>
+		<List>Dyrosauridae</List>
+		<List>Pholidosaurus_decipiens</List>
+		<List>Goniopholis</List>
+		<List>Eutretauranosuchus_delfsi</List>
+		<List>Bernissartia_fagessi</List>
+		<List>Hylaeochampsa_vectiana</List>
+		<List>Borealosuchus_formidabilis</List>
+		<List>Gavialis_gangeticus</List>
+		<List>Crocodylus_niloticus</List>
+		<List>Alligator_mississippiensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="192">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Pol_et_Norell_2004a</Filename>
+	<Parent>Pol_et_Norell_2004b</Parent>
+	<Sibling/>
+</SourceTree>

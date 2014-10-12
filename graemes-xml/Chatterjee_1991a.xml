@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Chatterjee, S.</List>
+		</Author>
+		<Year>1991</Year>
+		<Title>Cranial anatomy and relationships of a new Triassic bird from Texas</Title>
+		<Journal>Philosophical Transactions of the Royal Society of London: B</Journal>
+		<Volume>332</Volume>
+		<Pages>277-342</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="8">
+		<List>Spheosuchids</List>
+		<List>Theropods</List>
+		<List>Archaeopteryx</List>
+		<List>Avimimus</List>
+		<List>Protoavis</List>
+		<List>Hesperornis</List>
+		<List>Ichthyornis</List>
+		<List>Gobipteryx</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="30">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Chatterjee_1991a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

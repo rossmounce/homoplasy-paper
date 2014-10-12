@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lopez-Martinez, N.</List>
+			<List>Vicens, E.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>A new peculiar dinosaur egg, <em>Sankofa pyrenaica</em> oogen. nov. oosp. nov. from the Upper Cretaceous coastal deposits of the Aren Formation, south-central Pyrenees, Lleida, Catalonia, Spain</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>55</Volume>
+		<Pages>325-339</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List>Maiasaura</List>
+		<List>Titanosauridae</List>
+		<List>Citipati</List>
+		<List>Troodon</List>
+		<List>Parvoolithus</List>
+		<List>Numida</List>
+		<List>Protoceratopsidovum</List>
+		<List>Montanoolithus</List>
+		<List>Deinonychus</List>
+		<List>Sankofa_nov_oogen</List>
+		<List>Bajo_dash_de_dash_la_dash_Carpa</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="12">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lopez-Martinez_et_Vicens_2012a</Filename>
+	<Parent>Zelenitsky_et_Therrien_2008a</Parent>
+	<Sibling/>
+</SourceTree>

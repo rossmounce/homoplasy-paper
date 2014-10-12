@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Renesto, S.</List>
+			<List>Spielmann, J. A.</List>
+			<List>Lucas, S. G.</List>
+			<List>Spagnoli, G. T.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>The taxonomy and paleobiology of the Late Triassic (Carnian-Norian: Adamanian-Apachean) drepanosaurs (Diapsida: Archosauromorpha: Drepanosauromorpha)</Title>
+		<Journal>Bulletin of the New Mexico Museum of Natural History &amp; Science</Journal>
+		<Volume>46</Volume>
+		<Pages>1-81</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Captorhinidae</List>
+		<List>Palaeothyris</List>
+		<List>Petrolacosaurus</List>
+		<List>Araeoscelis</List>
+		<List>Coelurosauravus</List>
+		<List>Apsisaurus</List>
+		<List>Acerosodontosaurus</List>
+		<List>Youngina</List>
+		<List>Planocephalosaurus</List>
+		<List>Squamata</List>
+		<List>Prolacerta</List>
+		<List>Trilophosaurus</List>
+		<List>Hyperodapedon</List>
+		<List>Drepanosauridae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="69">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Renesto_etal_2010aa</Filename>
+	<Parent>Laurin_1991a</Parent>
+	<Sibling/>
+</SourceTree>

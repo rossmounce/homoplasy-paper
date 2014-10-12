@@ -1,0 +1,70 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Cripps, A. P.</List>
+		</Author>
+		<Year>1991</Year>
+		<Title>A cladistic analysis of the cornutes (stem chordates)</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>102</Volume>
+		<Pages>333-366</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="36">
+		<List>Solute</List>
+		<List>Ceratocystis_perneri</List>
+		<List>Ceratocystis_viscainoi</List>
+		<List>Protocystites_menevensis</List>
+		<List>Nevadaecystis_americana</List>
+		<List>Cothurnocystis_primaeva</List>
+		<List>Cothurnocystis_fellensis</List>
+		<List>Procothurnocystis_owensi</List>
+		<List>Cothurnocystis_couressolei</List>
+		<List>Cothurnocystis_elizae</List>
+		<List>Cothurnocystis_bifida</List>
+		<List>Thoralicystis_melchiori</List>
+		<List>Thoralicystis_zagoraensis</List>
+		<List>Thoralicystis_griffei</List>
+		<List>Bohemiacystis_bouckei</List>
+		<List>Scotiaecystis_collapsa</List>
+		<List>Scotiaecystis_curvata</List>
+		<List>Amygdaltoltheca_griffei</List>
+		<List>Minolicystis_kerfonei</List>
+		<List>Phyllocystis_salaeirica</List>
+		<List>Phyllocystis_blayaci</List>
+		<List>Phyllocystis_crassimarginata</List>
+		<List>Prochauvellicystis_semispinosa</List>
+		<List>Chauvellicystis_spinosa</List>
+		<List>Chauvellicystis_ubaghsi</List>
+		<List>Chauvellicystis_viscainoi</List>
+		<List>Galliaecystis_lignieresi</List>
+		<List>Progalliaecystis_ubaghsi</List>
+		<List>Hanusia_prilepensis</List>
+		<List>Hanusia_sarkensis</List>
+		<List>Hanusia_obtusa</List>
+		<List>Retiuclocarpos_hanusi</List>
+		<List>Beryllia_miranda</List>
+		<List>Domfrontia_pissotensis</List>
+		<List>Prokopicystis_merglii</List>
+		<List>Chinianocarpos_thorali</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="75">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Cripps_1991a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

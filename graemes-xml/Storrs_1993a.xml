@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Storrs, G. W.</List>
+		</Author>
+		<Year>1993</Year>
+		<Title>The systematic position of <em>Silvestrosaurus</em> and a classification of Triassic sauropterygians (Neodiapsida)</Title>
+		<Journal>Palaontologische Zeitschrift</Journal>
+		<Volume>67</Volume>
+		<Pages>177-191</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="21">
+		<List>Captorhinomorpha</List>
+		<List>Petrolacosaurus</List>
+		<List>Younginiformes</List>
+		<List>Claudiosaurus</List>
+		<List>Neusticosaurus</List>
+		<List>Serpianosaurus</List>
+		<List>Anarosaurus</List>
+		<List>Dactylosaurus</List>
+		<List>Keichousaurus</List>
+		<List>Placodontia</List>
+		<List>Simosaurus</List>
+		<List>Corosaurus</List>
+		<List>Ceresiosaurus</List>
+		<List>Lariosaurus</List>
+		<List>Cymatosaurus</List>
+		<List>Silvestrosaurus</List>
+		<List>Nothosaurus</List>
+		<List>Paranothosaurus</List>
+		<List>Pistosaurus</List>
+		<List>Plesiosauroidea</List>
+		<List>Pliosauroidea</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="88">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Storrs_1993a</Filename>
+	<Parent>Storrs_1991a</Parent>
+	<Sibling/>
+</SourceTree>

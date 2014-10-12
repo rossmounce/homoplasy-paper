@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Novas, F. E.</List>
+		</Author>
+		<Year>1997</Year>
+		<Title>Anatomy of Patagonykus puertai (Theropoda, Avialae, Alvarezsauridae), from the Late Cretaceous of Patagonia</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>17</Volume>
+		<Pages>137-166</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="8">
+		<List>Tyrannosauridae</List>
+		<List>Ornithomimidae</List>
+		<List>Deinonychus</List>
+		<List>Archaeopteryx</List>
+		<List>Ornithothoraces</List>
+		<List>Alvarezsaurus</List>
+		<List>Mononykus</List>
+		<List>Patagonykus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="75">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Novas_1997a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

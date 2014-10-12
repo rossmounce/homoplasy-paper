@@ -1,0 +1,61 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Xu, X.</List>
+			<List>Wang, K.-B.</List>
+			<List>Zhao, X.-J.</List>
+			<List>Sullivan, C.</List>
+			<List>Chen, S.-Q.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>A new leptoceratopsid (Ornithischia: Ceratopsia) from the Upper Cretaceous of Shandong, China and its implications for neoceratopsian evolution</Title>
+		<Journal>PLoS One</Journal>
+		<Volume>5</Volume>
+		<Pages>1-14</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="23">
+		<List>Hypsilophodon</List>
+		<List>Stegoceras</List>
+		<List>Yinlong</List>
+		<List>Liaoceratops</List>
+		<List>Yamaceratops</List>
+		<List>Archaeoceratops</List>
+		<List>Asiaceratops</List>
+		<List>Cerasinops</List>
+		<List>Montanoceratops</List>
+		<List>Prenoceratops</List>
+		<List>Leptoceratops</List>
+		<List>Udanoceratops</List>
+		<List>Zuchengceratops_inexpectus</List>
+		<List>Graciliceratops</List>
+		<List>Bagaceratops</List>
+		<List>Protoceratops</List>
+		<List>Zuniceratops</List>
+		<List>Centrosaurus</List>
+		<List>Triceratops</List>
+		<List>Psit._mongol.</List>
+		<List>Psit._sinensis</List>
+		<List>Chaoyangsaurus</List>
+		<List>Xuanhuaceratops</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="147">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Xu_etal_2010ba</Filename>
+	<Parent>Makovicky_2010ab</Parent>
+	<Sibling/>
+</SourceTree>

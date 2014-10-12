@@ -1,0 +1,64 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Wilson, M. V. H.</List>
+			<List>Murray, A. M.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>Osteoglossomorpha: phylogeny, biogeography, and fossil record and the significance of key African and Chinese fossil taxa</Title>
+		<Journal>Geological Society of London Special Publications</Journal>
+		<Volume>295</Volume>
+		<Pages>185-219</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="29">
+		<List>Cladocyclus</List>
+		<List>Clupeoidei</List>
+		<List>Elops</List>
+		<List>Lycoptera</List>
+		<List>Paralycoptera</List>
+		<List>Tanolepis</List>
+		<List>Sinoglossus</List>
+		<List>Eohiodon</List>
+		<List>Hiodon</List>
+		<List>Joffrichthys</List>
+		<List>Heterotis</List>
+		<List>Arapaima</List>
+		<List>Phareodus</List>
+		<List>Pantodon</List>
+		<List>Singida</List>
+		<List>Scleropages</List>
+		<List>Osteoglossum</List>
+		<List>Ostariostoma</List>
+		<List>Mormyroidea</List>
+		<List>Petrocephalus</List>
+		<List>Gnathonemus</List>
+		<List>Campylomormyrus</List>
+		<List>Notopteridae</List>
+		<List>Chitala</List>
+		<List>Xenomystus</List>
+		<List>Papyrocranus</List>
+		<List>Palaeonotopterus</List>
+		<List>Chauliopareion</List>
+		<List>Xixiaichthys</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="87">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Wilson_et_Murray_2008a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

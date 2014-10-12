@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Jiang, W.</List>
+			<List>Maisch, M. W.</List>
+			<List>Hao, W.</List>
+			<List>Sun, Y.</List>
+			<List>Sun, Z.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title><em>Nothosaurus yangjuanensis</em> n. sp. (Reptilia, Sauropterygia, Nothosauridae) from the middle Anisian (Middle Triassic) of Guizhou, southwestern China</Title>
+		<Journal>Neues Jahrbuch fur Geologie und Palaontologie, Monatshefte</Journal>
+		<Volume>5</Volume>
+		<Pages>257-276</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Pachypleurosauria</List>
+		<List>Simosaurus</List>
+		<List>Germanosaurus</List>
+		<List>Nothosaurus_edingerae</List>
+		<List>Nothosaurus_giganteus</List>
+		<List>Nothosaurus_juvenilis</List>
+		<List>Nothosaurus_marchicus</List>
+		<List>Nothosaurus_mirabilis</List>
+		<List>Nothosaurus_hassi</List>
+		<List>Nothosaurus_tchernovi</List>
+		<List>Nothosaurus_winterswijkensis</List>
+		<List>Nothosaurus_jagisteus</List>
+		<List>Nothosaurus_youngi</List>
+		<List>Nothosaurus_yangiuanensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="25">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Jiang_etal_2006b</Filename>
+	<Parent>Li_et_Rieppel_2004a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Amati, L.</List>
+			<List>Westrop, S. R.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>A systematic revision of <em>Thaleops</em> (Trilobita: Illaenidae) with new species from the middle and late Ordovician of Oklahoma and New York</Title>
+		<Journal>Journal of Systematic Palaeontology</Journal>
+		<Volume>2</Volume>
+		<Pages>207-256</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="28">
+		<List>Raymondaspis</List>
+		<List>Illaenus_crassicauda</List>
+		<List>I_sarsi</List>
+		<List>I_aduncus</List>
+		<List>I_planifrons</List>
+		<List>I_oscitatus</List>
+		<List>I_praecurrens</List>
+		<List>I_fallax</List>
+		<List>I_roemeri</List>
+		<List>I_lacertus</List>
+		<List>I_viator</List>
+		<List>I_utahensis</List>
+		<List>I_marginalis</List>
+		<List>I_conradi</List>
+		<List>I_angusticollis</List>
+		<List>I_depressicapitatus</List>
+		<List>I_latiaxiatus</List>
+		<List>I_fieldi</List>
+		<List>I_conifrons</List>
+		<List>Nanillaenus_raymondi</List>
+		<List>N_aduncus</List>
+		<List>N_mackenziensis</List>
+		<List>Thaleops_ovata</List>
+		<List>T_longispina</List>
+		<List>T_anusacermissima</List>
+		<List>T_laurentiana</List>
+		<List>T_jaanussoni</List>
+		<List>T_mobydicki</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="20">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Amati_et_Westrop_2004a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

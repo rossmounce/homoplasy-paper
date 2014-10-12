@@ -1,0 +1,116 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sterli, J.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>Phylogenetic relationships among extinct and extant turtles: the position of Pleurodira and the effects of the fossils on rooting crown-group turtles</Title>
+		<Journal>Contributions to Zoology</Journal>
+		<Volume>79</Volume>
+		<Pages>93-106</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="82">
+		<List>Sphenodon_punctatus</List>
+		<List>Simosaurus_gaillardoti</List>
+		<List>Owenetta_kitchingorum</List>
+		<List>Anthodon_serrarius</List>
+		<List>Proganochelys_quenstedti</List>
+		<List>Proterochersis_robusta</List>
+		<List>Palaeochersis_talampayensis</List>
+		<List>Australochelys_africanus</List>
+		<List>Kayentachelys_aprix</List>
+		<List>Condorchelys_antiqua</List>
+		<List>Heckerochelys_romani</List>
+		<List>Indochelys_spatulata</List>
+		<List>Siamochelys_peninsularis</List>
+		<List>Niolamia_argentina</List>
+		<List>Meiolania_platyceps</List>
+		<List>Mongolochelys_efremovi</List>
+		<List>Kallokibotion_bajazidi</List>
+		<List>Platychelys_oberndorferi</List>
+		<List>Caribemys_oxfordiensis</List>
+		<List>Notoemys_laticentralis</List>
+		<List>Elseya_dentata</List>
+		<List>Elseya_latisternum</List>
+		<List>Chelodina_oblonga</List>
+		<List>Chelodina_longicollis</List>
+		<List>Phrynops_geoffroanus</List>
+		<List>Chelus_fimbriatus</List>
+		<List>Erymnochelys_madagascariensis</List>
+		<List>Pelomedusa_subrufa</List>
+		<List>Podocnemis_expansa</List>
+		<List>Chubutemys_copelloi</List>
+		<List>Dorsetochelys_delairi</List>
+		<List>Pleurosternon_bullockii</List>
+		<List>Glyptops_plicatulus</List>
+		<List>Dinochelys_whitei</List>
+		<List>Neurankylus_eximius</List>
+		<List>Trinitichelys_hiatti</List>
+		<List>Plesiobaena_antiqua</List>
+		<List>Boremys_pulchra</List>
+		<List>Baena_arenosa</List>
+		<List>Chisternon_undatum</List>
+		<List>Portlandemys_macdowelli</List>
+		<List>Plesiochelys_solodurensis</List>
+		<List>Solnhofia_parsonsi</List>
+		<List>Thalassemys_moseri</List>
+		<List>Santanachelys_gaffneyi</List>
+		<List>Xinjiangchelys_latimarginalis</List>
+		<List>Hangaiemys_hoburensis</List>
+		<List>Judithemys_sukhanovi</List>
+		<List>Dracochelys_bicuspis</List>
+		<List>Sinemys_lens</List>
+		<List>Ordosemys_leios</List>
+		<List>Toxochelys_latiremys</List>
+		<List>Caretta_caretta</List>
+		<List>Chelonia_mydas</List>
+		<List>Mesodermochelys_undulatus</List>
+		<List>Dermochelys_coriacea</List>
+		<List>Protochelydra_zangerli</List>
+		<List>Macroclemys_temminckii</List>
+		<List>Chelydra_serpentina</List>
+		<List>Platysternon_megacephalum</List>
+		<List>Mongolemys_elegans</List>
+		<List>Gopherus_polyphemus</List>
+		<List>Chelonoidis_chilensis</List>
+		<List>Chrysemys_picta</List>
+		<List>Trachemys_scripta</List>
+		<List>Geoclemys_hamiltonii</List>
+		<List>Emarginachelys_cretacea</List>
+		<List>Baptemys_wyomingensis</List>
+		<List>Dermatemys_mawii</List>
+		<List>Hoplochelys_crassa</List>
+		<List>Staurotypus_triporcatus</List>
+		<List>Sternotherus_odoratus</List>
+		<List>Kinosternon_flavescens</List>
+		<List>Zangerlia_neimongolensis</List>
+		<List>Basilemys_variolosa</List>
+		<List>Adocus_beatus</List>
+		<List>Peltochelys_durlstonensis</List>
+		<List>Sandownia_harrisi</List>
+		<List>Apalone_spinifera</List>
+		<List>Lissemys_punctata</List>
+		<List>Anosteira_ornata</List>
+		<List>Carettochelys_insculpta</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="152">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sterli_2010a</Filename>
+	<Parent>Sterli_2008a</Parent>
+	<Sibling/>
+</SourceTree>

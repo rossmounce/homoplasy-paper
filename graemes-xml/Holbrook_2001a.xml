@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Holbrook, L. T.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>Comparative osteology of early Tertiary tapiromorphs (Mammalia, Perissodactyla)</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>132</Volume>
+		<Pages>1-54</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="24">
+		<List>Phenacodus</List>
+		<List>Homogalax</List>
+		<List>Cardiolophus</List>
+		<List>Isectolophus</List>
+		<List>Eomoropus</List>
+		<List>Moropus</List>
+		<List>Heptodon</List>
+		<List>Helaletes</List>
+		<List>Colodon</List>
+		<List>Plesiocolopirus</List>
+		<List>Protapirus</List>
+		<List>Tapirus</List>
+		<List>Lophialetes</List>
+		<List>Hyrachyus</List>
+		<List>Rostriamynodon</List>
+		<List>Amynodon</List>
+		<List>Triplopus</List>
+		<List>Hyracodon</List>
+		<List>Forstercooperia</List>
+		<List>Paraceratherium</List>
+		<List>Trigonias</List>
+		<List>Subhyracodon</List>
+		<List>Uintaceras</List>
+		<List>Hyracotherium</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="30">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Holbrook_2001a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

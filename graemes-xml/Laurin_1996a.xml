@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Laurin, M.</List>
+		</Author>
+		<Year>1996</Year>
+		<Title>A reappraisal of <em>Utegenia</em>, a Permo-Carboniferous seymouriamorph (Tetrapoda: Batrachosauria) from Kazakhstan</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>16</Volume>
+		<Pages>374-383</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="8">
+		<List>Proterogyrinus</List>
+		<List>Limnoscelis</List>
+		<List>Kotlassia</List>
+		<List>Utegenia</List>
+		<List>Discosauriscus</List>
+		<List>Ariekanerpeton</List>
+		<List>Seymouria_sanjuanensis</List>
+		<List>Seymouria_baylorensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="10">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Laurin_1996a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

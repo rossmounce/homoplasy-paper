@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>de Maintenon, M. J.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>Phylogenetic relationships of the tropical American columbellid taxa <em>Conella</em>, <em>Eurypyrene</em>, and <em>Parametaria</em> (Gastropoda: Neogastropoda)</Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>79</Volume>
+		<Pages>497-508</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="24">
+		<List>Anachis_lyrata</List>
+		<List>Conella_ovulata</List>
+		<List>Conella_ovuloides</List>
+		<List>Conella_perplexabilis</List>
+		<List>Conella_ledaluciae</List>
+		<List>Eurypyrene_eurynotum</List>
+		<List>Eurypyrene_inflata</List>
+		<List>Eurypyrene_miccosukee</List>
+		<List>Eurypyrene_venezuelana</List>
+		<List>Parametaria_bella</List>
+		<List>Parametaria_dupontii</List>
+		<List>Parametaria_hertweckorum</List>
+		<List>Parametaria_lindae</List>
+		<List>Parametaria_macrostoma</List>
+		<List>Parametaria_philippinarum</List>
+		<List>Parametaria_prototypus</List>
+		<List>Parametaria_rutschi</List>
+		<List>Pyrene_punctata</List>
+		<List>Microcithara_uncinata</List>
+		<List>Parametaria_Dominitaria_islahispaniola</List>
+		<List>Parametaria_Dominitaria_lopezana</List>
+		<List>Columbella_mercatoria</List>
+		<List>Glyptanachis_atramentaria</List>
+		<List>Mitrella_ocellata</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="30">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>de_Maintenon_2005a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

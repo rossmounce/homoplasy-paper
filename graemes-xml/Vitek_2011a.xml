@@ -1,0 +1,69 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Vitek, N.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>Insights into the taxonomy and systematics of North American Eocene soft-shelled turtles from a well-preserved specimen</Title>
+		<Journal>Bulletin of the Peabody Museum of Natural History</Journal>
+		<Volume>52</Volume>
+		<Pages>189-208</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="35">
+		<List>Outgroup</List>
+		<List>Cycloderma_aubryi</List>
+		<List>Pelochelys_bibroni</List>
+		<List>Amyda_cartilaginea</List>
+		<List>Cyclanorbis_elegans</List>
+		<List>Rafetus_euphraticus</List>
+		<List>Apalone_ferox</List>
+		<List>Nilssonia_formosus</List>
+		<List>Cycloderma_frenatum</List>
+		<List>Aspideretes_gangeticus</List>
+		<List>Aspideretes_hurum</List>
+		<List>Chitra_indica</List>
+		<List>Nilssonia_leithii</List>
+		<List>Apalone_mutica</List>
+		<List>Aspideretes_nigricans</List>
+		<List>Lissemys_punctata</List>
+		<List>Cyclanorbis_senegalensis</List>
+		<List>Pelodiscus_sinensis</List>
+		<List>Apalone_spinifera</List>
+		<List>Palea_steindachneri</List>
+		<List>Dogania_subplanus</List>
+		<List>Rafetus_swinhoei</List>
+		<List>Trionyx_triunguis</List>
+		<List>Plastomenus_aff_thomasii</List>
+		<List>Hutchemys_rememdium</List>
+		<List>Hutchemys_arctochelys</List>
+		<List>Aspideretoids_foveatus</List>
+		<List>Aspideretoids_splendidus</List>
+		<List>Trionyx_tritor</List>
+		<List>Trionyx_nelsoni</List>
+		<List>Trionyx_franciscae</List>
+		<List>Trionyx_uintaensis</List>
+		<List>Trionyx_scutumantiquum</List>
+		<List>Trionyx_egregius</List>
+		<List>Trionyx_washakie</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="77">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Vitek_2011a</Filename>
+	<Parent>Joyce_etal_2009a</Parent>
+	<Sibling/>
+</SourceTree>

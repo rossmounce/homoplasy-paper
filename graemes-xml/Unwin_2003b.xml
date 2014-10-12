@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Unwin, D. M.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>Eudimorphodon and the early history of pterosaurs</Title>
+		<Journal>Rivista Museo civico Scienze Naturali "E. Caffi" Bergamo</Journal>
+		<Volume>22</Volume>
+		<Pages>39-46</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="16">
+		<List>Outgroup</List>
+		<List>Preondactylus</List>
+		<List>Dimorphodon</List>
+		<List>Peteinosaurus</List>
+		<List>Anurognathus</List>
+		<List>Batrachognathus</List>
+		<List>Dendrorhynchoides</List>
+		<List>Jeholopterus</List>
+		<List>Austriadactylus</List>
+		<List>Campylognathoides</List>
+		<List>Eudimorphodon</List>
+		<List>Scaphognathus</List>
+		<List>Sordes</List>
+		<List>Dorygnathus</List>
+		<List>Rhamphorhynchus</List>
+		<List>Pterodactyloidea</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="53">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Unwin_2003b</Filename>
+	<Parent>Unwin_2003a</Parent>
+	<Sibling/>
+</SourceTree>

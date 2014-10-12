@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Leighton, L. R.</List>
+			<List>Maples, C. G.</List>
+		</Author>
+		<Year>2002</Year>
+		<Title>Evaluating internal versus external characters: phylogenetic analyses of the Echinoconchidae, Buxtoniinae, and Juresaniinae (Phylum Brachiopoda)</Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>76</Volume>
+		<Pages>659-671</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Productella</List>
+		<List>Praewaageno</List>
+		<List>Leioproductus</List>
+		<List>Sentosia</List>
+		<List>Spinocarinifera</List>
+		<List>Diaphragmus</List>
+		<List>Antiquatonia</List>
+		<List>Flexaria</List>
+		<List>Buxtonia</List>
+		<List>Pustula</List>
+		<List>Echinoconchus</List>
+		<List>Echinaria</List>
+		<List>Pulchratia</List>
+		<List>Parajuresania</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="24">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Leighton_et_Maples_2002a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

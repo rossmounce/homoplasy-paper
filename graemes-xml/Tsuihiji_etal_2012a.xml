@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Tsuihiji, T.</List>
+			<List>Watabe, M.</List>
+			<List>Tsogtbaatar, K.</List>
+			<List>Barsbold, R.</List>
+			<List>Suzuki, S.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>A tyrannosauroid frontal from the Upper Cretaceous (Cenomanian-Santonian) of the Gobi Desert, Mongolia</Title>
+		<Journal>Vertebrata Palasiatica</Journal>
+		<Volume>50</Volume>
+		<Pages>102-110</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="24">
+		<List>Allosaurus</List>
+		<List>Compsogs</List>
+		<List>Maniraptora</List>
+		<List>Ornithomimos</List>
+		<List>Kileskus</List>
+		<List>Guanlong</List>
+		<List>Proceratosaurus</List>
+		<List>Sinotyrannus</List>
+		<List>Dilong</List>
+		<List>Eotyrannus</List>
+		<List>Stokesosaurus</List>
+		<List>Xiongguanlong</List>
+		<List>Raptorex</List>
+		<List>Dryptosaurus</List>
+		<List>Appalachiosaurus</List>
+		<List>Alioramus</List>
+		<List>Bistahieversor</List>
+		<List>MPC_D_102_4</List>
+		<List>Albertosaurus</List>
+		<List>Gorgosaurus</List>
+		<List>Utah</List>
+		<List>Daspletosaurus</List>
+		<List>Tarbosaurus</List>
+		<List>Tyrannosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="307">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Tsuihiji_etal_2012a</Filename>
+	<Parent>Brusatte_etal_2010a</Parent>
+	<Sibling/>
+</SourceTree>

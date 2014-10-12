@@ -1,0 +1,78 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Gaffney, E. S.</List>
+			<List>Meylan, P. A.</List>
+			<List>Wood, R. C.</List>
+			<List>Simons, E.</List>
+			<List>Campos, D. A.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>Evolution of the side-necked turtles: the family Podocnemididae</Title>
+		<Journal>Bulletin of the American Museum of Natural History</Journal>
+		<Volume>350</Volume>
+		<Pages>1-237</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="40">
+		<List>Chelidae</List>
+		<List>Pelomedusidae</List>
+		<List>Araripemys</List>
+		<List>Euraxemydidae</List>
+		<List>Bothremydidae</List>
+		<List>Portezueloemys</List>
+		<List>Brasilemys</List>
+		<List>Hamadachelys</List>
+		<List>Bauruemys</List>
+		<List>Pricemys</List>
+		<List>Peiropemys</List>
+		<List>Lapparentemys</List>
+		<List>Podocnemis_erythrocephala</List>
+		<List>Podocnemis_expansa</List>
+		<List>Podocnemis_lewyana</List>
+		<List>Podocnemis_sextuberculata</List>
+		<List>Podocnemis_unifilis</List>
+		<List>Podocnemis_vogli</List>
+		<List>Turkanemys</List>
+		<List>Erymnochelys</List>
+		<List>Peltocephalus</List>
+		<List>Neochelys</List>
+		<List>Papoulemys</List>
+		<List>Caninemys</List>
+		<List>Dacquemys</List>
+		<List>UCMP_42008a</List>
+		<List>Mogharemys</List>
+		<List>Brontochelys</List>
+		<List>Lemurchelys</List>
+		<List>Shweboemys</List>
+		<List>Stereogenys</List>
+		<List>Latentemys</List>
+		<List>Cordichelys</List>
+		<List>Bairdemys_hartsteini</List>
+		<List>Bairdemys_venezuelensis</List>
+		<List>Bairdemys_sanchezi</List>
+		<List>Bairdemys_winklerae</List>
+		<List>Cambaremys</List>
+		<List>Stupendemys</List>
+		<List>Kenyemys</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="74">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Gaffney_etal_2011a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

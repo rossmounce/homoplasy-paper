@@ -1,0 +1,61 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Hone, D. W. E.</List>
+			<List>Benton, M. J.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>A new genus of rhynchosaur from the Middle Triassic of south-west England</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>51</Volume>
+		<Pages>95-115</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="26">
+		<List>Proterosuchus</List>
+		<List>Prolacerta</List>
+		<List>Trilophosaurus</List>
+		<List>Mesosuchus</List>
+		<List>Howesia</List>
+		<List>Rhynchosaurus_articeps</List>
+		<List>Rhynchosaurus_brodiei</List>
+		<List>Stenaulorhynchus</List>
+		<List>Mesodapedon</List>
+		<List>Fodonyx_spenceri</List>
+		<List>Rhynchosaurus_spenceri</List>
+		<List>Otischalkia</List>
+		<List>Ammorhynchus</List>
+		<List>Hyperodapedon_genovefae</List>
+		<List>Scaphonyx_sulcognathus</List>
+		<List>Hyperodapedon_huenei</List>
+		<List>Hyperodapedon_gordoni</List>
+		<List>Hyperodapedon_huxleyi</List>
+		<List>Hyperodapedon_mariensis</List>
+		<List>Mariante_rhynchosaur</List>
+		<List>Zimbabwe_Hyperodapedon</List>
+		<List>Wyoming_Hyperodapedon</List>
+		<List>Scaphonyx_fischeri</List>
+		<List>Scaphonyx_sanjuanensis</List>
+		<List>Supradapedon</List>
+		<List>Nova_Scotia_rhynchosaur</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="75">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Hone_et_Benton_2008a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

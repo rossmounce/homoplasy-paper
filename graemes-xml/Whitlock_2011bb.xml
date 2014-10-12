@@ -1,0 +1,61 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Whitlock, J. A.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>Re-evaluation of Australodocus bohetii, a putative diplodocoid sauropod from the Tendaguru Formation of Tanzania, with comment on Late Jurassic sauropod faunal diversity and palaeoecology</Title>
+		<Journal>Palaeogeography, Palaeoclimatology, Palaeoecology</Journal>
+		<Volume>309</Volume>
+		<Pages>333-341</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="27">
+		<List>Omeisaurus</List>
+		<List>Losillasaurus</List>
+		<List>Jobaria</List>
+		<List>Camarasaurus</List>
+		<List>Sauroposideon</List>
+		<List>Brachiosaurus</List>
+		<List>Australodocus</List>
+		<List>Haplocanthosaurus</List>
+		<List>Amazonsaurus</List>
+		<List>Amphicoelias</List>
+		<List>Apatosaurus</List>
+		<List>Supersaurus</List>
+		<List>Dinheirosaurus</List>
+		<List>Tornieria</List>
+		<List>Barosaurus</List>
+		<List>Diplodocus</List>
+		<List>Suuwassea</List>
+		<List>Amargasaurus</List>
+		<List>Brachytrachelopan</List>
+		<List>Dicraeosaurus</List>
+		<List>Histriasaurus</List>
+		<List>Rebbachisaurus</List>
+		<List>Limaysaurus</List>
+		<List>Cathartesaura</List>
+		<List>Zapalasaurus</List>
+		<List>Nigersaurus</List>
+		<List>Spanish_Rebbach.</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="189">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Whitlock_2011bb</Filename>
+	<Parent>Whitlock_2011a</Parent>
+	<Sibling>Whitlock_2011ba</Sibling>
+</SourceTree>

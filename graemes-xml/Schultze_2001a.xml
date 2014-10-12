@@ -1,0 +1,89 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Schultze, H.-P.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>Melanognathus, a primitive dipnoan from the Lower Devonian of the Canadian Arctic and the interrelationships of Devonian dipnoans</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>21</Volume>
+		<Pages>781-794</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="55">
+		<List>Psarolepis</List>
+		<List>Diabolepis</List>
+		<List>Adalolopas</List>
+		<List>Adelargo</List>
+		<List>Andreyevichthys</List>
+		<List>Archaeonectes</List>
+		<List>Barwickia</List>
+		<List>Chirodipt_austr</List>
+		<List>Chirodipt_onaw</List>
+		<List>Chirodipt_rhen</List>
+		<List>Chirodipt_wild</List>
+		<List>Dipnorhynch_cath</List>
+		<List>Dipnorhynch_kian</List>
+		<List>Dipnorhynch_kur</List>
+		<List>Dipnorhynch_sus</List>
+		<List>Dipterus_cf_valc</List>
+		<List>Dipterus_valenc</List>
+		<List>Eoctenodus</List>
+		<List>Fleurantia</List>
+		<List>Gogodipt_paddy</List>
+		<List>Griphognath_min</List>
+		<List>Griphognath_scul</List>
+		<List>Griphognath_whit</List>
+		<List>Grossipterus</List>
+		<List>Holodipt_elderae</List>
+		<List>Holodipt_gogo</List>
+		<List>Holodipt_longi</List>
+		<List>Holodipt_meem</List>
+		<List>Holodipt_santacr</List>
+		<List>Howidipterus</List>
+		<List>Ichnomylax</List>
+		<List>Iowadipterus</List>
+		<List>Iranorhynchus</List>
+		<List>Jarvikia</List>
+		<List>Jessenia</List>
+		<List>Melanognathus</List>
+		<List>Nielsenia</List>
+		<List>Oervigia</List>
+		<List>Orlovichthys</List>
+		<List>Palaeodaphus</List>
+		<List>Pentlandia</List>
+		<List>Phaneropleuron</List>
+		<List>Pillarhynchus</List>
+		<List>Rhinodipt_sec</List>
+		<List>Rhinodipt_ulr</List>
+		<List>Rhynchodipterus</List>
+		<List>Scaumenacia</List>
+		<List>Soederberghia</List>
+		<List>Sorbitorhynchus</List>
+		<List>Speonesydr_iani</List>
+		<List>Westollrhynchus</List>
+		<List>Stomiahykus</List>
+		<List>Sunwapta</List>
+		<List>Tarachomylax</List>
+		<List>Uranolophus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="90">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Schultze_2001a</Filename>
+	<Parent>Schultze_et_Marshall_1993a</Parent>
+	<Sibling/>
+</SourceTree>

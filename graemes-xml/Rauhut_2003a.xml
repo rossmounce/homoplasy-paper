@@ -1,0 +1,94 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Rauhut, O. W. M.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>The interrelationships and evolution of basal theropod dinosaurs</Title>
+		<Journal>Special Papers in Palaeontology</Journal>
+		<Volume>69</Volume>
+		<Pages>1-213</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="60">
+		<List>Euparkeria</List>
+		<List>Marasuchus</List>
+		<List>Ornithischia</List>
+		<List>Sauropodomorpha</List>
+		<List>Eoraptor</List>
+		<List>Herrerasaurus</List>
+		<List>Staurikosaurus</List>
+		<List>Coelophysis</List>
+		<List>Gojirasaurus</List>
+		<List>L.airelensis</List>
+		<List>L.liliensterni</List>
+		<List>Procompsognathus</List>
+		<List>Shuvosaurus</List>
+		<List>Dilophosaurus</List>
+		<List>Segisaurus</List>
+		<List>Syntarsus</List>
+		<List>Magnosaurus</List>
+		<List>Metriacanthosaurus</List>
+		<List>Monolophosaurus</List>
+		<List>Piatnitzkysaurus</List>
+		<List>Piveteausaurus</List>
+		<List>Poekilopleuron</List>
+		<List>Proceratosaurus</List>
+		<List>Xuanhanosaurus</List>
+		<List>S._zigongensis</List>
+		<List>Allosaurus</List>
+		<List>Coelurus</List>
+		<List>Compsognathus</List>
+		<List>Ornitholestes</List>
+		<List>Sinraptoridae</List>
+		<List>Stokesosaurus</List>
+		<List>Torvosaurus</List>
+		<List>Afrovenator</List>
+		<List>Aristosuchus</List>
+		<List>C._maortuensis</List>
+		<List>Chilantaisaurus</List>
+		<List>Ligabueino</List>
+		<List>Siamotyrannus</List>
+		<List>Sinosauropteryx</List>
+		<List>SMNK_2349Pal</List>
+		<List>Baryonychidae</List>
+		<List>Tyrannosauridae</List>
+		<List>Ceratosaurus</List>
+		<List>Elaphrosaurus</List>
+		<List>Velocisaurus</List>
+		<List>Abelisauridae</List>
+		<List>Bagaraatan</List>
+		<List>Therizinosauroidea</List>
+		<List>Caudipteryx</List>
+		<List>Microvenator</List>
+		<List>Avimimus</List>
+		<List>Oviraptorosauria</List>
+		<List>Unenlagia</List>
+		<List>Aves</List>
+		<List>Dromaeosauridae</List>
+		<List>Troodontidae</List>
+		<List>Deltadromeus</List>
+		<List>Ornithomimosauria</List>
+		<List>Neovenator</List>
+		<List>Carcharodontosauridae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="224">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix (first 100,000 mpts only).</Notes>
+	<Filename>Rauhut_2003a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Demar, D. G.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>A new fossil salamander (Caudata, Proteidae) from the Upper Cretaceous (Maastrichtian) Hell Creek Formation, Montana, U.S.A</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>33</Volume>
+		<Pages>588-598</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="13">
+		<List>Cryptobranchus_alleganiensis</List>
+		<List>Proteus_anguinus</List>
+		<List>Necturus_maculosus</List>
+		<List>Necturus_krausei</List>
+		<List>Paranecturus_garbanii</List>
+		<List>Opisthotriton_kayi</List>
+		<List>Prodesmodon_copei</List>
+		<List>Scapherpeton_tectum</List>
+		<List>Lisserpeton_bairdi</List>
+		<List>Piceoerpeton_willwoodense</List>
+		<List>Piceoerpeton_naylori</List>
+		<List>Habrosaurus_dilatus</List>
+		<List>Proamphiuma_cretacea</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="23">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Demar_2013a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

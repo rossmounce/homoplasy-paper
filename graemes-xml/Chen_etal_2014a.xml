@@ -1,0 +1,44 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Chen, X.-H.</List>
+			<List>Motani, R.</List>
+			<List>Cheng, L.</List>
+			<List>Jiang, D.-Y.</List>
+			<List>Rieppel, O.</List>
+		</Author>
+		<Year>2014</Year>
+		<Title>A carapace-like bony 'body tube' in an Early Triassic marine reptile and the onset of marine tetrapod predation</Title>
+		<Journal>PLOS ONE</Journal>
+		<Volume>9</Volume>
+		<Pages>e94396</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="6">
+		<List>Hovasaurus</List>
+		<List>Utatsusaurus</List>
+		<List>Nanchangosaurus</List>
+		<List>Hupehsuchus</List>
+		<List>Parahupehsuchus</List>
+		<List>IVPP_dot_V4070</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="25">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Chen_etal_2014a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

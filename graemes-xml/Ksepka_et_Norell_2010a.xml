@@ -1,0 +1,80 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ksepka, D. T.</List>
+			<List>Norell, M. A.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>The illusory evidence for Asian Brachiosauridae: new material of Erketu ellisoni and a phylogenetic reappraisal of basal Titanosauriformes</Title>
+		<Journal>American Museum Novitates</Journal>
+		<Volume>3700</Volume>
+		<Pages>1-27</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="45">
+		<List>Theropoda</List>
+		<List>Prosauropoda</List>
+		<List>Vulcanodon</List>
+		<List>Shunosaurus</List>
+		<List>Barapasaurus</List>
+		<List>Patagosaurus</List>
+		<List>Cetiosaurus</List>
+		<List>Ferganasaurus</List>
+		<List>Jobaria</List>
+		<List>Camarasaurus</List>
+		<List>Europasaurus</List>
+		<List>Abydosaurus</List>
+		<List>Brachiosaurus</List>
+		<List>Cedarosaurus</List>
+		<List>Giraffatitan</List>
+		<List>Paluxysaurus</List>
+		<List>Euhelopus</List>
+		<List>Andesaurus</List>
+		<List>IGM_100_slash_3105</List>
+		<List>Sonidosaurus</List>
+		<List>Malawisaurus</List>
+		<List>Epachthosaurus</List>
+		<List>Isisaurus</List>
+		<List>Alamosaurus</List>
+		<List>Gondwanatitan</List>
+		<List>Opisthocoelicaudia</List>
+		<List>Neuquensaurus</List>
+		<List>Saltasaurus</List>
+		<List>Nemegtosaurus</List>
+		<List>Rapetosaurus</List>
+		<List>Erketu</List>
+		<List>Qiaowanlong</List>
+		<List>Haplocanthosaurus</List>
+		<List>Dicraeosaurus</List>
+		<List>Amargasaurus</List>
+		<List>Brachytrachelopan</List>
+		<List>Apatosaurus</List>
+		<List>Suuwassea</List>
+		<List>Barosaurus</List>
+		<List>Diplodocus</List>
+		<List>Tornieria</List>
+		<List>Limaysaurus</List>
+		<List>Nigersaurus</List>
+		<List>Mamenchisaurus</List>
+		<List>Omeisaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="243">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ksepka_et_Norell_2010a</Filename>
+	<Parent>Wilson_2002a</Parent>
+	<Sibling/>
+</SourceTree>

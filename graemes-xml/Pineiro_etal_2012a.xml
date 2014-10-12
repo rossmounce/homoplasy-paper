@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Pineiro, G.</List>
+			<List>Ramos, A.</List>
+			<List>Marsicano, C.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>A rhinesuchid-like temnospondyl from the Permo-Triassic of Uruguay</Title>
+		<Journal>Comptes Rendus Palevol</Journal>
+		<Volume>11</Volume>
+		<Pages>65-78</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="16">
+		<List>Dendrerpeton</List>
+		<List>Archegosauridae</List>
+		<List>Peltobatrachus</List>
+		<List>Rhinesuchidae</List>
+		<List>Lydekkerina</List>
+		<List>Benthosuchus</List>
+		<List>Laidleria</List>
+		<List>Plagiosauridae</List>
+		<List>Arcadia</List>
+		<List>Watsonisuchus</List>
+		<List>Uruyiella</List>
+		<List>Arachana</List>
+		<List>Pneumatostega</List>
+		<List>Sangaia</List>
+		<List>Bothriceps</List>
+		<List>Keratobrachyops</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="61">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Pineiro_etal_2012a</Filename>
+	<Parent>Pineiro_etal_2007a</Parent>
+	<Sibling/>
+</SourceTree>

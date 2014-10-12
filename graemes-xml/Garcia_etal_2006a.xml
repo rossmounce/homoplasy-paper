@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Garcia, G.</List>
+			<List>Marivaux, L.</List>
+			<List>Pelissie, T.</List>
+			<List>Vianey-Liaur, M.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>Earliest Laurasian sauropod eggshells</Title>
+		<Journal>Acta Palaeontologica Polonica</Journal>
+		<Volume>51</Volume>
+		<Pages>99-104</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="19">
+		<List>Testudoflexoolithus_bathonicae</List>
+		<List>Krokolithes_helleri</List>
+		<List>Krokolithes_wilsoni</List>
+		<List>Struthio_sp</List>
+		<List>Tristraguloolithus_cracioides</List>
+		<List>Medioolithus_geiseltalensis</List>
+		<List>Preprismatoolithus_coloradensis</List>
+		<List>Prismatoolithus_levis</List>
+		<List>Elongatoolithus_frustrabilis</List>
+		<List>Macroolithus_rugustus</List>
+		<List>Maiasaura_eggshells</List>
+		<List>Spheroolithus_albertensis</List>
+		<List>Cairanoolithus_dughii</List>
+		<List>Megaloolithus_aureliensis</List>
+		<List>Megaloolithus_mamillare</List>
+		<List>Megaloolithus_siruguei</List>
+		<List>Megaloolithus_cylindricus</List>
+		<List>Megaloolithus_jabalpurensis</List>
+		<List>Bajocian_eggshells_from_La_Balme</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="27">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Garcia_etal_2006a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

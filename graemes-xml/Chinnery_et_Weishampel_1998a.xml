@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Chinnery, B. J.</List>
+			<List>Weishampel, D. B.</List>
+		</Author>
+		<Year>1998</Year>
+		<Title>Montanoceratops cerorhynchus (Dinosauria, Ceratopsia) and relationships among basal neoceratopsians</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>18</Volume>
+		<Pages>569-585</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="68">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Chinnery_et_Weishampel_1998a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

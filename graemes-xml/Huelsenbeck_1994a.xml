@@ -1,0 +1,71 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Huelsenbeck, J. P.</List>
+		</Author>
+		<Year>1994</Year>
+		<Title>Comparing the stratigraphic record to estimates of phylogeny</Title>
+		<Journal>Paleobiology</Journal>
+		<Volume>20</Volume>
+		<Pages>470-483</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="37">
+		<List>Outgroup</List>
+		<List>UNC_13497b</List>
+		<List>Lopha_haidingeriana</List>
+		<List>Dendostrea_frons</List>
+		<List>Rastellwn_macropterwn</List>
+		<List>Rastellwn_carinatum</List>
+		<List>Agerostrea_falcata</List>
+		<List>Agerostrea_mesenterica</List>
+		<List>Lopha_solitaria</List>
+		<List>Nicaisolopha_nicasei</List>
+		<List>Ostreola_conchaphila</List>
+		<List>Saccostrea_palmula</List>
+		<List>Striostrea_marganitacea</List>
+		<List>Crassostrea_columbiensis</List>
+		<List>Crassostrea_virginica</List>
+		<List>Liostrea_hisingeri</List>
+		<List>Liostrea_delta</List>
+		<List>Liostrea_eduliformis</List>
+		<List>Pernostrea</List>
+		<List>Praexogyra_acuminata</List>
+		<List>Praexogyra_calceola</List>
+		<List>Nanogyra_nana</List>
+		<List>Amphidonte</List>
+		<List>Ceratostreon_texanum</List>
+		<List>Ceratostreon_zueatherfordensis</List>
+		<List>Exogyra_ponderosa</List>
+		<List>Exogyra_laeviscula_slash_tigrina</List>
+		<List>Ilymatogyra_arietina</List>
+		<List>Gryphaea_arcuataeformis</List>
+		<List>Gyphaea_arcuata</List>
+		<List>Gryphaea_sportella</List>
+		<List>Gryphaea_pictavensis</List>
+		<List>Gryphaea_nebrascensis</List>
+		<List>Catinula_beaumonti</List>
+		<List>Texigraphaea_roemeri</List>
+		<List>Pycnodonte_roanokensis</List>
+		<List>Parahyotissa_mcgynti</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="37">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Huelsenbeck_1994a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

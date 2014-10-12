@@ -1,0 +1,81 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Brito, P. M.</List>
+			<List>Yabumoto, Y.</List>
+			<List>Grande, L.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>New amiid fish (Halecomorphi: Amiiformes) from the Lower Cretaceous Crato Formation, Araripe Basin, Northeast Brazil</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>28</Volume>
+		<Pages>1007-1014</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="45">
+		<List>A_spatula</List>
+		<List>E_speciosus</List>
+		<List>P_bechei</List>
+		<List>P_macrocephalus</List>
+		<List>S_zdanskyi</List>
+		<List>I_orientalis</List>
+		<List>I_meridionalis</List>
+		<List>C_furcatus</List>
+		<List>A_pachyurus</List>
+		<List>L_gracilis</List>
+		<List>L_sprattiformis</List>
+		<List>I_cyprinoides</List>
+		<List>O_procera</List>
+		<List>M_arenatus</List>
+		<List>O_brevis</List>
+		<List>W_eugnathoides</List>
+		<List>A_prisca</List>
+		<List>A_lepidota</List>
+		<List>A_woodwardi</List>
+		<List>A_damoni</List>
+		<List>A_dolloi</List>
+		<List>S_elongata</List>
+		<List>C_cylindricus</List>
+		<List>P_latimaxillaris</List>
+		<List>P_mexicana</List>
+		<List>V_catalunica</List>
+		<List>C_oligocenicus</List>
+		<List>C_macrocephalus</List>
+		<List>C_ignotus</List>
+		<List>C_valenciennesi</List>
+		<List>C_fragosus</List>
+		<List>C_efremovi</List>
+		<List>C_gurleyi</List>
+		<List>C_kehreri</List>
+		<List>A_pattersoni</List>
+		<List>A_hesperia</List>
+		<List>A_scutata</List>
+		<List>A_calva</List>
+		<List>M_gigas</List>
+		<List>C_mawsoni</List>
+		<List>M_thomasi</List>
+		<List>M_chauliodus</List>
+		<List>M_satoi</List>
+		<List>P_heintzi</List>
+		<List>Cratoamia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="69">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Brito_etal_2008a</Filename>
+	<Parent>Grande_et_Bemis_1998a</Parent>
+	<Sibling/>
+</SourceTree>

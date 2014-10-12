@@ -1,0 +1,69 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Liu, J.</List>
+			<List>Abdala, F.</List>
+		</Author>
+		<Year>2014</Year>
+		<Title>Phylogeny and taxonomy of the Traversodontidae</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>255-279</Pages>
+		<Booktitle>Early Evolutionary History of the Synapsida</Booktitle>
+		<Publisher>Springer Science</Publisher>
+		<City>Dordrecht</City>
+		<Editor>
+			<List>Kammerer, C. F.</List>
+			<List>Angielczyk, K. D.</List>
+			<List>Frobisch, J.</List>
+		</Editor>
+	</Source>
+	<Taxa number="30">
+		<List>Thrinaxodon_liorhinus</List>
+		<List>Cynognathus_crateronotus</List>
+		<List>Diademodon_tetragonus</List>
+		<List>Beishanodon_youngi</List>
+		<List>Cricodon_metabolus</List>
+		<List>Langbergia_modisei</List>
+		<List>Sinognathus_gracilis</List>
+		<List>Trirachodon_berryi</List>
+		<List>JSM_100</List>
+		<List>Andescynodon_mendozensis</List>
+		<List>Arctotraversodon_plemmyridon</List>
+		<List>Boreogomphodon_jeffersoni</List>
+		<List>Dadadon_isaloi</List>
+		<List>Exaeretodon_argentinus</List>
+		<List>Exaeretodon_riograndensis</List>
+		<List>Gomphodontosuchus_brasiliensis</List>
+		<List>Luangwa_drysdalli</List>
+		<List>Luangwa_sudamericana</List>
+		<List>Massetognathus_ochagaviae</List>
+		<List>Massetognathus_pascuali</List>
+		<List>Menadon_besairiei</List>
+		<List>Pascualgnathus_polanskii</List>
+		<List>Protuberum_cabralense</List>
+		<List>Santacruzodon_hopsoni</List>
+		<List>Scalenodon_angustifrons</List>
+		<List>Mandagomphodon_attridgei</List>
+		<List>Mandagomphodon_hirschoni</List>
+		<List>Scalenodontoides_macrodontoides</List>
+		<List>Traversodon_stahleckeri</List>
+		<List>Nanogomphodon_wildi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="77">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Liu_et_Abdala_2014a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

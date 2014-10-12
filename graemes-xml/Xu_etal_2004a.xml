@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Xu, X.</List>
+			<List>Norell, M. A.</List>
+			<List>Kuang, X.-W.</List>
+			<List>Wang, X.-L.</List>
+			<List>Zhao, Q.</List>
+			<List>Jia, C.-K.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>Basal tyrannosauroids from China and evidence for protofeathers in tyrannosauroids</Title>
+		<Journal>Nature</Journal>
+		<Volume>431</Volume>
+		<Pages>680-684</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="15">
+		<List>Allosaurus</List>
+		<List>Sinosauropteryx</List>
+		<List>Gallimimus</List>
+		<List>Sinovenator</List>
+		<List>Citipati</List>
+		<List>Dilong</List>
+		<List>Albertosaurus</List>
+		<List>Gorgosaurus</List>
+		<List>Alioramus</List>
+		<List>Daspletosaurus</List>
+		<List>Tarbosaurus</List>
+		<List>Nanotyrannus</List>
+		<List>Tyrannosaurus</List>
+		<List>Velociraptor</List>
+		<List>Dromaeosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="77">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Xu_etal_2004a</Filename>
+	<Parent>Currie_etal_2003a</Parent>
+	<Sibling/>
+</SourceTree>

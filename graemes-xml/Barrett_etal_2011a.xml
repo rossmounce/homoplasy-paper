@@ -1,0 +1,99 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Barrett, P. M.</List>
+			<List>Butler, R. J.</List>
+			<List>Twitchett, R. J.</List>
+			<List>Hutt, S.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>New material of <em>Valdosaurus canaliculatus</em> (Ornithischia: Ornithopoda) from the Lower Cretaceous of southern England</Title>
+		<Journal>Special Papers in Palaeontology</Journal>
+		<Volume>86</Volume>
+		<Pages>131-163</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="62">
+		<List>Lesothosaurus_diagnosticus</List>
+		<List>Hypsilophodon_foxii</List>
+		<List>Rhabdodon_sp.</List>
+		<List>Muttaburrasaurus_langdoni</List>
+		<List>Zalmoxes_robustus</List>
+		<List>Zalmoxes_shqiperorum</List>
+		<List>Tenontosaurus_dossi</List>
+		<List>Tenontosaurus_tilletti</List>
+		<List>Camptosaurus_aphanoecetes</List>
+		<List>Camptosaurus_dispar</List>
+		<List>Draconyx_loureiroi</List>
+		<List>Cumnoria_prestwichii</List>
+		<List>Owenodon_hoggii</List>
+		<List>NHMUK_R8676</List>
+		<List>Utah_taxon_2</List>
+		<List>Utah_taxon_1</List>
+		<List>Theiophytalia_kerri</List>
+		<List>Cedrorestes_crichtoni</List>
+		<List>Planicoxa_venenica</List>
+		<List>Camptosaurus_depressus</List>
+		<List>Dakotadon_lakotaensis</List>
+		<List>Lurdusaurus_arenatus</List>
+		<List>Barilium_dawsoni</List>
+		<List>Hypselospinus_fittoni</List>
+		<List>NHMUK_R1831</List>
+		<List>Lanzhousaurus_magnidens</List>
+		<List>Fukuisaurus_tetoriensis</List>
+		<List>Kukufeldia_tilgatensis</List>
+		<List>Iguanodon_bernissartensis</List>
+		<List>Dollodon_bampingi</List>
+		<List>Mantellisaurus_atherfieldensis</List>
+		<List>Ouranosaurus_nigeriensis</List>
+		<List>Altirhinus_kurzanovi</List>
+		<List>Jinzhousaurus_yangi</List>
+		<List>Jintasaurus_meniscus</List>
+		<List>Equijubus_normani</List>
+		<List>Penelopognathus_weishampeli</List>
+		<List>Probactrosaurus_mazongshanensis</List>
+		<List>Probactrosaurus_gobiensis</List>
+		<List>Eolambia_caroljonesa</List>
+		<List>Jeyawati_rugoculus</List>
+		<List>Protohadros_byrdi</List>
+		<List>Nanyangosaurus_zhugeii</List>
+		<List>Tethyshadros_insularis</List>
+		<List>Callovosaurus_leedsi</List>
+		<List>Camptosaurus_valdensis</List>
+		<List>Dryosaurus_altus</List>
+		<List>Dysalotosaurus_lettowvorbecki</List>
+		<List>Kangnasaurus_coetzeei</List>
+		<List>Elrhazosaurus_nigeriensis</List>
+		<List>Valdosaurus_canaliculatus</List>
+		<List>Levnesovia_transoxiana</List>
+		<List>Bactrosaurus_johnsoni</List>
+		<List>Gilmoreosaurus_mongoliensis</List>
+		<List>Shuangmiaosaurus_gilmorei</List>
+		<List>Tanius_sinensis</List>
+		<List>Telmatosaurus_transsylvanicus</List>
+		<List>Claosaurus_agilis</List>
+		<List>Lophorhothon_atopus</List>
+		<List>Hadrosaurus_foulkii</List>
+		<List>Edmontosaurus_annectens</List>
+		<List>Corythosaurus_casuarius</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="137">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix (first 100,000 mpts only).</Notes>
+	<Filename>Barrett_etal_2011a</Filename>
+	<Parent>McDonald_etal_2010b</Parent>
+	<Sibling/>
+</SourceTree>

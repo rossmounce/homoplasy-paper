@@ -1,0 +1,44 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Xu, X.</List>
+			<List>Wang, X.-L.</List>
+			<List>Wu, X.-C.</List>
+		</Author>
+		<Year>1999</Year>
+		<Title>A dromaeosaurid dinosaur with a filamentous integument from the Yixian Formation of China</Title>
+		<Journal>Nature</Journal>
+		<Volume>401</Volume>
+		<Pages>262-266</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="8">
+		<List>Coelophysis</List>
+		<List>Ornithomimidae</List>
+		<List>Dromaeosauridae</List>
+		<List>Troodontidae</List>
+		<List>Oviraptorosauria</List>
+		<List>Beipiaosaurus</List>
+		<List>Alxasaurus</List>
+		<List>Therizinosauridae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="84">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Xu_etal_1999b</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

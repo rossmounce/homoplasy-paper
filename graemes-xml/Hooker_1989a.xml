@@ -1,0 +1,77 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Hooker, J. J.</List>
+		</Author>
+		<Year>1989</Year>
+		<Title>Character polarities in early perissodactyls and their significance for <em>Hyracotherium</em> and infraordinal relationships</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>79-101</Pages>
+		<Booktitle>The Evolution of Perissodactyls</Booktitle>
+		<Publisher>Oxford University Press</Publisher>
+		<City>Oxford</City>
+		<Editor>
+			<List>Prothero, D. R.</List>
+			<List>Schoch, R. M.</List>
+		</Editor>
+	</Source>
+	<Taxa number="40">
+		<List>Lambdotherium</List>
+		<List>Plagiolophus_annectens</List>
+		<List>Plagiolophus_sp_I</List>
+		<List>Propalaeotherium_hassiacum</List>
+		<List>Propachynolophus_gaudryi</List>
+		<List>Lophiotherium</List>
+		<List>Propalaeotherium_messelense</List>
+		<List>Propachynolophus_maldani</List>
+		<List>Palaeotherium</List>
+		<List>Hyracotherium_leporinum</List>
+		<List>H_vulpiceps</List>
+		<List>H_aff_vulpiceps</List>
+		<List>H_vasacciense</List>
+		<List>H_tapirinum</List>
+		<List>Cymbalophus</List>
+		<List>Anchilophus</List>
+		<List>Pachynolophus</List>
+		<List>H_sp_Rians</List>
+		<List>Triplopus</List>
+		<List>Chasmotherium</List>
+		<List>Hyrachyus</List>
+		<List>Protapirus</List>
+		<List>Colodon_occidentalis</List>
+		<List>Helaletes</List>
+		<List>Heptodon</List>
+		<List>Lophialetes</List>
+		<List>Eoletes</List>
+		<List>Schlosseria</List>
+		<List>Rhodopagus</List>
+		<List>Teleolophus</List>
+		<List>Breviodon</List>
+		<List>Eomoropus</List>
+		<List>Lophiaspis_maurettei</List>
+		<List>Paralophiodon_buchswillanum</List>
+		<List>Lophiodon</List>
+		<List>Kalakotia</List>
+		<List>Isectolophus</List>
+		<List>Homogalax_protapirinus</List>
+		<List>Homogalax_sp_I</List>
+		<List>Eotitanops</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="67">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Hooker_1989a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

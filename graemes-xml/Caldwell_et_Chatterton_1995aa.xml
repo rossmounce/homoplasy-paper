@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Caldwell, M. W.</List>
+			<List>Chatteron, B. D. E.</List>
+		</Author>
+		<Year>1995</Year>
+		<Title>Phylogenetic analysis of some Silurian rostroconchs (Molluscs) from northwestern Canada</Title>
+		<Journal>Canadian Journal of Earth Sciences</Journal>
+		<Volume>32</Volume>
+		<Pages>806-827</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List>Eopteria_struszi</List>
+		<List>Psedoconocardium_lanterna</List>
+		<List>Mulceodens_wilsoni</List>
+		<List>Mulceodens_schneideri</List>
+		<List>Mulceodens_johnstoni</List>
+		<List>Mulceodens_jaanussoni</List>
+		<List>Malceodens_eboraceous</List>
+		<List>Bransonia_foxi</List>
+		<List>Bransonia_wilsoni</List>
+		<List>Bransonia_cressmani</List>
+		<List>Bransonia_robusta</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="14">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Caldwell_et_Chatterton_1995aa</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

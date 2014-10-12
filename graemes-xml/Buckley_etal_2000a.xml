@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Buckley, G. A.</List>
+			<List>Brochu, C. A.</List>
+			<List>Krause, D. W.</List>
+			<List>Pol, D.</List>
+		</Author>
+		<Year>2000</Year>
+		<Title>A pug-nosed crocodyliform from the Late Cretaceous of Madagascar</Title>
+		<Journal>Nature</Journal>
+		<Volume>405</Volume>
+		<Pages>941-944</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="25">
+		<List>Protosuchus</List>
+		<List>Hemiprotosuchus</List>
+		<List>Orthosuchus</List>
+		<List>Notosuchus</List>
+		<List>Libycosuchus</List>
+		<List>Uruguaysuchus</List>
+		<List>Simosuchus</List>
+		<List>Malawisuchus</List>
+		<List>Baurusuchus</List>
+		<List>Sebecus</List>
+		<List>Comahuesuchus</List>
+		<List>Araripesuchus</List>
+		<List>Mahajangasuchus</List>
+		<List>Peirosauridae</List>
+		<List>Trematochampsa</List>
+		<List>Alligatorium</List>
+		<List>Theriosuchus</List>
+		<List>Eutretauranosuchus</List>
+		<List>Goniopholis</List>
+		<List>Bernissartia</List>
+		<List>Crocodylia</List>
+		<List>Hsisosuchus</List>
+		<List>Pelagosaurus</List>
+		<List>Teleosauridae</List>
+		<List>Metriorhynchidae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="117">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Buckley_etal_2000a</Filename>
+	<Parent>Clark_1994a</Parent>
+	<Sibling/>
+</SourceTree>

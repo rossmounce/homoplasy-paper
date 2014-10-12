@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Wilson, J. A.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>Integrating ichnofossil and body fossil records to estimate locomotor posture and spatiotemporal distribution of early sauropod dinosaurs: a stratocladistic approach</Title>
+		<Journal>Paleobiology</Journal>
+		<Volume>31</Volume>
+		<Pages>400-421</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="17">
+		<List>Theropoda</List>
+		<List>Prosauropoda</List>
+		<List>Portozuelo</List>
+		<List>Blikanasaurus</List>
+		<List>Antenonitrus</List>
+		<List>Tetrasauropus</List>
+		<List>Isanosaurus</List>
+		<List>LavinidiMarco</List>
+		<List>Gongxianosaurus</List>
+		<List>Tazoudasaurus</List>
+		<List>Vulcanodon</List>
+		<List>Shunosaurus</List>
+		<List>Barapasaurus</List>
+		<List>Patagosaurus</List>
+		<List>Neosauropoda</List>
+		<List>Omeisaurus</List>
+		<List>Mamenchisaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="173">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Wilson_2005aa</Filename>
+	<Parent>Wilson_2002a</Parent>
+	<Sibling>Wilson_2005ab</Sibling>
+</SourceTree>

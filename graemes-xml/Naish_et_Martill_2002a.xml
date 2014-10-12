@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Naish, D.</List>
+			<List>Martill, D. M.</List>
+		</Author>
+		<Year>2002</Year>
+		<Title>A reappraisal of Thecocoelurus daviesi (Dinosauria: Theropoda) from the Early Cretaceous of the Isle of Wight</Title>
+		<Journal>Proceedings of the Geologists' Association</Journal>
+		<Volume>113</Volume>
+		<Pages>23-30</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="20">
+		<List>Herrerasaurus</List>
+		<List>Coelophysis</List>
+		<List>Ornithomimid</List>
+		<List>Troodon</List>
+		<List>Deinonychus</List>
+		<List>Coelurus</List>
+		<List>Ornitholestes</List>
+		<List>Shuvuuia</List>
+		<List>Carnotaurus</List>
+		<List>Noasaurus</List>
+		<List>Allosaurus</List>
+		<List>Tyrannosaurid</List>
+		<List>Chirostenotes</List>
+		<List>Oviraptoridae</List>
+		<List>Quarry_9</List>
+		<List>Therizinosaurid</List>
+		<List>El_Brete</List>
+		<List>BMNH_R181</List>
+		<List>Hesperornis</List>
+		<List>Casuaris</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="10">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Naish_et_Martill_2002a</Filename>
+	<Parent>Frankfurt_et_Chiappe_1999a</Parent>
+	<Sibling/>
+</SourceTree>

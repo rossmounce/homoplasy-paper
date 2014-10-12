@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Dilkes, D. W.</List>
+		</Author>
+		<Year>1998</Year>
+		<Title>The Early Triassic rhynchosaur Mesosuchus browni and the interrelationships of basal archosauromorph reptiles</Title>
+		<Journal>Philosophical Transactions of the Royal Society of London B</Journal>
+		<Volume>353</Volume>
+		<Pages>501-541</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="23">
+		<List>Petrolacosaurus</List>
+		<List>Youngina</List>
+		<List>Gephyrosaurus</List>
+		<List>Squamata</List>
+		<List>Prolacerta</List>
+		<List>Macrocnemus</List>
+		<List>Tanystropheus</List>
+		<List>Trilophosaurus</List>
+		<List>Howesia</List>
+		<List>Mesosuchus</List>
+		<List>Rhynchosaurus</List>
+		<List>Scaphonyx</List>
+		<List>Stenaulorhynchus</List>
+		<List>Hyperodapedon</List>
+		<List>Proterosuchus</List>
+		<List>Euparkeria</List>
+		<List>Champsosaurus</List>
+		<List>Cteniogenys</List>
+		<List>Lazurussuchus</List>
+		<List>Protorosaurus</List>
+		<List>Megalancosaurus</List>
+		<List>Langobardisaurus</List>
+		<List>Drepanosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="144">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Dilkes_1998a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

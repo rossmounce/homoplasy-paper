@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Gomani, E. M.</List>
+		</Author>
+		<Year>1997</Year>
+		<Title>A crocodyliform from the Early Cretaceous dinosaur beds, northern Malawi</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>17</Volume>
+		<Pages>280-294</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List>Metriorhynchidae</List>
+		<List>Fruita_Form</List>
+		<List>Notosuchus</List>
+		<List>Malawisuchus</List>
+		<List>Chimaerasuchus</List>
+		<List>Candidodon</List>
+		<List>Baurusuchus</List>
+		<List>Araripesuchus</List>
+		<List>Uruguaysuchus</List>
+		<List>Libycosuchus</List>
+		<List>Sebecus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="56">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Gomani_1997a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

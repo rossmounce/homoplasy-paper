@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sereno, P. C.</List>
+		</Author>
+		<Year>1999</Year>
+		<Title>The evolution of dinosaurs</Title>
+		<Journal>Science</Journal>
+		<Volume>284</Volume>
+		<Pages>2137-2147</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="19">
+		<List>Lesothosaurus</List>
+		<List>NEORNITHISCHIA</List>
+		<List>Scutellosaurus</List>
+		<List>Emausaurus</List>
+		<List>Scelidosaurus</List>
+		<List>Huayangosaurus</List>
+		<List>Dacentrurus</List>
+		<List>Toujiangosaurus</List>
+		<List>Lexovisaurus</List>
+		<List>Other_stegosaurines</List>
+		<List>Hylaeosaurus</List>
+		<List>Pawpawsaurus</List>
+		<List>Other_nodosaurines</List>
+		<List>Gargoyleosaurus</List>
+		<List>Shamosaurus</List>
+		<List>Minmi</List>
+		<List>Gastonia</List>
+		<List>Pinacosaurus</List>
+		<List>Other_ankylosaurines</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="118">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sereno_1999ab</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Evans, D. C.</List>
+			<List>Schott, R. K.</List>
+			<List>Larson, D. W.</List>
+			<List>Brown, C. M.</List>
+			<List>Ryan, M. J.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>The oldest North American pachycephalosaurid and the hidden diversity of small-bodied ornithischian dinosaurs</Title>
+		<Journal>Nature Communications</Journal>
+		<Volume>4</Volume>
+		<Pages>1828</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="18">
+		<List>Psittacosaurus_mongoliensis</List>
+		<List>Yinlong_downsi</List>
+		<List>Wannanosaurus</List>
+		<List>Goyocephale_lattimorei</List>
+		<List>Homalocephale</List>
+		<List>Tylocephale_gilmorei</List>
+		<List>Prenocephale_prenes</List>
+		<List>Prenocephale_brevis</List>
+		<List>Hanssuesia_sternbergi</List>
+		<List>Colepiocephale_lambei</List>
+		<List>Stegoceras_validum</List>
+		<List>Pachycephalosaurus</List>
+		<List>Alaskacephale</List>
+		<List>Sphaerotholus_goodwini</List>
+		<List>Sphaerotholus_buchholtzae</List>
+		<List>Acrotholus_audeti</List>
+		<List>Stegoceras_novomexicanum</List>
+		<List>Amtocephale_gobiensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="50">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Evans_etal_2013a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

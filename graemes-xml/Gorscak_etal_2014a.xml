@@ -1,0 +1,72 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Gorscak, E.</List>
+			<List>O'Connor, P. M.</List>
+			<List>Stevens, N. J.</List>
+			<List>Roberts, E. M.</List>
+		</Author>
+		<Year>2014</Year>
+		<Title>The basal titanosaurian <em>Rukwatitan bisepultus</em> (Dinosauria, Sauropoda) from the middle Cretaceous Galula Formation, Rukwa Rift Basin, southwestern Tanzania</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>34</Volume>
+		<Pages>1133-1154</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="35">
+		<List>THEROPODA</List>
+		<List>PROSAUROPODA</List>
+		<List>Vulcanodon</List>
+		<List>Barapasaurus</List>
+		<List>Omeisaurus</List>
+		<List>Shunosaurus</List>
+		<List>Patagosaurus</List>
+		<List>Mamenchisaurus</List>
+		<List>Apatosaurus</List>
+		<List>Barosaurus</List>
+		<List>Brachiosaurus</List>
+		<List>Camarasaurus</List>
+		<List>Dicraeosaurus</List>
+		<List>Diplodocus</List>
+		<List>Haplocanthosaurus</List>
+		<List>Amargasaurus</List>
+		<List>Euhelopus</List>
+		<List>Jobaria</List>
+		<List>Malawisaurus</List>
+		<List>Nigersaurus</List>
+		<List>Limaysaurus</List>
+		<List>Rebbachisaurus</List>
+		<List>Alamosaurus</List>
+		<List>Nemegtosaurus</List>
+		<List>Neuquensaurus</List>
+		<List>Opisthocoelicaudia</List>
+		<List>Rapetosaurus</List>
+		<List>Saltasaurus</List>
+		<List>Isisaur</List>
+		<List>Tapuiasaurus</List>
+		<List>Phuwiangosaurus</List>
+		<List>Tangvayosaurus</List>
+		<List>Diamantinasaurus</List>
+		<List>Rukwatitan</List>
+		<List>Andesaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="246">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Gorscak_etal_2014a</Filename>
+	<Parent>Zaher_etal_2011a</Parent>
+	<Sibling/>
+</SourceTree>

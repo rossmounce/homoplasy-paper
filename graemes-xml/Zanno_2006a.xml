@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Zanno, L. E.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>The pectoral girdle and forelimb of the primitive therizinosauroid Falcarius utahensis (Theropoda, Maniraptora): analyzing evolutionary trends within Therizinosauroidea</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>26</Volume>
+		<Pages>636-650</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="13">
+		<List>Ornitholestes</List>
+		<List>Deinonychus</List>
+		<List>Oviraptor</List>
+		<List>Falcarius</List>
+		<List>Beipiaosaurus</List>
+		<List>Alxasaurus</List>
+		<List>Erlianosaurus</List>
+		<List>Neimongosaurus</List>
+		<List>Nothronychus</List>
+		<List>Erlicosaurus</List>
+		<List>Therizinosaurus</List>
+		<List>Segnosaurus</List>
+		<List>Alectrosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="32">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Zanno_2006a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

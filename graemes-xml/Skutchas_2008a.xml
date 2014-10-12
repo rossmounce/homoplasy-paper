@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Skutschas, P. P.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>A choristoderan reptile from the Lower Cretaceous of Transbaikalia, Russia</Title>
+		<Journal>Neues Jahrbuch fur Geologie und Palaontologie Abhandlungen</Journal>
+		<Volume>247</Volume>
+		<Pages>63-78</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List>Youngina</List>
+		<List>Lazarussuchus</List>
+		<List>Cteniogenys</List>
+		<List>Shokawa</List>
+		<List>Champsosaurus</List>
+		<List>Tchoiria</List>
+		<List>Ikechosaurus</List>
+		<List>Simoedosaurus</List>
+		<List>Hyphalosaurus</List>
+		<List>Monjurosuchus</List>
+		<List>Philydrosaurus</List>
+		<List>Khurendukhosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="77">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Skutchas_2008a</Filename>
+	<Parent>Matsumoto_etal_2007a</Parent>
+	<Sibling/>
+</SourceTree>

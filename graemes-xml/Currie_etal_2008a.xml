@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Currie, P. J.</List>
+			<List>Langston, W.</List>
+			<List>Tanke, D. H.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>A new species of Pachyrhinosaurus (Dinosauria, Ceratopsidae) from the Upper Cretaceous of Alberta, Canada</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>1-108</Pages>
+		<Booktitle>A New Horned Dinosaur From an Upper Cretaceous Bone Bed in Alberta</Booktitle>
+		<Publisher>NRC Research Press</Publisher>
+		<City>Ottawa</City>
+		<Editor>
+			<List>Currie, P. J.</List>
+			<List>Langston, W.</List>
+			<List>Tanke, D. H.</List>
+		</Editor>
+	</Source>
+	<Taxa number="11">
+		<List>Protoceratops_andrewsi</List>
+		<List>Zuniceratops_christopheri</List>
+		<List>Albertaceratops_nesmoi</List>
+		<List>Centrosaurus_apertus</List>
+		<List>Styracosaurus_albertensis</List>
+		<List>Einiosaurus_procurvicornis</List>
+		<List>Achelousaurus_horneri</List>
+		<List>Pachyrhinosaurus_canadensis</List>
+		<List>Pachyrhinosaurus_lakustai</List>
+		<List>Chasmosaurus_belli</List>
+		<List>Triceratops_horridus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="46">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Currie_etal_2008a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

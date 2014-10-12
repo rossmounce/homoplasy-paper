@@ -1,0 +1,60 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Friedman, M.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>The interrelationships of Devonian lungfishes (Sarcopterygii: Dipnoi) as inferred from neurocranial evidence and new data from the genus <em>Soederberghia</em> Lehman, 1959</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>151</Volume>
+		<Pages>115-171</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="26">
+		<List>Psarolepis_romeri</List>
+		<List>Chirodipterus_australis</List>
+		<List>Chirodipterus_liangchengi</List>
+		<List>Chirodipterus_wildungensis</List>
+		<List>Diabolepis_speratus</List>
+		<List>Diplocercides_kayseri</List>
+		<List>Dipnorhynchus_kurika</List>
+		<List>Dipnorhynchus_sussmilchi</List>
+		<List>Dipterus_valenciennesi</List>
+		<List>Eusthenopteron_foordi</List>
+		<List>Glyptolepis_spp</List>
+		<List>Gogodipterus_paddyensis</List>
+		<List>Gogonasus_andrewsae</List>
+		<List>Griphognathus_minutidens</List>
+		<List>Griphognathus_whitei</List>
+		<List>Holodipterus_gogoensis</List>
+		<List>Melanognathus_canadensis</List>
+		<List>Orlovichthys_limnatis</List>
+		<List>Pillararhynchus_longi</List>
+		<List>Porolepis_spp</List>
+		<List>Powichthys_thorsteinssoni</List>
+		<List>Soederberghia_groenlandica</List>
+		<List>Sorbitorhynchus_deleaskitus</List>
+		<List>Stomiahykus_thlaodus</List>
+		<List>Uranolophus_wyomingensis</List>
+		<List>Youngolepis_praecursor</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="70">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Friedman_2007a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

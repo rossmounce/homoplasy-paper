@@ -1,0 +1,99 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>O'Connor, J. K.</List>
+			<List>Zhang, Y.-G.</List>
+			<List>Chiappe, L. M.</List>
+			<List>Meng, Q.-J.</List>
+			<List>Li, Q.-G.</List>
+			<List>Liu, D.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>A new enantiornithine from the Yixian Formation with the first recognized avian enamel specialization</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>33</Volume>
+		<Pages>1-12</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="60">
+		<List>Dromaeo</List>
+		<List>Archaeo</List>
+		<List>Jeholor</List>
+		<List>Raho</List>
+		<List>Shenzhou</List>
+		<List>Jixiang</List>
+		<List>Sapeor</List>
+		<List>Didactyl</List>
+		<List>Confuc</List>
+		<List>Changchen</List>
+		<List>Eoconfu</List>
+		<List>Jinzhouzjy</List>
+		<List>CduiCast</List>
+		<List>Chaoyang</List>
+		<List>Zhongjian</List>
+		<List>Boluo</List>
+		<List>shenqi</List>
+		<List>Cathyaor</List>
+		<List>Concor</List>
+		<List>Elsornis</List>
+		<List>Eoalula</List>
+		<List>Eocathay</List>
+		<List>Eoenantior</List>
+		<List>Gobipt</List>
+		<List>Ibero</List>
+		<List>Longipt</List>
+		<List>Longir</List>
+		<List>Neuquen</List>
+		<List>Otogor</List>
+		<List>Pengor</List>
+		<List>Protopt</List>
+		<List>Rapaxavis</List>
+		<List>Shanweiniao</List>
+		<List>Vescornis</List>
+		<List>BNHMPh</List>
+		<List>Vorona</List>
+		<List>Schizooura</List>
+		<List>Jianchango</List>
+		<List>Archaeorhyn</List>
+		<List>Liaonin</List>
+		<List>Songlin</List>
+		<List>Ambiortus</List>
+		<List>Longicru</List>
+		<List>Apsaravis</List>
+		<List>Hongshan</List>
+		<List>Yanornis</List>
+		<List>Patagopt</List>
+		<List>Hollanda</List>
+		<List>Yixianor</List>
+		<List>Gansus</List>
+		<List>Ichthyornis</List>
+		<List>Hesperor</List>
+		<List>Parahesper</List>
+		<List>Enalior</List>
+		<List>Baptornis</List>
+		<List>BaptornisVar</List>
+		<List>Limenavis</List>
+		<List>Vegavis</List>
+		<List>Anas</List>
+		<List>Gallus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="246">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>OConnor_etal_2013a</Filename>
+	<Parent>OConnor_etal_2011a</Parent>
+	<Sibling/>
+</SourceTree>

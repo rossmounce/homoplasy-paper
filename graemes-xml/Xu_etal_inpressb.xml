@@ -1,0 +1,66 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Xu, L.</List>
+			<List>Li, X.-W.</List>
+			<List>Jia, S.-H.</List>
+			<List>Liu, J.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>The Jiyuan tetrapod Fauna of the Upper Permian of China - 1. New pareiasaur material and the reestablishment of <em>Honania complicidentata</em></Title>
+		<Journal>Acta Palaeontologica Polonica</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="29">
+		<List>Millerettidae</List>
+		<List>Owenetta</List>
+		<List>B_bashkyricus</List>
+		<List>B_mesensis</List>
+		<List>Rhipaeosaurus</List>
+		<List>Nycteroleter</List>
+		<List>Emeroleter</List>
+		<List>Macroleter</List>
+		<List>B_baini</List>
+		<List>B_seeleyi</List>
+		<List>Nochelesaurus</List>
+		<List>Embrithosaurus</List>
+		<List>Deltavjatia</List>
+		<List>Shansisaurus</List>
+		<List>Honania</List>
+		<List>Shihtienfenia</List>
+		<List>P_peringueyi</List>
+		<List>P_nasicornis</List>
+		<List>Pareiasaurus</List>
+		<List>Scutosaurus</List>
+		<List>Parasaurus</List>
+		<List>Elginia</List>
+		<List>Provelosaurus</List>
+		<List>Anthodon</List>
+		<List>Pumiliopareia</List>
+		<List>Nanoparia</List>
+		<List>Arganaceras</List>
+		<List>Obirkovia</List>
+		<List>Bunostegos</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="127">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Xu_etal_inpressb</Filename>
+	<Parent>Tsuji_etal_2013a</Parent>
+	<Sibling/>
+</SourceTree>

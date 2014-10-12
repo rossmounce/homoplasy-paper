@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Monks, N.</List>
+			<List>Owen, E.</List>
+		</Author>
+		<Year>2000</Year>
+		<Title>Phylogeny of <em>Orbirhynchia</em> Pettitt, 1954 (Brachiopoda: Rhynchonellida)</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>43</Volume>
+		<Pages>871-880</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="17">
+		<List>Lacunosella</List>
+		<List>O_parkinsoni</List>
+		<List>O_mantelliana</List>
+		<List>O_obscura</List>
+		<List>O_wilmingtonensis</List>
+		<List>O_boussensis</List>
+		<List>O_multicostata</List>
+		<List>O_wisti</List>
+		<List>O_cuvieri</List>
+		<List>O_compta</List>
+		<List>O_orbignyi</List>
+		<List>O_praedispansa</List>
+		<List>O_dispansa</List>
+		<List>O_reedensis</List>
+		<List>O_pisiformis</List>
+		<List>O_bella</List>
+		<List>O_granum</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="22">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Monks_et_Owen_2000a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

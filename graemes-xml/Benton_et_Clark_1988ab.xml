@@ -1,0 +1,76 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Benton, M. J.</List>
+			<List>Clark, J. M.</List>
+		</Author>
+		<Year>1988</Year>
+		<Title>Archosaur phylogeny and the relationships of the Crocodylia</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>295-338</Pages>
+		<Booktitle>Phylogeny and Classification of the Tetrapods, Volume 1: Amphibians, Reptiles, Birds</Booktitle>
+		<Publisher>Clarendon Press</Publisher>
+		<City>Oxford</City>
+		<Editor>
+			<List>Benton, M. J.</List>
+		</Editor>
+	</Source>
+	<Taxa number="39">
+		<List>Ancestor_1</List>
+		<List>Aetosauridae</List>
+		<List>Gracilisuchus</List>
+		<List>Ticinosuchus</List>
+		<List>Heptasuchus</List>
+		<List>Postosuchus</List>
+		<List>Pseudhesperosuchus</List>
+		<List>Saltoposuchus</List>
+		<List>Sphenosuchus</List>
+		<List>Dibothrosuchus</List>
+		<List>Kayentasuchus</List>
+		<List>Protosuchus</List>
+		<List>Hemiprotosuchus</List>
+		<List>Edentosuchus_wellesi</List>
+		<List>Eopneumatosuchus</List>
+		<List>Orthosuchus</List>
+		<List>Gobiosuchus</List>
+		<List>Pelagosaurus</List>
+		<List>Teleosaurus</List>
+		<List>Metriorhynchidae</List>
+		<List>Fruita_form</List>
+		<List>Notosuchus</List>
+		<List>Baurusuchus</List>
+		<List>Sebecus</List>
+		<List>Libycosuchus</List>
+		<List>Araripesuchus</List>
+		<List>Theriosuchus</List>
+		<List>Alligatorium</List>
+		<List>Eutretauranosuchus</List>
+		<List>Goniopholis</List>
+		<List>Pholidosauridae</List>
+		<List>Sokotosuchus</List>
+		<List>Dyrosaurus</List>
+		<List>Bernissartia</List>
+		<List>Shamosuchus</List>
+		<List>Leidyosuchus</List>
+		<List>Gavialidae</List>
+		<List>Crocodylidae</List>
+		<List>Alligatoridae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="150">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Benton_et_Clark_1988ab</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

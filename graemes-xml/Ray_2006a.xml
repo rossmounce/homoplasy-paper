@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ray, S.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>Functional and evolutionary aspects of the postcranial anatomy of dicynodonts (Synapsida, Therapsida)</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>49</Volume>
+		<Pages>1263-1286</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List>Eodicynodon</List>
+		<List>Robertia</List>
+		<List>Diictodon</List>
+		<List>Pristerodon</List>
+		<List>Cistecephalus</List>
+		<List>Kingoria</List>
+		<List>Dicynodon</List>
+		<List>Lystrosaurus</List>
+		<List>Kannemeyeria</List>
+		<List>Wadiasaurus</List>
+		<List>Stahleckeria</List>
+		<List>Placerias</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="27">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ray_2006a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

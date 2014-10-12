@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Burns, M. E.</List>
+			<List>Currie, P. J.</List>
+		</Author>
+		<Year>2014</Year>
+		<Title>External and internal structure of ankylosaur (Dinosauria, Ornithischia) osteoderms and their systematic relevance</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>34</Volume>
+		<Pages>835-851</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="23">
+		<List>Scelidosaurus</List>
+		<List>Huayangosaurus</List>
+		<List>Gargoyleosaurus</List>
+		<List>Gastonia</List>
+		<List>Gobisaurus</List>
+		<List>Shamosaurus</List>
+		<List>Tsagantegia</List>
+		<List>Talarurus</List>
+		<List>Minmi</List>
+		<List>P_grangeri</List>
+		<List>P_mephistocephalus</List>
+		<List>Tarchia</List>
+		<List>Saichania</List>
+		<List>Tianzhenosaurus</List>
+		<List>Nodocephalosaurus</List>
+		<List>Ankylosaurus</List>
+		<List>Euoplocephalus</List>
+		<List>Pawpawsaurus</List>
+		<List>Silvisaurus</List>
+		<List>Sauropelta</List>
+		<List>Panoplosaurus</List>
+		<List>E_longiceps</List>
+		<List>E_rugosidens</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="63">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Burns_et_Currie_2014aa</Filename>
+	<Parent>Hill_etal_2003a</Parent>
+	<Sibling/>
+</SourceTree>

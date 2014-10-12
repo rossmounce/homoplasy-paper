@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sander, P. M.</List>
+		</Author>
+		<Year>2000</Year>
+		<Title>Ichthyosauria: their diversity, distribution, and phylogeny</Title>
+		<Journal>Palaontologische Zeitschrift</Journal>
+		<Volume>74</Volume>
+		<Pages>1-35</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="19">
+		<List>Ancestor</List>
+		<List>Petrolacosaurus</List>
+		<List>Araeoscelis</List>
+		<List>Grippia</List>
+		<List>Utatsusaurus</List>
+		<List>Besanosaurus</List>
+		<List>Cymbospondylus</List>
+		<List>Mixosaurus</List>
+		<List>Phalarodon</List>
+		<List>Shonisaurus</List>
+		<List>Eurhinosaurus</List>
+		<List>Ichthyosaurus</List>
+		<List>Temno_latyodon</List>
+		<List>Temno_burgundiae</List>
+		<List>Lepto_tenuirostris</List>
+		<List>Stenopterygius</List>
+		<List>Opthalmosaurus</List>
+		<List>Platypterygius</List>
+		<List>Suevoleviathan</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="113">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sander_2000a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

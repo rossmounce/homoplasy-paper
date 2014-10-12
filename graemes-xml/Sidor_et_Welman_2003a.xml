@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sidor, C. A.</List>
+			<List>Welman, J.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>A second specimen of <em>Lemurosaurus pricei</em> (Therapsida: Burnetiamorpha)</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>23</Volume>
+		<Pages>631-642</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List>Haptodus</List>
+		<List>Dimetrodon</List>
+		<List>Anteosauridae</List>
+		<List>Biarmosuchus</List>
+		<List>Hipposaurus</List>
+		<List>Lycaenodon</List>
+		<List>Rubidgina</List>
+		<List>Ictidorhinus</List>
+		<List>NMQR_1702</List>
+		<List>Proburnetia</List>
+		<List>Bullacephalus</List>
+		<List>Burnetia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="38">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sidor_et_Welman_2003a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Grande, T.</List>
+			<List>Poyato-Ariza, F. J.</List>
+		</Author>
+		<Year>1999</Year>
+		<Title>Phylogenetic relationships of fossil and Recent gonorynchiform fishes (Teleostei: Ostariophysi)</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>125</Volume>
+		<Pages>197-238</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="22">
+		<List>Diplomystus</List>
+		<List>Brycon</List>
+		<List>Opsariichthys</List>
+		<List>Aethalionopsis</List>
+		<List>Chanos</List>
+		<List>Charitopsis</List>
+		<List>Charitosomus</List>
+		<List>Cromeria</List>
+		<List>Dastilbe</List>
+		<List>Halecopsis</List>
+		<List>Gonorynchus</List>
+		<List>Gordichthys</List>
+		<List>Grasseichthys</List>
+		<List>Judeichthys</List>
+		<List>Kneria</List>
+		<List>Notogoneus</List>
+		<List>Parachanos</List>
+		<List>Parakneria</List>
+		<List>Phractolaemus</List>
+		<List>Ramallichthys</List>
+		<List>Rubiesichthys</List>
+		<List>Tharrhias</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="94">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Grande_et_Poyato-Ariza_1999a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

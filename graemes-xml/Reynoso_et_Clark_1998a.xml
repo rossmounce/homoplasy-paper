@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Reynoso, V. H.</List>
+			<List>Clark, J. M.</List>
+		</Author>
+		<Year>1998</Year>
+		<Title>A dwarf sphenodontian from the Jurassic La Boca Formation of Tamaulipas, Mexico</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>18</Volume>
+		<Pages>333-339</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="22">
+		<List>Youngina</List>
+		<List>Squamata</List>
+		<List>Gephyrosaurus</List>
+		<List>Diphydontosaurus</List>
+		<List>Planocephalosaurus</List>
+		<List>Palaeopleurosaurus</List>
+		<List>Polysphenodon</List>
+		<List>Brachyrhinodon</List>
+		<List>Clevosaurus_hudsoni</List>
+		<List>Clevosaurus_bairdi</List>
+		<List>Clevosaurus_petilus</List>
+		<List>Clevosaurus_mcgilli</List>
+		<List>Homoeosaurus</List>
+		<List>Kallimodon</List>
+		<List>Sapheosaurus</List>
+		<List>Pamizinsaurus</List>
+		<List>Eilenodon</List>
+		<List>Toxolophosaurus</List>
+		<List>Cynosphenodon</List>
+		<List>Sphenodon</List>
+		<List>Opisthias</List>
+		<List>Zapatadon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="52">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Reynoso_et_Clark_1998a</Filename>
+	<Parent>Reynoso_1997a</Parent>
+	<Sibling/>
+</SourceTree>

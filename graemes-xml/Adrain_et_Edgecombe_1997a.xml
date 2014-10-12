@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Adrain, J. M.</List>
+			<List>Edgecombe, G. D.</List>
+		</Author>
+		<Year>1997</Year>
+		<Title>Silurian encrinurine trilobites from the central Canadian Arctic</Title>
+		<Journal>Palaeontographica Canadiana</Journal>
+		<Volume>14</Volume>
+		<Pages>1-109</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="32">
+		<List>Billeviitia_adraini</List>
+		<List>Frammia_arctica</List>
+		<List>Frammia_bachae</List>
+		<List>Mackenziurus_ceejayi</List>
+		<List>Mackenziurus_deedeei</List>
+		<List>Struszia_dimitrovi</List>
+		<List>Struszia_epsteini</List>
+		<List>Avalanchurus_garfunkeli</List>
+		<List>Fragiscutum_glebaie</List>
+		<List>Struszia_harrisoni</List>
+		<List>Frammia_hyperborea</List>
+		<List>Struszia_indianensis</List>
+		<List>Aeogrotactellus_jaggeri</List>
+		<List>Mackenziurus_joeyi</List>
+		<List>Mackenziurus_johnnyi</List>
+		<List>Mackenziurus_lauriae</List>
+		<List>Avalanchurus_lennoni</List>
+		<List>Struszia_martini</List>
+		<List>Struszia_mccartneyi</List>
+		<List>Aeogrotactellus_nankerphelgeoru</List>
+		<List>Struszia_obtusa_A</List>
+		<List>Struszia_obtusa_B</List>
+		<List>Struszia_onoae</List>
+		<List>Struszia_petebesti</List>
+		<List>Struszia_ramskoeldi</List>
+		<List>Mackenziurus_reimeri</List>
+		<List>Fragiscutum_rhytium</List>
+		<List>Struszia_rosensteinae</List>
+		<List>Frammia_rossica</List>
+		<List>Avalanchurus_simoni</List>
+		<List>Avalanchurus_starri</List>
+		<List>Balizoma_variolaris</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="40">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Adrain_et_Edgecombe_1997a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

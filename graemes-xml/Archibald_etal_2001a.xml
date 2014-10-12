@@ -1,0 +1,61 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Archibald, J. D.</List>
+			<List>Averianov, A. O.</List>
+			<List>Ekdale, E. G.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>Late Cretaceous relatives of rabbits, rodents, and other extant eutherian mammals</Title>
+		<Journal>Nature</Journal>
+		<Volume>414</Volume>
+		<Pages>62-65</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="25">
+		<List>Prokennalestes_spp</List>
+		<List>Alostera_saskatchewanensis</List>
+		<List>Asioryctes_nemegtensis</List>
+		<List>Aspanlestes_aptap</List>
+		<List>Avitotherium_utahensis</List>
+		<List>Barunlestes_butleri</List>
+		<List>Batodon_tenuis</List>
+		<List>Cimolestes_spp</List>
+		<List>Daulestes_nessovi</List>
+		<List>Eoungulatum_kudukensis</List>
+		<List>Gallolestes_spp</List>
+		<List>Gypsonictops_spp</List>
+		<List>Kennalestes_gobiensis</List>
+		<List>Kulbeckia_kulbecke</List>
+		<List>Mimotona_spp</List>
+		<List>Murtoilestes_abramovi</List>
+		<List>Otlestes_meiman</List>
+		<List>Oxyprimus_spp</List>
+		<List>Paranyctoides_spp</List>
+		<List>Parazhelestes__minor</List>
+		<List>Parazhelestes_robustus</List>
+		<List>Protungulatum_spp</List>
+		<List>Tribosphenomys_spp</List>
+		<List>Zalambdalestes_lechei</List>
+		<List>Zhelestes_temirkazyk</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="70">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Archibald_etal_2001a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

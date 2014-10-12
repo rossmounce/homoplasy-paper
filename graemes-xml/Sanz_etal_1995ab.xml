@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sanz, J. L.</List>
+			<List>Chiappe, L. M.</List>
+			<List>Buscalioni, A. D.</List>
+		</Author>
+		<Year>1995</Year>
+		<Title>The osteology of Concornis lacustris (Aves: Enantiomithes) from the Lower Cretaceous of Spain and a reexamination of its phylogenetic relationships</Title>
+		<Journal>American Museum Novitates</Journal>
+		<Volume>3133</Volume>
+		<Pages>1-23</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="9">
+		<List>Mononykus_olecranus</List>
+		<List>Patagopteryx_deferrariisi</List>
+		<List>Yungavolucris_brevipedalis</List>
+		<List>Lectavis_bretincola</List>
+		<List>Concomis_lacustris</List>
+		<List>Neuquenomis_volans</List>
+		<List>Soroavisaurus_australis</List>
+		<List>Avisaurus_archibaldi</List>
+		<List>Avisaurus_glonae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="10">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sanz_etal_1995ab</Filename>
+	<Parent>Chiappe_1993a</Parent>
+	<Sibling/>
+</SourceTree>

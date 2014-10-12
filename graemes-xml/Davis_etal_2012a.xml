@@ -1,0 +1,96 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Davis, S. P.</List>
+			<List>Finarelli, J. A.</List>
+			<List>Coates, M. I.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title><em>Acanthodes</em> and shark-like conditions in the last common ancestor of modern gnathostomes</Title>
+		<Journal>Nature</Journal>
+		<Volume>486</Volume>
+		<Pages>247-250</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="60">
+		<List>Galeaspida</List>
+		<List>Acanthodes</List>
+		<List>Akmonistion</List>
+		<List>Austroptyctodus</List>
+		<List>Bothriolepis</List>
+		<List>Brachyacanthus</List>
+		<List>Brindabellaspis</List>
+		<List>Brochoadmones</List>
+		<List>Buchanosteus</List>
+		<List>Campbellodus</List>
+		<List>Cassidiceps</List>
+		<List>Cheiracanthus</List>
+		<List>Cheirolepis</List>
+		<List>Chondrenchelys</List>
+		<List>Cladodoides</List>
+		<List>Cladoselache</List>
+		<List>Climatius</List>
+		<List>Cobelodus</List>
+		<List>Coccosteus</List>
+		<List>Cowralepis</List>
+		<List>Culmacanthus</List>
+		<List>Debeerius</List>
+		<List>Dialipina</List>
+		<List>Dicksonosteus</List>
+		<List>Diplacanthus</List>
+		<List>Doliodus</List>
+		<List>Eusthenopteron</List>
+		<List>Euthacanthus</List>
+		<List>Gladiobranchus</List>
+		<List>Gogonasus</List>
+		<List>Guiyu</List>
+		<List>Hamiltonichthys</List>
+		<List>Homalacanthus</List>
+		<List>Howqualepis</List>
+		<List>Ischnacanthus</List>
+		<List>Kathemacanthus</List>
+		<List>Ligulalepis</List>
+		<List>Macropetalichthys</List>
+		<List>Mesacanthus</List>
+		<List>Mimia</List>
+		<List>Obtusacanthus</List>
+		<List>Onychodus</List>
+		<List>Onychoselache</List>
+		<List>Orthacanthus</List>
+		<List>Osteostraci</List>
+		<List>Parexus</List>
+		<List>Poracanthodes</List>
+		<List>Porolepis</List>
+		<List>Promesacanthus</List>
+		<List>Psarolepis</List>
+		<List>Pterichthyodes</List>
+		<List>Ptomacanthus</List>
+		<List>Pucapampella</List>
+		<List>Rhamphodopsis</List>
+		<List>Tamiobatis</List>
+		<List>Tetanopsyrus</List>
+		<List>Tristychius</List>
+		<List>Lupopsyrus</List>
+		<List>Rhadinacanthus</List>
+		<List>Vernicomacanthus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="138">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Davis_etal_2012a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

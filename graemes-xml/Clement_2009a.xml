@@ -1,0 +1,66 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Clement, A. M.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>A new genus of lungfish from the Givetian (Middle Devonian) of central Australia</Title>
+		<Journal>Acta Palaeontologica Polonica</Journal>
+		<Volume>54</Volume>
+		<Pages>615-626</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="32">
+		<List>Diabolepis</List>
+		<List>Dipnorhynchus</List>
+		<List>Speonesydrion</List>
+		<List>Ichnomylax</List>
+		<List>Uranolophus</List>
+		<List>Tarachomylax</List>
+		<List>Jessenia</List>
+		<List>Stomiahykus</List>
+		<List>H_gogoensis</List>
+		<List>Robinsondipterus</List>
+		<List>Asthenorhynchus</List>
+		<List>Griphognathus</List>
+		<List>Chirodipterus</List>
+		<List>Pillararhynchus</List>
+		<List>Gogodipterus</List>
+		<List>Adololopas</List>
+		<List>Andreyevichthys</List>
+		<List>Sorbitorhynchus</List>
+		<List>Fleurantia</List>
+		<List>Dipterus</List>
+		<List>Howidipterus</List>
+		<List>Barwickia</List>
+		<List>Scaumenacia</List>
+		<List>Sagenodus</List>
+		<List>Ctenodus</List>
+		<List>Neoceratodus</List>
+		<List>Melanognathus</List>
+		<List>Soederberghia</List>
+		<List>Conchopoma</List>
+		<List>Gnathoriza</List>
+		<List>Orlovichthys</List>
+		<List>Harajicadipterus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="81">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Clement_2009a</Filename>
+	<Parent>Ahlberg_etal_2006a</Parent>
+	<Sibling/>
+</SourceTree>

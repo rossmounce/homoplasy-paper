@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Xu, L.</List>
+			<List>Yoshitsugu, K.</List>
+			<List>Lu, J.-C.</List>
+			<List>Lee, Y.-N.</List>
+			<List>Liu, Y.-Q.</List>
+			<List>Kohei, T.</List>
+			<List>Zhang, X.-L.</List>
+			<List>Jia, S.-H.</List>
+			<List>Zhang, J.-M.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>A new ornithomimid dinosaur with North American affinities from the Late Cretaceous Qiupa Formation in Henan Province of China</Title>
+		<Journal>Cretaceous Research</Journal>
+		<Volume>32</Volume>
+		<Pages>213-222</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Allosaurus_fragilis</List>
+		<List>Tyrannosaurids</List>
+		<List>Pelecanimimus_polyodon</List>
+		<List>Harpymimus_okladnikovi</List>
+		<List>Shenzousaurus_orientalis</List>
+		<List>Beishanlong_grandis</List>
+		<List>Garudimimus_brevipes</List>
+		<List>Archaeornithomimus_asiaticus</List>
+		<List>Sinornithomimus_dongi</List>
+		<List>Gallimimus_bullatus</List>
+		<List>Anserimimus_planinychus</List>
+		<List>Qiupalong_henanensis</List>
+		<List>Struthiomimus_altus</List>
+		<List>Ornithomimus_edmontonicus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="48">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Xu_etal_2011a</Filename>
+	<Parent>Kobayashi_et_Lu_2003a</Parent>
+	<Sibling/>
+</SourceTree>

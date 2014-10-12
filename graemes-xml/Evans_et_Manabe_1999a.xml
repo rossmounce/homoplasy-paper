@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Evans, S. E.</List>
+			<List>Manabe, M.</List>
+		</Author>
+		<Year>1999</Year>
+		<Title>A choristodere reptile from the Lower Cretaceous of Japan</Title>
+		<Journal>Special Papers in Palaeontology</Journal>
+		<Volume>60</Volume>
+		<Pages>101-119</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="10">
+		<List>Youngina</List>
+		<List>Lazarussuchus</List>
+		<List>Cteniogenys</List>
+		<List>Shokawa</List>
+		<List>Champsosaurus</List>
+		<List>Tchoiria</List>
+		<List>Ikechosaurus</List>
+		<List>Simoedosaurus</List>
+		<List>Pachystropheus</List>
+		<List>Khurendukhosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="71">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Evans_et_Manabe_1999a</Filename>
+	<Parent>Gao_et_Fox_1998a</Parent>
+	<Sibling/>
+</SourceTree>

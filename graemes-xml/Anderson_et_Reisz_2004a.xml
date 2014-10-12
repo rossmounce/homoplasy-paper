@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Anderson, J. S.</List>
+			<List>Reisz, R. R.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title><em>Pyozia mesenensis</em>, a new, small varanopid (Synapsida, Eupelycosauria) from Russia: &quot;pelycosaur&quot; diversity in the Middle Permian</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>24</Volume>
+		<Pages>173-179</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="13">
+		<List>Reptilia</List>
+		<List>Cotylorhynchus</List>
+		<List>Eothyris</List>
+		<List>Archaeothyris</List>
+		<List>Ophiacodon</List>
+		<List>Mycterosaurus</List>
+		<List>Mesenosaurus</List>
+		<List>Elliotsmithia</List>
+		<List>Aerosaurus</List>
+		<List>Varanops</List>
+		<List>Varanodon</List>
+		<List>Archaeovenator</List>
+		<List>Pyozia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="54">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Anderson_et_Reisz_2004a</Filename>
+	<Parent>Reisz_et_Dilkes_2003a</Parent>
+	<Sibling/>
+</SourceTree>

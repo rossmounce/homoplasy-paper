@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Averianov, A.</List>
+			<List>Sues, H.-D.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>Skeletal remains of Tyrannosauroidea (Dinosauria: Theropoda) from the Bissekty Formation (Upper Cretaceous: Turonian) of Uzbekistan</Title>
+		<Journal>Cretaceous Research</Journal>
+		<Volume>34</Volume>
+		<Pages>284-297</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="24">
+		<List>Allosaurus</List>
+		<List>Maniraptora</List>
+		<List>Ornithomimos</List>
+		<List>Compsogs</List>
+		<List>Kileskus</List>
+		<List>Guanlong</List>
+		<List>Proceratosaurus</List>
+		<List>Dilong</List>
+		<List>Eotyrannus</List>
+		<List>Stokesosaurus</List>
+		<List>Xiongguanlong</List>
+		<List>Raptorex</List>
+		<List>Dryptosaurus</List>
+		<List>Appalachiosaurus</List>
+		<List>Albertosaurus</List>
+		<List>Gorgosaurus</List>
+		<List>Alioramus</List>
+		<List>Daspletosaurus</List>
+		<List>Tarbosaurus</List>
+		<List>Tyrannosaurus</List>
+		<List>Bistahieversor</List>
+		<List>Utah</List>
+		<List>Sinotyrannus</List>
+		<List>Bissekty_tyrannosaurid</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="307">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Averianov_et_Sues_2012a</Filename>
+	<Parent>Brusatte_etal_2010a</Parent>
+	<Sibling/>
+</SourceTree>

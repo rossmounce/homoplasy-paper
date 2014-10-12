@@ -1,0 +1,97 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Zanno, L. E.</List>
+			<List>Makovicky, P. J.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>Neovenatorid theropods are apex predators in the Late Cretaceous of North America</Title>
+		<Journal>Nature Communications</Journal>
+		<Volume>4</Volume>
+		<Pages>2827</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="62">
+		<List>Eoraptor</List>
+		<List>Herrerasaurus</List>
+		<List>Acrocanthosaurus</List>
+		<List>Aerosteon</List>
+		<List>Afrovenator</List>
+		<List>Allosaurus</List>
+		<List>Angaturama</List>
+		<List>Australovenator</List>
+		<List>Baryonyx</List>
+		<List>Carcharodontosaurus</List>
+		<List>Ceratosaurus</List>
+		<List>Chilantaisaurus</List>
+		<List>Chuandongocoelurus</List>
+		<List>Coelophysis_bauri</List>
+		<List>Coelophysis_rhodesiensis</List>
+		<List>Compsognathus</List>
+		<List>Concavenator</List>
+		<List>Condorraptor</List>
+		<List>Cryolophosaurus</List>
+		<List>CV00214</List>
+		<List>D_sinensis</List>
+		<List>Dilophosaurus</List>
+		<List>Dubreuillosaurus</List>
+		<List>Duriavenator</List>
+		<List>Elaphrosaurus</List>
+		<List>Eocarcharia</List>
+		<List>Eustreptospondylus</List>
+		<List>Fukuiraptor</List>
+		<List>Giganotosaurus</List>
+		<List>Irritator</List>
+		<List>Leshansaurus</List>
+		<List>Lourinhanosaurus</List>
+		<List>Magnosaurus</List>
+		<List>Majungasaurus</List>
+		<List>Mapusaurus</List>
+		<List>Marshosaurus</List>
+		<List>Masiakasaurus</List>
+		<List>Megalosaurus</List>
+		<List>Megaraptor</List>
+		<List>Metriacanthosaurus</List>
+		<List>Monolophosaurus</List>
+		<List>Neovenator</List>
+		<List>Ornitholestes</List>
+		<List>Piatnitzkysaurus</List>
+		<List>Piveteausaurus</List>
+		<List>Poekilopleuron</List>
+		<List>Proceratosaurus</List>
+		<List>Saurophaganax</List>
+		<List>Shaochilong</List>
+		<List>Shidaisaurus</List>
+		<List>Siamotyrannus</List>
+		<List>Sinraptor_dongi</List>
+		<List>Spinosaurus</List>
+		<List>Streptospondylus</List>
+		<List>Suchomimus</List>
+		<List>S_zigongensis</List>
+		<List>Torvosaurus</List>
+		<List>Tyrannotitan</List>
+		<List>Xuanhanosaurus</List>
+		<List>Yangchuano_hepingensis</List>
+		<List>Yangchuano_shangyouensis_magnus</List>
+		<List>Siats_meekerorum</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="355">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Zanno_et_Makovicky_2013a</Filename>
+	<Parent>Carrano_etal_2012a</Parent>
+	<Sibling/>
+</SourceTree>

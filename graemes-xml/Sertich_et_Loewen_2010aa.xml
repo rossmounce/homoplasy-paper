@@ -1,0 +1,85 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sertich, J. J. W.</List>
+			<List>Loewen, M. A.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>A new basal sauropodomorph dinosaur from the Lower Jurassic Navajo Sandstone of southern Utah</Title>
+		<Journal>PLoS One</Journal>
+		<Volume>5</Volume>
+		<Pages>1-17</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="50">
+		<List>Euparkeria</List>
+		<List>Crurotarsi</List>
+		<List>Marasuchus</List>
+		<List>Ornithischia</List>
+		<List>Silesaurus</List>
+		<List>Eoraptor</List>
+		<List>Saturnalia</List>
+		<List>Pantydraco</List>
+		<List>Thecodontosaurus</List>
+		<List>Efraasia</List>
+		<List>Plateosauravus</List>
+		<List>Ruehleia</List>
+		<List>Jingshanosaurus</List>
+		<List>Yunnanosaurus</List>
+		<List>Anchisaurus</List>
+		<List>Aardonyx</List>
+		<List>Blikanasaurus</List>
+		<List>Camelotia</List>
+		<List>Melanorosaurus</List>
+		<List>Antetonitrus</List>
+		<List>Lessemsaurus</List>
+		<List>Gongxianosaurus</List>
+		<List>Tazoudasaurus</List>
+		<List>Vulcanodon</List>
+		<List>Isanosaurus</List>
+		<List>Barapasaurus</List>
+		<List>Patagosaurus</List>
+		<List>Shunosaurus</List>
+		<List>Cetiosaurus</List>
+		<List>Neosauropoda</List>
+		<List>Mamenchisaurus</List>
+		<List>Omeisaurus</List>
+		<List>Massospondylus</List>
+		<List>Adeopapposaurus</List>
+		<List>Seitaad</List>
+		<List>Coloradisaurus</List>
+		<List>Glacialisaurus</List>
+		<List>Lufengosaurus</List>
+		<List>Eucnemosaurus</List>
+		<List>Riojasaurus</List>
+		<List>Unaysaurus</List>
+		<List>Plateosaurus_gracilis</List>
+		<List>Plateosaurus_engelhardti</List>
+		<List>Plateosaurus_ingens</List>
+		<List>Agnosphitys</List>
+		<List>Guaibasaurus</List>
+		<List>Chindesaurus</List>
+		<List>Neotheropoda</List>
+		<List>Herrerasaurus</List>
+		<List>Staurikosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="361">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sertich_et_Loewen_2010aa</Filename>
+	<Parent>Yates_2007b</Parent>
+	<Sibling/>
+</SourceTree>

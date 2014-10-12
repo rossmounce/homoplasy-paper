@@ -1,0 +1,68 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Headden, J. A.</List>
+			<List>Campos, H. B. N.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>An unusual edentulous pterosaur from the Early Cretaceous Romualdo Formation of Brazil</Title>
+		<Journal>Historical Biology</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="33">
+		<List>Ornithosuchus_longidens</List>
+		<List>Herrerasaurus_ischigualastensis</List>
+		<List>Scleromochlus_taylori</List>
+		<List>Anurognathus_ammoni</List>
+		<List>Rhamphorhynchus_muensteri</List>
+		<List>Pterodactylus_antiquus</List>
+		<List>Nyctosaurus_gracilis</List>
+		<List>Pteranodon_longiceps</List>
+		<List>Istiodactylus_latidens</List>
+		<List>Nurhachius_ignaciobritoi</List>
+		<List>Tropeognathus_mesembrinus</List>
+		<List>Anhanguera_santanae</List>
+		<List>Anhanguera_blittersdorffi</List>
+		<List>Anhanguera_piscator</List>
+		<List>Ludodactylus_sibbicki</List>
+		<List>Guidraco_venator</List>
+		<List>Dsungaripterus_weii</List>
+		<List>Phobetor_parvus</List>
+		<List>Quetzalcoatlus_sp</List>
+		<List>Azhdarcho_lancicollis</List>
+		<List>Zhejiangopterus_linhaiensis</List>
+		<List>Chaoyangopterus_zhangi</List>
+		<List>Shenzhoupterus_chaoyangensis</List>
+		<List>Tupuxuara_leonardii</List>
+		<List>Thalassodromeus_sethi</List>
+		<List>Tupandactylus_imperator</List>
+		<List>Tapejara_wellnhoferi</List>
+		<List>Sinopterus_dongi</List>
+		<List>Eopteranodon_lii</List>
+		<List>Huaxiapterus_corollatus</List>
+		<List>Huaxiapterus_benxiensis</List>
+		<List>Vectidraco_daisymorrisae</List>
+		<List>Banguela_oberlii</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="147">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Headden_et_Campos_inpressa</Filename>
+	<Parent>Wang_etal_2010a</Parent>
+	<Sibling/>
+</SourceTree>

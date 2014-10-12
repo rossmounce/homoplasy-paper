@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>McGarrity, C. T.</List>
+			<List>Campione, N. E.</List>
+			<List>Evans, D. C.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>Cranial anatomy and variation in <em>Prosaurolophus maximus</em> (Dinosauria: Hadrosauridae)</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>167</Volume>
+		<Pages>531-568</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="22">
+		<List>Probactrosaurus_gobiensis</List>
+		<List>Bactrosaurus_johnsoni</List>
+		<List>Parasaurolophus_walkeri</List>
+		<List>Olorotitan_arharensis</List>
+		<List>Maiasaura_peeblesorum</List>
+		<List>Brachylophosaurus_canadensis</List>
+		<List>Acritavus_gaglarsoni</List>
+		<List>Gryposaurus_notabilis</List>
+		<List>Gryposaurus_monumentensis</List>
+		<List>Gryposaurus_latidens</List>
+		<List>Kritosaurus_navajovius</List>
+		<List>Prosaurolophus_maximus</List>
+		<List>Prosaurolophus_blackfeetensis</List>
+		<List>Saurolophus_osborni</List>
+		<List>Saurolophus_angustirostris</List>
+		<List>Edmontosaurus_annectens</List>
+		<List>Edmontosaurus_regalis</List>
+		<List>Hadrosaurus_foulkii</List>
+		<List>Lophorhoton_atopus</List>
+		<List>Wulagasaurus_dongi</List>
+		<List>Kerberosaurus_manakini</List>
+		<List>Kundurosaurus_nagornyi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="176">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>McGarrity_etal_2013a</Filename>
+	<Parent>Godefroit_etal_2012b</Parent>
+	<Sibling/>
+</SourceTree>

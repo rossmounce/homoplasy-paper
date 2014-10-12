@@ -1,0 +1,92 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Royo-Torres, R.</List>
+			<List>Upchurch, P.</List>
+			<List>Mannion, P. D.</List>
+			<List>Mas, R.</List>
+			<List>Cobos, A.</List>
+			<List>Gasco, F.</List>
+			<List>Alcala, L.</List>
+			<List>Sanz, J. L.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>The anatomy, phylogenetic relationships, and stratigraphic position of the Tithonian-Berriasian Spanish sauropod dinosaur <em>Aragosaurus ischiaticus</em></Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="51">
+		<List>Marasuchus</List>
+		<List>Pseudolagosuchus</List>
+		<List>Ornithischia</List>
+		<List>Herrerasaurus</List>
+		<List>Neotheropoda</List>
+		<List>Prosauropoda</List>
+		<List>Alamosaurus</List>
+		<List>Amargasaurus</List>
+		<List>Andesaurus</List>
+		<List>Apatosaurus</List>
+		<List>Argentinosaurus</List>
+		<List>Atlasaurus</List>
+		<List>Austrosaurus</List>
+		<List>Barapasaurus</List>
+		<List>Barosaurus</List>
+		<List>Bellusaurus</List>
+		<List>Camarasaurus</List>
+		<List>Cedarosaurus</List>
+		<List>Cetiosaurus</List>
+		<List>Dicraeosaurus</List>
+		<List>Diplodocus</List>
+		<List>Euhelopus</List>
+		<List>Gondwanatitan</List>
+		<List>Haplocanthosaurus</List>
+		<List>Jobaria</List>
+		<List>Kotasaurus</List>
+		<List>Lapparentosaurus</List>
+		<List>Lirainosaurus</List>
+		<List>Malawisaurus</List>
+		<List>Mamenchisaurus</List>
+		<List>Nemegtosaurus</List>
+		<List>Nigersaurus</List>
+		<List>Omeisaurus</List>
+		<List>Opisthocoelicaudia</List>
+		<List>Patagosaurus</List>
+		<List>Pellegrinisaurus</List>
+		<List>Phuwiangosaurus</List>
+		<List>Pleurocoelus_dash_tex</List>
+		<List>Quaesitosaurus</List>
+		<List>Rayososaurus</List>
+		<List>Saltasaurus</List>
+		<List>Shunosaurus</List>
+		<List>Titanosaurus</List>
+		<List>Vulcanodon</List>
+		<List>Brachiosaurus_altithorax</List>
+		<List>Giraffatitan_brancai</List>
+		<List>Europasaurus_hogeri</List>
+		<List>Lourinhasaurus_alenquerensis</List>
+		<List>Tastavinsaurus_sanzi</List>
+		<List>Tehuelchesaurus_benitezii</List>
+		<List>Aragosaurus_ischiaticus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="309">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Royo-Torres_etal_inpressab</Filename>
+	<Parent>Upchurch_etal_2004b</Parent>
+	<Sibling/>
+</SourceTree>

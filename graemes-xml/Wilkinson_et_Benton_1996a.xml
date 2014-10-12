@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Wilkinson, M.</List>
+			<List>Benton, M. J.</List>
+		</Author>
+		<Year>1996</Year>
+		<Title>Sphenodontid phylogeny and the problems of multiple trees</Title>
+		<Journal>Philosophical Transactions of the Royal Society of London B</Journal>
+		<Volume>351</Volume>
+		<Pages>1-16</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="15">
+		<List>Youngina</List>
+		<List>Gephyrosaurus</List>
+		<List>Diphydonlosaurus</List>
+		<List>Planocephalosaurus</List>
+		<List>Polysphenodon</List>
+		<List>Homoeosaurus</List>
+		<List>Brachyrhinodon</List>
+		<List>Cleuosaurus</List>
+		<List>Kallimodon</List>
+		<List>Sapheosaurus</List>
+		<List>Piocormus</List>
+		<List>Palaeopleurosaurus</List>
+		<List>Sphenodon</List>
+		<List>Eilenodon</List>
+		<List>Toxolophosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="29">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Wilkinson_et_Benton_1996a</Filename>
+	<Parent>Fraser_et_Benton_1989a</Parent>
+	<Sibling/>
+</SourceTree>

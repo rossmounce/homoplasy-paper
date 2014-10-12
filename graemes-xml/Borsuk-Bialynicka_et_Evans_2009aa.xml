@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Borsuk-Bialynicka, M.</List>
+			<List>Evans, S. E.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>A long−necked archosauromorph from the Early Triassic of Poland</Title>
+		<Journal>Palaeontologia Polonica</Journal>
+		<Volume>65</Volume>
+		<Pages>203-234</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="24">
+		<List>Petrolacosaurus</List>
+		<List>Youngina</List>
+		<List>Gephyrosaurus</List>
+		<List>Squamata</List>
+		<List>Prolacerta</List>
+		<List>Macrocnemus</List>
+		<List>Tanystropheus</List>
+		<List>Trilophosaurus</List>
+		<List>Howesia</List>
+		<List>Mesosuchus</List>
+		<List>Rhynchosaurus</List>
+		<List>Scaphonyx</List>
+		<List>Stenaulorhynchus</List>
+		<List>Hyperodapedon</List>
+		<List>Proterosuchus</List>
+		<List>Euparkeria</List>
+		<List>Champsosaurus</List>
+		<List>Cteniogenys</List>
+		<List>Lazurussuchus</List>
+		<List>Protorosaurus</List>
+		<List>Megalancosaurus</List>
+		<List>Langobardisaurus</List>
+		<List>Drepanosaurus</List>
+		<List>Czatkowiella</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="144">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Borsuk-Bialynicka_et_Evans_2009aa</Filename>
+	<Parent>Dilkes_1998a</Parent>
+	<Sibling/>
+</SourceTree>

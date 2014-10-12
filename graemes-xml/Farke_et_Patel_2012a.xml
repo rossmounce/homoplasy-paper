@@ -1,0 +1,71 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Farke, A. A.</List>
+			<List>Patel, P. P.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>An enantiornithine bird from the Campanian Kaiparowits Formation of Utah, USA</Title>
+		<Journal>Cretaceous Research</Journal>
+		<Volume>37</Volume>
+		<Pages>227-230</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="36">
+		<List>Dromaeosauridae</List>
+		<List>Archaeopteryx</List>
+		<List>Zhongornis</List>
+		<List>Jeholornis</List>
+		<List>Sapeornis</List>
+		<List>Confuciusornis</List>
+		<List>Changchengornis</List>
+		<List>Longipteryx</List>
+		<List>Eoenantiornis</List>
+		<List>Concornis</List>
+		<List>Longirostravis</List>
+		<List>Eoalulavis</List>
+		<List>Gobipteryx</List>
+		<List>Neuquenornis</List>
+		<List>Vescornis</List>
+		<List>Iberomesornis</List>
+		<List>DNHM_D1878</List>
+		<List>Qiliania</List>
+		<List>Soravisaurus</List>
+		<List>CAGS_07_001</List>
+		<List>CAGS_06_012</List>
+		<List>CAGS_05_004</List>
+		<List>Rapaxavis</List>
+		<List>RAM14306</List>
+		<List>Archaeorhynchus</List>
+		<List>Patagopteryx</List>
+		<List>Apsaravis</List>
+		<List>Hongshanornis</List>
+		<List>Yanornis</List>
+		<List>Yixianornis</List>
+		<List>Gansus</List>
+		<List>Longicrusavis</List>
+		<List>Icthyornis</List>
+		<List>Hesperornis</List>
+		<List>Anas</List>
+		<List>Gallus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="242">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Farke_et_Patel_2012a</Filename>
+	<Parent>Ji_etal_2011a</Parent>
+	<Sibling/>
+</SourceTree>

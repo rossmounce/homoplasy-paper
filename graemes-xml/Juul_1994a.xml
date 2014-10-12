@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Juul, L.</List>
+		</Author>
+		<Year>1994</Year>
+		<Title>The phylogeny of basal archosaurs</Title>
+		<Journal>Palaeontologia Africana</Journal>
+		<Volume>31</Volume>
+		<Pages>1-38</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="20">
+		<List>Prolacerta</List>
+		<List>Youngina</List>
+		<List>Rhynchosauria</List>
+		<List>Proterosuchus</List>
+		<List>Erythrosuchidae</List>
+		<List>Euparkeria</List>
+		<List>Proterochampsidae</List>
+		<List>Parasuchia</List>
+		<List>Ornithosuchidae</List>
+		<List>Crocodylomorpha</List>
+		<List>Gracilisuchus</List>
+		<List>Postosuchus</List>
+		<List>Stagonolepidae</List>
+		<List>Prestosuchidae</List>
+		<List>Pterosauria</List>
+		<List>Lagosuchus</List>
+		<List>Ornithischia</List>
+		<List>Sauropodomorpha</List>
+		<List>Herrerasaurus</List>
+		<List>Ceratosauria_and_Tetanurae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="74">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Juul_1994a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

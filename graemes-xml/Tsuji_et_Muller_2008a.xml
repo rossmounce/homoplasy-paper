@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Tsuji, L. A.</List>
+			<List>Muller, J.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>A re-evaluation of <em>Parasaurus geinitzi</em>, the first named pareiasaur (Amniota, Parareptilia)</Title>
+		<Journal>Canadian Journal of Earth Sciences</Journal>
+		<Volume>45</Volume>
+		<Pages>1111-1121</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="22">
+		<List>Millerettidae</List>
+		<List>Procolophonidae</List>
+		<List>Bradysaurus_baini</List>
+		<List>Bradysaurus_seeleyi</List>
+		<List>Nochelesaurus_alexanderi</List>
+		<List>Embrithosaurus_schwarzi</List>
+		<List>Deltavjatia_vjatkensis</List>
+		<List>Shansisaurus_xuecunensis</List>
+		<List>Shihtienfenia_permica</List>
+		<List>Pareiasuchus_peringueyi</List>
+		<List>Pareiasuchus_nasicornis</List>
+		<List>Pareiasaurus_serridens</List>
+		<List>Scutosaurus_karpinskii</List>
+		<List>Parasaurus_geinitzi</List>
+		<List>Elginia_mirabilis</List>
+		<List>Provelosaurus_americanus</List>
+		<List>Anthodon_serrarius</List>
+		<List>Pumiliopareia_pricei</List>
+		<List>Nanoparia_luckhoffi</List>
+		<List>Bunostegos_akokanensis</List>
+		<List>Arganaceras_vacanti</List>
+		<List>Macroleter_poezicus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="128">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Tsuji_et_Muller_2008a</Filename>
+	<Parent>Jalil_et_Janvier_2005a</Parent>
+	<Sibling/>
+</SourceTree>

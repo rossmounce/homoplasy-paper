@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ruta, M.</List>
+			<List>Milner, A. R.</List>
+			<List>Coates, M. I.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>The tetrapod <em>Caerorhachis bairdi</em> Holmes and Carroll from the Lower Carboniferous of Scotland</Title>
+		<Journal>Transactions of the Royal Society of Edinburgh: Earth Sciences</Journal>
+		<Volume>92</Volume>
+		<Pages>229-261</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="15">
+		<List>Eusthenopteron</List>
+		<List>Acanthostega</List>
+		<List>Ichthyostega</List>
+		<List>Crassigyrinus</List>
+		<List>Greererpeton</List>
+		<List>Balanerpeton</List>
+		<List>Megalocephalus</List>
+		<List>Loxomma</List>
+		<List>Baphetes</List>
+		<List>Spathicephalus</List>
+		<List>Proterogyrinus</List>
+		<List>Pholiderpeton</List>
+		<List>Whatcheeria</List>
+		<List>Dendrepeton</List>
+		<List>Caerorhachis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="88">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ruta_etal_2001ac</Filename>
+	<Parent>Clack_1997a</Parent>
+	<Sibling/>
+</SourceTree>

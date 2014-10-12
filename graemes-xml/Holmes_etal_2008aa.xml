@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Holmes, R.</List>
+			<List>Cheng, Y.-N.</List>
+			<List>Wu, X.-C.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>New information on the skull of <em>Keichousaurus hui</em> (Reptilia: Sauropterygia) with comments on sauropterygian interrelationships</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>28</Volume>
+		<Pages>76-84</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="15">
+		<List>outgroup</List>
+		<List>Anarosaurus</List>
+		<List>Dactylosaurus</List>
+		<List>Keichousaurus</List>
+		<List>N_pusillus</List>
+		<List>N_peyeri</List>
+		<List>N_edwardsii</List>
+		<List>Psilotrachelosaurus</List>
+		<List>Serpianosaurus</List>
+		<List>Cymatosaurus</List>
+		<List>Lariosaurus</List>
+		<List>Nothosaurus</List>
+		<List>Pistosaurus</List>
+		<List>Simosaurus</List>
+		<List>Placodus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="50">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Holmes_etal_2008aa</Filename>
+	<Parent>Rieppel_et_Lin_1995a</Parent>
+	<Sibling/>
+</SourceTree>

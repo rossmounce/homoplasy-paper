@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Swartz, B. A.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>Devonian actinopterygian phylogeny and evolution based on a redescription of <em>Stegotrachelus finlayi</em></Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>156</Volume>
+		<Pages>750-784</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="22">
+		<List>Ohychodus_jandemarri</List>
+		<List>Miguashaia_bureaui</List>
+		<List>Uranolophus_wyomingensis</List>
+		<List>Osteolepis_macrolepidotus</List>
+		<List>Cheirolepis_canadensis</List>
+		<List>Cheirolepis_schultzei</List>
+		<List>Cheirolepis_trailli</List>
+		<List>Osorioichthys_marginis</List>
+		<List>Tegeolepis_clarki</List>
+		<List>Howqualepis_rostridens</List>
+		<List>Donnrosenia_schaefferi</List>
+		<List>Mimia_toombsi</List>
+		<List>Krasnoyarichthys_jesseni</List>
+		<List>Moythomasia_durgaringa</List>
+		<List>Moythomasia_nitida</List>
+		<List>Stegotrachelus_finlayi</List>
+		<List>Kentuckia_hlavini</List>
+		<List>Cuneognathus_gardineri</List>
+		<List>Limnomis_delaneyi</List>
+		<List>Melanecta_anneae</List>
+		<List>Wendyichthys_dicksoni</List>
+		<List>Woodichthys_bearsdeni</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="59">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Swartz_2009a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

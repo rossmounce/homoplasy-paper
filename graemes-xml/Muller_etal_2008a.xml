@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Muller, J.</List>
+			<List>Li, J.-L.</List>
+			<List>Reisz, R. R.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>A new bolosaurid parareptile, <em>Belebey chengi</em> sp. nov., from the Middle Permian of China and its paleogeographic significance</Title>
+		<Journal>Naturwissenschaften</Journal>
+		<Volume>95</Volume>
+		<Pages>1169-1174</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="10">
+		<List>Mesosauridae</List>
+		<List>Millerettidae</List>
+		<List>Owenettidae</List>
+		<List>Acleistorhinus</List>
+		<List>Bolosaurus_striatus</List>
+		<List>Bolosaurus_grandis</List>
+		<List>Eudibamus_cursoris</List>
+		<List>Belebey_vegrandis</List>
+		<List>Belebey_maximi</List>
+		<List>Belebey_chengi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="21">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Muller_etal_2008a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

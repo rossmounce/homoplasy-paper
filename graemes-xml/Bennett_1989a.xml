@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Bennett, S. C.</List>
+		</Author>
+		<Year>1989</Year>
+		<Title>A pteranodontid pterosaur from the Early Cretaceous of Peru, with comments on the relationships of Cretaceous pterosaurs</Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>63</Volume>
+		<Pages>669-677</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="19">
+		<List>Rhamphorhynchus</List>
+		<List>Pterodactylus_kochi</List>
+		<List>Pteranodon</List>
+		<List>Santanadactylus_araripensis</List>
+		<List>Santanadactylus_brasiliensis_HOLO</List>
+		<List>Santanadactylus_brasiliensis_PARA</List>
+		<List>Santanadactylus_pricei</List>
+		<List>Santanadactylus_spixi</List>
+		<List>Ornithodesmus</List>
+		<List>Ornithocheirus</List>
+		<List>BHI_1276</List>
+		<List>Quetzalcoatlus</List>
+		<List>Azhdarcho</List>
+		<List>Titanopteryx</List>
+		<List>Pteranodon_oregonensis</List>
+		<List>Doratorhynchus</List>
+		<List>Dsungaripterus</List>
+		<List>Nyctosaurus_gracilis</List>
+		<List>Nyctosaurus_lamegoi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="14">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Bennett_1989a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

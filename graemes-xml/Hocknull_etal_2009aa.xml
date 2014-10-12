@@ -1,0 +1,75 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Hocknull, S. A.</List>
+			<List>White, M. A.</List>
+			<List>Tischler, T. R.</List>
+			<List>Cook, A. G.</List>
+			<List>Calleja, N. D.</List>
+			<List>Sloan, T.</List>
+			<List>Elliott, D. A.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>New mid-Cretaceous (latest Albian) dinosaurs from Winton, Queensland, Australia</Title>
+		<Journal>PLoS One</Journal>
+		<Volume>4</Volume>
+		<Pages>1-51</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="35">
+		<List>Vulcanodon</List>
+		<List>Shunosaurus</List>
+		<List>Barapasaurus</List>
+		<List>Patagosaurus</List>
+		<List>Omeisaurus</List>
+		<List>Mamenchisaurus</List>
+		<List>Jobaria</List>
+		<List>Haplocanthosaurus</List>
+		<List>Apatosaurus</List>
+		<List>Barosaurus</List>
+		<List>Diplodocus</List>
+		<List>Dicraeosaurus</List>
+		<List>Amargasaurus</List>
+		<List>Nigersaurus</List>
+		<List>Rayososaurus</List>
+		<List>Rebbachisaurus</List>
+		<List>Camarasaurus</List>
+		<List>Brachiosaurus</List>
+		<List>Euhelopus</List>
+		<List>Huanghetitan</List>
+		<List>Andesaurus</List>
+		<List>Malawisaurus</List>
+		<List>Isisaurus</List>
+		<List>Dimantinasaurus</List>
+		<List>Alamosaurus</List>
+		<List>Opisthocoelicaudia</List>
+		<List>Neuquensaurus</List>
+		<List>Saltasaurus</List>
+		<List>Nemegtosaurus</List>
+		<List>Rapetosaurus</List>
+		<List>Phuwiangosaurus</List>
+		<List>Wintonotitan</List>
+		<List>Venenosaurus</List>
+		<List>Tastavinsaurus</List>
+		<List>Cedarosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="246">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Hocknull_etal_2009aa</Filename>
+	<Parent>Canudo_etal_2008a</Parent>
+	<Sibling/>
+</SourceTree>

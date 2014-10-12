@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Parrish, J. M.</List>
+		</Author>
+		<Year>1992</Year>
+		<Title>Phylogeny of the Erythrosuchidae (Reptilia: Archosauriformes)</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>12</Volume>
+		<Pages>93-102</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="8">
+		<List>Proterosuchus</List>
+		<List>Other_archosauriformes</List>
+		<List>Fugusuchus</List>
+		<List>Garjainia</List>
+		<List>Erythrosuchus</List>
+		<List>Shansisuchus</List>
+		<List>Vjushkovia_triplicostata</List>
+		<List>Vjushkovia_sinensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="16">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Parrish_1992a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

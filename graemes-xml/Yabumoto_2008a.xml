@@ -1,0 +1,61 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Yabumoto, Y.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>A new Mesozoic coelacanth from Brazil (Sarcopterygii, Actinistia)</Title>
+		<Journal>Paleontological Research</Journal>
+		<Volume>12</Volume>
+		<Pages>329-343</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="27">
+		<List>Porolepiforms</List>
+		<List>Diplocercides</List>
+		<List>Rhabdoderma</List>
+		<List>Caridosuctor</List>
+		<List>Hadronector</List>
+		<List>Polyosteorhynchus</List>
+		<List>Allenypterus</List>
+		<List>Lochmocercus</List>
+		<List>Coelacanthus</List>
+		<List>Spermatodus</List>
+		<List>Whiteia</List>
+		<List>Laugia</List>
+		<List>Sassenia</List>
+		<List>Chinlea</List>
+		<List>Diplurus</List>
+		<List>Holophagus</List>
+		<List>Undina</List>
+		<List>Coccoderma</List>
+		<List>Libys</List>
+		<List>Mawsonia</List>
+		<List>Macropoma</List>
+		<List>Latimeria</List>
+		<List>Miguashaia</List>
+		<List>Axelrodichthys</List>
+		<List>Garnbergia</List>
+		<List>Swenzia</List>
+		<List>Parnaibaia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="108">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Yabumoto_2008a</Filename>
+	<Parent>Clement_2005a</Parent>
+	<Sibling/>
+</SourceTree>

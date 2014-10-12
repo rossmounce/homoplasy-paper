@@ -1,0 +1,71 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sekiya, T.</List>
+			<List>Jin, X.-S.</List>
+			<List>Zheng, W.-J.</List>
+			<List>Shibata, M.</List>
+			<List>Azuma, Y.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>A new juvenile specimen of <em>Yunnanosaurus robustus</em> (Dinosauria: Sauropodomorpha) from Early to Middle Jurassic of Chuxiong Autonomous Prefecture, Yunnan Province, China</Title>
+		<Journal>Historical Biology</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="33">
+		<List>Marasuchus</List>
+		<List>Eoraptor</List>
+		<List>Herrerasaurus</List>
+		<List>Guaibasaurus</List>
+		<List>Anchisaurus</List>
+		<List>Antetonitrus</List>
+		<List>Barapasaurus</List>
+		<List>Blikanasaurus</List>
+		<List>Camelotia</List>
+		<List>Coloradisaurus</List>
+		<List>Efraasia</List>
+		<List>Gyposaurussinensis</List>
+		<List>Jingshanosaurus</List>
+		<List>Lessemsaurus</List>
+		<List>Lufengosaurus</List>
+		<List>Massospondylus</List>
+		<List>Melanorosaurus</List>
+		<List>Omeisaurus</List>
+		<List>Plateosauravus</List>
+		<List>Plateosaurus</List>
+		<List>Riojasaurus</List>
+		<List>Saturnalia</List>
+		<List>Shunosaurus</List>
+		<List>Thecodontosaurus</List>
+		<List>Vulcanodon</List>
+		<List>Yunhuangi</List>
+		<List>Yunrobustus</List>
+		<List>ZMNH_dash_M8739</List>
+		<List>Aardonyx</List>
+		<List>Adeopapposaurus</List>
+		<List>Sarahsaurus</List>
+		<List>Seitaad</List>
+		<List>Lamplughsaura</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="505">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sekiya_etal_inpressa</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

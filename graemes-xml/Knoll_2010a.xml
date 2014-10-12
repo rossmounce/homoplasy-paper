@@ -1,0 +1,82 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Knoll, F.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>A primitive sauropodomorph from the upper Elliot Formation of Lesotho</Title>
+		<Journal>Geological Magazine</Journal>
+		<Volume>147</Volume>
+		<Pages>814-829</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="48">
+		<List>Euparkeria</List>
+		<List>Crurotarsi</List>
+		<List>Marasuchus</List>
+		<List>Silesaurus</List>
+		<List>Ornithischia</List>
+		<List>Eoraptor</List>
+		<List>Agnosphitys</List>
+		<List>Guaibasaurus</List>
+		<List>Chindesaurus</List>
+		<List>Neotheropoda</List>
+		<List>Saturnalia</List>
+		<List>Thecodontosaurus_antiquus</List>
+		<List>Thecodontosaurus_caducus</List>
+		<List>Ignavusaurus_rachelis</List>
+		<List>Efraasia</List>
+		<List>Plateosauravus</List>
+		<List>Ruehleia</List>
+		<List>Jingshanosaurus</List>
+		<List>Anchisaurus</List>
+		<List>Yunnanosaurus</List>
+		<List>Melanorosaurus</List>
+		<List>Blikanasaurus</List>
+		<List>Antetonitrus</List>
+		<List>Lessemsaurus</List>
+		<List>Camelotia</List>
+		<List>Gongxianosaurus</List>
+		<List>Isanosaurus</List>
+		<List>Tazoudasaurus</List>
+		<List>Vulcanodon</List>
+		<List>Shunosaurus</List>
+		<List>Barapasaurus</List>
+		<List>Patagosaurus</List>
+		<List>Cetiosaurus</List>
+		<List>Neosauropoda</List>
+		<List>Mamenchisaurus</List>
+		<List>Omeisaurus</List>
+		<List>Massospondylus</List>
+		<List>Coloradisaurus</List>
+		<List>Lufengosaurus</List>
+		<List>Glacialisaurus</List>
+		<List>Eucnemosaurus</List>
+		<List>Riojasaurus</List>
+		<List>Unaysaurus</List>
+		<List>Plateosaurus_gracilis</List>
+		<List>Plateosaurus__=Gresslyosaurus__</List>
+		<List>Plateosaurus_engelhardti</List>
+		<List>Herrerasaurus</List>
+		<List>Staurikosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="361">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Knoll_2010a</Filename>
+	<Parent>Smith_et_Pol_2007a</Parent>
+	<Sibling/>
+</SourceTree>

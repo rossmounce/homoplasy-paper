@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Smith, R. M. H.</List>
+			<List>Rubidge, B. S.</List>
+			<List>Sidor, C. A.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>A new burnetid (Therapsida: Biarmosuchia) from the Upper Permian of South Africa and its biogeographic implications</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>26</Volume>
+		<Pages>331-343</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List>Hipposaurus</List>
+		<List>CGP_slash_1_slash_67</List>
+		<List>Lycaenodon</List>
+		<List>Ictidorhinus</List>
+		<List>Lemurosaurus</List>
+		<List>Lobalopex</List>
+		<List>Proburnetia</List>
+		<List>Paraburnetia</List>
+		<List>Bullacephalus</List>
+		<List>Niuksenitia</List>
+		<List>Burnetia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="18">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Smith_etal_2006a</Filename>
+	<Parent>Sidor_etal_2004a</Parent>
+	<Sibling/>
+</SourceTree>

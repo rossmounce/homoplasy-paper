@@ -1,0 +1,76 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Piras, P.</List>
+			<List>Buscalioni, A. D.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>Diplocynodon muelleri comb. nov., an Oligocene diplocynodontine alligatoroid from Catalonia (Ebro Basin, Lleida Province, Spain)</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>26</Volume>
+		<Pages>608-620</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="41">
+		<List>Borealosuchus_sternbergii</List>
+		<List>Asiatosuchus_germanicus</List>
+		<List>Leidyosuchus_canadensis</List>
+		<List>Diplocynodon_hantoniensis</List>
+		<List>Diplocynodon_ratelii</List>
+		<List>Diplocynodon_darwini</List>
+		<List>Baryphracta_deponiae</List>
+		<List>Stangerochampsa_mccabei</List>
+		<List>Albertochampsa_langstoni</List>
+		<List>Brachychampsa_montana</List>
+		<List>Brachychampsa_sealeyi</List>
+		<List>Alligator_sinensis</List>
+		<List>Alligator_mississippiensis</List>
+		<List>Alligator_mefferdi</List>
+		<List>Alligator_olseni</List>
+		<List>Alligator_mcgrewi</List>
+		<List>Alligator_prenasalis</List>
+		<List>Ceratosuchus_burdoshi</List>
+		<List>Navajosuchus_mooki</List>
+		<List>Hassiacosuchus_haupti</List>
+		<List>Allognathosuchus_polyodon</List>
+		<List>Willwood_alligatorid</List>
+		<List>Wannaganosuchus_brachymanus</List>
+		<List>Procaimanoidea_kayi</List>
+		<List>Procaimanoidea_utahensis</List>
+		<List>Arambourgia_gaudryi</List>
+		<List>Hispanochampsa_mulleri</List>
+		<List>Purussaurus_neivensis</List>
+		<List>Mourasuchus_spp</List>
+		<List>Caiman_yacare</List>
+		<List>Caiman_crocodilus</List>
+		<List>Caiman_latirostris</List>
+		<List>Melanosuchus_niger</List>
+		<List>Paleosuchus_trigonatus</List>
+		<List>Paleosuchus_palpebrosus</List>
+		<List>Eocaiman_cavernensis</List>
+		<List>Orthogenysuchus_olseni</List>
+		<List>Caiman_lutescens</List>
+		<List>Melanosuchus_fisheri</List>
+		<List>Diplocynodon_muelleri</List>
+		<List>Diplocynodon_tormis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="167">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Piras_et_Buscalioni_2006a</Filename>
+	<Parent>Brochu_2004b</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Zhu, M.</List>
+			<List>Yu, X.-B.</List>
+			<List>Wang, W.</List>
+			<List>Zhao, W.-J.</List>
+			<List>Jia, L.-T.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>A primitive fish provides key characters bearing on deep osteichthyan phylogeny</Title>
+		<Journal>Nature</Journal>
+		<Volume>441</Volume>
+		<Pages>77-80</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="19">
+		<List>Acanthodes</List>
+		<List>Cheirolepis</List>
+		<List>Ctenacanthus</List>
+		<List>Diabolepis</List>
+		<List>Dialipina</List>
+		<List>Dicksonosteus</List>
+		<List>Howqualepis</List>
+		<List>Kenichthys</List>
+		<List>Ligulalepis</List>
+		<List>Meemannia</List>
+		<List>Miguashaia</List>
+		<List>Mimia</List>
+		<List>Moythomasia</List>
+		<List>Onychodus</List>
+		<List>Osorioichthys</List>
+		<List>Powichthys</List>
+		<List>Psarolepis</List>
+		<List>Styloichthys</List>
+		<List>Youngolepis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="125">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Zhu_etal_2006a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

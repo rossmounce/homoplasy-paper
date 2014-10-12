@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Matsumoto, R.</List>
+			<List>Buffetaut, E.</List>
+			<List>Escuillie, F.</List>
+			<List>Hervet, S.</List>
+			<List>Evans, S. E.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>New material of the choristodere <em>Lazarussuchus</em> (Diapsida, Choristodera) from the Paleocene of France</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>33</Volume>
+		<Pages>319-339</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="27">
+		<List>Youngina</List>
+		<List>Prolacerta</List>
+		<List>Petrolacosaurus</List>
+		<List>Araeoscelis</List>
+		<List>Mesosuchus</List>
+		<List>Gephyrosaurus</List>
+		<List>Keichousaurus</List>
+		<List>Nothosaurus</List>
+		<List>C_albertensis_TMP86_dot_12_dot_11</List>
+		<List>C_gigas_SMM_77_dot_33_dot_24</List>
+		<List>S_lemoinei_MNHN_BR1935</List>
+		<List>S_dakotensis_SMM76_dot_10_dot_1</List>
+		<List>T_namsarai_PIN3386_slash_1</List>
+		<List>T_namsarai_IGM39_54_01</List>
+		<List>T_klauseni_IGM1_slash_8</List>
+		<List>I_sunalinae_IVPP9611_3</List>
+		<List>L_dvoraki</List>
+		<List>L_inexpectatus</List>
+		<List>L_sp_Menat</List>
+		<List>Shokawa_ikoi</List>
+		<List>H_lingyuanensis_IVPP_11075</List>
+		<List>H_sp_IVPP_14560</List>
+		<List>M_splendens_DR0003C</List>
+		<List>K_orlovi</List>
+		<List>P_proseilus_PKUP_2001</List>
+		<List>P_proseilus_LPMC021</List>
+		<List>Cteniogenys_sp</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="116">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Matsumoto_etal_2013a</Filename>
+	<Parent>Matsumoto_etal_2009a</Parent>
+	<Sibling/>
+</SourceTree>

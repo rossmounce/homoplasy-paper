@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ryan, M. J.</List>
+			<List>Evans, D. C.</List>
+			<List>Shepherd, K. M.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>A new ceratopsid from the Foremost Formation (middle Campanian) of Alberta</Title>
+		<Journal>Canadian Journal of Earth Sciences</Journal>
+		<Volume>49</Volume>
+		<Pages>1251-1262</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="19">
+		<List>Protoceratops_andrewsi</List>
+		<List>Turanoceratops_tardabilis</List>
+		<List>Zuniceratops_christopheri</List>
+		<List>Diabloceratops_eatoni</List>
+		<List>Albertaceratops_nesmoi</List>
+		<List>Avaceratops_lammersi</List>
+		<List>Centrosaurus_apertus</List>
+		<List>Coronosaurus_brinkmani</List>
+		<List>Rubeosaurus_ovatus</List>
+		<List>Styracosaurus_albertensis</List>
+		<List>Spinops_sternbergorum</List>
+		<List>Einiosaurus_procurvicornis</List>
+		<List>Achelousaurus_horneri</List>
+		<List>Pachyrhinosaurus_canadensis</List>
+		<List>Pachyrhinosaurus_lakustai</List>
+		<List>Chasmosaurus_belli</List>
+		<List>Pentaceratops_sternbergii</List>
+		<List>Sinoceratops_zhuchengensis</List>
+		<List>Xenoceratops_foremostensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="108">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ryan_etal_2012bb</Filename>
+	<Parent>Farke_etal_2011ab</Parent>
+	<Sibling/>
+</SourceTree>

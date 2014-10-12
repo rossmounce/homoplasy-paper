@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Benton, M. J.</List>
+			<List>Clark, J. M.</List>
+		</Author>
+		<Year>1988</Year>
+		<Title>Archosaur phylogeny and the relationships of the Crocodylia</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>295-338</Pages>
+		<Booktitle>Phylogeny and Classification of the Tetrapods, Volume 1: Amphibians, Reptiles, Birds</Booktitle>
+		<Publisher>Clarendon Press</Publisher>
+		<City>Oxford</City>
+		<Editor>
+			<List>Benton, M. J.</List>
+		</Editor>
+	</Source>
+	<Taxa number="21">
+		<List>Youngina</List>
+		<List>Trilophosaurus</List>
+		<List>Hyperodapedon</List>
+		<List>Prolacerta</List>
+		<List>Proterosuchus</List>
+		<List>Erythrosuchus</List>
+		<List>Euparkeria</List>
+		<List>Chanaresuchus</List>
+		<List>Parasuchus</List>
+		<List>Ornithosuchus</List>
+		<List>Doswellia</List>
+		<List>Stagonolepis</List>
+		<List>Gracilisuchus</List>
+		<List>Ticinosuchus</List>
+		<List>Saurosuchus</List>
+		<List>Postosuchus</List>
+		<List>Terrestrisuchus</List>
+		<List>Protosuchus</List>
+		<List>Crocodylus</List>
+		<List>Lagosuchus</List>
+		<List>P1ateosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="134">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Benton_et_Clark_1988aa</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Frederickson, J. A.</List>
+			<List>Tumarkin-Deratzian, A. R.</List>
+		</Author>
+		<Year>2014</Year>
+		<Title>Craniofacial ontogeny in <em>Centrosaurus apertus</em></Title>
+		<Journal>PeerJ</Journal>
+		<Volume>2</Volume>
+		<Pages>e252</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="19">
+		<List>_Embryo</List>
+		<List>_TMP_1982_dot_16_dot_11</List>
+		<List>_TMP_2001_dot_00_dot_001</List>
+		<List>_TMP_1978_dot_06_dot_001</List>
+		<List>_TMP_1980_dot_54_dot_1</List>
+		<List>_TMP_1993_dot_70_dot_01</List>
+		<List>_TMP_1994_dot_182_dot_1</List>
+		<List>_TMP_1992_dot_82_dot_1</List>
+		<List>_UALVP_11735</List>
+		<List>_NMC_8795</List>
+		<List>_NMC_348</List>
+		<List>_NMC_11837</List>
+		<List>_NMC_8798</List>
+		<List>_NMC_971</List>
+		<List>_NMC_1229</List>
+		<List>_YPM_2015</List>
+		<List>_AMNH_5351</List>
+		<List>_ROM_767</List>
+		<List>_USNM_8897</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="80">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Frederickson_et_Tumarkin-Deratzian_2014ad</Filename>
+	<Parent/>
+	<Sibling>Frederickson_et_Tumarkin-Deratzian_2014aa</Sibling>
+</SourceTree>

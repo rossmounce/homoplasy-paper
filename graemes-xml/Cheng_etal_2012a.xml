@@ -1,0 +1,76 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Cheng, Y.-N.</List>
+			<List>Wu, X.-C.</List>
+			<List>Sato, T.</List>
+			<List>Shan, H.-Y.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>A new eosauropterygian (Diapsida, Sauropterygia) from the Triassic of China</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>32</Volume>
+		<Pages>1335-1349</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="39">
+		<List>Ancestor</List>
+		<List>Captorhinidae</List>
+		<List>Testudines</List>
+		<List>Araeoscelidia</List>
+		<List>Younginiformes</List>
+		<List>Kuehneosauridae</List>
+		<List>Rhynchocephalia</List>
+		<List>Squamata</List>
+		<List>Rhynchosauria</List>
+		<List>Prolacertiformes</List>
+		<List>Trilophosaurus</List>
+		<List>Choristodera</List>
+		<List>Archosauriformes</List>
+		<List>Claudiosaurus</List>
+		<List>Anaro_Dactylo</List>
+		<List>Serpiano_Neustico</List>
+		<List>Simosaurus</List>
+		<List>Nothosaurus</List>
+		<List>Lariosaurus</List>
+		<List>Corosaurus</List>
+		<List>Cymatosaurus</List>
+		<List>Germanosaurus</List>
+		<List>Pistosaurus</List>
+		<List>Placodus</List>
+		<List>Chinchenia</List>
+		<List>Kwangsisaurus</List>
+		<List>Sanchiaosaurus</List>
+		<List>Keichousaurus</List>
+		<List>Cyamodus</List>
+		<List>Augustasaurus</List>
+		<List>Plesiosaurus</List>
+		<List>Wumengosaurus</List>
+		<List>Odontochelys</List>
+		<List>Hanosaurus</List>
+		<List>Diandongosaurus</List>
+		<List>Qianxisaurus</List>
+		<List>Dianopachysaurus</List>
+		<List>Thalattosauria</List>
+		<List>Yunguisaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="139">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Cheng_etal_2012a</Filename>
+	<Parent>Wu_etal_2011a</Parent>
+	<Sibling/>
+</SourceTree>

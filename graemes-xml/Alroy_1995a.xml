@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Alroy, J.</List>
+		</Author>
+		<Year>1995</Year>
+		<Title>Continuous Track Analysis: a new phylogenetic and biogeographic method</Title>
+		<Journal>Systematic Biology</Journal>
+		<Volume>44</Volume>
+		<Pages>152-178</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="17">
+		<List>M_primus</List>
+		<List>M_nr_sejunctus</List>
+		<List>M_coloradense</List>
+		<List>P_retrusum</List>
+		<List>P_gratum</List>
+		<List>H_shirleyae</List>
+		<List>M_insignis</List>
+		<List>Ne_affine</List>
+		<List>Ne_trampasense</List>
+		<List>C_goorisi</List>
+		<List>C_sphenodus</List>
+		<List>C_dolichops</List>
+		<List>C_occidentale</List>
+		<List>H_tehonense</List>
+		<List>H_forcei</List>
+		<List>Na_lenticularis</List>
+		<List>Na_peninsulatus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="56">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Alroy_1995a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

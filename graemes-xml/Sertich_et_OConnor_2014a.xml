@@ -1,0 +1,106 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sertich, J. J. W.</List>
+			<List>O'Connor, P. M.</List>
+		</Author>
+		<Year>2014</Year>
+		<Title>A new crocodyliform from the middle Cretaceous Galula Formation, southwestern Tanzania</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>34</Volume>
+		<Pages>576-596</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="71">
+		<List>Gracilisuchus</List>
+		<List>Terrestrisuchus</List>
+		<List>Dibothrosuchus</List>
+		<List>Protosuchus</List>
+		<List>Hemiprotosuchus</List>
+		<List>Orthosuchus</List>
+		<List>Kayenta_Form</List>
+		<List>Edentosuchus</List>
+		<List>Zaraasuchus</List>
+		<List>Gobiosuchus</List>
+		<List>Sichuanosuchus</List>
+		<List>Shantungosuchus</List>
+		<List>Zosuchus</List>
+		<List>Fruitachampsa</List>
+		<List>Notosuchus</List>
+		<List>Comahuesuchus</List>
+		<List>Mariliasuchus</List>
+		<List>Uruguaysuchus</List>
+		<List>Chimaeresuchus</List>
+		<List>Malawisuchus</List>
+		<List>Simosuchus</List>
+		<List>Yacarerani_boliviensis</List>
+		<List>Sphagesaurus_hueni</List>
+		<List>Sphagesaurus_monte</List>
+		<List>Adamantinasuchus</List>
+		<List>Armadillosuchus_arrudai</List>
+		<List>Bretesuchus</List>
+		<List>Baurusuchus</List>
+		<List>Iberosuchus</List>
+		<List>Libycosuchus</List>
+		<List>Anatosuchus_minor</List>
+		<List>A_gomesii</List>
+		<List>A_patagonicus</List>
+		<List>A_buitreraensi</List>
+		<List>Araripesuchus_wegeneri</List>
+		<List>A_tsangatsanga</List>
+		<List>Lomasuchus</List>
+		<List>Gasparinisuchus</List>
+		<List>Hamadasuchus_rebouli</List>
+		<List>Uberabasuchus_t</List>
+		<List>Montealtosuchus</List>
+		<List>Theriosuchus</List>
+		<List>Goniopholis_sim</List>
+		<List>Eutretanonew</List>
+		<List>Shamosuchus</List>
+		<List>Bernissartia</List>
+		<List>Borealosuchus</List>
+		<List>Pristichampsus</List>
+		<List>Eothoracosaurus</List>
+		<List>Gavialis</List>
+		<List>Leidyosuchus_ca</List>
+		<List>Crocodylus</List>
+		<List>Diplocynodon_ha</List>
+		<List>Alligator</List>
+		<List>Hsisosuchus</List>
+		<List>Pelagosaurus</List>
+		<List>Metriorhynchus_supercilio</List>
+		<List>Geosaurus_arauc</List>
+		<List>Dakosaurus_andi</List>
+		<List>Rhabdognathus_m</List>
+		<List>Dyrosaurus</List>
+		<List>Sarcosuchus</List>
+		<List>Terminonaris_ro</List>
+		<List>Rugosuchus_nong</List>
+		<List>Mahajangasuchus</List>
+		<List>Kaprosuchus_saharicus</List>
+		<List>Stolokrosuchus</List>
+		<List>Argochampsa</List>
+		<List>Pakasuchus</List>
+		<List>Trematochampsa</List>
+		<List>Rukwasuchus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="308">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sertich_et_OConnor_2014a</Filename>
+	<Parent>Turner_et_Sertich_2010a</Parent>
+	<Sibling/>
+</SourceTree>

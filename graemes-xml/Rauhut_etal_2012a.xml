@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Rauhut, O. W. M.</List>
+			<List>Heyng, A. M.</List>
+			<List>Lopez-Arbarello, A.</List>
+			<List>Hecker, A.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>A new rhynchocephalian from the Late Jurassic of Germany with a dentition that is unique amongst tetrapods</Title>
+		<Journal>PLOS One</Journal>
+		<Volume>7</Volume>
+		<Pages>e46839</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="22">
+		<List>Younginia</List>
+		<List>Squamata</List>
+		<List>Gephyrosaurus</List>
+		<List>Brachyrhinodon</List>
+		<List>Clevosaurus_hudsoni</List>
+		<List>Clevosaurus_wangi</List>
+		<List>Cynosphenodon</List>
+		<List>Diphydontosaurus</List>
+		<List>Eilenodon</List>
+		<List>Homoeosaurus</List>
+		<List>Kallimodon</List>
+		<List>Oenosaurus</List>
+		<List>Opisthias</List>
+		<List>Palaeopleurosaurus</List>
+		<List>Planocephalosaurus</List>
+		<List>Pleurosaurus</List>
+		<List>Pamizinsaurus</List>
+		<List>Priosphenodon</List>
+		<List>Sapheosaurus</List>
+		<List>Sphenodon</List>
+		<List>Toxolophosaurus</List>
+		<List>Zapatadon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="70">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Rauhut_etal_2012a</Filename>
+	<Parent>Apesteguia_et_Novas_2003a</Parent>
+	<Sibling/>
+</SourceTree>

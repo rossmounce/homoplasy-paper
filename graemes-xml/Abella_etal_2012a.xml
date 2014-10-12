@@ -1,0 +1,60 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Abella, J.</List>
+			<List>Alba, D. M.</List>
+			<List>Robles, J. M.</List>
+			<List>Valenciano, A.</List>
+			<List>Rotgers, C.</List>
+			<List>Carmona, R.</List>
+			<List>Montoya, P.</List>
+			<List>Morales, J.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title><em>Kretzoiarctos</em> gen. nov., the oldest member of the giant Panda clade</Title>
+		<Journal>PLoS One</Journal>
+		<Volume>7</Volume>
+		<Pages>e48985</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="19">
+		<List>Clupus</List>
+		<List>Zaragocyon</List>
+		<List>Ballusia_elmensis</List>
+		<List>Ursavus_brevirhinus</List>
+		<List>U_primaevus</List>
+		<List>I_vireti</List>
+		<List>I_arctoides</List>
+		<List>I_punjabiensis</List>
+		<List>Kretzoiarctos</List>
+		<List>Agriarctos</List>
+		<List>Ailurarctos</List>
+		<List>A_melanoleuca</List>
+		<List>T_ornatus</List>
+		<List>U_arctos</List>
+		<List>U_americanus</List>
+		<List>U_thibetanus</List>
+		<List>H_malayanus</List>
+		<List>U_maritimus</List>
+		<List>M_ursinus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="82">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Abella_etal_2012a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

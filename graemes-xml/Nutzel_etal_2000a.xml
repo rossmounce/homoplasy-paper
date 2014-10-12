@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Nutzel, A.</List>
+			<List>Erwin, D. H.</List>
+			<List>Mapes, R. H.</List>
+		</Author>
+		<Year>2000</Year>
+		<Title>Identity and phylogeny of the late Paleozoic Subulitoidea (Gastropoda)</Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>74</Volume>
+		<Pages>575-598</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="27">
+		<List>Fusispira</List>
+		<List>Subulites</List>
+		<List>Cyrtospira</List>
+		<List>Leptoptygma</List>
+		<List>Labridens</List>
+		<List>Precerithiopsis</List>
+		<List>Ischnoptygma</List>
+		<List>Oxyspira</List>
+		<List>Balbiniconcha</List>
+		<List>Auriptygma</List>
+		<List>Ianthinopsis</List>
+		<List>Actenonina</List>
+		<List>Hormotoma</List>
+		<List>Bulimorpha</List>
+		<List>Globozyga</List>
+		<List>Soleniscus</List>
+		<List>Strobeus</List>
+		<List>Cylindritopsis</List>
+		<List>Meekospira</List>
+		<List>Girtyspira</List>
+		<List>Ceraunocochlis</List>
+		<List>Globobulimorpha</List>
+		<List>Imogloba</List>
+		<List>Hemizyga</List>
+		<List>Pseurozgyopleura</List>
+		<List>Orthonema</List>
+		<List>Cerithioides</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="18">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Nutzel_etal_2000a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

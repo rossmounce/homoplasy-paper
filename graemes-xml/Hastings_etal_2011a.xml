@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Hastings, A. K.</List>
+			<List>Bloch, J. I.</List>
+			<List>Jaramillo, C. A.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>A new longirostrine dyrosaurid (Crocodylomorpha, Mesoeucrocodylia) from the Paleocene of north-eastern Colombia: biogeographic and behavioural implications for New-World Dyrosauridae</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>54</Volume>
+		<Pages>1095-1116</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="17">
+		<List>Sarcosuchus_imperator</List>
+		<List>Terminonaris_robusta</List>
+		<List>Elosuchus_cherifiensis</List>
+		<List>Arambourgisuchus_khouribgaensis</List>
+		<List>Hyposaurus_rogersii</List>
+		<List>Rhabdognathus_keiniensis</List>
+		<List>Rhabdognathus_aslerensis</List>
+		<List>Dyrosaurus_phosphaticus</List>
+		<List>Dyrosaurus_maghribensis</List>
+		<List>Chenanisuchus_lateroculi</List>
+		<List>Sokotosuchus_ianwilsoni</List>
+		<List>Phosphatosaurus_gavialoides</List>
+		<List>Congosaurus_bequaerti</List>
+		<List>Atlantosuchus_coupatezi</List>
+		<List>Guarinisuchus_munizi</List>
+		<List>Cerrejonisuchus_improcerus</List>
+		<List>Acherontisuchus_guajiraensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="82">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Hastings_etal_2011a</Filename>
+	<Parent>Hastings_etal_2010a</Parent>
+	<Sibling/>
+</SourceTree>

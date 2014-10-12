@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Farke, A. A.</List>
+			<List>Sampson, S. D.</List>
+			<List>Forster, C. A.</List>
+			<List>Loewen, M. A.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>Turanoceratops tardabilis - sister taxon, but not a ceratopsid</Title>
+		<Journal>Naturwissenschaften</Journal>
+		<Volume>96</Volume>
+		<Pages>869-870</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="16">
+		<List>Protoceratops</List>
+		<List>Zuniceratops</List>
+		<List>Turanoceratops</List>
+		<List>Avaceratops</List>
+		<List>Einiosaurus</List>
+		<List>Achelousaurus</List>
+		<List>Pachyrhinosaurus</List>
+		<List>Centrosaurus</List>
+		<List>Styracosaurus</List>
+		<List>Anchiceratops</List>
+		<List>Arrhinoceratops</List>
+		<List>Triceratops</List>
+		<List>Diceratops</List>
+		<List>Torosaurus</List>
+		<List>Chasmosaurus</List>
+		<List>Pentaceratops</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="73">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Farke_etal_2009a</Filename>
+	<Parent>Dodson_etal_2004a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,64 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Boyd, C. A.</List>
+			<List>Brown, C. M.</List>
+			<List>Scheetz, R. D.</List>
+			<List>Clarke, J. A.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>Taxonomic revision of the basal neornithischian taxa Thesecelosaurus and Bugenasaura</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>29</Volume>
+		<Pages>758-770</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="27">
+		<List>Scutellosaurus</List>
+		<List>Lesothosaurus</List>
+		<List>Heterodontosaurus</List>
+		<List>Agilisaurus</List>
+		<List>Hexinlusaurus</List>
+		<List>Othnielosaurus</List>
+		<List>Oryctodromeus</List>
+		<List>Zephyrosaurus</List>
+		<List>Orodromeus</List>
+		<List>Parksosaurus</List>
+		<List>USNM_7757_slash_7758</List>
+		<List>RSM_P.1225.1</List>
+		<List>LACM_33542</List>
+		<List>SDSM_7210</List>
+		<List>NCSM_15728</List>
+		<List>MOR_979</List>
+		<List>CMN_8537</List>
+		<List>LACM_33543</List>
+		<List>Hypsilophodon</List>
+		<List>Gasparinisaura</List>
+		<List>Tenontosaurus</List>
+		<List>Rhabdodon</List>
+		<List>Dryosaurus_altus</List>
+		<List>Dryosaurus_lettowvorbecki</List>
+		<List>Camptosaurus</List>
+		<List>Iguanodon</List>
+		<List>Ouranosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="133">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Boyd_etal_2009a</Filename>
+	<Parent>Varricchio_etal_2007a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Marshall, C. R.</List>
+		</Author>
+		<Year>1986</Year>
+		<Title>Lungfish: phylogeny and parsimony</Title>
+		<Journal>Journal of Morphology</Journal>
+		<Volume>1</Volume>
+		<Pages>151-162</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="24">
+		<List>Dipnorhynchus</List>
+		<List>Ceratodus_sturii</List>
+		<List>Ctenodus</List>
+		<List>Dipterus_valenciennesi</List>
+		<List>gnathorizids</List>
+		<List>lepidosirenids</List>
+		<List>Neoceratodus</List>
+		<List>rhycnhodipterids</List>
+		<List>Sagenodus</List>
+		<List>Straitonia</List>
+		<List>Uranolophus</List>
+		<List>Chirodipterus</List>
+		<List>Conchopoma</List>
+		<List>Fleurantia</List>
+		<List>holodipterids</List>
+		<List>Jarvikia</List>
+		<List>Microceratodus</List>
+		<List>Oervigia</List>
+		<List>Paraceratodus</List>
+		<List>phaneropleurids</List>
+		<List>Rhinodipterus</List>
+		<List>Speonesydrion</List>
+		<List>Tranodis</List>
+		<List>Uronemus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="23">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Marshall_1986a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

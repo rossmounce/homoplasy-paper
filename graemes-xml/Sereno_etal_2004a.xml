@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sereno, P. C.</List>
+			<List>Wilson, J. A.</List>
+			<List>Conrad, J. L.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>New dinosaurs link southern landmasses in the Mid-Cretaceous</Title>
+		<Journal>Proceedings of the Royal Society of London B</Journal>
+		<Volume>1546</Volume>
+		<Pages>1325-1330</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="23">
+		<List>Eoraptor</List>
+		<List>Herrerasaurus</List>
+		<List>Dilophosaurus</List>
+		<List>Liliensternus</List>
+		<List>Syntarsus</List>
+		<List>Coelophysis</List>
+		<List>Procompsognathus</List>
+		<List>Segisaurus</List>
+		<List>Elaphrosaurus</List>
+		<List>Ceratosaurus</List>
+		<List>Spinostropheus</List>
+		<List>Genusaurus</List>
+		<List>Deltadromeus</List>
+		<List>Masiakasaurus</List>
+		<List>Noasaurus</List>
+		<List>Ilokelesia</List>
+		<List>Rugops</List>
+		<List>Abelisaurus</List>
+		<List>Rajasaurus</List>
+		<List>Majungatholus</List>
+		<List>Carnotaurus</List>
+		<List>SPINOSAUROIDEA</List>
+		<List>NEOTETANURAE</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="169">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sereno_etal_2004a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,61 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Zhang, F.-C.</List>
+			<List>Zhou, Z.-H.</List>
+			<List>Benton, M. J.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>A primitive confuciusornithid bird from China and its implications for early avian flight</Title>
+		<Journal>Science in China Series D: Earth Sciences</Journal>
+		<Volume>51</Volume>
+		<Pages>625-639</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="25">
+		<List>Allosauroidea</List>
+		<List>Velociraptorinae</List>
+		<List>Troodontidae</List>
+		<List>Archaeopteryx</List>
+		<List>Rahonavis</List>
+		<List>Eoconfuciusornis</List>
+		<List>Confuciusornis</List>
+		<List>Changchengornis</List>
+		<List>Noguerornis</List>
+		<List>Iberomesornis</List>
+		<List>Concornis</List>
+		<List>Cathayornis</List>
+		<List>Cobipteryx</List>
+		<List>Eoalulavis</List>
+		<List>Neuquenornis</List>
+		<List>Patagopteryx</List>
+		<List>Vorona</List>
+		<List>Hesperornis</List>
+		<List>Ambiortus</List>
+		<List>Ichthyornis</List>
+		<List>Anas</List>
+		<List>Alvarezsaurus</List>
+		<List>Patagonykus</List>
+		<List>Mononykus</List>
+		<List>Shuvuuia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="169">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Zhang_etal_2008b</Filename>
+	<Parent>Chiappe_2002a</Parent>
+	<Sibling/>
+</SourceTree>

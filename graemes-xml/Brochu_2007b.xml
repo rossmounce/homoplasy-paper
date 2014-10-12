@@ -1,0 +1,96 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Brochu, C. A.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>Systematics and taxonomy of Eocene tomistomine crocodylians from Britain and northern Europe</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>50</Volume>
+		<Pages>917-928</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="62">
+		<List>Bernissartia_fagesii</List>
+		<List>Hylaeochampsa_vectiana</List>
+		<List>Thoracosaurus_neocesariensis</List>
+		<List>Thoracosaurus_macrorhynchus</List>
+		<List>Eothoracosaurus_mississippiensis</List>
+		<List>Eosuchus_minor</List>
+		<List>Eosuchus_lerichei</List>
+		<List>Argochampsa_krebsi</List>
+		<List>Siwalik_Gavialis</List>
+		<List>Gavialis_gangeticus</List>
+		<List>Siquisiquesuchus_venezuelensis</List>
+		<List>Ikanogavialis_gameroi</List>
+		<List>Gryposuchus_colombianus</List>
+		<List>Eogavialis_africanus</List>
+		<List>Borealosuchus_formidabilis</List>
+		<List>Borealosuchus_wilsoni</List>
+		<List>Borealosuchus_acutidentatus</List>
+		<List>Borealosuchus_sternbergii</List>
+		<List>Pristichampsus_vorax</List>
+		<List>Leidyosuchus_canadensis</List>
+		<List>Diplocynodon_darwini</List>
+		<List>Stangerochampsa_mccabei</List>
+		<List>Brachychampsa_montana</List>
+		<List>Alligator_mississippiensis</List>
+		<List>Caiman_yacare</List>
+		<List>Belgian_crocodyloid</List>
+		<List>Asiatosuchus_germanicus</List>
+		<List>Prodiplocynodon_langi</List>
+		<List>Brachyuranochampsa_eversolei</List>
+		<List>Crocodylus_acer</List>
+		<List>Crocodylus_affinis</List>
+		<List>Asiatosuchus_grangeri</List>
+		<List>Kentisuchus_spenceri</List>
+		<List>Dollosuchoides_densmorei</List>
+		<List>Gavialosuchus_americanus</List>
+		<List>Tomistoma_cairense</List>
+		<List>Tomistoma_lusitanica</List>
+		<List>Paratomistoma_courtii</List>
+		<List>Gavialosuchus_eggenbergensis</List>
+		<List>Tomistoma_schlegelii</List>
+		<List>Crocodylus_megarhinus</List>
+		<List>Kambara_implexidens</List>
+		<List>Australosuchus_clarkae</List>
+		<List>Crocodylus_porosus</List>
+		<List>Crocodylus_rhombifer</List>
+		<List>Crocodylus_niloticus</List>
+		<List>Mecistops_cataphractus</List>
+		<List>Euthecodon_arambourgii</List>
+		<List>Voay_robustus</List>
+		<List>Rimasuchus_lloydi</List>
+		<List>Osteolaemus_tetraspis</List>
+		<List>Crocodylus_mindorensis</List>
+		<List>Crocodylus_novaeguineae</List>
+		<List>Crocodylus_johnstoni</List>
+		<List>Osteolaemus_osborni</List>
+		<List>Crocodylus_palaeindicus</List>
+		<List>Crocodylus_acutus</List>
+		<List>Crocodylus_palustris</List>
+		<List>Crocodylus_siamensis</List>
+		<List>Crocodylus_intermedius</List>
+		<List>Crocodylus_pigotti</List>
+		<List>Crocodylus_moreletii</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="165">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Brochu_2007b</Filename>
+	<Parent>Brochu_1997ab</Parent>
+	<Sibling/>
+</SourceTree>

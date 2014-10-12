@@ -1,0 +1,87 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Pol, D.</List>
+			<List>Rauhut, O. W. M.</List>
+			<List>Becerra, M.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>A Middle Jurassic heterodontosaurid dinosaur from Patagonia and the evolution of heterodontosaurids</Title>
+		<Journal>Naturwissenschaften</Journal>
+		<Volume>98</Volume>
+		<Pages>369-379</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="51">
+		<List>Euparkeria_capensis</List>
+		<List>Marasuchus_liloensis</List>
+		<List>Herrerasaurus</List>
+		<List>Pisanosaurus_mertii</List>
+		<List>Echinodon_becklessi</List>
+		<List>Tianyulong_confuciusi</List>
+		<List>Fruitadens_haagarorum</List>
+		<List>Manidens_condoriensis</List>
+		<List>Abrictosaurus_consors</List>
+		<List>BMNH_A100</List>
+		<List>Heterodontosaurus_tucki</List>
+		<List>Lycorhinus_angustidens</List>
+		<List>Eocursor_parvus</List>
+		<List>Lesothosaurus_diagnosticus</List>
+		<List>Stormbergia_dangershoeki</List>
+		<List>Agilisaurus_louderbacki</List>
+		<List>Hexinlusaurus_multidens</List>
+		<List>Orodromeus_makelai</List>
+		<List>Othnieliosaurus_consors</List>
+		<List>Hypsilophodon_foxii</List>
+		<List>Jeholosaurus_shangyuanensis</List>
+		<List>Yandusaurus_hongheensis</List>
+		<List>Zephyrosaurus_schaffi</List>
+		<List>Anabisetia_saldiviai</List>
+		<List>Bugenasaura_infernalis</List>
+		<List>Thescelosaurus_neglectus</List>
+		<List>Talenkauen_santacrucensis</List>
+		<List>Gasparinisaura_cincosaltensis</List>
+		<List>Parksosaurus_warreni</List>
+		<List>Rhabdodontidae</List>
+		<List>Tenontosaurus_tilleti</List>
+		<List>Tenontosaurus_dossi</List>
+		<List>Dryosauridae</List>
+		<List>Ankylopollexia</List>
+		<List>Yinlong_downsi</List>
+		<List>Micropachycephalosaurus_hongtuyanensis</List>
+		<List>Chaoyangosaurus_youngi</List>
+		<List>Psittacosauridae</List>
+		<List>Liaoceratops_yanzigouensis</List>
+		<List>Archaeoceratops_oshimai</List>
+		<List>Unnamed_taxon_Coronosauria_plus_Leptoceratopsidae</List>
+		<List>Stenopelix_valdensis</List>
+		<List>Wannanosaurus_yansiensis</List>
+		<List>Goyocephale_lattimorei</List>
+		<List>Homalocephale_calathocercos</List>
+		<List>Pachycephalosauridae</List>
+		<List>Scutellosaurus_lawleri</List>
+		<List>Emausaurus_ernstii</List>
+		<List>Scelidosaurus_harrisonii</List>
+		<List>Stegosauria</List>
+		<List>Ankylosauria</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="230">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Pol_etal_2011b</Filename>
+	<Parent>Butler_etal_2010a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Chiappe, L. M.</List>
+		</Author>
+		<Year>1995</Year>
+		<Title>The phylogenetic position of the Cretaceous birds of Argentina: Enantiornithes and Patagopteryx deferrariisi</Title>
+		<Journal>Courier Forschungsinstitut Senckenberg</Journal>
+		<Volume>181</Volume>
+		<Pages>55-63</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="8">
+		<List>Dromaeosauridae</List>
+		<List>Archaeopteryx</List>
+		<List>Iberomesornis</List>
+		<List>Enantiornithes</List>
+		<List>Patagopteryx</List>
+		<List>Hesperornithiformes</List>
+		<List>Ichthyornis</List>
+		<List>Neornithes</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="73">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Chiappe_1995a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

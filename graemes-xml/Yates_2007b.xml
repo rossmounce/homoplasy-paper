@@ -1,0 +1,83 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Yates, A. M.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>The first complete skull of the Triassic dinosaur Melanorosaurus Haughton (Sauropodomorpha: Anchisauria)</Title>
+		<Journal>Special Papers in Palaeontology</Journal>
+		<Volume>77</Volume>
+		<Pages>9-55</Pages>
+		<Booktitle>Evolution and Palaeobiology of Early Sauropodomorph Dinosaurs</Booktitle>
+		<Publisher/>
+		<City/>
+		<Editor>
+			<List>Barrett, P. M.</List>
+			<List>Batten, D. J.</List>
+		</Editor>
+	</Source>
+	<Taxa number="46">
+		<List>Euparkeria</List>
+		<List>Crurotarsi</List>
+		<List>Marasuchus</List>
+		<List>Silesaurus</List>
+		<List>Ornithischia</List>
+		<List>Eoraptor</List>
+		<List>Agnosphitys</List>
+		<List>Guaibasaurus</List>
+		<List>Chindesaurus</List>
+		<List>Neotheropoda</List>
+		<List>Saturnalia</List>
+		<List>Thecodontosaurus_antiquus</List>
+		<List>Thecodontosaurus_caducus</List>
+		<List>Efraasia</List>
+		<List>Plateosauravus</List>
+		<List>Ruehleia</List>
+		<List>Jingshanosaurus</List>
+		<List>Anchisaurus</List>
+		<List>Yunnanosaurus</List>
+		<List>Melanorosaurus</List>
+		<List>Blikanasaurus</List>
+		<List>Antetonitrus</List>
+		<List>Lessemsaurus</List>
+		<List>Camelotia</List>
+		<List>Gongxianosaurus</List>
+		<List>Isanosaurus</List>
+		<List>Tazoudasaurus</List>
+		<List>Vulcanodon</List>
+		<List>Shunosaurus</List>
+		<List>Barapasaurus</List>
+		<List>Patagosaurus</List>
+		<List>Cetiosaurus</List>
+		<List>Neosauropoda</List>
+		<List>Mamenchisaurus</List>
+		<List>Omeisaurus</List>
+		<List>Massospondylus</List>
+		<List>Coloradisaurus</List>
+		<List>Lufengosaurus</List>
+		<List>Eucnemosaurus</List>
+		<List>Riojasaurus</List>
+		<List>Unaysaurus</List>
+		<List>Plateosaurus_gracilis</List>
+		<List>Plateosaurus__=Gresslyosaurus__ingens</List>
+		<List>Plateosaurus_engelhardti</List>
+		<List>Herrerasaurus</List>
+		<List>Staurikosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="353">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Yates_2007b</Filename>
+	<Parent>Yates_2007a</Parent>
+	<Sibling/>
+</SourceTree>

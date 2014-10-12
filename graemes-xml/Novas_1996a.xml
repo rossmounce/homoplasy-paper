@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Novas, F. E.</List>
+		</Author>
+		<Year>1996</Year>
+		<Title>Alvarezsauridae, Cretaceous basal birds from Patagonia and Mongolia</Title>
+		<Journal>Memoirs of the Queensland Museum</Journal>
+		<Volume>39</Volume>
+		<Pages>675-702</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="8">
+		<List>Tyrannosauridae</List>
+		<List>Ornithomimidae</List>
+		<List>Deinonychus</List>
+		<List>Archaeopteryx</List>
+		<List>Ornithothoraces</List>
+		<List>Alvarezsaurus</List>
+		<List>Mononykus</List>
+		<List>Patagonykus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="74">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Novas_1996a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

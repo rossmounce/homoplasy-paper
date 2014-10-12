@@ -1,0 +1,44 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lamanna, M. C.</List>
+			<List>Martinez, R. D.</List>
+			<List>Smith, J. B.</List>
+		</Author>
+		<Year>2002</Year>
+		<Title>A definitive abelisaurid theropod dinosaur from the early Late Cretaceous of Patagonia</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>22</Volume>
+		<Pages>58-69</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="8">
+		<List>Coelophysis</List>
+		<List>Ceratosaurus</List>
+		<List>Noasaurus</List>
+		<List>Abelisaurus</List>
+		<List>Carnotaurus</List>
+		<List>AMNH_1955</List>
+		<List>Majungatholus</List>
+		<List>UNPSJB_dash_PV247</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="11">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lamanna_etal_2002a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

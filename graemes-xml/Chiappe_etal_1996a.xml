@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Chiappe, L. M.</List>
+			<List>Norell, M. A.</List>
+			<List>Clark, J. M.</List>
+		</Author>
+		<Year>1996</Year>
+		<Title>Phylogenetic position of Mononykus (Aves: Alvarezsauridae) from the Late Cretaceous of the Gobi Desert</Title>
+		<Journal>Memoirs of the Queensland Museum</Journal>
+		<Volume>39</Volume>
+		<Pages>557-582</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List>Velociraptorinae</List>
+		<List>Archaeopteryx</List>
+		<List>Alvarezsaurus</List>
+		<List>Mononykus</List>
+		<List>Patagonikus</List>
+		<List>Iberomesornis</List>
+		<List>Enantiornithes</List>
+		<List>Patagopteryx</List>
+		<List>Hesperornithiformes</List>
+		<List>Ichthyornithiformes</List>
+		<List>Neornithes</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="99">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Chiappe_etal_1996a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

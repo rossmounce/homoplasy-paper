@@ -1,0 +1,123 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Agnolin, F. L.</List>
+			<List>Novas, F. E.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>Unenlagiid theropods: are they members of the Dromaeosauridae (Theropoda, Maniraptora)?</Title>
+		<Journal>Anais da Academia Brasileira de Ciencias</Journal>
+		<Volume>83</Volume>
+		<Pages>117-162</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="88">
+		<List>Allosaurus_fragilis</List>
+		<List>Sinraptor</List>
+		<List>Eotyrannus_lengi</List>
+		<List>Dilong_paradoxus</List>
+		<List>Tanycolagreus_topwilsoni</List>
+		<List>Coelurus_fragilis</List>
+		<List>Ornitholestes_hermanni</List>
+		<List>Falcarius_utahensis</List>
+		<List>Beipiaosaurus_inexpectus</List>
+		<List>Alxasaurus_elesitaiensis</List>
+		<List>Nothronychus_mckinleyi</List>
+		<List>Erliansaurus_bellamanus</List>
+		<List>Nanshiungosaurus_brevispinus</List>
+		<List>Neimongosaurus_yangi</List>
+		<List>Segnosaurus_galbiensis</List>
+		<List>Erlikosaurus_andrewsi</List>
+		<List>Therizinosaurus_cheloniformis</List>
+		<List>Patagonykus_puertai</List>
+		<List>Alvarezsaurus_calvoi</List>
+		<List>Mononykus_olecranus</List>
+		<List>Shuvuuia_deserti</List>
+		<List>Epidendrosaurus_ningchengensis</List>
+		<List>Epidexipteryx_ningchengensis</List>
+		<List>Sinovenator_changii</List>
+		<List>Mei_long</List>
+		<List>Byronosaurus_jaffei</List>
+		<List>Sinornithoides_youngi</List>
+		<List>Unnamed_troodontid_IGM100_slash_44</List>
+		<List>Troodon_formosus</List>
+		<List>Saurornithoides_mongoliensis</List>
+		<List>Saurornithoides_junior</List>
+		<List>Rahonavis_ostromi</List>
+		<List>Unenlagia</List>
+		<List>Buitreraptor_gonzalezorum</List>
+		<List>Austroraptor_cabazai</List>
+		<List>Archaeopteryx_lithographica</List>
+		<List>Wellnhoferia_grandis</List>
+		<List>Jeholornis_prima</List>
+		<List>Sapeornis_chaoyangensis</List>
+		<List>Confuciusornis_sanctus</List>
+		<List>Protopteryx_fengningensis</List>
+		<List>Yanornis_martini</List>
+		<List>Anchiornis_huxleyi</List>
+		<List>Bambiraptor_feinbergi</List>
+		<List>Tsaagan</List>
+		<List>Adasaurus_mongoliensis</List>
+		<List>Saurornitholestes_langstoni</List>
+		<List>Velociraptor_mongoliensis</List>
+		<List>Hagryphus_giganteus</List>
+		<List>Deinonychus_antirrhopus</List>
+		<List>Atrociraptor_marshalli</List>
+		<List>Achillobator_giganticus</List>
+		<List>Dromaeosaurus_albertensis</List>
+		<List>Utahraptor_ostrommaysi</List>
+		<List>Sinornithosaurus_millenii</List>
+		<List>Microraptor_zhaoianus</List>
+		<List>Unnamed_dromaeosaurid_NGMC91</List>
+		<List>Protarchaeopteryx_robusta</List>
+		<List>Incisivosaurus_gauthieri</List>
+		<List>Caenagnathus_collinsi</List>
+		<List>Avimimus_portentosus</List>
+		<List>Caudipteryx</List>
+		<List>Microvenator_celer</List>
+		<List>Oviraptor_philoceratops</List>
+		<List>Rinchenia_mongoliensis</List>
+		<List>Unnamed_oviraptorid_IGM100_slash_42</List>
+		<List>Citipati_osmolskae</List>
+		<List>Elmisaurus_rarus</List>
+		<List>Chirostenotes_pergracilis</List>
+		<List>Ingenia_yanshini</List>
+		<List>Heyuannia_huangi</List>
+		<List>Khaan_mckennai</List>
+		<List>Conchoraptor_gracilis</List>
+		<List>Harpymimus_okladnikovi</List>
+		<List>Deinocheirus_mirificus</List>
+		<List>Shenzhousaurus_orientalis</List>
+		<List>Pelecanimimus_polyodon</List>
+		<List>Garudimimus_brevipes</List>
+		<List>Archaeornithomimus_asiaticus</List>
+		<List>Gallimimus_bullatus</List>
+		<List>Struthiomimus_altus</List>
+		<List>Anserimimus_planinychus</List>
+		<List>Ornithomimus_edmontonicus</List>
+		<List>Huaxiagnathus_orientalis</List>
+		<List>Compsognathus_longipes</List>
+		<List>Sinosauropteryx_prima</List>
+		<List>Tyrannosaurus_rex</List>
+		<List>Gorgosaurus_libratus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="368">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Agnolin_et_Novas_2011a</Filename>
+	<Parent>Hu_etal_2009a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Johanson, Z.</List>
+			<List>Ahlberg, P. E.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>Devonian rhizodontids and tristichopterids (Sarcopterygii; Tetrapodomorpha) from East Gondwana</Title>
+		<Journal>Transactions of the Royal Society of Edinburgh: Earth Sciences</Journal>
+		<Volume>92</Volume>
+		<Pages>43-74</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="10">
+		<List>Glyptolepis</List>
+		<List>Gooloogongia</List>
+		<List>Aztecia</List>
+		<List>Sauripterus</List>
+		<List>Barameda</List>
+		<List>Rhizodus</List>
+		<List>Screbinodus</List>
+		<List>Strepsodus</List>
+		<List>Medoevia</List>
+		<List>Eusthenopteron</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="27">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Johanson_et_Ahlberg_2001ab</Filename>
+	<Parent>Johanson_et_Ahlberg_1998a</Parent>
+	<Sibling/>
+</SourceTree>

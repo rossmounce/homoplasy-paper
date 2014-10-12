@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Cisneros, J. C.</List>
+			<List>Ruta, M.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>Morphological diversity and biogeography of procolophonids (Amniota: Parareptilia)</Title>
+		<Journal>Journal of Systematic Palaeontology</Journal>
+		<Volume>8</Volume>
+		<Pages>607-625</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="24">
+		<List>Nyctiphruretus_acudens</List>
+		<List>Owenetta_spp</List>
+		<List>Coletta_seca</List>
+		<List>Pintosaurus_magnidentis</List>
+		<List>Sauropareion_anoplus</List>
+		<List>Phaantosaurus_spp</List>
+		<List>Eumetabolodon_dongshengensis</List>
+		<List>Theledectes_perforatus</List>
+		<List>Kitchingnathus_untabeni</List>
+		<List>Tichvinskia_vjatkensis</List>
+		<List>Timanophon_raridentatus</List>
+		<List>Kapes_spp</List>
+		<List>Thelephon_contritus</List>
+		<List>Eumetabolodon_bathycephalus</List>
+		<List>Procolophon_trigoniceps</List>
+		<List>Thelerpeton_oppressus</List>
+		<List>Teratophon_spinigenis</List>
+		<List>Pentaedrusaurus_ordosianus</List>
+		<List>Neoprocolophon_asiaticus</List>
+		<List>Sclerosaurus_armatus</List>
+		<List>Scoloparia_glyphanodon</List>
+		<List>Leptopleuron_lacertinum</List>
+		<List>Soturnia_caliodon</List>
+		<List>Hypsognathus_fenneri</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="59">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Cisneros_et_Ruta_2010aa</Filename>
+	<Parent>Cisneros_2008a</Parent>
+	<Sibling/>
+</SourceTree>

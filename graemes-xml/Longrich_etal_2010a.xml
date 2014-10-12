@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Longrich, N. R.</List>
+			<List>Sankey, J.</List>
+			<List>Tanke, D.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title><em>Texacephale langstoni</em>, a new genus of pachycephalosaurid (Dinosauria: Ornithischia) from the upper Campanian Aguja Foramtion, southern Texas, USA</Title>
+		<Journal>Cretaceous Research</Journal>
+		<Volume>31</Volume>
+		<Pages>274-284</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="20">
+		<List>Psittacosaurus_spp.</List>
+		<List>Thescelosaurus_neglectus</List>
+		<List>Texacephale_langstoni</List>
+		<List>Hanssuesia_sternbergi</List>
+		<List>Stegoceras_validum</List>
+		<List>Colepiocephale_lambei</List>
+		<List>Gravitholus_albertae</List>
+		<List>Sphaerotholus?_brevis</List>
+		<List>Sphaerotholus_goodwini</List>
+		<List>Sphaerotholus_edmontonense</List>
+		<List>Sphaerotholus_buchholtzae</List>
+		<List>Alaskacephale_gangloffi</List>
+		<List>Pachycephalosaurus_wyomingensis</List>
+		<List>Stygimoloch_spinifer</List>
+		<List>Dracorex_hogwartsi</List>
+		<List>Prenocephale_prenes</List>
+		<List>Tylocephale_gilmorei</List>
+		<List>Homalocephale_calathocercos</List>
+		<List>Goyocephale_lattimorei</List>
+		<List>Wannanosaurus_yansiensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="90">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Longrich_etal_2010a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

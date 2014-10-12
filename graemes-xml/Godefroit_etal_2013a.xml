@@ -1,0 +1,130 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Godefroit, P.</List>
+			<List>Demuynk, H.</List>
+			<List>Dyke, G.</List>
+			<List>Hu, D.-Y.</List>
+			<List>Escuillie, F.</List>
+			<List>Claeys, P.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>Reduced plumage and flight ability of a new Jurassic paravian theropod from China</Title>
+		<Journal>Nature Communications</Journal>
+		<Volume>4</Volume>
+		<Pages>1394</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="91">
+		<List>Allosaurus_fragilis</List>
+		<List>Sinraptor</List>
+		<List>Sinosauropteryx_prima</List>
+		<List>Caudipteryx</List>
+		<List>Similicaudipteryx</List>
+		<List>Epidendrosaurus_ningchengensis</List>
+		<List>Epidexipteryx_ningchengensis</List>
+		<List>Jeholornis_prima</List>
+		<List>Sapeornis_chaoyangensis</List>
+		<List>Confuciusornis_sanctus</List>
+		<List>Protopteryx_fengningensis</List>
+		<List>Yanornis_martini</List>
+		<List>Archaeopteryx_lithographica</List>
+		<List>Wellnhoferia_grandis</List>
+		<List>Xiaotingia_zhengi</List>
+		<List>Anchiornis_huxleyi</List>
+		<List>Eosinopteryx_brevipenna</List>
+		<List>Jinfengopteryx_elegans</List>
+		<List>Sinovenator_changii</List>
+		<List>Mei_long</List>
+		<List>Byronosaurus_jaffei</List>
+		<List>Sinornithoides_youngi</List>
+		<List>Troodon_formosus</List>
+		<List>Saurornithoides_mongoliensis</List>
+		<List>Zanabazar_junior</List>
+		<List>Microraptor_zhaoianus</List>
+		<List>Dilong_paradoxus</List>
+		<List>Eotyrannus_lengi</List>
+		<List>Tyrannosaurus_rex</List>
+		<List>Gorgosaurus_libratus</List>
+		<List>Tanycolagreus_topwilsoni</List>
+		<List>Coelurus_fragilis</List>
+		<List>Ornitholestes_hermanni</List>
+		<List>Huaxiagnathus_orientalis</List>
+		<List>Deinocheirus_mirificus</List>
+		<List>Harpymimus_okladnikovi</List>
+		<List>Pelecanimimus_polyodon</List>
+		<List>Shenzhousaurus_orientalis</List>
+		<List>Archaeornithomimus_asiaticus</List>
+		<List>Garudimimus_brevipes</List>
+		<List>Anserimimus_planinychus</List>
+		<List>Ornithomimus_edmontonicus</List>
+		<List>Struthiomimus_altus</List>
+		<List>Gallimimus_bullatus</List>
+		<List>Falcarius_utahensis</List>
+		<List>Beipiaosaurus_inexpectus</List>
+		<List>Alxasaurus_elesitaiensis</List>
+		<List>Nothronychus_mckinleyi</List>
+		<List>Erliansaurus_bellamanus</List>
+		<List>Nanshiungosaurus_brevispinus</List>
+		<List>Neimongosaurus_yangi</List>
+		<List>Segnosaurus_galbiensis</List>
+		<List>Erlikosaurus_andrewsi</List>
+		<List>43Compsognathus_longipes</List>
+		<List>Therizinosaurus_cheloniformis</List>
+		<List>Protarchaeopteryx_robusta</List>
+		<List>Elmisaurus_rarus</List>
+		<List>Rinchenia_mongoliensis</List>
+		<List>Citipati_osmolskae</List>
+		<List>Ingenia_yanshini</List>
+		<List>Khaan_mckennai</List>
+		<List>Heyuannia_huangi</List>
+		<List>IGM100_44_unnamed_troodontid</List>
+		<List>Unenlagia</List>
+		<List>Buitreraptor_gonzalezorum</List>
+		<List>Rahonavis_ostromi</List>
+		<List>Bambiraptor_feinbergi</List>
+		<List>Sinornithosaurus_millenii</List>
+		<List>NGMC91_unnamed_dromaeosaurid</List>
+		<List>IGM100_1015_undescribed_dromaeosaurid</List>
+		<List>Adasaurus_mongoliensis</List>
+		<List>Velociraptor_mongoliensis</List>
+		<List>Saurornitholestes_langstoni</List>
+		<List>Deinonychus_antirrhopus</List>
+		<List>Achillobator_giganticus</List>
+		<List>Dromaeosaurus_albertensis</List>
+		<List>Utahraptor_ostrommaysi</List>
+		<List>Atrociraptor_marshalli</List>
+		<List>Hagryphus_giganteus</List>
+		<List>Microvenator_celer</List>
+		<List>Avimimus_portentosus</List>
+		<List>Oviraptor_philoceratops</List>
+		<List>Conchoraptor_gracilis</List>
+		<List>Chirostenotes_pergracilis</List>
+		<List>Incisivosaurus_gauthieri</List>
+		<List>IGM100_42_unnamed_oviraptorid</List>
+		<List>Haplocherius</List>
+		<List>Patagonykus_puertai</List>
+		<List>Mononykus_olecranus</List>
+		<List>Shuvuuia_deserti</List>
+		<List>Alvarezsaurus_calvoi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="378">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Godefroit_etal_2013a</Filename>
+	<Parent>Xu_etal_2011b</Parent>
+	<Sibling/>
+</SourceTree>

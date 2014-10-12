@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Norell, M. A.</List>
+			<List>Clark, J. M.</List>
+		</Author>
+		<Year>1990</Year>
+		<Title>A reanalysis of <em>Bernissartia jagesii</em>, with comments on its phylogenetic position and its bearing on the origin and diagnosis of the Eusuchia</Title>
+		<Journal>Bulletin de l'Institut Royal des Sciences Naturelles de Belqique, Sciences de la Terre</Journal>
+		<Volume>60</Volume>
+		<Pages>115-128</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="6">
+		<List>Atoposauridae</List>
+		<List>Goniopholididae</List>
+		<List>Dyrosauridae</List>
+		<List>Bernissartia</List>
+		<List>Leidyosuchus</List>
+		<List>Crocodylia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="16">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Norell_et_Clark_1990a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

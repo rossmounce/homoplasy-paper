@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Wills, M. A.</List>
+		</Author>
+		<Year>1998</Year>
+		<Title>Cambrian and Recent disparity: the picture from priapulids</Title>
+		<Journal>Paleobiology</Journal>
+		<Volume>24</Volume>
+		<Pages>177-199</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="19">
+		<List>Kinorhyncha</List>
+		<List>Loricifera</List>
+		<List>Acanthopriapulus</List>
+		<List>Ancalagon</List>
+		<List>Cricocosmia</List>
+		<List>Fieldia</List>
+		<List>Halicryptus</List>
+		<List>Louisella</List>
+		<List>Maccabeus</List>
+		<List>Maotianshania</List>
+		<List>Meiopriapulus</List>
+		<List>Ottoia</List>
+		<List>Palaeoscolex</List>
+		<List>Priapulites</List>
+		<List>Priapulopsis</List>
+		<List>Priapulus</List>
+		<List>Scolecofurca</List>
+		<List>Selkirkia</List>
+		<List>Tubiluchus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="49">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Wills_1998bb</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Yates, A. M.</List>
+			<List>Kitching, J. W.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>The earliest known sauropod dinosaur and the first steps towards sauropod locomotion</Title>
+		<Journal>Proceedings of the Royal Society of London B</Journal>
+		<Volume>270</Volume>
+		<Pages>1753-1758</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="21">
+		<List>Herrerasaurus_ischigualastensis</List>
+		<List>Neotheropoda</List>
+		<List>Saturnalia_tupiniquim</List>
+		<List>Thecodontosaurus_spp</List>
+		<List>Efraasia_minor</List>
+		<List>Riojasaurus_incertus</List>
+		<List>Plateosaurus_engelhardti</List>
+		<List>Coloradisaurus_brevis</List>
+		<List>Massospondylus_carinatus</List>
+		<List>Lufengosaurus_huenei</List>
+		<List>Anchisaurus_polyzelus</List>
+		<List>Melanorosaurus_readi</List>
+		<List>Blikanasaurus_cromptoni</List>
+		<List>Antetonitrus_ingenipes</List>
+		<List>Isanosaurus_attavipachi</List>
+		<List>Kotasaurus_yamanpalliensis</List>
+		<List>Vulcanodon_karibaensis</List>
+		<List>Shunosaurus_lii</List>
+		<List>Barapasaurus_tagorei</List>
+		<List>Omeisaurus_spp</List>
+		<List>Neosauropoda</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="212">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Yates_et_Kitching_2003a</Filename>
+	<Parent>Yates_2004aa</Parent>
+	<Sibling/>
+</SourceTree>

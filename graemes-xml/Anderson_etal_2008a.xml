@@ -1,0 +1,92 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Anderson, J. S.</List>
+			<List>Reisz, R. R.</List>
+			<List>Scott, D.</List>
+			<List>Frobisch, N. B.</List>
+			<List>Sumida, S. S.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>A stem batrachian from the Early Permian of Texas and the origin of frogs and salamanders</Title>
+		<Journal>Nature</Journal>
+		<Volume>453</Volume>
+		<Pages>515-518</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="54">
+		<List>Acanthostega</List>
+		<List>Proterogyrinus</List>
+		<List>Balanerpeton</List>
+		<List>Dendrerpeton</List>
+		<List>Tuditanus</List>
+		<List>Asaphestera</List>
+		<List>Hapsidoparion</List>
+		<List>Saxonerpeton</List>
+		<List>Pantylus</List>
+		<List>Cardiocephalus_sternbergi</List>
+		<List>Cardiocephalus_peabodyi</List>
+		<List>Euryodus_primus</List>
+		<List>Euryodus_dalyae</List>
+		<List>Pelodosotis</List>
+		<List>Micraroter</List>
+		<List>Rhynchonkos</List>
+		<List>Eocaecilia</List>
+		<List>Microbrachis</List>
+		<List>Batropetes</List>
+		<List>Utaherpeton</List>
+		<List>Stegotretus</List>
+		<List>Sauropleura_scalaris</List>
+		<List>Ptyonius</List>
+		<List>Urocordylus</List>
+		<List>Keraterpeton_galvani</List>
+		<List>Batrachiderpeton</List>
+		<List>Diceratosaurus</List>
+		<List>Diplocaulus_magnicornis</List>
+		<List>Diploceraspis</List>
+		<List>Scincosaurus</List>
+		<List>Brachydectes</List>
+		<List>Adelogyrinus</List>
+		<List>Oestocephalus</List>
+		<List>Phlegethontia</List>
+		<List>Greererpeton</List>
+		<List>Seymouria_baylorensis</List>
+		<List>Limnoscelis</List>
+		<List>Branchiosauridae</List>
+		<List>Micromelerpetontidae</List>
+		<List>Tersomius</List>
+		<List>Ecolsonia</List>
+		<List>Trematops_slash_Acheloma</List>
+		<List>Eryops</List>
+		<List>Doleserpeton</List>
+		<List>Salamanders</List>
+		<List>Frogs</List>
+		<List>Albanerpeontidae</List>
+		<List>Micropholis</List>
+		<List>Eoscopus</List>
+		<List>Tambachia</List>
+		<List>Triadobatrachus</List>
+		<List>Gerobatrachus</List>
+		<List>Platyrhinops</List>
+		<List>Amphibamus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="219">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Anderson_etal_2008a</Filename>
+	<Parent>Anderson_2007a</Parent>
+	<Sibling/>
+</SourceTree>

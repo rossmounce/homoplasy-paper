@@ -1,0 +1,120 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Turner, A. H.</List>
+			<List>Sertich, J. J. W.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>Phylogenetic history of <em>Simosuchus clarki</em> (Crocodyliformes: Notosuchia) from the Late Cretaceous of Madagascar</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>30</Volume>
+		<Pages>s177-s236</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="85">
+		<List>Gracilisuchus_stipanicicorum</List>
+		<List>Terrestrisuchus_gracilis</List>
+		<List>Dibothrosuchus_elaphros</List>
+		<List>Protosuchus_richardsoni</List>
+		<List>Hemiprotosuchus_leali</List>
+		<List>Orthosuchus_stormbergi</List>
+		<List>Kayenta_Form</List>
+		<List>Edentosuchus_tienshanensis</List>
+		<List>Zaraasuchus_shepardi</List>
+		<List>Gobiosuchus_kielanae</List>
+		<List>Sichuanosuchus_shuhanensis</List>
+		<List>Shantungosuchus_hangjinensis</List>
+		<List>Zosuchus_davidsoni</List>
+		<List>Fruita_Form</List>
+		<List>Notosuchus_terrestris</List>
+		<List>Comahuesuchus_brachybuccalis</List>
+		<List>Mariliasuchus_amarali</List>
+		<List>Uruguaysuchus_aznarezi</List>
+		<List>Chimaerasuchus_paradoxus</List>
+		<List>Malawisuchus_mwakasyungutiensis</List>
+		<List>Candidodon_itapecuruense</List>
+		<List>Simosuchus_clarki</List>
+		<List>Yacarerani_boliviensis</List>
+		<List>Sphagesaurus_hueni</List>
+		<List>Sphagesaurus_montealtensis</List>
+		<List>Adamantinasuchus_navae</List>
+		<List>Armadillosuchus_arrudai</List>
+		<List>Bretesuchus_bonapartei</List>
+		<List>Baurusuchus_pachecoi</List>
+		<List>Iberosuchus_macrodon</List>
+		<List>Libycosuchus_brevirostris</List>
+		<List>Anatosuchus_minor</List>
+		<List>Araripesuchus_gomesii</List>
+		<List>Araripesuchus_patagonicus</List>
+		<List>Araripesuchus_buitreraensis</List>
+		<List>Araripesuchus_wegeneri</List>
+		<List>Araripesuchus_tsangatsangana</List>
+		<List>Gomasuchus_palpebrosus</List>
+		<List>Peirosaurus_torminni</List>
+		<List>Hamadasuchus_rebouli</List>
+		<List>Uberabasuchus_terrificus</List>
+		<List>Montealtosuchus_arrudacamposi</List>
+		<List>Theriosuchus_pusillus</List>
+		<List>Alligatoriu</List>
+		<List>Goniopholis_simus</List>
+		<List>Goniopholis_stovalli</List>
+		<List>Eutretauranosuchus_delfsi</List>
+		<List>Calsoyasuchus_valliceps</List>
+		<List>Sunosuchus_junggarensis</List>
+		<List>Shamosuchus_djadochtaensis</List>
+		<List>Bernissartia_fagesii</List>
+		<List>Hylaeochampsa_vectiana</List>
+		<List>Allodaposuchus_precedens</List>
+		<List>Glen_Rose_Form</List>
+		<List>Borealosuchus_formidabilis</List>
+		<List>Pristichampsus_vorax</List>
+		<List>Eothoracosaurus_mississippiensis</List>
+		<List>Gavialis_gangeticus</List>
+		<List>Leidyosuchus_canadensis</List>
+		<List>Asiatosuchus_germanicus</List>
+		<List>Crocodylus_niloticus</List>
+		<List>Diplocynodon_hantoniensis</List>
+		<List>Alligator_mississippiensis</List>
+		<List>Hsisosuchus_chungkingensis</List>
+		<List>Pelagosaurus_typus</List>
+		<List>Steneosaurus_bollensis</List>
+		<List>Metriorhynchus_superciliosus</List>
+		<List>Metriorhynchus_casamequelai</List>
+		<List>Geosaurus_araucanensis</List>
+		<List>Geosaurus_suevicus</List>
+		<List>Dakosaurus_maximus</List>
+		<List>Dakosaurus_andiniensis</List>
+		<List>Rhabdognathus</List>
+		<List>Sokotosuchus_ianwilsoni</List>
+		<List>Dyrosaurus</List>
+		<List>Hyposaurus_rogersii</List>
+		<List>Pholidosaurus_purbeckensis</List>
+		<List>Sarcosuchus_imperator</List>
+		<List>Terminonaris_robusta</List>
+		<List>Pachycheilosuchus_trinquei</List>
+		<List>Rugosuchus_nonganensis</List>
+		<List>Mahajangasuchus_insignis</List>
+		<List>Kaprosuchus_saharicus</List>
+		<List>Stolokrosuchus_lapparenti</List>
+		<List>Argochampsa_krebsi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="301">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Turner_et_Sertich_2010a</Filename>
+	<Parent>Pol_etal_2009a</Parent>
+	<Sibling/>
+</SourceTree>

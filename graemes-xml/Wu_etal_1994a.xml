@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Wu, X.-C.</List>
+			<List>Li, J.-L.</List>
+			<List>Li, X.-M.</List>
+		</Author>
+		<Year>1994</Year>
+		<Title>Phylogenetic relationship of Hsisosuchus</Title>
+		<Journal>Vertebrata PalAsiatica</Journal>
+		<Volume>32</Volume>
+		<Pages>166-180</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List>Postosuchus</List>
+		<List>Dibothrosuchus</List>
+		<List>Protosuchus</List>
+		<List>Orthosuchus</List>
+		<List>Pelagosaurus</List>
+		<List>Hsisosuchus</List>
+		<List>Notosuchus</List>
+		<List>Sebecus</List>
+		<List>Goniopholis</List>
+		<List>Bernissartia</List>
+		<List>Alligator</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="54">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Wu_etal_1994a</Filename>
+	<Parent>Benton_et_Clark_1988ab</Parent>
+	<Sibling/>
+</SourceTree>

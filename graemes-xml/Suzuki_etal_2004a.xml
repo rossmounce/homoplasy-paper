@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Suzuki, D.</List>
+			<List>Weishampel, D. B.</List>
+			<List>Minoura, N.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>Nipponosaurus sachalinensis (Dinosauria; Ornithopoda): Anatomy and systematic position within Hadrosauridae</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>24</Volume>
+		<Pages>145-164</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="13">
+		<List>Camptosaurus_dispar</List>
+		<List>Iguanodon_atherfieldensis</List>
+		<List>Iguanodon_bernissartensis</List>
+		<List>Ouranosaurus_nigeriensis</List>
+		<List>Altirhinus</List>
+		<List>Bactrosaurus_johnsoni</List>
+		<List>Parasaurolophus_walkeri_slash_cyrtocristatus</List>
+		<List>Hypacrosaurus_stebingeri</List>
+		<List>Corythosaurus_casuarius</List>
+		<List>Lambeosaurus_lambei</List>
+		<List>Lambeosaurus_magnicristatus</List>
+		<List>Nipponosaurus_sachalinensis</List>
+		<List>Hypacrosaurus_altispinus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="78">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Suzuki_etal_2004a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,132 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Williamson, T. E.</List>
+			<List>Brusatte, S. L.</List>
+			<List>Carr, T. D.</List>
+			<List>Weil, A.</List>
+			<List>Standhardt, B. R.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>The phylogeny and evolution of Cretaceous-Palaeogene metatherians: cladistic analysis and description of new early Palaeocene specimens from the Nacimiento Formation, New Mexico</Title>
+		<Journal>Journal of Systematic Palaeontology</Journal>
+		<Volume>10</Volume>
+		<Pages>625-651</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="94">
+		<List>Prokennalestes_trofimovi</List>
+		<List>Adelodelphys_muizoni</List>
+		<List>Aenigmadelphys_archeri</List>
+		<List>Albertatherium_primum</List>
+		<List>Albertatherium_secundum</List>
+		<List>Alphadon_attaragos</List>
+		<List>Alphadon_halleyi</List>
+		<List>Alphadon_marshi</List>
+		<List>Alphadon_perexiguus</List>
+		<List>Alphadon_sahnii</List>
+		<List>Alphadon_wilsoni</List>
+		<List>Anchistodelphys_archibaldi</List>
+		<List>Anchistodelphys_delicatus</List>
+		<List>Apistodon_exiguus</List>
+		<List>Aquiladelphis_laurae</List>
+		<List>Aquiladelphis_incus</List>
+		<List>Aquiladelphis_minor</List>
+		<List>Armintodelphys_blacki</List>
+		<List>Armintodelphys_dawsoni</List>
+		<List>Asiatherium_reshetovi</List>
+		<List>Atokatherium_boreni</List>
+		<List>Bistius_bondi</List>
+		<List>Copedelphys_innominata</List>
+		<List>Dakotadens_morrowi</List>
+		<List>Deltatheridium_pretrituberculare</List>
+		<List>Deltatheroides_cretacicus</List>
+		<List>Didelphodon_coyi</List>
+		<List>Didelphodon_vorax</List>
+		<List>Ectocentrocristus_foxi</List>
+		<List>Eoalphadon_clemensi</List>
+		<List>Eoalphadon_lillegraveni</List>
+		<List>Eoalphadon_woodburnei</List>
+		<List>Eodelphis_browni</List>
+		<List>Eodelphis_cutleri</List>
+		<List>Glasbius_intricatus</List>
+		<List>Glasbius_twitchelli</List>
+		<List>Hatcheritherium_alpha</List>
+		<List>Goler_formation_taxon</List>
+		<List>Herpetotherium_comstocki</List>
+		<List>Herpetotherium_edwardi</List>
+		<List>Herpetotherium_fugax</List>
+		<List>Herpetotherium_knighti</List>
+		<List>Herpetotherium_marsupium</List>
+		<List>Holoclemensia_texana</List>
+		<List>Iqualadelphis_lactea</List>
+		<List>Iugomortiferum_thoringtoni</List>
+		<List>Kokopellia_juddi</List>
+		<List>Leptalestes_cooki</List>
+		<List>Leptalestes_krejcii</List>
+		<List>Leptalestes_prokrejcii</List>
+		<List>Leptalestes_toevsi</List>
+		<List>Maastrichtidelphys_meurismeti</List>
+		<List>Mimoperadectes_houdei</List>
+		<List>Mimoperadectes_labrus</List>
+		<List>Nanocuris_improvida</List>
+		<List>Nortedelphys_jasoni</List>
+		<List>Nortedelphys_magnus</List>
+		<List>Nortedelphys_minimus</List>
+		<List>Oklatheridium_szalayi</List>
+		<List>Pappotherium_pattersoni</List>
+		<List>Pariadens_kirklandi</List>
+		<List>Pariadens_mckennai</List>
+		<List>Pediomys_elegans</List>
+		<List>Peradectes_californicus</List>
+		<List>Peradectes_chesteri</List>
+		<List>Peradectes_elegans</List>
+		<List>Peradectes_gulottai</List>
+		<List>Peradectes_coprexeches</List>
+		<List>Peradectes_minor</List>
+		<List>Peradectes_protinnominatus</List>
+		<List>Protalphadon_foxi</List>
+		<List>Protalphadon_lulli</List>
+		<List>Protolambda_clemensi</List>
+		<List>Protolambda_florencae</List>
+		<List>Protolambda_hatcheri</List>
+		<List>Pucadelphys_andinus</List>
+		<List>Roberthoffstetteria_nationalgeographica</List>
+		<List>Sinbadelphys_schmidti</List>
+		<List>Sulestes_karakshi</List>
+		<List>Swaindelphys_cifellii</List>
+		<List>Swaindelphys_johansoni</List>
+		<List>Swaindelphys_encinensis</List>
+		<List>Szalinia_gracilis</List>
+		<List>Thylacodon_pusillus</List>
+		<List>Thylacodon_montana_sp_nov</List>
+		<List>Turgidodon_lillegraveni</List>
+		<List>Turgidodon_madseni</List>
+		<List>Turgidodon_petiminis</List>
+		<List>Turgidodon_praesagus</List>
+		<List>Turgidodon_rhaister</List>
+		<List>Turgidodon_russelli</List>
+		<List>Varalphadon_crebreforme</List>
+		<List>Varalphadon_creber</List>
+		<List>Varalphadon_wahweapensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="78">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Williamson_etal_2012a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

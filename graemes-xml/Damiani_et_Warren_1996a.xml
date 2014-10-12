@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Damiani, R. J.</List>
+			<List>Warren, A.</List>
+		</Author>
+		<Year>1996</Year>
+		<Title>A new look at members of the superfamily Brachyopoidea (Amphibia, Temnospondyli) from the Early Triassic of Queensland and a preliminary analysis of brachyopoid relationships</Title>
+		<Journal>Alcheringa</Journal>
+		<Volume>20</Volume>
+		<Pages>277-300</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="13">
+		<List>Dvinosaurus</List>
+		<List>Siderops</List>
+		<List>Keratobrachyops</List>
+		<List>Compsocerops</List>
+		<List>Kuttycephalus</List>
+		<List>Pelorocephalus</List>
+		<List>Batrachosuchus</List>
+		<List>Blinasaurus</List>
+		<List>Bothriceps</List>
+		<List>Brachyops</List>
+		<List>Hadrokkosaurus</List>
+		<List>Sinobrachyops</List>
+		<List>Xenobrachyops</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="15">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Damiani_et_Warren_1996a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

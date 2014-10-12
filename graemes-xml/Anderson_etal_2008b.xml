@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Anderson, J. S.</List>
+			<List>Henrici, A. C.</List>
+			<List>Sumida, S. S.</List>
+			<List>Martens, T.</List>
+			<List>Berman, D. S.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title><em>Georgenthalia clavinasica</em>, a new genus and species of dissorophoid temnospondyl from the Early Permian of Germany, and the relationships of the family Amphibamidae</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>28</Volume>
+		<Pages>61-75</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="15">
+		<List>Dendrerpeton_acadianum</List>
+		<List>Sclerocephalus_haeuseri</List>
+		<List>Eryopidae</List>
+		<List>Micromelerpeton_credneri</List>
+		<List>Amphibamus_grandiceps</List>
+		<List>Platyrhinops_lyelli</List>
+		<List>Doleserpeton_annectens</List>
+		<List>Eoscopus_lockardi</List>
+		<List>Micropholis_stowi</List>
+		<List>Tersomius_sp</List>
+		<List>Ecolsonia_cutlerensis</List>
+		<List>Trematopidae</List>
+		<List>Dissorophinae</List>
+		<List>Cacopinae</List>
+		<List>Georgenthalia_clavinasica</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="53">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Anderson_etal_2008b</Filename>
+	<Parent>Schoch_et_Rubidge_2005a</Parent>
+	<Sibling/>
+</SourceTree>

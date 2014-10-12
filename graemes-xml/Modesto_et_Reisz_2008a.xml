@@ -1,0 +1,64 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Modesto, S. P.</List>
+			<List>Reisz, R. R.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>New material of <em>Colobomycter pholeter</em>, a small parareptile from the Lower Permian of Oklahoma</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>28</Volume>
+		<Pages>677-684</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="29">
+		<List>Seymouria</List>
+		<List>Limnoscelidae</List>
+		<List>Diadectidae</List>
+		<List>Synapsida</List>
+		<List>Mesosauridae</List>
+		<List>Eunotosaurus</List>
+		<List>Millerettidae</List>
+		<List>Eudibamus</List>
+		<List>Belebey</List>
+		<List>Acleistorhinus</List>
+		<List>Lanthanosuchus</List>
+		<List>Bradysaurus</List>
+		<List>Pareiasuchus</List>
+		<List>Scutosaurus</List>
+		<List>Procolophon</List>
+		<List>Owenetta</List>
+		<List>Barasaurus</List>
+		<List>Captorhinidae</List>
+		<List>Paleothyris</List>
+		<List>Araeoscelidia</List>
+		<List>Younginiformes</List>
+		<List>Macroleter</List>
+		<List>Bashkyroleter_mesensis</List>
+		<List>Bashkyroleter_bashkyricus</List>
+		<List>Nycteroleter</List>
+		<List>Emeroleter</List>
+		<List>Tokosaurus</List>
+		<List>Nyctiphruretus</List>
+		<List>Colobomycter</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="137">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Modesto_et_Reisz_2008a</Filename>
+	<Parent>Muller_et_Tsuji_2007a</Parent>
+	<Sibling/>
+</SourceTree>

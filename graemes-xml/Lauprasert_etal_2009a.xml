@@ -1,0 +1,74 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lauprasert, K.</List>
+			<List>Cuny, G.</List>
+			<List>Thirakhupt, K.</List>
+			<List>Suteethorn, V.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>Khoratosuchus jintasakuli gen. et sp. nov., na advanced neosuchian crocodyliform from the Early Cretaceous (Aptian-Albian) of NE Thailand</Title>
+		<Journal>Geological Society, London, Special Publications</Journal>
+		<Volume>315</Volume>
+		<Pages>175-187</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="37">
+		<List>Protosuchus</List>
+		<List>Hemiprotosuchus</List>
+		<List>Orthosuchus</List>
+		<List>Notosuchus</List>
+		<List>Baurusuchus</List>
+		<List>Libycosuchus</List>
+		<List>Sebecus</List>
+		<List>Pelagosaurus</List>
+		<List>Teleosauridae</List>
+		<List>Metriorhynchidae</List>
+		<List>Mahajangasuchus</List>
+		<List>Peirosauridae</List>
+		<List>Hsisosuchus</List>
+		<List>Trematochampsa</List>
+		<List>Uruguaysuchus</List>
+		<List>Malawisuchus</List>
+		<List>Comahuesuchus</List>
+		<List>Simosuchus</List>
+		<List>Araripesuchus</List>
+		<List>Alligatorium</List>
+		<List>Theriosuchus</List>
+		<List>Phoiidosaurus</List>
+		<List>Calsoyasuchus</List>
+		<List>Eutretauranosuchus</List>
+		<List>2Goniopholis_lucasii</List>
+		<List>Sunosuchus_junggarensis</List>
+		<List>Sunosuchus_miaoi</List>
+		<List>Siamosuchus_phuphokensis</List>
+		<List>Goniopholis_simus</List>
+		<List>Goniopholis_baryglyphaeus</List>
+		<List>Khoratosuchus_jintasakulii</List>
+		<List>Rugosuchus_nonganensis</List>
+		<List>Bernissartia</List>
+		<List>Susisuchus</List>
+		<List>Hylaeochampsa</List>
+		<List>Iharkutosuchus</List>
+		<List>Allodaposuchus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="101">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lauprasert_etal_2009a</Filename>
+	<Parent>Lauprasert_etal_2007a</Parent>
+	<Sibling/>
+</SourceTree>

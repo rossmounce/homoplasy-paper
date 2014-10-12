@@ -1,0 +1,88 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Upchurch, P.</List>
+			<List>Barrett, P. M.</List>
+			<List>Dodson, P.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>Sauropoda</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>259-322</Pages>
+		<Booktitle>The Dinosauria (Second Edition)</Booktitle>
+		<Publisher>University of California Press</Publisher>
+		<City>Berkeley</City>
+		<Editor>
+			<List>Weishampel, D. B.</List>
+			<List>Dodson, P.</List>
+			<List>Osmolska, H.</List>
+		</Editor>
+	</Source>
+	<Taxa number="48">
+		<List>Marasuchus</List>
+		<List>Pseudolagosuchus</List>
+		<List>Ornithischia</List>
+		<List>Herrerasaurus</List>
+		<List>Neotheropoda</List>
+		<List>Prosauropoda</List>
+		<List>Vulcanodon</List>
+		<List>Kotasaurus</List>
+		<List>Shunosaurus</List>
+		<List>Atlasaurus</List>
+		<List>Barapasaurus</List>
+		<List>Bellusaurus</List>
+		<List>Camarasaurus</List>
+		<List>Cetiosaurus</List>
+		<List>Euhelopus</List>
+		<List>Haplocanthosaurus</List>
+		<List>Jobaria</List>
+		<List>Lourinhasaurus</List>
+		<List>Mamenchisaurus</List>
+		<List>Nemegtosaurus</List>
+		<List>Nigersaurus</List>
+		<List>Patagosaurus</List>
+		<List>Quaesitosaurus</List>
+		<List>Rayososaurus</List>
+		<List>Aragosaurus</List>
+		<List>Andesaurus</List>
+		<List>Austrosaurus</List>
+		<List>Lapparentosaurus</List>
+		<List>Phuwiangosaurus</List>
+		<List>Pleurocoelus_dash_tex</List>
+		<List>Malawisaurus</List>
+		<List>Gondwanatitan</List>
+		<List>Titanosaurus</List>
+		<List>Lirainosaurus</List>
+		<List>Alamosaurus</List>
+		<List>Argentinosaurus</List>
+		<List>Opisthocoelicaudia</List>
+		<List>Pellegrinisaurus</List>
+		<List>Saltasaurus</List>
+		<List>Brachiosaurus</List>
+		<List>Cedarosaurus</List>
+		<List>Amargasaurus</List>
+		<List>Dicraeosaurus</List>
+		<List>Apatosaurus</List>
+		<List>Barosaurus</List>
+		<List>Diplodocus</List>
+		<List>Omeisaurus</List>
+		<List>Tehuelchesaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="309">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Upchurch_etal_2004b</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Liu, J.</List>
+			<List>Zhao, L.-J.</List>
+			<List>Li, C.</List>
+			<List>He, T.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>Osteology of <em>Concavispina biseridens</em> (Reptilia, Thalattosauria) from the Xiaowa Formation (Carnian), Guanling, Guizhou, China</Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>87</Volume>
+		<Pages>341-350</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="17">
+		<List>Petrolacosaurus_kansensis</List>
+		<List>Youngina_capensis</List>
+		<List>Prolacerta_broomi</List>
+		<List>Agkistrognathus_campebelli</List>
+		<List>Anshunsaurus_huangguoshuensis</List>
+		<List>Anshunsaurus_wushaensis</List>
+		<List>Askeptosaurus_italicus</List>
+		<List>Convavispina_biseridens</List>
+		<List>Clarazia_schinzi</List>
+		<List>Endennasaurus_acutirostris</List>
+		<List>Hescheleria_ruebeli</List>
+		<List>Miodentosaurus_brevis</List>
+		<List>Nectosaurus_halius</List>
+		<List>Paralonectes_merriami</List>
+		<List>Thalattosaurus_alexandrae</List>
+		<List>Thalattosaurus_borealis</List>
+		<List>Xinpusaurus_suni</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="40">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Liu_etal_2013a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

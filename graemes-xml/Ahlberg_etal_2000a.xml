@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ahlberg, P. E.</List>
+			<List>Luksevics, E.</List>
+			<List>Mark-Kurik, E.</List>
+		</Author>
+		<Year>2000</Year>
+		<Title>A near-tetrapod from the Baltic Middle Devonian</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>43</Volume>
+		<Pages>533-548</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="10">
+		<List>Eusthenopteron</List>
+		<List>Panderichthys</List>
+		<List>Elpistostege</List>
+		<List>Livoniana</List>
+		<List>Obruchevichthys</List>
+		<List>Elginerpeton</List>
+		<List>Ventastega</List>
+		<List>Metaxygnathus</List>
+		<List>Acanthostega</List>
+		<List>Ichthyostega</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="34">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ahlberg_etal_2000a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>O'Keefe, F. R.</List>
+			<List>Street, H. P.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>Osteology of the cryptocleidoid plesiosaur <em>Tatenectes laramiensis</em>, with comments on the taxonomic status of the Cimoliasauridae</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>29</Volume>
+		<Pages>48-57</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Plesiosaurus</List>
+		<List>Muraenosaurus</List>
+		<List>Cryptoclidus</List>
+		<List>Tricleidus</List>
+		<List>Kimmerosaurus</List>
+		<List>Aristonectes</List>
+		<List>Edgarosaurus</List>
+		<List>Polycotylus</List>
+		<List>Dolichorhynchops</List>
+		<List>Trinacromerum</List>
+		<List>Brancasaurus</List>
+		<List>Tatenectes</List>
+		<List>Kaiwhekea</List>
+		<List>Thalassiodracon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="90">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>OKeefe_et_Street_2009a</Filename>
+	<Parent>OKeefe_et_Wahl_2003a</Parent>
+	<Sibling/>
+</SourceTree>

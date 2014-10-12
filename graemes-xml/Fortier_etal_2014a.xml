@@ -1,0 +1,66 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Fortier, D. C.</List>
+			<List>De Souza-Filho, J. P.</List>
+			<List>Guilherme, E.</List>
+			<List>Maciente, A. A. R.</List>
+			<List>Schultz, C. L.</List>
+		</Author>
+		<Year>2014</Year>
+		<Title>A new specimen of <em>Caiman brevirostris</em> (Crocodylia, Alligatoridae) from the late Miocene of Brazil</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>34</Volume>
+		<Pages>820-834</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="28">
+		<List>Leidyosuchus_canadensis</List>
+		<List>Diplocynodon_hantoniensis</List>
+		<List>Brachychampsa_montana</List>
+		<List>Alligator_sinensis</List>
+		<List>Alligator_mississippiensis</List>
+		<List>Alligator_mefferdi</List>
+		<List>Alligator_olseni</List>
+		<List>Alligator_mcgrewi</List>
+		<List>Alligator_prenasalis</List>
+		<List>Ceratosuchus_burdoshi</List>
+		<List>Allognathosuchus_polyodon</List>
+		<List>Navajosuchus_mooki</List>
+		<List>Tsoabichi_greenriverensis</List>
+		<List>Purussaurus_mirandae</List>
+		<List>Purussaurus_neivensis</List>
+		<List>Orthogenysuchus_olseni</List>
+		<List>Mourasuchus_atopus</List>
+		<List>Eocaiman_cavernensis</List>
+		<List>Necrosuchus_ionensis</List>
+		<List>Caiman_yacare</List>
+		<List>Caiman_crocodylus</List>
+		<List>Caiman_latirostris</List>
+		<List>Caiman_lutescens</List>
+		<List>Melanosuchus_fisheri</List>
+		<List>Melanosuchus_niger</List>
+		<List>Paleosuchus_trigonatus</List>
+		<List>Paleosuchus_palpebrosus</List>
+		<List>Caiman_brevirostris</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="123">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Fortier_etal_2014a</Filename>
+	<Parent>Brochu_2010a</Parent>
+	<Sibling/>
+</SourceTree>

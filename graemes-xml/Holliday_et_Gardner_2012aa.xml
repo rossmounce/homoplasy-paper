@@ -1,0 +1,80 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Holliday, C. M.</List>
+			<List>Gardner, N. M.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>A new eusuchian crocodyliform with novel cranial integument and its significance for the origin and evolution of Crocodylia</Title>
+		<Journal>PLoS ONE</Journal>
+		<Volume>7</Volume>
+		<Pages>e30471</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="45">
+		<List>Orthosuchus_stormbergi</List>
+		<List>Zosuchus_davidsoni</List>
+		<List>Hsisosuchus_chungkingensis</List>
+		<List>Pelagosaurus_typus</List>
+		<List>Steneosaurus_bollensis</List>
+		<List>Metriorhynchus_superciliosus</List>
+		<List>Geosaurus_suevicus</List>
+		<List>Uruguaysuchus_aznarezi</List>
+		<List>Notosuchus_terrestris</List>
+		<List>Malawisuchus_mwakasyngutiensis</List>
+		<List>Mariliasuchus_amarali</List>
+		<List>Comahuesuchus_brachybuccalis</List>
+		<List>Sphagesaurus_huenei</List>
+		<List>Baurusuchus_pachecoi</List>
+		<List>Baurusuchus_salgadoensis</List>
+		<List>Anatosuchus_minor</List>
+		<List>Simosuchus_clarki</List>
+		<List>Araripesuchus_gomesii</List>
+		<List>Araripesuchus_buitreraensis</List>
+		<List>Araripesuchus_tsangatsangana</List>
+		<List>Araripesuchus_patagonicus</List>
+		<List>Araripesuchus_wegeneri</List>
+		<List>Araripesuchus_rattoides</List>
+		<List>Sebecus_icaeorhinus</List>
+		<List>Hamadasuchus_rebouli</List>
+		<List>Stolokrosuchus_lapparenti</List>
+		<List>Uberabasuchus_terrificus</List>
+		<List>Peirosaurus_tormini</List>
+		<List>Lomasuchus_palebrosus</List>
+		<List>Mahajangasuchus_insignis</List>
+		<List>Kaprosuchus_saharicus</List>
+		<List>Goniopholis_simus</List>
+		<List>Pholidosaurus_purbeckensis</List>
+		<List>Dyrosaurus_phosphaticus</List>
+		<List>Terminonaris_robusta</List>
+		<List>Sarcosuchus_imperator</List>
+		<List>Bernissartia_fagesii</List>
+		<List>Isisfordia_duncani</List>
+		<List>Gavialis_gangeticus</List>
+		<List>Leidyosuchus_canadensis</List>
+		<List>Crocodylus_niloticus</List>
+		<List>Alligator_mississippiensis</List>
+		<List>Laganosuchus_thaumastos</List>
+		<List>Aegyptosuchus_peyeri</List>
+		<List>Aegisuchus_witmerii</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="252">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Holliday_et_Gardner_2012aa</Filename>
+	<Parent>Sereno_et_Larsson_2009a</Parent>
+	<Sibling/>
+</SourceTree>

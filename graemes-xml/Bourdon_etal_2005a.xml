@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Bourdon, E.</List>
+			<List>Bouya, B.</List>
+			<List>Iarochene, M.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>Earliest African neornithine bird: a new species of Prophaethontidae (Aves) from the Paleocene of Morocco</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>25</Volume>
+		<Pages>157-170</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="17">
+		<List>Tinamidae</List>
+		<List>Diomedeidae</List>
+		<List>Hydrobatidae</List>
+		<List>Procellariidae</List>
+		<List>Prophaethon</List>
+		<List>Lithoptila</List>
+		<List>Phaethontidae</List>
+		<List>Fregatidae</List>
+		<List>Pelecanidae</List>
+		<List>Sulidae</List>
+		<List>Phalacrocoracidae</List>
+		<List>Anhingidae</List>
+		<List>Balaenicipitidae</List>
+		<List>Scopidae</List>
+		<List>Spheniscidae</List>
+		<List>Gaviidae</List>
+		<List>Podicipedidae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="47">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Bourdon_etal_2005a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

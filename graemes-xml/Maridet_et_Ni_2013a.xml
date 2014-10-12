@@ -1,0 +1,72 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Maridet, O.</List>
+			<List>Ni, X.-J.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>A new cricetid rodent from the early Oligocene of Yunnan, China, and its evolutionary implications for early Eurasian cricetids</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>33</Volume>
+		<Pages>185-194</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="37">
+		<List>Primisminthus_yuenus</List>
+		<List>Banyuesminthus_uniconjugatus</List>
+		<List>Adelomyarion_vireti</List>
+		<List>Aralocricetodon_schokensis</List>
+		<List>Atavocricetodon_atavus</List>
+		<List>Cricetops_dormitor</List>
+		<List>Deperetomys_intermedius</List>
+		<List>Edirnella_kempeni</List>
+		<List>Enginia_gertcheki</List>
+		<List>Eocricetodon_borealis</List>
+		<List>Eocricetodon_meridionalis</List>
+		<List>Eucricetodon_asiaticus</List>
+		<List>Eucricetodon_caducus</List>
+		<List>Eucricetodon_dubius</List>
+		<List>Eucricetodon_longidens</List>
+		<List>Heterocricetodon_helbingi</List>
+		<List>Kerosinia_variabilis</List>
+		<List>Melissiodon_quercyi</List>
+		<List>Meteamys_alpani</List>
+		<List>Mirabella_tuberosa</List>
+		<List>Muhsinia_steffensi</List>
+		<List>Oxynocricetodon_leptaleos</List>
+		<List>Palasiomys_conulus</List>
+		<List>Pappocricetodon_antiquus</List>
+		<List>Pappocricetodon_rencunensis</List>
+		<List>Pappocricetodon_schaubi</List>
+		<List>Paracricetodon_dehmi</List>
+		<List>Paracricetodon_spectabilis</List>
+		<List>PARACRICETOPS_VIRGATOINCISUS</List>
+		<List>Pseudocricetodon_montalbanensis</List>
+		<List>Pseudocricetodon_thaleri</List>
+		<List>Raricricetodon_minor</List>
+		<List>Raricricetodon_zhongtiaensis</List>
+		<List>Selenomys_mimicus</List>
+		<List>Trakymys_saratji</List>
+		<List>Ulaancricetodon_badamae</List>
+		<List>Witenia_fusca</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="67">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Maridet_et_Ni_2013a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

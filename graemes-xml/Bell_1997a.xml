@@ -1,0 +1,74 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Bell, G. L.</List>
+		</Author>
+		<Year>1997</Year>
+		<Title>A phylogenetic revision of North American and Adriatic Mosasauroidea</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>293-332</Pages>
+		<Booktitle>Ancient Marine Reptiles</Booktitle>
+		<Publisher>Academic Press</Publisher>
+		<City>San Diego</City>
+		<Editor>
+			<List>Callaway, J. M.</List>
+			<List>Nicholls, E. L.</List>
+		</Editor>
+	</Source>
+	<Taxa number="37">
+		<List>OUTGROUP</List>
+		<List>Aigiasaurus_dalmaticus</List>
+		<List>Dallas_Aigiasaurus</List>
+		<List>Opetiosaurus_buccichi</List>
+		<List>Trieste_Aigiasaurus</List>
+		<List>Clidastes_liodontus_KU</List>
+		<List>Clidastes_liodontus_YP</List>
+		<List>Clidastes_mooreville</List>
+		<List>Clidastes_novumsp.</List>
+		<List>Clidastes_propython</List>
+		<List>Ectenosaurus_clidastoid</List>
+		<List>Ectenosaurus_YPcomposit</List>
+		<List>Globidens_alabamaens</List>
+		<List>Globidens_dakotensis</List>
+		<List>Halisaurus_novumsp.</List>
+		<List>Halisaurus_platyspond</List>
+		<List>Halisaurus_sternbergi</List>
+		<List>Halisaurus_cf._sternbergi</List>
+		<List>Mosasaurus_conodon</List>
+		<List>Mosasaurus_indet.</List>
+		<List>Mosasaurus_maximus</List>
+		<List>Mosasaurus_missourien</List>
+		<List>Platecarpus_planifrons</List>
+		<List>Platecarpus_af.somenen</List>
+		<List>Platecarpus_tympanticus_8769</List>
+		<List>Platecarpus_tympanticus_600</List>
+		<List>Plesiotylosaurus_crassidens</List>
+		<List>Plioplatecarpus_AMNHsp.</List>
+		<List>Plioplatecarpus_RMMsp.</List>
+		<List>Plotosaurus_bennisoni</List>
+		<List>Plotosaurus_tuckeri</List>
+		<List>Prognathodon_overtoni</List>
+		<List>Prognathodon_rapax</List>
+		<List>Tylosaurus_nepaeolicu</List>
+		<List>Tylosaurus_novumsp.</List>
+		<List>Tylosaurus_proriger</List>
+		<List>Taxon_novum</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="142">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Bell_1997a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

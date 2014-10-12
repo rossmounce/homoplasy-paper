@@ -1,0 +1,60 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Schoch, R. R.</List>
+			<List>Sues, H.-D.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>A new dissorophid temnospondyl from the Lower Permian of north-central Texas</Title>
+		<Journal>Comptes Rendus Palevol</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="25">
+		<List>Dendrerpeton_acadianum</List>
+		<List>Sclerocephalus_haeuseri</List>
+		<List>Micromelerpeton_credneri</List>
+		<List>Platyrhinops_lyelli</List>
+		<List>Doleserpeton_annectens</List>
+		<List>Acheloma_cumminsi</List>
+		<List>Phonerpeton_pricei</List>
+		<List>Anconastes_vesperus</List>
+		<List>Fedexia_striegeli</List>
+		<List>Tambachia_trogallas</List>
+		<List>Ecolsonia_cutlerensis</List>
+		<List>Aspidosaurus_binasser</List>
+		<List>Platyhystrix_rugosus</List>
+		<List>Dissorophus_multicinctus</List>
+		<List>Broiliellus_texensis</List>
+		<List>Broiliellus_brevis</List>
+		<List>Broiliellus_olsoni</List>
+		<List>Brevidorsum_profundum</List>
+		<List>Conjunctio_multidens</List>
+		<List>Scapanops_neglecta</List>
+		<List>Rio_Arriba_Taxon_Aspidosaurus_novomexicanus</List>
+		<List>Cacops_morrisi</List>
+		<List>Cacops_apidephorus</List>
+		<List>Kamacops_acervalis</List>
+		<List>Zygosaurus_lucius</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="70">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Schoch_et_Sues_inpressb</Filename>
+	<Parent>Schoch_2012a</Parent>
+	<Sibling/>
+</SourceTree>

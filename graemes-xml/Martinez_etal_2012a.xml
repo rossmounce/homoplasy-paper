@@ -1,0 +1,87 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Martinez, R. N.</List>
+			<List>Apaldetti, C.</List>
+			<List>Abelin, D.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>Basal sauropodomorphs from the Ischigualasto Formation</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>32 (supp 1)</Volume>
+		<Pages>51-69</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="51">
+		<List>Euparkeria</List>
+		<List>Crurotarsi</List>
+		<List>Marasuchus</List>
+		<List>Agnosphitys</List>
+		<List>Anchisaurus</List>
+		<List>Antetonitrus</List>
+		<List>Barapasaurus</List>
+		<List>Blikanasaurus</List>
+		<List>Camelotia</List>
+		<List>Cetiosaurus</List>
+		<List>Chindesaurus</List>
+		<List>Coloradisaurus</List>
+		<List>Efraasia</List>
+		<List>Eucnemosaurus</List>
+		<List>Gongxianosaurus</List>
+		<List>Plateosaurus_ingens</List>
+		<List>Guaibasaurus</List>
+		<List>Herrerasaurus</List>
+		<List>Isanosaurus</List>
+		<List>Jingshanosaurus</List>
+		<List>Lessemsaurus</List>
+		<List>Lufengosaurus</List>
+		<List>Mamenchisaurus</List>
+		<List>Massospondylus</List>
+		<List>Melanorosaurus</List>
+		<List>Neosauropoda</List>
+		<List>Neotheropoda</List>
+		<List>Omeisaurus</List>
+		<List>Ornithischia</List>
+		<List>Patagosaurus</List>
+		<List>Plateosaurus_engelhardti</List>
+		<List>Plateosaurus_gracilis</List>
+		<List>Plateosauravus</List>
+		<List>Riojasaurus</List>
+		<List>Ruehleia</List>
+		<List>Shunosaurus</List>
+		<List>Silesaurus</List>
+		<List>Staurikosaurus</List>
+		<List>Tazoudasaurus</List>
+		<List>Thecodontosaurus</List>
+		<List>Pantydraco</List>
+		<List>Unaysaurus</List>
+		<List>Vulcanodon</List>
+		<List>Yunnanosaurus</List>
+		<List>Glacialisaurus</List>
+		<List>MACN_PV_18649a</List>
+		<List>Saturnalia</List>
+		<List>Chromogisaurus</List>
+		<List>Eoraptor</List>
+		<List>Panphagia</List>
+		<List>Pampadromaeus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="378">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Martinez_etal_2012a</Filename>
+	<Parent>Ezcurra_2010a</Parent>
+	<Sibling/>
+</SourceTree>

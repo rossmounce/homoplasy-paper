@@ -1,0 +1,44 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Maisch, M. W.</List>
+			<List>Matzke, A. T.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>Observations on Triassic ichthyosaurs. Part VIII. A redescription of <em>Phalarodon major</em> (von Huene, 1916} and the composition and phylogeny of the Mixosauridae</Title>
+		<Journal>Neues Jahrbuch fur Geologie und Palaontologie Abhandlungen</Journal>
+		<Volume>220</Volume>
+		<Pages>431-447</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="9">
+		<List>Utatsusaurus</List>
+		<List>Grippia</List>
+		<List>Cymbospondylus</List>
+		<List>Mikadocephalus</List>
+		<List>Mixosaurus_cornalianus</List>
+		<List>Mixosaurus_kuhnschnyderi</List>
+		<List>Contectopalatus_atavus</List>
+		<List>Phalarodon_major</List>
+		<List>Phalarodon_nordenskioeldii</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="19">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Maisch_et_Matzke_2001a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

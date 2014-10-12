@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Clark, J. M.</List>
+			<List>Sues, H.-D.</List>
+		</Author>
+		<Year>2002</Year>
+		<Title>Two new basal crocodylomorph archosaurs from the Lower Jurassic and the monophyly of the Sphenosuchia</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>136</Volume>
+		<Pages>77-95</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="13">
+		<List>Stagonolepis</List>
+		<List>Gracilisuchus</List>
+		<List>Postosuchus</List>
+		<List>Litargosuchus</List>
+		<List>Pseudhesperosuchus</List>
+		<List>Hesperosuchus</List>
+		<List>Saltoposuchus</List>
+		<List>Terrestrisuchus</List>
+		<List>Dibothrosuchus</List>
+		<List>Sphenosuchus</List>
+		<List>Kayentasuchus</List>
+		<List>Protosuchus</List>
+		<List>Alligator</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="36">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Clark_et_Sues_2002ad</Filename>
+	<Parent>Clark_etal_2000ab</Parent>
+	<Sibling>Clark_et_Sues_2002ac</Sibling>
+</SourceTree>

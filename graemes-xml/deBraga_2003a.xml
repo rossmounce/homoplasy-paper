@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>deBraga, M.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>The postcranial skeleton, phylogenetic position, and probable lifestyle of the Early Triassic reptile <em>Procolophon trigoniceps</em></Title>
+		<Journal>Canadian Journal of Earth Sciences</Journal>
+		<Volume>40</Volume>
+		<Pages>527-556</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="13">
+		<List>Millerettidae</List>
+		<List>Pareiasauria</List>
+		<List>Procolothon</List>
+		<List>Owenetta</List>
+		<List>Macroleter</List>
+		<List>Lanthanosuchoidea</List>
+		<List>Sclerosaurus</List>
+		<List>Barasaurus</List>
+		<List>Hypsognathus</List>
+		<List>Koiloskiosaurus</List>
+		<List>Leptopleuron</List>
+		<List>Thelegnathus</List>
+		<List>Tichvinskia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="60">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>deBraga_2003a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,44 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Witton, M. P.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>New insights into the skull of Istiodactylus latidens (Ornithocheiroidea, Pterodactyloidea)</Title>
+		<Journal>PLoS ONE</Journal>
+		<Volume>7</Volume>
+		<Pages>e33170</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="10">
+		<List>Pterodactylus</List>
+		<List>Coloborhynchus</List>
+		<List>Pteranodon</List>
+		<List>Haopteru</List>
+		<List>Hongshanopterus</List>
+		<List>Liaoxipterus</List>
+		<List>Nurhachius</List>
+		<List>Istiodactylus_sinensis</List>
+		<List>Istiodactylus_latidens</List>
+		<List>Longchengpterus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="74">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Witton_2012a</Filename>
+	<Parent>Lu_etal_2010b</Parent>
+	<Sibling/>
+</SourceTree>

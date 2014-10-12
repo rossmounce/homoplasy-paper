@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sundberg, F. A.</List>
+		</Author>
+		<Year>1999</Year>
+		<Title>Redescription of <em>Alokistocare subcoronatum</em> (Hall and Whitfield, 1877), the type species of <em>Alokistocare</em>, and the status of Alokistocaridae Resser, 1939B (Ptychopariida: Trilobita, Middle Cambrian)</Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>73</Volume>
+		<Pages>1126-1143</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="19">
+		<List>Ptychoparella_cordillerae</List>
+		<List>Eoptychoparia_piochensis</List>
+		<List>Pianaspis_sors</List>
+		<List>Papyriaspis_lanceola</List>
+		<List>Amecephalus_idahoense</List>
+		<List>Amecephalus_piochensis</List>
+		<List>Amecephalus_cleora</List>
+		<List>Amecephalus_laticaudum</List>
+		<List>Altiocculus_americanus</List>
+		<List>Altiocculus_harrisi</List>
+		<List>Altiocculus_drumensis</List>
+		<List>Altiocculus_concavus</List>
+		<List>Proehmaniella_basilica</List>
+		<List>Ehmaniella_waptaensis</List>
+		<List>Ehmaniella_fronsplanata</List>
+		<List>Elrathiella_euthyopsis</List>
+		<List>Alokistocare_paranotatum</List>
+		<List>Alokistocare_swasii</List>
+		<List>Alokistocare_subcoronatum</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="50">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sundberg_1999aa</Filename>
+	<Parent/>
+	<Sibling>Sundberg_1999ab</Sibling>
+</SourceTree>

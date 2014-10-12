@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Adrain, J. M.</List>
+		</Author>
+		<Year>1998</Year>
+		<Title>Systematics of the Acanthoparyphinae (Trilobita), with species from the Silurian of Arctic Canada</Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>72</Volume>
+		<Pages>698-718</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="24">
+		<List>Hammanopyge_unica</List>
+		<List>Holia_anacantha</List>
+		<List>Holia_secristi_slash_glabra</List>
+		<List>Holia_cimelia</List>
+		<List>Pandaspinapyga_salsa</List>
+		<List>Acanthoparypha_goniopyga</List>
+		<List>Acanthoparypha_echinoderma</List>
+		<List>Acanthoparypha_evitti</List>
+		<List>Acanthoparypha_chiropyra</List>
+		<List>Acanthoparypha_perforata</List>
+		<List>Youngia_boucoti</List>
+		<List>Youngia_steineri</List>
+		<List>Youngia_kathyae</List>
+		<List>Youngia_johnsoni</List>
+		<List>Parayoungia_mclaughlini</List>
+		<List>Parayoungia_tuberculata</List>
+		<List>Parayoungia_eleyae</List>
+		<List>Parayoungia_folinsbeei</List>
+		<List>Parayoungia_brennardi</List>
+		<List>Hyrokybe_copelandi_slash_youngi</List>
+		<List>Hyrokybe_lenzi</List>
+		<List>Hyrokybe_hadnagyi</List>
+		<List>Hyrokybe_julli</List>
+		<List>Hyrokybe_lightfoot_slash_mitchellae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="39">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Adrain_1998a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

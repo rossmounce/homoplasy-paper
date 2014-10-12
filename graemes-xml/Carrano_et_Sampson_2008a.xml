@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Carrano, M. T.</List>
+			<List>Sampson, S. D.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>The phylogeny of Ceratosauria (Dinosauria: Theropoda)</Title>
+		<Journal>Journal of Systematic Palaeontology</Journal>
+		<Volume>6</Volume>
+		<Pages>183-236</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="21">
+		<List>Herrerasaurus</List>
+		<List>Syntarsus</List>
+		<List>Allosaurus</List>
+		<List>Spinostropheus</List>
+		<List>Elaphrosaurus</List>
+		<List>Deltadromeus</List>
+		<List>Ceratosaurus</List>
+		<List>Rugops</List>
+		<List>Ekrixinatosaurus</List>
+		<List>Ilokelesia</List>
+		<List>Aucasaurus</List>
+		<List>Carnotaurus</List>
+		<List>Abelisaurus</List>
+		<List>Rajasaurus</List>
+		<List>Indosaurus</List>
+		<List>Majungatholus</List>
+		<List>Genusaurus</List>
+		<List>Laevisuchus</List>
+		<List>Masiakasaurus</List>
+		<List>Noasaurus</List>
+		<List>Velocisaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="151">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Carrano_et_Sampson_2008a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

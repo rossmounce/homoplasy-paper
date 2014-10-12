@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lu, J.-C.</List>
+			<List>Currie, P. J.</List>
+			<List>Xu, L.</List>
+			<List>Zhang, X.-L.</List>
+			<List>Pu, H.-Y.</List>
+			<List>Jia, S.-H.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>Chicken-sized oviraptorid dinosaurs from central China and their ontogenetic implications</Title>
+		<Journal>Naturwissenschaften</Journal>
+		<Volume>100</Volume>
+		<Pages>165-175</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="19">
+		<List>Herrerasaurus</List>
+		<List>Velociraptor</List>
+		<List>Archaeopteryx</List>
+		<List>Avimimus</List>
+		<List>Caudipteryx</List>
+		<List>Chirostenotes</List>
+		<List>Gigantoraptor</List>
+		<List>Rinchenia</List>
+		<List>Conchoraptor</List>
+		<List>Ingenia</List>
+		<List>Citipati</List>
+		<List>Citipati_sp</List>
+		<List>Khaan</List>
+		<List>Machairasaurus</List>
+		<List>Heyuannia</List>
+		<List>Nemegtomaia</List>
+		<List>Oviraptor</List>
+		<List>Yulong</List>
+		<List>Incisivosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="182">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lu_etal_2013a</Filename>
+	<Parent>Osmolska_etal_2004a</Parent>
+	<Sibling/>
+</SourceTree>

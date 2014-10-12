@@ -1,0 +1,98 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Conrad, J. L.</List>
+			<List>Jenkins, K.</List>
+			<List>Lehmann, T.</List>
+			<List>Manthi, F. K.</List>
+			<List>Peppe, D. J.</List>
+			<List>Nightingale, S.</List>
+			<List>Cossette, A.</List>
+			<List>Dunsworth, H. M.</List>
+			<List>Harcourt-Smith, W. E. H.</List>
+			<List>Mcnulty, K. P.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>New specimens of '<em>Crocodylus</em>' <em>pigotti</em> (Crocodylidae) from Rusinga Island, Kenya, and generic reallocation of the species</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>33</Volume>
+		<Pages>629-646</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="55">
+		<List>Borealosuchus_sternbergii</List>
+		<List>Leidyosuchus_canadensis</List>
+		<List>Mecistops_cataphractus</List>
+		<List>Crocodylus_porosus</List>
+		<List>Crocodylus_rhombifer</List>
+		<List>Crocodylus_acutus</List>
+		<List>Crocodylus_palustris</List>
+		<List>Crocodylus_siamensis</List>
+		<List>Crocodylus_intermedius</List>
+		<List>Crocodylus_johnstoni</List>
+		<List>Crocodylus_mindorensis</List>
+		<List>Crocodylus_novaeguineae</List>
+		<List>Crocodylus_raninus</List>
+		<List>Crocodylus_moreletii</List>
+		<List>Crocodylus_niloticus</List>
+		<List>Kanapoi_Crocodylus_niloticus</List>
+		<List>Crocodylus_palaeindicus</List>
+		<List>Crocodylus_checchiai</List>
+		<List>Crocodylus_anthropophagus</List>
+		<List>Crocodylus_thorbjarnarsoni</List>
+		<List>Euthecodon_brumpti</List>
+		<List>Euthecodon_arambourgii</List>
+		<List>Osteolaemus_tetraspis</List>
+		<List>Osteolameus_osborni</List>
+		<List>Voay_robustus</List>
+		<List>Rimasuchus_lloydi</List>
+		<List>KNM_LT_24081</List>
+		<List>Brochuchus_pigotti</List>
+		<List>Crocodylus_gariepensis</List>
+		<List>Crocodylus_megarhinus</List>
+		<List>Australosuchus_clarkae</List>
+		<List>Kambara_implexidens</List>
+		<List>Trilophosuchus_rackhami</List>
+		<List>Quinkana_spp</List>
+		<List>Tomistoma_schlegelii</List>
+		<List>Tomistoma_lusitanica</List>
+		<List>Tomistoma_petrolica</List>
+		<List>Toyotamaphimaea_chikanensis</List>
+		<List>Penghusuchus_pani</List>
+		<List>Gavialosuchus_eggenbergensis</List>
+		<List>Paratomistoma_courtii</List>
+		<List>Megadontosaurus_arduini</List>
+		<List>Tomistoma_cairense</List>
+		<List>Thecachampsa_antiqua</List>
+		<List>Thecachampsa_americana</List>
+		<List>Thecachampsa_carolinense</List>
+		<List>Dollosuchus_densmorei</List>
+		<List>Kentisuchus_spenceri</List>
+		<List>Brachyuranochampsa_eversolei</List>
+		<List>Crocodylus_acer</List>
+		<List>Asiatosuchus_grangeri</List>
+		<List>Crocodylus_depressifrons</List>
+		<List>Crocodylus_affinis</List>
+		<List>Asiatosuchus_germanicus</List>
+		<List>Prodiplocynodon_langi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="189">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Conrad_etal_2013a</Filename>
+	<Parent>Brochu_et_Storrs_2012a</Parent>
+	<Sibling/>
+</SourceTree>

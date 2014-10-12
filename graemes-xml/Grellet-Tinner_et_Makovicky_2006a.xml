@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Grellet-Tinner, G.</List>
+			<List>Makovicky, P. J.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>A possible egg of the dromaeosaur Deinonychus antirrhopus: phylogenetic and biological implications</Title>
+		<Journal>Canadian Journal of Earth Sciences</Journal>
+		<Volume>43</Volume>
+		<Pages>705-719</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Alligator</List>
+		<List>Titanosauridae</List>
+		<List>Hadrosaurid</List>
+		<List>Gallus_gallus</List>
+		<List>Lithornis_vulturinus</List>
+		<List>Lithornis_celetius</List>
+		<List>Rhea_americana</List>
+		<List>Troodon_formosus</List>
+		<List>Byronosaurus_jaffei</List>
+		<List>Ornithothoracine</List>
+		<List>Phu_Phok_eggs</List>
+		<List>Citipati_osmolskae</List>
+		<List>Deinonychus_antirrhopus</List>
+		<List>Macroelongatoolithus_xixiaensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="19">
+			<Type>Eggs and nesting</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Grellet-Tinner_et_Makovicky_2006a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

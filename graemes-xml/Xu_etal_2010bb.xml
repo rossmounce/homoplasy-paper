@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Xu, X.</List>
+			<List>Wang, K.-B.</List>
+			<List>Zhao, X.-J.</List>
+			<List>Sullivan, C.</List>
+			<List>Chen, S.-Q.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>A new leptoceratopsid (Ornithischia: Ceratopsia) from the Upper Cretaceous of Shandong, China and its implications for neoceratopsian evolution</Title>
+		<Journal>PLoS One</Journal>
+		<Volume>5</Volume>
+		<Pages>1-14</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="18">
+		<List>Pachycephalosauria</List>
+		<List>Chaoyangsaurus</List>
+		<List>Psittacosauridae</List>
+		<List>Liaoceratops</List>
+		<List>Archaeoceratops</List>
+		<List>IGM_100_slash_1315</List>
+		<List>Graciliceratops</List>
+		<List>Bagaceratops</List>
+		<List>Protoceratops</List>
+		<List>Zuniceratops</List>
+		<List>Centrosaurus</List>
+		<List>Triceratops</List>
+		<List>Cerasinops</List>
+		<List>Udanoceratops</List>
+		<List>Leptoceratops</List>
+		<List>Zhuchengceratops_inexpectus</List>
+		<List>Montanoceratops</List>
+		<List>Prenoceratops</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="122">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Xu_etal_2010bb</Filename>
+	<Parent>Chinnery_et_Horner_2007a</Parent>
+	<Sibling/>
+</SourceTree>

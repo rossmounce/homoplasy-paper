@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Chinnery, B. J.</List>
+			<List>Horner, J. R.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>A new neoceratopsian dinosaur linking North American and Asian taxa</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>27</Volume>
+		<Pages>625-641</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="17">
+		<List>Pachycephalosauria</List>
+		<List>Chaoyangsaurus</List>
+		<List>Psittacosauridae</List>
+		<List>Liaoceratops</List>
+		<List>Archaeoceratops</List>
+		<List>IGM_100_slash_1315</List>
+		<List>Graciliceratops</List>
+		<List>Bagaceratops</List>
+		<List>Protoceratops</List>
+		<List>Zuniceratops</List>
+		<List>Centrosaurus</List>
+		<List>Triceratops</List>
+		<List>Cerasinops</List>
+		<List>Udanoceratops</List>
+		<List>Leptoceratops</List>
+		<List>Montanoceratops</List>
+		<List>Prenoceratops</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="122">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Chinnery_et_Horner_2007a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Gardiner, B. G.</List>
+			<List>Scaheffer, B.</List>
+			<List>Masserie, J. A.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>A review of the lower actinopterygian phylogeny</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>144</Volume>
+		<Pages>511-525</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="15">
+		<List>Outgroup</List>
+		<List>Cheirolepis</List>
+		<List>Acipenserformes</List>
+		<List>Australosomus</List>
+		<List>Birgeria</List>
+		<List>Boreosomus</List>
+		<List>Howqualepis</List>
+		<List>Kentuckia</List>
+		<List>Mimia</List>
+		<List>Moythomasia</List>
+		<List>Neopterygian</List>
+		<List>Perleidus</List>
+		<List>Polypterus</List>
+		<List>Pteronisculus</List>
+		<List>Saurichthys</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="38">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Gardiner_etal_2005a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Salgado, L.</List>
+			<List>Coria, R. A.</List>
+			<List>Calvo, J. O.</List>
+		</Author>
+		<Year>1997</Year>
+		<Title>Evolution of titanosaurid sauropods. I: Phylogenetic analysis based on the postcranial evidence</Title>
+		<Journal>Ameghiniana</Journal>
+		<Volume>34</Volume>
+		<Pages>3-32</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="18">
+		<List>Theropoda</List>
+		<List>Prosauropoda</List>
+		<List>Vulcanodon_caribaensis</List>
+		<List>Barapasaurus_tagorei</List>
+		<List>Diplodocidae</List>
+		<List>Camarasauridae</List>
+		<List>Brachiosaurus_brancai</List>
+		<List>Chubutisaurus_insignis</List>
+		<List>Andesaurus_delgadoi</List>
+		<List>Epachtosaurus_sciuttoi</List>
+		<List>Malawisaurus_dixeyi</List>
+		<List>Argentinosaurus_huinculensis</List>
+		<List>Opisthocoelicaudia_skarznskii</List>
+		<List>Titanosaurinae_indet.</List>
+		<List>Aeoloasurus</List>
+		<List>Alamosaurus_sanjuanensis</List>
+		<List>Neuquensaurus_australis</List>
+		<List>Saltasaurus_loricattus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="38">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Salgado_etal_1997a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

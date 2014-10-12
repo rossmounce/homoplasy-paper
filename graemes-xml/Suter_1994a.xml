@@ -1,0 +1,105 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Suter, S. J.</List>
+		</Author>
+		<Year>1994</Year>
+		<Title>Cladistic analysis of cassiduloid echinoids trying to see the phylogeny for the trees</Title>
+		<Journal>Biological Journal of the Linnean Society</Journal>
+		<Volume>53</Volume>
+		<Pages>31-72</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="71">
+		<List>Hyboclypus</List>
+		<List>Galeropygus</List>
+		<List>Clypeus</List>
+		<List>Astrolampas</List>
+		<List>Bothryopneustes</List>
+		<List>Pseudopygurus</List>
+		<List>Pygurus_M</List>
+		<List>Pygurus_P</List>
+		<List>Pygurus_Pp</List>
+		<List>Nucleolites</List>
+		<List>Catopygus</List>
+		<List>Hemicara</List>
+		<List>Hypopygurus</List>
+		<List>Oolopygus</List>
+		<List>Phyllobrissus</List>
+		<List>Plagiochasma</List>
+		<List>Pygaulus</List>
+		<List>Pygopistes</List>
+		<List>Pygorhynchus</List>
+		<List>Rhopostoma</List>
+		<List>Apatopygus</List>
+		<List>Porterpygus</List>
+		<List>Archiacia</List>
+		<List>Claviaster</List>
+		<List>Acriaster</List>
+		<List>Gentilia</List>
+		<List>Faujasia</List>
+		<List>Australanthus</List>
+		<List>Domechinus</List>
+		<List>Gongrochanus</List>
+		<List>Hardouinia</List>
+		<List>Lefortia</List>
+		<List>Petalobrissus</List>
+		<List>Pygidiolampas</List>
+		<List>Pygurostoma</List>
+		<List>Stigmatopygu</List>
+		<List>Cassiduluss</List>
+		<List>Eurhodia</List>
+		<List>Hypsopygaster</List>
+		<List>Nucleopygus</List>
+		<List>Ochetes</List>
+		<List>Oligopodia</List>
+		<List>Rhyncholampas</List>
+		<List>Rhynchopygus</List>
+		<List>Echinolampas</List>
+		<List>Arnaudaster</List>
+		<List>Conolampas</List>
+		<List>Parapygus</List>
+		<List>Plesiolampas</List>
+		<List>Conoclypus</List>
+		<List>Clypeolampas</List>
+		<List>Vologesia</List>
+		<List>Pliolampas</List>
+		<List>Gitolampas</List>
+		<List>Ilarionia</List>
+		<List>Kephrenia</List>
+		<List>Neocatopygus</List>
+		<List>Pseudopygaulus</List>
+		<List>Santeelampas</List>
+		<List>Studeria</List>
+		<List>Termieria</List>
+		<List>Zuffardia</List>
+		<List>Neolampas</List>
+		<List>Nannolampas</List>
+		<List>Pisolampas</List>
+		<List>Tropholampus</List>
+		<List>Oligopygus</List>
+		<List>Haimea</List>
+		<List>Togocyamus</List>
+		<List>Clypeaster</List>
+		<List>Laganum</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="40">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Suter_1994a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

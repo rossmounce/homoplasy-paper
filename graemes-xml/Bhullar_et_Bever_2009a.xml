@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Bhullar, B.-A. S.</List>
+			<List>Bever, G. S.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>An archosaur-like laterosphenoid in early turtles (Reptilia: Pantestudines)</Title>
+		<Journal>Breviora</Journal>
+		<Volume>518</Volume>
+		<Pages>1-11</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="24">
+		<List>Petrolacosaurus</List>
+		<List>Youngina</List>
+		<List>Gephyrosaurus</List>
+		<List>Squamata</List>
+		<List>Prolacerta</List>
+		<List>Macrocnemus</List>
+		<List>Tanystropheus</List>
+		<List>Trilophosaurus</List>
+		<List>Howesia</List>
+		<List>Mesosuchus</List>
+		<List>Rhynchosaurus</List>
+		<List>Scaphonyx</List>
+		<List>Stenaulorhynchus</List>
+		<List>Hyperodapedon</List>
+		<List>Proterosuchus</List>
+		<List>Euparkeria</List>
+		<List>Champsosaurus</List>
+		<List>Cteniogenys</List>
+		<List>Lazurussuchus</List>
+		<List>Protorosaurus</List>
+		<List>Megalancosaurus</List>
+		<List>Langobardisaurus</List>
+		<List>Drepanosaurus</List>
+		<List>Proganochelys_quenstedti</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="147">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Bhullar_et_Bever_2009a</Filename>
+	<Parent>Dilkes_1998a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,69 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Varricchio, D. J.</List>
+		</Author>
+		<Year>2002</Year>
+		<Title>A new bird from the Upper Cretaceous Two Medicine Formation of Montana</Title>
+		<Journal>Canadian Journal of Earth Sciences</Journal>
+		<Volume>39</Volume>
+		<Pages>19-26</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="35">
+		<List>Troodon_formosus</List>
+		<List>Deinonychus_antirrhopus</List>
+		<List>Struthio_camelus</List>
+		<List>Neuquenornis_volans</List>
+		<List>Diomedea_irrorata</List>
+		<List>Gavia_arctica</List>
+		<List>Sula_basana</List>
+		<List>Scopus_umbretta</List>
+		<List>Phoenicopterus_sp.</List>
+		<List>Buteo_jamaicensis</List>
+		<List>Aythya_affinis</List>
+		<List>Turnix_varia</List>
+		<List>Aramus_guarauna</List>
+		<List>Himantopus_mexicanus</List>
+		<List>Pterocles_quadricinctus</List>
+		<List>Columba_palumba</List>
+		<List>Nestor_notabilis</List>
+		<List>Tauraco_hartlaubi</List>
+		<List>Coccyzus_erythro</List>
+		<List>Opisthocomus_hoazin</List>
+		<List>Tyto_alba</List>
+		<List>Lithornis_sp.</List>
+		<List>Presbyornis_sp.</List>
+		<List>Telmabates_antiquus</List>
+		<List>Torotix_clemensi</List>
+		<List>Icthyornis</List>
+		<List>Sandcoleus_copiosus</List>
+		<List>Cryptureilus_soui</List>
+		<List>Palaeortyx_gallica</List>
+		<List>Goura_cristata</List>
+		<List>Ortalis_motmot</List>
+		<List>Dendragapus_obscurus</List>
+		<List>Piksi_barbaruna</List>
+		<List>Podiceps_cristatus</List>
+		<List>Telmatornis_priscus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="26">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Varricchio_2002a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

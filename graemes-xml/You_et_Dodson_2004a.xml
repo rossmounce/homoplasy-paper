@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>You, H.-L.</List>
+			<List>Dodson, P.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>Basal Ceratopsia</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>478-493</Pages>
+		<Booktitle>The Dinosauria (Second Edition)</Booktitle>
+		<Publisher>University of California Press</Publisher>
+		<City>Berkeley</City>
+		<Editor>
+			<List>Weishampel, D. B.</List>
+			<List>Dodson, P.</List>
+			<List>Osmolska, H.</List>
+		</Editor>
+	</Source>
+	<Taxa number="11">
+		<List>Hypsilophodon_foxii</List>
+		<List>Stegoceras_validum</List>
+		<List>Psittacosaurus_mongoliensis</List>
+		<List>Chaoyangsaurus_youngi</List>
+		<List>Archaeoceratops_oshimai</List>
+		<List>Leptoceratops_gracilis</List>
+		<List>Montanoceratops_cerorhynchus</List>
+		<List>Triceratops_horridus</List>
+		<List>Centrosaurus_apertus</List>
+		<List>Bagaceratops_rozhdestvenskyi</List>
+		<List>Protoceratops_andrews</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="148">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>You_et_Dodson_2004a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

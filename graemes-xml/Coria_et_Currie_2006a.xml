@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Coria, R. A.</List>
+			<List>Currie, P. J.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>A new carcharodontosaurid (Dinosauria, Theropoda) from the Upper Cretaceous of Argentina</Title>
+		<Journal>Geodiversitas</Journal>
+		<Volume>28</Volume>
+		<Pages>71-118</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List>Herrerasaurus</List>
+		<List>Abelisauridae</List>
+		<List>Monolophosaurus</List>
+		<List>Sinraptoridae</List>
+		<List>Acrocanthosaurus</List>
+		<List>Allosaurus</List>
+		<List>Carcharodontosaurus</List>
+		<List>Giganotosaurus</List>
+		<List>Mapusaurus</List>
+		<List>Tyrannosauridae</List>
+		<List>Dromaeosauridae</List>
+		<List>Oviraptorosauria</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="110">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Coria_et_Currie_2006a</Filename>
+	<Parent>Currie_et_Carpenter_2000a</Parent>
+	<Sibling/>
+</SourceTree>

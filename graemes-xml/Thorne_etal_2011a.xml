@@ -1,0 +1,68 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Thorne, P. M.</List>
+			<List>Ruta, M.</List>
+			<List>Benton, M. J.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>Resetting the evolution of marine reptiles at the Triassic-Jurassic boundary</Title>
+		<Journal>Proceedings of the National Academy of Sciences USA</Journal>
+		<Volume>108</Volume>
+		<Pages>8339-8344</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="32">
+		<List>Petrolacosaurus</List>
+		<List>Utatsusaurus</List>
+		<List>Grippia</List>
+		<List>Parvinatator</List>
+		<List>Chaohusaurus</List>
+		<List>Cymbospondylus</List>
+		<List>Mixosaurus</List>
+		<List>Phalarodon</List>
+		<List>Xinminosaurus</List>
+		<List>Besanosaurus</List>
+		<List>Shastasaurus</List>
+		<List>Shonisaurus</List>
+		<List>Callawayia</List>
+		<List>Guizhouichthyosaurus</List>
+		<List>Californosaurus</List>
+		<List>Toretocnemus</List>
+		<List>Qianichthyosaurus</List>
+		<List>Hudsonelpidia</List>
+		<List>Macgowania</List>
+		<List>Suevoleviathan</List>
+		<List>Temnodontosaurus</List>
+		<List>Leptonectes</List>
+		<List>Excalibosaurus</List>
+		<List>Eurhinosaurus</List>
+		<List>Ichthyosaurus</List>
+		<List>Stenopterygius</List>
+		<List>Brachypterygius</List>
+		<List>Ophthalmosaurus</List>
+		<List>Aegirosaurus</List>
+		<List>Caypullisaurus</List>
+		<List>Platypterygius</List>
+		<List>Maiaspondylus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="105">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Thorne_etal_2011a</Filename>
+	<Parent>Motani_1999a</Parent>
+	<Sibling/>
+</SourceTree>

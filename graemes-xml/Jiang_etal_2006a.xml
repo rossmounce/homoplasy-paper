@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Jiang, D.-Y.</List>
+			<List>Schmitz, L.</List>
+			<List>Hao, W.-C.</List>
+			<List>Sun, Y.-L.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>A new mixosaurid ichthyosaur from the Middle Triassic of China</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>26</Volume>
+		<Pages>60-69</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="9">
+		<List>Utatsusaurus</List>
+		<List>Grippia</List>
+		<List>Cymbospondylus</List>
+		<List>Mixosaurus_panxianensis</List>
+		<List>Phalarodon_fraasi</List>
+		<List>Phalarodon_callawayi</List>
+		<List>Phalarodon_atavus</List>
+		<List>Mixosaurus_cornalianus</List>
+		<List>Mixosaurus_kuhnschnyderi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="23">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Jiang_etal_2006a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

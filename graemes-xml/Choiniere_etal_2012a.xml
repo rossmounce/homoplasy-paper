@@ -1,0 +1,133 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Choiniere, J. N.</List>
+			<List>Forster, C. A.</List>
+			<List>de Klerk, W. J.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>New information on Nqwebasaurus thwazi, a coelurosaurian theropod from the Early Cretaceous (Hauteriverian?) Kirkwood Formation in South Africa</Title>
+		<Journal>Journal of African Earth Sciences</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="97">
+		<List>Eoraptor_lunensis</List>
+		<List>Herrerasaurus_ischigualastensis</List>
+		<List>Nqwebasaurus_thwazi</List>
+		<List>Acrocanthosaurus_atokensis</List>
+		<List>Afrovenator_abakensis</List>
+		<List>Albertosaurus_sarcophagus</List>
+		<List>Allosaurus_fragilis</List>
+		<List>Alvarezsaurus_calvoi</List>
+		<List>Alxasaurus_elesitaiensis</List>
+		<List>Anserimimus_planinychus</List>
+		<List>Apsaravis_ukhaana</List>
+		<List>Archaeopteryx_lithographica</List>
+		<List>Avimimus_portentosus</List>
+		<List>Beipiaosaurus_inexpectus</List>
+		<List>Beishanlong_grandis</List>
+		<List>Buitreraptor_gonzalezorum</List>
+		<List>Byronosaurus_jaffeei</List>
+		<List>Carnotaurus_sastrei</List>
+		<List>Caudipteryx_zhoui</List>
+		<List>Ceratosaurus_nasicornis</List>
+		<List>Chirostenotes_pergracilis</List>
+		<List>Citipati_osmolskae</List>
+		<List>Coelophysis_bauri</List>
+		<List>Compsognathus_longipes</List>
+		<List>Conchoraptor_gracilis</List>
+		<List>Confuciusornis_sanctus</List>
+		<List>Cryolophosaurus_ellioti</List>
+		<List>Daspletosaurus_torosus</List>
+		<List>Deinonychus_antirrhopus</List>
+		<List>Dilong_paradoxus</List>
+		<List>Dilophosaurus_wetherilli</List>
+		<List>Dromaeosaurus_albertensis</List>
+		<List>EK_troodontid</List>
+		<List>Epidexipteryx_hui</List>
+		<List>Erlikosaurus_andrewsi</List>
+		<List>Eustreptospondylus_oxiensis</List>
+		<List>Falcarius_utahensis</List>
+		<List>Gallimimus_bullatus</List>
+		<List>Garudimimus_brevipes</List>
+		<List>Giganotosaurus_carolinii</List>
+		<List>Gigantoraptor_erlianensis</List>
+		<List>Gorgosaurus_libratus</List>
+		<List>Guanlong_wucaii</List>
+		<List>Haplocheirus_sollers</List>
+		<List>Harpymimus_okladnikovi</List>
+		<List>Huaxiagnathus_orientalis</List>
+		<List>Incisivosaurus_gauthieri</List>
+		<List>Limusaurus_inextricabilis</List>
+		<List>Linheraptor_exquisitus</List>
+		<List>Mahakala_omnogovae</List>
+		<List>Majungasaurus_crenatissimus</List>
+		<List>Mapusaurus_roseae</List>
+		<List>Masiakasaurus_knopfleri</List>
+		<List>Megalosaurus_bucklandii</List>
+		<List>Mei_long</List>
+		<List>Microraptor_gui</List>
+		<List>Microvenator_celer</List>
+		<List>Monolophosaurus_jiangi</List>
+		<List>Mononykus_olecranus</List>
+		<List>Neovenator_salerii</List>
+		<List>Nothronychus_graffami</List>
+		<List>Ornitholestes_hermanni</List>
+		<List>Ornithomimus_edmontonicus</List>
+		<List>Oviraptor_philoceratops</List>
+		<List>Parvicursor_remotus</List>
+		<List>Patagonykus_puertai</List>
+		<List>Pelecanimimus_polyodon</List>
+		<List>Piatnitzkysaurus_floresi</List>
+		<List>Proceratosaurus_bradleyi</List>
+		<List>Rahonavis_ostromi</List>
+		<List>Rinchenia_mongoliensis</List>
+		<List>Sapeornis_chaoyangensis</List>
+		<List>Saurornithoides_mongoliensis</List>
+		<List>Saurornitholestes_langstoni</List>
+		<List>Segnosaurus_galboensis</List>
+		<List>Shenzhousaurus_orientalis</List>
+		<List>Shuvuuia_deserti</List>
+		<List>Sinornithoides_youngi</List>
+		<List>Sinornithosaurus_millenii</List>
+		<List>Sinosauropteryx_prima</List>
+		<List>Sinovenator_changii</List>
+		<List>Sinraptor_dongi</List>
+		<List>Stokesosaurus_langhami</List>
+		<List>Struthiomimus_altus</List>
+		<List>Suchomimus_tenerensis</List>
+		<List>Syntarsus_rhodesiensis</List>
+		<List>Tanycolagreus_topwilsoni</List>
+		<List>Tarbosaurus_bataar</List>
+		<List>Tawa_hallae</List>
+		<List>Torvosaurus_tanneri</List>
+		<List>Troodon_formosus</List>
+		<List>Tsaagan_mangas</List>
+		<List>Tyrannosaurus_rex</List>
+		<List>Unenlagia_comahuensis</List>
+		<List>Velociraptor_mongoliensis</List>
+		<List>Zanabazar_junior</List>
+		<List>Zuolong_salleei</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="568">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Choiniere_etal_inpress</Filename>
+	<Parent>Choiniere_etal_2010b</Parent>
+	<Sibling/>
+</SourceTree>

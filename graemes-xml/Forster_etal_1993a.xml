@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Forster, C. A.</List>
+			<List>Sereno, P. C.</List>
+			<List>Evans, T. W.</List>
+			<List>Rowe, T.</List>
+		</Author>
+		<Year>1993</Year>
+		<Title>A complete skull of Chasmosaurus mariscalensis (Dinosauria: Ceratopsidae) from the Aguja Formation (late Campanian) of West Texas</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>13</Volume>
+		<Pages>161-170</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="6">
+		<List>Centrosaurinae</List>
+		<List>Other_chasmosaurines</List>
+		<List>Pentaceratops_sternbergii</List>
+		<List>Chasmosaurus_mariscalensis</List>
+		<List>Chasmosaurus_russelli</List>
+		<List>Chasmosaurus_belli</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="9">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Forster_etal_1993a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,61 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Butler, R. J.</List>
+			<List>Rauhut, O. W. M.</List>
+			<List>Stocker, M. R.</List>
+			<List>Bronowicz, R.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>Redescription of the phytosaurs <em>Paleorhinus</em> ('<em>Francosuchus</em>’) <em>angustifrons</em> and <em>Ebrachosuchus neukami</em> from Germany, with implications for Late Triassic biochronology</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="24">
+		<List>Euparkeria_capensis</List>
+		<List>Paleorhinus_scurriensis</List>
+		<List>Paleorhinus_bransoni</List>
+		<List>Paleorhinus_angusti</List>
+		<List>Ebrachosuchus_neukami</List>
+		<List>Paleorhinus_sawini</List>
+		<List>Brachysuchus_megalodon</List>
+		<List>Angistorhinus</List>
+		<List>Rutiodon_carolinensis</List>
+		<List>Phytosaurus_doughtyi</List>
+		<List>Leptosuchus_crosbiensis</List>
+		<List>Leptosuchus_imperfecta</List>
+		<List>Leptosuchus_studeri</List>
+		<List>Leptosuchus_adamanensis</List>
+		<List>Machaeroprosopus_litho</List>
+		<List>Machaeroprosopus_zunii</List>
+		<List>Smilosuchus_gregorii</List>
+		<List>Pravusuchus</List>
+		<List>Protome_batalaria</List>
+		<List>TMM_31173_120</List>
+		<List>Pseudopalatus_jablonskiae</List>
+		<List>Pseudopalatus_mccauleyi</List>
+		<List>Pseudopalatus_pristinus</List>
+		<List>Mystriosuchus_westphali</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="46">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Butler_etal_inpressa</Filename>
+	<Parent>Stocker_2010a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ji, Q.</List>
+			<List>Ji, S.-A.</List>
+			<List>Lu, J.-C.</List>
+			<List>You, H.-L.</List>
+			<List>Chen, W.</List>
+			<List>Liu, Y.-Q.</List>
+			<List>Liu, Y.-X.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>First avialian bird from China</Title>
+		<Journal>Geological Bulletin of China</Journal>
+		<Volume>24</Volume>
+		<Pages>197-210</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="25">
+		<List>Huaxiagnathus_orientalis</List>
+		<List>Sinosauropteryx_prima</List>
+		<List>Caudipteryx_zoui</List>
+		<List>Sinovenator_changii</List>
+		<List>Microraptor_zhaoianus</List>
+		<List>Shenzhouraptor_sinensis</List>
+		<List>Confuciusornis_sanctus</List>
+		<List>Patagopteryx_deferrariisi</List>
+		<List>Apsaravis_ukhaana</List>
+		<List>Ichthyornis</List>
+		<List>Crypturellus</List>
+		<List>Gallus_gallus</List>
+		<List>Crax_pauxi</List>
+		<List>Anas_platyrhynchos</List>
+		<List>Chauna_torquata</List>
+		<List>Neuquenornis_volans</List>
+		<List>Gobipteryx_minute</List>
+		<List>Cathayornis_yandica</List>
+		<List>Concornis_lacustris</List>
+		<List>Archaeopteryx_lithographica</List>
+		<List>Jinfengopteryx_elegans</List>
+		<List>Sapeornis_chaoyangensis</List>
+		<List>Protarchaeopteryx_robusta</List>
+		<List>Rahonavis_ostromi</List>
+		<List>Sinornithosaurus_millenii</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="205">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ji_etal_2005a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

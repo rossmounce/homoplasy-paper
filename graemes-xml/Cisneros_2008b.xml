@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Cisneros, J. C.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>Phylogenetic relationships of procolophonid parareptiles with remarks on their geological record</Title>
+		<Journal>Journal of Systematic Palaeontology</Journal>
+		<Volume>6</Volume>
+		<Pages>345-366</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="23">
+		<List>Nyctiphruretus_acudens</List>
+		<List>Owenettidae</List>
+		<List>Coletta_seca</List>
+		<List>Pintosaurus_magnidentis</List>
+		<List>Sauropareion_anoplus</List>
+		<List>Phaanthosaurus_spp</List>
+		<List>Eumetabolodon_dongshengensis</List>
+		<List>Theledectes_perforatus</List>
+		<List>Tichvinskia_vjatkensis</List>
+		<List>Timanophon_raridentatus</List>
+		<List>Kapes_spp</List>
+		<List>Thelephon_contritus</List>
+		<List>Eumetabolodon_bathycephalus</List>
+		<List>Procolophon_trigoniceps</List>
+		<List>Thelerpeton_oppressus</List>
+		<List>Teratophon_spinigenis</List>
+		<List>Pentaedrusaurus_ordocianus</List>
+		<List>Neoprocolophon_asiaticus</List>
+		<List>Sclerosaurus_armatus</List>
+		<List>Scoloparia_glyphanodon</List>
+		<List>Leptopleuron_lacertinum</List>
+		<List>Soturnia_caliodon</List>
+		<List>Hypsognathus_fenneri</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="58">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Cisneros_2008b</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

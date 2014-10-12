@@ -1,0 +1,44 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ryan, M. J.</List>
+			<List>Russell, A. P.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>A new centrosaurine ceratopsid from the Oldman Formation of Alberta and its implications for centrosaurine taxonomy and systematics</Title>
+		<Journal>Canadian Journal of Earth Sciences</Journal>
+		<Volume>42</Volume>
+		<Pages>1369-1387</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="9">
+		<List>Outgroup</List>
+		<List>Chasmosaurine</List>
+		<List>Centrosaurus_apertus</List>
+		<List>C._brinkmani</List>
+		<List>Styracosaurus</List>
+		<List>Einiosaurus</List>
+		<List>Achelosaurus</List>
+		<List>Pachyrhinosaurus_n.sp.</List>
+		<List>P.canadensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="17">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ryan_et_Russell_2005aa</Filename>
+	<Parent/>
+	<Sibling>Ryan_et_Russell_2005ab</Sibling>
+</SourceTree>

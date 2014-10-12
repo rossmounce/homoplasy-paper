@@ -1,0 +1,84 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Dietze, K.</List>
+		</Author>
+		<Year>2000</Year>
+		<Title>A revision of paramblypterid and amblypterid actinopterygians from Upper Carboniferous-Lower Permian lacustrine deposits of Central Europe</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>43</Volume>
+		<Pages>927-966</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="50">
+		<List>Cheirolepis_trailli</List>
+		<List>Acrolepis_sedgwicki</List>
+		<List>Aeduella_blainvillei</List>
+		<List>Aetherthmon_valentiacum</List>
+		<List>Akanolepis_decernans</List>
+		<List>Amblypterus_latus</List>
+		<List>Australichthys_longidorsalis</List>
+		<List>Belichthys_minimus</List>
+		<List>Boreosomus_piveteaui</List>
+		<List>Cheirolepis_canadensis</List>
+		<List>Coccocephalus_wildi</List>
+		<List>Commentrya_traquairi</List>
+		<List>Cornuboniscus_budensis</List>
+		<List>Cycloptychius_concentricus</List>
+		<List>Cylindrichthys_macropterus</List>
+		<List>Cylindrichthys_vasilenkoi</List>
+		<List>Cyranorhis_bergeraci</List>
+		<List>Dicellopygemacrodentata</List>
+		<List>Eigilia_nielseni</List>
+		<List>Elonichthys_palatinus</List>
+		<List>Fubarichthys_copiosus</List>
+		<List>Gardineria_akkolkensis</List>
+		<List>Gonatodus_punctatus</List>
+		<List>Gyrolepidotes_schmidti</List>
+		<List>Howqualepis_rostridens</List>
+		<List>Karaoungaria_kleimani</List>
+		<List>Kenderlichthys_tuberculatus</List>
+		<List>Mansreldiscus_sweeti</List>
+		<List>Mentzichthys_jubbi</List>
+		<List>Mimia_toombsi</List>
+		<List>Moythomasia_durgaringa</List>
+		<List>Moythomasia_nitida</List>
+		<List>Namaichthys_schroederi</List>
+		<List>Nematoptychius_greenocki</List>
+		<List>Osorioichthys_marginis</List>
+		<List>Palaeoniscumfreieslebeni</List>
+		<List>Paramblypterus_decorus</List>
+		<List>Paramblypterus_duvernoy</List>
+		<List>Paramblypterus_gelberti</List>
+		<List>Paramblypterus_rohani</List>
+		<List>Phanerosteon_phonax</List>
+		<List>Pteronisculus_stensioei</List>
+		<List>Ptycholepis_barboi</List>
+		<List>Ptycholepis_marshi</List>
+		<List>Rhadinichthys_athertonensis</List>
+		<List>Rhadinichthys_canobiensis</List>
+		<List>Uydenia_latifrons</List>
+		<List>Uydenichthys_magnus</List>
+		<List>Wendichthys_dicksoni</List>
+		<List>Yogoniscus_gulo</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="57">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Dietze_2000a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,79 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Hand, S. J.</List>
+			<List>Kirsch, J. A. W.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>Archerops, a new annectent hipposiderid genus (Mammalia: Microchiroptera) from the Australian Miocene</Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>77</Volume>
+		<Pages>1139-1151</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="44">
+		<List>Ancestor</List>
+		<List>Anthops_ornatus</List>
+		<List>Archerops_annectens</List>
+		<List>Asellia_tridens</List>
+		<List>Aselliscus_tricuspidatus</List>
+		<List>Brachipposideros_nooraleebus</List>
+		<List>Brachipposideros_watsoni</List>
+		<List>Cloeotis_percivali</List>
+		<List>Coelops_frithi</List>
+		<List>Coelops_robinsoni</List>
+		<List>Hipposideros_armiger</List>
+		<List>Hipposideros_ater</List>
+		<List>Hipposideros_bernardsigei</List>
+		<List>Hipposideros_caffer</List>
+		<List>Hipposideros_calcaratus</List>
+		<List>Hipposideros_cervinus</List>
+		<List>Hipposideros_commersoni</List>
+		<List>Hipposideros_corynophyllus</List>
+		<List>Hipposideros_cyclops</List>
+		<List>Hipposideros_diadema</List>
+		<List>Hipposideros_fulvus</List>
+		<List>Hipposideros_lankadiva</List>
+		<List>Hipposideros_larvatus</List>
+		<List>Hipposideros_lylei</List>
+		<List>Hipposideros_maggietaylorae</List>
+		<List>Hipposideros_muscinus</List>
+		<List>Hipposideros_papua</List>
+		<List>Hipposideros_pratti</List>
+		<List>Hipposideros_ruber</List>
+		<List>Hipposideros_semoni</List>
+		<List>Hipposideros_speoris</List>
+		<List>Hipposideros_turpis</List>
+		<List>Hipposideros_wollastoni</List>
+		<List>Palaeophyllophora_quercyi</List>
+		<List>Pseudorhinolophus_bouziguensis</List>
+		<List>Rhinonycteris_aurantius</List>
+		<List>Rhinonycteris_tedfordi</List>
+		<List>Riversleigha_williamsi</List>
+		<List>Syndesmotis_megalotis</List>
+		<List>Triaenops_persicus</List>
+		<List>Xenorhinos_halli</List>
+		<List>Rhinolophus_simulator</List>
+		<List>Rhinolophus_megaphyllus</List>
+		<List>Rhinolophus_affinis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="64">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Hand_et_Kirsch_2003a</Filename>
+	<Parent>Hand_et_Kirsch_1998a</Parent>
+	<Sibling/>
+</SourceTree>

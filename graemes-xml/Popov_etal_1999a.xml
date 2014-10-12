@@ -1,0 +1,61 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Popov, L. E.</List>
+			<List>Nikitin, I. F.</List>
+			<List>Sokiran, E. V.</List>
+		</Author>
+		<Year>1999</Year>
+		<Title>The earliest atrypides and athyridides (Brachiopoda) from the Ordovician of Kazakhstan</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>42</Volume>
+		<Pages>625-661</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="25">
+		<List>Oligorhyncha_subplana</List>
+		<List>Ancistrorhyncha_modesta</List>
+		<List>Cyclospira_bisulcata</List>
+		<List>Rozmanospira_mica</List>
+		<List>Pectenospira_pectenata</List>
+		<List>Manespira_nicoletti</List>
+		<List>Protozyga_definitiva</List>
+		<List>Protozyga_exigua</List>
+		<List>Anazyga_recurvirostra</List>
+		<List>Zygospira_modesta</List>
+		<List>Sulcatospira?_praecursor</List>
+		<List>Sulcatospira_asiatica</List>
+		<List>Sulcatospira_prima</List>
+		<List>Schachriomonia_parva</List>
+		<List>Schachriomonia_dichotoma</List>
+		<List>Qilianotryma_suspectum</List>
+		<List>Eospirigerina_pennata</List>
+		<List>Eospirigerina_porkuniana</List>
+		<List>Webbyspira_principalis</List>
+		<List>Australospira_districha</List>
+		<List>Antizygospira_liquanensis</List>
+		<List>Kellerella_ditissima</List>
+		<List>Kellerella_misiusi</List>
+		<List>Nikolaespira_rasilis</List>
+		<List>Eospirifer_praecursor</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="27">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Popov_etal_1999a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

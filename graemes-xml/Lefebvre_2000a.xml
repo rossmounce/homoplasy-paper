@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lefebvre, B.</List>
+		</Author>
+		<Year>2000</Year>
+		<Title>A new mitrate (Echinodermata, Stylophora) from the Tremadoc of Shropshire (England) and the origin of the Mitrocystitida</Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>74</Volume>
+		<Pages>890-906</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="18">
+		<List>Ceratocystis_perneri</List>
+		<List>Protocystites_menevensis</List>
+		<List>Amygdalotheca_griffei</List>
+		<List>Galliaecystis_lignieresi</List>
+		<List>Arauricystis_primaeva</List>
+		<List>Lagynocystis_pyramidalis</List>
+		<List>Peltocystis_cornuta</List>
+		<List>Lobocarpus_viscainoi</List>
+		<List>Chinainocarpos_thorali</List>
+		<List>Vizcainocarpus_dentiger</List>
+		<List>Ovocarpus_moncereti</List>
+		<List>Aspidocarpus_bohemicus</List>
+		<List>Mitrocystites_mitra</List>
+		<List>Promitrocystites_barrandei</List>
+		<List>Mitrocystella_incipiens</List>
+		<List>Eumitrocystella_savilli</List>
+		<List>Barrandeocarpus_jaekeli</List>
+		<List>Ateleocystites_guttenbergensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="22">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lefebvre_2000a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,95 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Vila Nova, B. C.</List>
+			<List>Sayao, J. M.</List>
+			<List>Neumann, V. H. M. L.</List>
+			<List>Kellner, A. W. A.</List>
+		</Author>
+		<Year>2014</Year>
+		<Title>Redescription of <em>Cearadactylus atrox</em> (Pterosauria, Pterodactyloidea) from the Early Cretaceous Romualdo Formation (Santana Group) of the Araripe Basin, Brazil</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>34</Volume>
+		<Pages>126-134</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="58">
+		<List>Outgroup</List>
+		<List>Preondactylus</List>
+		<List>Dimorphodon</List>
+		<List>Peteinosaurus</List>
+		<List>Anurognathus</List>
+		<List>Batrachognathus</List>
+		<List>Dendrorhynchoides</List>
+		<List>holopterus</List>
+		<List>Austriadactylus</List>
+		<List>Campylognathoides</List>
+		<List>Eudimorphodon</List>
+		<List>Raeticodactylus</List>
+		<List>Scaphognathus</List>
+		<List>Sordes</List>
+		<List>Pterorhynchus</List>
+		<List>Cacibupteryx</List>
+		<List>Dorygnathus</List>
+		<List>Nesodactylus</List>
+		<List>Rhamphorhynchus</List>
+		<List>Darwinopterus</List>
+		<List>Pterodactylus</List>
+		<List>Cycnorhamphus</List>
+		<List>Eosipterus</List>
+		<List>Pterodactylus_longicolum</List>
+		<List>Gnathosaurus</List>
+		<List>Cearadactylus</List>
+		<List>Gegepterus</List>
+		<List>Ctenochasma</List>
+		<List>Pterodaustro</List>
+		<List>Istiodactylus</List>
+		<List>Nurhachius</List>
+		<List>Haopterus</List>
+		<List>Ornithocheirus</List>
+		<List>Anhanguera</List>
+		<List>Coloborhynchus</List>
+		<List>Ludodactylus</List>
+		<List>Cearadactylus_atrox</List>
+		<List>Boreopterus</List>
+		<List>Nyctosaurus</List>
+		<List>Muzquizopteryx</List>
+		<List>Pteranodon</List>
+		<List>Germanodactylus_cristatus</List>
+		<List>Germanodactylus_rhamphastinus</List>
+		<List>Dsungaripterus</List>
+		<List>Tatal_pterosaur</List>
+		<List>Noripterus</List>
+		<List>Lonchodectes</List>
+		<List>Tapejara</List>
+		<List>Tupandactylus</List>
+		<List>Sinopterus</List>
+		<List>Huaxiapterus</List>
+		<List>Shenzhoupterus</List>
+		<List>Chaoyangopterus</List>
+		<List>Tupuxuara</List>
+		<List>Thalassodromeus</List>
+		<List>Quetzalcoatlus</List>
+		<List>Zhejiangopterus</List>
+		<List>Azhdarcho</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="117">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Vila_Nova_etal_2014ab</Filename>
+	<Parent>Lu_etal_2010b</Parent>
+	<Sibling/>
+</SourceTree>

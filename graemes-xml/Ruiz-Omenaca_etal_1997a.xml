@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ruiz-Omenaca, J. I.</List>
+			<List>Canudo, J. I.</List>
+			<List>Cuenca-Bescos, G.</List>
+		</Author>
+		<Year>1997</Year>
+		<Title>Primera cita de dinosaurios barionicidos (Saurischia: Theropoda) en el Barremiense superior (Cretacico inferior) de Vallipon (Castellote, Teruel)</Title>
+		<Journal>Beca del Museo de Mas de las Matas</Journal>
+		<Volume> Ano 1997</Volume>
+		<Pages>201-223</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="13">
+		<List>Baryonyx_sp._adult</List>
+		<List>Baryonyx_walkeri</List>
+		<List>cf._Baryonyx</List>
+		<List>Baryonyx_sp._juvenile</List>
+		<List>Baryonychidae_indet.</List>
+		<List>Siamosaurus_suteethorni</List>
+		<List>Spinosauridae</List>
+		<List>Spinosaurus_sp.</List>
+		<List>Spinosaurus_cf._aegypticus</List>
+		<List>Irritator_challengeri</List>
+		<List>Angaturama_limai</List>
+		<List>Spinosauridae_indet.</List>
+		<List>Spinosaurus_aegypticus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="3">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ruiz-Omenaca_etal_1997a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

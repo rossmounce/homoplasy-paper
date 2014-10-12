@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>He, Y.-M.</List>
+			<List>Clark, J. M.</List>
+			<List>Xu, X.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>A large theropod metatarsal from the upper part of Jurassic Shishugou Formation in Junggar Basin, Xinjiang, China</Title>
+		<Journal>Vertebrata PalAsiatica</Journal>
+		<Volume>51</Volume>
+		<Pages>29-42</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List>Dilophosaurus</List>
+		<List>Ceratosaurus</List>
+		<List>Majungasaurus</List>
+		<List>Megalosaurus</List>
+		<List>Torvosaurus</List>
+		<List>Condorraptor</List>
+		<List>Sinraptor</List>
+		<List>Allosaurus</List>
+		<List>Acrocanthosaurus</List>
+		<List>Mapusaurus</List>
+		<List>Guanlong</List>
+		<List>IVPP_V_18060</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="14">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>He_etal_2013a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

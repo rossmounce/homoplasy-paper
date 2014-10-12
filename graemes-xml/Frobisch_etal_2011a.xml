@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Frobisch, J.</List>
+			<List>Schoch, R. R.</List>
+			<List>Muller, J.</List>
+			<List>Schindler, T.</List>
+			<List>Schweiss, D.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>A new basal sphenacodontid synapsid from the Late Carboniferous of the Saar-Nahe Basin, Germany</Title>
+		<Journal>Acta Palaeontologica Polonica</Journal>
+		<Volume>56</Volume>
+		<Pages>113-120</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="15">
+		<List>Varanopidae</List>
+		<List>Ophiacodontidae</List>
+		<List>Edaphosauridae</List>
+		<List>Haptodus</List>
+		<List>Palaeohatteria</List>
+		<List>Pantelosaurus</List>
+		<List>Ianthodon</List>
+		<List>Cutleria</List>
+		<List>Sphenacodon</List>
+		<List>Ctenospondylus</List>
+		<List>Dimetrodon</List>
+		<List>Secodontosaurus</List>
+		<List>Cryptovenator</List>
+		<List>Biarmosuchus</List>
+		<List>Dinocephalia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="122">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Frobisch_etal_2011a</Filename>
+	<Parent>Laurin_1993a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Hungerbuhler, A.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>The status and phylogenetic relationships of &quot;<em>Zanclodon</em>&quot; <em>arenaceus</em>: the earliest known phytosaur?</Title>
+		<Journal>Palaeontologische Zeitschrift</Journal>
+		<Volume>75</Volume>
+		<Pages>97-112</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List>Proterosuchus</List>
+		<List>Proterochampsa</List>
+		<List>Chanaresuchus</List>
+		<List>Euparkeria</List>
+		<List>Doswellia</List>
+		<List>Erpetosuchus</List>
+		<List>Ornithosuchus</List>
+		<List>Phytosauria</List>
+		<List>Sphenosuchus</List>
+		<List>Saltoposuchus</List>
+		<List>Dibothrosuchus</List>
+		<List>Zanclodon_arenaceus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="6">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Hungerbuhler_2001a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Mateus, O.</List>
+			<List>Maidment, S. C. R.</List>
+			<List>Christiansen, N. A.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>A new long-necked ‘sauropod-mimic’ stegosaur and the evolution of the plated dinosaurs</Title>
+		<Journal>Proceedings of the Royal Society of London B</Journal>
+		<Volume>276</Volume>
+		<Pages>1815-1821</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="19">
+		<List>Lesothosaurus</List>
+		<List>Scutellosaurus</List>
+		<List>Emausaurus</List>
+		<List>Scelidosaurus</List>
+		<List>Huayangosaurus</List>
+		<List>D_armatus</List>
+		<List>Miragaia</List>
+		<List>Loricatosaurus</List>
+		<List>Kentrosaurus</List>
+		<List>Paranthodon</List>
+		<List>Chungkingosaurus</List>
+		<List>Tuojiangosaurus</List>
+		<List>Gigantspinosaurus</List>
+		<List>S_homheni</List>
+		<List>S_armatus</List>
+		<List>S_mjosi</List>
+		<List>Gastonia</List>
+		<List>Sauropelta</List>
+		<List>Euoplocephalus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="89">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Mateus_etal_2009a</Filename>
+	<Parent>Maidment_etal_2008a</Parent>
+	<Sibling/>
+</SourceTree>

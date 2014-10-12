@@ -1,0 +1,60 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Hopson, J. A.</List>
+			<List>Kitching, J. W.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>A probainognathian cynodont from South Africa and the phylogeny of nonmammalian cynodonts</Title>
+		<Journal>Bulletin of the Museum of Comparative Zoology</Journal>
+		<Volume>156</Volume>
+		<Pages>5-35</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="25">
+		<List>Gorgonopsid</List>
+		<List>Lycosuchus</List>
+		<List>Dvinia</List>
+		<List>Procynosuchus</List>
+		<List>Galesaurus</List>
+		<List>Thrinaxodon</List>
+		<List>Cynognathus</List>
+		<List>Diademodon</List>
+		<List>Trirachodon</List>
+		<List>Pascualgnathus</List>
+		<List>Scalenodon_angustifrons</List>
+		<List>Scalenodon_hirschoni</List>
+		<List>Luangwa</List>
+		<List>Massetognathus</List>
+		<List>Gomphodontosuchus</List>
+		<List>Exaeretodon</List>
+		<List>Tritylodontidae</List>
+		<List>Lumkuia</List>
+		<List>Probainognathus</List>
+		<List>Ecteninion</List>
+		<List>Probelesodon</List>
+		<List>Aleodon</List>
+		<List>Chiniquodon</List>
+		<List>Pachygenelus</List>
+		<List>Morganucodon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="101">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Hopson_et_Kitching_2001a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

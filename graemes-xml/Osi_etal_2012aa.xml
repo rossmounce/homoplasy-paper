@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Osi, A.</List>
+			<List>Prondvai, E.</List>
+			<List>Butler, R.</List>
+			<List>Weishampel, D. B.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>Phylogeny, histology and inferred body size evolution in a new rhabdodontid dinosaur from the Late Cretaceous of Hungary</Title>
+		<Journal>PLoS One</Journal>
+		<Volume>7</Volume>
+		<Pages>e44318</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="19">
+		<List>Ancestor</List>
+		<List>Marginocephalia</List>
+		<List>Heterodontosauridae</List>
+		<List>Agilisaurus_multidens</List>
+		<List>Thescelosaurus_neglectus</List>
+		<List>Parksosaurus_warreni</List>
+		<List>Hypsilophodon_foxii</List>
+		<List>Gasparinisaura_cincosaltensis</List>
+		<List>Tenontosaurus_tilletti</List>
+		<List>Tenontosaurus_dossi</List>
+		<List>Dryosaurus_altus</List>
+		<List>Dryosaurus_lettowvorbeckii</List>
+		<List>Camptosaurus_dispar</List>
+		<List>Iguanodon_atherfieldensis</List>
+		<List>Iguanodon_bernissartensis</List>
+		<List>Rhabdodon_priscus</List>
+		<List>Zalmoxes_robustus</List>
+		<List>Zalmoxes_shqiperorum</List>
+		<List>Mochlodon_vorosi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="79">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Osi_etal_2012aa</Filename>
+	<Parent>Weishampel_etal_2003a</Parent>
+	<Sibling/>
+</SourceTree>

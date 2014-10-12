@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Laurin, M.</List>
+		</Author>
+		<Year>1991</Year>
+		<Title>The osteology of a Lower Permian eosuchian from Texas and a review of diapsid phylogeny</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>101</Volume>
+		<Pages>59-95</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="13">
+		<List>Captorhinidae</List>
+		<List>Paleothyris</List>
+		<List>Petrolacosaurus</List>
+		<List>Araeoscelis</List>
+		<List>Coelurosauravus</List>
+		<List>Apsisaurus</List>
+		<List>Acerosodontosaurus</List>
+		<List>Youngina</List>
+		<List>Planocephalosaurus</List>
+		<List>Squamata</List>
+		<List>Prolacerta</List>
+		<List>Trilophosaurus</List>
+		<List>Hyperodapedon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="69">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Laurin_1991a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

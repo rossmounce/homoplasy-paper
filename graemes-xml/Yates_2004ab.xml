@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Yates, A. M.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>Anchisaurus polyzelus (Hitchcock): The smallest known sauropod dinosaur and the evolution of gigantism among sauropodomorph dinosaurs</Title>
+		<Journal>Postilla</Journal>
+		<Volume>230</Volume>
+		<Pages>1-58</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="19">
+		<List>Theropoda</List>
+		<List>Ornithischia</List>
+		<List>Saturnalia_tupiniquim</List>
+		<List>Thecodontosaurus_spp.</List>
+		<List>Efraasia_minor</List>
+		<List>Riojasaurus_incertus</List>
+		<List>Plateosaurus_engelhardti</List>
+		<List>Coloradisaurus_brevis</List>
+		<List>Massospondylus_carinatus</List>
+		<List>Lufengosaurus_huenei</List>
+		<List>Anchisaurus_polyzelus</List>
+		<List>Melanorosaurus_readi</List>
+		<List>Blikanasaurus_cromptoni</List>
+		<List>Kotasaurus_yamanpalliensis</List>
+		<List>Vu1canodon_karibaensis</List>
+		<List>Shunosaurus_lii</List>
+		<List>Barapasaurus_tagorei</List>
+		<List>Omeisaurus_tianfuensis</List>
+		<List>Neosauropoda</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="205">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Yates_2004ab</Filename>
+	<Parent/>
+	<Sibling>Yates_2004aa</Sibling>
+</SourceTree>

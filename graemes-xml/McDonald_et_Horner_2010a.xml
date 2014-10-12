@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>McDonald, A. T.</List>
+			<List>Horner, J. R.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>New material of <em>Styracosaurus ovatus</em> from the Two Medicine Formation of Montana</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>156-168</Pages>
+		<Booktitle>New Perspectives on Horned Dinosaurs</Booktitle>
+		<Publisher>Indiana University Press</Publisher>
+		<City>Bloomington</City>
+		<Editor>
+			<List>Ryan, M. J.</List>
+			<List>Chinnery-Allgeier, B. J.</List>
+			<List>Eberth, D. A.</List>
+		</Editor>
+	</Source>
+	<Taxa number="11">
+		<List>L._gracilis</List>
+		<List>Chasmosaurinae</List>
+		<List>Al._nesmoi</List>
+		<List>S._albertensis</List>
+		<List>C._apertus</List>
+		<List>C._brinkmani</List>
+		<List>R._ovatus</List>
+		<List>E._procurvicornis</List>
+		<List>Ach._horneri</List>
+		<List>P._canadensis</List>
+		<List>P._n._sp.</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="27">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>McDonald_et_Horner_2010a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

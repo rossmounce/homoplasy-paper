@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Renesto, S.</List>
+			<List>Bernardi, M.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>Redescription and phylogenetic relationships of <em>Megachirella wachtleriM</em> Renesto et Posenato, 2003 (Reptilia, Diapsida)</Title>
+		<Journal>Palaontologische Zeitschrift</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="23">
+		<List>Petrolacosaurus</List>
+		<List>Youngina</List>
+		<List>Gephyrosaurus</List>
+		<List>Squamata</List>
+		<List>Prolacerta</List>
+		<List>Macrocnemus</List>
+		<List>Tanystropheus</List>
+		<List>Trilophosarus</List>
+		<List>Howesia</List>
+		<List>Mesosuchus</List>
+		<List>Rhynchosaurus</List>
+		<List>Scaphonyx</List>
+		<List>Stenaulorhynchus</List>
+		<List>Hyperodapedon</List>
+		<List>Proterosuchus</List>
+		<List>Euparkeria</List>
+		<List>Champsosaurus</List>
+		<List>Cteniogenys</List>
+		<List>Lazarussuchus</List>
+		<List>Protorosaurus</List>
+		<List>Langobardisaurus</List>
+		<List>Drepanosauridae</List>
+		<List>Megachirella_wachtleri</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="144">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Renesto_et_Bernardi_inpressab</Filename>
+	<Parent>Renesto_etal_2010ab</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Bennett, S. C.</List>
+		</Author>
+		<Year>1996</Year>
+		<Title>The phylogenetic position of the Pterosauria within the Archosauromorpha</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>118</Volume>
+		<Pages>261-308</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Lepidosauromorpha</List>
+		<List>Rhynchosauria</List>
+		<List>Prolacertiformes</List>
+		<List>Proterosuchidae</List>
+		<List>Erythrosuchidae</List>
+		<List>Proterochampsidae</List>
+		<List>Euparkeria</List>
+		<List>Parasuchia</List>
+		<List>Suchia</List>
+		<List>Ornithosuchidae</List>
+		<List>Lagosuchus</List>
+		<List>Dinosauria</List>
+		<List>Scleromochlus</List>
+		<List>Pterosauria</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="126">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Bennett_1996a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

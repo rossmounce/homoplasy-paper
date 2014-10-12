@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Riga, B. J. G.</List>
+			<List>Previtera, E.</List>
+			<List>Pirrone, C. A.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>Malarguesaurus florenciae gen. et sp. nov., a new titanosauriform (Dinosauria, Sauropoda) from the Upper Cretaceous of Mendoza, Argentina</Title>
+		<Journal>Cretaceous Research</Journal>
+		<Volume>30</Volume>
+		<Pages>135-148</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="23">
+		<List>Camarasaurus</List>
+		<List>Brachiosaurus</List>
+		<List>Euhelopus</List>
+		<List>Chubutisaurus</List>
+		<List>Phuwiangosaurus</List>
+		<List>Ligabuesaurus</List>
+		<List>Malarguesaurus</List>
+		<List>Andesaurus</List>
+		<List>Malawisaurus</List>
+		<List>Mendozasaurus</List>
+		<List>Futalognkosaurus</List>
+		<List>Epachthosaurus</List>
+		<List>Rapetosaurus</List>
+		<List>Lirainosaurus</List>
+		<List>Opisthocoelicaudia</List>
+		<List>Alamosaurus</List>
+		<List>Rinconsaurus</List>
+		<List>Muyellensaurus</List>
+		<List>Gondwanatitan</List>
+		<List>Aeolosaurus</List>
+		<List>Neuquensaurus</List>
+		<List>Saltasaurus</List>
+		<List>Rocasaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="102">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Riga_etal_2009a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

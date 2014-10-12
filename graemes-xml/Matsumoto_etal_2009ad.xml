@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Matsumoto, R.</List>
+			<List>Suzuki, S.</List>
+			<List>Tsogtbaatar, K.</List>
+			<List>Evans, S. E.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>New material of the enigmatic reptile <em>Khurendukhosaurus</em> (Diapsida: Choristodera) from Mongolia</Title>
+		<Journal>Naturwissenschaften</Journal>
+		<Volume>96</Volume>
+		<Pages>233-242</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="16">
+		<List>Youngina</List>
+		<List>Petrolacosaurus</List>
+		<List>Nothosaurus</List>
+		<List>Pachypleurosaurus_et_Keichousaurus</List>
+		<List>Mesosuchus</List>
+		<List>Lazarussuchus</List>
+		<List>Cteniogenys</List>
+		<List>Shokawa</List>
+		<List>Champsosaurus</List>
+		<List>Tchoiria</List>
+		<List>Ikechosaurus</List>
+		<List>Simoedosaurus</List>
+		<List>Hyphalosaurus</List>
+		<List>Monjurosuchus</List>
+		<List>Philydrosaurus</List>
+		<List>Khurendukhosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="81">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Matsumoto_etal_2009ad</Filename>
+	<Parent>Skutchas_2008a</Parent>
+	<Sibling/>
+</SourceTree>

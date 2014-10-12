@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Krupina, N. I.</List>
+			<List>Reisz, R. R.</List>
+		</Author>
+		<Year>2000</Year>
+		<Title>Phylogeny of Devonian dipnoans, with special emphasis on forms from the Russian Platform</Title>
+		<Journal>Paleontological Journal</Journal>
+		<Volume>34</Volume>
+		<Pages>S147-S153</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Dipterus_val</List>
+		<List>Jarvikia</List>
+		<List>Oervigia</List>
+		<List>Fleurantia</List>
+		<List>Andreyevichthys</List>
+		<List>Rhnodipterus_se</List>
+		<List>R_ulrichi</List>
+		<List>R_Stolbovi</List>
+		<List>Orlovichthys</List>
+		<List>Scaumenacia</List>
+		<List>Chirodipterus</List>
+		<List>Soedenberghia</List>
+		<List>Griphagnathus_wh</List>
+		<List>Griphagnathus_se</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="48">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Krupina_et_Reisz_2000a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,110 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Turner, A. H.</List>
+			<List>Buckley, G. A.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>Mahajangasuchus insignis (Crocodyliformes: Mesoeucrocodylia) cranial anatomy and new data on the origin of the eusuchian-style palate</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>28</Volume>
+		<Pages>382-408</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="75">
+		<List>Gracilisuchus</List>
+		<List>Terrestrisuchus</List>
+		<List>Dibothrosuchus</List>
+		<List>Protosuchus</List>
+		<List>Hemiprotosuchus</List>
+		<List>Orthosuchus</List>
+		<List>Kayenta_Form</List>
+		<List>Edentosuchus</List>
+		<List>Zaraasuchus</List>
+		<List>Gobiosuchus</List>
+		<List>Sichuanosuchus</List>
+		<List>Shantungosuchus</List>
+		<List>Zosuchus</List>
+		<List>Fruita_Form</List>
+		<List>Notosuchus</List>
+		<List>Comahuesuchus</List>
+		<List>Mariliasuchus</List>
+		<List>Uruguaysuchus</List>
+		<List>Chimaeresuchus</List>
+		<List>Malawisuchus</List>
+		<List>Candidodon</List>
+		<List>Simosuchus</List>
+		<List>Sphagesaurus</List>
+		<List>Bretesuchus</List>
+		<List>Baurusuchus</List>
+		<List>Iberosuchus</List>
+		<List>Libycosuchus</List>
+		<List>Araripesuchus_gomesii</List>
+		<List>Araripesuchus_patagonicus</List>
+		<List>Araripesuchus_buitreraensis</List>
+		<List>Araripesuchus_wegeneri</List>
+		<List>Araripesuchus_tsangatsangana</List>
+		<List>Lomasuchus_palpebrosus</List>
+		<List>Peirosaurus_tormini</List>
+		<List>Uberabasuchus_terrificus</List>
+		<List>Theriosuchus</List>
+		<List>Alligatorium</List>
+		<List>Goniopholis_simus</List>
+		<List>Goniopholis_stovalli</List>
+		<List>Eutretauranosuchus</List>
+		<List>Calsoyasuchus</List>
+		<List>Sunosuchus</List>
+		<List>Bernissartia</List>
+		<List>Hylaeochampsa</List>
+		<List>Glen_Rose_Form</List>
+		<List>Borealosuchus</List>
+		<List>Pristichampsus_vorax</List>
+		<List>Eothoracosaurus_mississippiensis</List>
+		<List>Gavialis</List>
+		<List>Leidyosuchus_canadensis</List>
+		<List>Asiatosuchus_germanicus</List>
+		<List>Crocodylus</List>
+		<List>Diplocynodon_hantoniensis</List>
+		<List>Alligator</List>
+		<List>Hsisosuchus</List>
+		<List>Pelagosaurus</List>
+		<List>Steneosaurus</List>
+		<List>Metriorhynchus_superciliosus</List>
+		<List>Metriorhynchus_casamequelai</List>
+		<List>Geosaurus_araucanensis</List>
+		<List>Geosaurus_suevicus</List>
+		<List>Dakosaurus_maximus</List>
+		<List>Dakosaurus_andiniensis</List>
+		<List>Rhabdognathus</List>
+		<List>Sokotosuchus</List>
+		<List>Dyrosaurus</List>
+		<List>Hyposaurus</List>
+		<List>Pholidosaurus</List>
+		<List>Sarcosuchus</List>
+		<List>Terminonaris_robusta</List>
+		<List>Pachycheilosuchus</List>
+		<List>Rugosuchus_nonganensis</List>
+		<List>Mahajangasuchus_insignis</List>
+		<List>Stolokrosuchus</List>
+		<List>Argochampsa</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="290">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Turner_et_Buckley_2008a</Filename>
+	<Parent>Pol_et_Norell_2004b</Parent>
+	<Sibling/>
+</SourceTree>

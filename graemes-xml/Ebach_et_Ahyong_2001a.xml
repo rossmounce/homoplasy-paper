@@ -1,0 +1,60 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ebach, M. C.</List>
+			<List>Ahyong, S. T.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>Phylogeny of the trilobite subgenus <em>Acanthopyge (Lobopyge)</em></Title>
+		<Journal>Cladistics</Journal>
+		<Volume>17</Volume>
+		<Pages>1-10</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="25">
+		<List>Hemiarges_wesenbergensis</List>
+		<List>Acanthopyge_Lobopyge_australiformis</List>
+		<List>Acanthopyge_Lobopyge_australis</List>
+		<List>Acanthopyge_Lobopyge_balliviani</List>
+		<List>Acanthopyge_Lobopyge_brankensis</List>
+		<List>Acanthopyge_Lobopyge_brevis</List>
+		<List>Acanthopyge_Lobopyge_campbelli</List>
+		<List>Acanthopyge_Lobopyge_consanguinea</List>
+		<List>Acanthopyge_Lobopyge_decheni</List>
+		<List>Acanthopyge_Lobopyge_docekali</List>
+		<List>Acanthopyge_Lobopyge_edgecombei</List>
+		<List>Acanthopyge_Lobopyge_erinacea</List>
+		<List>Acanthopyge_Lobopyge_hirsuta</List>
+		<List>Acanthopyge_Lobopyge_limbata</List>
+		<List>Acanthopyge_Lobopyge_orientalis</List>
+		<List>Acanthopyge_Lobopyge_paraplerua</List>
+		<List>Acanthopyge_Lobopyge_parva</List>
+		<List>Acanthopyge_Lobopyge_pragensis</List>
+		<List>Acanthopyge_Lobopyge_pustulosa</List>
+		<List>Acanthopyge_Lobopyge_rictheri</List>
+		<List>Acanthopyge_Lobopyge_rohri</List>
+		<List>Acanthopyge_Lobopyge_sinuata</List>
+		<List>Acanthopyge_Lobopyge_trinodis</List>
+		<List>Acanthopyge_Lobopyge_uralensis</List>
+		<List>Acanthopyge_Lobopyge_sp_Victoria</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="15">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ebach_et_Ahyong_2001a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

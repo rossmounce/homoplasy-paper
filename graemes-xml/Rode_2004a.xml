@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Rode, A. L.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>Phylogenetic revision of <em>Leptodesma (Leiopteria)</em> (Devonian: Bivalvia)</Title>
+		<Journal>Postilla</Journal>
+		<Volume>229</Volume>
+		<Pages>1-26</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="22">
+		<List>Leptodesma_spinerigum</List>
+		<List>Leiopteria_accranus</List>
+		<List>Leiopteria_actuilaris</List>
+		<List>Leiopteria_auriculata</List>
+		<List>Leiopteria_ausabelensis</List>
+		<List>Leiopteria_bigsbyi</List>
+		<List>Leiopteria_conradi</List>
+		<List>Leiopteria_cornelli</List>
+		<List>Leiopteria_dekayi</List>
+		<List>Leiopteria_gabbi</List>
+		<List>Leiopteria_greeni</List>
+		<List>Leiopteria_laevis</List>
+		<List>Leiopteria_leai</List>
+		<List>Leiopteria_linguiformis</List>
+		<List>Leiopteria_mitchelli</List>
+		<List>Leiopteria_nitida</List>
+		<List>Leiopteria_oweni</List>
+		<List>Leiopteria_peninsularis</List>
+		<List>Leiopteria_rafinesquii</List>
+		<List>Leiopteria_sayi</List>
+		<List>Leiopteria_torrey</List>
+		<List>Leiopteria_troosti</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="27">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Rode_2004a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

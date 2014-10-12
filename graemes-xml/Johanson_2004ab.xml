@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Johanson, Z.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>Late Devonian sarcopterygian fishes from eastern Gondwana (Australia and Antarctica) and their importance in phylogeny and biogeography</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>287-308</Pages>
+		<Booktitle>Recent Advances in the Origin and Early Radiation of Vertebrates</Booktitle>
+		<Publisher>Verlag Dr. Friedrich Pfeil</Publisher>
+		<City>Munchen</City>
+		<Editor>
+			<List>Arratia, G.</List>
+			<List>Wilson, M. V. H.</List>
+			<List>Cloutier, R.</List>
+		</Editor>
+	</Source>
+	<Taxa number="10">
+		<List>Glyptolepis</List>
+		<List>Gooloogongia</List>
+		<List>Aztecia</List>
+		<List>Sauripterus</List>
+		<List>Barameda</List>
+		<List>Rhizodus</List>
+		<List>Screbinodus</List>
+		<List>Strepsodus</List>
+		<List>Medoevia</List>
+		<List>Eusthenopteron</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="31">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Johanson_2004ab</Filename>
+	<Parent>Johanson_et_Ahlberg_2001ab</Parent>
+	<Sibling/>
+</SourceTree>

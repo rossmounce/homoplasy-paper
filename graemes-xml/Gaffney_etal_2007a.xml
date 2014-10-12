@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Gaffney, E. S.</List>
+			<List>Rich, T. H.</List>
+			<List>Vickers-Rich, P.</List>
+			<List>Constantine, A.</List>
+			<List>Vacca, R.</List>
+			<List>Kool, L.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title><em>Chubutemys</em>, a new eucryptodiran turtle from the Early Cretaceous of Argentina, and the relationships of the Meiolaniidae</Title>
+		<Journal>American Museum Novitates</Journal>
+		<Volume>3599</Volume>
+		<Pages>1-35</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="28">
+		<List>Synapsida_slash_Diapsida</List>
+		<List>Proganochelys</List>
+		<List>Australochelys</List>
+		<List>Palaeochersis</List>
+		<List>Proterochersis</List>
+		<List>Megapleurodira</List>
+		<List>Kayentachelys</List>
+		<List>Kallokibotion</List>
+		<List>Mongolochelys</List>
+		<List>Pleurosternidae</List>
+		<List>Baenidae</List>
+		<List>Xinjiangchelys</List>
+		<List>Solnhofia</List>
+		<List>Plesiochelyidae</List>
+		<List>Meiolania</List>
+		<List>Ninjemys</List>
+		<List>Niolamia</List>
+		<List>Chubutemys</List>
+		<List>Sinemys</List>
+		<List>Otwayemys</List>
+		<List>Hangaiemys</List>
+		<List>Dracochelys</List>
+		<List>Ordosemys</List>
+		<List>Judithemys</List>
+		<List>Chelydridae</List>
+		<List>Chelonioidea</List>
+		<List>Trionychoidea</List>
+		<List>Testudinoidea</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="111">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Gaffney_etal_2007a</Filename>
+	<Parent>Gaffney_1996a</Parent>
+	<Sibling/>
+</SourceTree>

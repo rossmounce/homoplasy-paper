@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sereno, P. C.</List>
+			<List>Larsson, H. C. E.</List>
+			<List>Sidor, C. A.</List>
+			<List>Gado, B.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>The giant crocodyliform Sarcosuchus from the Cretaceous of Africa</Title>
+		<Journal>Science</Journal>
+		<Volume>294</Volume>
+		<Pages>1516-1519</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="20">
+		<List>PROTOSUCHIA</List>
+		<List>Hsisosuchus</List>
+		<List>THALATTOSUCHIA</List>
+		<List>Baurusuchus</List>
+		<List>Sebecus</List>
+		<List>Notosuchus</List>
+		<List>Malawisuchus</List>
+		<List>Simosuchus</List>
+		<List>Araripesuchus</List>
+		<List>Stolokrosuchus</List>
+		<List>Peirosaurus</List>
+		<List>ATOPOSAURIDAE</List>
+		<List>Sunosuchus</List>
+		<List>Goniopholis</List>
+		<List>Pholidosaurus</List>
+		<List>Sarcosuchus</List>
+		<List>Terminonaris</List>
+		<List>Dyrosaurus</List>
+		<List>Bernissartia</List>
+		<List>CROCODYLIA</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="72">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sereno_etal_2001a</Filename>
+	<Parent>Clark_1994a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,76 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Laurin, M.</List>
+			<List>Reisz, R. R.</List>
+		</Author>
+		<Year>1997</Year>
+		<Title>A new perspective on tetrapod phylogeny</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>9-59</Pages>
+		<Booktitle>Amniote Origins: Completing the Transition to Land</Booktitle>
+		<Publisher>Academic Press</Publisher>
+		<City>San Diego</City>
+		<Editor>
+			<List>Sumida, S. S.</List>
+			<List>Martin, K. L. M.</List>
+		</Editor>
+	</Source>
+	<Taxa number="38">
+		<List>Osteolepiformes</List>
+		<List>Panderichthyidae</List>
+		<List>Acanthostega</List>
+		<List>Ichthyostega</List>
+		<List>Crassigyrinus</List>
+		<List>Loxommatidae</List>
+		<List>Colosteidae</List>
+		<List>Dendrepeton</List>
+		<List>Tersomius</List>
+		<List>Amphibamus</List>
+		<List>Ecolsonia</List>
+		<List>Proterogyrinus</List>
+		<List>Archeria</List>
+		<List>Gephyrostegidae</List>
+		<List>Kotlassia</List>
+		<List>Seymouria</List>
+		<List>Ariekanerpeton</List>
+		<List>Aistopoda</List>
+		<List>Adelogyrinidae</List>
+		<List>Nectridea</List>
+		<List>Pantylus</List>
+		<List>Rhynchonkos</List>
+		<List>Brachystelechida</List>
+		<List>Lysorophia</List>
+		<List>Triadobatrachus</List>
+		<List>Discoglossidae</List>
+		<List>Pipidae</List>
+		<List>Hynobiidae</List>
+		<List>Sirenidae</List>
+		<List>Proteidae</List>
+		<List>Eocaecilia</List>
+		<List>Rhinatrematidae</List>
+		<List>Ichthyophiidae</List>
+		<List>Limnoscelis</List>
+		<List>Diadectes</List>
+		<List>Synapsida</List>
+		<List>Captorhinidae</List>
+		<List>Procolophonidae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="157">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Laurin_et_Reisz_1997a</Filename>
+	<Parent>Carroll_1995a</Parent>
+	<Sibling/>
+</SourceTree>

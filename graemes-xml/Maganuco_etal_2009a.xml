@@ -1,0 +1,85 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Maganuco, S.</List>
+			<List>Steyer, S. J.</List>
+			<List>Pasini, G.</List>
+			<List>Boulay, M.</List>
+			<List>Lorrain, S.</List>
+			<List>Beneteau, A.</List>
+			<List>Auditore, M.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>An exquisite specimen of <em>Edingerella madagascariensis</em> (Temnospondyli) from the Lower Triassic of NW Madagascar; cranial anatomy, phylogeny, and restorations</Title>
+		<Journal>Memorie della Società Italiana di Scienze Naturali e del Museo Civico di Storia Naturale di Milano</Journal>
+		<Volume>36</Volume>
+		<Pages>1-72</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="45">
+		<List>Konzhukovia_vetusta</List>
+		<List>Rhineceps_nyasaensis</List>
+		<List>Uranocentrodon_senekalensis</List>
+		<List>Almasaurus_habbazi</List>
+		<List>Angusaurus</List>
+		<List>Arcadia_myriadens</List>
+		<List>Benthosuchus_sushkini</List>
+		<List>Koskinonodon_perfectus</List>
+		<List>Cherninia_denwai</List>
+		<List>Chomatobatrachus_halei</List>
+		<List>Compsocerops_cosgriffi</List>
+		<List>Cyclotosaurus_robustus</List>
+		<List>Deltacephalus_whitei</List>
+		<List>Deltasaurus_kimberleyensis</List>
+		<List>Edingerella_madagascariensis</List>
+		<List>Eocyclotosaurus</List>
+		<List>Eryosuchus_garjainovi</List>
+		<List>Gerrothorax_pustuloglomeratus</List>
+		<List>Keratobrachyops_australis</List>
+		<List>Laidleria_gracilis</List>
+		<List>Lapillopsis_nana</List>
+		<List>Lydekkerina_huxleyi</List>
+		<List>Mastodonsaurus_giganteus</List>
+		<List>Metoposaurus_diagnosticus_krasiejowensis</List>
+		<List>Odenwaldia_heidelbergensis</List>
+		<List>Paracyclotosaurus_davidi</List>
+		<List>Parotosuchus_orenburgensis</List>
+		<List>Quasicyclotosaurus_campi</List>
+		<List>Sclerothorax_hypselonotus</List>
+		<List>Stanocephalosaurus_pronus</List>
+		<List>Stenotosaurus_stantonensis</List>
+		<List>Tatrasuchus_wildi</List>
+		<List>Thoosuchus_yakovlevi</List>
+		<List>Trematolestes_hagdorni</List>
+		<List>Trematosaurus_brauni</List>
+		<List>Wantzosaurus_elongatus</List>
+		<List>Warrenisuchus_aliciae</List>
+		<List>Watsonisuchus_gunganj</List>
+		<List>Watsonisuchus_magnus</List>
+		<List>Watsonisuchus_rewanensis</List>
+		<List>Wellesaurus_peabodyi</List>
+		<List>Wetlugasaurus_angustifrons</List>
+		<List>Xenobrachyops_allos</List>
+		<List>Xenotosuchus_africanus</List>
+		<List>Yuanansuchus_laticeps</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="86">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Maganuco_etal_2009a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

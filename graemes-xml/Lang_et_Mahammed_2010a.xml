@@ -1,0 +1,74 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lang, E.</List>
+			<List>Mahammed, F.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>New anatomical data and phylogenetic relationships of Chebsaurus algeriensis (Dinosauria, Sauropoda) from the Middle Jurassic of Algeria</Title>
+		<Journal>Historical Biology</Journal>
+		<Volume>22</Volume>
+		<Pages>142-164</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="39">
+		<List>Herrerasaurus</List>
+		<List>Plateosaurus</List>
+		<List>Antetonitrus</List>
+		<List>Gongxianosaurus</List>
+		<List>Isanosaurus</List>
+		<List>Barapasaurus</List>
+		<List>C_mogrebiensis</List>
+		<List>C_oxoniensis_Oxford</List>
+		<List>Chebsaurus</List>
+		<List>Ferganasaurus</List>
+		<List>Lapparentosaurus</List>
+		<List>Patagosaurus</List>
+		<List>C_oxoniensis_Rutland</List>
+		<List>Amargasaurus</List>
+		<List>Dicraeosaurus</List>
+		<List>Apatosaurus</List>
+		<List>Diplodocus</List>
+		<List>Nigersaurus</List>
+		<List>Rayososaurus</List>
+		<List>Rebbachisaurus</List>
+		<List>Jobaria</List>
+		<List>Giraffatitan</List>
+		<List>Sp_Calvados</List>
+		<List>Camarasaurus</List>
+		<List>Cedarosaurus</List>
+		<List>Euhelopus</List>
+		<List>Phuwiangosaurus</List>
+		<List>Atlasaurus</List>
+		<List>Haplocanthosaurus</List>
+		<List>Malawisaurus</List>
+		<List>Rapetosaurus</List>
+		<List>Opisthocoelicaudia</List>
+		<List>Saltasaurus</List>
+		<List>Mamenchisaurus</List>
+		<List>Omeisaurus</List>
+		<List>Amygdalodon</List>
+		<List>Shunosaurus</List>
+		<List>Tazoudasaurus</List>
+		<List>Vulcanodon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="237">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lang_et_Mahammed_2010a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,88 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lu, J.-C.</List>
+			<List>Xu, L.</List>
+			<List>Pu, H.-Y.</List>
+			<List>Zhang, X.-L.</List>
+			<List>Zhang, Y.-Y.</List>
+			<List>Jia, S.-H.</List>
+			<List>Chang, H.-L.</List>
+			<List>Zhang, J.-M.</List>
+			<List>Wei, X.-F.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>A new sauropod dinosaur (Dinosauria, Sauropoda) from the late Early Cretaceous of the Ruyang Basin (central China)</Title>
+		<Journal>Cretaceous Research</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="46">
+		<List>Theropoda</List>
+		<List>Prosauropoda</List>
+		<List>Abydosaurus</List>
+		<List>Alamosaurus</List>
+		<List>Amargasaurus</List>
+		<List>Andesaurus</List>
+		<List>Apatosaurus</List>
+		<List>Barapasaurus</List>
+		<List>Barosaurus</List>
+		<List>Brachiosaurus</List>
+		<List>Brachytrachelopan</List>
+		<List>Camarasaurus</List>
+		<List>Cedarosaurus</List>
+		<List>Cetiosaurus</List>
+		<List>Dicraeosaurus</List>
+		<List>Diplodocus</List>
+		<List>Epachthosaurus</List>
+		<List>Erketu</List>
+		<List>Euhelopus</List>
+		<List>Europasaurus</List>
+		<List>Ferganasaurus</List>
+		<List>Giraffatitan</List>
+		<List>Gondwanatitan</List>
+		<List>Haplocanthosaurus</List>
+		<List>IGM_100_slash_3105</List>
+		<List>Isisaurus</List>
+		<List>Jobaria</List>
+		<List>Limaysaurus</List>
+		<List>Malawisaurus</List>
+		<List>Mamenchisaurus</List>
+		<List>Nemegtosaurus</List>
+		<List>Neuquensaurus</List>
+		<List>Nigersaurus</List>
+		<List>Omeisaurus</List>
+		<List>Opisthocoelicaudia</List>
+		<List>Paluxysaurus</List>
+		<List>Patagosaurus</List>
+		<List>Qiaowanlong</List>
+		<List>Rapetosaurus</List>
+		<List>Saltasaurus</List>
+		<List>Shunosaurus</List>
+		<List>Sonidosaurus</List>
+		<List>Suuwassea</List>
+		<List>Tornieria</List>
+		<List>Vulcanodon</List>
+		<List>Yunmenglong_ruyangensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="243">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lu_etal_inpressa</Filename>
+	<Parent>Ksepka_et_Norell_2010a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,61 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Chiappe, L. M.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>Phylogenetic relationships among basal birds</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>125-142</Pages>
+		<Booktitle>New Perspectives on the Origin and Early Evolution of Birds</Booktitle>
+		<Publisher>Peabody Museum Special Publication</Publisher>
+		<City>New Haven</City>
+		<Editor>
+			<List>Gauthier, J.</List>
+			<List>Gall, L. F.</List>
+		</Editor>
+	</Source>
+	<Taxa number="24">
+		<List>Allosauroidea</List>
+		<List>Velociraptorina</List>
+		<List>Troodontidae</List>
+		<List>Archaeopteryx</List>
+		<List>Rahonavis</List>
+		<List>Confuciusornis</List>
+		<List>Changchengornis</List>
+		<List>Noguerornis</List>
+		<List>Iberomesornis</List>
+		<List>Eoalulavis</List>
+		<List>Concornis</List>
+		<List>Sinornis</List>
+		<List>Gobipteryx</List>
+		<List>Neuquenornis</List>
+		<List>Patagopteryx</List>
+		<List>Vorona</List>
+		<List>Hesperornis</List>
+		<List>Ambiortus</List>
+		<List>Ichthyornis</List>
+		<List>Anas</List>
+		<List>Alvarezsaurus</List>
+		<List>Patagonykus</List>
+		<List>Mononykus</List>
+		<List>Shuvuuia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="169">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Chiappe_2001a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

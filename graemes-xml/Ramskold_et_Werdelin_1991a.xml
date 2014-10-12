@@ -1,0 +1,83 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ramskold, L.</List>
+			<List>Werdelin, L.</List>
+		</Author>
+		<Year>1991</Year>
+		<Title>The phylogeny and evolution of some phacopid trilobites</Title>
+		<Journal>Cladistics</Journal>
+		<Volume>7</Volume>
+		<Pages>29-74</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="48">
+		<List>Hyp_Anc</List>
+		<List>Podowrinella</List>
+		<List>A_quadrilineata</List>
+		<List>A_woodburnensis</List>
+		<List>A_sufferia</List>
+		<List>A_sororia</List>
+		<List>A_konoverensis</List>
+		<List>A_boltoni</List>
+		<List>A_rectifrons</List>
+		<List>A_incerta</List>
+		<List>A_pulcher</List>
+		<List>A_besciensis</List>
+		<List>A_superciliexcelsis</List>
+		<List>A_mimica</List>
+		<List>A_orestes</List>
+		<List>A_elliptifrons</List>
+		<List>A_xynon</List>
+		<List>A_rubicundula</List>
+		<List>A_skidmorei</List>
+		<List>A_dispersa</List>
+		<List>A_salmoensis</List>
+		<List>A_cf_stokesii</List>
+		<List>A_sp_nov</List>
+		<List>A_macdonaldi</List>
+		<List>A_nuda</List>
+		<List>A_amelangorum</List>
+		<List>A_fecunda</List>
+		<List>A_aspera</List>
+		<List>A_decora</List>
+		<List>K_guttulus</List>
+		<List>K_ekphymus</List>
+		<List>K_microps</List>
+		<List>K_veles</List>
+		<List>K_invius</List>
+		<List>K_raymondi</List>
+		<List>P_serratus</List>
+		<List>P_crosslei</List>
+		<List>P_latigenalis</List>
+		<List>P_eldredgei</List>
+		<List>P_sp_nov</List>
+		<List>P_hudsonicus</List>
+		<List>P_logani</List>
+		<List>P_campbelli</List>
+		<List>P_birdsongensis</List>
+		<List>P_claviger</List>
+		<List>Viaphacops</List>
+		<List>P_rana</List>
+		<List>P_iowensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="32">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ramskold_et_Werdelin_1991a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

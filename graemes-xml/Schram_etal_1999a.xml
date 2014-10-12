@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Schram, F. R.</List>
+			<List>Hof, C. H. J.</List>
+			<List>Steeman, F. A.</List>
+		</Author>
+		<Year>1999</Year>
+		<Title>Thylacocephala (Arthropoda: Crustacea?) from the Cretaceous of Lebanon and implications for thylacocephalan systematics</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>42</Volume>
+		<Pages>769-797</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="18">
+		<List>Concavicaris_georgeorum</List>
+		<List>Concavicaris_campi</List>
+		<List>Concavicaris_sinuata</List>
+		<List>Concavicaris_glenisteri</List>
+		<List>Concavicaris_milesi</List>
+		<List>Concavicaris_playfordi</List>
+		<List>Clausocaris_lithographica</List>
+		<List>Clausocaris_pinnai</List>
+		<List>Convexicaris_mazonensis</List>
+		<List>Dollocaris_ingens</List>
+		<List>Harrycaris_whittingtoni</List>
+		<List>Kilianocaris_lerichei</List>
+		<List>Mayrocaris_bucculata</List>
+		<List>Ostenocaris_cypriformis</List>
+		<List>Paraostenia_voultensis</List>
+		<List>Protozoea_damesi</List>
+		<List>Protozoea_hilgendorfi</List>
+		<List>Pseuderichtus_cretaceus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="15">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Schram_etal_1999a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

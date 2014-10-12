@@ -1,0 +1,102 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lee, M. S. Y.</List>
+			<List>Cau, A.</List>
+			<List>Naish, D.</List>
+			<List>Dyke, G.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>Morphological clocks in palaeontology, and a mid-Cretaceous origin of crown Aves</Title>
+		<Journal>Systematic Biology</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="65">
+		<List>Dromaeosauridae</List>
+		<List>Archaeopteryx</List>
+		<List>Ambiortus</List>
+		<List>Anas</List>
+		<List>Apsaravis</List>
+		<List>Archaeorhynchus</List>
+		<List>Baptornis_advenus</List>
+		<List>Baptornis_varneri</List>
+		<List>Boluochia</List>
+		<List>Cathyaornis</List>
+		<List>Changchengornis</List>
+		<List>Chaoyangia</List>
+		<List>Columba</List>
+		<List>Concornis</List>
+		<List>Confuciusornis_dui</List>
+		<List>Confuciusornis_sanctus</List>
+		<List>Crypturellus</List>
+		<List>Didactylornis</List>
+		<List>Elsornis</List>
+		<List>Enaliornis</List>
+		<List>Eoalulavis</List>
+		<List>Eocathayornis</List>
+		<List>Eoconfuciusornis</List>
+		<List>Eoenantiornis</List>
+		<List>Gallinuloides</List>
+		<List>Gallus</List>
+		<List>Gansus</List>
+		<List>Gobipteryx</List>
+		<List>Hesperornis</List>
+		<List>Hollanda</List>
+		<List>Hongshanornis</List>
+		<List>Iberomesornis</List>
+		<List>Ichthyornis</List>
+		<List>Jeholornis</List>
+		<List>Jianchangornis</List>
+		<List>Jinzhouornis</List>
+		<List>Jixiangornis</List>
+		<List>Liaoningornis</List>
+		<List>Limenavis</List>
+		<List>Lithornis</List>
+		<List>Longicrusavis</List>
+		<List>Longipteryx</List>
+		<List>Longirostravis</List>
+		<List>Neuquenornis</List>
+		<List>Otogornis</List>
+		<List>Parahesperornis</List>
+		<List>Patagopteryx</List>
+		<List>Pengornis</List>
+		<List>Protopteryx</List>
+		<List>Rahonavis</List>
+		<List>Rapaxavis</List>
+		<List>Sapeornis</List>
+		<List>Schizooura</List>
+		<List>Shanweiniao</List>
+		<List>Shenqiornis</List>
+		<List>Shenzhouraptor</List>
+		<List>Songlingornis</List>
+		<List>Vegavis</List>
+		<List>Vescornis</List>
+		<List>Vorona</List>
+		<List>Waimanu</List>
+		<List>Yanornis</List>
+		<List>Yixianornis</List>
+		<List>Zhongjianornis</List>
+		<List>Zhongornis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="247">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lee_etal_inpressa</Filename>
+	<Parent>OConnor_et_Zhou_inpressa</Parent>
+	<Sibling/>
+</SourceTree>

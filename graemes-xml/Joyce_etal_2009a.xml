@@ -1,0 +1,60 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Joyce, W. G.</List>
+			<List>Revan, A.</List>
+			<List>Lyson, T. R.</List>
+			<List>Danilov, I. G.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>Two new plastomenine softshell turtles from the Paleocene of Montana and Wyoming</Title>
+		<Journal>Bulletin of the Peabody Museum of Natural History</Journal>
+		<Volume>50</Volume>
+		<Pages>307-325</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="23">
+		<List>Ancestor</List>
+		<List>Cycloderma_aubryi</List>
+		<List>Pelochelys_bibroni</List>
+		<List>Amyda_cartilaginea</List>
+		<List>Cyclanorbis_elegans</List>
+		<List>Rafetus_euphraticus</List>
+		<List>Apalone_ferox</List>
+		<List>Nilssonia_formosus</List>
+		<List>Cycloderma_frenatum</List>
+		<List>Aspideretes_gangeticus</List>
+		<List>Aspideretes_hurum</List>
+		<List>Chitra_indica</List>
+		<List>Apalone_mutica</List>
+		<List>Lissemys_punctata</List>
+		<List>Cyclanorbis_senegalensis</List>
+		<List>Pelodiscus_sinensis</List>
+		<List>Apalone_spinifera</List>
+		<List>Palea_steindachneri</List>
+		<List>Dogania_subplanus</List>
+		<List>Trionyx_triunguis</List>
+		<List>Plastomenus_aff_thomasii</List>
+		<List>Hutchemys_rememdium_nov_sp</List>
+		<List>Hutchemys_arctochelys_nov_sp</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="76">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Joyce_etal_2009a</Filename>
+	<Parent>Meylan_1987a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,69 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Vullo, R.</List>
+			<List>Marugan-Lobon, J.</List>
+			<List>Kellner, A. W. A.</List>
+			<List>Buscalioni, A. D.</List>
+			<List>Gomez, B.</List>
+			<List>de la Fuente, M.</List>
+			<List>Moratalla, J. J.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>A new crested pterosaur from the Early Cretaceous of Spain: the first European tapejarid (Pterodactyloidea: Azhdarchoidea)</Title>
+		<Journal>PLOS ONE</Journal>
+		<Volume>7</Volume>
+		<Pages>e38900</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="29">
+		<List>Ornithosuchus_longidens</List>
+		<List>Herrerasaurus_ischigualastensis</List>
+		<List>Anurognathus_ammoni</List>
+		<List>Rhamphorhynchus_muensteri</List>
+		<List>Pterodactylus_antiquus</List>
+		<List>Nyctosaurus_gracilis</List>
+		<List>Pteranodon_longiceps</List>
+		<List>Istiodactylus_latidens</List>
+		<List>Nurhachius_ignaciobritoi</List>
+		<List>Tropeognathus_mesembrinus</List>
+		<List>Anhanguera_santanae</List>
+		<List>Anhanguera_blittersdorffi</List>
+		<List>Anhanguera_piscator</List>
+		<List>Dsungaripterus_weii</List>
+		<List>Phobetor_parvus</List>
+		<List>Quetzalcoatlus_sp</List>
+		<List>Azhdarcho_lancicollis</List>
+		<List>Zhejiangopterus_linhaiensis</List>
+		<List>Chaoyangopterus_zhangi</List>
+		<List>Shenzhoupterus_chaoyangensis</List>
+		<List>Tupuxuara_leonardii</List>
+		<List>Thalassodromeus_sethi</List>
+		<List>Tupandactylus_imperator</List>
+		<List>Europejara_olcadesorum</List>
+		<List>Tapejara_wellnhoferi</List>
+		<List>Sinopterus_dongi</List>
+		<List>Eopteranodon_lii</List>
+		<List>Huaxipterus_corollatus</List>
+		<List>Huaxipterus_benxiensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="106">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Vullo_etal_2012a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

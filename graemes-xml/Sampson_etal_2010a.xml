@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sampson, S. D.</List>
+			<List>Loewen, M. A.</List>
+			<List>Farke, A. A.</List>
+			<List>Roberts, E. M.</List>
+			<List>Forster, C. A.</List>
+			<List>Smith, J. A.</List>
+			<List>Titus, A. L.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>New horned dinosaurs from Utah provide evidence for intracontinental dinosaur endemisim</Title>
+		<Journal>PLoS One</Journal>
+		<Volume>5</Volume>
+		<Pages>1-12</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="25">
+		<List>Leptoceratops_gracilis</List>
+		<List>Protoceratops_andrewsi</List>
+		<List>Zuniceratops_christopheri</List>
+		<List>Turanoceratops_tardabilis</List>
+		<List>Albertaceratops_nesmoi</List>
+		<List>Centrosaurus_apertus</List>
+		<List>Pachyrhinosaurus_lakustai</List>
+		<List>Chasmosaurus_belli</List>
+		<List>Chasmosaurus_russelli</List>
+		<List>Mojoceratops_perifania</List>
+		<List>Agujaceratops_mariscalensis</List>
+		<List>Coahuilaceratops_magnacuerna</List>
+		<List>Vagaceratops_irvinensis</List>
+		<List>Kosmoceratops_richardsoni</List>
+		<List>Anchiceratops_ornatus</List>
+		<List>Arrhinoceratops_brachyops</List>
+		<List>Ojoceratops_fowleri</List>
+		<List>Eotriceratops_xerinsularis</List>
+		<List>Torosaurus_latus</List>
+		<List>Torosaurus_utahensis</List>
+		<List>Nedoceratops_hatcheri</List>
+		<List>Triceratops_horridus</List>
+		<List>Triceratops_prorsus</List>
+		<List>Utahceratops_gettyi</List>
+		<List>Pentaceratops_sternbergii</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="148">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sampson_etal_2010a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

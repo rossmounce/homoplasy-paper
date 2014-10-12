@@ -1,0 +1,85 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Yates, A. M.</List>
+			<List>Bonnan, M. F.</List>
+			<List>Neveling, J.</List>
+			<List>Chinsamy, A.</List>
+			<List>Blackbeard, M. G.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>A new transitional sauropodomorph dinosaur from hte Early Jurassic of South Africa and the evolution of sauropod feeding and quadrupedalism</Title>
+		<Journal>Proceedings of the Royal Society of London B</Journal>
+		<Volume>277</Volume>
+		<Pages>787-794</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="47">
+		<List>Euparkeria</List>
+		<List>Crurotarsi</List>
+		<List>Marasuchus</List>
+		<List>Silesaurus</List>
+		<List>Ornithischia</List>
+		<List>Eoraptor</List>
+		<List>Agnosphitys</List>
+		<List>Guaibasaurus</List>
+		<List>Chindesaurus</List>
+		<List>Neotheropoda</List>
+		<List>Saturnalia</List>
+		<List>Pantydraco</List>
+		<List>Thecodontosaurus</List>
+		<List>Efraasia</List>
+		<List>Plateosauravus</List>
+		<List>Ruehleia</List>
+		<List>Gryponyx</List>
+		<List>Jingshanosaurus</List>
+		<List>Yunnanosaurus</List>
+		<List>Anchisaurus</List>
+		<List>Aardonyx</List>
+		<List>Blikanasaurus</List>
+		<List>Camelotia</List>
+		<List>Melanorosaurus</List>
+		<List>Antetonitrus</List>
+		<List>Lessemsaurus</List>
+		<List>Gongxianosaurus</List>
+		<List>Isanosaurus</List>
+		<List>Tazoudasaurus</List>
+		<List>Vulcanodon</List>
+		<List>Barapasaurus</List>
+		<List>Mamenchisaurus</List>
+		<List>Omeisaurus</List>
+		<List>Patagosaurus</List>
+		<List>Shunosaurus</List>
+		<List>Cetiosaurus</List>
+		<List>Neosauropoda</List>
+		<List>Massospondylus</List>
+		<List>Coloradisaurus</List>
+		<List>Lufengosaurus</List>
+		<List>Eucnemosaurus</List>
+		<List>Riojasaurus</List>
+		<List>Unaysaurus</List>
+		<List>Plateosaurus_engelhardti</List>
+		<List>Plateosaurus_gracilis</List>
+		<List>Herrerasaurus</List>
+		<List>Staurikosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="353">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Yates_etal_2010ab</Filename>
+	<Parent>Yates_2007b</Parent>
+	<Sibling/>
+</SourceTree>

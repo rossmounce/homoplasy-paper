@@ -1,0 +1,109 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Xu, X.</List>
+			<List>Zhao, Q.</List>
+			<List>Norell, M. A.</List>
+			<List>Sullivan, C.</List>
+			<List>Hone, D. W. E.</List>
+			<List>Erickson, G.</List>
+			<List>Wang, X.-L.</List>
+			<List>Han, F.-L.</List>
+			<List>Guo, Y.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>A new feathered maniraptoran dinosaur fossil that fills a morphological gap in avian origin</Title>
+		<Journal>Chinese Science Bulletin</Journal>
+		<Volume>54</Volume>
+		<Pages>430-435</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="67">
+		<List>Allosaurus_fragilis</List>
+		<List>Sinraptor_dongi</List>
+		<List>Pelecanimimus_polyodon</List>
+		<List>Harpymimus_okladnikovi</List>
+		<List>Shenzhousaurus_orientalis_</List>
+		<List>Archaeornithomimus_asiaticus</List>
+		<List>Ornitholestes_hermanni</List>
+		<List>Incisivosaurus_gauthieri</List>
+		<List>Ingenia_yanshini</List>
+		<List>Rinchenia_mongoliensis</List>
+		<List>Oviraptor_philoceratops</List>
+		<List>Conchoraptor_gracilis</List>
+		<List>Chirostenotes_pergracilis</List>
+		<List>Microvenator_celer</List>
+		<List>Avimimus_portentosus</List>
+		<List>Caudipteryx_zoui</List>
+		<List>Citipati_osmolskae</List>
+		<List>Segnosaurus_galbinensis</List>
+		<List>Erlikosaurus_andrewsi</List>
+		<List>Alxasaurus_elesitaiensis</List>
+		<List>Shanag_ashile</List>
+		<List>Mahakala_omnogovae</List>
+		<List>Dromaeosaurus_albertensis</List>
+		<List>Utahraptor_ostrommaysi</List>
+		<List>Saurornitholestes_langstoni</List>
+		<List>Achillobator_giganticus</List>
+		<List>Adasaurus_mongoliensis</List>
+		<List>Deinonychus_antirrhopus</List>
+		<List>Velociraptor_mongoliensis</List>
+		<List>Tsaagan_mangas</List>
+		<List>EK_troodontid</List>
+		<List>Jinfengopteryx_elegans</List>
+		<List>Byronosaurus_jaffei</List>
+		<List>Sinornithoides_youngi</List>
+		<List>Troodon_formosus</List>
+		<List>Saurornithoides_mongolien</List>
+		<List>Saurornithoides_junior</List>
+		<List>Sinovenator_changii</List>
+		<List>Mei_long</List>
+		<List>Sinornithosaurus_millenii</List>
+		<List>Microraptor_zhaoianus</List>
+		<List>Graciliraptor_lujiatunensis</List>
+		<List>Buitreraptor_gonzalezorum</List>
+		<List>Unenlagia_comahuensis</List>
+		<List>Anchiornis_huxleyi</List>
+		<List>Archaeopteryx_lithographica</List>
+		<List>Rahonavis_ostromi</List>
+		<List>Jeholornis_prima</List>
+		<List>Confuciusornis_sanctus</List>
+		<List>Apsaravis_ukhaana</List>
+		<List>Yixianornis_grabaui</List>
+		<List>Sapeornis_chaoyangensis</List>
+		<List>Protopteryx_fengningensis</List>
+		<List>Alvarezsaurus_calvoi</List>
+		<List>Patagonykus_puertai</List>
+		<List>Mononykus_olecranus</List>
+		<List>Shuvuuia_deserti</List>
+		<List>Huaxiagnathus_orientalis</List>
+		<List>Sinosauropteryx_prima</List>
+		<List>Compsognathus_longipes</List>
+		<List>Garudimimus_brevipes</List>
+		<List>Struthiomimus_altus</List>
+		<List>Gallimimus_bullatus</List>
+		<List>Ornithomimus_edmontonicus</List>
+		<List>Anserimimus_planinychus</List>
+		<List>Tyrannosaurus_rex</List>
+		<List>Albertosaurus_libratus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="284">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Xu_etal_2009b</Filename>
+	<Parent>Xu_etal_2000a</Parent>
+	<Sibling/>
+</SourceTree>

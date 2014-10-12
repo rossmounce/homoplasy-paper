@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Allain, R.</List>
+		</Author>
+		<Year>2002</Year>
+		<Title>Discovery of megalosaur (Dinosauria, Theropoda) in the Middle Bathonian of Normandy (France) and its implications for the phylogeny of basal Tetanurae</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>22</Volume>
+		<Pages>548-563</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="16">
+		<List>Herrerasaurus</List>
+		<List>Ceratosaurus</List>
+		<List>Torvosaurus</List>
+		<List>Afrovenator</List>
+		<List>Poekilopleuron</List>
+		<List>Eustreptospondylus</List>
+		<List>Cristatusaurus</List>
+		<List>Baryonyx</List>
+		<List>Sinraptor</List>
+		<List>Carcharodontosaurus</List>
+		<List>Giganotosaurus</List>
+		<List>Allosaurus</List>
+		<List>Acrocanthosaurus</List>
+		<List>Tyrannosaurus</List>
+		<List>Compsognathus</List>
+		<List>Archaeopteryx</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="45">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Allain_2002a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

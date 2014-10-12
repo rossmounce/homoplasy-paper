@@ -1,0 +1,97 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Huttenlocker, A. K.</List>
+			<List>Pardo, J. D.</List>
+			<List>Small, B. J.</List>
+			<List>Anderson, J. S.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>Cranial morphology of recumbirostrans (Lepospondyli) from the Permian of Kansas and Nebraska, and early morphological evolution inferred by micro-computed tomography</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>33</Volume>
+		<Pages>540-552</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="60">
+		<List>Acanthostega</List>
+		<List>Proterogyrinus</List>
+		<List>Balanerpeton</List>
+		<List>Dendrerpeton</List>
+		<List>Tuditanus</List>
+		<List>Asaphestera</List>
+		<List>Hapsidoparion</List>
+		<List>Saxonerpeton</List>
+		<List>Pantylus</List>
+		<List>Cardiocephalus_sternbergi</List>
+		<List>Cardiocephalus_peabodyi</List>
+		<List>Euryodus_primus</List>
+		<List>Euryodus_dalyae</List>
+		<List>Pariotichus</List>
+		<List>Euryodus_bonneri</List>
+		<List>UNSM_32144</List>
+		<List>Tambaroter</List>
+		<List>Pelodosotis</List>
+		<List>Nannaroter</List>
+		<List>Micraroter</List>
+		<List>Rhynchonkos</List>
+		<List>Eocaecilia</List>
+		<List>Microbrachis</List>
+		<List>Carrolla</List>
+		<List>Batropetes</List>
+		<List>Utaherpeton</List>
+		<List>Stegotretus</List>
+		<List>Sauropleura_scalaris</List>
+		<List>Ptyonius</List>
+		<List>Urocordylus</List>
+		<List>Keraterpeton_galvani</List>
+		<List>Batrachiderpeton</List>
+		<List>Diceratosaurus</List>
+		<List>Diplocaulus_magnicornis</List>
+		<List>Diploceraspis</List>
+		<List>Scincosaurus</List>
+		<List>Brachydectes</List>
+		<List>Adelogyrinus</List>
+		<List>Oestocephalus</List>
+		<List>Phlegethontia</List>
+		<List>Greererpeton</List>
+		<List>Seymouria_baylorensis</List>
+		<List>Limnoscelis</List>
+		<List>Branchiosauridae</List>
+		<List>Micromelerpetontidae</List>
+		<List>Tersomius</List>
+		<List>Ecolsonia</List>
+		<List>Acheloma</List>
+		<List>Eryops</List>
+		<List>Doleserpeton</List>
+		<List>Salamanders</List>
+		<List>Frogs</List>
+		<List>Albanerpetontidae</List>
+		<List>Micropholis</List>
+		<List>Eoscopus</List>
+		<List>Tambachia</List>
+		<List>Triadobatrachus</List>
+		<List>Gerobatrachus</List>
+		<List>Platyrhinops</List>
+		<List>Amphibamus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="227">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Huttenlocker_etal_2013a</Filename>
+	<Parent>Anderson_etal_2008a</Parent>
+	<Sibling/>
+</SourceTree>

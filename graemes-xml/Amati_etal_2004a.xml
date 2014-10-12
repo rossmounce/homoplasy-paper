@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Amati, L.</List>
+			<List>Feldman, R. M.</List>
+			<List>Zonneveld, J.-P.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>A new family of Triassic lobsters (Decapoda: Astacida) from British Columbia and its phylogenetic context</Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>78</Volume>
+		<Pages>150-168</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="31">
+		<List>Penaeus</List>
+		<List>Stenopus</List>
+		<List>Palaeopentacheles</List>
+		<List>Scyllarus</List>
+		<List>Eryma</List>
+		<List>Phlyctisoma</List>
+		<List>Enoploclytia</List>
+		<List>Pemphix</List>
+		<List>Pseudopemphix</List>
+		<List>Clytiopsis</List>
+		<List>Glyphea</List>
+		<List>Mecochirus</List>
+		<List>Pseudoglyphea</List>
+		<List>Neoglyphea</List>
+		<List>Chimaerastacus</List>
+		<List>Astacus</List>
+		<List>Cambarus</List>
+		<List>Virilastacus</List>
+		<List>Nephrops</List>
+		<List>Homarus</List>
+		<List>Hoploparia</List>
+		<List>Enoplometopus</List>
+		<List>Callianasa</List>
+		<List>Laomedia</List>
+		<List>Carcinus</List>
+		<List>Cancer</List>
+		<List>Dromia</List>
+		<List>Pagurus</List>
+		<List>Galathea</List>
+		<List>Panulirus</List>
+		<List>Linuparus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="21">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Amati_etal_2004a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

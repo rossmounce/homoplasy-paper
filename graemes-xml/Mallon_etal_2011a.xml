@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Mallon, J. C.</List>
+			<List>Holmes, R.</List>
+			<List>Eberth, D. A.</List>
+			<List>Ryan, M. J.</List>
+			<List>Anderson, J. S.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>Variation in the skull of Anchiceratops (Dinosauria, Ceratopsidae) from the Horseshoe Canyon Formation (Upper Cretaceous) of Alberta</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>31</Volume>
+		<Pages>1047-1071</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="25">
+		<List>Leptoceratops_gracilis</List>
+		<List>Protoceratops_andrewsi</List>
+		<List>Zuniceratops_christopheri</List>
+		<List>Turanoceratops_tardabilis</List>
+		<List>Albertaceratops_nesmoi</List>
+		<List>Centrosaurus_apertus</List>
+		<List>Pachyrhinosaurus_lakustai</List>
+		<List>Mojoceratops_perifania</List>
+		<List>Agujaceratops_mariscalensis</List>
+		<List>Coahuilaceratops_magnacuerna</List>
+		<List>Anchiceratops_ornatus</List>
+		<List>Arrhinoceratops_brachyops</List>
+		<List>Chasmosaurus_belli</List>
+		<List>Chasmosaurus_russelli</List>
+		<List>Vagaceratops_irvinensis</List>
+		<List>Kosmoceratops_richardsoni</List>
+		<List>Utahceratops_gettyi</List>
+		<List>Pentaceratops_sternbergii</List>
+		<List>Ojoceratops_fowleri</List>
+		<List>Eotriceratops_xerinsularis</List>
+		<List>Nedoceratops_hatcheri</List>
+		<List>Torosaurus_latus</List>
+		<List>Torosaurus_utahensis</List>
+		<List>Triceratops_horridus</List>
+		<List>Triceratops_prorsus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="149">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Mallon_etal_2011a</Filename>
+	<Parent>Sampson_etal_2010a</Parent>
+	<Sibling/>
+</SourceTree>

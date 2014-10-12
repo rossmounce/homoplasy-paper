@@ -1,0 +1,77 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Gentry, A. W.</List>
+			<List>Hooker, J. J.</List>
+		</Author>
+		<Year>1988</Year>
+		<Title>The phylogeny of the Artiodactyla</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>235-272</Pages>
+		<Booktitle>The Phylogeny and Classification of the Tetrapods, Volume 2: Mammals</Booktitle>
+		<Publisher>Clarendon Press</Publisher>
+		<City>Oxford</City>
+		<Editor>
+			<List>Benton, M. J.</List>
+		</Editor>
+	</Source>
+	<Taxa number="40">
+		<List>Outgroup</List>
+		<List>Entelodontidae</List>
+		<List>Tayassuidae</List>
+		<List>Suidae</List>
+		<List>Cebochoeridae</List>
+		<List>Achaenodon</List>
+		<List>Helohyus</List>
+		<List>Raoellidae</List>
+		<List>Gobiohyus</List>
+		<List>Choeropotamidae</List>
+		<List>Anthracotherium</List>
+		<List>Anthracothema</List>
+		<List>Bothriodontinae</List>
+		<List>Hippopotamidae</List>
+		<List>D.pakistanensis</List>
+		<List>Bunomerycidae</List>
+		<List>Agriochoeridae</List>
+		<List>Merycoidodontidae</List>
+		<List>Mixtotheriidae</List>
+		<List>Cainotheriidae</List>
+		<List>Anoplotheriinae</List>
+		<List>Dacrytheriinae</List>
+		<List>Xiphodontidae</List>
+		<List>Protoceratidae</List>
+		<List>0romerycidae</List>
+		<List>Camelidae</List>
+		<List>Leptochoeridae</List>
+		<List>D_metsiacus</List>
+		<List>Microsus</List>
+		<List>Antiacodon</List>
+		<List>Homacodon</List>
+		<List>Protodichobune</List>
+		<List>D_varleti</List>
+		<List>Messelobunodon</List>
+		<List>Dichobuninae</List>
+		<List>Hyperdichobuninae</List>
+		<List>Amphimerycidae</List>
+		<List>Hypertragulidae</List>
+		<List>Tragulidae</List>
+		<List>Leptomerycidae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="116">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Gentry_et_Hooker_1988a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

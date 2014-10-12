@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Wilson, J. A.</List>
+			<List>Sereno, P. C.</List>
+			<List>Srivastava, S.</List>
+			<List>Bhatt, D. K.</List>
+			<List>Khosla, A.</List>
+			<List>Shani, A.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>A new abelisaurid (Dinosauria, Theropoda) from the Lameta Formation (Cretaceous, Maastrichtian) of India</Title>
+		<Journal>Contributions of the Museum of Paleontology: University of Michigan</Journal>
+		<Volume>31</Volume>
+		<Pages>1-42</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="23">
+		<List>Eoraptor</List>
+		<List>Herrerasaurus</List>
+		<List>Dilophosaurus</List>
+		<List>Liliensternus</List>
+		<List>Procompsognathus</List>
+		<List>Segisaurus</List>
+		<List>Syntarsus</List>
+		<List>Coelophysis</List>
+		<List>Elaphrosaurus</List>
+		<List>Ceratosaurus</List>
+		<List>Niger_taxon_1</List>
+		<List>Genusaurus</List>
+		<List>Deltadromeus</List>
+		<List>Masiakasaurus</List>
+		<List>Noasaurus</List>
+		<List>Ilokelesia</List>
+		<List>Niger_taxon_2</List>
+		<List>Abelisaurus</List>
+		<List>Rajasaurus</List>
+		<List>Majungatholus</List>
+		<List>Carnotaurus</List>
+		<List>SPINOSAUROIDEA</List>
+		<List>NEOTETANURAE</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="149">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Wilson_etal_2003a</Filename>
+	<Parent>Sereno_etal_2004a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Modesto, S. P.</List>
+			<List>Damiani, R. J.</List>
+			<List>Neveling, J.</List>
+			<List>Yates, A. M.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>A new Triassic owenettid parareptile and the mother of mass extinctions</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>23</Volume>
+		<Pages>715-719</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="8">
+		<List>Macroleter</List>
+		<List>O_rubidgei</List>
+		<List>O_kitchingorum</List>
+		<List>Barasaurus</List>
+		<List>Coletta</List>
+		<List>Sauropareion</List>
+		<List>Procolophonidae</List>
+		<List>Saurodectes</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="14">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Modesto_etal_2003c</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

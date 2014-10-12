@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ott, C. J.</List>
+			<List>Larson, P. L.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>A new, small ceratopsian dinosaur from the latest Cretaceous Hell Creek Formation, northwest South Dakota, United States: a preliminary description</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>203-218</Pages>
+		<Booktitle>New Perspectives on Horned Dinosaurs</Booktitle>
+		<Publisher>Indiana University Press</Publisher>
+		<City>Bloomington</City>
+		<Editor>
+			<List>Ryan, M. J.</List>
+			<List>Chinnery-Allgeier, B. J.</List>
+			<List>Eberth, D. A.</List>
+		</Editor>
+	</Source>
+	<Taxa number="16">
+		<List>Protoceratops</List>
+		<List>Zuniceratops</List>
+		<List>Avaceratops</List>
+		<List>Einiosaurus</List>
+		<List>Achelousaurus</List>
+		<List>Pachyrhinosaurus</List>
+		<List>Centrosaurus</List>
+		<List>Styracosaurus</List>
+		<List>Tatankaceratops</List>
+		<List>Anchiceratops</List>
+		<List>Arrhinoceratops</List>
+		<List>Triceratops</List>
+		<List>Diceratops</List>
+		<List>Torosaurus</List>
+		<List>Chasmosaurus</List>
+		<List>Pentaceratops</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="73">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ott_et_Larson_2010a</Filename>
+	<Parent>Dodson_etal_2004a</Parent>
+	<Sibling/>
+</SourceTree>

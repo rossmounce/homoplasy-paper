@@ -1,0 +1,64 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Huttenlocker, A.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>An investigation into the cladistic relationships and monophyly of therocephalian therapsids (Amniota: Synapsida)</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>157</Volume>
+		<Pages>865-891</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="30">
+		<List>Biarmosuchus</List>
+		<List>Titanophoneus</List>
+		<List>Gorgonopsia</List>
+		<List>Anomodontia</List>
+		<List>Charassognathus</List>
+		<List>Dvinia</List>
+		<List>Procynosuchus</List>
+		<List>Lycosuchus</List>
+		<List>Glanosuchus</List>
+		<List>Ictidosaurus</List>
+		<List>Pristerognathus</List>
+		<List>Olivierosuchus</List>
+		<List>Promoschorhynchus</List>
+		<List>Moschorhinus</List>
+		<List>Euchambersia</List>
+		<List>Mirotenthes</List>
+		<List>Hofmeyria</List>
+		<List>Ictidostoma</List>
+		<List>Viatkosuchus</List>
+		<List>Moschowhaitsia</List>
+		<List>Theriognathus</List>
+		<List>Ictidosuchus</List>
+		<List>Ictidosuchops</List>
+		<List>Ictidosuchoides</List>
+		<List>Regisaurus</List>
+		<List>Lycideops</List>
+		<List>Tetracynodon</List>
+		<List>Scaloposaurus</List>
+		<List>Ericiolacerta</List>
+		<List>Bauria</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="110">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Huttenlocker_2009a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

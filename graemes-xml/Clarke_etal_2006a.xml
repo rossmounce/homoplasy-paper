@@ -1,0 +1,61 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Clarke, J. A.</List>
+			<List>Zhou, Z.</List>
+			<List>Zhang, F.-C.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>Insight into the evolution of avian flight from a new clade of Early Cretaceous ornithurines from China and the morphology of Yixianornis grabaui</Title>
+		<Journal>Journal of Anatomy</Journal>
+		<Volume>208</Volume>
+		<Pages>287-308</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="25">
+		<List>Dromaeosauridae</List>
+		<List>Archaeopteryx_lithographica</List>
+		<List>Sapeornis_chaoyangensis</List>
+		<List>Confuciusornis_sanctus</List>
+		<List>Vorona_berivotrensis</List>
+		<List>Patagopteryx_deferrariisi</List>
+		<List>Apsaravis_ukhaana</List>
+		<List>Ichthyornis_dispar</List>
+		<List>Limenavis_patagonica</List>
+		<List>Iaceornis_marshii</List>
+		<List>Anas_platyrhynchos</List>
+		<List>Chauna_torquata</List>
+		<List>Gallus_gallus</List>
+		<List>Crax_pauxi</List>
+		<List>Crypturellus_undulatus</List>
+		<List>Lithornis</List>
+		<List>Hesperornis_regalis</List>
+		<List>Baptornis_adventus</List>
+		<List>Yanornis_martini</List>
+		<List>Songlingornis_linghensis</List>
+		<List>Yixianornis_grabaui</List>
+		<List>Cathayornis_yandica</List>
+		<List>Concornis_lacustris</List>
+		<List>Neuquenornis_volans</List>
+		<List>Gobipteryx_minuta</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="205">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Clarke_etal_2006a</Filename>
+	<Parent>Clarke_et_Norell_2002a</Parent>
+	<Sibling/>
+</SourceTree>

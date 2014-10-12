@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Vasilyan, D.</List>
+			<List>Bohme, M.</List>
+			<List>Chkhikvadze, V. M.</List>
+			<List>Semenov, Y. A.</List>
+			<List>Joyce, W. G.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>A new giant salamander (Urodela, Pancryptobrancha) from the Miocene of Eastern Europe (Grytsiv, Ukraine)</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>33</Volume>
+		<Pages>301-318</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="9">
+		<List>Onychodactylus_fischeri</List>
+		<List>Andrias_japonicus</List>
+		<List>Andrias_davidianus</List>
+		<List>Andrias_scheuchzeri</List>
+		<List>Ukrainurus_hypsognathus</List>
+		<List>Zaissanurus_beliajevae</List>
+		<List>Aviturus_exsecratus</List>
+		<List>Cryptobranchus_allegenianeiss</List>
+		<List>Cryptobranchus_saskatchewanensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="39">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Vasilyan_etal_2013a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,95 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lu, J.-C.</List>
+			<List>Unwin, D. M.</List>
+			<List>Jin, X.-S.</List>
+			<List>Liu, Y.-Q.</List>
+			<List>Ji, Q.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>Evidence for modular evolution in a long-tailed pterosaur with a pterodactyloid skull</Title>
+		<Journal>Proceedings of the Royal Society of London B</Journal>
+		<Volume>277</Volume>
+		<Pages>383-389</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="57">
+		<List>Outgroup</List>
+		<List>Preondactylus</List>
+		<List>Dimorphodon</List>
+		<List>Peteinosaurus</List>
+		<List>Anurognathus</List>
+		<List>Batrachognathus</List>
+		<List>Dendrorhynchoides</List>
+		<List>Jeholopterus</List>
+		<List>Austriadactylus</List>
+		<List>Campylognathoides</List>
+		<List>Eudimorphodon</List>
+		<List>Raeticodactylus</List>
+		<List>Scaphognathus</List>
+		<List>Sordes</List>
+		<List>Pterorhynchus</List>
+		<List>Cacibupteryx</List>
+		<List>Dorygnathus</List>
+		<List>Nesodactylus</List>
+		<List>Rhamphorhynchus</List>
+		<List>Darwinopterus</List>
+		<List>Pterodactylus</List>
+		<List>Cycnorhamphus</List>
+		<List>Eosipterus</List>
+		<List>Pterodactylus_longicolum</List>
+		<List>Gnathosaurus</List>
+		<List>Cearadactylus</List>
+		<List>Gegepterus</List>
+		<List>Ctenochasma</List>
+		<List>Pterodaustro</List>
+		<List>Istiodactylus</List>
+		<List>Nurhachius</List>
+		<List>Haopterus</List>
+		<List>Ornithocheirus</List>
+		<List>Anhanguera</List>
+		<List>Coloborhynchus</List>
+		<List>Ludodactylus</List>
+		<List>Boreopterus</List>
+		<List>Nyctosaurus</List>
+		<List>Muzquizopteryx</List>
+		<List>Pteranodon</List>
+		<List>Germanodactylus_cristatus</List>
+		<List>Germanodactylus_rhamphastinus</List>
+		<List>Dsungaripterus</List>
+		<List>Tatal_pterosaur</List>
+		<List>Noripterus</List>
+		<List>Lonchodectes</List>
+		<List>Tapejara</List>
+		<List>Tupandactylus</List>
+		<List>Sinopterus</List>
+		<List>Huaxiapterus</List>
+		<List>Shenzhoupterus</List>
+		<List>Chaoyangopterus</List>
+		<List>Tupuxuara</List>
+		<List>Thalassodromeus</List>
+		<List>Quetzalcoatlus</List>
+		<List>Zhejiangopterus</List>
+		<List>Azhdarcho</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="117">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lu_etal_2010b</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

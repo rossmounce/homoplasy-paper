@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Coria, R. A.</List>
+			<List>Chiappe, L. M.</List>
+			<List>Dingus, L.</List>
+		</Author>
+		<Year>2002</Year>
+		<Title>A new close relative of Carnotaurus sastrei Bonaparte 1985 (Theropoda: Abelisauridae) from the Late Cretaceous of Patagonia</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>22</Volume>
+		<Pages>460-465</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="7">
+		<List>Tetanurae</List>
+		<List>Ceratosaurus</List>
+		<List>Abelisaurus</List>
+		<List>Majungatholus</List>
+		<List>Ilkolesia</List>
+		<List>Carnotaurus</List>
+		<List>Aucasaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="28">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Coria_etal_2002a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,72 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Curry Rogers, K. A.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>Titanosauria: a phylogenetic overview</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>50-103</Pages>
+		<Booktitle>The Sauropods: Evolution and Palaeobiology</Booktitle>
+		<Publisher>University of California Press</Publisher>
+		<City>Berkeley</City>
+		<Editor>
+			<List>Curry Rogers, K. A.</List>
+			<List>Wilson, J. A.</List>
+		</Editor>
+	</Source>
+	<Taxa number="35">
+		<List>Camarasaurus</List>
+		<List>Brachiosaurus</List>
+		<List>Aegyptosaurus</List>
+		<List>Aeolosaurus</List>
+		<List>Alamosaurus</List>
+		<List>Ampelosaurus</List>
+		<List>Andesaurus</List>
+		<List>Antarctosaurus</List>
+		<List>Argentinosaurus</List>
+		<List>Argyrosaurus</List>
+		<List>Augustinia</List>
+		<List>Epacthosaurus</List>
+		<List>Euhelopus</List>
+		<List>Brazil_Series_B</List>
+		<List>Jainosaurus</List>
+		<List>Janenschia</List>
+		<List>Lirainosaurus</List>
+		<List>Magyarosaurus</List>
+		<List>Malawisaurus</List>
+		<List>Neuquensaurus</List>
+		<List>Opisthocoelicaudia</List>
+		<List>Paralititan</List>
+		<List>Phuwiangosaurus</List>
+		<List>Quaesitosaurus</List>
+		<List>Rocasaurus</List>
+		<List>Saltasaurus</List>
+		<List>Titanosaurus</List>
+		<List>Santa_Rosa_indet.</List>
+		<List>Jabalpur_indet.</List>
+		<List>Malagasy_Taxon_B</List>
+		<List>Nemegtosaurus</List>
+		<List>Rapetosaurus</List>
+		<List>Dicraeosaurus</List>
+		<List>Apatosaurus</List>
+		<List>Diplodocus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="364">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Curry_Rogers_2005a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

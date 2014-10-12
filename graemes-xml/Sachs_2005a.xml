@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sachs, S.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title><em>Turiangisaurus australis</em> sp. nov. (Plesiosauria: Elasmosauridae) from the Lower Cretaceous of northeastern Queensland, with additional notes on the phylogeny of the Elasmosauridae</Title>
+		<Journal>Memoirs of the Queensland Museum</Journal>
+		<Volume>50</Volume>
+		<Pages>425-440</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List>Muraenosaurus</List>
+		<List>Occitanosaurus</List>
+		<List>Brancasaurus</List>
+		<List>Libonectes</List>
+		<List>Thalassomedon</List>
+		<List>Tuarangisaurus</List>
+		<List>Callawaysaurus</List>
+		<List>Styxosaurus</List>
+		<List>Hydralmosaurus</List>
+		<List>Aristonectes</List>
+		<List>Hydrotherosaurus</List>
+		<List>Terminonatator</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="19">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sachs_2005a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

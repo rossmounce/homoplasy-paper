@@ -1,0 +1,64 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Tykoski, R. S.</List>
+			<List>Rowe, T. B.</List>
+			<List>Ketcham, R. A.</List>
+			<List>Colbert, M. W.</List>
+		</Author>
+		<Year>2002</Year>
+		<Title>Calsoyasuchus valliceps, a new crocodyliform from the Early Jurassic Kayenta Formation of Arizona</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>22</Volume>
+		<Pages>593-611</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="27">
+		<List>Notosuchus</List>
+		<List>Baurusuchus</List>
+		<List>Libycosuchus</List>
+		<List>Sebecus</List>
+		<List>Araripesuchus</List>
+		<List>Alligatorium</List>
+		<List>Theriosuchus</List>
+		<List>Pelagosaurus</List>
+		<List>Teleosauridae</List>
+		<List>Metriorhynchidae</List>
+		<List>Eutretauranosuchus</List>
+		<List>Goniopholis</List>
+		<List>Bernissartia</List>
+		<List>Crocodylia</List>
+		<List>Protosuchus</List>
+		<List>Hemiprotosuchus</List>
+		<List>Orthosuchus</List>
+		<List>Mahajangasuchus</List>
+		<List>Peirosauridae</List>
+		<List>Hsisosuchus</List>
+		<List>Trematochampsa</List>
+		<List>Uruguaysuchus</List>
+		<List>Malawisuchus</List>
+		<List>Comahuesuchus</List>
+		<List>Simosuchus</List>
+		<List>Sunosuchus</List>
+		<List>Calsoyasuchus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="119">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Tykoski_etal_2002ab</Filename>
+	<Parent>Buckley_etal_2000a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,64 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Wilkinson, L. E.</List>
+			<List>Young, M. T.</List>
+			<List>Benton, M. J.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>A new metriorhynchid crocodilian (Mesoeucrocodylia: Thalattosuchia) from the Kimmeridgian (Upper Jurassic) of Wiltshire, UK</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>51</Volume>
+		<Pages>1307-1333</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="28">
+		<List>Hesperosuchus</List>
+		<List>Terristrisuchus</List>
+		<List>Protosuchus</List>
+		<List>Atoposauridae</List>
+		<List>Goniopholis</List>
+		<List>Crocodylus_niloticus</List>
+		<List>Alligator_mississippiensis</List>
+		<List>Steneosaurus_leedsi</List>
+		<List>Pelagosaurus_typus</List>
+		<List>Teleidosaurus_calvadosii</List>
+		<List>Metriorhynchus_laeve</List>
+		<List>Metriorhynchus_leedsi</List>
+		<List>Metriorhynchus_acutus</List>
+		<List>Metriorhynchus_superciliosus</List>
+		<List>Metriorhynchus_moreli</List>
+		<List>Metriorhynchus_palpebrosus</List>
+		<List>Metriorhynchus_hastifer</List>
+		<List>Metriorhynchus_durobrivensis</List>
+		<List>Metriorhynchus_cultridens</List>
+		<List>Metriorhynchus_brachyrhynchus</List>
+		<List>Metriorhynchus_casamiquelai</List>
+		<List>Dakosaurus_carpenteri</List>
+		<List>Geosaurus_suevicus</List>
+		<List>Geosaurus_gracilis</List>
+		<List>Geosaurus_araucanensis</List>
+		<List>Dakosaurus_maximus</List>
+		<List>Dakosaurus_andiniensis</List>
+		<List>Enaliosuchus_macrospondylus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="82">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Wilkinson_etal_2008a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

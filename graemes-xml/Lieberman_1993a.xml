@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lieberman, B. S.</List>
+		</Author>
+		<Year>1993</Year>
+		<Title>Systematics and biogeography of the &quot;<em>Metacryphaeus</em> Group&quot; Calmoniidae (Trilobita, Devonian), with comments on adaptive radiations and the geological history of the Malvinokaffric Realm</Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>67</Volume>
+		<Pages>549-570</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="17">
+		<List>Kozlowski_K_supwna</List>
+		<List>Typhloniscus_baini</List>
+		<List>Plesioconvexa_praecurur</List>
+		<List>Punillaspis_Sp_A</List>
+		<List>Eldredgeia_vcnustus</List>
+		<List>Clarkeaspis_gouldi</List>
+		<List>Clarkeaspis_padillaensis</List>
+		<List>Malvinocooperella_pregiganteus</List>
+		<List>Wolfartaspis_cornutus</List>
+		<List>Plesiomalvinella_boulei</List>
+		<List>Plesiomalvinella_pujravii</List>
+		<List>Metacryphaeus_giganteus</List>
+		<List>Metacryphaeus_rotundatus</List>
+		<List>Metacryphaeus_tuberculatus</List>
+		<List>Metacryphaeus_convexus</List>
+		<List>Metacryphaeus_curvigena</List>
+		<List>Metacryphaeus_branisai</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="38">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lieberman_1993a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

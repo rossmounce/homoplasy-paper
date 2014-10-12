@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Nesbitt, S. J.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>The anatomy of <em>Effigia okeeffeae</em> (Archosauria, Suchia), theropod-like convergence, and the distribution of related taxa</Title>
+		<Journal>Bulletin of the American Museum of Natural History</Journal>
+		<Volume>302</Volume>
+		<Pages>1-55</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="21">
+		<List>Euparkeria</List>
+		<List>Proterochampsidae</List>
+		<List>Parasuchia</List>
+		<List>Ornithosuchidae</List>
+		<List>Stagonolepididae</List>
+		<List>Postosuchus</List>
+		<List>Crocodylomorpha</List>
+		<List>Pterosauria</List>
+		<List>Lagerpeton</List>
+		<List>Marasuchus</List>
+		<List>Gallimimus</List>
+		<List>Sauropodomorpha</List>
+		<List>Ornithischia</List>
+		<List>Effigia</List>
+		<List>Arizonasaurus</List>
+		<List>Shuvosaurus</List>
+		<List>Tyrannosaurus</List>
+		<List>Coelophysis</List>
+		<List>Lotosaurus</List>
+		<List>Saurosuchus</List>
+		<List>Sillosuchus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="83">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Nesbitt_2007a</Filename>
+	<Parent>Benton_1999a</Parent>
+	<Sibling/>
+</SourceTree>

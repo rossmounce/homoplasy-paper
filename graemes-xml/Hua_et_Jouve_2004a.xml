@@ -1,0 +1,101 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Hua, S.</List>
+			<List>Jouve, S.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>A primitive marine gavialoid from the Paleocene of Morocco</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>24</Volume>
+		<Pages>341-350</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="66">
+		<List>Bernissartia_fagesii</List>
+		<List>Glen_Rose_Form</List>
+		<List>Hylaeochampsa_vectiana</List>
+		<List>Borealosuchus_formidabilis</List>
+		<List>Borealosuchus_sternbergii</List>
+		<List>Borealosuchus_acutidentatus</List>
+		<List>Borealosuchus_wilsoni</List>
+		<List>Leidyosuchus_canadensis</List>
+		<List>Thoracosaurus_macrorhynchus</List>
+		<List>Eogavialis_africanus</List>
+		<List>Gryposuchus_colombianus</List>
+		<List>Gavialis_lewisi</List>
+		<List>Gavialis_gangeticus</List>
+		<List>Pristichampsus_rollinatii</List>
+		<List>Diplocynodon_darwini</List>
+		<List>Diplocynodon_ratelii</List>
+		<List>Diplocynodon_hantoniensis</List>
+		<List>Alligator_mississippiensis</List>
+		<List>Alligator_sinensis</List>
+		<List>Alligator_mefferdi</List>
+		<List>Alligator_olseni</List>
+		<List>Alligator_mcqrewi</List>
+		<List>Alligator_prenasalis</List>
+		<List>Allognathosuchus_mooki</List>
+		<List>Allognathosuchus_wartheni</List>
+		<List>Wannaganosuchus_brachymanus</List>
+		<List>Procaimanoidea_kayi</List>
+		<List>Arambourgia_gaudryi</List>
+		<List>Stangerochampsa_mccabei</List>
+		<List>Brachychampsa_montana</List>
+		<List>Eocaiman_cavernensis</List>
+		<List>Purussaurus_neivensis</List>
+		<List>Mourasuchus</List>
+		<List>Caiman_yacare</List>
+		<List>Caiman_crocodilus</List>
+		<List>Caiman_latirostris</List>
+		<List>Melanosuchus_niger</List>
+		<List>Paleosuchus_trigonatus</List>
+		<List>Paleosuchus_palpebrosus</List>
+		<List>Crocodylus_cataphractus</List>
+		<List>Crocodylus_rhombifer</List>
+		<List>Crocodylus_porosus</List>
+		<List>Crocodylus_niloticus</List>
+		<List>Crocodylus_palaeindicus</List>
+		<List>Osteolaemus_tetraspis</List>
+		<List>Crocodylus_robustus</List>
+		<List>Crocodylus_lloidi</List>
+		<List>Crocodylus_megarhinus</List>
+		<List>Australosuchus_clarkae</List>
+		<List>Euthecodon_arambourgii</List>
+		<List>Tomistoma_schlegelii</List>
+		<List>Tomistoma_lusitanica</List>
+		<List>Tomistoma_cairense</List>
+		<List>Crocodylus_spenceri</List>
+		<List>Gavialosuchus_americanus</List>
+		<List>Brachyuranochampsa_eversolei</List>
+		<List>Dormaal_crocodyloid</List>
+		<List>Crocodylus_acer</List>
+		<List>Crocodylus_affinis</List>
+		<List>Asiatosuchus_germanicus</List>
+		<List>Prodiplocynodon_langi</List>
+		<List>Thoracosaurus_neocesariensis</List>
+		<List>Paratomistoma_courti</List>
+		<List>Allodapososuchus_precedens</List>
+		<List>Las_Hoyas_Neosuchia</List>
+		<List>Argochampsa_krebsi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="167">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Hua_et_Jouve_2004a</Filename>
+	<Parent>Brochu_1997ab</Parent>
+	<Sibling/>
+</SourceTree>

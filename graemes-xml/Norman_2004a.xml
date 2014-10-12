@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Norman, D. B.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>Basal Iguanodontia</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>413-437</Pages>
+		<Booktitle>The Dinosauria (Second Edition)</Booktitle>
+		<Publisher>University of California Press</Publisher>
+		<City>Berkeley</City>
+		<Editor>
+			<List>Weishampel, D. B.</List>
+			<List>Dodson, P.</List>
+			<List>Osmolska, H.</List>
+		</Editor>
+	</Source>
+	<Taxa number="16">
+		<List>L._diagnosticus</List>
+		<List>H._foxii</List>
+		<List>Z._robustus</List>
+		<List>D._altus</List>
+		<List>C._dispar</List>
+		<List>I._atherfieldensis</List>
+		<List>I._bernissartensis</List>
+		<List>O._nigeriensis</List>
+		<List>P._byrdi</List>
+		<List>P._mongoliensis</List>
+		<List>B._johnsoni</List>
+		<List>E._regalis</List>
+		<List>A._kurzanovi</List>
+		<List>E._caroljonesa</List>
+		<List>T._tilletti</List>
+		<List>T._dossi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="67">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Norman_2004a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

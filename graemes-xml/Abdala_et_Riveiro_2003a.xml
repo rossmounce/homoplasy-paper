@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Abdala, F.</List>
+			<List>Ribeiro, A. M.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>A new traversodontid cynodont from the Santa Maria Formation (Ladinian-Carnian) of southern Brazil, with a phylogenetic analysis of Gondwanan traversodontids</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>139</Volume>
+		<Pages>529-545</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="15">
+		<List>Diademodon</List>
+		<List>Trirachodon</List>
+		<List>Andescynodon</List>
+		<List>Massetognathus</List>
+		<List>Exaeretodon</List>
+		<List>Luangwa</List>
+		<List>Scalenodon_angustifrons</List>
+		<List>Scalenodon_hirschsoni</List>
+		<List>Traversodon</List>
+		<List>Gomphodontosuchus</List>
+		<List>Pascualgnathus</List>
+		<List>Scalenodontoides</List>
+		<List>Menadon</List>
+		<List>Dadadon</List>
+		<List>Santacruzodon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="28">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Abdala_et_Riveiro_2003a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

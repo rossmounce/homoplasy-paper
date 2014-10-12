@@ -1,0 +1,82 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Holliday, C. M.</List>
+			<List>Gardner, N. M.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>A new eusuchian crocodyliform with novel cranial integument and its significance for the origin and evolution of Crocodylia</Title>
+		<Journal>PLoS ONE</Journal>
+		<Volume>7</Volume>
+		<Pages>e30471</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="47">
+		<List>Theriosuchus_spp</List>
+		<List>Goniopholis_spp</List>
+		<List>Bernissartia_fagesii</List>
+		<List>Susisuchus_anatoceps</List>
+		<List>Hylaeochampsa_vectiana</List>
+		<List>Isisfordia_duncani</List>
+		<List>Borealosuchus_formidabilis</List>
+		<List>Borealosuchus_wilsoni</List>
+		<List>Borealosuchus_acutidentatus</List>
+		<List>Borealosuchus_sternbergii</List>
+		<List>Leidyosuchus_canadensis</List>
+		<List>Eothoracosaurus_mississippiensis</List>
+		<List>Thecachampsoides_minor</List>
+		<List>Siquisiquesuchus_venezuelensis</List>
+		<List>Thoracosaurus_macrorhynchus</List>
+		<List>Eogavialis_africanum</List>
+		<List>Gryposuchus_colombianus</List>
+		<List>Gavialis_gangeticus</List>
+		<List>Pristichampsus_spp</List>
+		<List>Diplocynodon_darwinii</List>
+		<List>Baryphracta_deponiae</List>
+		<List>Stangerochampsa_mccabei</List>
+		<List>Brachychampsa_montana</List>
+		<List>Alligator_mississippiensis</List>
+		<List>Navajosuchus_mooki</List>
+		<List>Hassiacosuchus_haupti</List>
+		<List>Caiman_yacare</List>
+		<List>Caiman_latirostris</List>
+		<List>Melanosuchus_niger</List>
+		<List>Paleosuchus_trigonatus</List>
+		<List>Crocodylus_cataphractus</List>
+		<List>Crocodylus_porosus</List>
+		<List>Osteolaemus_tetraspis</List>
+		<List>Crocodylus_robustus</List>
+		<List>Crocodylus_megarhinus</List>
+		<List>Tomistoma_schlegelii</List>
+		<List>Tomistoma_lusitanica</List>
+		<List>Gavialosuchus_americanus</List>
+		<List>Crocodylus_spenceri</List>
+		<List>Brachyuranochampsa_eversolei</List>
+		<List>Crocodylus_acer</List>
+		<List>Crocodylus_affinis</List>
+		<List>Asiatosuchus_germanicus</List>
+		<List>Prodiplocynodon_langi</List>
+		<List>Australosuchus_clarkae</List>
+		<List>Aegyptosuchus_peyerii</List>
+		<List>Aegisuchus_witmerii</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="176">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Holliday_et_Gardner_2012ab</Filename>
+	<Parent>Delfino_etal_2008b</Parent>
+	<Sibling/>
+</SourceTree>

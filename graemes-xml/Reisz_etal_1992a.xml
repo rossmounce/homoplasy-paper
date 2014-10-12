@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Reisz, R. R.</List>
+			<List>Berman, D. S.</List>
+			<List>Scott, D.</List>
+		</Author>
+		<Year>1992</Year>
+		<Title>The cranial anatomy and relationships of <em>Secodontosaurus</em>, an unusual mammal-like reptile (Synapsida: Sphenacodontidae) from the Early Permian of Texas</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>104</Volume>
+		<Pages>127-184</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="9">
+		<List>Varanopseidae</List>
+		<List>Ophiacodontidae</List>
+		<List>Edaphosauridae</List>
+		<List>Haptodus</List>
+		<List>Sphenacodon</List>
+		<List>Ctenopsondylus</List>
+		<List>Dimetrodon</List>
+		<List>Secontosaurus</List>
+		<List>Therapsida</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="97">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Reisz_etal_1992a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

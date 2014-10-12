@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Montefeltro, F. C.</List>
+			<List>Bittencourt, J. S.</List>
+			<List>Langer, M. C.</List>
+			<List>Schultz, C. L.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>Postcranial anatomy of the hyperodapedontine rhynchosaur <em>Teyumbaita sulcognathus</em> (Azevedo and Schultz, 1987) from the Late Triassic of Southern Brazil</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>33</Volume>
+		<Pages>67-84</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List>Mesosuchus_browni</List>
+		<List>Howesia_browni</List>
+		<List>Rhynchosaurus_spp</List>
+		<List>Stenaulorhynchus_stockleyi</List>
+		<List>Mariante_Rhynchosaur</List>
+		<List>Bentonyx_sidensis</List>
+		<List>Isalorhynchus_genovefae</List>
+		<List>T_sulcognathus</List>
+		<List>Hyperodapedon_spp</List>
+		<List>Fodonyx_spenceri</List>
+		<List>EXEMS_79_slash_1992</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="65">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Montefeltro_etal_2013a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

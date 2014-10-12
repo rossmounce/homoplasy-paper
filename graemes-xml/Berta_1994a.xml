@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Berta, A.</List>
+		</Author>
+		<Year>1994</Year>
+		<Title>A new species of phocoid pinniped Pinnarctidion from the early Miocene of Oregon</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>14</Volume>
+		<Pages>405-413</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="8">
+		<List>Odobenidae</List>
+		<List>Pteronarctos</List>
+		<List>Otariidae</List>
+		<List>Pinnarctidon_bishopi</List>
+		<List>Pinnarctidion_rayi</List>
+		<List>Allodesmus</List>
+		<List>Desmatophoca</List>
+		<List>Phocidae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="40">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Berta_1994a</Filename>
+	<Parent>Berta_1991a</Parent>
+	<Sibling/>
+</SourceTree>

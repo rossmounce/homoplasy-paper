@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Damiani, R. J.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>A systematic revision and phylogenetic analysis of Triassic mastodonsauroids (Temnospondyli: Stereospondyli)</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>133</Volume>
+		<Pages>379-482</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="25">
+		<List>Konshukovia</List>
+		<List>Angusaurus</List>
+		<List>Benthosuchus</List>
+		<List>Cherninia</List>
+		<List>Chomatobatrachus</List>
+		<List>Cyclotosaurus</List>
+		<List>Deltacephalus</List>
+		<List>Eryosuchus</List>
+		<List>Eocyclotosaurus</List>
+		<List>Lydekkerina</List>
+		<List>Mastodonsaurus</List>
+		<List>Odenwaldia</List>
+		<List>P.madagascariensis</List>
+		<List>Paracyclotosaurus</List>
+		<List>Parotosuchus</List>
+		<List>Stenotosaurus</List>
+		<List>Tatrasuchus</List>
+		<List>Thoosuchus</List>
+		<List>Trematosaurus</List>
+		<List>Watsonisuchus</List>
+		<List>Wellesaurus</List>
+		<List>Wetlugasaurus</List>
+		<List>Rhineceps</List>
+		<List>Rhinesuchus</List>
+		<List>Uranocentrodon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="47">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Damiani_2001a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

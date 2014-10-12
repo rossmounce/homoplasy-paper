@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Paton, R. L.</List>
+			<List>Smithson, T. R.</List>
+			<List>Clack, J. A.</List>
+		</Author>
+		<Year>1999</Year>
+		<Title>An amniote-like skeleton from the Early Carboniferous of Scotland</Title>
+		<Journal>Nature</Journal>
+		<Volume>398</Volume>
+		<Pages>508-513</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="21">
+		<List>Acanthostega</List>
+		<List>Crassigyrinus</List>
+		<List>Greererpeton</List>
+		<List>Balanerpeton</List>
+		<List>Dendrerpeton</List>
+		<List>Eucritta</List>
+		<List>Baphetes</List>
+		<List>Whatcheeria</List>
+		<List>Eoherpeton</List>
+		<List>Gephyrostegus</List>
+		<List>Proterogyrinus</List>
+		<List>Pholiderpeton</List>
+		<List>Casineria</List>
+		<List>Bruktererpeton</List>
+		<List>Petrolacosaurus</List>
+		<List>Westlothiana</List>
+		<List>Saxonerpeton</List>
+		<List>Microbrachis</List>
+		<List>Paleothyris</List>
+		<List>Seymouria</List>
+		<List>Captorhinus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="111">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Paton_etal_1999a</Filename>
+	<Parent>Clack_1998a</Parent>
+	<Sibling/>
+</SourceTree>

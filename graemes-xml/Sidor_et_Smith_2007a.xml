@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sidor, C. A.</List>
+			<List>Smith, R. M. H.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>A second burnetiamorph therapsid from the Permian Teekloof Formation of South Africa and its associated fauna</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>27</Volume>
+		<Pages>420-430</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List>Hipposaurus</List>
+		<List>Herpetoskylax</List>
+		<List>Ictidorhinus</List>
+		<List>Lemurosaurus</List>
+		<List>Lophorhinus</List>
+		<List>Lobalopex</List>
+		<List>Proburnetia</List>
+		<List>Paraburnetia</List>
+		<List>Bullacephalus</List>
+		<List>Pachydectes</List>
+		<List>Niuksenitia</List>
+		<List>Burnetia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="20">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sidor_et_Smith_2007a</Filename>
+	<Parent>Smith_etal_2006a</Parent>
+	<Sibling/>
+</SourceTree>

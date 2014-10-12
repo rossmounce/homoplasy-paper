@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Trueb, L.</List>
+			<List>Cloutier, R.</List>
+		</Author>
+		<Year>1991</Year>
+		<Title>A phylogenetic investigation of the inter- and intrarelationsips of the Lissamphibia (Amphibia: Temnospondyli)</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>223-313</Pages>
+		<Booktitle>Origins of Major Groups of Tetrapods: Controversies and Consensus</Booktitle>
+		<Publisher>Cornell University Press</Publisher>
+		<City>Ithaca</City>
+		<Editor>
+			<List>Schultze, H.-P.</List>
+			<List>Trueb, L.</List>
+		</Editor>
+	</Source>
+	<Taxa number="7">
+		<List>Actinopterygii</List>
+		<List>Actinistia</List>
+		<List>Amniota</List>
+		<List>Anura</List>
+		<List>Caudata</List>
+		<List>Dipnoi</List>
+		<List>Apoda</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="122">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Trueb_et_Cloutier_1991ab</Filename>
+	<Parent>Trueb_et_Cloutier_1991aa</Parent>
+	<Sibling/>
+</SourceTree>

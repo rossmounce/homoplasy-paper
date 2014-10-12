@@ -1,0 +1,60 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>McDonald, A. T.</List>
+			<List>Wolfe, D. G.</List>
+			<List>Kirkland, J. I.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>A new basal hadrosauroid (Dinosauria: Ornithopoda) from the Turonian of New Mexico</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>30</Volume>
+		<Pages>799-812</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="24">
+		<List>H._foxii</List>
+		<List>Dr._altus</List>
+		<List>Ca._dispar</List>
+		<List>Th._kerri</List>
+		<List>Da._lakotaensis</List>
+		<List>F._tetoriensis</List>
+		<List>I._bernissartensis</List>
+		<List>M._atherfieldensis</List>
+		<List>Do._bampingi</List>
+		<List>O._nigeriensis</List>
+		<List>A._kurzanovi</List>
+		<List>Ji._yangi</List>
+		<List>Eq._normani</List>
+		<List>Pe._weishampeli</List>
+		<List>Pr._gobiensis</List>
+		<List>Pr._mazongshanensis</List>
+		<List>Eo._caroljonesa</List>
+		<List>Pro._byrdi</List>
+		<List>Je._rugoculus</List>
+		<List>S._gilmorei</List>
+		<List>Ba._johnsoni</List>
+		<List>Te._transsylvanicus</List>
+		<List>Br._canadensis</List>
+		<List>Co._casuarius</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="67">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>McDonald_etal_2010a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Maisch, M. W.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>Phylogeny, systematics, and origin of the Ichthyosauria - the state of the art</Title>
+		<Journal>Palaeodiversity</Journal>
+		<Volume>3</Volume>
+		<Pages>151-214</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Seymouria</List>
+		<List>Limnoscelidae</List>
+		<List>Diadectidae</List>
+		<List>Synapsida</List>
+		<List>Mesosauridae</List>
+		<List>Millerettidae</List>
+		<List>Pareiasauria</List>
+		<List>Procolophonidae</List>
+		<List>Testudines</List>
+		<List>Captorhinidae</List>
+		<List>Palaeothyris</List>
+		<List>Araeoscelidia</List>
+		<List>Ichthyosauria</List>
+		<List>Younginiformes</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="125">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Maisch_2010ab</Filename>
+	<Parent>Laurin_et_Reisz_1995a</Parent>
+	<Sibling/>
+</SourceTree>

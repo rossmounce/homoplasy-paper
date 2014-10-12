@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Xu, X.</List>
+			<List>Tan, Q.-W.</List>
+			<List>Wang, J.-M.</List>
+			<List>Zhao, X.-J.</List>
+			<List>Tan, L.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>A gigantic bird-like dinosaur from the Late Cretaceous of China</Title>
+		<Journal>Nature</Journal>
+		<Volume>447</Volume>
+		<Pages>844-847</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Herrerasaurus_ischigualastensis</List>
+		<List>Velociraptor_mongoliensis</List>
+		<List>Archaeopteryx_lithographica</List>
+		<List>Incisivosaurus</List>
+		<List>Avimimus_portentosus</List>
+		<List>Caudipteryx_zoui</List>
+		<List>Chirostenotes_pergracilis</List>
+		<List>Rinchenia_mongoliensis</List>
+		<List>Conchoraptor_gracilis</List>
+		<List>Ingenia_yanshini</List>
+		<List>Khaan_mckennai</List>
+		<List>Gigantoraptor</List>
+		<List>Unnamed_Zamin_Khondt_oviraptorid</List>
+		<List>Citipati_osmolskae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="161">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Xu_etal_2007ab</Filename>
+	<Parent>Osmolska_etal_2004a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Tsuji, L. A.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>Anatomy, cranial ontogeny and phylogenetic relationships of the pareiasaur <em>Deltavjatia rossicus</em> from the Late Permian of central Russia</Title>
+		<Journal>Earth and Environmental Science Transactions of the Royal Society of Edinburgh</Journal>
+		<Volume>104</Volume>
+		<Pages>81-122</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="29">
+		<List>Millerettidae</List>
+		<List>Owenetta</List>
+		<List>Ba_bashkyricus</List>
+		<List>Ba_mesensis</List>
+		<List>Rhipaeosaurus</List>
+		<List>Nycteroleter</List>
+		<List>Emeroleter</List>
+		<List>Macroleter</List>
+		<List>B_baini</List>
+		<List>B_seeleyi</List>
+		<List>Nochelesaurus</List>
+		<List>Embrithosaurus</List>
+		<List>Deltavjatia</List>
+		<List>Shansisaurus</List>
+		<List>Shihtienfenia</List>
+		<List>P_peringueyi</List>
+		<List>P_nasicornis</List>
+		<List>Pareiasaurus</List>
+		<List>Scutosaurus</List>
+		<List>Sanchuansaurus</List>
+		<List>Parasaurus</List>
+		<List>Elginia</List>
+		<List>Provelosaurus</List>
+		<List>Anthodon</List>
+		<List>Pumiliopareia</List>
+		<List>Nanoparia</List>
+		<List>Bunostegos</List>
+		<List>Arganaceras</List>
+		<List>Obirkovia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="125">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Tsuji_2013a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

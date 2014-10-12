@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Michaux, B.</List>
+		</Author>
+		<Year>1989</Year>
+		<Title>Cladograms can reconstruct phylogenies: an example from the fossil record</Title>
+		<Journal>Alcheringa</Journal>
+		<Volume>13</Volume>
+		<Pages>21-36</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="33">
+		<List>COG</List>
+		<List>Gracilispira_morgani</List>
+		<List>Gracilispira_rimuensis</List>
+		<List>Gracilispira_gigartoides</List>
+		<List>Gracilispira_wairarapaensis</List>
+		<List>Gracilispira_brevicula</List>
+		<List>Gracilispira_exsputa</List>
+		<List>Gracilispira_novaezelandiae</List>
+		<List>Gracilispira_benthicola</List>
+		<List>Alocospira_n_sp</List>
+		<List>Alocospira_hebera</List>
+		<List>Alocospira_subhebera</List>
+		<List>Alocospira_cuppedia</List>
+		<List>Baryspira_australis</List>
+		<List>Baryspira_depressa</List>
+		<List>Baryspira_mucronata</List>
+		<List>Baryspira_oraria</List>
+		<List>Baryspira_erica</List>
+		<List>Baryspira_gladiolaria</List>
+		<List>Baryspira_bathami</List>
+		<List>Gemaspira_robusta</List>
+		<List>Gemaspira_paltycephala</List>
+		<List>Gemaspira_pristina</List>
+		<List>Gemaspira_macbeathi</List>
+		<List>Gemaspira_tirangiensis</List>
+		<List>Gemaspira_waikaiaensis</List>
+		<List>Spinaspira_stortha</List>
+		<List>Spinaspira_cingulata</List>
+		<List>Spinaspira_spinigera</List>
+		<List>Spinaspira_tholaculus</List>
+		<List>Spinaspira_pakaurangiensis</List>
+		<List>Turrancilla_apicalis</List>
+		<List>Ancillista_velesiana</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="37">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Michaux_1989ab</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Nesbitt, S. J.</List>
+			<List>Stocker, M. R.</List>
+			<List>Small, B. J.</List>
+			<List>Downs, A.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>The osteology and relationships of <em>Vancleavea campi</em> (Reptilia: Archosauriformes)</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>157</Volume>
+		<Pages>814-864</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List>Mesosuchus</List>
+		<List>Prolacerta</List>
+		<List>Proterosuchus</List>
+		<List>Erythrosuchus</List>
+		<List>Vancleavea</List>
+		<List>Tropidosuchus</List>
+		<List>Chanaresuchus</List>
+		<List>Euparkeria</List>
+		<List>Dromicosuchus</List>
+		<List>Postosuchus</List>
+		<List>Herrerasaurus</List>
+		<List>Coelophysis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="50">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Nesbitt_etal_2009d</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

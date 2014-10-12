@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Winkler, D. A.</List>
+			<List>Murry, P. A.</List>
+			<List>Jacobs, L. L.</List>
+		</Author>
+		<Year>1997</Year>
+		<Title>A new species of Tenontosaurus (Dinosauria; Ornithopoda) from the Early Cretaceous of Texas</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>17</Volume>
+		<Pages>330-348</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List>Heterodontosaurus</List>
+		<List>Thescelosaurus</List>
+		<List>Orodromeus</List>
+		<List>Parksosaurus</List>
+		<List>Hypsilophodon</List>
+		<List>Tenontosaurus_dossi</List>
+		<List>Tenontosaurus_tilletti</List>
+		<List>Dryosaurus</List>
+		<List>Camptosaurus</List>
+		<List>Iguanodon</List>
+		<List>Hadrosauridae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="30">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Winkler_etal_1997a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

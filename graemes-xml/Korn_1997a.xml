@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Korn, D.</List>
+		</Author>
+		<Year>1997</Year>
+		<Title>Evolution of the Goniatitaceae and Visean-Namurian biogeography</Title>
+		<Journal>Acta Palaeontologica Polonica</Journal>
+		<Volume>42</Volume>
+		<Pages>177-199</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="13">
+		<List>Eoglypioceras_truncatum</List>
+		<List>Goniatites_crenistria</List>
+		<List>Arnsbergites_falcatus</List>
+		<List>Hibernicoceras_hibernicum</List>
+		<List>Paraglyphioceras_rotundum</List>
+		<List>Lusitanoceras_poststratum</List>
+		<List>Goniatitella_agricola</List>
+		<List>Neogoniatites_milleri</List>
+		<List>Hypergoniatites_exiguus</List>
+		<List>Dombarites_tectus</List>
+		<List>Proshumardites_delepniei</List>
+		<List>Platygoniatites_molaris</List>
+		<List>Delepinoceras_bressoni</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="24">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Korn_1997a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

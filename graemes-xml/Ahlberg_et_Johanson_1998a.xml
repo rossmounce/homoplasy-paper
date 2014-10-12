@@ -1,0 +1,64 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ahlberg, P. E.</List>
+			<List>Johanson, Z.</List>
+		</Author>
+		<Year>1998</Year>
+		<Title>Osteolepiforms and the ancestry of tetrapods</Title>
+		<Journal>Nature</Journal>
+		<Volume>395</Volume>
+		<Pages>792-794</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="29">
+		<List>Porolepis</List>
+		<List>Powichthys</List>
+		<List>Youngolepis</List>
+		<List>Diabolepis</List>
+		<List>Dipterus</List>
+		<List>Cabonnichthys</List>
+		<List>Mandageria</List>
+		<List>Eusthenodon</List>
+		<List>Eusthenopteron</List>
+		<List>Platyichthys</List>
+		<List>Jarvikina</List>
+		<List>Tristichopterus</List>
+		<List>Koharalepis</List>
+		<List>Canowindra</List>
+		<List>Beelarongia</List>
+		<List>Gyroptychius</List>
+		<List>Medoevia</List>
+		<List>Gogonasus</List>
+		<List>Osteolepis</List>
+		<List>Megalichthys</List>
+		<List>Ectosteorhachis</List>
+		<List>Cladarosymblema</List>
+		<List>Barameda</List>
+		<List>Gooloogongia</List>
+		<List>Panderichthys</List>
+		<List>Acanthostega</List>
+		<List>Ichthyostega</List>
+		<List>Kenichthys</List>
+		<List>Glyptolepis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="99">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ahlberg_et_Johanson_1998a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Dal Sasso, C.</List>
+			<List>Pinna, G.</List>
+		</Author>
+		<Year>1996</Year>
+		<Title><em>Besanosaurus leptorhynchus</em> n. gen. n. sp., a new shastasaurid ichthyosaur from the Middle Triassic of Besano (Lombardy, N. Italy)</Title>
+		<Journal>Paleontologia Lombarda Nouva serie</Journal>
+		<Volume>4</Volume>
+		<Pages>3-23</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="10">
+		<List>Petrolacosaurus</List>
+		<List>Grippia</List>
+		<List>Cymbospondylus</List>
+		<List>Shonisaurus</List>
+		<List>Himalayasaurus</List>
+		<List>Besanosaurus</List>
+		<List>Merriamia</List>
+		<List>Californosaurus</List>
+		<List>Pessosaurus</List>
+		<List>Shastasaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="33">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Dal_Sasso_et_Pinna_1996a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

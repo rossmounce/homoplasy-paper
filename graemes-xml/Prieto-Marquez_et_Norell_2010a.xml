@@ -1,0 +1,78 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Prieto-Marquez, A.</List>
+			<List>Norell, M. A.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>Anatomy and relationships of <em>Gilmoreosaurus mongoliensis</em> (Dinosauria: Hadrosauroidea) from the Late Cretaceous of central Asia</Title>
+		<Journal>American Museum Novitates</Journal>
+		<Volume>3694</Volume>
+		<Pages>1-49</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="43">
+		<List>Iguanodon_bernissartensis</List>
+		<List>Mantellisaurus_atherfieldensis</List>
+		<List>Shuangmiaosaurus_gilmorei</List>
+		<List>Nanyangosaurus_zhugeii</List>
+		<List>Eolambia_caroljonesa</List>
+		<List>Equijubus_normani</List>
+		<List>Jinzhousaurus_yangi</List>
+		<List>Penelopognathus_weishampeli</List>
+		<List>Probactrosaurus_gobiensis</List>
+		<List>Protohadros_byrdi</List>
+		<List>Bactrosaurus_johnsoni</List>
+		<List>Gilmoreosaurus_mongoliensis</List>
+		<List>Tanius_sinensis</List>
+		<List>Telmatosaurus_transsylvanicus</List>
+		<List>Lophorhothon_atopus</List>
+		<List>Amurosaurus_riabinini</List>
+		<List>Aralosaurus_tuberiferus</List>
+		<List>Brachylophosaurus_canadensis</List>
+		<List>Maiasaura_peeblesorum</List>
+		<List>Charonosaurus_jiayinensis</List>
+		<List>Corythosaurus_casuarius</List>
+		<List>Corythosaurus_intermedius</List>
+		<List>Hypacrosaurus_stebingeri</List>
+		<List>Hypacrosaurus_altispinus</List>
+		<List>Lambeosaurus_lambei</List>
+		<List>Lambeosaurus_magnicristatus</List>
+		<List>Edmontosaurus_annectens</List>
+		<List>Edmontosaurus_regalis</List>
+		<List>Velafrons_coahuilensis</List>
+		<List>Jaxartosaurus_aralensis</List>
+		<List>Kritosaurus_navajovius</List>
+		<List>Gryposaurus_notabilis</List>
+		<List>Gryposaurus_latidens</List>
+		<List>Olorotitan_ararhensis</List>
+		<List>Parasaurolophus_walkeri</List>
+		<List>Parasaurolophus_cyrtocristatus</List>
+		<List>Prosaurolophus_maximus</List>
+		<List>Secernosaurus_koerneri</List>
+		<List>Saurolophus_osborni</List>
+		<List>Saurolophus_angustirostris</List>
+		<List>Shantungosaurus_giganteus</List>
+		<List>Pararhabdodon_isonensis</List>
+		<List>Tsintaosaurus_spinorhinus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="287">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Prieto-Marquez_et_Norell_2010a</Filename>
+	<Parent>Prieto-Marquez_2010a</Parent>
+	<Sibling/>
+</SourceTree>

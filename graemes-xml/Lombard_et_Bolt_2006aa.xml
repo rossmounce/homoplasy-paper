@@ -1,0 +1,66 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lombard, R. E.</List>
+			<List>Bolt, J. R.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>The mandible of <em>Whatcheeria deltae</em>, an early tetrapod from the late Mississippian of Iowa</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>21-52</Pages>
+		<Booktitle>Amniote Paleobiology: Perspectives on the Evolution of Mammals, Birds, and Reptiles</Booktitle>
+		<Publisher>Chicago University Press</Publisher>
+		<City>Chicago</City>
+		<Editor>
+			<List>Carrano, M. T.</List>
+			<List>Gaudin, T. J.</List>
+			<List>Blob, R. W.</List>
+			<List>Wible, J. R.</List>
+		</Editor>
+	</Source>
+	<Taxa number="26">
+		<List>Panderichthys</List>
+		<List>Elginerpeton</List>
+		<List>Obruchevichthys</List>
+		<List>Ichthyostega</List>
+		<List>Ventastega</List>
+		<List>Metaxygnathus</List>
+		<List>Acanthostega</List>
+		<List>Whatcheeria</List>
+		<List>Tulerpeton</List>
+		<List>Crassigyrinus</List>
+		<List>Greerepeton</List>
+		<List>Megalocephalus</List>
+		<List>Phopliderpeton</List>
+		<List>Cochleosaurus</List>
+		<List>Phonerpeton</List>
+		<List>Eoherpeton</List>
+		<List>Proteogyrinus</List>
+		<List>Gephyrpstegus</List>
+		<List>Balanerpeton</List>
+		<List>Platyrhinops</List>
+		<List>Microbrachis</List>
+		<List>Discosauriscus</List>
+		<List>Eocaptorhinus</List>
+		<List>Diploceraspis</List>
+		<List>Sauropleura</List>
+		<List>Ophiacodon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="50">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lombard_et_Bolt_2006aa</Filename>
+	<Parent>Ahlberg_et_Clack_1998a</Parent>
+	<Sibling/>
+</SourceTree>

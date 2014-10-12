@@ -1,0 +1,83 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Novas, F. E.</List>
+			<List>Agnolin, F. L.</List>
+			<List>Ezcurra, M. D.</List>
+			<List>Porfiri, J.</List>
+			<List>Canale, J. I.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>Evolution of the carnivorous dinosaurs during the Cretaceous: the evidence from Patagonia</Title>
+		<Journal>Cretaceous Research</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="45">
+		<List>Syntarsus_kayentakae</List>
+		<List>Aerosteon_ricocoloradensis</List>
+		<List>Australovenator_wintonensis</List>
+		<List>Chilantaisaurus_tashuikouensis</List>
+		<List>Fukuiraptor_kitadanensis</List>
+		<List>Megaraptor_namunhuaiquii</List>
+		<List>Neovenator_salerii</List>
+		<List>Orkoraptor_burkei</List>
+		<List>Shaochilong_maortuensis</List>
+		<List>Allosaurus_fragilis</List>
+		<List>Eocarcharia_dinops</List>
+		<List>Acrocanthosaurus_atokensis</List>
+		<List>Carcharodontosaurus</List>
+		<List>Giganotosaurus_carolinii</List>
+		<List>Mapusaurus_roseae</List>
+		<List>Tyrannotitan_chubutensis</List>
+		<List>ABELISAURIDAE</List>
+		<List>Afrovenator_abakensis</List>
+		<List>Baryonyx_walkeri</List>
+		<List>Ceratosaurus_nasicornis</List>
+		<List>Compsognathus_longipes</List>
+		<List>Condorraptor_currumili</List>
+		<List>Dilophosaurus_wetherilli</List>
+		<List>Dubreuillosaurus_valesdunensis</List>
+		<List>Eustreptospondylus_oxoniensis</List>
+		<List>Guanlong_wucaii</List>
+		<List>Irritator_challengeri</List>
+		<List>Lourinhanosaurus_antunesi</List>
+		<List>Magnosaurus_nethercombensis</List>
+		<List>Marshosaurus_bicentissimus</List>
+		<List>Megalosaurus_bucklandii</List>
+		<List>Duriavenator_hesperis</List>
+		<List>Metriacanthosaurus_parkeri</List>
+		<List>Monolophosaurus_jiangi</List>
+		<List>Piatnitzkysaurus_floresi</List>
+		<List>Poekilopleuron_bucklandii</List>
+		<List>Sinraptor_dongi</List>
+		<List>Spinosaurus_aegyptiacus</List>
+		<List>Streptospondylus_altdorfensis</List>
+		<List>Suchomimus_tenerensis</List>
+		<List>Tanycolagreus_topwilsoni</List>
+		<List>Torvosaurus_tanneri</List>
+		<List>Xuanhanosaurus_qilixianensis</List>
+		<List>Chuandongocoelurus_primitivus</List>
+		<List>Piveteausaurus_divesensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="234">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Novas_etal_inpressab</Filename>
+	<Parent>Benson_2010a</Parent>
+	<Sibling/>
+</SourceTree>

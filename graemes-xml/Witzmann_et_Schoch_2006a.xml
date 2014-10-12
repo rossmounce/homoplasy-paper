@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Witzmann, F.</List>
+			<List>Schoch, R. R.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>The postcranium of <em>Archegosaurus decheni</em>, and a phylogenetic analysis of temnospondyl postcrania</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>49</Volume>
+		<Pages>1211-1235</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="18">
+		<List>Colosteidae</List>
+		<List>Dendrerpeton_acadianum</List>
+		<List>Trimerorhachis_insignis</List>
+		<List>Dvinosaurus_primus</List>
+		<List>Dissorophidae</List>
+		<List>Amphibamidae</List>
+		<List>Eryopidae</List>
+		<List>Sclerocephalus_haeuseri</List>
+		<List>Archegosaurus_decheni</List>
+		<List>Australerpeton_cosgriffi</List>
+		<List>Uranocentrodon_senekalensis</List>
+		<List>Gerrothorax_pustuloglomeratus</List>
+		<List>Plagiosuchus_pustuliferus</List>
+		<List>Siderops_kehli</List>
+		<List>Mastodonsaurus_giganteus</List>
+		<List>Paracyclotosaurus_davidi</List>
+		<List>Ladinian_trematosaurid</List>
+		<List>Metoposaurus_ouazzoui</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="52">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Witzmann_et_Schoch_2006a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

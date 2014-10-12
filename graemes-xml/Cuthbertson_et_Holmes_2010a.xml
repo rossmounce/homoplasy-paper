@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Cuthbertson, R. S.</List>
+			<List>Holmes, R. B.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>The first complete description of the holotype of Brachylophosaurus canadensis Sternberg, 1953 (Dinosauria: Hadrosauridae) with comments on intraspecific variation</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>159</Volume>
+		<Pages>373-397</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="20">
+		<List>Iguanodon</List>
+		<List>Probactrosaurus</List>
+		<List>Eolambia</List>
+		<List>Protohadros</List>
+		<List>Telmatosaurus</List>
+		<List>Corythosaurus</List>
+		<List>Hypacrosaurus</List>
+		<List>K._australis</List>
+		<List>Lambeosaurus</List>
+		<List>Lophorhothon</List>
+		<List>Naashoibitosaurus</List>
+		<List>Nipponosaurus</List>
+		<List>Parasaurolophus</List>
+		<List>Prosaurolophus</List>
+		<List>Saurolophus</List>
+		<List>Tsintaosaurus</List>
+		<List>Gryposaurus</List>
+		<List>Edmontosaurus</List>
+		<List>Brachylophosaurus</List>
+		<List>Maiasaura</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="103">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Cuthbertson_et_Holmes_2010a</Filename>
+	<Parent>Horner_etal_2004a</Parent>
+	<Sibling/>
+</SourceTree>

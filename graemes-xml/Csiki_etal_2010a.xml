@@ -1,0 +1,107 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Csiki, Z.</List>
+			<List>Vremir, M.</List>
+			<List>Brusatte, S. L.</List>
+			<List>Norell, M. A.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>An aberrant island-dwelling theropod dinosaur from the Late Cretaceous of Romania</Title>
+		<Journal>Proceedings of the National Academy of Sciences, USA</Journal>
+		<Volume>107</Volume>
+		<Pages>15357-15361</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="70">
+		<List>Allosaurus_frag</List>
+		<List>Sinraptor_dongi</List>
+		<List>Coelurus_fragil</List>
+		<List>Dilong_paradoxu</List>
+		<List>Ornitholestes_h</List>
+		<List>Incisivosaurus</List>
+		<List>Ingenia_yanshan</List>
+		<List>Citipati_osmols</List>
+		<List>Rinchenia_mongo</List>
+		<List>Oviraptor_philo</List>
+		<List>Conchoraptor_gr</List>
+		<List>Microvenator_ce</List>
+		<List>Chirostenotes_p</List>
+		<List>Avimimus_porten</List>
+		<List>Caudipteryx_zou</List>
+		<List>Segnosaurus_gal</List>
+		<List>Erlikosaurus_an</List>
+		<List>Alxasaurus_eles</List>
+		<List>Maha_kala</List>
+		<List>Dromaeosaurus_a</List>
+		<List>Utahraptor_ostr</List>
+		<List>Adasaurus_mongo</List>
+		<List>Achillobator_gi</List>
+		<List>Tsaagan_mangas</List>
+		<List>Saurornitholest</List>
+		<List>Deinonychus_ant</List>
+		<List>Velociraptor_mo</List>
+		<List>Balaur</List>
+		<List>Sinornithosauru</List>
+		<List>Microraptor_zha</List>
+		<List>Microraptor_gui</List>
+		<List>Graciliraptor_l</List>
+		<List>Rahonavis_ostro</List>
+		<List>Buitreraptor_go</List>
+		<List>Neuquenraptor</List>
+		<List>Shanag_ashile</List>
+		<List>EK_troodontid</List>
+		<List>Jinfengopteryx</List>
+		<List>Sinornithoides</List>
+		<List>Byronosaurus_ja</List>
+		<List>Troodon_formosu</List>
+		<List>Saurornithoides</List>
+		<List>Zanzabar</List>
+		<List>Sinovenator_cha</List>
+		<List>Mei_long</List>
+		<List>Archaeopteryx_l</List>
+		<List>Confuciusornis</List>
+		<List>Jeholornis_prim</List>
+		<List>Sapeornis</List>
+		<List>Apsaravis_ukhaa</List>
+		<List>Yixianornis</List>
+		<List>Alvarezsaurus_c</List>
+		<List>Patagonykus_pue</List>
+		<List>Mononykus_olecr</List>
+		<List>Shuuvia_deserti</List>
+		<List>Pelecanimimus_p</List>
+		<List>Harpymimus_okla</List>
+		<List>Shenzhousaurus</List>
+		<List>Archaeornithomi</List>
+		<List>Garudimimus_bre</List>
+		<List>Struthiomimus_a</List>
+		<List>Gallimimus_bull</List>
+		<List>Ornithomimus_ed</List>
+		<List>Anserimimus_pla</List>
+		<List>Huaxiagnathus_o</List>
+		<List>Sinosauropteryx</List>
+		<List>Compsognathus_l</List>
+		<List>Daspletosaurus</List>
+		<List>Tyrannosaurus_r</List>
+		<List>Albertosaurus_l</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="251">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Csiki_etal_2010a</Filename>
+	<Parent>Turner_etal_2007b</Parent>
+	<Sibling/>
+</SourceTree>

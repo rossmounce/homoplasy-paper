@@ -1,0 +1,70 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Mannion, P. D.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>A reassessment of <em>Mongolosaurus haplodon</em> Gilmore, 1933, a titanosaurian sauropod dinosaur from the Early Cretaceous of Inner Mongolia, People's Republic of China</Title>
+		<Journal>Journal of Systematic Palaeontology</Journal>
+		<Volume>9</Volume>
+		<Pages>355-378</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="36">
+		<List>Camarasaurus</List>
+		<List>Brachiosaurus</List>
+		<List>Aegyptosaurus</List>
+		<List>Aeolosaurus</List>
+		<List>Alamosaurus</List>
+		<List>Ampelosaurus</List>
+		<List>Andesaurus</List>
+		<List>Antarctosaurus</List>
+		<List>Argentinosaurus</List>
+		<List>Argyrosaurus</List>
+		<List>Augustinia</List>
+		<List>Epacthosaurus</List>
+		<List>Euhelopus</List>
+		<List>Brazil_Series_B</List>
+		<List>Jainosaurus</List>
+		<List>Janenschia</List>
+		<List>Lirainosaurus</List>
+		<List>Magyarosaurus</List>
+		<List>Malawisaurus</List>
+		<List>Neuquensaurus</List>
+		<List>Opisthocoelicaudia</List>
+		<List>Paralititan</List>
+		<List>Phuwiangosaurus</List>
+		<List>Quaesitosaurus</List>
+		<List>Rocasaurus</List>
+		<List>Saltasaurus</List>
+		<List>Titanosaurus</List>
+		<List>Santa_Rosa_indet.</List>
+		<List>Jabalpur_indet.</List>
+		<List>Malagasy_Taxon_B</List>
+		<List>Mongolosaurus_haplodon</List>
+		<List>Nemegtosaurus</List>
+		<List>Rapetosaurus</List>
+		<List>Dicraeosaurus</List>
+		<List>Apatosaurus</List>
+		<List>Diplodocus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="364">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Mannion_2011ac</Filename>
+	<Parent>Curry_Rogers_2005a</Parent>
+	<Sibling/>
+</SourceTree>

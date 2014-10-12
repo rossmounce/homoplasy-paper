@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Coria, R. A.</List>
+			<List>Salgado, L.</List>
+		</Author>
+		<Year>1996</Year>
+		<Title>A basal iguanodontian (Ornithischia, Ornithopoda) from the Late Cretaceous of South America</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>16</Volume>
+		<Pages>445-457</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="7">
+		<List>Marginocephalia</List>
+		<List>Heterodontosauridae</List>
+		<List>Hypsilophodontidae</List>
+		<List>Tenontosaurus</List>
+		<List>Gasparinisaura</List>
+		<List>Dryosauridae</List>
+		<List>Ankylopollexia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="40">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Coria_et_Salgado_1996a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

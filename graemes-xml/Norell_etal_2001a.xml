@@ -1,0 +1,83 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Norell, M. A.</List>
+			<List>Clark, J. M.</List>
+			<List>Makovicky, P. J.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>Phylogenetic relationships amongst coelurosaurian theropods</Title>
+		<Journal>Peabody Museum Special Publication</Journal>
+		<Volume/>
+		<Pages>49-68</Pages>
+		<Booktitle>New Perspectives on the Origin and Early Evolution of Birds</Booktitle>
+		<Publisher>Peabody Museum</Publisher>
+		<City>New Haven</City>
+		<Editor>
+			<List>Gauthier, J.</List>
+			<List>Gall, L. F.</List>
+		</Editor>
+	</Source>
+	<Taxa number="44">
+		<List>Allosaurus_fragilis</List>
+		<List>Sinraptor_dongi</List>
+		<List>Ornitholestes_hermanni</List>
+		<List>Microvenator_celer</List>
+		<List>Caudipteryx_zoui</List>
+		<List>Ingenia_yanshini</List>
+		<List>Oviraptor_mongoliensis</List>
+		<List>Oviraptor_philoceratops</List>
+		<List>Conchoraptor_gracilis</List>
+		<List>Oviraptorid_IGM_100_slash_42</List>
+		<List>Chirostenotes_pergracilis</List>
+		<List>Avimimus_portentosus</List>
+		<List>Segnosaurus_galbinensis</List>
+		<List>Erlikosaurus_andrewsi</List>
+		<List>Alxasaurus_elesitaiensis</List>
+		<List>Sinornithoides_youngi</List>
+		<List>Byronosaurus_jaffei</List>
+		<List>Troodon_formosus</List>
+		<List>Saurornithoides_mongoliensis</List>
+		<List>Saurornithoides_junior</List>
+		<List>Unenlagia_comahuensis</List>
+		<List>Sinornithosaurus_milleni</List>
+		<List>Dromaeosaurus_albertensis</List>
+		<List>Deinonychus_antirrhopus</List>
+		<List>Velociraptor_mongoliensis</List>
+		<List>Adasaurus_mongoliensis</List>
+		<List>Utahraptor_ostrommaysorum</List>
+		<List>Saurornitholestes_langstoni</List>
+		<List>Achillobator_giganticus</List>
+		<List>IGM_100_slash_1015</List>
+		<List>Rahonavis_ostromi</List>
+		<List>Archaeopteryx_lithographica</List>
+		<List>Confuciusornis_sanctus</List>
+		<List>Alvarezsaurus_calvoi</List>
+		<List>Patagonykus_puertai</List>
+		<List>Mononykus_olecranus</List>
+		<List>Shuvuuia_deserti</List>
+		<List>Garudimimus_brevipes</List>
+		<List>Pelecanimimus_polyodon</List>
+		<List>Harpymimus_okladnikovi</List>
+		<List>Struthiomimus_altus</List>
+		<List>Gallimimus_bullatus</List>
+		<List>Tyrannosaurus_rex</List>
+		<List>Albertosaurus_libratus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="205">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Norell_etal_2001a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

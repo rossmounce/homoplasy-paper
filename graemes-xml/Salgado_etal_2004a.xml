@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Salgado, L.</List>
+			<List>Garrido, A.</List>
+			<List>Cocca, S. E.</List>
+			<List>Cocca, J. R.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>Lower Cretaceous rebbachisaurid sauropods from Cerro Aguada del Leon (Lohan Cura Formation), Neuquen Province, Northwestern Patagonia, Argentina</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>24</Volume>
+		<Pages>903-912</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Jobaria</List>
+		<List>CAMARASAUROMORPHA</List>
+		<List>Haplocanthosaurus</List>
+		<List>Zapalasaurus</List>
+		<List>Limaysaurus</List>
+		<List>Nigersaurus</List>
+		<List>Rebbachisaurus</List>
+		<List>Amazonsaurus</List>
+		<List>Suuwassea</List>
+		<List>Dicraeosaurus</List>
+		<List>Amargasaurus</List>
+		<List>Apatosaurus</List>
+		<List>Diplodocus</List>
+		<List>Barosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="37">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Salgado_etal_2004a</Filename>
+	<Parent>Wilson_2002a</Parent>
+	<Sibling/>
+</SourceTree>

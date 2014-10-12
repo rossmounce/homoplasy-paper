@@ -1,0 +1,100 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sundberg, F. A.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>Cladistic analysis of Early-Middle Cambrian kochaspid trilobites (Ptychopariida)</Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>78</Volume>
+		<Pages>920-940</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="66">
+		<List>Elrathina_antiqua</List>
+		<List>Syspacephalus_gregarius</List>
+		<List>Pachyaspis_gallagari</List>
+		<List>Pachyaspis_deborra</List>
+		<List>Ptychoparella_sp_A</List>
+		<List>Amecephalites_sundbergi</List>
+		<List>Amecephalus_arrojosensis</List>
+		<List>Amecephalus_agnesensis</List>
+		<List>Amecephalus_cleora</List>
+		<List>Amecephalus_piochensis</List>
+		<List>Amecephalus_sp_A</List>
+		<List>Caborcella_arrojosensis</List>
+		<List>Caborcella_collaris</List>
+		<List>Caborcella_pseudaulax</List>
+		<List>Caborcella_reducta</List>
+		<List>Eokochaspis_delamarensis</List>
+		<List>Eokochaspis_longspina</List>
+		<List>Eokochaspis_metalaspis</List>
+		<List>Eokochaspis_nodosa</List>
+		<List>Eokochaspis_piochensis</List>
+		<List>Eokochaspis?_cabinensis</List>
+		<List>Hadrocephalites_cecinna</List>
+		<List>Hadrocephalites_convexus</List>
+		<List>Hadrocephalites_lyndonensis</List>
+		<List>Hadrocephalites_rhytidodes</List>
+		<List>Inglefieldia_porosa</List>
+		<List>Kochaspis_liliana</List>
+		<List>Kochiella_arenosa</List>
+		<List>Kochiella_augusta</List>
+		<List>Kochiella_brevaspis</List>
+		<List>Kochiella_chares</List>
+		<List>Kochiella_crito</List>
+		<List>Kochiella_eiffelensis</List>
+		<List>Kochiella_gibbosa</List>
+		<List>Kochiella_gracilis</List>
+		<List>Kochiella_mackenziensis</List>
+		<List>Kochiella_mansfieldi</List>
+		<List>Kochiella_maxeyi</List>
+		<List>Kochiella_rasettii</List>
+		<List>Kochiella_tuberculata</List>
+		<List>Kochiellina_groomensis</List>
+		<List>Kochiellina_janglensis</List>
+		<List>Kochina_americana</List>
+		<List>Kochina_macrops</List>
+		<List>Maxicella_antelopea</List>
+		<List>Mexicella_grandoculus</List>
+		<List>Mexicella_granulata</List>
+		<List>Mexicella_mexicana</List>
+		<List>Mexicella_obscurus</List>
+		<List>Mexicella_robusta</List>
+		<List>Mexicella_stator</List>
+		<List>Nyella_granosa</List>
+		<List>Nyella_rara</List>
+		<List>Nyella_plana</List>
+		<List>Nyella_clinolimbata</List>
+		<List>Nyella_columbiana</List>
+		<List>Nyella_immoderata</List>
+		<List>Nyella_skapta</List>
+		<List>Onchocephalus_depressus</List>
+		<List>Onchocephalus_fieldensis</List>
+		<List>Onchocephalus_maior</List>
+		<List>Onchocephalus_thia</List>
+		<List>Parapoulsenia_lata</List>
+		<List>Schistometopus_minor</List>
+		<List>Tonopahella_goldfieldensis</List>
+		<List>Tonopahella_walcotti</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="70">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sundberg_2004a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

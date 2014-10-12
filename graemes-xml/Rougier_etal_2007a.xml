@@ -1,0 +1,85 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Rougier, G. W.</List>
+			<List>Martinelli, A. G.</List>
+			<List>Forasiepi, A. M.</List>
+			<List>Novacek, M. J.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>New Jurassic mammals from Patagonia, Argentina: a reappraisal of australosphenidan morphology and interrelationships</Title>
+		<Journal>American Museum Novitates</Journal>
+		<Volume>3566</Volume>
+		<Pages>1-54</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="48">
+		<List>Probainognathus</List>
+		<List>Tritylodontids</List>
+		<List>Ttritheledontids</List>
+		<List>Adelobasileus</List>
+		<List>Sinoconodon</List>
+		<List>Morganucodon</List>
+		<List>Megazostrodon</List>
+		<List>Dinnetherium</List>
+		<List>Haldanodon</List>
+		<List>Hadrocodium</List>
+		<List>Kuehneotherium</List>
+		<List>Shuotherium</List>
+		<List>Ambondro</List>
+		<List>Ausktribosphenos</List>
+		<List>Henosferus</List>
+		<List>Asfaltomylos</List>
+		<List>Bishops</List>
+		<List>Steropodon</List>
+		<List>Teinolophos</List>
+		<List>Obdurodon</List>
+		<List>Ornithorhynchus</List>
+		<List>Gobiconodon</List>
+		<List>Amphilestes</List>
+		<List>Jeholodens</List>
+		<List>Priacodon</List>
+		<List>Trioracodon</List>
+		<List>Haramiyavia</List>
+		<List>Plagiaulacidans</List>
+		<List>Cimolodontans</List>
+		<List>Tinodon</List>
+		<List>Zhangheotheriids</List>
+		<List>Peramus</List>
+		<List>Amphitherium</List>
+		<List>Dryolestes</List>
+		<List>Henkelotherium</List>
+		<List>Vincelestes</List>
+		<List>Kielantherium</List>
+		<List>Aegialodon</List>
+		<List>Deltatheridium</List>
+		<List>Asiatherium</List>
+		<List>Kokopellia</List>
+		<List>Pucadelphys</List>
+		<List>Didelphis</List>
+		<List>Pappotherium</List>
+		<List>Erinaceus</List>
+		<List>Asioryctes</List>
+		<List>Prokennalestes</List>
+		<List>Montanalestes</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="288">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Rougier_etal_2007a</Filename>
+	<Parent>Luo_etal_2002a</Parent>
+	<Sibling/>
+</SourceTree>

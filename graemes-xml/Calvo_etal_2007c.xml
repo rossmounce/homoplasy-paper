@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Calvo, J. O.</List>
+			<List>Gonzalez-Riga, B. J.</List>
+			<List>Porfiri, J. D.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>A new titanosaur sauropod from the Late Cretaceous of Neuquen, Patagonia, Argentina</Title>
+		<Journal>Arquivos do Museu Nacional, Rio de Janiero</Journal>
+		<Volume>65</Volume>
+		<Pages>485-504</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="18">
+		<List>Camarasaurus_grandis</List>
+		<List>Brachiosaurus_brancai</List>
+		<List>Chubutisaurus_insignis</List>
+		<List>Andesaurus_delgadoi</List>
+		<List>Malawisaurus_dixeyi</List>
+		<List>Mendozasaurus_neguyelap</List>
+		<List>Epachthosaurus_sciuttoi</List>
+		<List>Rapetosaurus_krausei</List>
+		<List>Rinconsaurus_caudamirus</List>
+		<List>Muyelensaurus_pecheni</List>
+		<List>Gondwanatitan_faustoi</List>
+		<List>Aeolosaurus_rionegrinus</List>
+		<List>Lirainosaurus_astibiae</List>
+		<List>Opisthocoelicaudia_skarzynskii</List>
+		<List>Alamosaurus_sanjuanensis</List>
+		<List>Neuquensaurus_australis</List>
+		<List>Saltasaurus_loricatus</List>
+		<List>Rocasaurus_muniozi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="65">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Calvo_etal_2007c</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

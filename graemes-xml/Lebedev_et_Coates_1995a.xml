@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lebedev, O. A.</List>
+			<List>Coates, M. I.</List>
+		</Author>
+		<Year>1995</Year>
+		<Title>The postcranial skeleton of the Devonian tetrapod Tulerpeton curtum Lebedev</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>114</Volume>
+		<Pages>307-348</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List>Eusthenopteron</List>
+		<List>Panderichthys</List>
+		<List>Acanthostega</List>
+		<List>Ichthyostega</List>
+		<List>Tulerpeton</List>
+		<List>Crassigyrinus</List>
+		<List>Proterogyrinus</List>
+		<List>Westlothiana</List>
+		<List>Greererpeton</List>
+		<List>Balanerpeton</List>
+		<List>Saxonerpeton</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="43">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lebedev_et_Coates_1995a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Gardner, J. D.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>Monophyly and affinities of albanerpetontid amphibians (Temnospondyli; Lissamphibia)</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>131</Volume>
+		<Pages>309-352</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List>Balanerpeton</List>
+		<List>Dendrerpeton</List>
+		<List>Apateon</List>
+		<List>Doleserpeton</List>
+		<List>Apoda</List>
+		<List>Eocaecilia</List>
+		<List>Urodela</List>
+		<List>Karauridae</List>
+		<List>Anura</List>
+		<List>Triadobatrachus</List>
+		<List>Albanerpeton</List>
+		<List>Celtedens</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="59">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Gardner_2001a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

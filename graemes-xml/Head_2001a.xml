@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Head, J. J.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>A reanalysis of the phylogenetic position of Eolambia caroljonesa (Dinosauria, Iguanodontia)</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>21</Volume>
+		<Pages>392-396</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List>Iguanodon</List>
+		<List>Ouranosaurus</List>
+		<List>Altirhinus</List>
+		<List>Probactrosaurus</List>
+		<List>Eolambia</List>
+		<List>Protohadros</List>
+		<List>Telmatosaurus</List>
+		<List>Gilmoreosaurus</List>
+		<List>Bactrosaurus</List>
+		<List>Hadrosaurinae</List>
+		<List>Lambeosaurinae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="27">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Head_2001a</Filename>
+	<Parent>Head_1998a</Parent>
+	<Sibling/>
+</SourceTree>

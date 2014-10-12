@@ -1,0 +1,100 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Maddin, H. C.</List>
+			<List>Jenkins, F. A.</List>
+			<List>Anderson, J. S.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>The braincase of <em>Eocaecilia micropodia</em> (Lissamphibia, Gymnophiona) and the origin of caecilians</Title>
+		<Journal>PLoS One</Journal>
+		<Volume>7</Volume>
+		<Pages>e50743</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="64">
+		<List>Acanthostega</List>
+		<List>Proterogyrinus</List>
+		<List>Balanerpeton</List>
+		<List>Dendrerpeton</List>
+		<List>Tuditanus</List>
+		<List>Asaphestera</List>
+		<List>Hapsidopareion</List>
+		<List>Saxonerpeton</List>
+		<List>Pantylus</List>
+		<List>Cardiocephalus_sternbergi</List>
+		<List>Cardiocephalus_peabodyi</List>
+		<List>Euryodus_primus</List>
+		<List>Euryodus_dalyae</List>
+		<List>Pelodosotis</List>
+		<List>Micraroter</List>
+		<List>Rhynchonkos</List>
+		<List>Eocaecilia</List>
+		<List>Microbrachis</List>
+		<List>Batropetes</List>
+		<List>Utaherpeton</List>
+		<List>Stegotretus</List>
+		<List>Sauropleura_scalaris</List>
+		<List>Ptyonius</List>
+		<List>Urocordylus</List>
+		<List>Keraterpeton_galvani</List>
+		<List>Batrachiderpeton</List>
+		<List>Diceratosaurus</List>
+		<List>Diplocaulus_magnicornis</List>
+		<List>Diploceraspis</List>
+		<List>Scincosaurus</List>
+		<List>Brachydectes</List>
+		<List>Adelogyrinus</List>
+		<List>Oestocephalus</List>
+		<List>Phlegethontia</List>
+		<List>Greererpeton</List>
+		<List>Seymouria_baylorensis</List>
+		<List>Limnoscelis</List>
+		<List>Branchiosauridae</List>
+		<List>Micromelerpetontidae</List>
+		<List>Tersomius</List>
+		<List>Ecolsonia</List>
+		<List>Acheloma</List>
+		<List>Eryops</List>
+		<List>Doleserpeton</List>
+		<List>Salamanders</List>
+		<List>frogs</List>
+		<List>Albanerpetontidae</List>
+		<List>Micropholis</List>
+		<List>Eoscopus</List>
+		<List>Tambachia</List>
+		<List>Triadobatrachus</List>
+		<List>Karaurus</List>
+		<List>Gerobatrachus</List>
+		<List>Platyrhinops</List>
+		<List>Amphibamus</List>
+		<List>Rhinatrematidae</List>
+		<List>Ichthyophiidae</List>
+		<List>Scolecomorphidae</List>
+		<List>Herpelidae</List>
+		<List>Caeciliidae</List>
+		<List>Typhlonectidae</List>
+		<List>Dermophidae</List>
+		<List>Siphonopidae</List>
+		<List>Indotyphlidae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="308">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Maddin_etal_2012a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Fraser, N. C.</List>
+			<List>Benton, M. J.</List>
+		</Author>
+		<Year>1989</Year>
+		<Title>The Triassic reptiles <em>Brachyrhinodon</em> and <em>Polysphenodon</em> and the relationships of the sphenodontids</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>96</Volume>
+		<Pages>413-445</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="15">
+		<List>Youngina</List>
+		<List>Gephyrosaurus</List>
+		<List>Diphydontosaurus</List>
+		<List>Planocephalosaurus</List>
+		<List>Polysphenodon</List>
+		<List>Homoeosaurus</List>
+		<List>Brachyrhinodon</List>
+		<List>Clevosaurus</List>
+		<List>Kallimodon</List>
+		<List>Sapheosaurus</List>
+		<List>Piocormus</List>
+		<List>Palaeopleurosaurus</List>
+		<List>Sphenodon</List>
+		<List>Eilenodon</List>
+		<List>Toxolophosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="29">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Fraser_et_Benton_1989a</Filename>
+	<Parent>Evans_1988a</Parent>
+	<Sibling/>
+</SourceTree>

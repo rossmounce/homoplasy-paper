@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>You, H.-L.</List>
+			<List>Dodson, P.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>Redescription of neoceratopsian dinosaur Archaeoceratops and early evolution of Neoceratopsia</Title>
+		<Journal>Acta Palaeontologica Polonica</Journal>
+		<Volume>48</Volume>
+		<Pages>261-272</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List>Hypsilophodon</List>
+		<List>Stegoceras</List>
+		<List>Psittacosaurus</List>
+		<List>Chaoyangsaurus</List>
+		<List>Liaoceratops</List>
+		<List>Archaeoceratops</List>
+		<List>Bagaceratops</List>
+		<List>Protoceratops</List>
+		<List>Leptoceratops</List>
+		<List>Montanoceratops</List>
+		<List>Centrosaurus</List>
+		<List>Triceratops</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="148">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>You_et_Dodson_2003a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

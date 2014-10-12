@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Maganuco, S.</List>
+			<List>Cau, A.</List>
+			<List>Dal Sasso, C.</List>
+			<List>Pasini, G.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>Evidence of large theropods from the Middle Jurassic of the Mahajanga Basin, NW Madagascar, with implications for ceratosaurian pedal ungual evolution</Title>
+		<Journal>Atti della Societa Italiana di Scienze Naturali e del Museo Civico di Storia Naturale in Milano</Journal>
+		<Volume>148</Volume>
+		<Pages>261-271</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List>Plateosaurus_MSNM_V2555</List>
+		<List>Allosaurus_MSNM_V435</List>
+		<List>Tyrannosaurus_MSNM_V3902</List>
+		<List>Patagonykus_Novas_1997</List>
+		<List>Troodon_Russell_1969</List>
+		<List>Deinonychus_Ostrom_1969</List>
+		<List>MSMN_V6235_this_study</List>
+		<List>Ilokelesia_Coria_et_Salgado_2000</List>
+		<List>MPCM_13573_Novas_et_al_2005_cast_in_MSNM</List>
+		<List>Masiakasaurus_Carrano_et_al_2002_MSMN_V5267_V5276</List>
+		<List>MPCA_56_Novas_et_Bandyopadhyay_2001</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="8">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Maganuco_etal_2007a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

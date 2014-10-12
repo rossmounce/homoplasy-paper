@@ -1,0 +1,99 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Buscalioni, A. D.</List>
+			<List>Ortega, E.</List>
+			<List>Weishampel, D. B.</List>
+			<List>Jianu, C. M.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>A revision of the crocodyliform Allodaposuchus precedens from the Upper Cretaceous of the Hateg Basin, Romania. Its relevance in the phylogeny of Eusuchia</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>21</Volume>
+		<Pages>74-86</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="62">
+		<List>Bernissartia_fagesii</List>
+		<List>Las_Hoyas</List>
+		<List>Hylaeochampsa_vectiana</List>
+		<List>Allodapososuchus</List>
+		<List>Borealosuchus_formidabilis</List>
+		<List>Borealosuchus_acutidentatus</List>
+		<List>Leidyosuchus_canadensis</List>
+		<List>Eogavialis_africanum</List>
+		<List>Siwaliks_gavial</List>
+		<List>Pristichampsus_vorax</List>
+		<List>Diplocynodon_ratelii</List>
+		<List>Alligator_mississippiensis</List>
+		<List>Alligator_mefferdi</List>
+		<List>Alligator_mcgrewi</List>
+		<List>Allognathosuchus_mooki</List>
+		<List>Wannaganosuchus_brachymanus</List>
+		<List>Arambourgia_gaudryi</List>
+		<List>Brachychampsa_montana</List>
+		<List>Purussaurus_neivensis</List>
+		<List>Caiman_yacare</List>
+		<List>Caiman_latirostris</List>
+		<List>Paleosuchus_trigonatus</List>
+		<List>Crocodylus_cataphractus</List>
+		<List>Crocodylus_porosus</List>
+		<List>Crocodylus_palaeindicus</List>
+		<List>Crocodylus_lloidi</List>
+		<List>Crocodylus_spenceri</List>
+		<List>Crocodylus_affinis</List>
+		<List>Australosuchus_clarkae</List>
+		<List>Tomistoma_schlegelii</List>
+		<List>Tomistoma_cairense</List>
+		<List>Brachyuranochampsa_eversolei</List>
+		<List>Asiatosuchus_germanicus</List>
+		<List>Borealosuchus_sternbergii</List>
+		<List>Borealosuchus_wilsoni</List>
+		<List>Thoracosaurus_macrorhynchus</List>
+		<List>Gryposuchus_colombianus</List>
+		<List>Gavialis_gangeticus</List>
+		<List>Diplocynodon_darwini</List>
+		<List>Diplocynodon_hantoniensis</List>
+		<List>Alligator_sinensis</List>
+		<List>Alligator_olseni</List>
+		<List>Alligator_prenasalis</List>
+		<List>Allognathosuchus_wartheni</List>
+		<List>Procaimanoidea_kayi</List>
+		<List>Stangerochampsa_mccabei</List>
+		<List>Eocaiman_cavernensis</List>
+		<List>Nettosuchidae</List>
+		<List>Caiman_crocodilus</List>
+		<List>Melanosuchus_niger</List>
+		<List>Paleosuchus_palpebrosus</List>
+		<List>Crocodylus_rhombifer</List>
+		<List>Crocodylus_niloticus</List>
+		<List>Crocodylus_robustus</List>
+		<List>Crocodylus_megarhinus</List>
+		<List>Crocodylus_acer</List>
+		<List>Osteolaemus_tetraspis</List>
+		<List>Euthecodon_arambourgii</List>
+		<List>Tomistoma_lusitanica</List>
+		<List>Gavialosuchus_americanus</List>
+		<List>Dormaal_crocodyloid</List>
+		<List>Prodiplocynodon_langi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="166">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Buscalioni_etal_2001a</Filename>
+	<Parent>Brochu_1997ab</Parent>
+	<Sibling/>
+</SourceTree>

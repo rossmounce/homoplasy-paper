@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Modesto, S. P.</List>
+			<List>Scott, D. M.</List>
+			<List>Botha-Brink, J.</List>
+			<List>Reisz, R. R.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>A new and unusual procolophonid parareptile from the Lower Triassic Katberg Formation of South Africa</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>30</Volume>
+		<Pages>715-723</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="25">
+		<List>Nyctiphruretus_acudens</List>
+		<List>Owenettidae</List>
+		<List>Coletta_seca</List>
+		<List>Pintosaurus_magnidentis</List>
+		<List>Sauropareion_anoplus</List>
+		<List>Phaanthosaurus_spp</List>
+		<List>Eumetabolodon_dongshengensis</List>
+		<List>Theledectes_perforatus</List>
+		<List>Tichvinskia_vjatkensis</List>
+		<List>Timanophon_raridentatus</List>
+		<List>Kapes_spp</List>
+		<List>Thelephon_contritus</List>
+		<List>Eumetabolodon_bathycephalus</List>
+		<List>Procolophon_trigoniceps</List>
+		<List>Thelerpeton_oppressus</List>
+		<List>Teratophon_spinigenis</List>
+		<List>Pentaedrusaurus_ordocianus</List>
+		<List>Neoprocolophon_asiaticus</List>
+		<List>Sclerosaurus_armatus</List>
+		<List>Scoloparia_glyphanodon</List>
+		<List>Leptopleuron_lacertinum</List>
+		<List>Soturnia_caliodon</List>
+		<List>Hypsognathus_fenneri</List>
+		<List>Kitchingnathus_untabeni</List>
+		<List>Phonodus_dutoitorum</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="58">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Modesto_etal_2010a</Filename>
+	<Parent>Cisneros_2008b</Parent>
+	<Sibling/>
+</SourceTree>

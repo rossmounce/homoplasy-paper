@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Reisz, R. R.</List>
+			<List>Dilkes, D. W.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title><em>Archaeovenator hamiltonensis</em>, a new varanopid (Synapsida: Eupelycosauria) from the Upper Carboniferous of Kansas</Title>
+		<Journal>Canadian Journal of Earth Sciences</Journal>
+		<Volume>40</Volume>
+		<Pages>667-678</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="13">
+		<List>Reptilia</List>
+		<List>Cotylorhynchus</List>
+		<List>Eothyris</List>
+		<List>Archaeothyris</List>
+		<List>Ophiacodon</List>
+		<List>Mycterosaurus</List>
+		<List>Mesenosaurus</List>
+		<List>Elliotsmithia</List>
+		<List>Aerosaurus</List>
+		<List>Varanops</List>
+		<List>Varanodon</List>
+		<List>Archaeovenator</List>
+		<List>BP_slash_1_slash_5678</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="53">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Reisz_et_Dilkes_2003a</Filename>
+	<Parent>Reisz_etal_1998a</Parent>
+	<Sibling/>
+</SourceTree>

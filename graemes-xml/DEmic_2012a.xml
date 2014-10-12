@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>D'Emic, M. D.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>The early evolution of titanosauriform sauropod dinosaurs</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>166</Volume>
+		<Pages>624-671</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="28">
+		<List>Shunosaurus</List>
+		<List>Omeisaurus</List>
+		<List>Jobaria</List>
+		<List>Atlasaurus</List>
+		<List>Diplodocoidea</List>
+		<List>Camarasaurus</List>
+		<List>Tehuelchesaurus</List>
+		<List>Europasaurus</List>
+		<List>Giraffatitan</List>
+		<List>Brachiosaurus</List>
+		<List>Abydosaurus</List>
+		<List>Cedarosaurus</List>
+		<List>Venenosaurus</List>
+		<List>Ligabuesaurus</List>
+		<List>Sauroposeidon</List>
+		<List>Tastavinsaurus</List>
+		<List>Qiaowanlong</List>
+		<List>Erketu</List>
+		<List>Euhelopus</List>
+		<List>Daxiatitan</List>
+		<List>Tangvayosaurus</List>
+		<List>Phuwiangosaurus</List>
+		<List>Chubutisaurus</List>
+		<List>Andesaurus</List>
+		<List>Malawisaurus</List>
+		<List>Opisthocoelicaudia</List>
+		<List>Alamosaurus</List>
+		<List>Saltasaurini</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="119">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>DEmic_2012a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

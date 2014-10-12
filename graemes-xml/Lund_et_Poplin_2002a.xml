@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lund, R.</List>
+			<List>Poplin, C.</List>
+		</Author>
+		<Year>2002</Year>
+		<Title>Cladistic analysis of the relationships of the tarrasiids (Lower Carboniferous actinopterygians)</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>22</Volume>
+		<Pages>480-486</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="17">
+		<List>Outgroup</List>
+		<List>Holoptychius</List>
+		<List>Hadronector</List>
+		<List>Allenypterus</List>
+		<List>Cheirolepis</List>
+		<List>Paratarrasius</List>
+		<List>Tarrasius</List>
+		<List>Palaeoniscus</List>
+		<List>Eserratus</List>
+		<List>Pteroniscus</List>
+		<List>Moythomasia</List>
+		<List>Howqualepis</List>
+		<List>Wendyicthys</List>
+		<List>Cyranorhis</List>
+		<List>Aesopichthys</List>
+		<List>Polypterus</List>
+		<List>Paramesolepis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="75">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lund_et_Poplin_2002a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

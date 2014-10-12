@@ -1,0 +1,101 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Brusatte, S. L.</List>
+			<List>Benton, M. J.</List>
+			<List>Ruta, M.</List>
+			<List>Lloyd, G. T.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>Superiority, competition, and opportunism in the evolutionary radiation of dinosaurs</Title>
+		<Journal>Science</Journal>
+		<Volume>321</Volume>
+		<Pages>1485-1488</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="64">
+		<List>Erythrosuchus</List>
+		<List>Euparkeria</List>
+		<List>PROTEROCHAMPSIDAE</List>
+		<List>Scleromochlus</List>
+		<List>Eudimorphodon</List>
+		<List>Peteinosaurus</List>
+		<List>Preondactylus</List>
+		<List>Austriadactylus</List>
+		<List>Lagerpeton</List>
+		<List>Dromomeron</List>
+		<List>Marasuchus</List>
+		<List>Pseudolagosuchus</List>
+		<List>Silesaurus</List>
+		<List>Sacisaurus</List>
+		<List>Eucoelophysis</List>
+		<List>Lewisuchus</List>
+		<List>Eoraptor</List>
+		<List>Herrerasaurus</List>
+		<List>Coelophysis</List>
+		<List>Liliensternus</List>
+		<List>Zupaysaurus</List>
+		<List>Plateosaurus</List>
+		<List>Pantydraco</List>
+		<List>Antetonitrus</List>
+		<List>Eocursor</List>
+		<List>Heterodontosaurus</List>
+		<List>Pisanosaurus</List>
+		<List>Paleorhinus</List>
+		<List>Rutiodon</List>
+		<List>Mystriosuchus</List>
+		<List>Pseudopalatus</List>
+		<List>Aetosaurus</List>
+		<List>Stagonolepis</List>
+		<List>Desmatosuchus</List>
+		<List>Longosuchus</List>
+		<List>Ornithosuchus</List>
+		<List>Riojasuchus</List>
+		<List>Dromicosuchus</List>
+		<List>Hesperosuchus</List>
+		<List>Pseudhesperosuchus</List>
+		<List>Terrestrisuchus</List>
+		<List>Erpetosuchus</List>
+		<List>Gracilisuchus</List>
+		<List>Qianosuchus</List>
+		<List>Revuletosaurus</List>
+		<List>Arizonasaurus</List>
+		<List>Arganasuchus</List>
+		<List>Batrachotomus</List>
+		<List>Bromsgroveia</List>
+		<List>Effigia</List>
+		<List>Fasolasuchus</List>
+		<List>Lotosaurus</List>
+		<List>Poposaurus</List>
+		<List>Postosuchus</List>
+		<List>Prestosuchus</List>
+		<List>Rauisuchus</List>
+		<List>Saurosuchus</List>
+		<List>Shuvosaurus</List>
+		<List>Sillosaurus</List>
+		<List>Stagonosuchus</List>
+		<List>Teratosaurus</List>
+		<List>Ticinosuchus</List>
+		<List>Tikisuchus</List>
+		<List>Yarasuchus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="437">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Brusatte_etal_2008a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

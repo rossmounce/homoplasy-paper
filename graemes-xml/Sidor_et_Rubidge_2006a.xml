@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sidor, C. A.</List>
+			<List>Rubidge, B. S.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title><em>Herpetoskylax hopsoni</em>, a new biarmosuchian (Therapsida: Biarmosuchia) from the Beaufort Group of South Africa</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>76-113</Pages>
+		<Booktitle>Amniote Paleobiology: Perspectives on the Evolution of Mammals, Birds, and Reptiles</Booktitle>
+		<Publisher>Chicago University Press</Publisher>
+		<City>Chicago</City>
+		<Editor>
+			<List>Carrano, M. T.</List>
+			<List>Gaudin, T. J.</List>
+			<List>Blob, R. W.</List>
+			<List>Wible, J. R.</List>
+		</Editor>
+	</Source>
+	<Taxa number="15">
+		<List>Haptodus</List>
+		<List>Dimetrodon</List>
+		<List>Patronomodon</List>
+		<List>Suminia</List>
+		<List>Syodon</List>
+		<List>Titanophoneus</List>
+		<List>Titanosuchidae</List>
+		<List>Estemmenosuchus</List>
+		<List>Biarmosuchus</List>
+		<List>Hipposaurus</List>
+		<List>Lycaenodon</List>
+		<List>Herpetoskylax</List>
+		<List>Ictidorhinus</List>
+		<List>Lemurosaurus</List>
+		<List>Lobalopex</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="56">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sidor_et_Rubidge_2006a</Filename>
+	<Parent>Rubidge_et_Kitching_2003a</Parent>
+	<Sibling/>
+</SourceTree>

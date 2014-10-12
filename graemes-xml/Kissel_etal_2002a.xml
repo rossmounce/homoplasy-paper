@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Kissel, R. A.</List>
+			<List>Dilkes, D. W.</List>
+			<List>Reisz, R. R.</List>
+		</Author>
+		<Year>2002</Year>
+		<Title><em>Captorhinus magnus</em>, a new captorhinid (Amniota: Eureptilia) from the Lower Permian of Oklahoma, with new evidence on the homology of the astragalus</Title>
+		<Journal>Canadian Journal of Earth Sciences</Journal>
+		<Volume>39</Volume>
+		<Pages>1363-1372</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="9">
+		<List>Protorothyris</List>
+		<List>Romeria</List>
+		<List>Protocaptorhinus</List>
+		<List>Rhiodenticulatus</List>
+		<List>C_laticeps</List>
+		<List>C_aguti</List>
+		<List>C_magnus</List>
+		<List>Labidosaurus</List>
+		<List>Labidosaurikos</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="39">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Kissel_etal_2002a</Filename>
+	<Parent>Dodick_et_Modesto_1995a</Parent>
+	<Sibling/>
+</SourceTree>

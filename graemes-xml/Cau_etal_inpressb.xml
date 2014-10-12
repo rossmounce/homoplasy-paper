@@ -1,0 +1,73 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Cau, A.</List>
+			<List>Dalla Vecchia, F. M.</List>
+			<List>Fabbri, M.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>A thick-skulled theropod (Dinosauria, Saurischia) from the Upper Cretaceous of Morocco with implications for carcharodontosaurid cranial evolution</Title>
+		<Journal>Cretaceous Research</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="37">
+		<List>Herrerasaurus</List>
+		<List>Tawa</List>
+		<List>Abelisaurus</List>
+		<List>Acrocanthosaurus</List>
+		<List>Allosaurus</List>
+		<List>Baryonyx</List>
+		<List>Carcharodontosaurus</List>
+		<List>Carnotaurus</List>
+		<List>Ceratosaurus</List>
+		<List>Compsognathus</List>
+		<List>Cryolophosaurus</List>
+		<List>Deltadromeus</List>
+		<List>Dilong</List>
+		<List>Dilophosaurus</List>
+		<List>Dubreuillosaurus</List>
+		<List>Eocarcharia</List>
+		<List>Eustreptospondylus</List>
+		<List>Falcarius</List>
+		<List>Gallimimus</List>
+		<List>Giganotosaurus</List>
+		<List>Haplocheirus</List>
+		<List>Irritator</List>
+		<List>Limusaurus</List>
+		<List>Majungasaurus</List>
+		<List>Masiakasaurus</List>
+		<List>Monolophosaurus</List>
+		<List>Piatnitzkysaurus</List>
+		<List>Rajasaurus</List>
+		<List>Rugops</List>
+		<List>Shaochilong</List>
+		<List>Sinosauropteryx</List>
+		<List>Sinraptor</List>
+		<List>Spinosaurus</List>
+		<List>Syntarsus_kayentakatae</List>
+		<List>Troodon</List>
+		<List>Tyrannosaurus</List>
+		<List>Sauroniops</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="817">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Cau_etal_inpressb</Filename>
+	<Parent>Cau_etal_2012a</Parent>
+	<Sibling/>
+</SourceTree>

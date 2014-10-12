@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Pawley, K.</List>
+			<List>Warren, A.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>A terrestrial stereospondyl from the Lower Triassic of South Africa: the postcranial skeleton of <em>Lydekkerina huxleyi</em> (Amphibia: Temnospondyli)</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>48</Volume>
+		<Pages>281-298</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="16">
+		<List>Eryops</List>
+		<List>Trematopidae</List>
+		<List>Dissorophidae</List>
+		<List>Sclerocephalus</List>
+		<List>Archegosaurus</List>
+		<List>Platyoposaurus</List>
+		<List>Peltobatrachus</List>
+		<List>Rhinesuchidae</List>
+		<List>Lydekkerina</List>
+		<List>Eryosuchus_pronus</List>
+		<List>Mastodonsaurus</List>
+		<List>Benthosuchus</List>
+		<List>Trematosauridae</List>
+		<List>Buettneria</List>
+		<List>Rhytidosteidae</List>
+		<List>Pelorocephalus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="146">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Pawley_et_Warren_2005a</Filename>
+	<Parent>Yates_et_Warren_2000a</Parent>
+	<Sibling/>
+</SourceTree>

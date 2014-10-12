@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lu, J.-C.</List>
+			<List>Dong, Z.-M.</List>
+			<List>Azuma, Y.</List>
+			<List>Barsbold, R.</List>
+			<List>Tomida, Y.</List>
+		</Author>
+		<Year>2002</Year>
+		<Title>Oviraptorosaurs compared to birds</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>175-189</Pages>
+		<Booktitle>Proceedings of the 5th Symposium of the Society of Avian Paleontology and Evolution</Booktitle>
+		<Publisher>Science Press</Publisher>
+		<City>Beijing</City>
+		<Editor>
+			<List>Zhou, Z.-H.</List>
+			<List>Zhang, F.-C.</List>
+		</Editor>
+	</Source>
+	<Taxa number="14">
+		<List>Velociraptorinae</List>
+		<List>Archaeopteryx</List>
+		<List>Caudipteryx</List>
+		<List>Alvarezsaurus</List>
+		<List>Mononykus</List>
+		<List>Patagonykus</List>
+		<List>Oviraptorosaurs</List>
+		<List>Iberomesornis</List>
+		<List>Confucisornis</List>
+		<List>Enantiornithes</List>
+		<List>Patagopteryx</List>
+		<List>Hesperornithiformes</List>
+		<List>Ichthyornithiformes</List>
+		<List>Neornithes</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="75">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lu_etal_2002a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

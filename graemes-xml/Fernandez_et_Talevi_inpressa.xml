@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Fernandez, M. S.</List>
+			<List>Talevi, M.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>Ophthalmosaurian (Ichthyosauria) records from the Aalenian-Bajocian of Patagonia (Argentina): an overview</Title>
+		<Journal>Geological Magazine</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="16">
+		<List>Cymbospondylus_petrinus</List>
+		<List>Stenopterygius</List>
+		<List>Ichthyosaurus</List>
+		<List>Mollesaurus_periallus</List>
+		<List>Brachypterygius_extremus</List>
+		<List>Aegirosaurus_leptospondylus</List>
+		<List>Ophthalmosaurus_icenicus</List>
+		<List>Ophthalmosaurus_natans</List>
+		<List>Arthropterygius_chrisorum</List>
+		<List>Caypullisaurus_bonapartei</List>
+		<List>Maiaspondylus_lindoei</List>
+		<List>Platypterygius_americanus</List>
+		<List>Platypterygius_hercynicus</List>
+		<List>Platypterygius_platydactylus</List>
+		<List>Platypterygius_australis</List>
+		<List>Athabascasaurus_bituminous</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="49">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Fernandez_et_Talevi_inpressa</Filename>
+	<Parent>Druckenmiller_et_Maxwell_2010a</Parent>
+	<Sibling/>
+</SourceTree>

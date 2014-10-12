@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Maisch, M. W.</List>
+		</Author>
+		<Year>2014</Year>
+		<Title>A well preserved skull of <em>Cymatosaurus</em> (Reptilia: Sauropterygia) from the uppermost Buntsandstein (Middle Triassic) of Germany</Title>
+		<Journal>Neues Jahrbuch fur Geologie und Palaontologie Abhandlungen</Journal>
+		<Volume>272</Volume>
+		<Pages>213-224</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="8">
+		<List>Corosaurus</List>
+		<List>Nothosaurus</List>
+		<List>Lariosaurus</List>
+		<List>Cymatosaurus_erikae</List>
+		<List>Cymatosaurus_gracilis_BGR_9218</List>
+		<List>Cymatosaurus_latifrons</List>
+		<List>Cymatosaurus_fridericianus</List>
+		<List>Cymatosaurus_minor</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="11">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Maisch_2014a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

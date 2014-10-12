@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Clack, J. A.</List>
+		</Author>
+		<Year>2002</Year>
+		<Title>An early tetrapod from 'Romer's Gap'</Title>
+		<Journal>Nature</Journal>
+		<Volume>418</Volume>
+		<Pages>72-76</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="25">
+		<List>Eusthenopteron</List>
+		<List>Acanthostega</List>
+		<List>Ichthyostega</List>
+		<List>Crassigyrinus</List>
+		<List>Gephyrostegus</List>
+		<List>Proterogyrinus</List>
+		<List>Pholiderpeton</List>
+		<List>Greererpeton</List>
+		<List>Balanerpeton</List>
+		<List>Dendrerpeton</List>
+		<List>Eucritta</List>
+		<List>Megalocephalus</List>
+		<List>Loxomma</List>
+		<List>Baphetes</List>
+		<List>Whatcheeria</List>
+		<List>Pederpes</List>
+		<List>Seymouria</List>
+		<List>Eoherpeton</List>
+		<List>Caerorhachis</List>
+		<List>Westlotiana</List>
+		<List>Silvanerpeton</List>
+		<List>Adelogyrinus</List>
+		<List>Microbrachis</List>
+		<List>Saxonerpeton</List>
+		<List>Ptyonius</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="141">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Clack_2002a</Filename>
+	<Parent>Clack_2001a</Parent>
+	<Sibling/>
+</SourceTree>

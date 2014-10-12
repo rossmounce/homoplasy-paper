@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Reynoso, V.-H.</List>
+		</Author>
+		<Year>1996</Year>
+		<Title>A Middle Jurassic <em>Sphenodon</em>-like sphenodontian (Diapsida: Lepidosauria) from Huizachal Canyon, Tamaulipas, Mexico</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>16</Volume>
+		<Pages>210-221</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="16">
+		<List>Youngina</List>
+		<List>Squamata</List>
+		<List>Gephyrosaurus</List>
+		<List>Diphydontosaurus</List>
+		<List>Planocephalosaurus</List>
+		<List>Palaeopleurosaurus</List>
+		<List>Polysphenodon</List>
+		<List>Brachyrhinodon</List>
+		<List>Clevosaurus</List>
+		<List>Homoeosaurus</List>
+		<List>Kallimodon</List>
+		<List>Sapheosaurus</List>
+		<List>Eilenodon</List>
+		<List>Toxolophosaurus</List>
+		<List>Cynosphenodon</List>
+		<List>Sphenodon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="42">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Reynoso_1996a</Filename>
+	<Parent>Wu_1994a</Parent>
+	<Sibling/>
+</SourceTree>

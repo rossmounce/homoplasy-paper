@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Schultze, H.-P.</List>
+			<List>Chorn, J.</List>
+		</Author>
+		<Year>1997</Year>
+		<Title>The Permo-Carboniferous genus Sagenodus and the beginning of modern lungfish</Title>
+		<Journal>Contributions to Zoology</Journal>
+		<Volume>67</Volume>
+		<Pages>9-70</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="18">
+		<List>Dipterus</List>
+		<List>Rhinodipterus</List>
+		<List>Scaumenacia</List>
+		<List>Phaneropleuron</List>
+		<List>Conchopoma</List>
+		<List>Delatitia</List>
+		<List>Ctenodus</List>
+		<List>Ganopristodus</List>
+		<List>Straitonia</List>
+		<List>Tranodis</List>
+		<List>Sagenodus</List>
+		<List>Megapleuron</List>
+		<List>Palaeophichthys</List>
+		<List>Gnathoriza</List>
+		<List>Paraceratodus</List>
+		<List>Ptychoceratodus</List>
+		<List>Neoceratodus</List>
+		<List>Lepidosiren</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="47">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Schultze_et_Chorn_1997a</Filename>
+	<Parent>Schultze_et_Marshall_1993a</Parent>
+	<Sibling/>
+</SourceTree>

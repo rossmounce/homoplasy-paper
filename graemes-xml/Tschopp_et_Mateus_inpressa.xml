@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Tschopp, E.</List>
+			<List>Mateus, O.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>The skull and neck of a new flagellicaudatan sauropod from the Morrison Formation and its implication for the evolution and ontogeny of diplodocid dinosaurs</Title>
+		<Journal>Journal of Systematic Palaeontology</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Omeisaurus</List>
+		<List>Camarasaurus</List>
+		<List>Limaysaurus_tessonei</List>
+		<List>Amphicoelias</List>
+		<List>Dicraeosaurus_hansemanni</List>
+		<List>Amargasaurus</List>
+		<List>Suuwassea_emilieae</List>
+		<List>Apatosaurus</List>
+		<List>Supersaurus_vivianae</List>
+		<List>Dinheirosaurus_lourinhanensis</List>
+		<List>Tornieria_africana</List>
+		<List>Diplodocus</List>
+		<List>Barosaurus_lentus</List>
+		<List>Kaatedocus_siberi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="234">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Tschopp_et_Mateus_inpressa</Filename>
+	<Parent>Mannion_etal_2012aa</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Montefeltro, F. C.</List>
+			<List>Larsson, H. C. E.</List>
+			<List>Langer, M. C.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>A new baurusuchid (Crocodyliformes, Mesoeucrocodylia) from the Late Cretaceous of Brazil and the phylogeny of Baurusuchidae</Title>
+		<Journal>PLoS ONE</Journal>
+		<Volume>6</Volume>
+		<Pages>e21916</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="10">
+		<List>Notosuchus_terrestris</List>
+		<List>Mariliasuchus_amarali</List>
+		<List>Armadillosuchus_arrudai</List>
+		<List>Cynodontosuchus_rothi</List>
+		<List>Wargosuchus_australis</List>
+		<List>Pissarrachampsa_sera</List>
+		<List>Stratiotosuchus_maxhechti</List>
+		<List>Baurusuchus_albertoi</List>
+		<List>Baurusuchus_pachecoi</List>
+		<List>Baurusuchus_salgadoensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="66">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Montefeltro_etal_2011a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

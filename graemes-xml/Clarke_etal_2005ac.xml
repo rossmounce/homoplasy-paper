@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Clarke, J. A, Tambussi, C. P.</List>
+			<List>Noriega, J. I.</List>
+			<List>Erickson, G. M.</List>
+			<List>Ketcham, R. A.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>Definitive fossil evidence for the extant avian radiation in the Cretaceous</Title>
+		<Journal>Nature</Journal>
+		<Volume>433</Volume>
+		<Pages>305-308</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List>Tinamiformes</List>
+		<List>Charadriiformes</List>
+		<List>Phoenicopteriformes</List>
+		<List>Ciconiiformes</List>
+		<List>Galliformes</List>
+		<List>Anhima</List>
+		<List>Chauna</List>
+		<List>Anseranas</List>
+		<List>Vegavis</List>
+		<List>Presbyornis</List>
+		<List>Anatidae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="123">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Clarke_etal_2005ac</Filename>
+	<Parent>Livezey_1997a</Parent>
+	<Sibling/>
+</SourceTree>

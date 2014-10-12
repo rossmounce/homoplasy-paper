@@ -1,0 +1,66 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Nesbitt, S. J.</List>
+			<List>Irmis, R. B.</List>
+			<List>Parker, W. G.</List>
+			<List>Smith, N. D.</List>
+			<List>Turner, A. H.</List>
+			<List>Rowe, T.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>Hindlimb osteology and distribution of basal dinosauromorphs from the Late Triassic of North America</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>29</Volume>
+		<Pages>498-516</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="27">
+		<List>Euparkeria</List>
+		<List>Leptosuchus</List>
+		<List>Aetosaurus</List>
+		<List>Riojasuchus</List>
+		<List>Effigia</List>
+		<List>Postosuchus</List>
+		<List>Hesperosuchus</List>
+		<List>Protosuchus</List>
+		<List>Dimorphodon</List>
+		<List>Eudimorphodon</List>
+		<List>Lagerpeton</List>
+		<List>Dromomeron_romeri</List>
+		<List>Dromomeron_gregorii</List>
+		<List>Marasuchus</List>
+		<List>Silesaurus</List>
+		<List>Eucoelophysis</List>
+		<List>Pisanosaurus</List>
+		<List>Lesothosaurus</List>
+		<List>Heterodontosaurus</List>
+		<List>Scutellosaurus</List>
+		<List>Herrerasaurus</List>
+		<List>Chindesaurus</List>
+		<List>Saturnalia</List>
+		<List>Efraasia</List>
+		<List>Plateosaurus</List>
+		<List>Coelophysis</List>
+		<List>Allosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="130">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Nesbitt_etal_2009b</Filename>
+	<Parent>Irmis_etal_2007a</Parent>
+	<Sibling/>
+</SourceTree>

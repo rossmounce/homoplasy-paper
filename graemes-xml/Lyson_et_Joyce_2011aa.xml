@@ -1,0 +1,64 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lyson, T. R.</List>
+			<List>Joyce, W. G.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>Cranial anatomy and phylogenetic placement of the enigmatic turtle <em>Compsemys victa</em> Leidy, 1856</Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>85</Volume>
+		<Pages>789-801</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="29">
+		<List>Synapsida_slash_Diapsida</List>
+		<List>Proganochelys</List>
+		<List>Australochelys</List>
+		<List>Palaeochersis</List>
+		<List>Proterochersis</List>
+		<List>Megapleurodira</List>
+		<List>Kayentachelys</List>
+		<List>Kallokibotion</List>
+		<List>Mongolochelys</List>
+		<List>Pleurosternidae</List>
+		<List>Baenidae</List>
+		<List>Xinjiangchelys</List>
+		<List>Solnhofia</List>
+		<List>Plesiochelyidae</List>
+		<List>Meiolania</List>
+		<List>Ninjemys</List>
+		<List>Niolamia</List>
+		<List>Chubutemys</List>
+		<List>Sinemys</List>
+		<List>Otwayemys</List>
+		<List>Hangaiemys</List>
+		<List>Dracochelys</List>
+		<List>Ordosemys</List>
+		<List>Judithemys</List>
+		<List>Chelydridae</List>
+		<List>Chelonioidea</List>
+		<List>Trionychoidea</List>
+		<List>Testudinoidea</List>
+		<List>Compsemys_victa</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="111">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lyson_et_Joyce_2011aa</Filename>
+	<Parent>Gaffney_etal_2007a</Parent>
+	<Sibling/>
+</SourceTree>

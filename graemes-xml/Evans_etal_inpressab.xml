@@ -1,0 +1,66 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Evans, D. C.</List>
+			<List>Larson, D. W.</List>
+			<List>Currie, P. J.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>A new dromaeosaurid (Dinosauria: Theropoda) with Asian affinities from the latest Cretaceous of North America</Title>
+		<Journal>Naturwissenschaften</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="30">
+		<List>Archaeopteryx</List>
+		<List>Sinovenator_changii</List>
+		<List>Byronosaurus_jaffei</List>
+		<List>Troodon</List>
+		<List>Mahakala_omnogovae</List>
+		<List>Rahonavis_ostromi</List>
+		<List>Unenlagia_comahuensis</List>
+		<List>Unenlagia_paynemili</List>
+		<List>Buitreraptor_gonzalezorum</List>
+		<List>Neuquenraptor_argentinus</List>
+		<List>Austroraptor_cabazai</List>
+		<List>Microraptor</List>
+		<List>Graciliraptor_lujiatensis</List>
+		<List>Shanag_ashile</List>
+		<List>Sinornithosaurus_millennii</List>
+		<List>Hesperonychus_elizabethae</List>
+		<List>Saurornitholestes_langstoni</List>
+		<List>Atrociraptor_marshalli</List>
+		<List>Bambiraptor_feinbergi</List>
+		<List>Deinonychus_antirrhopus</List>
+		<List>Dromaeosaurus_albertensis</List>
+		<List>Utahraptor_ostrommaysorum</List>
+		<List>Achillobator_giganticus</List>
+		<List>Velociraptor_mongoliensis</List>
+		<List>Velociraptor_osmolskae</List>
+		<List>Tsaagan_mangas</List>
+		<List>Adasaurus_mongoliensis</List>
+		<List>Acheroraptor_temertyorum</List>
+		<List>Bayanshiree_Fm</List>
+		<List>Balaur_bondoc</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="116">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Evans_etal_inpressab</Filename>
+	<Parent>Longrich_et_Currie_2009b</Parent>
+	<Sibling/>
+</SourceTree>

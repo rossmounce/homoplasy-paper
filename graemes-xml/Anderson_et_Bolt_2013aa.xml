@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Anderson, J. S.</List>
+			<List>Bolt, J. R.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>New information on amphibamids (Tetrapoda, Temnospondyli) from Richards Spur (Fort Sill), Oklahoma</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>33</Volume>
+		<Pages>553-567</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="21">
+		<List>Dendrerpeton</List>
+		<List>Sclerocephalus</List>
+		<List>Eryopidae</List>
+		<List>Micromelerpeton</List>
+		<List>Ecolsonia</List>
+		<List>Trematopidae</List>
+		<List>Dissorophinae</List>
+		<List>Cacopinae</List>
+		<List>Amphibamus</List>
+		<List>Platyrhinops</List>
+		<List>Doleserpeton</List>
+		<List>Eoscopus</List>
+		<List>Micropholis</List>
+		<List>Tersomius</List>
+		<List>Pasawioops</List>
+		<List>Plemmyradytes</List>
+		<List>Georgenthalia</List>
+		<List>Gerobatrachus</List>
+		<List>Rubeostratilia</List>
+		<List>Pasawioops</List>
+		<List>T_dolesensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="66">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Anderson_et_Bolt_2013aa</Filename>
+	<Parent>Bourget_et_Anderson_2011a</Parent>
+	<Sibling/>
+</SourceTree>

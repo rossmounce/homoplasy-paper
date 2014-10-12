@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Cruzado-Caballero, P.</List>
+			<List>Canudo, J. I.</List>
+			<List>Moreno-Azanza, M.</List>
+			<List>Ruiz-Omenaca, J. I.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>New material and phylogenetic position of <em>Arenysaurus ardevoli</em>, a lambeosaurine dinosaur from the late Maastrichtian of Aren (northern Spain)</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>33</Volume>
+		<Pages>1367-1384</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="22">
+		<List>Probactrosaurus</List>
+		<List>Bactrosaurus</List>
+		<List>Gryposaurus</List>
+		<List>Aralosaurus</List>
+		<List>Tsintaosaurus</List>
+		<List>Arenysaurus</List>
+		<List>Blasisaurus</List>
+		<List>Jaxartosaurus</List>
+		<List>Amurosaurus</List>
+		<List>Charonosaurus</List>
+		<List>P_cyrtocr</List>
+		<List>P_walkeri</List>
+		<List>P_tubicen</List>
+		<List>L_lambei</List>
+		<List>L_magnicr</List>
+		<List>Corythosaurus</List>
+		<List>Olorotitan</List>
+		<List>H_stebing</List>
+		<List>H_altisp</List>
+		<List>Pararhabdodon</List>
+		<List>Velafrons</List>
+		<List>Sahaliyania</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="119">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Cruzado-Caballero_etal_2013a</Filename>
+	<Parent>Godefroit_etal_2012a</Parent>
+	<Sibling/>
+</SourceTree>

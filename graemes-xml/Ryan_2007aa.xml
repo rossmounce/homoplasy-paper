@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ryan, M. J.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>A new basal centrosaurine ceratopsid from the Oldman Formation, Southeastern Alberta</Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>81</Volume>
+		<Pages>376-396</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Protoceratops</List>
+		<List>Zuniceratops</List>
+		<List>Albertaceratops_n.gen</List>
+		<List>Centrosaurus</List>
+		<List>Styracosaurus</List>
+		<List>Einiosaurus</List>
+		<List>Achelousaurus</List>
+		<List>Pachyrhinosaurus</List>
+		<List>Triceratops</List>
+		<List>Torosaurus</List>
+		<List>Anchiceratops</List>
+		<List>Arrhinoceratops</List>
+		<List>Chasmosaurus</List>
+		<List>Pentaceratops</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="36">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ryan_2007aa</Filename>
+	<Parent/>
+	<Sibling>Ryan_2007ab</Sibling>
+</SourceTree>

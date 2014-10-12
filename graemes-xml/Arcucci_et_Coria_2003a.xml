@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Arcucci, A. B.</List>
+			<List>Coria, R. A.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>A new Triassic carnivorous dinosaur from Argentina</Title>
+		<Journal>Ameghiniana</Journal>
+		<Volume>40</Volume>
+		<Pages>217-228</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="10">
+		<List>Sauropodomorpha</List>
+		<List>Herrerasaurus</List>
+		<List>Carnotaurus</List>
+		<List>Ceratosaurus</List>
+		<List>Dilophosaurus</List>
+		<List>Coelophysis</List>
+		<List>Syntarsus</List>
+		<List>Allosauridae</List>
+		<List>Zupaysaurus</List>
+		<List>Coelurosauria</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="19">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Arcucci_et_Coria_2003a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

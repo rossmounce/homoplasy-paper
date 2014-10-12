@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Schoch, R. R.</List>
+			<List>Voigt, S.</List>
+			<List>Buchwitz, M.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>A chroniosuchid from the Triassic of Kyrgyzstan and analysis of chroniosuchian relationships</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>160</Volume>
+		<Pages>515-530</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="23">
+		<List>Ichthyostega</List>
+		<List>Pederpes</List>
+		<List>Crassigyrinus</List>
+		<List>Eucritta</List>
+		<List>Greererpeton</List>
+		<List>Balanerpeton</List>
+		<List>Cochleosaurus</List>
+		<List>Silvanerpeton</List>
+		<List>Anthracosaurus</List>
+		<List>Proterogyrinus</List>
+		<List>Eoherpeton</List>
+		<List>Palaeoherpeton</List>
+		<List>Pholiderpeton</List>
+		<List>Archeria</List>
+		<List>Bystrowiana</List>
+		<List>Chroniosuchus</List>
+		<List>Jarilinus</List>
+		<List>Chroniosaurus</List>
+		<List>Madygenerpeton</List>
+		<List>Gephyrostegus</List>
+		<List>Seymouria</List>
+		<List>Limnoscelis</List>
+		<List>Microsauria</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="52">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Schoch_etal_2010a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

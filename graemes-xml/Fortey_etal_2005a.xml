@@ -1,0 +1,61 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Fortey, R. A.</List>
+			<List>Zhang, Y.-D.</List>
+			<List>Mellish, C.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>The relationships of biserial graptolites</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>48</Volume>
+		<Pages>1241-1272</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="25">
+		<List>Tetragraptus</List>
+		<List>Pendeograptus</List>
+		<List>Didymograptellus</List>
+		<List>Expansograptus</List>
+		<List>Holmograptus</List>
+		<List>Isograptus</List>
+		<List>Arienigraptus</List>
+		<List>Pseudisograptus</List>
+		<List>Maeandrograptus</List>
+		<List>Perissograptus</List>
+		<List>Cardiograptus</List>
+		<List>Bergstroemogr</List>
+		<List>Exigraptus</List>
+		<List>U_sinodentatus</List>
+		<List>U_austrodentatus</List>
+		<List>U_formosus</List>
+		<List>U_sinicus</List>
+		<List>Oelandograptus</List>
+		<List>Hustedograptus</List>
+		<List>Eoglyptograptus</List>
+		<List>Pseudoclimacogr</List>
+		<List>Archiclimacogr</List>
+		<List>Phyllograptus</List>
+		<List>Glossograptus</List>
+		<List>Cryptograptus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="46">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Fortey_etal_2005a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

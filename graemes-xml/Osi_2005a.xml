@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Osi, A.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>Hungarosaurus tormai, a new ankylosaur (Dinosauria) from the Upper Cretaceous of Hungary</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>25</Volume>
+		<Pages>370-383</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="17">
+		<List>Scelidosaurus</List>
+		<List>Struthiosaurus</List>
+		<List>Pawpawsaurus</List>
+		<List>Hungarosaurus</List>
+		<List>Silvisaurus</List>
+		<List>Sauropelta</List>
+		<List>Edmontonia</List>
+		<List>Panoplosaurus</List>
+		<List>Gargoyleosaurus</List>
+		<List>Minmi</List>
+		<List>Gastonia</List>
+		<List>Pinacosaurus</List>
+		<List>Saichania</List>
+		<List>Euoplocephalus</List>
+		<List>Ankylosaurus</List>
+		<List>Gobisaurus</List>
+		<List>Shamosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="63">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Osi_2005a</Filename>
+	<Parent>Vickaryous_etal_2004a</Parent>
+	<Sibling/>
+</SourceTree>

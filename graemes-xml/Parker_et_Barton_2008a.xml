@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Parker, W. G.</List>
+			<List>Barton, B. J.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>New information on the Upper Triassic archosauriform <em>Vancleavea campi</em> based on new material from the Chinle Formation of Arizona</Title>
+		<Journal>Palaeontologia Electronica</Journal>
+		<Volume>11</Volume>
+		<Pages>1-20</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Youngina_capensis</List>
+		<List>Chanaresuchus_bonapartei</List>
+		<List>Desmatosuchus_haplocerus</List>
+		<List>Doswellia_kaltenbachi</List>
+		<List>Erythrosuchus_africana</List>
+		<List>Euparkeria_capensis</List>
+		<List>Leptosuchus_adamanensis</List>
+		<List>Megalancosaurus_preonensis</List>
+		<List>Mesosuchus_browni</List>
+		<List>Postosuchus_kirkpatricki</List>
+		<List>Prolacerta_broomi</List>
+		<List>Proterosuchus_fergusi</List>
+		<List>Turfanosuchus_dabanensis</List>
+		<List>Vancleavea_campi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="31">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Parker_et_Barton_2008a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

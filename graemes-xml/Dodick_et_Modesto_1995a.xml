@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Dodick, J. T.</List>
+			<List>Modesto, S. P.</List>
+		</Author>
+		<Year>1995</Year>
+		<Title>The cranial anatomy of the captorhinid reptile <em>Labidosaurikos meachami</em> from the Lower Permian of Oklahoma</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>38</Volume>
+		<Pages>687-711</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="8">
+		<List>Protorothyris</List>
+		<List>Romeria</List>
+		<List>Protocaptorhinus</List>
+		<List>Rhiodenticulatus</List>
+		<List>C_laticeps</List>
+		<List>C_aguti</List>
+		<List>Labidosaurus</List>
+		<List>Labidosaurikos</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="39">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Dodick_et_Modesto_1995a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

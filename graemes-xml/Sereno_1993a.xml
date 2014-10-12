@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sereno, P. C.</List>
+		</Author>
+		<Year>1993</Year>
+		<Title>The pectoral girdle and forelimb of the basal theropod Herrerasaurus ischigualastensis</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>13</Volume>
+		<Pages>425-450</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="7">
+		<List>PTEROSAURIA</List>
+		<List>Lagosuchus_lilloensis</List>
+		<List>Plateosaurus_engelhardti</List>
+		<List>Coelophysis_bauri</List>
+		<List>Staurikosaurus_pricei</List>
+		<List>Lesothosaurus_diagnosticus</List>
+		<List>Herrerasaurus_ischigualastensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="10">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix (although it was not intended for phylogenetic analysis).</Notes>
+	<Filename>Sereno_1993a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

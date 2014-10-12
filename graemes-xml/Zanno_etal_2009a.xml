@@ -1,0 +1,113 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Zanno, L. E.</List>
+			<List>Gillette, D. D.</List>
+			<List>lbright, L. B.</List>
+			<List>Titus, A. L.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>A new North American therizinosaurid and the role of herbivory in 'predatory' dinosaur evolution</Title>
+		<Journal>Proceedings of the Royal Society of London B</Journal>
+		<Volume>276</Volume>
+		<Pages>3505-3511</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="76">
+		<List>Allosaurus_fragilis</List>
+		<List>Sinraptor_dongi</List>
+		<List>Ornitholestes_hermanni</List>
+		<List>Coelurus_fragilis</List>
+		<List>Caudipteryx_zoui</List>
+		<List>Ingenia_yanshani</List>
+		<List>Citipati_osmolskae</List>
+		<List>Oviraptor_mongoliensis</List>
+		<List>Oviraptor_philoceratops</List>
+		<List>Conchoraptor_gracilis</List>
+		<List>Microvenator_celer</List>
+		<List>Chirostenotes_pergracilis</List>
+		<List>Avimimus_portentosus</List>
+		<List>Hagryphus_giganteus</List>
+		<List>Incisivosaurus_gauthieri</List>
+		<List>Protarchaeopteryx_robusta</List>
+		<List>Mahakala_omnogovae</List>
+		<List>Dromaeosaurus_albertensis</List>
+		<List>Utahraptor_ostrommaysorum</List>
+		<List>Adasaurus_mongoliensis</List>
+		<List>Achillobator_giganticus</List>
+		<List>Tsaagan_mangas</List>
+		<List>Saurornitholestes_langstoni</List>
+		<List>Sinornithosaurus_millenii</List>
+		<List>Microraptor_zhaoianus</List>
+		<List>Shanag_ashile</List>
+		<List>Deinonychus_antirrhopus</List>
+		<List>Velociraptor_mongoliensis</List>
+		<List>Rahonavis_ostromi</List>
+		<List>Buitreraptor_gonzalozorum</List>
+		<List>Unenlagia_comahuensis</List>
+		<List>Byronosaurus_jaffei</List>
+		<List>EK_troodontid_IGM_100_slash_44</List>
+		<List>Sinornithoides_youngi</List>
+		<List>Troodon_formosus</List>
+		<List>Saurornithoides_mongoliensis</List>
+		<List>Saurornithoides_junior</List>
+		<List>Sinovenator_changii</List>
+		<List>Mei_long</List>
+		<List>Archaeopteryx_lithographica</List>
+		<List>Jeholornis_prima</List>
+		<List>Confuciusornis_sanctus</List>
+		<List>Yanornis_martini</List>
+		<List>Alvarezsaurus_calvoi</List>
+		<List>Patagonykus_puertai</List>
+		<List>Mononykus_olecranus</List>
+		<List>Shuvuuia_deserti</List>
+		<List>Falcarius_utahensis</List>
+		<List>Beipiaosaurus_inexpectus</List>
+		<List>Alxasaurus_elesitaiensis</List>
+		<List>Segnosaurus_galbinensis</List>
+		<List>Erlikosaurus_andrewsi</List>
+		<List>Neimongosaurus_yangi</List>
+		<List>Erliansaurus_bellamanus</List>
+		<List>Suzhousaurus_megatherioides</List>
+		<List>Nothronychus_graffami</List>
+		<List>Nothronychus_mckinleyi</List>
+		<List>Enigmosaurus_mongoliensis</List>
+		<List>Nanshiungosaurus_brevispinus</List>
+		<List>Nanshiungosaurus_bohlini</List>
+		<List>Therizinosaurus_cheloniformis</List>
+		<List>Pelecanimimus_polydon</List>
+		<List>Shenzhousaurus_orientalis</List>
+		<List>Harpymimus_okladnikovi</List>
+		<List>Archaeornithomimus_asiati</List>
+		<List>Garudimimus_brevipes</List>
+		<List>Gallimimus_bullatus</List>
+		<List>Struthiomimus_altus</List>
+		<List>Ornithomimus_edmonticus</List>
+		<List>Anserimimus_planinychus</List>
+		<List>Dilong_paradoxus</List>
+		<List>Tyrannosaurus_rex</List>
+		<List>Gorgosaurus_libratus</List>
+		<List>Huaxiagnathus_orientalis</List>
+		<List>Sinosauropteryx_prima</List>
+		<List>Compsognathus_longipes</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="348">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Zanno_etal_2009a</Filename>
+	<Parent>Turner_etal_2007a</Parent>
+	<Sibling/>
+</SourceTree>

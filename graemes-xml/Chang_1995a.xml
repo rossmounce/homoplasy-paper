@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Chang, M.-M.</List>
+		</Author>
+		<Year>1995</Year>
+		<Title><em>Diabolepis</em> and its bearing on the relationships between porolepiforms and dipnoans</Title>
+		<Journal>Bulletin du Museum national d'Histoire naturelle, Paris, 4e ser</Journal>
+		<Volume>17</Volume>
+		<Pages>235-268</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="9">
+		<List>Actinopterygians</List>
+		<List>Eusthenopteron</List>
+		<List>Porolepiforms</List>
+		<List>Powichthys</List>
+		<List>Youngolepis</List>
+		<List>Diabolepis</List>
+		<List>Dipnoans</List>
+		<List>Coelacanths</List>
+		<List>Tetrapods</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="25">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Chang_1995a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

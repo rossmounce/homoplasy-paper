@@ -1,0 +1,68 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Zhu, M.</List>
+			<List>Schultze, H.-P.</List>
+		</Author>
+		<Year>1997</Year>
+		<Title>The oldest sarcopterygian fish</Title>
+		<Journal>Lethaia</Journal>
+		<Volume>30</Volume>
+		<Pages>293-304</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="33">
+		<List>Howqualepis</List>
+		<List>Moythomasia</List>
+		<List>Mimia</List>
+		<List>Cheirolepis</List>
+		<List>Polypterus</List>
+		<List>Acanthostega</List>
+		<List>Allenypterus</List>
+		<List>Barameda</List>
+		<List>Beelarongia</List>
+		<List>Crassigyrinus</List>
+		<List>Diabolepis</List>
+		<List>Dilpocercides_kaeseri</List>
+		<List>Dilpocercides_heiligenstockiensis</List>
+		<List>Dipnorhynchus</List>
+		<List>Dipterus</List>
+		<List>Elpistostege</List>
+		<List>Eusthenopteron</List>
+		<List>Glyptolepis</List>
+		<List>Gyroptychius</List>
+		<List>Holoptychius</List>
+		<List>Ichthyostega</List>
+		<List>Miguashaia</List>
+		<List>Onychodus</List>
+		<List>Osteolepis</List>
+		<List>Panderichthys</List>
+		<List>Porolepis</List>
+		<List>Powichthys</List>
+		<List>Speonesydrion</List>
+		<List>Strepsodus</List>
+		<List>Strunius</List>
+		<List>Uranolophus</List>
+		<List>Ventastega</List>
+		<List>Youngolepis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="140">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Zhu_et_Schultze_1997a</Filename>
+	<Parent>Cloutier_et_Ahlberg_1996a</Parent>
+	<Sibling/>
+</SourceTree>

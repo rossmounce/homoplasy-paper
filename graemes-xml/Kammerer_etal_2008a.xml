@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Kammerer, C. F.</List>
+			<List>Flynn, J. F.</List>
+			<List>Ranivoharimanana, L.</List>
+			<List>Wyss, A. R.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>New material of <em>Menadon besairiei</em> (Cynodontia: Traversodontidae) from the Triassic of Madagascar</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>28</Volume>
+		<Pages>445-462</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="18">
+		<List>Cynognathus</List>
+		<List>Diademodon</List>
+		<List>Trirachodon</List>
+		<List>Langbergia</List>
+		<List>Cricodon</List>
+		<List>Andescynodon</List>
+		<List>Massetognathus</List>
+		<List>Exaeretodon</List>
+		<List>Luangwa</List>
+		<List>Scal_angustifrons</List>
+		<List>Scal_hirschsoni</List>
+		<List>Traversodon</List>
+		<List>Gomphodontosuchus</List>
+		<List>Pascualgnathus</List>
+		<List>Scalenodontoides</List>
+		<List>Menadon</List>
+		<List>Dadadon</List>
+		<List>Santacruzodon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="44">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Kammerer_etal_2008a</Filename>
+	<Parent>Abdala_etal_2006a</Parent>
+	<Sibling/>
+</SourceTree>

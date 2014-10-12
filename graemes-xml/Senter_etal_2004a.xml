@@ -1,0 +1,74 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Senter, P.</List>
+			<List>Barsbold, R.</List>
+			<List>Britt, B. B.</List>
+			<List>Burnham, D. A.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>Systematics and evolution of Dromaeosauridae (Dinosauria, Theropoda)</Title>
+		<Journal>Bulletin of Gunma Museum of Natural History</Journal>
+		<Volume>8</Volume>
+		<Pages>1-20</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="37">
+		<List>Allosaurus_fragilis</List>
+		<List>Tyrannosaurus_rex</List>
+		<List>Sinosauropteryx_prima</List>
+		<List>Ornitholestes_hermanni</List>
+		<List>Sinovenator_changii</List>
+		<List>Microraptor_zhaoianus</List>
+		<List>Microraptor_gui</List>
+		<List>Cryptovolans_pauli</List>
+		<List>Sinornithosaurus_millenii</List>
+		<List>NGMC_91</List>
+		<List>Bambiraptor_jeinbergi</List>
+		<List>Velociraptor_mongoliensis</List>
+		<List>Saurornitholestes_langstoni</List>
+		<List>Adasaurus_mongoliensis</List>
+		<List>Deinonychus_antirrhopus</List>
+		<List>Achillobator_giganticus</List>
+		<List>Unenlagia_comahuensis</List>
+		<List>Hulsanpes_perlei</List>
+		<List>Pyroraptor_olympius</List>
+		<List>Variraptor_mechinorum</List>
+		<List>Byronosaurus_jaffrei</List>
+		<List>Sinornithoides_youngi</List>
+		<List>Saurornithoides_junior</List>
+		<List>Saurornithoides_mongoliensis</List>
+		<List>Troodon_formosus</List>
+		<List>Pelecanimimus_hoyasi</List>
+		<List>Struthiomimus_altus</List>
+		<List>Protarchaeopteryx</List>
+		<List>Caudipteryx_zoui</List>
+		<List>Khaan_mckennai</List>
+		<List>Archaeopteryx_lithographica</List>
+		<List>Jeholornis_prima</List>
+		<List>Rahonavis_ostromi</List>
+		<List>Yanornis_martini</List>
+		<List>Sinornis_santensis</List>
+		<List>Dromaeosaurus_albertensis</List>
+		<List>Utahraptor_ostrommaysi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="101">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Senter_etal_2004a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Evans, S. E.</List>
+		</Author>
+		<Year>1991</Year>
+		<Title>A new lizard-like reptile (Diapsida: Lepidosauromorpha) from the Middle Jurassic of England</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>103</Volume>
+		<Pages>391-412</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="8">
+		<List>Youngina</List>
+		<List>Paliguana</List>
+		<List>Kuehneosaurus</List>
+		<List>Marmoretta</List>
+		<List>Lepidosauria</List>
+		<List>Cteniogenys</List>
+		<List>Rhynchosauria</List>
+		<List>Prolacertiformes</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="35">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Evans_1991a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

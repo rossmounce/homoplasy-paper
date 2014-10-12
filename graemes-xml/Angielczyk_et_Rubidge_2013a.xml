@@ -1,0 +1,73 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Angielczyk, K. D.</List>
+			<List>Rubidge, B. S.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>Skeletal morphology, phylogenetic relationships and stratigraphic range of <em>Eosimops newtoni</em> Broom, 1921, a pylaecephalid dicynodont (Therapsida, Anomodontia) from the Middle Permian of South Africa</Title>
+		<Journal>Journal of Systematic Palaeontology</Journal>
+		<Volume>11</Volume>
+		<Pages>191-231</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="38">
+		<List>Patranomodon</List>
+		<List>Otsheria</List>
+		<List>Eodicynodon</List>
+		<List>Diictodon</List>
+		<List>Endothiodon</List>
+		<List>Chelydontops</List>
+		<List>Pristerodon</List>
+		<List>Emydops</List>
+		<List>Dicynodontoides</List>
+		<List>Cistecephalus</List>
+		<List>Myosaurus</List>
+		<List>Tropidostoma</List>
+		<List>Oudenodon</List>
+		<List>Rhachiocephalus</List>
+		<List>Geikia_locusticeps</List>
+		<List>Aulacephalodon</List>
+		<List>Dicynodon_lacerticeps</List>
+		<List>Lystrosaurus</List>
+		<List>Kannemeyeria</List>
+		<List>Idelesaurus</List>
+		<List>Interpresosaurus</List>
+		<List>Elph</List>
+		<List>quot_Dicynodon_quot_trautscholdi</List>
+		<List>Delectosaurus</List>
+		<List>Vivaxosaurus</List>
+		<List>quot_Dicynodon_quot_amaltizkii</List>
+		<List>Australobarbarus</List>
+		<List>Colobodectes</List>
+		<List>Eosimops_newtoni</List>
+		<List>Robertia_broomiana</List>
+		<List>Kombuisia</List>
+		<List>Cistecephaloides</List>
+		<List>Kawingasaurus</List>
+		<List>Prosictodon</List>
+		<List>Katumbia</List>
+		<List>Odontocyclops</List>
+		<List>Pelanomodon</List>
+		<List>Lanthanostegus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="78">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Angielczyk_et_Rubidge_2013a</Filename>
+	<Parent>Angielczyk_et_Rubidge_2010a</Parent>
+	<Sibling/>
+</SourceTree>

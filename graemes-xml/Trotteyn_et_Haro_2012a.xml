@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Trotteyn, M. J.</List>
+			<List>Haro, J. A.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>The braincase of Chanaresuchus ischigualastensis (Archosauriformes) from the Late Triassic of Argentina</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>32</Volume>
+		<Pages>867-882</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="17">
+		<List>Prolacerta</List>
+		<List>Proterosuchus</List>
+		<List>Fugusuchus</List>
+		<List>Xilousuchus</List>
+		<List>Garjainia</List>
+		<List>Erythrosuchus</List>
+		<List>Shansisuchus</List>
+		<List>Euparkeria</List>
+		<List>Sphenosuchus</List>
+		<List>Parasuchia</List>
+		<List>Stagonolepis</List>
+		<List>PVSJ_567</List>
+		<List>Chanaresuchus_UNRL_07</List>
+		<List>Proterochampsa_PVSJ_77</List>
+		<List>Doswellia</List>
+		<List>Tropidosuchus</List>
+		<List>Cerritosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="24">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Trotteyn_et_Haro_2012a</Filename>
+	<Parent>Gower_et_Sennikov_1996a</Parent>
+	<Sibling/>
+</SourceTree>

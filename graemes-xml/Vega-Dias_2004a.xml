@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Vega-Dias, C.</List>
+			<List>Maisch, M. W.</List>
+			<List>Schultz, C. L.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>A new phylogenetic analysis of Triassic dicynodonts (Therapsida) and the systematic position of <em>Jachaleria candelariensis</em> from the Upper Triassic of Brazil</Title>
+		<Journal>Neues Jahrbuch fur Geologie und Palaontologie Abhandlungen</Journal>
+		<Volume>231</Volume>
+		<Pages>145-166</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Dicynodon</List>
+		<List>Lystrosaurus</List>
+		<List>Shansiodon</List>
+		<List>Tetragonias</List>
+		<List>Kannemeyeria</List>
+		<List>Wadiasaurus</List>
+		<List>Parakannemeyeria</List>
+		<List>Sinokannemeyeria</List>
+		<List>Angonisaurus</List>
+		<List>Stahleckeria</List>
+		<List>Ischigualastia</List>
+		<List>Jachaleria</List>
+		<List>Dinodontosaurs</List>
+		<List>Placerias</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="44">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Vega-Dias_2004a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

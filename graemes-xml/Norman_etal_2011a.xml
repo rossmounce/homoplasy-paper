@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Norman, D. B.</List>
+			<List>Crompton, A. W.</List>
+			<List>Butler, R. J.</List>
+			<List>Porro, L. B.</List>
+			<List>Charig, A. J.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>The Lower Jurassic ornithischian dinosaur Heterodontosaurus tucki Crompton &amp; Charig, 1962: cranial anatomy, functional morphology, taxonomy, and relationships</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>163</Volume>
+		<Pages>182-276</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Euparkeria</List>
+		<List>Herrerasaurus</List>
+		<List>Abrictosaurus</List>
+		<List>Heterodontosaurus</List>
+		<List>NHMUK_RU_A100</List>
+		<List>Lesothosaurus</List>
+		<List>Emausaurus</List>
+		<List>Scelidosaurus</List>
+		<List>Agilisaurus</List>
+		<List>Hexinlusaurus</List>
+		<List>Hypsilophodon</List>
+		<List>Pachycephalosauridae</List>
+		<List>Ankylopollexia</List>
+		<List>Psittacosauridae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="221">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Norman_etal_2011a</Filename>
+	<Parent>Butler_etal_2008a</Parent>
+	<Sibling/>
+</SourceTree>

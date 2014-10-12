@@ -1,0 +1,106 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Aguilera, O. A.</List>
+			<List>Riff, D.</List>
+			<List>Bocquentin-Villanueva, J.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>A new giant Purussaurus (Crocodyliformes, Alligatoridae) from the Upper Miocene Urumaco Formation, Venezuela</Title>
+		<Journal>Journal of Systematic Palaeontology</Journal>
+		<Volume>4</Volume>
+		<Pages>221-232</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="70">
+		<List>Bernissartia_fagesii</List>
+		<List>Glen_Rose_Form</List>
+		<List>Hylaeochampsa_vectiana</List>
+		<List>Borealosuchus_formidabilis</List>
+		<List>Borealosuchus_wilsoni</List>
+		<List>Borealosuchus_acutidentatus</List>
+		<List>Borealosuchus_sternbergii</List>
+		<List>Leidyosuchus_canadensis</List>
+		<List>Thoracosaurus_macrorhynchus</List>
+		<List>Eogavialis_africanus</List>
+		<List>Gryposuchus_colombianus</List>
+		<List>Gavialis_lewisi</List>
+		<List>Gavialis_gangeticus</List>
+		<List>Pristichampsus_vorax</List>
+		<List>Diplocynodon_hantoniensis</List>
+		<List>Diplocynodon_ratelii</List>
+		<List>Diplocynodon_darwini</List>
+		<List>Baryphracta_deponiae</List>
+		<List>Stangerochampsa_mccabei</List>
+		<List>Brachychampsa_montana</List>
+		<List>Brachychampsa_sealyi</List>
+		<List>Alligator_sinensis</List>
+		<List>Alligator_mississippiensis</List>
+		<List>Alligator_mefferdi</List>
+		<List>Alligator_olseni</List>
+		<List>Alligator_mcqrewi</List>
+		<List>Alligator_prenasalis</List>
+		<List>Ceratosuchus_burdoshi</List>
+		<List>Allognathosuchus_haupti</List>
+		<List>Allognathosuchus_polyodon</List>
+		<List>Allognathosuchus_wartheni</List>
+		<List>Allognathosuchus_mooki</List>
+		<List>Wannaganosuchus_brachymanus</List>
+		<List>Procaimanoidea_kayi</List>
+		<List>Arambourgia_gaudryi</List>
+		<List>Eocaiman_cavernensis</List>
+		<List>Purussaurus_neivensis</List>
+		<List>Orthogenysuchus_olseni</List>
+		<List>Mourasuchus</List>
+		<List>Caiman_yacare</List>
+		<List>Caiman_crocodilus</List>
+		<List>Caiman_latirostris</List>
+		<List>Caiman_lutescens</List>
+		<List>Melanosuchus_fisheri</List>
+		<List>Melanosuchus_niger</List>
+		<List>Paleosuchus_trigonatus</List>
+		<List>Paleosuchus_palpebrosus</List>
+		<List>Deinosuchus</List>
+		<List>Crocodylus_cataphractus</List>
+		<List>Crocodylus_niloticus</List>
+		<List>Crocodylus_porosus</List>
+		<List>Crocodylus_rhombifer</List>
+		<List>Crocodylus_palaeindicus</List>
+		<List>Osteolaemus_tetraspis</List>
+		<List>Crocodylus_robustus</List>
+		<List>Crocodylus_lloidi</List>
+		<List>Crocodylus_megarhinus</List>
+		<List>Euthecodon_arambourgii</List>
+		<List>Tomistoma_schlegelii</List>
+		<List>Tomistoma_lusitanica</List>
+		<List>Gavialosuchus_americanus</List>
+		<List>Tomistoma_cairense</List>
+		<List>Crocodylus_spenceri</List>
+		<List>Brachyuranochampsa_eversolei</List>
+		<List>Dormaal_crocodyloid</List>
+		<List>Crocodylus_acer</List>
+		<List>Crocodylus_affinis</List>
+		<List>Asiatosuchus_germanicus</List>
+		<List>Prodiplocynodon_langi</List>
+		<List>Australosuchus_clarkae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="164">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Brochu_1999a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Park, L. E.</List>
+			<List>Martens, K.</List>
+			<List>Cohen, A. S.</List>
+		</Author>
+		<Year>2002</Year>
+		<Title>Phylogenetic relationships of <em>Gomphocythere</em> (Ostracoda) in Lake Tanganyika, East Africa</Title>
+		<Journal>Journal of Crustacean Biology</Journal>
+		<Volume>22</Volume>
+		<Pages>15-27</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="19">
+		<List>Cytheridella_chariessa</List>
+		<List>Leucocythere</List>
+		<List>Limnocythere_dadayi</List>
+		<List>Gomphocythere_aethiopis</List>
+		<List>Gomphocythere_alata</List>
+		<List>Gomphocythere_angulata</List>
+		<List>Gomphocythere_angusta</List>
+		<List>Gomphocythere_capensis</List>
+		<List>Gomphocythere_coheni</List>
+		<List>Gomphocythere_cristata</List>
+		<List>Gomphocythere_curta</List>
+		<List>Gomphocythere_downingi</List>
+		<List>Gomphocythere_lenis</List>
+		<List>Gomphocythere_obtusata</List>
+		<List>Gomphocythere_ortali</List>
+		<List>Gomphocythere_parcedilatata</List>
+		<List>Gomphocythere_simplex</List>
+		<List>Gomphocythere_wilsoni</List>
+		<List>Gomphocythere_woutersi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="44">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Park_etal_2002a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Steyer, S.</List>
+			<List>Damiani, R.</List>
+			<List>Sidor, C. A.</List>
+			<List>O'Keefe, R.</List>
+			<List>Larsson, H. C. E.</List>
+			<List>Maga, A.</List>
+			<List>Ide, O.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>The vertebrate fauna of the Upper Permian of Niger. IV. <em>Nigerpeton ricqlesi</em> (Temnospondyli: Cochleosauridae), and the edopoid colonization of Gondwana</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>26</Volume>
+		<Pages>18-28</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Loxomma</List>
+		<List>Baphetes</List>
+		<List>Balanerpeton_woodi</List>
+		<List>Capetus_palustris</List>
+		<List>Saharastega_moradiensis</List>
+		<List>Edops_craigi</List>
+		<List>Procochleosaurus_jarrowensis</List>
+		<List>Adamanterpeton_ohioensis</List>
+		<List>Cochleosaurus_bohemicus</List>
+		<List>Cochleosaurus_florensis</List>
+		<List>Nigerpeton_ricqlesi</List>
+		<List>Chenoprosopus_milleri</List>
+		<List>Chenoprosopus_lewisi</List>
+		<List>Eryops_megacephalus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="42">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Steyer_etal_2006a</Filename>
+	<Parent>Sidor_etal_2005a</Parent>
+	<Sibling/>
+</SourceTree>

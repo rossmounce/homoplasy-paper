@@ -1,0 +1,71 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Clark, J. M.</List>
+		</Author>
+		<Year>1994</Year>
+		<Title>Patterns of evolution in Mesozoic Crocodyliformes</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>84-97</Pages>
+		<Booktitle>In the Shadow of the Dinosaurs</Booktitle>
+		<Publisher>Cambridge University Press</Publisher>
+		<City>Cambridge</City>
+		<Editor>
+			<List>Fraser, N. C.</List>
+			<List>Sues, H.-D.</List>
+		</Editor>
+	</Source>
+	<Taxa number="34">
+		<List>Gracilisuchus</List>
+		<List>Postosuchus</List>
+		<List>Pseudhesperosuchus</List>
+		<List>Saltposuchus</List>
+		<List>Sphenosuchus</List>
+		<List>Dibrothrosuchus</List>
+		<List>Kayentaspheno</List>
+		<List>Protosuchus</List>
+		<List>Hemiprotosuchus</List>
+		<List>Kayentaedento</List>
+		<List>Eopneumatosuchus</List>
+		<List>Orthosuchus</List>
+		<List>Gobiosuchus</List>
+		<List>Pelagosaurus</List>
+		<List>Teleosauridae</List>
+		<List>Metriorhynchidae</List>
+		<List>Fruita</List>
+		<List>Notosuchus</List>
+		<List>Baurusuchus</List>
+		<List>Sebecus</List>
+		<List>Libycosuchus</List>
+		<List>Araripesuchus</List>
+		<List>Theriosuchus</List>
+		<List>Alligatorium</List>
+		<List>Eutretauranosuchus</List>
+		<List>Goniopholis</List>
+		<List>Pholidosaurus</List>
+		<List>Sokotsuchus</List>
+		<List>Dryosaurus</List>
+		<List>Bernissartia</List>
+		<List>Leidyosuchus</List>
+		<List>Gavialis</List>
+		<List>Crocodylidae</List>
+		<List>Alligatoridae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="101">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Clark_1994a</Filename>
+	<Parent>Benton_et_Clark_1988ab</Parent>
+	<Sibling/>
+</SourceTree>

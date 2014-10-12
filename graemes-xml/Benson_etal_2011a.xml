@@ -1,0 +1,103 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Benson, R. B. J.</List>
+			<List>Ketchum, H. F.</List>
+			<List>Noe, L. F.</List>
+			<List>Gomez-Perez, M.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>New information on <em>Hauffiosaurus</em> (Reptilia, Plesiosauria) based on a new species from the Alum Shale Member (lower Toarcian: Lower Jurassic) of Yorkshire, UK</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>54</Volume>
+		<Pages>547-571</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="66">
+		<List>Archaeonectrus_rostratus</List>
+		<List>Aristonectesparvidens</List>
+		<List>Attenborosaurusconybear</List>
+		<List>Augustasaurushagdorni</List>
+		<List>BEDFM_1999_slash_201</List>
+		<List>BMNH_49202</List>
+		<List>BMNH_R2439</List>
+		<List>Brachaucheniuslucasi</List>
+		<List>Brancasaurusbrancai</List>
+		<List>Callawayasauruscolombie</List>
+		<List>Cymatosaurus</List>
+		<List>Cryptocliduseurymerus</List>
+		<List>Dolichorhynchopshersche</List>
+		<List>Dolichorhynchopsosborni</List>
+		<List>Edgarosaurusmuddi</List>
+		<List>Elasmosaurus_platyurus</List>
+		<List>Eopolycotylusrankini</List>
+		<List>Eromangasaurusaustralis</List>
+		<List>Eurycleidusarcuatus</List>
+		<List>FHSMVP321</List>
+		<List>Hauffiosauruslongirostris</List>
+		<List>Hauffiosaurustomistomimus</List>
+		<List>Hauffiosauruszanoni</List>
+		<List>Hydrorionbrachypterygiu</List>
+		<List>Hydrotherosaurusalexand</List>
+		<List>Kaiwhekeakatiki</List>
+		<List>Kimmerosauruslanghami</List>
+		<List>Kronosaurusqueenslandic</List>
+		<List>Leptocleiduscapensis</List>
+		<List>Leptocleidussuperstes</List>
+		<List>Libonectesmorgani</List>
+		<List>Liopleurodonferox</List>
+		<List>Macroplatatenuiceps</List>
+		<List>Manemergusanguirostris</List>
+		<List>Maresauruscoccai</List>
+		<List>Microcleidushomalospond</List>
+		<List>Muraenosaurusleedsii</List>
+		<List>Nichollsauraborealis</List>
+		<List>Occitanosaurustournemir</List>
+		<List>OUMNH_J_dot_02247</List>
+		<List>OUMNH_J_dot_10337</List>
+		<List>OUMNH_J_dot_28585</List>
+		<List>Palmulasaurusquadratus</List>
+		<List>Peloneustesphilarchus</List>
+		<List>Plesiopleurodonwellesi</List>
+		<List>Plesiosaurusdolichodeir</List>
+		<List>Plesiosaurusmacrocephal</List>
+		<List>Pliosaurusandrewsi</List>
+		<List>Pliosaurusbrachydeirus</List>
+		<List>Pliosaurusbrachyspondyl</List>
+		<List>Polycotyluslatipinnis</List>
+		<List>QMF_18041</List>
+		<List>Rhomaleosaurusmegacepha</List>
+		<List>Rhomaleosaurusvictor</List>
+		<List>Rhomaleosauruszetlandic</List>
+		<List>Seeleyosaurusguilelmiim</List>
+		<List>Simolestesvorax</List>
+		<List>Simosaurusgaillardoti</List>
+		<List>Styxosaurussnowii</List>
+		<List>Terminonatatorpontiexen</List>
+		<List>Thalassiodraconhawkinsi</List>
+		<List>Thalassomedonhaningtoni</List>
+		<List>Thililualongicollis</List>
+		<List>Tricleidusseeleyi</List>
+		<List>Trinacromerumbentonianu</List>
+		<List>Umoonasaurusdemoscyllus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="180">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Benson_etal_2011a</Filename>
+	<Parent>Ketchum_et_Benson_2010a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,81 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Fabbri, M.</List>
+			<List>Dalla Vecchia, F. M.</List>
+			<List>Cau, A.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>New information on <em>Bobosaurus forojuliensis</em> (Reptilia: Sauropterygia): implications for plesiosaurian evolution</Title>
+		<Journal>Historical Biology</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="45">
+		<List>Ancestor</List>
+		<List>Captorhinidae</List>
+		<List>Araeoscelidia</List>
+		<List>Claudiosaurus</List>
+		<List>Youngina</List>
+		<List>Rhynchosauria</List>
+		<List>Trilophosaurus</List>
+		<List>Prolacertiformes</List>
+		<List>Choristodera</List>
+		<List>Archosauriformes</List>
+		<List>Kuehneosauridae</List>
+		<List>Rhynchocephalia</List>
+		<List>Squamata</List>
+		<List>Corosaurus</List>
+		<List>Cymatosaurus</List>
+		<List>Augustasaurus</List>
+		<List>Pistosaurus</List>
+		<List>Plesiosaurus</List>
+		<List>Simosaurus</List>
+		<List>Germanosaurus</List>
+		<List>Nothosaurus</List>
+		<List>Lariosaurus</List>
+		<List>Wumengosaurus</List>
+		<List>SerpianoNeustico</List>
+		<List>AnaroDactylo</List>
+		<List>Keichousaurus</List>
+		<List>Dianopachysaurus</List>
+		<List>Hovasaurus</List>
+		<List>Eusaurosphargis</List>
+		<List>Thalattosauria</List>
+		<List>Yunguisaurus</List>
+		<List>Diandongosaurus</List>
+		<List>Psephoderma</List>
+		<List>Cyamodus</List>
+		<List>Placodus</List>
+		<List>Paraplacodus</List>
+		<List>Sinosaurosphargis</List>
+		<List>WinterswijkSkull</List>
+		<List>Testudines</List>
+		<List>Helveticosaurus</List>
+		<List>Odontochelys</List>
+		<List>Hanosaurus</List>
+		<List>Ichthyopterygia</List>
+		<List>Bobosaurus</List>
+		<List>Thalassiodracon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="140">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Fabbri_etal_inpressaa</Filename>
+	<Parent>Neenan_etal_inpressa</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Hampe, O.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>The forgotten remains of a leptocleidid plesiosaur (Sauropterygia: Plesiosauroidea) from the Early Cretaceous of Gronau (Munsterland, Westphalia, Germany)</Title>
+		<Journal>Palaontologische Zeitschrift</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="18">
+		<List>Pistosauroidea_outgroup</List>
+		<List>Brancasaurus_brancai</List>
+		<List>Callawayasaurus_colombiensis</List>
+		<List>Cryptocleidus_eurymerus</List>
+		<List>Gronausaurus_wegneri</List>
+		<List>Hydrotherosaurus_alexandrae</List>
+		<List>Kimmerosaurus_langhami</List>
+		<List>Kronosaurus_boyacensis</List>
+		<List>Leptocleidus_superstes</List>
+		<List>Libonectes_morgani</List>
+		<List>Liopleurodon_ferox</List>
+		<List>Meyerasaurus_victor</List>
+		<List>Muraenosaurus_leedsii</List>
+		<List>Peloneustes_philarchus</List>
+		<List>Polycotylus_latipinnis</List>
+		<List>Seeleyosaurus_guilelmiimperatoris</List>
+		<List>Thalassiodracon_hawkinsi</List>
+		<List>Tricleidus_seeleyi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="33">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Hampe_inpressa</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

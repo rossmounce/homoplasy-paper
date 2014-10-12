@@ -1,0 +1,72 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sertich, J. J. W.</List>
+			<List>Loewen, M. A.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>A new basal sauropodomorph dinosaur from the Lower Jurassic Navajo Sandstone of southern Utah</Title>
+		<Journal>PLoS One</Journal>
+		<Volume>5</Volume>
+		<Pages>1-17</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="37">
+		<List>Marasuchus</List>
+		<List>Eoraptor</List>
+		<List>Herrerasaurus</List>
+		<List>Guaibasaurus</List>
+		<List>Coelophysis</List>
+		<List>Heterodontosaurus</List>
+		<List>Lesothosaurus</List>
+		<List>Saturnalia</List>
+		<List>Thecodontosaurus</List>
+		<List>Mussaurus</List>
+		<List>Efraasia</List>
+		<List>Riojasaurus</List>
+		<List>Plateosaurus</List>
+		<List>Seitaad</List>
+		<List>Coloradisaurus</List>
+		<List>Lufengosaurus</List>
+		<List>Jingshanosaurus</List>
+		<List>Lessemsaurus</List>
+		<List>Plateosauravus</List>
+		<List>Yunnanosaurus</List>
+		<List>Gyposaurus</List>
+		<List>Aardonyx</List>
+		<List>Antetonitrus</List>
+		<List>Blikanasaurus</List>
+		<List>Chinshakiangosaurus</List>
+		<List>Kotasaurus</List>
+		<List>Vulcanodon</List>
+		<List>Barapasaurus</List>
+		<List>Shunosaurus</List>
+		<List>Camarasaurus</List>
+		<List>Omeisaurus</List>
+		<List>Camelotia</List>
+		<List>Melanorosaurus</List>
+		<List>Ammosaurus</List>
+		<List>Anchisaurus</List>
+		<List>Adeopapposaurus</List>
+		<List>Massospondylus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="292">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sertich_et_Loewen_2010ab</Filename>
+	<Parent>Upchurch_etal_2007a</Parent>
+	<Sibling/>
+</SourceTree>

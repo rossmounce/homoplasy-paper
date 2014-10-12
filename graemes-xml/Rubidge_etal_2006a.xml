@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Rubidge, B. S.</List>
+			<List>Sidor, C. A.</List>
+			<List>Modesto, S. P.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>A new burnetiamorph (Therapsida: Biarmosuchia) from the Middle Permian of South Africa</Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>80</Volume>
+		<Pages>740-749</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="17">
+		<List>Haptodus</List>
+		<List>Dimetrodon</List>
+		<List>Syodon</List>
+		<List>Titanophoneus</List>
+		<List>Titanosuchidae</List>
+		<List>Estemmenosuchus</List>
+		<List>Gorgonopsia</List>
+		<List>Biarmosuchus</List>
+		<List>Hipposaurus</List>
+		<List>Lycaenodon</List>
+		<List>CGP_slash_1_slash_67</List>
+		<List>Lemurosaurus</List>
+		<List>Lobalopex</List>
+		<List>Proburnetia</List>
+		<List>Burnetia</List>
+		<List>Bullacephalus</List>
+		<List>Pachydectes</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="51">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Rubidge_etal_2006a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

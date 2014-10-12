@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Milner, A. C.</List>
+			<List>Milner, A. R.</List>
+			<List>Walsh, S. A.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>A new specimen of <em>Baphetes</em> from Nyrany, Czech Republic and the intrinsic relationships of the Baphetidae</Title>
+		<Journal>Acta Zoologica</Journal>
+		<Volume>90</Volume>
+		<Pages>318-334</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="13">
+		<List>Acanthostega</List>
+		<List>Crassigyrinus</List>
+		<List>Baphetes_kirkbyi</List>
+		<List>Baphetes_orientalis</List>
+		<List>Baphetes_orientalis_juv</List>
+		<List>Eucritta_melanolimnetes</List>
+		<List>Kyrinion_martilli</List>
+		<List>Loxomma_acutirhinus</List>
+		<List>Loxomma_allmanni</List>
+		<List>Loxomma_lintonensis</List>
+		<List>Megalocephalus_lineolatus</List>
+		<List>Megalocephalus_pachycephalus</List>
+		<List>Spathicephalus_mirus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="24">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Milner_etal_2009a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

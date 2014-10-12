@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Donoghue, P. C. J.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>Conodonts meet cladistics: recovering relationships and assessing the completeness of the conodont fossil record</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>44</Volume>
+		<Pages>65-93</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="18">
+		<List>Mehlina_gradata_gradata</List>
+		<List>Polygnathus_xylus_xylus</List>
+		<List>Mesotaxis_asymmetricus_asymmetricus</List>
+		<List>Palmatolepis_bogartensis</List>
+		<List>Palmatolepis_deliculata_deliculata</List>
+		<List>Palmatolepis_falcata</List>
+		<List>Palmatolepis_gracilis</List>
+		<List>Palmatolepis_loba</List>
+		<List>Palmatolepis_minuta_minuta</List>
+		<List>Palmatolepis_muelleri</List>
+		<List>Palmatolepis_perlobata_maxima</List>
+		<List>Palmatolepis_perlobata_perlobata</List>
+		<List>Palmatolepis_quadrantinodosalobata</List>
+		<List>Palmatolepis_rugosa</List>
+		<List>Palmatolepis_schindewola</List>
+		<List>Palmatolepis_subgracilis</List>
+		<List>Palmatolepis_winchelli</List>
+		<List>Palmatolepis_wolskae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="36">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Donoghue_2001a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

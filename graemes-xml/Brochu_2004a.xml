@@ -1,0 +1,81 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Brochu, C. A.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>A new Late Cretaceous gavialoid crocodylian from eastern North America and the phylogenetic relationships of thoracosaurs</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>24</Volume>
+		<Pages>610-633</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="47">
+		<List>Bernissartia_fagesii</List>
+		<List>Glen_Rose_Form</List>
+		<List>Hylaeochampsa_vectiana</List>
+		<List>Borealosuchus_formidabilis</List>
+		<List>Borealosuchus_wilsoni</List>
+		<List>Borealosuchus_acutidentatus</List>
+		<List>Borealosuchus_sternbergii</List>
+		<List>Pristichampsus_vorax</List>
+		<List>Leidyosuchus_canadensis</List>
+		<List>Diplocynodon_darwini</List>
+		<List>Brachychampsa_montana</List>
+		<List>Stangerochampsa_mccabei</List>
+		<List>Alligator_mississippiensis</List>
+		<List>Caiman_yacare</List>
+		<List>Prodiplocynodon_langi</List>
+		<List>Asiatosuchus_germanicus</List>
+		<List>Crocodylus_affinis</List>
+		<List>Dormaal_crocodyloid</List>
+		<List>Asiatosuchus_grangeri</List>
+		<List>Brachyuranochampsa_eversolei</List>
+		<List>Crocodylus_acer</List>
+		<List>Gavialosuchus_americanus</List>
+		<List>Crocodylus_spenceri</List>
+		<List>Tomistoma_cairense</List>
+		<List>Paratomistoma_courti</List>
+		<List>Tomistoma_schlegelii</List>
+		<List>Gavialosuchus_eggenburgensis</List>
+		<List>Australosuchus_clarkae</List>
+		<List>Kembara_murgonensis</List>
+		<List>Crocodylus_megarhinus</List>
+		<List>Euthecodon_arambourgii</List>
+		<List>Osteolaemus_tetraspis</List>
+		<List>Crocodylus_robustus</List>
+		<List>Crocodylus_lloidi</List>
+		<List>Crocodylus_cataphractus</List>
+		<List>Crocodylus_palaeindicus</List>
+		<List>Crocodylus_porosus</List>
+		<List>Crocodylus_niloticus</List>
+		<List>Crocodylus_rhombifer</List>
+		<List>Eothoracosaurus_mississippiensis</List>
+		<List>Thoracosaurus_neocesariensis</List>
+		<List>Thoracosaurus_macrorhynchus</List>
+		<List>Thecachampsoides_minor</List>
+		<List>Eogavialis_africanus</List>
+		<List>Gryposuchus_colombianus</List>
+		<List>Siwalik_Gavialis</List>
+		<List>Gavialis_gangeticus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="164">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Brochu_2004a</Filename>
+	<Parent>Brochu_1999a</Parent>
+	<Sibling/>
+</SourceTree>

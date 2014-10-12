@@ -1,0 +1,61 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Chiappe, L. M.</List>
+		</Author>
+		<Year>2002</Year>
+		<Title>Basal bird phylogeny: Problems and solutions</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>448-472</Pages>
+		<Booktitle>Mesozoic Birds: Above the Heads of Dinosaurs</Booktitle>
+		<Publisher>University of California Press</Publisher>
+		<City>Berkeley</City>
+		<Editor>
+			<List>Chiappe, L. M.</List>
+			<List>Witmer, L. M.</List>
+		</Editor>
+	</Source>
+	<Taxa number="24">
+		<List>Allosauroidea</List>
+		<List>Velociraptorina</List>
+		<List>Troodontidae</List>
+		<List>Archaeopteryx</List>
+		<List>Rahonavis</List>
+		<List>Confuciusornis</List>
+		<List>Changchengornis</List>
+		<List>Noguerornis</List>
+		<List>Iberomesornis</List>
+		<List>Eoalulavis</List>
+		<List>Concornis</List>
+		<List>Sinornis</List>
+		<List>Gobipteryx</List>
+		<List>Neuquenornis</List>
+		<List>Patagopteryx</List>
+		<List>Vorona</List>
+		<List>Hesperornis</List>
+		<List>Ambiortus</List>
+		<List>Ichthyornis</List>
+		<List>Anas</List>
+		<List>Alvarezsaurus</List>
+		<List>Patagonykus</List>
+		<List>Mononykus</List>
+		<List>Shuvuuia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="169">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Chiappe_2002a</Filename>
+	<Parent>Chiappe_2001a</Parent>
+	<Sibling/>
+</SourceTree>

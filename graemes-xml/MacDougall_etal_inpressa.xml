@@ -1,0 +1,61 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>MacDougall, M. J.</List>
+			<List>Modesto, S. P.</List>
+			<List>Botha-Brink, J.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>The postcranial skeleton of the Early Triassic parareptile <em>Sauropareion anoplus</em>, with a discussion of possible life history</Title>
+		<Journal>Acta Palaeontologica Polonica</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="25">
+		<List>Nyctiphruretus_acudens</List>
+		<List>Owenettidae</List>
+		<List>Coletta_seca</List>
+		<List>Pintosaurus_magnidentis</List>
+		<List>Sauropareion_anoplus</List>
+		<List>Phaanthosaurus_spp</List>
+		<List>Eumetabolodon_dongshengensis</List>
+		<List>Theledectes_perforatus</List>
+		<List>Tichvinskia_vjatkensis</List>
+		<List>Timanophon_raridentatus</List>
+		<List>Kapes_spp</List>
+		<List>Thelephon_contritus</List>
+		<List>Eumetabolodon_bathycephalus</List>
+		<List>Procolophon_trigoniceps</List>
+		<List>Thelerpeton_oppressus</List>
+		<List>Teratophon_spinigenis</List>
+		<List>Pentaedrusaurus_ordosianus</List>
+		<List>Neoprocolophon_asiaticus</List>
+		<List>Sclerosaurus_armatus</List>
+		<List>Scoloparia_glyphanodon</List>
+		<List>Leptopleuron_lacertinum</List>
+		<List>Soturnia_caliodon</List>
+		<List>Hypsognathus_fenneri</List>
+		<List>Phonodus_dutoitorum</List>
+		<List>Kitchingnathus_untabeni</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="59">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>MacDougall_etal_inpressa</Filename>
+	<Parent>MacDougall_et_Modesto_2011a</Parent>
+	<Sibling/>
+</SourceTree>

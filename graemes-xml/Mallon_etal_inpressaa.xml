@@ -1,0 +1,64 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Mallon, J. C.</List>
+			<List>Holmes, R.</List>
+			<List>Anderson, J. S.</List>
+			<List>Farke, A. A.</List>
+			<List>Evans, D. C.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>New information on the rare horned dinosaur <em>Arrhinoceratops brachyops</em> (Ornithischia: Ceratopsidae) from the Upper Cretaceous of Alberta, Canada</Title>
+		<Journal>Canadian Journal of Earth Sciences</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="26">
+		<List>Leptoceratops_gracilis</List>
+		<List>Protoceratops_andrewsi</List>
+		<List>Zuniceratops_christopheri</List>
+		<List>Turanoceratops_tardabilis</List>
+		<List>Albertaceratops_nesmoi</List>
+		<List>Centrosaurus_apertus</List>
+		<List>Pachyrhinosaurus_lakustai</List>
+		<List>Chasmosaurus_belli</List>
+		<List>Chasmosaurus_russelli</List>
+		<List>Mojoceratops_perifania</List>
+		<List>Vagaceratops_irvinensis</List>
+		<List>Kosmoceratops_richardsoni</List>
+		<List>Agujaceratops_mariscalensis</List>
+		<List>Utahceratops_gettyi</List>
+		<List>Pentaceratops_sternbergii</List>
+		<List>Coahuilaceratops_magnacuerna</List>
+		<List>Anchiceratops_ornatus</List>
+		<List>Arrhinoceratops_brachyops</List>
+		<List>Ojoceratops_fowleri</List>
+		<List>Torosaurus_latus</List>
+		<List>Torosaurus_utahensis</List>
+		<List>Eotriceratops_xerinsularis</List>
+		<List>Nedoceratops_hatcheri</List>
+		<List>Triceratops_horridus</List>
+		<List>Triceratops_prorsus</List>
+		<List>Bravoceratops_polyphemus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="152">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Mallon_etal_inpressaa</Filename>
+	<Parent>Wick_et_Lehman_inpressa</Parent>
+	<Sibling/>
+</SourceTree>

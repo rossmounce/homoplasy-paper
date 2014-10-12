@@ -1,0 +1,81 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Holtz, T. R.</List>
+		</Author>
+		<Year>1998</Year>
+		<Title>A new phylogeny of carnivorous dinosaurs</Title>
+		<Journal>Gaia</Journal>
+		<Volume>15</Volume>
+		<Pages>5-61</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="47">
+		<List>allzero</List>
+		<List>Herrerasauridae</List>
+		<List>Prosauropoda</List>
+		<List>Elaphrosaurus</List>
+		<List>Ceratosaurus</List>
+		<List>Abelisaurus</List>
+		<List>Carnotaurus</List>
+		<List>Coelophysidae</List>
+		<List>Dilophosaurus</List>
+		<List>Megbucklandi</List>
+		<List>Eustreptospondylus</List>
+		<List>Torvosaurus</List>
+		<List>Piatnitzkysaurus</List>
+		<List>Afrovenator</List>
+		<List>Monolophosaurus</List>
+		<List>Acrocanthosaurus</List>
+		<List>Carcharodontosaurus</List>
+		<List>Giganotosaurus</List>
+		<List>Allosaurus</List>
+		<List>Neovenator</List>
+		<List>Sinraptor</List>
+		<List>Yangchuanosaurus</List>
+		<List>Bagaraatan</List>
+		<List>Coelurus</List>
+		<List>Compsognathidae</List>
+		<List>Dryptosaurus</List>
+		<List>Gasosaurus</List>
+		<List>Ornitholestes</List>
+		<List>Proceratosaurus</List>
+		<List>Scipionyx</List>
+		<List>Troodontidae</List>
+		<List>Tyrannosauridae</List>
+		<List>Deltadromeus</List>
+		<List>Dromaeosauridae</List>
+		<List>Alvarezsauridae</List>
+		<List>Archaeopteryx</List>
+		<List>Ornithothoraces</List>
+		<List>Rahonavis</List>
+		<List>Unenlagia</List>
+		<List>Therizinosauroidea</List>
+		<List>Caenagnathidae</List>
+		<List>Microvenator</List>
+		<List>Oviraptoridae</List>
+		<List>Ornithomimidae</List>
+		<List>Pelecanimimus</List>
+		<List>Spinosauridae</List>
+		<List>Mhesperis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="386">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Holtz_1998a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

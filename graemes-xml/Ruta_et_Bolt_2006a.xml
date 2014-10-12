@@ -1,0 +1,89 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ruta, M.</List>
+			<List>Bolt, J. R.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>A reassessment of the temnospondyl amphibian Perryella olsoni from the Lower Permian of Oklahoma</Title>
+		<Journal>Transactions of the Royal Society of Edinburgh: Earth Sciences</Journal>
+		<Volume>97</Volume>
+		<Pages>113-165</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="54">
+		<List>Panderichthys_rhombolepis</List>
+		<List>Acanthostomatops_vorax</List>
+		<List>Acheloma_cumminsi</List>
+		<List>Acroplous_vorax</List>
+		<List>Adamanterpeton_ohioensis</List>
+		<List>Amphibamus_grandiceps</List>
+		<List>Anconastes_vesperus</List>
+		<List>Apateon_pedestris</List>
+		<List>Balanerpeton_woodi</List>
+		<List>Broiliellus_brevis</List>
+		<List>Capetus_palustris</List>
+		<List>Cheliderpeton_latirostre</List>
+		<List>Chenoprosopus_lewisi</List>
+		<List>Chenoprosopus_milleri</List>
+		<List>Cochleosaurus_bohemicus</List>
+		<List>Cochelosaurus_florensis</List>
+		<List>Dendrerpeton_acadianum</List>
+		<List>Dendrerpeton_confusum</List>
+		<List>Doleserpeton_annectens</List>
+		<List>Dvinosaurus_primus</List>
+		<List>Ecolsonia_cutlerensis</List>
+		<List>Edops_craigi</List>
+		<List>Eoscopus_lockardi</List>
+		<List>Eryops_megacephalus</List>
+		<List>Eugyrinus_wildi</List>
+		<List>Isodectes_obtusus</List>
+		<List>Leptorophus_tener</List>
+		<List>Micromelerpeton_credneri</List>
+		<List>Neldasaurus_wrightae</List>
+		<List>Onchiodon_labyrinthicus</List>
+		<List>Perryella_olsoni</List>
+		<List>Phonerpeton_pricei</List>
+		<List>Platyrhinops_lyelli</List>
+		<List>Procochleosaurus_jarrowensis</List>
+		<List>Schoenfeldereton_prescheri</List>
+		<List>Sclerocephalus_haeuseri</List>
+		<List>Slaugenhopia_texensis</List>
+		<List>Thabanchuia_oomie</List>
+		<List>Trimerorhachis_insignis</List>
+		<List>Tupilakosaurus_wetlugensis</List>
+		<List>Zatrachys_serratus</List>
+		<List>Acanthostega_gunnari</List>
+		<List>Baphetes_kirkbyi</List>
+		<List>Colosteus_scutellatus</List>
+		<List>Crassigyrinus_scoticus</List>
+		<List>Eucritta_melanolimnetes</List>
+		<List>Greererpeton_burkemorani</List>
+		<List>Ichthyostega_stensioei</List>
+		<List>Loxomma_rankini</List>
+		<List>Megalocephalus_pachycephalus</List>
+		<List>Ossinodus_pueri</List>
+		<List>Pederpes_finneyae</List>
+		<List>Tulerpeton_curtum</List>
+		<List>Whatcheeria_deltae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="245">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ruta_et_Bolt_2006a</Filename>
+	<Parent>Ruta_etal_2003a</Parent>
+	<Sibling/>
+</SourceTree>

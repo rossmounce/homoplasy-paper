@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Dalla Vecchia, F. M.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>Tethyshadros insularis, a new hadrosauroid dinoaur (Ornithischia) from the Upper Cretaceous of Italy</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>29</Volume>
+		<Pages>1100-1116</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="25">
+		<List>Iguanodon_bernissartensis</List>
+		<List>Mantellisaurus_atherfileldensis</List>
+		<List>Dollodon_bampingi</List>
+		<List>Ouranosaurus_nigeriensis</List>
+		<List>Probactrosaurus_gobiensis</List>
+		<List>Protohadros_byrdi</List>
+		<List>Tanius_sinensis</List>
+		<List>Bactrosaurus_johnsoni</List>
+		<List>Gilmoreosaurus_mongoliensis</List>
+		<List>Tethyshadros_insularis</List>
+		<List>Telmatosaurus_transsylvanicus</List>
+		<List>Pararhabdodon_isonensis</List>
+		<List>Brachylophosaurus_canadensis</List>
+		<List>Maiasaura_peeblesorum</List>
+		<List>Gryposaurus_spp.</List>
+		<List>Edmontosaurus_spp.</List>
+		<List>Prosaurolophus_spp.</List>
+		<List>Saurolophus_spp.</List>
+		<List>Hypacrosaurus_altispinus</List>
+		<List>Parasaurolophus_spp.</List>
+		<List>Olorotitan_arharensis</List>
+		<List>Hypacrosaurus_stebingeri</List>
+		<List>Amurosaurus_riabinini</List>
+		<List>Lambeosaurus_spp.</List>
+		<List>Corythosaurus_casuarius</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="121">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Dalla_Vecchia_2009a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

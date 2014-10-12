@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Bravo, A. M.</List>
+			<List>Gaete, R.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>Titanosaur eggshells from the Tremp Formation (Upper Cretaceous, Southern Pyrenees, Spain)</Title>
+		<Journal>Historical Biology</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="8">
+		<List>Crocodylus_niloticus</List>
+		<List>Megaloolithus_siruguei</List>
+		<List>Megaloolithus_mamillare</List>
+		<List>Megaloolithus_aureliensis</List>
+		<List>CC</List>
+		<List>Auca</List>
+		<List>Maiasaura</List>
+		<List>Troodon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="14">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Bravo_et_Gaete_inpressa</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

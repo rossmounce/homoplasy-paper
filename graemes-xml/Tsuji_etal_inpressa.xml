@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Tsuji, L. A.</List>
+			<List>Sobral, G.</List>
+			<List>Muller, J.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title><em>Ruhuhuaria reiszi</em>, a new procolophonoid reptile from the Triassic Ruhuhu Basin of Tanzania</Title>
+		<Journal>Comptes Rendus Palevol</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List>Macroleter_poezicus</List>
+		<List>Owenetta_rubidgei</List>
+		<List>Owenetta_kitchingorum</List>
+		<List>Barasaurus_besairiei</List>
+		<List>Coletta_seca</List>
+		<List>Sauropareion_anoplus</List>
+		<List>Saurodektes_rogersorum</List>
+		<List>Candelaria_barbouri</List>
+		<List>Kitchingnathus_untabeni</List>
+		<List>Procolophon_trigoniceps</List>
+		<List>Ruhuhuaria_reiszi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="21">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Tsuji_etal_inpressa</Filename>
+	<Parent>Modesto_etal_2003c</Parent>
+	<Sibling/>
+</SourceTree>

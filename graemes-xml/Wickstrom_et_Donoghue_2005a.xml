@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Wickstrom, L. M.</List>
+			<List>Donoghue, P. C. J.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>Cladograms, phylogenies and the veracity of the conodont fossil record</Title>
+		<Journal>Special Papers in Palaeontology</Journal>
+		<Volume>73</Volume>
+		<Pages>185-218</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="24">
+		<List>Pl_tenuis</List>
+		<List>Ko_abrupta</List>
+		<List>Ko_o_absidata</List>
+		<List>Ko_o_sardoa</List>
+		<List>Ko_amsdeni</List>
+		<List>Ko_corpulenta</List>
+		<List>Ko_crassa</List>
+		<List>Ko_latidentata</List>
+		<List>Ko_manitoulensis</List>
+		<List>Ko_maenniki</List>
+		<List>Ko_o_ortus</List>
+		<List>Ko_patula</List>
+		<List>Ko_ranuliformis</List>
+		<List>Ko_stauros</List>
+		<List>Ko_v_ichnusae</List>
+		<List>Ko_v_variabilis</List>
+		<List>Ko_walliseri</List>
+		<List>Anc_ploeckensis</List>
+		<List>Ou_rhoneri</List>
+		<List>Ou_ulrichi</List>
+		<List>Oz_confluens</List>
+		<List>Oz_e_excavata</List>
+		<List>Oz_hassi</List>
+		<List>Pol_siluricus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="49">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Wickstrom_et_Donoghue_2005a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

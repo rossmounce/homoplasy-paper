@@ -1,0 +1,70 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Reisz, R. R.</List>
+			<List>Mpdesto, S. P.</List>
+			<List>Scott, D. M.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>A new Early Permian reptile and its significance in early diapsid evolution</Title>
+		<Journal>Proceedings of the Royal Society B</Journal>
+		<Volume>278</Volume>
+		<Pages>3731-3737</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="34">
+		<List>Seymouriidae</List>
+		<List>Synapsida</List>
+		<List>Parareptilia</List>
+		<List>Captorhinidae</List>
+		<List>Araeoscelidia</List>
+		<List>Rhynchocephalia</List>
+		<List>Squamata</List>
+		<List>Prolacerta</List>
+		<List>Tanystropheus</List>
+		<List>Trilophosaurus</List>
+		<List>Rhynchosauria</List>
+		<List>Archosauriformes</List>
+		<List>Choristodera</List>
+		<List>Pachypleurosaurs</List>
+		<List>Simosaurus</List>
+		<List>Placodus</List>
+		<List>Pistosauridae</List>
+		<List>Claudiosaurus</List>
+		<List>Askeptosaurus</List>
+		<List>Clarazia</List>
+		<List>Thalattosaurus</List>
+		<List>Coelurosauravus</List>
+		<List>Macrocnemus</List>
+		<List>Helveticosaurus</List>
+		<List>Ichthyopterygia</List>
+		<List>Kuehneosauridae</List>
+		<List>Hupehsuchus</List>
+		<List>Acerosodontosaurus</List>
+		<List>Tangasaurus</List>
+		<List>Hovasaurus</List>
+		<List>Youngina</List>
+		<List>Thadeosaurus</List>
+		<List>Lanthanolania</List>
+		<List>Orovenator</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="188">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Reisz_etal_2011a</Filename>
+	<Parent>Bickelmann_etal_2009a</Parent>
+	<Sibling/>
+</SourceTree>

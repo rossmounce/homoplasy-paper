@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Cisneros, J. C.</List>
+			<List>Rubidge, B. S.</List>
+			<List>Mason, R.</List>
+			<List>Dube, C.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>Analysis of millerettid parareptile relationships in the light of new material of <em>Broomia perplexa</em> Watson, 1914, from the Permian of South Africa</Title>
+		<Journal>Journal of Systematic Palaeontology</Journal>
+		<Volume>6</Volume>
+		<Pages>453-462</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="10">
+		<List>Captorhinidae</List>
+		<List>Mesosauridae</List>
+		<List>Nyctiphruretus_acudens</List>
+		<List>Macroleter_poezicus</List>
+		<List>Eunotosaurus_africanus</List>
+		<List>Milleretta_rubidgei</List>
+		<List>Broomia_perplexa</List>
+		<List>Milleropsis_pricei</List>
+		<List>Millerosaurus_ornatus</List>
+		<List>Millerosaurus_nuffieldi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="36">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Cisneros_etal_2008a</Filename>
+	<Parent>Laurin_et_Reisz_1995a</Parent>
+	<Sibling/>
+</SourceTree>

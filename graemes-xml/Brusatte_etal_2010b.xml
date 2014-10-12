@@ -1,0 +1,92 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Brusatte, S. L.</List>
+			<List>Benton, M. J.</List>
+			<List>Desojo, J. B.</List>
+			<List>Langer, M. C.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>The higher-level phylogeny of Archosauria (Tetrapoda: Diapsida)</Title>
+		<Journal>Journal of Systematic Palaeontology</Journal>
+		<Volume>8</Volume>
+		<Pages>3-47</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="55">
+		<List>Erythrosuchus</List>
+		<List>Euparkeria</List>
+		<List>Proterochampsidae</List>
+		<List>Aetosaurus</List>
+		<List>Arganasuchus</List>
+		<List>Arizonasaurus</List>
+		<List>Bromsgroveia</List>
+		<List>Fasolasuchus</List>
+		<List>Lotosaurus</List>
+		<List>Poposaurus</List>
+		<List>Qianosuchus</List>
+		<List>Revuletosaurus</List>
+		<List>Saurosuchus</List>
+		<List>Sillosuchus</List>
+		<List>Stagonosuchus</List>
+		<List>Ticinosuchus</List>
+		<List>Yarasuchus</List>
+		<List>Desmatosuchus</List>
+		<List>Stagonolepis</List>
+		<List>Gracilisuchus</List>
+		<List>Erpetosuchus</List>
+		<List>Protosuchus</List>
+		<List>Sphenosuchus</List>
+		<List>Terrestrisuchus</List>
+		<List>Ornithosuchus</List>
+		<List>Riojasuchus</List>
+		<List>Paleorhinus</List>
+		<List>Mystriosuchus</List>
+		<List>Rutiodon</List>
+		<List>Batrachotomus</List>
+		<List>Prestosuchus</List>
+		<List>Effigia</List>
+		<List>Shuvosaurus</List>
+		<List>Rauisuchus</List>
+		<List>Tikisuchus</List>
+		<List>Postosuchus</List>
+		<List>Teratosaurus</List>
+		<List>Marasuchus</List>
+		<List>Pseudolagosuchus</List>
+		<List>Heterodontosaurus</List>
+		<List>Lesothosaurus</List>
+		<List>Psittacosaurus</List>
+		<List>Coelophysis</List>
+		<List>Herrerasaurus</List>
+		<List>Plateosaurus</List>
+		<List>Lewisuchus</List>
+		<List>Eucoelophysis</List>
+		<List>Sacisaurus</List>
+		<List>Silesaurus</List>
+		<List>Dromomeron</List>
+		<List>Lagerpeton</List>
+		<List>Scleromochlus</List>
+		<List>Dimorphodon</List>
+		<List>Eudimorphodon</List>
+		<List>Pteranodon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="187">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Brusatte_etal_2010b</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

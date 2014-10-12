@@ -1,0 +1,93 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Shultz, J. W.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>A phylogenetic analysis of the arachnid orders based on morphological characters</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>150</Volume>
+		<Pages>221-265</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="59">
+		<List>Weinbergina</List>
+		<List>Limuloides</List>
+		<List>Euproops</List>
+		<List>Limulus</List>
+		<List>Tachypleus</List>
+		<List>Baltoeurypterus</List>
+		<List>Stylonurus</List>
+		<List>Chasmataspis</List>
+		<List>Diploaspis</List>
+		<List>Octoberaspis</List>
+		<List>Prokoenenia</List>
+		<List>Eukoenenia</List>
+		<List>Plesiosiro</List>
+		<List>Palaeocharinus</List>
+		<List>Gilboarachne</List>
+		<List>Liphistius</List>
+		<List>Aphonopelma</List>
+		<List>Hypochilus</List>
+		<List>Charinus</List>
+		<List>Phrynus</List>
+		<List>Stenochrus</List>
+		<List>Protoschizomus</List>
+		<List>Mastigoproctus</List>
+		<List>Proschizomus</List>
+		<List>Terpsicroton</List>
+		<List>Poliochera</List>
+		<List>Cryptocellus</List>
+		<List>Ricinoides</List>
+		<List>Neocarus</List>
+		<List>Siamacarus</List>
+		<List>Australothyrus</List>
+		<List>Allothyrus</List>
+		<List>Glyptholaspis</List>
+		<List>Amblyomma</List>
+		<List>Argas</List>
+		<List>Alycus</List>
+		<List>Allothrombium</List>
+		<List>Microcaeculus</List>
+		<List>Palaeacarus</List>
+		<List>Archegozetes</List>
+		<List>Cyphophthalmus</List>
+		<List>Chileogovea</List>
+		<List>Caddo</List>
+		<List>Leiobunum</List>
+		<List>Sclerobunus</List>
+		<List>Gonyleptes</List>
+		<List>Centruroides</List>
+		<List>Hadrurus</List>
+		<List>Heterometrus</List>
+		<List>Prearcturus</List>
+		<List>Palaeoscorpius</List>
+		<List>Stoermeroscorpio</List>
+		<List>Proscorpius</List>
+		<List>Chthonius</List>
+		<List>Neobisium</List>
+		<List>Feaella</List>
+		<List>Chelifer</List>
+		<List>Eremocosta</List>
+		<List>Galeodes</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="202">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Shultz_2007a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

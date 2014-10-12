@@ -1,0 +1,74 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Allain, R.</List>
+			<List>Tykoski, R.</List>
+			<List>Aquesbi, N.</List>
+			<List>Jalil, N.-E.</List>
+			<List>Monbaron, M.</List>
+			<List>Russell, D.</List>
+			<List>Taquet, P.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>An abelisauroid (Dinosauria: Theropoda) from the Early Jurassic of the High Atlas Mountains, Morocco, and the radiation of ceratosaurs</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>27</Volume>
+		<Pages>610-624</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="34">
+		<List>Marasuchus</List>
+		<List>Lesothosaurus</List>
+		<List>Scutellosaurus</List>
+		<List>Plateosaurus</List>
+		<List>Herrerasaurus</List>
+		<List>Eoraptor</List>
+		<List>Dilophosaurus</List>
+		<List>Zupaysaurus</List>
+		<List>Liliensternus</List>
+		<List>C.bauri</List>
+		<List>C.rhodesiensis</List>
+		<List>C.kayentakatae</List>
+		<List>Segisaurus</List>
+		<List>Shake_dash_N_dash_Bake</List>
+		<List>Elaphrosaurus</List>
+		<List>Ceratosaurus</List>
+		<List>Spinostropheus</List>
+		<List>Berberosaurus</List>
+		<List>Xenotarsosaurus</List>
+		<List>Ilokelesia</List>
+		<List>Abelisaurus</List>
+		<List>Majungatholus</List>
+		<List>Aucasaurus</List>
+		<List>Carnotaurus</List>
+		<List>Masiakasaurus</List>
+		<List>Noasaurus</List>
+		<List>Torvosaurus</List>
+		<List>Dubreuillosaurus</List>
+		<List>Eustreptospondylus</List>
+		<List>Irritator</List>
+		<List>Baryonyx</List>
+		<List>Cristatusaurus</List>
+		<List>Allosaurus</List>
+		<List>Ornitholestes</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="264">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Allain_etal_2007a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

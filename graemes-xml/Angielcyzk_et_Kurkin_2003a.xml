@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Angielczyk, K. D.</List>
+			<List>Kurkin, A. A.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>Phylogenetic analysis of Russian Permian dicynodonts (Therapsida: Anomodontia): implications for Permian biostratigraphy and Pangaean biogeography</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>139</Volume>
+		<Pages>157-212</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="28">
+		<List>Patranomodon</List>
+		<List>Otsheria</List>
+		<List>Eodicynodon</List>
+		<List>Robertia</List>
+		<List>Diictodon</List>
+		<List>Endothiodon</List>
+		<List>Chelydontops</List>
+		<List>Pristerodon</List>
+		<List>Emydops</List>
+		<List>Kingoria</List>
+		<List>Cistecephalus</List>
+		<List>Myosaurus</List>
+		<List>Tropidostoma</List>
+		<List>Oudenodon</List>
+		<List>Rhachiocephalus</List>
+		<List>Pelanomodon</List>
+		<List>Aulacephalodon</List>
+		<List>Dicynodon_lacerticeps</List>
+		<List>Lystrosaurus</List>
+		<List>Kannemeyeria</List>
+		<List>New_Taxon_1</List>
+		<List>Interpresosaurus</List>
+		<List>Elph</List>
+		<List>D_trautscholdi</List>
+		<List>Delectosaurus</List>
+		<List>Vivaxosaurus</List>
+		<List>D_amalitzkii</List>
+		<List>Australobarbarus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="53">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Angielcyzk_et_Kurkin_2003a</Filename>
+	<Parent>Angielczyk_2001a</Parent>
+	<Sibling/>
+</SourceTree>

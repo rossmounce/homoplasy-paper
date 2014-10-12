@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Gallina, P. A.</List>
+			<List>Apesteguia, S.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>Cathartesaura anaerobica gen. et sp. nov., a new rebbachisaurid (Dinosauria, Sauropoda) from the Huincul Formation (Upper Cretaceous), Rio Negro, Argentina</Title>
+		<Journal>Revista del Museo Argentino de Ciencias Naturales, nueva serie</Journal>
+		<Volume>7</Volume>
+		<Pages>153-166</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="19">
+		<List>Camarasaurus</List>
+		<List>H.priscus</List>
+		<List>H.delfsi</List>
+		<List>Losillasaurus</List>
+		<List>Patagosaurus</List>
+		<List>Amargasaurus</List>
+		<List>D.hansemanii</List>
+		<List>D.sattleri</List>
+		<List>Suuwassea</List>
+		<List>Apatosaurus</List>
+		<List>Barosaurus</List>
+		<List>Diplodocus</List>
+		<List>Rebbachisaurus</List>
+		<List>Rayososaurus</List>
+		<List>Cathartesaura</List>
+		<List>Pvg718_slash_67_dash_MOZ</List>
+		<List>MPS_dash_RV_dash_II</List>
+		<List>L.tessonei</List>
+		<List>Nigersaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="77">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Gallina_et_Apesteguia_2005a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

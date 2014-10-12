@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Clack, J. A.</List>
+			<List>Ahlberg, P. E.</List>
+			<List>Blom, H.</List>
+			<List>Finney, S. M.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>A new genus of Devonian tetrapod from north-east Greenland, with new information on the lower jaw of <em>Ichthyostega</em></Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>55</Volume>
+		<Pages>73-86</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="22">
+		<List>Eusthenopteron</List>
+		<List>Acanthostega</List>
+		<List>Balanerpeton</List>
+		<List>Baphetes</List>
+		<List>Crassigyrinus</List>
+		<List>Dendrepeton</List>
+		<List>Densignathus</List>
+		<List>Elginerpeton</List>
+		<List>Elpistostege</List>
+		<List>Eoherpeton</List>
+		<List>Greerepeton</List>
+		<List>Ichthyostega</List>
+		<List>Metaxygnathus</List>
+		<List>Panderichthys</List>
+		<List>Pederpes</List>
+		<List>Proterogyrinus</List>
+		<List>Silvanerpeton</List>
+		<List>Tiktaalik</List>
+		<List>Ventastega</List>
+		<List>Whatcheeria</List>
+		<List>Ymeria</List>
+		<List>ANSP_21350</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="115">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Clack_etal_2012b</Filename>
+	<Parent>Callier_etal_2009a</Parent>
+	<Sibling/>
+</SourceTree>

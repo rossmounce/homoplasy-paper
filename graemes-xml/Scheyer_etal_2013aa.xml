@@ -1,0 +1,60 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Scheyer, T. M.</List>
+			<List>Aguilera, O. A.</List>
+			<List>Delfino, M.</List>
+			<List>Fortier, D. C.</List>
+			<List>Carlini, A. A.</List>
+			<List>Sanchez, R.</List>
+			<List>Carrillo-Briceno, J. D.</List>
+			<List>Quiroz, L.</List>
+			<List>Sanchez-Villagra, M. R.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>Crocodylian diversity peak and extinction in the late Cenozoic of the northern Neotropics</Title>
+		<Journal>Nature Communications</Journal>
+		<Volume>4</Volume>
+		<Pages>1907</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="18">
+		<List>Crocodylus_megarhinus</List>
+		<List>Crocodylus_pigotti</List>
+		<List>Rimasuchus_lloydi</List>
+		<List>Voay_robustus</List>
+		<List>Mecistops_cataphractus</List>
+		<List>Crocodylus_palaeindicus</List>
+		<List>Crocodylus_porosus</List>
+		<List>Crocodylus_palustris</List>
+		<List>Crocodylus_siamensis</List>
+		<List>Crocodylus_johnstoni</List>
+		<List>Crocodylus_mindorensis</List>
+		<List>Crocodylus_novaeguineae</List>
+		<List>Crocodylus_niloticus</List>
+		<List>Crocodylus_falconensis_sp_nov</List>
+		<List>Crocodylus_acutus</List>
+		<List>Crocodylus_intermedius</List>
+		<List>Crocodylus_moreletii</List>
+		<List>Crocodylus_rhombifer</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="32">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Scheyer_etal_2013aa</Filename>
+	<Parent>Brochu_etal_2010a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Hou, L.-H.</List>
+			<List>Martin, L. D.</List>
+			<List>Zhou, Z.-H.</List>
+			<List>Feduccia, A.</List>
+		</Author>
+		<Year>1992</Year>
+		<Title>Early adaptive radiation of birds: evidence from fossils from northeastern China</Title>
+		<Journal>Science</Journal>
+		<Volume>274</Volume>
+		<Pages>1164-1167</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="8">
+		<List>Outgroup</List>
+		<List>Liaoningornis</List>
+		<List>Chaoyangia</List>
+		<List>Ichthyornis</List>
+		<List>Hesperornis</List>
+		<List>Archaeopteryx</List>
+		<List>Cathayornis</List>
+		<List>Confuciusornis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="32">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Hou_etal_1996a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

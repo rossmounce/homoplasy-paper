@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Zhu, M.</List>
+			<List>Yu, X.-B.</List>
+			<List>Ahlberg, P. E.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>A primitive sarcopterygian fish with an eyestalk</Title>
+		<Journal>Nature</Journal>
+		<Volume>410</Volume>
+		<Pages>82-84</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="26">
+		<List>Acanthodes</List>
+		<List>Achoania</List>
+		<List>AMF101607</List>
+		<List>Cheirolepis</List>
+		<List>Ctenacanthus</List>
+		<List>Diabolepis</List>
+		<List>Dicksonosteus</List>
+		<List>Diplocercides</List>
+		<List>Dipnorhynchus</List>
+		<List>Dipterus</List>
+		<List>Eusthenopteron</List>
+		<List>Glyptolepis</List>
+		<List>Ichthyostega</List>
+		<List>Kenichthys</List>
+		<List>Miguashaia</List>
+		<List>Mimia</List>
+		<List>Moythomasia</List>
+		<List>Onychodus</List>
+		<List>Osteolepis</List>
+		<List>Panderichthys</List>
+		<List>Porolepis</List>
+		<List>Powichthys</List>
+		<List>Psarolepis</List>
+		<List>Speonesydrion</List>
+		<List>Uranolophus</List>
+		<List>Youngolepis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="158">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Zhu_etal_2001a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

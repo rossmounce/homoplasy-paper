@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Polley, B. P.</List>
+			<List>Reisz, R. R.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>A new Lower Permian trematopid (Temnospondyli: Dissorophoidea) from Richards Spur, Oklahoma</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>161</Volume>
+		<Pages>789-815</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List>Sclerocephalus_haeuseri</List>
+		<List>Acheloma_cumminsi</List>
+		<List>Acheloma_dunni</List>
+		<List>Actiobates_peabodyi</List>
+		<List>Anconastes_vesperus</List>
+		<List>Cacops_morrisi</List>
+		<List>Ecolsonia_cutlerensis</List>
+		<List>Eoscopus_lockardi</List>
+		<List>Micromelerpeton_credneri</List>
+		<List>Micropholis_stowi</List>
+		<List>Phonerpeton_pricei</List>
+		<List>Tambachia_trogallas</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="53">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Polley_et_Reisz_2011a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

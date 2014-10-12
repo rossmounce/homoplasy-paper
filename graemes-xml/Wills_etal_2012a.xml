@@ -1,0 +1,92 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Wills, M. A.</List>
+			<List>Gerber, S.</List>
+			<List>Ruta, M.</List>
+			<List>Hughes, M.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>The disparity of priapulid, archaeopriapulid and palaeoscolecid worms in light of new data</Title>
+		<Journal>Journal of Evolutionary Biology</Journal>
+		<Volume>25</Volume>
+		<Pages>2056-2076</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="55">
+		<List>Gastrotricha</List>
+		<List>Kinorhyncha</List>
+		<List>Loricifera</List>
+		<List>Nematomorpha</List>
+		<List>Nematoda</List>
+		<List>Aysheaia</List>
+		<List>Peripatus</List>
+		<List>Kerygmachela</List>
+		<List>Microdictyon</List>
+		<List>Tardigrada</List>
+		<List>Acanthopriapulus_horridus</List>
+		<List>Ancalagon_minor</List>
+		<List>Anningvermis_multispinosus</List>
+		<List>Chalazoscolex_pharkus</List>
+		<List>Corynetis_brevis</List>
+		<List>Cricocosmia_jinningensis</List>
+		<List>Fieldia_lanceolata</List>
+		<List>Guanduscolex_minor</List>
+		<List>Halicryptus_higginsi</List>
+		<List>Halicryptus_spinulosus</List>
+		<List>Laojieella_thecata</List>
+		<List>Louisella_pedunculata</List>
+		<List>Maccabeus_cirratus</List>
+		<List>Maccabeus_tentaculatus</List>
+		<List>Maotianshania_cylindrica</List>
+		<List>Markuelia</List>
+		<List>Meiopriapulus_fijiensis</List>
+		<List>Ottoia_prolifica</List>
+		<List>Palaeopriapulites_parvus</List>
+		<List>Palaeoscolex_piscatorum</List>
+		<List>Paraselkirkia_jinningensis</List>
+		<List>Paratubiluchus_bicaudatus</List>
+		<List>Priapulites_konecniorum</List>
+		<List>Priapulopsis_australis</List>
+		<List>Priapulopsis_bicaudatus</List>
+		<List>Priapulopsis_cnidephorus</List>
+		<List>Priapulus_abyssorum</List>
+		<List>Priapulus_caudatus</List>
+		<List>Priapulus_tuberculatospinosus</List>
+		<List>Scolecofurca_rara</List>
+		<List>Selkirkia_columbia</List>
+		<List>Sicyophorus_rarus</List>
+		<List>Tabelliscolex_hexagonus</List>
+		<List>Tabelliscolex_maanshanensis</List>
+		<List>Tubiluchus_arcticus</List>
+		<List>Tubiluchus_australensis</List>
+		<List>Tubiluchus_corallicola</List>
+		<List>Tubiluchus_philippinensis</List>
+		<List>Tubiluchus_remanei</List>
+		<List>Tubiluchus_troglodytes</List>
+		<List>Tubiluchus_vanuatensis</List>
+		<List>Tylotites_petiolaris</List>
+		<List>Xiaoheiqingella_peculiaris</List>
+		<List>Xystoscolex_boreogyrus</List>
+		<List>Yunnanpriapulus_halteroformis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="88">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Wills_etal_2012a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

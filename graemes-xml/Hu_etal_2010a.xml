@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Hu, D.-Y.</List>
+			<List>Li, L.</List>
+			<List>Hou, L.-H.</List>
+			<List>Xu, X.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>A new sapeornithid bird from China and its implications for early avian evolution</Title>
+		<Journal>Acta Geologica Sinica</Journal>
+		<Volume>84</Volume>
+		<Pages>472-482</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="21">
+		<List>Deinonychosauria</List>
+		<List>Archaeopteryx</List>
+		<List>Rahonavis</List>
+		<List>Jeholornis</List>
+		<List>Sapeornis</List>
+		<List>Shenshiornis</List>
+		<List>Confuciusornis</List>
+		<List>Changchengornis</List>
+		<List>Noguerornis</List>
+		<List>Iberomesornis</List>
+		<List>Concornis</List>
+		<List>Gobipteryx</List>
+		<List>Cathayornis</List>
+		<List>Eoalulavis</List>
+		<List>Neuquenornis</List>
+		<List>Patagopteryx</List>
+		<List>Vorona</List>
+		<List>Ambiortus</List>
+		<List>Hesperornis</List>
+		<List>Ichthyornis</List>
+		<List>Anas</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="179">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Hu_etal_2010a</Filename>
+	<Parent>Chiappe_2002a</Parent>
+	<Sibling/>
+</SourceTree>

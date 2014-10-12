@@ -1,0 +1,92 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Franca, M. A.</List>
+			<List>Ferigolo, J.</List>
+			<List>Langer, M. C.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>Associated skeletons of a new Middle triassic "Rauisuchia" from Brazil</Title>
+		<Journal>Naturwissenschaften</Journal>
+		<Volume>98</Volume>
+		<Pages>389-395</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="56">
+		<List>Erythrosuchus</List>
+		<List>Euparkeria</List>
+		<List>Proterochampsidae</List>
+		<List>Aetosaurus</List>
+		<List>Desmatosuchus</List>
+		<List>Stagonolepis</List>
+		<List>Protosuchus</List>
+		<List>Sphenosuchus</List>
+		<List>Terrestrisuchus</List>
+		<List>Heterodontosaurus</List>
+		<List>Lesothosaurus</List>
+		<List>Psittacosaurus</List>
+		<List>Ornithosuchus</List>
+		<List>Riojasuchus</List>
+		<List>Mystriosuchus</List>
+		<List>Paleorhinus</List>
+		<List>Rutiodon</List>
+		<List>Dimorphodon</List>
+		<List>Eudimorphodon</List>
+		<List>Pteranodon</List>
+		<List>Coelophysis</List>
+		<List>Herrerasaurus</List>
+		<List>Plateosaurus</List>
+		<List>Dromomeron</List>
+		<List>Eucoelophysis</List>
+		<List>Lagerpeton</List>
+		<List>Lewisuchus</List>
+		<List>Marasuchus</List>
+		<List>Pseudolagosuchus</List>
+		<List>Sacisaurus</List>
+		<List>Scleromochlus</List>
+		<List>Silesaurus</List>
+		<List>Arganasuchus</List>
+		<List>Arizonasaurus</List>
+		<List>Batrachotomus</List>
+		<List>Bromsgroveia</List>
+		<List>Effigia</List>
+		<List>Erpetosuchus</List>
+		<List>Fasolasuchus</List>
+		<List>Gracilisuchus</List>
+		<List>Lotosaurus</List>
+		<List>Poposaurus</List>
+		<List>Postosuchus</List>
+		<List>Prestosuchus</List>
+		<List>Qianosuchus</List>
+		<List>Rauisuchus</List>
+		<List>Revuletosaurus</List>
+		<List>Saurosuchus</List>
+		<List>Shuvosaurus</List>
+		<List>Sillosuchus</List>
+		<List>Stagonosuchus</List>
+		<List>Teratosaurus</List>
+		<List>Ticinosuchus</List>
+		<List>Tikisuchus</List>
+		<List>Yarasuchus</List>
+		<List>Decuriasuchus_quartacolonia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="187">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Franca_etal_2011a</Filename>
+	<Parent>Brusatte_etal_2010b</Parent>
+	<Sibling/>
+</SourceTree>

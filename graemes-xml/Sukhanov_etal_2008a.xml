@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sukhanov, V. B.</List>
+			<List>Danilov, I. G.</List>
+			<List>Syromyatnikova, E. V.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>The description and phylogenetic position of a new nanhsiungchelyid turtle from the Late Cretaceous of Mongolia</Title>
+		<Journal>Acta Palaeontologica Polonica</Journal>
+		<Volume>53</Volume>
+		<Pages>601-614</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List>Adocus_punctatus</List>
+		<List>Zangerlia_testudinimorpha</List>
+		<List>Zangerlia_neimongolensis</List>
+		<List>Zangerlia_ukhaachelys</List>
+		<List>Basilemys_varialosa</List>
+		<List>Basilemys_nobilis</List>
+		<List>Basilemys_sinuosa</List>
+		<List>Basilemys_praeclara</List>
+		<List>Hanbogdemys_orientalis</List>
+		<List>Anomalochelys_angulata</List>
+		<List>Nanhsiungchelys_wuchingensis</List>
+		<List>Kharakhutulia_kalandadzei</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="41">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sukhanov_etal_2008a</Filename>
+	<Parent>Joyce_et_Norell_2005a</Parent>
+	<Sibling/>
+</SourceTree>

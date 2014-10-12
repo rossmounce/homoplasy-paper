@@ -1,0 +1,82 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Pol, D.</List>
+			<List>Ji, S.-A.</List>
+			<List>Clark, J. M.</List>
+			<List>Chiappe, L. M.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>Basal crocodyliforms from the Lower Cretaceous Tugulu Group (Xinjiang, China), and the phylogenetic position of Edentosuchus</Title>
+		<Journal>Cretaceous Research</Journal>
+		<Volume>25</Volume>
+		<Pages>603-622</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="45">
+		<List>Gracilisuchus_stipanicicorum</List>
+		<List>Terrestrisuchus_gracilis</List>
+		<List>Dibothrosuchus_elaphros</List>
+		<List>Protosuchus_richardson</List>
+		<List>Hemiprotosuchus_leali</List>
+		<List>Orthosuchus_stormbergi</List>
+		<List>Kayenta_form</List>
+		<List>Edentosuchus_tienshanensis</List>
+		<List>Gobiosuchus_kielanae</List>
+		<List>Sichuanosuchus_shuhanensis</List>
+		<List>Shantungosuchus_hangjinensis</List>
+		<List>Zosuchus_davidsoni</List>
+		<List>Hsisosuchus_chungkingensis</List>
+		<List>Fruita_form</List>
+		<List>Notosuchus_terrestris</List>
+		<List>Comahuesuchus_brachybuccalis</List>
+		<List>Uruguaysuchus_aznarezi</List>
+		<List>Chimaerasuchus_paradoxus</List>
+		<List>Malawisuchus_mwakayasyunguti</List>
+		<List>Candidodon_itapecurense</List>
+		<List>Simosuchus_clarki</List>
+		<List>Sphagesaurus_huenei</List>
+		<List>Bretesuchus_bonapartei</List>
+		<List>Baurusuchus_pachecoi</List>
+		<List>Iberosuchus_macrodon</List>
+		<List>Araripesuchus_gomesii</List>
+		<List>Araripesuchus_patagonicus</List>
+		<List>Lomasuchus_palpebrosus</List>
+		<List>Peirosaurus_tormini</List>
+		<List>Theriosuchus_pusillus</List>
+		<List>Alligatorium</List>
+		<List>Pelagosaurus_typus</List>
+		<List>Teleosauridae</List>
+		<List>Metriorhynchidae</List>
+		<List>Sokotosuchus_ianwilsoni</List>
+		<List>Dyrosauridae</List>
+		<List>Pholidosaurus_decipiens</List>
+		<List>Goniopholis</List>
+		<List>Eutretauranosuchus_delfsi</List>
+		<List>Bernissartia_fagessi</List>
+		<List>Hylaeochampsa_vectiana</List>
+		<List>Borealosuchus_formidabilis</List>
+		<List>Gavialis_gangeticus</List>
+		<List>Crocodylus_niloticus</List>
+		<List>Alligator_mississippiensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="183">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Pol_etal_2004a</Filename>
+	<Parent>Clark_1994a</Parent>
+	<Sibling/>
+</SourceTree>

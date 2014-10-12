@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Hammer, W. R.</List>
+		</Author>
+		<Year>1987</Year>
+		<Title>Paleoecology and phylogeny of the Trematosauridae</Title>
+		<Journal>Geophysical Monograph Series</Journal>
+		<Volume>41</Volume>
+		<Pages>73-83</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List>Ancestor</List>
+		<List>Aphaneramma</List>
+		<List>Lyrocephalus</List>
+		<List>Tertrema</List>
+		<List>Platystega</List>
+		<List>Trematosaurus</List>
+		<List>Trematosuchus</List>
+		<List>Stoschiosaurus</List>
+		<List>Halobatrachus</List>
+		<List>Wantzosaurus</List>
+		<List>Erythrobatrachus</List>
+		<List>Inflectosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="15">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Hammer_1987a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

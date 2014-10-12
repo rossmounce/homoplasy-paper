@@ -1,0 +1,101 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ketchum, H. F.</List>
+			<List>Benson, R. B. J.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>Global interrelationships of Plesiosauria (Reptilia, Sauropterygia) and the pivotal role of taxon sampling in determining the outcome of phylogenetic analyses</Title>
+		<Journal>Biological Reviews</Journal>
+		<Volume>85</Volume>
+		<Pages>361-392</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="66">
+		<List>Archaeonectrus_rostratus</List>
+		<List>Aristonectesparvidens</List>
+		<List>Attenborosaurusconybear</List>
+		<List>Augustasaurushagdorni</List>
+		<List>BMNH_49202</List>
+		<List>Brachaucheniuslucasi</List>
+		<List>Brancasaurusbrancai</List>
+		<List>Callawayasauruscolombie</List>
+		<List>Cymatosaurus</List>
+		<List>Cryptocliduseurymerus</List>
+		<List>Dolichorhynchopshersche</List>
+		<List>Dolichorhynchopsosborni</List>
+		<List>Edgarosaurusmuddi</List>
+		<List>Elasmosaurus_platyurus</List>
+		<List>Eopolycotylusrankini</List>
+		<List>Eromangasaurusaustralis</List>
+		<List>Eurycleidusarcuatus</List>
+		<List>FHSMVP321</List>
+		<List>BEDFM_1999_dot_201</List>
+		<List>BMNH_R2349</List>
+		<List>Hauffiosauruszanoni</List>
+		<List>Hydrorionbrachypterygiu</List>
+		<List>Hydrotherosaurusalexand</List>
+		<List>Kaiwhekeakatiki</List>
+		<List>Kimmerosauruslanghami</List>
+		<List>Kronosaurusqueenslandic</List>
+		<List>Leptocleiduscapensis</List>
+		<List>Leptocleidussuperstes</List>
+		<List>Libonectesmorgani</List>
+		<List>Liopleurodonferox</List>
+		<List>Macroplatalongirostris</List>
+		<List>Macroplatatenuiceps</List>
+		<List>Manemergusanguirostris</List>
+		<List>Maresauruscoccai</List>
+		<List>Microcleidushomalospond</List>
+		<List>MMUM_LL_8004</List>
+		<List>Muraenosaurusleedsii</List>
+		<List>Occitanosaurustournemir</List>
+		<List>OUMNH_J_dot_02247</List>
+		<List>OUMNH_J_dot_10337</List>
+		<List>OUMNH_J_dot_28585</List>
+		<List>Palmulasaurusquadratus</List>
+		<List>Peloneustesphilarchus</List>
+		<List>Plesiopleurodonwellesi</List>
+		<List>Plesiosaurusdolichodeir</List>
+		<List>Plesiosaurusmacrocephal</List>
+		<List>Pliosaurusandrewsi</List>
+		<List>Pliosaurusbrachydeirus</List>
+		<List>Pliosaurusbrachyspondyl</List>
+		<List>Polycotyluslatipinnis</List>
+		<List>QMF_18041</List>
+		<List>Rhomaleosaurusmegacepha</List>
+		<List>Rhomaleosaurusvictor</List>
+		<List>Rhomaleosauruszetlandic</List>
+		<List>Seeleyosaurusguilelmiim</List>
+		<List>Simolestesvorax</List>
+		<List>Simosaurusgaillardoti</List>
+		<List>Styxosaurussnowii</List>
+		<List>Terminonatatorpontiexen</List>
+		<List>Thalassiodraconhawkinsi</List>
+		<List>Thalassomedonhaningtoni</List>
+		<List>Thililualongicollis</List>
+		<List>Nichollssaura</List>
+		<List>Tricleidusseeleyi</List>
+		<List>Trinacromerumbentonianu</List>
+		<List>Umoonasaurusdemoscyllus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="178">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ketchum_et_Benson_2010a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

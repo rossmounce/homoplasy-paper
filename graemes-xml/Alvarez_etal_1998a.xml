@@ -1,0 +1,73 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Alvarez, F.</List>
+			<List>Rong, J.-Y.</List>
+			<List>Boucot, A. J.</List>
+		</Author>
+		<Year>1998</Year>
+		<Title>The classification of athyridid brachiopods</Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>72</Volume>
+		<Pages>827-855</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="37">
+		<List>Ancistrorhynchidae</List>
+		<List>Athyridinae</List>
+		<List>Athyrisininae</List>
+		<List>Camarophorellinae</List>
+		<List>Clavigerinae</List>
+		<List>Cleiothyridininae</List>
+		<List>Comelicaniinae</List>
+		<List>Didymothyridinae</List>
+		<List>Diplospirellinae</List>
+		<List>Helenathyridinae</List>
+		<List>Hungarispirinae</List>
+		<List>Hustediinae</List>
+		<List>Hyattidinidae</List>
+		<List>Koninckinoidea</List>
+		<List>Lochengiinae</List>
+		<List>Meristellinae</List>
+		<List>Meristinae</List>
+		<List>Misoliinae</List>
+		<List>Mongolospiroidea</List>
+		<List>Neoretziinae</List>
+		<List>Nucleospiroidea</List>
+		<List>Ochotathyridinae</List>
+		<List>Parazygidae</List>
+		<List>Plectospirinae</List>
+		<List>Plicathyridinae</List>
+		<List>Pradoiinae</List>
+		<List>Retzielloidea</List>
+		<List>Retziidae</List>
+		<List>Rhynchospirinidae</List>
+		<List>Rowleyellinae</List>
+		<List>Septathyridinae</List>
+		<List>Spirigerellinae</List>
+		<List>Tetractinellinae</List>
+		<List>Triathyridinae</List>
+		<List>Trigonirhynchiidae</List>
+		<List>Whitfieldellinae</List>
+		<List>Xenosariinae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="37">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Alvarez_etal_1998a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lu, J.</List>
+			<List>Zhu, M.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>An onychodont fish (Osteichthyes, Sarcopterygii) from the Early Devonian of China, and the evolution of the Onychodontiformes</Title>
+		<Journal>Proceedings of the Royal Society of London B</Journal>
+		<Volume>277</Volume>
+		<Pages>293-299</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="8">
+		<List>Psarolepis</List>
+		<List>Styloichthys</List>
+		<List>Diplocercides</List>
+		<List>Onychodus</List>
+		<List>Strunius</List>
+		<List>Qingmenodus</List>
+		<List>Grossius</List>
+		<List>Bukkanodus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="39">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lu_et_Zhu_2010a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

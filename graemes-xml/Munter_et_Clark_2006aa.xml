@@ -1,0 +1,64 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Munter, R. C.</List>
+			<List>Clark, J. M.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>Theropod dinosaurs from the Early Jurassic of Huizachal Canyon, Mexico</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>53-75</Pages>
+		<Booktitle>Amniote Paleobiology: Perspectives on the Evolution of Mammals, Birds, and Reptiles</Booktitle>
+		<Publisher>Chicago University Press</Publisher>
+		<City>Chicago</City>
+		<Editor>
+			<List>Carrano, M. T.</List>
+			<List>Gaudin, T. J.</List>
+			<List>Blob, R. W.</List>
+			<List>Wible, J. R.</List>
+		</Editor>
+	</Source>
+	<Taxa number="24">
+		<List>Eoraptor</List>
+		<List>Herrerasaurus</List>
+		<List>Liliensternus</List>
+		<List>IGM_6624</List>
+		<List>Coelophysis</List>
+		<List>Syntarsus</List>
+		<List>Dilophosaurus</List>
+		<List>Elaphrosaurus</List>
+		<List>Ceratosaurus</List>
+		<List>Genusaurus</List>
+		<List>Ilokelesia</List>
+		<List>Laevisuchus</List>
+		<List>Masiakasaurus</List>
+		<List>Noasaurus</List>
+		<List>Xenotarsosaurus</List>
+		<List>Abelisaurus</List>
+		<List>Carnotaurus</List>
+		<List>Majungatholus</List>
+		<List>Afrovenator</List>
+		<List>Eustreptospondylus</List>
+		<List>Torvosaurus</List>
+		<List>Ornitholestes</List>
+		<List>Allosaurus</List>
+		<List>Sinraptor</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="159">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Munter_et_Clark_2006aa</Filename>
+	<Parent>Carrano_etal_2002a</Parent>
+	<Sibling/>
+</SourceTree>

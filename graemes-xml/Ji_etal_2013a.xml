@@ -1,0 +1,72 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ji, C.</List>
+			<List>Jiang, D.-Y.</List>
+			<List>Motani, R.</List>
+			<List>Hao, W.-C.</List>
+			<List>Sun, Z.-Y.</List>
+			<List>Cai, T.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>A new juvenile specimen of <em>Guanlingsaurus</em> (Ichthyosauria, Shastasauridae) from the Upper Triassic of southwestern China</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>33</Volume>
+		<Pages>340-348</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="33">
+		<List>Petrolacosaurus</List>
+		<List>Thadeosaurus</List>
+		<List>Claudiosaurus</List>
+		<List>Hovasaurus</List>
+		<List>Hupehsuchus</List>
+		<List>Utatsusaurus</List>
+		<List>Grippia</List>
+		<List>Parvinatator</List>
+		<List>Chaohusaurus</List>
+		<List>Cymb_petrinus</List>
+		<List>Cymb_buchseri</List>
+		<List>Mix_cornalianus</List>
+		<List>Besanosaurus</List>
+		<List>Guizhouichthyosaurus</List>
+		<List>Shastasaurus</List>
+		<List>Guanlingsaurus</List>
+		<List>Shonisaurus_popularis</List>
+		<List>Shonisaurus_sikanniensis</List>
+		<List>Californosaurus</List>
+		<List>Toretocnemus</List>
+		<List>Hudsonelpidia</List>
+		<List>Macgowania</List>
+		<List>Suevoleviathan</List>
+		<List>Temnodontosaurus</List>
+		<List>Leptonectes</List>
+		<List>Excalibosaurus</List>
+		<List>Eurhinosaurus</List>
+		<List>Ichthyosaurus</List>
+		<List>Stenopterygius</List>
+		<List>Brachypterygius</List>
+		<List>Ophthalmosaurus</List>
+		<List>Caypullisaurus</List>
+		<List>Platypterygius</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="109">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ji_etal_2013a</Filename>
+	<Parent>Motani_1999a</Parent>
+	<Sibling/>
+</SourceTree>

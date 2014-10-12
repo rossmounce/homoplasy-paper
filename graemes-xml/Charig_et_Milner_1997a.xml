@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Charig, A. J.</List>
+			<List>Milner, A. C.</List>
+		</Author>
+		<Year>1997</Year>
+		<Title>Baryonyx walkeri, a fish-eating dinosaur from the Wealden of Surrey</Title>
+		<Journal>Bulletin of the Natural History Museum London (Geology)</Journal>
+		<Volume>53</Volume>
+		<Pages>11-70</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="20">
+		<List>Coelophysis</List>
+		<List>Dilophosaurus</List>
+		<List>Ceratosaurus</List>
+		<List>Abelisaurus</List>
+		<List>Elaphrosaurus</List>
+		<List>Torvosaurus</List>
+		<List>Megalosaurus</List>
+		<List>Baryonyx</List>
+		<List>Allosaurus</List>
+		<List>Acrocanthosaurus</List>
+		<List>Compsognathus</List>
+		<List>Ornitholestes</List>
+		<List>Oviraptor</List>
+		<List>Elmisaurus</List>
+		<List>Avimimus</List>
+		<List>Tyrannosaurus</List>
+		<List>Troodon</List>
+		<List>Ornithomimus</List>
+		<List>Dromaeosaurus</List>
+		<List>Archaeopteryx</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="118">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Charig_et_Milner_1997a</Filename>
+	<Parent>Holtz_1994a</Parent>
+	<Sibling/>
+</SourceTree>

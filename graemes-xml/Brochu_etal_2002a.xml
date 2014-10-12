@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Brochu, C. A.</List>
+			<List>Bouare, M. L.</List>
+			<List>Sissoko, F.</List>
+			<List>Roberts, E. M.</List>
+			<List>O'Leary, M. A.</List>
+		</Author>
+		<Year>2002</Year>
+		<Title>A dyrosaurid crocodyliform braincase from Mali</Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>76</Volume>
+		<Pages>1060-1071</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="24">
+		<List>Protosuchus</List>
+		<List>Hemiprotosuchus</List>
+		<List>Orthosuchus</List>
+		<List>Notosuchus</List>
+		<List>Baurusuchus</List>
+		<List>Libycosuchus</List>
+		<List>Sebecus</List>
+		<List>Araripesuchus</List>
+		<List>Alligatorium</List>
+		<List>Theriosuchus</List>
+		<List>Pelagosaurus</List>
+		<List>Teleosauridae</List>
+		<List>Metriorhynchidae</List>
+		<List>Pholidosaurus</List>
+		<List>Sokotosuchus</List>
+		<List>Dyrosauridae</List>
+		<List>Eutretauranosuchus</List>
+		<List>Goniopholis</List>
+		<List>Bernissartia</List>
+		<List>Crocodylia</List>
+		<List>Mahajangasuchus</List>
+		<List>Peirosauridae</List>
+		<List>Hsisosuchus</List>
+		<List>Trematochampsa</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="110">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Brochu_etal_2002a</Filename>
+	<Parent>Buckley_et_Brochu_1999a</Parent>
+	<Sibling/>
+</SourceTree>

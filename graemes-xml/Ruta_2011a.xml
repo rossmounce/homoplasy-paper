@@ -1,0 +1,78 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ruta, M.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>Phylogenetic signal and character compatability in the appendicular skeleton of early tetrapods</Title>
+		<Journal>Special Papers in Palaeontology</Journal>
+		<Volume>86</Volume>
+		<Pages>31-43</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="44">
+		<List>Onychodus</List>
+		<List>Acanthostega</List>
+		<List>Archeria</List>
+		<List>Asaphestera</List>
+		<List>Balanerpeton</List>
+		<List>Baphetes</List>
+		<List>Barameda</List>
+		<List>Caerorhachis</List>
+		<List>Catskill_humerus</List>
+		<List>Crassigyrinus</List>
+		<List>Dendrerpeton</List>
+		<List>Eoherpeton</List>
+		<List>Eucritta</List>
+		<List>Eusthenopteron</List>
+		<List>Glyptolepis</List>
+		<List>Gogonasus</List>
+		<List>Greererpeton</List>
+		<List>Hynerpeton</List>
+		<List>Ichthyostega</List>
+		<List>Marsdenichthys</List>
+		<List>Medoevia</List>
+		<List>Megalichthys</List>
+		<List>Ossinodus</List>
+		<List>Panderichthys</List>
+		<List>Pederpes</List>
+		<List>Pholiderpeton</List>
+		<List>Proterogyrinus</List>
+		<List>Ptyonius</List>
+		<List>Rhizodopsis</List>
+		<List>Rhizodus</List>
+		<List>Sauripterus</List>
+		<List>Sauropleura</List>
+		<List>Saxonerpeton</List>
+		<List>Scincosaurus</List>
+		<List>Silvanerpeton</List>
+		<List>Sterropterygion</List>
+		<List>Strepsodus</List>
+		<List>Tiktaalik</List>
+		<List>Trimerorhachis</List>
+		<List>Tuditanus</List>
+		<List>Tulerpeton</List>
+		<List>Urocordylus</List>
+		<List>Westlothiana</List>
+		<List>Whatcheeria</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="157">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ruta_2011a</Filename>
+	<Parent>Ruta_et_Coates_2007a</Parent>
+	<Sibling/>
+</SourceTree>

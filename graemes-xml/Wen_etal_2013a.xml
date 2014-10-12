@@ -1,0 +1,73 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Wen, W.</List>
+			<List>Zhang, Q.−Y.</List>
+			<List>Hu, S.-X.</List>
+			<List>Benton, M.J.</List>
+			<List>Zhou, C.−Y.</List>
+			<List>Tao, X.</List>
+			<List>Huang, J.−Y.</List>
+			<List>Chen, Z.−Q.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>Coelacanths from the Middle Triassic Luoping Biota, Yunnan, South China, with the earliest evidence of ovoviviparity</Title>
+		<Journal>Acta Palaeontologica Polonica</Journal>
+		<Volume>58</Volume>
+		<Pages>175-193</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="32">
+		<List>Actinopterygii</List>
+		<List>Porolepiformes</List>
+		<List>Allenypterus</List>
+		<List>Axelrodichthys</List>
+		<List>Caridosuctor</List>
+		<List>Chinlea</List>
+		<List>Coccoderma</List>
+		<List>Coelacanthus</List>
+		<List>Diplocercides</List>
+		<List>Diplurus</List>
+		<List>Garnbergia</List>
+		<List>Guizhoucoelacanthus</List>
+		<List>Hadronector</List>
+		<List>Holophagus</List>
+		<List>Holopterygius</List>
+		<List>Latimeria</List>
+		<List>Laugia</List>
+		<List>Libys</List>
+		<List>Lochmocercus</List>
+		<List>Luopingcoelacanthus</List>
+		<List>Macropoma</List>
+		<List>Mawsonia</List>
+		<List>Miguashaia</List>
+		<List>Piveteauia</List>
+		<List>Polyosteorhynchus</List>
+		<List>Rhabdoderma</List>
+		<List>Sassenia</List>
+		<List>Spermatodus</List>
+		<List>Swenzia</List>
+		<List>Undina</List>
+		<List>Whiteia</List>
+		<List>Yunnancoelacanthus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="109">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Wen_etal_2013a</Filename>
+	<Parent>Friedman_et_Coates_2006a</Parent>
+	<Sibling/>
+</SourceTree>

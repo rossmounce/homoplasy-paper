@@ -1,0 +1,60 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Monks, N.</List>
+		</Author>
+		<Year>1999</Year>
+		<Title>Cladistic analysis of Albian heteromorph ammonites</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>42</Volume>
+		<Pages>907-925</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="26">
+		<List>Ptychoceras_minimum</List>
+		<List>Hamitella_annulata</List>
+		<List>Hamites_attenuatus</List>
+		<List>Hamites_hybridus</List>
+		<List>Stomohamites_nokonsis</List>
+		<List>Stomohamites_parkinsoni</List>
+		<List>Stomohamites_virgulatus</List>
+		<List>Lytohamites_similis</List>
+		<List>Metahamites_sablieri</List>
+		<List>Scaphamites_passendorferi</List>
+		<List>Hamitoides_studerianus</List>
+		<List>Lechites_gaudini</List>
+		<List>Sciponoceras_skipperae</List>
+		<List>Anisoceras_saussureanum</List>
+		<List>Prohelicoceras_moutonianum</List>
+		<List>Protanisoceras_raulinianum</List>
+		<List>Heteroclinus_nodosum</List>
+		<List>Torquistylus_anglicum</List>
+		<List>Pseudhelicoceras_robertianum</List>
+		<List>Proturrilitoides_astierianus</List>
+		<List>Turrilitoides_hugardianus</List>
+		<List>Paraturrilites_gresslyi</List>
+		<List>Eoscaphites_circularis</List>
+		<List>Eoscaphites_subcircularis</List>
+		<List>Scaphites_hugardianus</List>
+		<List>Worthoceras_worthense</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="27">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Monks_1999a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

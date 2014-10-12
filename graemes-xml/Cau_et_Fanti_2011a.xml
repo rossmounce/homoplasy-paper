@@ -1,0 +1,75 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Cau, A.</List>
+			<List>Fanti, F.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>The oldest known metriorhynchid crocodylian from the Middle Jurassic of North-eastern Italy: Neptunidraco ammoniticus gen. et sp. nov.</Title>
+		<Journal>Gondwana Research</Journal>
+		<Volume>19</Volume>
+		<Pages>550-565</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="40">
+		<List>Teleidosaurus_calvadosii</List>
+		<List>Teleosaurus_cadomensis</List>
+		<List>Cricosaurus_araucanensis</List>
+		<List>Cricosaurus_elegans</List>
+		<List>Cricosaurus_gracilis</List>
+		<List>Cricosaurus_macrospondylus</List>
+		<List>Cricosaurus_saltillense</List>
+		<List>Cricosaurus_schroederi</List>
+		<List>Cricosaurus_sp_aka_Cuba_OTU</List>
+		<List>Cricosaurus_suevicus</List>
+		<List>Cricosaurus_vignaudi</List>
+		<List>Dakosaurus_andiniensis</List>
+		<List>Dakosaurus_manselii</List>
+		<List>Dakosaurus_maximus</List>
+		<List>Dakosaurus_sp</List>
+		<List>Eoneustes_bathonicus</List>
+		<List>Eoneustes_gaudryi</List>
+		<List>Geosaurinae_indet_of_Gasparini_etal_2005</List>
+		<List>Geosaurus_carpenteri</List>
+		<List>Geosaurus_giganteus</List>
+		<List>Geosaurus_grandis</List>
+		<List>Geosaurus_lapparenti</List>
+		<List>Gracilineustes_acutus</List>
+		<List>Gracilineustes_laeve</List>
+		<List>Gracilineustes_leedsi</List>
+		<List>Metriorhynchinae_indet_USNM_19640</List>
+		<List>Metriorhynchoidea_indet_aka_Chile_OTU</List>
+		<List>Metriorhynchus_hastifer</List>
+		<List>Metriorhynchus_moreli</List>
+		<List>Metriorhynchus_palpebrosus</List>
+		<List>Metriorhynchus_sp</List>
+		<List>Metriorhynchus_superciliosus</List>
+		<List>Oregon_crocodile_of_Wilberg_2009</List>
+		<List>Purranisaurus_casamiquelai</List>
+		<List>Purranisaurus_potens</List>
+		<List>Rhacheosaurus_gracilis</List>
+		<List>Suchodus_brachyrhynchus</List>
+		<List>Suchodus_cultridens</List>
+		<List>Suchodus_durobrivensis</List>
+		<List>Portomaggiore_crocodile</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="86">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Cau_et_Fanti_2011a</Filename>
+	<Parent>Young_et_Andrade_2009a</Parent>
+	<Sibling/>
+</SourceTree>

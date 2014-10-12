@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Mastrantonio, B. M.</List>
+			<List>Schultz, C. L.</List>
+			<List>Desojo, J. B.</List>
+			<List>Garcia, J. B.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>The braincase of <em>Prestosuchus chiniquensis</em> (Archosauria: Suchia)</Title>
+		<Journal>Geological Society of London Special Publications</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Proterosuchus_fergusi</List>
+		<List>Garjainia_prima</List>
+		<List>Euparkeria_capensis</List>
+		<List>Phytosaurs</List>
+		<List>Saurosuchus_galilei</List>
+		<List>Batrachotomus_kupferzellensis</List>
+		<List>Tikisuchus_romeri</List>
+		<List>Postosuchus_kirkpatricki</List>
+		<List>Aetosaurians</List>
+		<List>Sphenosuchus_acutus</List>
+		<List>Dibothrosuchus_elaphos</List>
+		<List>Crocodylus_sp</List>
+		<List>Arizonasaurus_babbitti</List>
+		<List>Prestosuchus_chiniquensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="32">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Mastrantonio_etal_inpressa</Filename>
+	<Parent>Gower_et_Nesbitt_2006a</Parent>
+	<Sibling/>
+</SourceTree>

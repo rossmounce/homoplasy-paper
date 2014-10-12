@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Rulleau, L.</List>
+			<List>Becaud, M.</List>
+			<List>Neige, P.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>Ammonites generally classified in the Bouleiceratinae sub-family (Hildoceratidae, Toarcian): phylogenetic, biogeographic and systematic perspectives</Title>
+		<Journal>Geobios</Journal>
+		<Volume>36</Volume>
+		<Pages>317-348</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="17">
+		<List>Protogrammoceras</List>
+		<List>Hildaites</List>
+		<List>Tauromeniceras</List>
+		<List>Bouleiceras_nitescens</List>
+		<List>Bouleiceras_arabicum</List>
+		<List>Nejda_bramkampi</List>
+		<List>Nejdia_pseudogruneri</List>
+		<List>Leukadiella_helenica</List>
+		<List>Leukadiella_ionica</List>
+		<List>Renziceras_nausikaae</List>
+		<List>Frechiella_subcarinata</List>
+		<List>Paroniceras_sternale</List>
+		<List>Paroniceras_helveticum</List>
+		<List>O_Oxyparoniceras_bumckmani</List>
+		<List>O_Oxyparoniceras_telemachi</List>
+		<List>O_Neoparoniceras_undulosum</List>
+		<List>Kohaticeras_razai</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="19">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Rulleau_etal_2003a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

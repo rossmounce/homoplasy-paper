@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Yuan, W.-W.</List>
+			<List>Fortey, R. A.</List>
+			<List>Turvey, S. T.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>Ontogeny and relationships of the trilobite <em>Pseudopetigurus</em> Pranti and Pribyl</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>49</Volume>
+		<Pages>537-546</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="17">
+		<List>Hystricurus_sp_nov_a</List>
+		<List>Hystricurus_scrofulosus</List>
+		<List>Dimeropyge_clintonensis</List>
+		<List>Dimeropyge_virginiensis</List>
+		<List>Dimeropyge_dorothyae</List>
+		<List>Ischyrotoma_anataphra</List>
+		<List>Ischyrotoma_stubblefieldi</List>
+		<List>Ischyrotoma_wahwahensis</List>
+		<List>Dimeropygiella_fillmorensis</List>
+		<List>Dimeropygiella_blanda</List>
+		<List>Pseudohystricurus_obesus</List>
+		<List>Pseudopetigurus_deprati</List>
+		<List>Pseudopetigurus_ovatus</List>
+		<List>Glaphurella_harknessi</List>
+		<List>Celmus_granulatus</List>
+		<List>Celmus_michaelmus</List>
+		<List>Genalaticurus_genalatus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="25">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Yuan_etal_2006a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

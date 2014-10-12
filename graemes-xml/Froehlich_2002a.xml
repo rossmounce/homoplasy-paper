@@ -1,0 +1,82 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Froehlich, D. J.</List>
+		</Author>
+		<Year>2002</Year>
+		<Title>Quo vadis eohippus? The systematics and taxonomy of the early Eocene equids (Perissodactyla)</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>134</Volume>
+		<Pages>141-256</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="48">
+		<List>Phenacodontids</List>
+		<List>Radinskya</List>
+		<List>Phenacolophids</List>
+		<List>Tethytheres</List>
+		<List>Hyracoids</List>
+		<List>Hallensia</List>
+		<List>H_leporinum</List>
+		<List>Palaeosyops</List>
+		<List>Lambdotherium</List>
+		<List>Palaeotheriidae</List>
+		<List>Ceratomorpha</List>
+		<List>Ancylopoda</List>
+		<List>Isectolophus</List>
+		<List>Homogalax</List>
+		<List>Cardiolophus</List>
+		<List>Orientolophus</List>
+		<List>Cymbalophus</List>
+		<List>Bighorn_lophoid</List>
+		<List>Systemodon</List>
+		<List>Sifrhippus</List>
+		<List>Arenahippus_grangeri</List>
+		<List>Arenahippus_pernix</List>
+		<List>Minippus_jicarillai</List>
+		<List>Minippus_index</List>
+		<List>Arenahippus_aemulor</List>
+		<List>Xenicohippus_craspedotum</List>
+		<List>Bighorn_large</List>
+		<List>Kihm_sp_D</List>
+		<List>Xenicohippus_grangeri</List>
+		<List>Xenicohippus_osborni</List>
+		<List>Eohippus_angustidens</List>
+		<List>H_seekinsi</List>
+		<List>Kihm_sp_A</List>
+		<List>Kihm_sp_B</List>
+		<List>Kihm_sp_C</List>
+		<List>Kihm_sp_E</List>
+		<List>Kihm_sp_F</List>
+		<List>Pliolophus_vulpiceps</List>
+		<List>Protorohippus_montanum</List>
+		<List>Protorohippus_cf_venticolum</List>
+		<List>Protorohippus_venticolum</List>
+		<List>WR_mediumLysite</List>
+		<List>WR_mediumLC</List>
+		<List>Wind_River_small</List>
+		<List>Protorohippus_aff_venticolum</List>
+		<List>Orohippus_major</List>
+		<List>Orohippus_pumilus</List>
+		<List>Epihippus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="125">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Froehlich_2002a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

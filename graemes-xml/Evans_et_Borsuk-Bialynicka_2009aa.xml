@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Evans, S. E.</List>
+			<List>Borsuk-Bialynicka, M.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>A small lepidosauromorph reptile from the Early Triassic of Poland</Title>
+		<Journal>Paleontologia Polonica</Journal>
+		<Volume>65</Volume>
+		<Pages>179-202</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="10">
+		<List>Petrolacosaurus</List>
+		<List>Youngina</List>
+		<List>Paliguana</List>
+		<List>Saurosternon</List>
+		<List>Kuehneosaurus</List>
+		<List>Marmoretta</List>
+		<List>Sophineta</List>
+		<List>Gephyrosaurus</List>
+		<List>Squamata</List>
+		<List>Prolacerta</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="77">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Evans_et_Borsuk-Bialynicka_2009aa</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

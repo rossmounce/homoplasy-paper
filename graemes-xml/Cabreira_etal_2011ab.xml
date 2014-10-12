@@ -1,0 +1,91 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Cabreira, S. F.</List>
+			<List>Schultz, C. L.</List>
+			<List>Bittencourt, J. S.</List>
+			<List>Soares, M. B.</List>
+			<List>Fortier, D. C.</List>
+			<List>Silva, L. R.</List>
+			<List>Langer, M. C.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>New stem-sauropodomorph (Dinosauria, Saurischia) from the Triassic of Brazil</Title>
+		<Journal>Naturwissenschaften</Journal>
+		<Volume>98</Volume>
+		<Pages>1035-1040</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="51">
+		<List>Euparkeria</List>
+		<List>Crurotarsi</List>
+		<List>Marasuchus</List>
+		<List>Silesaurus</List>
+		<List>Ornithischia</List>
+		<List>Agnosphitys</List>
+		<List>Guaibasaurus</List>
+		<List>Panphagia</List>
+		<List>Pampadromaeus_barberenai</List>
+		<List>Pantydraco</List>
+		<List>Thecodontosaurus</List>
+		<List>Efraasia</List>
+		<List>Plateosauravus</List>
+		<List>Ruehleia</List>
+		<List>Jingshanosaurus</List>
+		<List>Anchisaurus</List>
+		<List>Yunnanosaurus</List>
+		<List>Melanorosaurus</List>
+		<List>Blikanasaurus</List>
+		<List>Camelotia</List>
+		<List>Antetonitrus</List>
+		<List>Lessemsaurus</List>
+		<List>Gongxianosaurus</List>
+		<List>Isanosaurus</List>
+		<List>Tazoudasaurus</List>
+		<List>Vulcanodon</List>
+		<List>Shunosaurus</List>
+		<List>Barapasaurus</List>
+		<List>Patagosaurus</List>
+		<List>Cetiosaurus</List>
+		<List>Neosauropoda</List>
+		<List>Mamenchisaurus</List>
+		<List>Omeisaurus</List>
+		<List>Massospondylus</List>
+		<List>Coloradisaurus</List>
+		<List>Lufengosaurus</List>
+		<List>Glacialisaurus</List>
+		<List>Eucnemosaurus</List>
+		<List>Riojasaurus</List>
+		<List>Unaysaurus</List>
+		<List>Plateosaurus_gracilis</List>
+		<List>Plateosaurus_ingens</List>
+		<List>Plateosaurus_engelhardti</List>
+		<List>Saturnalia</List>
+		<List>Chromogisaurus</List>
+		<List>Chindesaurus</List>
+		<List>Eoraptor</List>
+		<List>Neotheropoda</List>
+		<List>Herrerasaurus</List>
+		<List>Staurikosaurus</List>
+		<List>MACN_PV_18649a</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="378">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Cabreira_etal_2011ab</Filename>
+	<Parent>Ezcurra_2010a</Parent>
+	<Sibling/>
+</SourceTree>

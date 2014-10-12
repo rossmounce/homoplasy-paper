@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Brusatte, S. L.</List>
+			<List>Benson, R. B. J.</List>
+			<List>Chure, D. J.</List>
+			<List>Xu, X.</List>
+			<List>Sullivan, C.</List>
+			<List>Hone, D. W. E.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>The first definitive carcharodontosaurid (Dinosauria: Theropoda) from Asia and the delayed ascent of tyrannosaurids</Title>
+		<Journal>Naturwissenschaften</Journal>
+		<Volume>96</Volume>
+		<Pages>1051-1058</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List>Herrerasaurus</List>
+		<List>Torvosaurus</List>
+		<List>Coelophysis</List>
+		<List>Compsognathidae</List>
+		<List>Sinraptor</List>
+		<List>Allosaurus</List>
+		<List>Neovenator</List>
+		<List>Shaochilong</List>
+		<List>Tyrannotitan</List>
+		<List>Carcharodontosaurus</List>
+		<List>Giganotosaurus</List>
+		<List>Mapusaurus</List>
+		<List>Acrocanthosaurus</List>
+		<List>Eocarcharia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="106">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Brusatte_etal_2009ab</Filename>
+	<Parent>Brusatte_et_Sereno_2008a</Parent>
+	<Sibling/>
+</SourceTree>

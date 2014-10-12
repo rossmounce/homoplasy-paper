@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Fedak. T. J.</List>
+			<List>Galton, P. M.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>New information on the braincase and skull of Anchisaurus polyzelus (Lower Jurassic, Connecticut, USA; Saurischia: Sauropodomorpha): implications for sauropodomorph systematics</Title>
+		<Journal>Special Papers in Palaeontology</Journal>
+		<Volume>77</Volume>
+		<Pages>57-90</Pages>
+		<Booktitle>Evolution and Palaeobiology of Early Sauropodomorph Dinosaurs</Booktitle>
+		<Publisher/>
+		<City/>
+		<Editor>
+			<List>Barrett, P. M.</List>
+			<List>Batten, D. J.</List>
+		</Editor>
+	</Source>
+	<Taxa number="20">
+		<List>Herrerasaurus_ischigualastensis</List>
+		<List>Theropoda</List>
+		<List>Ornithischia</List>
+		<List>Saturnalia_tupiniquim</List>
+		<List>Thecodontosaurus_spp.</List>
+		<List>Efraasia_minor</List>
+		<List>Riojasaurus_incertus</List>
+		<List>Plateosaurus_engelhardti</List>
+		<List>Coloradisaurus_brevis</List>
+		<List>Massospondylus_carinatus</List>
+		<List>Lufengosaurus_huenei</List>
+		<List>Anchisaurus_polyzelus</List>
+		<List>Melanorosaurus_readi</List>
+		<List>Blikanasaurus_cromptoni</List>
+		<List>Kotasaurus_yamanpalliensis</List>
+		<List>Vu1canodon_karibaensis</List>
+		<List>Shunosaurus_lii</List>
+		<List>Barapasaurus_tagorei</List>
+		<List>Omeisaurus_tianfuensis</List>
+		<List>Neosauropoda</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="205">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Fedak_et_Galton_2007aa</Filename>
+	<Parent>Yates_2004aa</Parent>
+	<Sibling>Fedak_et_Galton_2007ab</Sibling>
+</SourceTree>

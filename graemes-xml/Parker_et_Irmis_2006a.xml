@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Parker, W. G.</List>
+			<List>Irmis, R. B.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>A new species of the Late Triassic phytosaur <em>Pseudopalatus</em> (Archosauria: Pseudoscuhia) from Petrified Forest National Park, Arizona</Title>
+		<Journal>Museum of Northern Arizona Bulletin</Journal>
+		<Volume>62</Volume>
+		<Pages>126-144</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List>Euparkeria_capensis</List>
+		<List>Ebrachosuchus_neukami</List>
+		<List>Nicrosaurus_kapffi</List>
+		<List>Nicrosaurus_meyeri</List>
+		<List>Pseudopalatus_pristinus</List>
+		<List>Pseudopalatus_buceros</List>
+		<List>Pseudopalatus_mccauleyi</List>
+		<List>Redondasaurus_gregorii</List>
+		<List>Redondasaurus_bermani</List>
+		<List>Mystriosuchus_planirostris</List>
+		<List>Mystriosuchus_westphali</List>
+		<List>Pseudopalatus_jablonskiae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="47">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Parker_et_Irmis_2006a</Filename>
+	<Parent>Hungerbuhler_2002a</Parent>
+	<Sibling/>
+</SourceTree>

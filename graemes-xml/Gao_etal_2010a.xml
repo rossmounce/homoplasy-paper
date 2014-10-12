@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Gao, K.-Q.</List>
+			<List>Fox, R. C.</List>
+			<List>Zhou, C.-F.</List>
+			<List>Li, D.-Q.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>A new nonmammalian eucynodont (Synapsida: Therapsida) from the Triassic of northern Gansu Province, China, and its biostratigraphic and biogeographic implications</Title>
+		<Journal>American Museum Novitates</Journal>
+		<Volume>3685</Volume>
+		<Pages>1-25</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="20">
+		<List>Cynognathus</List>
+		<List>Diademodon</List>
+		<List>Trirachodon</List>
+		<List>Langbergia</List>
+		<List>Cricodon</List>
+		<List>Andescynodon</List>
+		<List>Massetognathus</List>
+		<List>Exaeretodon</List>
+		<List>Luangwa</List>
+		<List>Scalenodon_angus</List>
+		<List>Scalenodon_hirsch</List>
+		<List>Traversodon</List>
+		<List>Gomphodontosuchus</List>
+		<List>Pascualgnathus</List>
+		<List>Scalenodontoides</List>
+		<List>Menadon</List>
+		<List>Dadadon</List>
+		<List>Santacruzodon</List>
+		<List>Sinognathus</List>
+		<List>Beishanodon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="50">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Gao_etal_2010a</Filename>
+	<Parent>Abdala_etal_2006a</Parent>
+	<Sibling/>
+</SourceTree>

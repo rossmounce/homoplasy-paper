@@ -1,0 +1,85 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Brochu, C. A.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>Osteology and phylogenetic significance of Eosuchus minor (Marsh, 1870) new combination, a longirostrine crocodylian from the Late Paleocene of North America</Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>80</Volume>
+		<Pages>162-186</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="51">
+		<List>Bernissartia_fagesii</List>
+		<List>Hylaeochampsa_vectiana</List>
+		<List>Siwalik_Gavialis</List>
+		<List>Gavialis_gangeticus</List>
+		<List>Siquisiquesuchus_venezuelensis</List>
+		<List>Ikanogavialis_gameroi</List>
+		<List>Gryposuchus_colombianus</List>
+		<List>Eogavialis_africanus</List>
+		<List>Eosuchus_minor</List>
+		<List>Eosuchus_lerichei</List>
+		<List>Argochampsa_krebsi</List>
+		<List>Thoracosaurus_neocesariensis</List>
+		<List>Thoracosaurus_macrorhynchus</List>
+		<List>Eothoracosaurus_mississippiensis</List>
+		<List>Borealosuchus_formidabilis</List>
+		<List>Borealosuchus_wilsoni</List>
+		<List>Borealosuchus_acutidentatus</List>
+		<List>Borealosuchus_sternbergii</List>
+		<List>Pristichampsus_vorax</List>
+		<List>Leidyosuchus_canadensis</List>
+		<List>Diplocynodon_darwini</List>
+		<List>Stangerochampsa_mccabei</List>
+		<List>Brachychampsa_montana</List>
+		<List>Alligator_mississippiensis</List>
+		<List>Caiman_yacare</List>
+		<List>Mecistops_cataphractus</List>
+		<List>Crocodylus_niloticus</List>
+		<List>Crocodylus_porosus</List>
+		<List>Crocodylus_rhombifer</List>
+		<List>Voay_robustus</List>
+		<List>Rimasuchus_lloydi</List>
+		<List>Crocodylus_megarhinus</List>
+		<List>Osteolaemus_tetraspis</List>
+		<List>Euthecodon_arambourgii</List>
+		<List>Kambara_implexidens</List>
+		<List>Australosuchus_clarkae</List>
+		<List>Kentisuchus_spenceri</List>
+		<List>Dollosuchus_dixoni</List>
+		<List>Gavialosuchus_americanus</List>
+		<List>Tomistoma_lusitanica</List>
+		<List>Tomistoma_cairense</List>
+		<List>Paratomistoma_courtii</List>
+		<List>Gavialosuchus_eggenbergensis</List>
+		<List>Tomistoma_schlegelii</List>
+		<List>Belgian_crocodyloid</List>
+		<List>Brachyuranochampsa_eversolei</List>
+		<List>Crocodylus_acer</List>
+		<List>Crocodylus_affinis</List>
+		<List>Asiatosuchus_grangeri</List>
+		<List>Asiatosuchus_germanicus</List>
+		<List>Prodiplocynodon_langi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="165">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Brochu_2006a</Filename>
+	<Parent>Brochu_1997ab</Parent>
+	<Sibling/>
+</SourceTree>

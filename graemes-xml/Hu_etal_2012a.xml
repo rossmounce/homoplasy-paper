@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Hu, D.-Y.</List>
+			<List>Xu, X.</List>
+			<List>Hou, L.-H.</List>
+			<List>Sullivan, C.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>A new enantiornithine bird from the Lower Cretaceous of western Liaoning, China, and its implications for early avian evolution</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>32</Volume>
+		<Pages>639-645</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="30">
+		<List>Dromaeosauridae</List>
+		<List>Archaeopteryx</List>
+		<List>Jeholornis</List>
+		<List>Sapeornis</List>
+		<List>Confuciusornis</List>
+		<List>Protopteryx</List>
+		<List>Archaeorynchus</List>
+		<List>Vorona</List>
+		<List>Patagopteryx</List>
+		<List>Hongshanornis</List>
+		<List>Apsaravis</List>
+		<List>Ichthyornis</List>
+		<List>Iaceornis_</List>
+		<List>Anas_platyrhynchos</List>
+		<List>Chaunatorquata</List>
+		<List>Gallus_gallus</List>
+		<List>Crax_pauxi</List>
+		<List>Crypturellus_undulatus</List>
+		<List>Lithornis</List>
+		<List>Hesperornis</List>
+		<List>Baptornis</List>
+		<List>Yanornis</List>
+		<List>Songlingornis</List>
+		<List>Yixianornis</List>
+		<List>Pengornis</List>
+		<List>Neuquenornis</List>
+		<List>Xiangornis</List>
+		<List>Gobipteryx</List>
+		<List>Cathayornis</List>
+		<List>Concornis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="205">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Hu_etal_2012a</Filename>
+	<Parent>Zhou_etal_2008a</Parent>
+	<Sibling/>
+</SourceTree>

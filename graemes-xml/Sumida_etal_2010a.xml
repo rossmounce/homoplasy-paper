@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sumida, S. S.</List>
+			<List>Dodick, J.</List>
+			<List>Metcalf, A.</List>
+			<List>Albright, G.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title><em>Reiszorhinus olsoni</em>, a new single-tooth-rowed captorhinid reptile from the Lower Permian of Texas</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>30</Volume>
+		<Pages>704-714</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List>Protorothyris</List>
+		<List>Thuringothyris</List>
+		<List>Concordia</List>
+		<List>Romeria</List>
+		<List>Protocaptorhinus</List>
+		<List>Reiszorhinus</List>
+		<List>Rhiodenticulatus</List>
+		<List>Saurorictus</List>
+		<List>Captorhinus_aguti</List>
+		<List>C_laticeps</List>
+		<List>Labidosaurus</List>
+		<List>Labidosaurikos</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="48">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sumida_etal_2010a</Filename>
+	<Parent>Dodick_et_Modesto_1995a</Parent>
+	<Sibling/>
+</SourceTree>
