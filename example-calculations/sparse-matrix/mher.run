@@ -1,0 +1,91 @@
+
+macro= ;
+
+resettime ; 
+
+if ( argnumber )
+   if ( eqstring [ %1 start ] ) 
+      macro - ;
+      macro *10 (1000 + (4*root) + ( root*(nchar+1) )) ;
+      macro [ 60000 ; 
+      macro=; 
+      var:
+         started 
+         matrix [ root (nchar+1) ] i ;  /*   store in mem cur matrix */
+      set started 773 * nchar * ntax ; 
+      loop 0 ntax
+         loop 0 nchar
+            set matrix[ #1 #2] states[ #2 #1] ;
+            stop
+         stop
+      set i time ; 
+      quote Initialization took '/.0i' sec.; 
+      proc/; 
+      end 
+   end 
+
+var:
+  started matrix [ root (nchar+1) ] i j k
+  nonmiss[ root ] rlist [ root ] cur seen reverse[ root ] ;
+
+if ( 'started' != ( 773 * nchar * ntax ) )
+   errmsg You havent initialized!!;
+   end 
+
+report - ; 
+
+loop 0 nchar 
+   progress #1 nchar Scrambling ; 
+   set j 0 ;
+   loop 0 ntax
+      if ( states[ #1 #2] == missing ) continue ; end
+      set nonmiss[ 'j' ] #2 ;
+      set reverse [ #2 ] 'j' ; 
+      set j ++ ;
+      stop
+
+   if ( !'j' ) continue ; end 
+       /* if matrix has no non-missing data */
+
+   set rlist randomlist [ 'j' ] ;
+   set j -- ;
+
+   loop 0 'j'
+      set cur 'matrix [ 'nonmiss [ 'rlist [ #2 ]' ]' #1 ]' ;
+      xread =! #1
+         'nonmiss [ #2 ]' $bitset 'cur' ;
+      stop
+   stop
+
+progress/;
+
+set j time ; 
+quote Permuting took '/.0j' sec.; 
+
+report= ;
+
+xread == ;
+
+proc/;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         
+   
+
+
+
+
+
+
