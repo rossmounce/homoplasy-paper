@@ -1,8 +1,6 @@
 #!/bin/bash
 
-#This is a bash script to get XXX on cladistic datasets including the modified Homoplasy Excess Ratio, CI, RI, ci's for each and every character
-#on a dataset of your choice passed to this script as an argument
-#You also need the files 'mher.run', 'reps.txt' , 'stats.run' AND 'cstats.run' in the same dir as this script file
+#This is a bash script to get the average group supports for each dataset
 
 #The MIT License (MIT)
 
